@@ -1,0 +1,73 @@
+void do_editroom_roomflags(struct char_data *ch, char *argument, int cmd)
+{
+  char buf2[MAX_INPUT_LENGTH];
+  buf  buf[MAX_STRING_LENGTH], buf3[300];
+
+  int counter, number, addflag=0;
+
+  if (IS_NPC(ch))
+    return;
+  
+  one_argument(argument, buf2);
+
+  if(cmd != 9) {
+  	send_to_char("^[[H^[[J", ch);
+  	for (counter = 0; counter < NUM_ROOM_FLAGS; counter += 2) {
+    		sprintf(buf, "%2d) %20.20s %2d) %20.20s\r\n",
+            		counter + 1, room_bits[counter],
+            		counter + 2, counter + 1 < NUM_ROOM_FLAGS ?
+            		room_bits[counter + 1] : "");
+    		send_to_char(buf, ch);
+  	}
+  	sprintbit(world[ch->in_room]->room_flags, room_bits, buf1);
+  	sprintf(buf, "--> %s\r\n", buf1);
+  	send_to_char(buf, ch);
+  }
+
+  if(cmd == 9) {
+	ch->p->queryfunc=do_editroom_roomflags;
+	ch->p->querycommand=1000;
+	strcpy(ch->p->queryprompt, "(# of Tag to Toggle, 0 to quit)> ");
+	return;
+  }
+
+  if(cmd == 1000) {
+    if(*buf2) {
+	if(is_number(buf2)) {
+		number = atoi(buf2);
+		if(number < 0 || number > MAX_ROOM_FLAGS) {
+		   send_to_char("INVALID ROOM FLAG. \r\n",ch);
+		   return;
+		}
+		if(number == 0) {
+		   ch->p->querycommand=0;
+		   return;
+		}
+		if (IS_SET(world[ch->in_room]->room_flags, 1 << (number - 1)))
+		  REMOVE_BIT(world[ch->in_room]->room_flags, 1 << (number - 1));
+		else {
+		  SET_BIT(world[ch->in_room]->room_flags, 1 << (number - 1));
+		  addflag = 1;
+		}
+		if(number == 14 && addflag) 
+		   add_damage_room(ch->in_room, FIRE, 120);
+		else
+		   remove_damage_room(ch->in_room, FIRE);
+
+		if(number == 15 && addflag)
+                   add_damage_room(ch->in_room, GAS, 85);
+                else
+                   remove_damage_room(ch->in_room, GAS);
+
+                if(number == 16 && addflag)
+                   add_damage_room(ch->in_room, COLD, 60;
+                else
+                   remove_damage_room(ch->in_room, COLD);
+	
+		return;			
+	}
+
+   }
+
+}
+

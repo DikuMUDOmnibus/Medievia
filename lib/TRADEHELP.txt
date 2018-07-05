@@ -1,0 +1,46 @@
+This file describes the medievia.tradables file
+
+It is our normal TAG/VALUE pair file
+
+#NUM
+Tag Val
+Tag Val
+Tag Val
+#NUM
+Tag Val
+Tag Val
+$
+
+
+File must end with the $ all by itself on the last line as the first
+character.
+
+Numbers must be from 0 to 99
+
+This file DEFINES the tradables....
+
+NAM is name  ONE WORD
+DES is description
+UNI is the unit name of how it is traded, like bushel, dozen, pound, barrel.
+SIZ is the size, an apple is roughly 1
+WGT is weight of tradable, 1 is a pound roughly.
+ORX is the x origen in the holoworld.  This is so we know how much it is
+worth when it is traded,  the farther away the better.
+ORY is the y origen in the holoworld.  This is so we know how much it is
+worth when it is traded,  the farther away the better.
+VAL is the Value/Worth of one of these in gold.
+
+Example file,
+
+#0
+NAM salt~
+DES a barrel of salts..the barrel is sealed and ready for transport.  On the
+barrel is stamped, From the Salt Mines of Yoshi
+~
+UNI barrel~
+SIZ 320 WGT 450 VAL 1600 ORX 1026 ORY 350
+$
+
+Again as in all our new tag/value file types, the syntax is free flowing..
+You can put the stuff in any order on any line and even repeat them if your
+a slob.

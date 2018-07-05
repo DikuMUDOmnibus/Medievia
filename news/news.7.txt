@@ -1,0 +1,18 @@
+                   . .. ... The Medievia ... .. .
+ 
+            _|         _|  _|_|_|_  _|       _|  _|_|_|_|_|
+           _| _|      _|  _|       _|       _|  _|
+          _|   _|    _|  _|_|_|   _|       _|  _|_|_|_|_|   
+         _|     _|  _|  _|       _|  _    _|          _|    
+        _|       _|_|  _|       _| _| _| _|          _|       
+       _|         _|  _|_|_|_| _|_|    _|   _|_|_|_|_|              
+                                             Updated January 17, 1996
+------------------------------------------------------------------------------
+
+This is a reminder.  Medievia IV is not to be discussed in any way on
+medievia III.  You will be removed if it happens again.  If you would like
+to be a part of the development testing team you must abide by this very
+simple rule.  I dont want people saying it is great or saying it sucks or
+anything inbetween.  I dont wantits features discussed in any way anywhere
+or anyhow except on port 4444.  I am VERY serious.
+-Vryce

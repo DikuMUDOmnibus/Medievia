@@ -1,0 +1,1378 @@
+#4016
+The Edge of the Slope~
+You stand atop a steep rocky slope, giving you a view of a small dense forest
+lining the hill's sunken interior like a woven rug of deep emerald. The cries
+of birds from below are easily carried to your ears, and also, you think, an
+odd lilting harmonious sound, as that of strange music.
+~
+73 4 5 7
+0 0 0 0
+0 0 0
+D0
+~
+~
+~
+~
+0 0 63337
+D1
+~
+~
+~
+~
+0 0 63336
+D3
+~
+~
+~
+~
+0 0 63338
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 4017
+S
+#4017
+A Forested Pit~
+The overhanging limbs of jade-green trees dip low, almost brushing the
+ground in many places, giving you the sense that this place is very old.
+Everywhere you look innocent-looking creatures move about through the brush,
+casting shy glances at you.
+~
+73 0 3 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4020
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4018
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4019
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 4016
+S
+#4018
+A Forested Pit~
+The overhanging limbs of jade-green trees dip low, almost brushing the
+ground in many places, giving you the sense that this place is very old.
+Everywhere you look innocent-looking creatures move about through the brush,
+casting shy glances at you.
+~
+73 0 3 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4017
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4022
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4021
+S
+#4019
+A Forested Pit~
+The overhanging limbs of jade-green trees dip low, almost brushing the
+ground in many places, giving you the sense that this place is very old.
+Everywhere you look innocent-looking creatures move about through the brush,
+casting shy glances at you.
+~
+73 0 3 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4017
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4021
+S
+#4020
+A Forested Pit~
+The overhanging limbs of jade-green trees dip low, almost brushing the
+ground in many places, giving you the sense that this place is very old.
+Everywhere you look innocent-looking creatures move about through the brush,
+casting shy glances at you.
+~
+73 0 3 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4022
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4017
+S
+#4021
+A Forested Pit~
+The overhanging limbs of jade-green trees dip low, almost brushing the
+ground in many places, giving you the sense that this place is very old.
+Everywhere you look innocent-looking creatures move about through the brush,
+casting shy glances at you.
+~
+73 0 3 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4019
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4018
+S
+#4022
+A Forested Pit~
+The overhanging limbs of jade-green trees dip low, almost brushing the
+ground in many places, giving you the sense that this place is very old.
+Everywhere you look innocent-looking creatures move about through the brush,
+casting shy glances at you.
+~
+73 0 3 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4020
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4023
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4018
+S
+#4023
+A Dark Forest Path~
+The last of the light falling from the sky is blotted out by the density
+of the leafy canopy above you, but something other than that must be
+creating the sense of gloom you feel stepping onto this dark path.
+All around you seems quiet...too quiet, perhaps, for an average forest.
+~
+73 5 3 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4022
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4024
+S
+#4024
+A Dark Forest Path~
+For the touch of a second distant music, alluring and highly exotic, reaches
+your ears and fills your being with a tremendous sense of longing as you
+wander this forlorn path. Then your attention is drawn to the sight of several
+colorfully-clad strangers with menacing faces lingering to the west of you,
+and you feel oddly very far from the safety of your home.
+~
+73 5 3 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4023
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4025
+S
+#4025
+The Entrance to the Gypsy Camp~
+Several lamps strung on ropes nailed to posts cast a lurid glow over the
+camp's entrance. There is an aura of craftiness that pervades the place,
+and you are reminded by the inquisitive stares of the wary residents
+at your belongings that this band does not make its living by honesty
+and fair-dealing.  You wounder if it isn't more prudent to return to the
+safe walls of the city while your legs are still intact.
+~
+73 0 3 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4024
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4026
+E
+lamp lantern oil~
+A small post runs up to a small sphere that contains a wick and oil.
+The outside glass has been burned to a black charred object.
+~
+S
+#4026
+A Path Through the Gypsy Camp~
+Silvery light dimly illuminates all the paths of the camp from lamps strung
+along ropes that stretch tenuously between tall posts.
+To the east and west the guard posts have been set up, and they look heavily
+maintained. From somewhere to the south, you hear the wild lilt of music,
+exotic and foreign to your ears.
+~
+73 0 3 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4025
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4028
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4029
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4027
+E
+lamp lantern oil~
+A small post runs up to a small sphere that contains a wick and oil.
+The outside glass has been burned to a black charred object.
+~
+S
+#4027
+Guard Post~
+The hastily-erected walls of the post are bare of decoration, for the
+weaponry of a gypsy is always ready in hand, rather than displayed idly
+where it could disappear mysteriously. A single globe of dim light hangs
+suspended by a chain from the ceiling, and by its cast the guards find
+plenty to do to entertain themselves.  This they do mostly by way of high
+stake dice games and sparring matches in which the concept of 'rules'
+is quite foreign.
+~
+73 12 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4026
+E
+orb light~
+A prevailing blue orb hangs in mid air above.  A bright oragnish-white
+shines down on the room.
+~
+S
+#4028
+Guard Post~
+The hastily-erected walls of the post are bare of decoration, for the
+weaponry of a gypsy is always ready in hand, rather than displayed idly
+where it could disappear mysteriously. A single globe of dim light hangs
+suspended by a chain from the ceiling, and by its cast the guards find
+plenty to do to entertain themselves.  This they do mostly by way of high
+stake dice games and sparring matches in which the concept of 'rules'
+is quite foreign.
+~
+73 12 0 7
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4026
+E
+orb light~
+A prevailing blue orb hangs in mid air above.  A bright orangish-white
+shines down on the room.
+~
+S
+#4029
+A Path Through the Gypsy Camp~
+You affect nonchalance in the midst to several loitering gypsies looking
+you over with ill-concealed greed as you pass through the camp. From the
+south the music of another culture, wild and unashamed, quickens your
+pulse, and the path leaves the camp to the north.
+~
+73 0 3 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4026
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4030
+S
+#4030
+The Dancing Ring~
+You pass under many giant oaks hung with lamps on every limb, their silver
+glinting brightly with the many colors of rose, green, amber and blue that
+they have been illuminated with. The eerie, lively music of the gypsy
+minstrels rings out from the players at the edges of the ring, tempting
+you to join in wild dance with the colorfully clad members of the infamous
+band who whirl about in disarray, seeming not to notice you.
+To the south and east lie tents of suppliers to the troup, and the path
+through the camp continues west.
+~
+73 0 3 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4029
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4032
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4033
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4915
+S
+#4031
+A Path Through the Gypsy Camp~
+You wander along the path, wary of the gypsies who loiter everywhere you
+look, with apparently nothing to do other than pass their dark eyes over
+your pockets with casual greed, and smile precariously through thin lips.
+The moon seems to hang over the limbs of the camp's oaks continuously,
+day and night, sending the cold pricks of a shiver down your spine.
+~
+73 0 3 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4916
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4915
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5189
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5975
+S
+#4032
+The Armoury Tent~
+The walls of the tent are bare, but an iron vault can be opened at any time
+for the perusal of the sturdy and often grossly ornamented armor of the
+armourer's private collection. Although he seldom makes a sale, by our
+understanding of the term, he greatly enjoys an opportunity to boast his
+wares.
+~
+73 8 0 7
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4030
+S
+#4033
+The Cook's Tent~
+The smells of the hot spices, customary to gypsies, stings your nose and
+causes the blood to rush to your face just stepping into this narrow place.
+Dingy pans hang unwashed on every wall of the tent, and the earth below
+your feet seems slippery from countless drunken spills of oily food.
+You do not need a town doctor to warn you that anything made here would
+eat a hole in your stomach.
+~
+73 8 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4030
+S
+#4915
+A Path Through the Gypsy Camp~
+You wander along the path, wary of the gypsies who loiter everywhere you
+look, with apparently nothing to do other than pass their dark eyes over
+your pockets with casual greed, and smile precariously through thin lips.
+The moon seems to hang over the limbs of the camp's oaks continuously,
+day and night, sending the cold pricks of a shiver down your spine.
+~
+73 0 3 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4030
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5187
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4031
+S
+#4916
+The Gambling Tent~
+You step into a warm, spacious tent, its walls hung with braided cords
+of black and dark red for meager decoration. The breeze that flows in
+from the entrance to the south is not enough to air out the stench of
+ale, perfumed oils and sweat that hangs about the whole tent. Seasoned
+gamblers eye you and make amiable smiles that contradict the hungry
+gleams in their eyes. They obviously take all townsfolk for foolish
+novices, and look forward to a profit.
+~
+73 8 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4918
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6131
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4031
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4917
+S
+#4917
+The Gambling Tent~
+You follow the dark rug through the tent, feeling the inquisitive eyes of
+gypsies on your back. The odors of tobacco smoke and wine come thick
+from the north and south, where card tables and players await your
+feeble attempts at luck.
+~
+73 8 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6132
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4916
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4920
+S
+#4918
+The Vault of Stolen Goods [ATM]~
+Old vaults of an unknown metal, patched with rust, line the walls of
+the treasury of the funds of the gypsy people. Through briberies which
+you dare not question, they have gained some limited access to the town
+treasuries, so that citizens visiting can withdraw before they are slain
+by gypsy steel. Perhaps you should be careful.
+~
+73 12 0 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4916
+S
+#4920
+A Card Table~
+You step into a room furnished with a rug of deep red and a round oak
+table, old and cracked from the banging fists of rowdy gypsies. No
+one but you seems to notice the few corpses that lie quietly piled in
+a corner. The room is lit by dim, dull crimson and white glows from
+two lamps, and you find this light so conducive to trying your own
+luck that you, too, soon forget.
+~
+73 12 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4917
+S
+#5187
+Tent of Weaponry~
+The bare walls and sealed iron vault of this tent amplify the aura of
+paranoia that already hangs about the camp like a cold blanket of fog.
+At any time, however, the weapons holder would be pleased to show you
+his gruesome array of goods under his watchful eye. The question only
+remains where you would be shown them, and he is known to prefer the
+throat.
+~
+73 8 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4915
+S
+#5189
+A Path Through the Gypsy Camp~
+You wander along the path, wary of the gypsies who loiter everywhere you
+look, with apparently nothing to do other than pass their dark eyes over
+your pockets with casual greed, and smile precariously through thin lips.
+The moon seems to hang over the limbs of the camp's oaks continuously,
+day and night, sending the cold pricks of a shiver down your spine.
+~
+73 0 3 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4031
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5192
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5190
+S
+#5190
+A Gypsy Shanty~
+You step into a small shanty, built of canvas, tarps, and posts and
+furnished with layers of shaggy rugs that provide the perfect home to
+a number of insects. The barefoot residents do not notice this however,
+in fact at the moment they seem quite too preoccupied with your uninvited
+presence to notice much of anything else. They do not seem inclined to
+hospitality, perhaps it would be better not to stay?
+~
+73 8 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5189
+S
+#5192
+A Path Through the Gypsy Camp~
+Shadows shift and dance along the path floor in hypnotic patterns as a wind
+blows lightly. The hanging lamps swing gently back and forth, causing the
+dim light they cast to illuminate different sides of the small shrubs and
+forest herbs of the place. Everywhere you go through this residential area
+the lurid eyes of gypsies are on you, and you wonder if they will wait for
+an excuse to show their fighting prowess. Is it that they do not appreciate
+a stranger so close to their homes?
+~
+73 0 3 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5189
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5252
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5976
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5193
+S
+#5193
+A Gypsy Shanty~
+You step into a small shanty, built of canvas, tarps, and posts and
+furnished with layers of shaggy rugs that provide the perfect home to
+a number of insects. The barefoot residents do not notice this however,
+in fact at the moment they seem quite too preoccupied with your uninvited
+presence to notice much of anything else. They do not seem inclined to
+hospitality, perhaps it would be better not to stay?
+~
+73 8 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5192
+S
+#5252
+A Gypsy Shanty~
+You step into a small shanty, built of canvas, tarps, and posts and
+furnished with layers of shaggy rugs that provide the perfect home to
+a number of insects. The barefoot residents do not notice this however,
+in fact at the moment they seem quite too preoccupied with your uninvited
+presence to notice much of anything else. They do not seem inclined to
+hospitality, perhaps it would be better not to stay?
+~
+73 8 0 7
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5192
+S
+#5975
+A Crumbling Gypsy Wagon~
+You pass the remains of a broken down, red-painted wagon, in which huddles
+some hungry gypsy children among some blankets still sodden from the last
+rain. This wagon may be perhaps what is left of living so close to the
+gambling tent.
+~
+73 0 3 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4031
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6043
+S
+#5976
+A Path Through the Gypsy Camp~
+The path twists to the east here, and to the west, obscured in shadows,
+lies the Hall of Rogues, which seems to be a sort of band meeting place.
+A small shanty is to the south, overhung with the limbs of oaks that make
+up the hidden camp's cover.
+~
+73 0 3 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5192
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5978
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5979
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5977
+S
+#5977
+Hall of Rogues~
+OoooOOps!
+You seem to have stumbled into the middle of a secret and guarded
+meeting. In the short time before you are attacked, it is obvious
+that some kind of raid is being planned that you were not meant to
+overhear. Several high-ranking gypsies are seated and standing around
+a large oak table in heated discussion, amidst half-drained silver
+goblets and scattered maps. They cannot let you return where you came
+from with such information, now, could they?
+~
+73 12 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5976
+S
+#5978
+A Path Through the Gypsy Camp~
+The path seems to end here, as a cave opens up to the east, and a tent
+that seems more lavishly decorated than the others lies to the north.
+Smells so richly exotic as to be tawdry drift thickly out of the lit
+interior of the cave, and you can catch glimpses of expensive rugs,
+golden candlesticks, and other fineries inside. Such wealth can only
+belong to the chief of this troup.
+~
+73 0 3 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5980
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5981
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5976
+S
+#5979
+A Gypsy Shanty~
+You step into a small shanty, built of canvas, tarps, and posts and
+furnished with layers of shaggy rugs that provide the perfect home to
+a number of insects. The barefoot residents do not notice this however,
+in fact at the moment they seem quite too preoccupied with your uninvited
+presence to notice much of anything else. They do not seem inclined to
+hospitality, perhaps it would be better not to stay?
+~
+73 8 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5976
+S
+#5980
+Tent of the GuardsMaster~
+ You step warily into the tent of the GuardsMaster, and are awed by the display
+of shining weaponry and armor inside crystal glass cabinets. In contrast to the
+homes of others of this band, the place is fastidiously clean: a squarely
+arranged black rug, polished oak table, two silver goblets set in symmetry with
+two candlesticks of the same precious metal. The Master must be terribly
+confident in his abilities to allow such a conspicuous display of wealth.
+Luckily for you, he is not in at the moment.
+~
+73 12 0 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5978
+S
+#5981
+Cave Entrance~
+By your own light only do you see the guards leap at you, their mouths
+twisted into perverse grins with the pleasure of killing, for the
+entrance is dark as pitch. The light from within is quite dim.
+~
+73 13 0 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5982
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5978
+S
+#5982
+Cave of The Gypsy Chief~
+You pass through an arch in the cave into the high ceilinged lair
+of the Gypsy Leader, filled with the smoke of voluptuous incense
+to cover the natural dank smells of the cave. Thick foreign rugs
+comfort your feet, crimson candles flicker from their ornate
+holders and downy black sofas adorn the place. What takes first
+priority in your awareness, however, is the rage of the Chief
+that you have so carelessly invaded his sanctuary.
+~
+73 8 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5981
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5985
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5984
+S
+#5983
+The Chief's Kitchen~
+ The first thing that catches your eye about this high-ceilinged room are the
+numerous knives of all shapes and sizes that dangle above you, shimmering in
+the play of light from a few greasy brass lamps. Its a pity you didnt notice
+the wire strung low and inconspicuous across the entrance near the floor. Any
+gypsy could have told you the Chief's cook has a strange sense of humor.
+~
+73 8 0 0
+0 0 0 0
+0 0 0
+S
+#5984
+The Dining Corner~
+The curved walls of rock and earth have been laid over with tapestries from
+the far east, and a long table of cherrywood rests in the room's center,
+adorned with dark green candles in golden holders. You can still smell
+what was eaten here at the last meal of the Chief...and though it is
+doubtless delicious to them, you know it would take quite some inducement
+for you to dine on what must be heavily spiced refuse.
+~
+73 8 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5982
+S
+#5985
+The Sleeping Quarters~
+A downy four-poster bed sits against the south wall, covered with blankets
+of crimson and black that look very comfy indeed. A single black candle
+on a small oak table by the bed lights the room. The earth below the
+crimson rug beneath your feet strikes you as being a trifle too hollow.
+~
+73 9 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5982
+D5
+A richly ornamented brocade rug does not fully hide the trapdoor leading
+down beneath, once you inspect it.
+~
+rug~
+$n disappears into the shadows below.~
+$n creeps down and closes the rug quietly.~
+1 1505 5986
+S
+#5986
+The Secret Vault of the Chief~
+You descend into a pit shabbily hollowed out and containing only one
+item worth your notice, which your eyes rest on immediately: a vault of
+a metal thicker than iron, stronger than gold. At least, it looks that
+way to you. The whole place is rather daunting, seeing as you should
+probably not be caught here.
+~
+73 9 0 7
+0 0 0 0
+0 0 0
+D4
+ ~
+rug~
+ ~
+$n opens up the rug and clambers out.~
+1 1505 5985
+S
+#6043
+A Path Through the Gypsy Camp~
+You wander along the path, wary of the gypsies who loiter everywhere you
+look, with apparently nothing to do other than pass their dark eyes over
+your pockets with casual greed, and smile precariously through thin lips.
+The moon seems to hang over the limbs of the camp's oaks continuously,
+day and night, sending the cold pricks of a shiver down your spine.
+~
+73 0 3 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5975
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6121
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6122
+S
+#6121
+A Muddy Pool~
+You wade into the muddy, shallow waters that is the water supply of the
+dingy camp. There is a raised slab of mud in the center, just wide enough
+to sleep on, and a few scattered water lilies manage to brighten an other-
+wise dreary place.
+~
+73 0 6 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6043
+S
+#6122
+A Path Through the Gypsy Camp~
+You pass into a residential area of the camp, as you can tell by the
+scattered hastily-constructed shanties, as well as the more defensive
+than amused glares of the gypsies who call this their home. Their
+obvious hostility is more than alarming, considering their numbers.
+~
+73 0 3 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6043
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6124
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6123
+S
+#6123
+A Path Through the Gypsy Camp~
+ The limbs of the giant oaks surrounding you bend low and rise again over the
+path like the graceful swoop of a bird. You have to duck to go under them, the
+leaves brushing your face. Wild herbs grow everywhere just off the paths,
+sending their mild scents up into the air.
+~
+73 0 3 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6122
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6126
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6125
+S
+#6124
+A Gypsy Shanty~
+You step into a small shanty, built of canvas, tarps, and posts and
+furnished with layers of shaggy rugs that provide the perfect home to
+a number of insects. The barefoot residents do not notice this however,
+in fact at the moment they seem quite too preoccupied with your uninvited
+presence to notice much of anything else. They do not seem inclined to
+hospitality, perhaps it would be better not to stay?
+~
+73 8 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6122
+S
+#6125
+A Gypsy Shanty~
+You step into a small shanty, built of canvas, tarps, and posts and
+furnished with layers of shaggy rugs that provide the perfect home to
+a number of insects. The barefoot residents do not notice this however,
+in fact at the moment they seem quite too preoccupied with your uninvited
+presence to notice much of anything else. They do not seem inclined to
+hospitality, perhaps it would be better not to stay?
+~
+73 8 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6123
+S
+#6126
+A Path Through the Gypsy Camp~
+ The limbs of the giant oaks surrounding you bend low and rise again over the
+path like the graceful swoop of a bird. You have to duck to go under them, the
+leaves brushing your face. Wild herbs grow everywhere just off the paths,
+sending their mild scents up into the air.
+~
+73 0 3 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6123
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6127
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6128
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6129
+S
+#6127
+A Gypsy Shanty~
+You step into a small shanty, built of canvas, tarps, and posts and
+furnished with layers of shaggy rugs that provide the perfect home to
+a number of insects. The barefoot residents do not notice this however,
+in fact at the moment they seem quite too preoccupied with your uninvited
+presence to notice much of anything else. They do not seem inclined to
+hospitality, perhaps it would be better not to stay?
+~
+73 8 0 7
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6126
+S
+#6128
+A Gypsy Shanty~
+You step into a small shanty, built of canvas, tarps, and posts and
+furnished with layers of shaggy rugs that provide the perfect home to
+a number of insects. The barefoot residents do not notice this however,
+in fact at the moment they seem quite too preoccupied with your uninvited
+presence to notice much of anything else. They do not seem inclined to
+hospitality, perhaps it would be better not to stay?
+~
+73 8 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6126
+S
+#6129
+A Path Through the Gypsy Camp~
+The sounds of the wild music have receded to the distant part of the camp,
+and the birds and other wildlife seem mysteriously hushed along this path.
+Thick exotic scents waft in from the covered wagon to the west, and a strange
+glowing aura exudes from that place that fills you with a sense of mystery.
+The path returns through the camp to the east.
+~
+73 0 3 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6126
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6130
+S
+#6130
+The Fortune Teller's Wagon~
+Three dozen strange baubles dangle tantalizingly from the ceiling of this
+wagon covered with several layers of thick black canvas. Fur-lined pillows
+lie in massive piles, the rich scents of fine amber and frankincense dull
+your senses, and a voluptuous woman is seductively draped over a low couch
+of burgundy. On a small table rests a large rose-colored crystal ball,
+and upon one wall hang seedy portraits of the brothers of the fortune teller:
+all twenty-eight of them, armed and ready to defend this 'helpless' woman
+should she give one cry for help.
+~
+73 12 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6129
+S
+#6131
+The Gypsy Jug~
+Even the gypsies, with their fame in legends for alcohol consumption
+such as puts the greatest warriors to shame, have their limits, as
+you can see by the many slumbering bodies that litter this tavern,
+stinking of ale. So this is where your stolen pocket money goes.
+~
+73 8 0 7
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4916
+S
+#6132
+The Gambling Tent~
+You follow the dark rug through the tent, feeling the inquisitive eyes of
+gypsies on your back. The odors of tobacco smoke and wine come thick
+from the north and south, where card tables and players await your
+feeble attempts at luck.
+~
+73 8 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6133
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4917
+S
+#6133
+The Chief's Card Table~
+Fine cabinets of old mahogany, locked and guarded, hold the Gypsy Chief's
+private stash of liquors and gold. Soft, worn velvet of ebony and dark red
+is draped in dipping arcs across all the walls--this place alone smells
+of sweet amber from far away, and rich, well-grown tobacco. The round
+table is of the same old precious mahogany, and is carefully watched by
+guards for signs of cheaters. The Chief himself, of course, may cheat all
+he likes.
+~
+73 12 0 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6132
+S
+#19999
+$~

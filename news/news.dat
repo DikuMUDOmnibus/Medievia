@@ -1,0 +1,4 @@
+11
+This file keeps track of the news.txt version.  The number above should
+simply be increased everytime the news file is changed.  Players prompts
+will have the word NEWS in front until they read it.

@@ -1,0 +1,81 @@
+locker.c:    sprintf(locker->filename,"%s/%c/%s.usi2", SAVE_DIR, LOWER(name[0]),name);
+locker.c:	if((fh=med_open(locker->filename,"r"))!=NULL){
+locker.c:	    sprintf(locker->filename,"%s/%c/%s.usi", SAVE_DIR, LOWER(name[0]),name);
+locker.c:	    if((fh=med_open(locker->filename,"r"))!=NULL){
+locker.c:	    sprintf(locker->filename,"%s/%c/%s.usi2",SAVE_DIR,LOWER(name[0]),name);
+locker.c:    if((fh=med_open(locker->filename, "r"))!=NULL){
+locker.c:        locker->rented=1;
+locker.c:        fread(&locker->opened, sizeof(char),1,fh);
+locker.c:        fread(&locker->day, sizeof(int),1,fh);
+locker.c:        fread(&locker->month, sizeof(int),1,fh);
+locker.c:        fread(&locker->year, sizeof(int),1,fh);
+locker.c:        fread(&locker->insurance, sizeof(long),1,fh);
+locker.c:            fread(&locker->items[counter], sizeof(struct obj_file_elem), 1, fh);
+locker.c:       	    while(locker->items[counter].item_number){
+locker.c:            	locker->value+=locker->items[counter].value[0];
+locker.c:            	fread(&locker->items[++counter], sizeof(struct obj_file_elem),1,fh);
+locker.c:		elem_from_object(obj, &locker->items[counter]);
+locker.c:		locker->value+=locker->items[counter].value[0];
+locker.c:            while(locker->items[counter].item_number){
+locker.c:            	    elem_from_object(obj, &locker->items[++counter]);
+locker.c:            	    locker->value+=locker->items[counter].value[0];
+locker.c:	    unlink(locker->filename);
+locker.c:	    sprintf(locker->filename,"%s/%c/%s.usi2", SAVE_DIR, LOWER(name[0]),name);
+locker.c:	locker->num_items = counter;
+locker.c:    if(!locker->rented){
+locker.c:    if(!locker->opened){
+locker.c:    if(locker->opened==10){
+locker.c:	for(x=0;x<locker->num_items;x++){
+locker.c:	    obj=read_object(locker->items[x].item_number,0);
+locker.c:		object_from_elem(obj,locker->items[x]);
+locker.c:		sprintf(log_buf,"Get all  in locker objec #%d doesn't exist",locker->items[x].item_number);
+locker.c:	locker->num_items=0;
+locker.c:	for(x=0;x<locker->num_items;x++){
+locker.c:	    obj=read_object(locker->items[x].item_number,0);
+locker.c:	       	sprintf(log_buf,"Get1 in locker object #%d doesn't exist",locker->items[x].item_number);
+locker.c:		for(y=x;y<locker->num_items-1;y++)        
+locker.c:		    locker->items[y]=locker->items[y+1];  
+locker.c:		    locker->num_items--;
+locker.c:		    object_from_elem(obj, locker->items[x]);
+locker.c:	obj=read_object(locker->items[found].item_number,0);
+locker.c:	object_from_elem(obj, locker->items[found]);
+locker.c:    if(locker->num_items>0){
+locker.c:	for(x=found;x<locker->num_items-1;x++)
+locker.c:	    locker->items[x]=locker->items[x+1];
+locker.c:	zero_one_elem(&locker->items[locker->num_items-1]);
+locker.c:    if(!locker->rented){
+locker.c:    if(!locker->opened){
+locker.c:	now_num=locker->num_items;
+locker.c:	    if(locker->num_items>=MAX_LOCKER_ITEMS){
+locker.c:	            locker->items[locker->num_items]=object;
+locker.c:	            locker->num_items++;
+locker.c:	if(locker->num_items!=now_num)
+locker.c:	if(locker->num_items>=MAX_LOCKER_ITEMS){
+locker.c:            locker->items[locker->num_items]=object;
+locker.c:            locker->num_items++;
+locker.c:		locker->month     = thetime->tm_mon+1;
+locker.c:		locker->year      = thetime->tm_year;
+locker.c:		locker->day       = thetime->tm_mday;
+locker.c:		locker->opened    = 0;
+locker.c:		locker->rented	  = 1;
+locker.c:		locker->insurance = 0;
+locker.c:		locker->num_items = 0;
+locker.c:		if(locker->month>12){locker->month=1;locker->year++;}
+locker.c:	if(locker->month>=12){
+locker.c:	    locker->month=0;
+locker.c:	    locker->year++;
+locker.c:	}else{locker->month++;}
+locker.c:		    sprintf(buf,"%s's locker rent is paid up till %d/%d/%d.\n\r",GET_NAME(ch),locker->month+1,locker->day,locker->year);
+locker.c:	if((fh=med_open(locker->filename, "w"))!=NULL){
+locker.c:		numdone = fwrite(&locker->opened, sizeof(char),1,fh);
+locker.c:		numdone=fwrite(&locker->day,sizeof(int),1,fh);
+locker.c:		numdone=fwrite(&locker->month, sizeof(int), 1,fh);
+locker.c:		numdone=fwrite(&locker->year, sizeof(int), 1, fh);
+locker.c:		numdone=fwrite(&locker->insurance, sizeof(long), 1, fh);
+locker.c:		for(x=0;x<locker->num_items;x++){
+locker.c:			fwrite(&locker->items[x], sizeof(struct obj_file_elem), 1, fh);
+locker.c:				sprintf(buf, "Your locker rent is paid up to %d/%d/%d.\n\r", locker->month+1, locker->day, locker->year);
+locker.c:    dayspaidfor=(locker->year*365)+(30*locker->month)+locker->day;
+locker.c:		unlink(locker->filename);
+locker.c:    locker->items[locker->num_items]=fobj;
+locker.c:	locker->num_items++;

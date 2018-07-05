@@ -1,0 +1,2259 @@
+#300
+The Entrance to the Labyrinth~
+You have just entered the Labyrinth! This maze is made up of stone walls
+about ten feet high, with no ceilings. Every part of the hallways are
+indentical, making it very easy to get your sorry ass lost forever.  Newbies
+may want to visit the information center located to the south.
+~
+3 0 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 301
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 391
+S
+#301
+The Labyrinth~
+In the Labyrinth
+~
+3 0 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 302
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 300
+S
+#302
+The Labyrinth~
+In the Labyrinth
+~
+3 0 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 303
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 301
+S
+#303
+The Labyrinth~
+In the Labyrinth
+~
+3 0 1 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 304
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 302
+S
+#304
+The Labyrinth~
+In the Labyrinth
+~
+3 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 303
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 351
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 306
+S
+#305
+The Goblin Castle Gates~
+Before you stands the entrance to the mysterious Goblin Castle.  To west you
+can enter into the gates. In the ground is a dark, forbidding hole leading
+into the Labyrinth.
+~
+3 0 1 7
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 400
+D5
+ ~
+ ~
+ ~
+$n descends from the hole on the rickety ladder~
+1 -1 367
+S
+#306
+The Labyrinth~
+In the Labyrinth
+~
+3 0 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 304
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 307
+S
+#307
+The Labyrinth~
+In the Labyrinth
+~
+3 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 306
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 308
+S
+#308
+The Labyrinth~
+In the Labyrinth
+~
+3 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 307
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 309
+S
+#309
+The Labyrinth~
+In the Labyrinth
+~
+3 0 1 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 310
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 308
+S
+#310
+The Labyrinth~
+In the Labyrinth
+~
+3 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 309
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 348
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 311
+S
+#311
+The Labyrinth~
+In the Labyrinth
+~
+3 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 310
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 312
+S
+#312
+The Labyrinth~
+In the Labyrinth
+~
+3 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 311
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 313
+S
+#313
+The Labyrinth~
+In the Labyrinth
+~
+3 0 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 314
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 312
+S
+#314
+The Labyrinth~
+In the Labyrinth
+~
+3 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 358
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 315
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 313
+S
+#315
+The Labyrinth~
+In the Labyrinth
+~
+3 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 316
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 314
+S
+#316
+The Labyrinth~
+In the Labyrinth
+~
+3 0 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 317
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 315
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 358
+S
+#317
+The Labyrinth~
+In the Labyrinth
+~
+3 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 318
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 316
+S
+#318
+The Labyrinth~
+In the Labyrinth
+~
+3 0 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 319
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 317
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 356
+S
+#319
+The Labyrinth~
+In the Labyrinth
+~
+3 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 392
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 320
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 318
+S
+#320
+The Labyrinth~
+In the Labyrinth
+~
+3 0 1 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 321
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 319
+S
+#321
+The Labyrinth~
+In the Labyrinth
+~
+3 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 320
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 322
+S
+#322
+The Labyrinth~
+In the Labyrinth
+~
+3 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 321
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 323
+S
+#323
+The Labyrinth~
+In the Labyrinth
+~
+3 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 322
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 324
+S
+#324
+The Labyrinth~
+In the Labyrinth
+~
+3 0 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 323
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 325
+S
+#325
+The Labyrinth~
+In the Labyrinth
+~
+3 0 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 324
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 326
+S
+#326
+The Labyrinth~
+In the Labyrinth
+~
+3 0 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 325
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 327
+S
+#327
+The Labyrinth~
+In the Labyrinth
+~
+3 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 326
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 328
+S
+#328
+The Labyrinth~
+In the Labyrinth
+~
+3 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 327
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 359
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 329
+S
+#329
+The Labyrinth~
+In the Labyrinth
+~
+3 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 328
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 330
+S
+#330
+The Labyrinth~
+In the Labyrinth
+~
+3 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 329
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 331
+S
+#331
+The Labyrinth~
+In the Labyrinth
+~
+3 0 1 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 332
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 330
+S
+#332
+The Labyrinth~
+In the Labyrinth
+~
+3 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 331
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 333
+S
+#333
+The Labyrinth~
+In the Labyrinth, there is an Armor Shoppe to the west, and a Weapons Shoppe
+to the east.
+~
+3 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 332
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 390
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 334
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 389
+S
+#334
+The Labyrinth~
+In the Labyrinth, you smell something cooking to the west. And can see an
+Apothecary to the east.
+~
+3 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 333
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 388
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 335
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 387
+S
+#335
+The Labyrinth~
+In the Labyrinth
+~
+3 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 334
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 336
+S
+#336
+The Labyrinth~
+In the Labyrinth
+~
+3 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 335
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 337
+S
+#337
+The Labyrinth~
+In the Labyrinth
+~
+3 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 381
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 336
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 380
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 338
+S
+#338
+The Labyrinth~
+In the Labyrinth
+~
+3 0 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 337
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 339
+S
+#339
+The Labyrinth~
+In the Labyrinth
+~
+3 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 340
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 338
+S
+#340
+The Labyrinth~
+In the Labyrinth
+~
+3 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 341
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 339
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 382
+S
+#341
+The Labyrinth~
+In the Labyrinth
+~
+3 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 342
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 383
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 340
+S
+#342
+The Labyrinth~
+In the Labyrinth
+~
+3 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 343
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 341
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 384
+S
+#343
+The Labyrinth~
+In the Labyrinth
+~
+3 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 344
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 342
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 385
+S
+#344
+The Labyrinth~
+In the Labyrinth
+~
+3 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 345
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 343
+S
+#345
+The Labyrinth~
+In the Labyrinth
+~
+3 0 1 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 344
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 346
+S
+#346
+The Labyrinth~
+In the Labyrinth
+The sound of a low, vicious snarling can be heard from the west.
+~
+3 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+AAAAAAAAHHHHHHH! *THUD* $n falls through the trapdoor in the ceiling and
+lands at your feet.~
+1 -1 386
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 345
+D3
+ ~
+ ~
+ ~
+$n plumits into the room landing with a loud thud!~
+1 -1 347
+S
+#347
+The Pit~
+You have fallen victum to a terrible trap.
+It is dark...
+~
+3 1 1 7
+0 0 0 0
+0 0 0
+S
+#348
+The Labyrinth~
+In the Labyrinth
+~
+3 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 349
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 357
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 310
+S
+#349
+The Labyrinth~
+In the Labyrinth
+~
+3 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 350
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 348
+S
+#350
+The Labyrinth~
+In the Labyrinth
+~
+3 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 351
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 349
+S
+#351
+The Labyrinth~
+In the Labyrinth
+~
+3 0 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 352
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 350
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 304
+S
+#352
+The Labyrinth~
+In the Labyrinth
+~
+3 0 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 353
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 351
+S
+#353
+The Labyrinth~
+In the Labyrinth
+~
+3 0 1 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 354
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 352
+S
+#354
+The Labyrinth~
+In the Labyrinth
+~
+3 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 353
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 355
+S
+#355
+The Labyrinth~
+In the Labyrinth
+~
+3 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 354
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 356
+S
+#356
+The Labyrinth~
+In the Labyrinth
+~
+3 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 355
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 318
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 357
+S
+#357
+The Labyrinth~
+In the Labyrinth
+~
+3 0 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 356
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 358
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 348
+S
+#358
+The Labyrinth~
+In the Labyrinth
+~
+3 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 357
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 316
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 314
+S
+#359
+The Labyrinth~
+In the Labyrinth
+~
+3 0 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 361
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 360
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 328
+S
+#360
+The Labyrinth~
+In the Labyrinth
+~
+3 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 359
+S
+#361
+The Labyrinth~
+In the Labyrinth
+~
+3 0 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 362
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 359
+S
+#362
+The Labyrinth~
+In the Labyrinth
+~
+3 0 1 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 363
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 361
+S
+#363
+The Labyrinth~
+In the Labyrinth
+~
+3 524288 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 362
+S
+#364
+The Labyrinth~
+This is a damp, dark subterranean passage.
+~
+3 1 1 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 366
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 365
+S
+#365
+The Labyrinth~
+This is a damp, dark subterranean passage.
+~
+3 1 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 386
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 364
+S
+#366
+The Labyrinth~
+This is a damp, dark subterranean passage.
+~
+3 1 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 364
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 368
+S
+#367
+Bottom of Ladder~
+Attached to the wall, is a rickety, wooden ladder leading up into a hole
+in the ceiling.  Daylight shines through the hole.
+~
+3 1 1 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 371
+D4
+ ~
+ ~
+ ~
+$n emerges from the dark forbidding hole in the ground.~
+1 -1 305
+S
+#368
+The Labyrinth~
+This is a damp, dark subterranean passage.
+~
+3 1 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 366
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 369
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 370
+S
+#369
+The Labyrinth~
+This is a damp, dark subterranean passage.
+~
+3 1 1 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 371
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 368
+S
+#370
+The Labyrinth~
+This is a damp, dark subterranean passage.
+~
+3 1 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 368
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 371
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 373
+S
+#371
+The Labyrinth~
+This is a damp, dark subterranean passage.
+~
+3 1 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 369
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 372
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 367
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 370
+S
+#372
+The Labyrinth~
+This is a damp, dark subterranean passage.
+~
+3 1 1 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 375
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 371
+S
+#373
+The Labyrinth~
+This is a damp, dark subterranean passage.
+~
+3 1 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 370
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 378
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 374
+S
+#374
+The Labyrinth~
+This is a damp, dark subterranean passage.
+~
+3 1 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 373
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 379
+S
+#375
+The Labyrinth~
+This is a damp, dark subterranean passage.
+~
+3 1 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 372
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 376
+S
+#376
+The Labyrinth~
+This is a damp, dark subterranean passage.
+~
+3 1 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 375
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 377
+S
+#377
+The Labyrinth~
+This is a damp, dark subterranean passage.
+~
+3 1 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 376
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 378
+S
+#378
+The Labyrinth~
+This is a damp, dark subterranean passage.
+~
+3 1 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 373
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 377
+S
+#379
+The Labyrinth~
+The hallway comes to a deadend here.  Hanging from the ceiling is a piece of
+rope which happens to be connected to a trapdoor.
+~
+3 1 1 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 374
+D4
+ ~
+trapdoor~
+ ~
+$n emerges from the trapdoor in the floor.
+You hear noise which sounds exactly like someone barring the door from the
+other side.~
+1 -1 399
+S
+#380
+The Labyrinth~
+In the Labyrinth
+~
+3 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 337
+S
+#381
+The Labyrinth~
+In the Labyrinth
+~
+3 0 1 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 337
+S
+#382
+The Labyrinth~
+In the Labyrinth
+~
+3 0 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 340
+S
+#383
+The Labyrinth~
+In the Labyrinth
+~
+3 0 1 0
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 341
+S
+#384
+The Labyrinth~
+In the Labyrinth
+~
+3 0 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 342
+S
+#385
+The Labyrinth~
+In the Labyrinth
+~
+3 0 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 343
+S
+#386
+Bottom of Trapdoor~
+The floor below you, now the ceiling above you, opened up and emptied you
+into this room.  Your butt is still sore from the landing.
+This is a damp, dark subterranean passage.
+~
+3 1 1 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 365
+S
+#387
+Labyrinth Food Court~
+Welcome to the Labyrinth Food Court
+~
+3 1028 1 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 334
+S
+#388
+The Labyrinth Apothecary~
+Welcome to the Labyrinth Apothecary
+~
+3 1028 1 7
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 334
+S
+#389
+Labyrinth Armor Shoppe~
+Welcome to the Labyrinth Armor Shoppe
+~
+3 1028 1 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 333
+S
+#390
+Labyrinth Weapon Shoppe~
+Welcome to the Labyrinth Weapon Shoppe.
+~
+3 1028 1 7
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 333
+S
+#391
+Labyrinth Information Center~
+This is the Labyrinth Information Center.
+Items: Magic Mouth
+~
+3 0 1 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 300
+E
+magic mouth~
+The Magic Mouth Speaks!
+   "Greetings adventurer, you are about to wander into the Labyrinth of
+Medievia, where all things are possible, and you will do battle with many
+varieties of creatures, find a few treasures, and if you're lucky, find the
+mysterious Goblin Castle, where you will probably be killed by the Goblin
+King! Good luck to you, adventurer."
+   "Oh yes, I almost forgot, bring a light source and BEWARE OF PITFALLS!"
+The Magic Mouth closes.
+~
+S
+#392
+The Labyrinth~
+In the Labyrinth
+~
+3 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 393
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 319
+S
+#393
+The Labyrinth~
+In the Labyrinth
+~
+3 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 394
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 392
+S
+#394
+The Labyrinth~
+In the Labyrinth
+~
+3 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 395
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 393
+S
+#395
+The Labyrinth~
+In the Labyrinth
+~
+3 0 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 396
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 394
+S
+#396
+The Labyrinth~
+In the Labyrinth
+~
+3 0 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 397
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 395
+S
+#397
+The Labyrinth~
+In the Labyrinth
+~
+3 0 1 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 398
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 396
+S
+#398
+The Labyrinth~
+In the Labyrinth
+~
+3 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 397
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 399
+S
+#399
+The Labyrinth~
+The hallway comes to a dead end here. However, you can barely make out the
+outline a trapdoor in the floor.
+~
+3 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 398
+D5
+ ~
+trapdoor~
+ ~
+ ~
+1 -1 379
+S
+#774
+On the River Courrain, at a Waterfall~
+You travel the river Courrain, the water is calm, the waterfall looms just
+ahead of you, like a giant drop off the edge of the planet. Great mists of
+white spray your face from the clash of the water below. A huge rock defies
+all laws of nature by sticking out in the center of the river, right at the
+edge of the waterfall, as the water passes around it, as if it had every right
+to be there and the river did not.
+~
+3 4 7 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1676
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1675
+D5
+Massive amounts of water fall over the edge, crashing against the stones
+in the river below.  Going over the edge would mean certain death.
+~
+ ~
+$n goes over the edge of the falls...~
+$n falls into the water from hundreds of feet above.~
+1 -1 775
+S
+#775
+Base of a Massive Waterfall~
+The ground shakes and rumbles with the power of the waterfall crashing
+into the river.  Many jagged rocks sit under the falls, receiving the
+full force of the falling water.  Light mist fills the air.  A dense
+forest lies beyond the river bank on each side of you.
+~
+3 0 7 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1672
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1674
+S
+#1672
+In a Forest~
+Tall trees and exotic bushes surround you.  The faint scent of wild
+flowers and sweet nectar fill the air.  You hear the sounds of small
+unseen woodland creatures all around you.  To the north is a steep,
+rocky embankment which seems to level off to the east.
+~
+3 0 3 1
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1676
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 775
+S
+#1674
+In a Forest~
+Tall trees and exotic bushes surround you. The faint scent of wild
+flowers and sweet nectar fill the air. You hear the sounds of small
+unseen woodland creatures all around you. To the north is a steep,
+rocky embankment which seems to level off to the west.
+~
+3 0 3 1
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1675
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 775
+S
+#1675
+In a Forest~
+Tall trees and exotic bushes surround you. The faint scent of wild
+flowers and sweet nectar fill the air. You hear the sounds of small
+unseen woodland creatures all around you. To the south is a steep,
+rocky embankment, sloping downward. It seems to level off to the
+west.
+~
+3 0 3 1
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 774
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1674
+S
+#1676
+In a Forest~
+Tall trees and exotic bushes surround you. The faint scent of wild
+flowers and sweet nectar fill the air. You hear the sounds of small
+unseen woodland creatures all around you. To the south is a steep,
+rocky embankment, sloping downward.  It seems to level off to the
+east.
+~
+3 0 3 1
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1672
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 774
+S
+#19999
+$~

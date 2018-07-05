@@ -1,0 +1,6752 @@
+
+*** Modified files in JOE when it aborted on Tue Sep 26 19:32:56 1995
+*** JOE was aborted by signal 15
+
+*** File '(Unnamed)'
+DrSearch
+
+*** File 'act_move.c'
+/***************************************************************************
+*		 MEDIEVIA CyberSpace Code and Data files		   *
+*       Copyright (C) 1992, 1995 INTENSE Software(tm) and Mike Krause	   *
+*			   All rights reserved				   *
+***************************************************************************/
+/***************************************************************************
+* This program belongs to INTENSE Software, and contains trade secrets of  *
+* INTENSE Software.  The program and its contents are not to be disclosed  *
+* to or used by any person who has not received prior authorization from   *
+* INTENSE Software.  Any such disclosure or use may subject the violator   *
+* to civil and criminal penalties by law.                                  *
+***************************************************************************/
+
+
+#include <stdio.h>
+#include <string.h>
+
+#include "structs.h"
+#include "mob.h"
+#include "obj.h"
+#include "utils.h"
+#include "interp.h"
+#include "handler.h"
+#include "db.h"
+#include "spells.h"
+
+/*   external vars  */
+extern char global_color;
+extern struct room_data *world[MAX_ROOM]; /* array of rooms  */
+extern struct descriptor_data *descriptor_list; 
+extern struct index_data *obj_index;
+extern int rev_dir[];
+extern char *dirs[]; 
+extern int movement_loss[];
+extern struct EARTHQUAKE *stpEarthquake;
+
+/* external functs */
+extern void dream_weaver(struct char_data *ch);
+extern bool is_formed(struct char_data *ch);
+extern void undead_gross_out(struct char_data *ch, struct char_data *k);
+void death_cry(struct char_data *ch);
+struct obj_data *get_obj_in_list_vis(struct char_data *ch, char *name,
+    struct obj_data *list);
+
+
+void verify_move(struct char_data *ch, char *argument, int cmd)
+{
+char buf[MAX_STRING_LENGTH];
+int dir;
+
+   one_argument(argument,buf);
+   if(!buf[0])
+	return;
+   if(buf[0]=='y'||buf[0]=='Y'){
+      dir=ch->specials.direction;
+      ch->specials.direction=666; /* OK you asked for it! */
+      ch->p->querycommand=0;
+      do_move(ch,"",dir+1);
+   }
+   ch->p->querycommand=0;
+}
+
+int is_allowed_here(struct char_data *ch, int to_room)
+{
+struct room_affect *rap=NULL;
+
+    if(GET_LEVEL(ch) >= 32)
+		return(TRUE);
+	if(IS_NPC(ch) && !IS_UNDEAD(ch))
+		{
+		if( IS_SET(world[to_room]->room_flags, NO_MOB|DEATH) )
+			return(FALSE);
+		for(rap=world[to_room]->room_afs;rap;rap=rap->next)
+			if(rap->type==RA_SHIELD)
+				return(FALSE);
+		}
+
+    if(world[to_room]->level_restriction){
+	if(world[to_room]->level_restriction>1&&GET_LEVEL(ch)<world[to_room]->level_restriction){
+	    send_to_char("Your low level keeps you from entering.\n\r",ch);
+	    return(FALSE);
+	}
+   if(world[to_room]->level_restriction<0&&(GET_LEVEL(ch)>(world[to_room]->level_restriction*-1))){
+	    send_to_char("Your high level keeps you from entering.\n\r",ch);
+	    return(FALSE);
+	}
+    }    
+    switch(GET_CLASS(ch)){
+	case CLASS_MAGIC_USER:
+	    if(IS_SET(world[to_room]->class_restriction,NO_MAGE)){
+		global_color=31;
+		send_to_char("A strange force blocks your way.\n\r",ch);
+		act("A strange force blocks $n's way.\n\r",TRUE,ch,0,0,TO_ROOM);
+		global_color=0;
+		return(FALSE);
+	    }
+	    break;
+	case CLASS_CLERIC:
+	    if(IS_SET(world[to_room]->class_restriction,NO_CLERIC)){
+		global_color=31;
+		send_to_char("A strange force blocks your way.\n\r",ch);
+		act("A strange force blocks $n's way.\n\r",TRUE,ch,0,0,TO_ROOM);
+		global_color=0;
+		return(FALSE);
+	    }
+	    break;
+	case CLASS_THIEF:
+	    if(IS_SET(world[to_room]->class_restriction,NO_THIEF)){
+		global_color=31;
+		send_to_char("A strange force blocks your way.\n\r",ch);
+		act("A strange force blocks $n's way.\n\r",TRUE,ch,0,0,TO_ROOM);
+		global_color=0;
+		return(FALSE);
+	    }
+	    break;
+	case CLASS_WARRIOR:
+	    if(IS_SET(world[to_room]->class_restriction,NO_WARRIOR)){
+		global_color=31;
+		send_to_char("A strange force blocks your way.\n\r",ch);
+		act("A strange force blocks $n's way.\n\r",TRUE,ch,0,0,TO_ROOM);
+		global_color=0;
+		return(FALSE);
+	    }
+	    break;
+    }
+    if(IS_GOOD(ch)&&IS_SET(world[to_room]->align_restriction,NO_GOOD)){
+	global_color=31;
+	send_to_char("You are overcome by a barrage of ecstasy and stop in your tracks.\n\r",ch);
+	global_color=0;
+	return(FALSE);
+    }
+    if(IS_NEUTRAL(ch)&&IS_SET(world[to_room]->align_restriction,NO_NEUTRAL)){
+	global_color=31;
+	send_to_char("You feel faint and decide not to go that way.\n\r",ch);
+	global_color=0;
+	return(FALSE);
+    }
+    if(IS_EVIL(ch)&&IS_SET(world[to_room]->align_restriction,NO_EVIL)){
+	global_color=31;
+	send_to_char("A shiver runs through your evil bones and you decide not to.\n\r",ch);
+	global_color=0;
+	return(FALSE);
+    }
+   return(TRUE);
+}
+
+int do_simple_move(struct char_data *ch, int cmd, int following)
+/* Assumes, 
+    1. That there is no master and no followers.
+    2. That the direction exists. 
+
+   Returns :
+   1 : If succes.
+   0 : If fail
+  -1 : If dead.
+*/
+{
+    char tmp[80];
+    int was_in;
+    int need_movement=0;
+    struct obj_data *obj=NULL;
+    struct char_data *k=NULL;
+    struct char_data *k_next=NULL;	
+    bool has_boat;
+    bool has_wing;
+    int to_room;
+    int iWear;
+
+    if (special(ch, cmd+1, ""))  /* Check for special routines (North is 1) */
+	return(FALSE);
+
+    if(world[ch->in_room]->zone==198){
+	if(number(0,38)==25){
+	    if(world[ch->in_room]->sector_type==SECT_INSIDE){
+		if(IS_AFFECTED(ch,AFF_FLYING)){
+		    act("$n hits $s head on a stalactite.",TRUE,ch,0,0,TO_ROOM);
+		    send_to_char("You hit your head on a stalactite.\n\r",ch);
+		    return(FALSE);
+		}else{
+		    act("$n trips over a small stalagmite and stumbles.",TRUE,ch,0,0,TO_ROOM);
+		    send_to_char("You trip over a small stalagmite and stumble.\n\r",ch);
+		    return(FALSE);
+		}
+	    }
+	}
+    }
+    need_movement = 
+	(movement_loss[world[ch->in_room]->sector_type]+
+    	world[ch->in_room]->move_mod+
+	world[EXIT(ch, cmd)->to_room]->move_mod+
+	movement_loss[world[EXIT(ch, cmd)->to_room]->sector_type]);
+
+    	/*world[world[ch->in_room]->dir_option[cmd]->to_room]->move_mod+*/
+    	/*movement_loss[world[world[ch->in_room]->dir_option[cmd]->to_room]->sector_type]);*/
+    
+    if(!is_allowed_here(ch, EXIT(ch, cmd)->to_room))
+	return(FALSE);
+   
+    if ((world[ch->in_room]->sector_type == SECT_WATER_NOSWIM) ||
+        (world[EXIT(ch, cmd)->to_room]->sector_type == SECT_WATER_NOSWIM)) {
+	has_boat = FALSE;
+
+	/* See if char is carrying a boat */
+	for (obj=ch->carrying; obj; obj=obj->next_content)
+	    if (obj->obj_flags.type_flag == ITEM_BOAT)
+		has_boat = TRUE;
+
+	if(IS_AFFECTED(ch,AFF_FLYING))has_boat=TRUE;
+
+        for ( iWear = 0; iWear < MAX_WEAR; iWear++ )
+    	    if ( ch->equipment[iWear] )
+                if(ch->equipment[iWear]->obj_flags.type_flag==ITEM_BOAT ||
+                   ch->equipment[iWear]->obj_flags.type_flag==ITEM_FLY)
+	            has_boat = TRUE;
+
+	if (!has_boat) {
+	    send_to_char("You need a boat to go there.\n\r", ch);
+	    return(FALSE);
+	}
+    }
+
+/*fuck*/
+    if ((world[ch->in_room]->sector_type == SECT_AIR) || 
+        (world[EXIT(ch, cmd)->to_room]->sector_type == SECT_AIR)) {
+	has_wing = FALSE;
+
+	/* See if char is flying 
+	for (obj=ch->carrying; obj; obj=obj->next_content)
+	    if (obj->obj_flags.type_flag == ITEM_FLY)
+		has_wing = TRUE;
+
+	if(IS_AFFECTED(ch,AFF_FLYING))has_wing=TRUE;*/
+
+        for ( iWear = 0; iWear < MAX_WEAR; iWear++ )
+    	    if ( ch->equipment[iWear] )
+                if(ch->equipment[iWear]->obj_flags.type_flag==ITEM_FLY)
+		    has_wing = TRUE;
+
+	if (!has_wing) {
+	    send_to_char("You aren't flying.\n\r", ch);
+	    return(FALSE);
+	}
+    }
+
+    if((GET_MOVE(ch)<need_movement) && (IS_UNDEAD(ch) || !IS_NPC(ch))) {
+	if(!following)
+	    send_to_char("You are too exhausted.\n\r",ch);
+	else
+	    send_to_char("You are too exhausted to follow.\n\r",ch);
+
+	return(FALSE);
+    }
+
+    was_in = ch->in_room;
+    to_room=world[was_in]->dir_option[cmd]->to_room;
+    if(!IS_NPC(ch)){
+    if(ch->specials.direction!=666){
+    if(IS_SET(world[to_room]->room_flags,NEUTRAL)&& /*law to neut*/
+	!IS_SET(world[was_in]->room_flags,NEUTRAL)&&
+	!IS_SET(world[was_in]->room_flags,CHAOTIC)){
+        ch->p->queryfunc=verify_move;
+        strcpy(ch->p->queryprompt, "ENTER Neutral PlayerKill Area? (y/n)>");
+        ch->p->querycommand=1111;
+	ch->specials.direction=cmd;
+	return(FALSE);
+    }
+    if(IS_SET(world[to_room]->room_flags,CHAOTIC)&& /*law to cha*/
+	!IS_SET(world[was_in]->room_flags,NEUTRAL)&&
+	!IS_SET(world[was_in]->room_flags,CHAOTIC)){
+        ch->p->queryfunc=verify_move;
+        strcpy(ch->p->queryprompt, "ENTER CHAOTIC PlayerKill Area? (y/n)>");
+        ch->p->querycommand=1111;
+	ch->specials.direction=cmd;
+	return(FALSE);
+    }
+    if(IS_SET(world[to_room]->room_flags,CHAOTIC)&& /*neut to cha*/
+	!IS_SET(world[was_in]->room_flags,CHAOTIC)){
+        ch->p->queryfunc=verify_move;
+        strcpy(ch->p->queryprompt, "ENTER CHAOTIC PlayerKill Area? (y/n)>");
+        ch->p->querycommand=1111;
+		ch->specials.direction=cmd;
+		return(FALSE);
+	}
+	if(IS_SET(world[to_room]->room_flags,NEUTRAL)	/*cha to neut*/
+		&&!IS_SET(world[was_in]->room_flags,NEUTRAL)){
+		ch->p->queryfunc=verify_move;
+		strcpy(ch->p->queryprompt, "ENTER NEUTRAL PlayerKill Area? (y/n)>");
+		ch->p->querycommand=111;
+		ch->specials.direction=cmd;
+		return(FALSE);
+    }
+    }
+    }
+    if(ch->specials.direction)/*used for verification of pk move */
+	ch->specials.direction=0;    
+
+
+    if( (GET_LEVEL(ch)<32) &&  (IS_UNDEAD(ch) || !IS_NPC(ch)) )
+	GET_MOVE(ch) -= need_movement;
+
+    if (!IS_AFFECTED(ch, AFF_SNEAK)) {
+	global_color=1;
+ 	if(world[ch->in_room]->dir_option[cmd]->exit&&
+	!strstr(world[ch->in_room]->dir_option[cmd]->exit,"$n")){
+	    if(IS_AFFECTED(ch,AFF_FLYING))
+	        sprintf(tmp, "$n flies %s.", dirs[cmd]);
+	    else
+	    	sprintf(tmp, "$n leaves %s.", dirs[cmd]);
+	    act(tmp, TRUE, ch, 0,0,TO_ROOM);
+	}else{
+	    act(world[ch->in_room]->dir_option[cmd]->exit, TRUE, ch, 0,0,TO_ROOM);
+	}
+	global_color=0;
+    }
+
+
+    char_from_room(ch);
+
+    char_to_room(ch, world[was_in]->dir_option[cmd]->to_room);
+    global_color=1;
+    if (!IS_AFFECTED(ch, AFF_SNEAK)){
+	if(world[was_in]->dir_option[cmd]->entrance&&
+	!strstr(world[was_in]->dir_option[cmd]->entrance,"$n"))
+	   act("$n has arrived.", TRUE, ch, 0,0, TO_ROOM); 
+	else
+	   act(world[was_in]->dir_option[cmd]->entrance, TRUE, ch, 0,0, TO_ROOM); 
+    }
+    global_color=0;
+    do_look(ch, "\0",15);
+    if( ch->desc  && !ORIGINAL(ch)->specials.autoexit )
+	do_exits(ch,"",9);
+
+    if(IS_UNDEAD(ch))
+    for (k = world[ch->in_room]->people; k; k = k_next)
+		{
+		k_next=k->next_in_room;
+		undead_gross_out(ch,k);
+		}
+
+    if(!IS_NPC(ch) || IS_UNDEAD(ch))
+    for (k = world[ch->in_room]->people; k; k = k_next){
+	k_next=k->next_in_room;
+	    if ( IS_MOB(k) ){
+		if(!strcmp(&k->specials.last_attack[0],GET_NAME(ch))){
+		    if(IS_AFFECTED(ch, AFF_SNEAK)){
+			send_to_char("You sneak into the room\n\r",ch);
+			return(1);
+	     	    }
+	     	if((GET_LEVEL(k)<GET_LEVEL(ch)) 
+		    && (!IS_SET(k->specials.act, ACT_AGGRESSIVE))){
+		    do_emote(k,"screams from fright!",0);
+		    do_flee(k,"",0);
+		    return(1);
+	     	} else {
+		    if(!IS_UNDEAD(k))
+		    if((number(0,100)-GET_LEVEL(ch))<50) { 
+			sprintf(log_buf,"AH HA! I have been looking for you %s!",GET_NAME(ch));
+			do_say(k,log_buf,0);
+			hit(k,ch,0);
+			return(1);
+		    }
+		}
+	    }
+	}
+    }
+    return(1);
+}
+
+void do_move(struct char_data *ch, char *argument, int cmd)
+{
+    char tmp[80];
+    int was_in,x,y;
+ 
+    --cmd;
+ 
+if((!ch->player.title)&&(!IS_NPC(ch))){
+    log_hd("########no title in do_move(MY CHECK)######");
+    log_hd(ch->player.name);
+    set_title(ch);
+}
+if (!world[ch->in_room]->dir_option[cmd])
+    {
+    send_to_char("Alas, you cannot go that way...\n\r", ch);
+    return;
+    }
+
+if (IS_SET(EXIT(ch, cmd)->exit_info, EX_CLOSED) &&
+   IS_SET(EXIT(ch, cmd)->exit_info, EX_SECRET))
+   {
+   send_to_char("Alas, you cannot go that way...\r\n",ch);
+   return;
+   } 
+
+if(stpEarthquake){
+	global_color=31;
+	GET_HIT(ch)/=3;
+	send_to_char("You try and move during the QUAKE and fall.. . ..\n\r",ch);
+	global_color=0;
+	return;
+}
+if (IS_SET(EXIT(ch, cmd)->exit_info, EX_CLOSED)
+	&& IS_UNDEAD(ch)
+    && !IS_SET(world[ch->in_room]->dir_option[cmd]->exit_info,EX_PICKPROOF)
+    )
+    {
+    act("You turn into a ghostly shimmer and try to pass through solid mass.",
+		FALSE, ch, 0, ch, TO_CHAR);
+    do_simple_move(ch, cmd, TRUE);
+    return;
+    }
+
+/* Direction is possible */
+if (IS_SET(EXIT(ch, cmd)->exit_info, EX_CLOSED) )
+    {
+    if (EXIT(ch, cmd)->keyword)
+        {
+        sprintf(tmp, "The %s seems to be closed.\n\r",
+            fname(EXIT(ch, cmd)->keyword));
+        send_to_char(tmp, ch);
+        }
+    else
+        send_to_char("It seems to be closed.\n\r", ch);
+    return;
+    }
+
+if (EXIT(ch, cmd)->to_room == NOWHERE)
+        send_to_char("Alas, you can't go that way.\n\r", ch);
+else if (ch->master==ch && !is_formed(ch))
+    do_simple_move(ch,cmd,FALSE);
+else
+    {
+    if (IS_AFFECTED(ch, AFF_CHARM) && (ch->master!=ch)
+        && (ch->in_room == ch->master->in_room))
+        {
+        send_to_char(
+            "The thought of leaving your master makes you weep.\n\r",
+ch);
+             act("$n wants to leave you!.", FALSE, ch, 0, 0, TO_ROOM);
+        }
+    else
+        {
+        was_in=ch->in_room;
+        if (do_simple_move(ch, cmd, TRUE) == 1)
+            {
+            for(x=0;x<3;x++)
+               for(y=0;y<3;y++)
+                  {
+                  if(ch->formation[x][y]&&ch->formation[x][y]!=ch)
+                  if ((was_in == ch->formation[x][y]->in_room) &&
+                    (GET_POS(ch->formation[x][y]) >= POSITION_STANDING))
+                    {
+                    global_color=1;
+                    act("You follow $N.",
+                        FALSE,ch->formation[x][y], 0, ch, TO_CHAR);
+                    cmd++;
+                    send_to_char("\n\r",ch->formation[x][y]);
+                    global_color=0;
+                    do_move(ch->formation[x][y], argument, cmd);
+                    cmd--;
+                    }
+                  }
+            }
+         }
+    }
+}
+
+int find_door(struct char_data *ch, char *type, char *dir)
+{
+    char buf[MAX_STRING_LENGTH];
+    int door;
+    char *dirs[] = 
+    {
+	"north",
+	"east",
+	"south",
+	"west",
+	"up",
+	"down",
+	"\n"
+    };
+
+    if (*dir) /* a direction was specified */
+    {
+	if ((door = search_block(dir, dirs, FALSE)) == -1) /* Partial Match */
+	{
+	    send_to_char("That's not a direction.\n\r", ch);
+	    return(-1);
+	}
+
+	if (EXIT(ch, door))
+	    if (EXIT(ch, door)->keyword)
+		if (isname(type, EXIT(ch, door)->keyword))
+		    return(door);
+		else
+		{
+		    sprintf(buf, "I see no %s there.\n\r", type);
+		    send_to_char(buf, ch);
+		    return(-1);
+		}
+	    else
+		return(door);
+	else
+	{
+	    send_to_char( "There is no door there.\n\r", ch);
+	    return(-1);
+	}
+    }
+    else /* try to locate the keyword */
+    {
+	for (door = 0; door <= 5; door++)
+	    if (EXIT(ch, door))
+		if (EXIT(ch, door)->keyword)
+		    if (isname(type, EXIT(ch, door)->keyword))
+			return(door);
+
+	sprintf(buf, "I see no %s here.\n\r", type);
+	send_to_char(buf, ch);
+	return(-1);
+    }
+}
+
+
+void do_open(struct char_data *ch, char *argument, int cmd)
+{
+    int door, other_room;
+    char type[MAX_INPUT_LENGTH], dir[MAX_INPUT_LENGTH], buf[MAX_STRING_LENGTH];
+    struct room_direction_data *back=NULL;
+    struct obj_data *obj=NULL;
+    struct char_data *victim=NULL;
+
+    argument_interpreter(argument, type, dir);
+
+    if (!*type)
+	send_to_char("Open what?\n\r", ch);
+    else if (generic_find(argument, FIND_OBJ_INV | FIND_OBJ_ROOM,
+	ch, &victim, &obj))
+
+	/* this is an object */
+
+	if (obj->obj_flags.type_flag != ITEM_CONTAINER)
+	    send_to_char("That's not a container.\n\r", ch);
+	else if (!IS_SET(obj->obj_flags.value[1], CONT_CLOSED))
+	    send_to_char("But it's already open!\n\r", ch);
+	else if (!IS_SET(obj->obj_flags.value[1], CONT_CLOSEABLE))
+	    send_to_char("You can't do that.\n\r", ch);
+	else if (IS_SET(obj->obj_flags.value[1], CONT_LOCKED))
+	    send_to_char("It seems to be locked.\n\r", ch);
+	else
+	{
+	    REMOVE_BIT(obj->obj_flags.value[1], CONT_CLOSED);
+	    send_to_char("You open it.\n\r", ch);
+	    act("$n opens $p.", FALSE, ch, obj, 0, TO_ROOM);
+	}
+    else if ((door = find_door(ch, type, dir)) >= 0)
+
+	/* perhaps it is a door */
+
+	if (!IS_SET(EXIT(ch, door)->exit_info, EX_ISDOOR))
+	    send_to_char("That's impossible, I'm afraid.\n\r", ch);
+        else if ( IS_SET(EXIT(ch, door)->exit_info, EX_CLOSED) &&
+		 IS_SET(EXIT(ch, door)->exit_info, EX_SECRET) &&
+		 GET_LEVEL(ch) <= 34 )
+	    send_to_char("That's impossbile, I'm afraid.\r\n",ch);
+	else if (!IS_SET(EXIT(ch, door)->exit_info, EX_CLOSED))
+	    send_to_char("It's already open!\n\r", ch);
+	else if (IS_SET(EXIT(ch, door)->exit_info, EX_LOCKED))
+	    send_to_char("It seems to be locked.\n\r", ch);
+	else
+	{
+	    REMOVE_BIT(EXIT(ch, door)->exit_info, EX_CLOSED);
+	    if (EXIT(ch, door)->keyword)
+		act("$n opens the $F.", FALSE, ch, 0, EXIT(ch, door)->keyword,
+		    TO_ROOM);
+	    else
+		act("$n opens the door.", FALSE, ch, 0, 0, TO_ROOM);
+	    send_to_char("You open it.\n\r", ch);
+	    /* now for opening the OTHER side of the door! */
+	    if ((other_room = EXIT(ch, door)->to_room) != NOWHERE)
+	    if ( ( back = world[other_room]->dir_option[rev_dir[door]] ) != 0 ) 
+		    if (back->to_room == ch->in_room)
+		    {
+			REMOVE_BIT(back->exit_info, EX_CLOSED);
+			if (back->keyword)
+			{
+			    sprintf(buf,
+				"The %s is opened from the other side.\n\r",
+				fname(back->keyword));
+			    send_to_room(buf, EXIT(ch, door)->to_room);
+			}
+			else
+			    send_to_room(
+			    "The door is opened from the other side.\n\r",
+			    EXIT(ch, door)->to_room);
+		    }                        
+	}
+}
+
+
+void do_close(struct char_data *ch, char *argument, int cmd)
+{
+    int door, other_room;
+    char type[MAX_INPUT_LENGTH], dir[MAX_INPUT_LENGTH], buf[MAX_STRING_LENGTH];
+    struct room_direction_data *back=NULL;
+    struct obj_data *obj=NULL;
+    struct char_data *victim=NULL;
+
+
+    argument_interpreter(argument, type, dir);
+
+    if (!*type)
+	send_to_char("Close what?\n\r", ch);
+    else if (generic_find(argument, FIND_OBJ_INV | FIND_OBJ_ROOM,
+	ch, &victim, &obj))
+
+	/* this is an object */
+
+	if (obj->obj_flags.type_flag != ITEM_CONTAINER)
+	    send_to_char("That's not a container.\n\r", ch);
+	else if (IS_SET(obj->obj_flags.value[1], CONT_CLOSED))
+	    send_to_char("But it's already closed!\n\r", ch);
+	else if (!IS_SET(obj->obj_flags.value[1], CONT_CLOSEABLE))
+	    send_to_char("That's impossible.\n\r", ch);
+	else
+	{
+	    SET_BIT(obj->obj_flags.value[1], CONT_CLOSED);
+	    send_to_char("Ok.\n\r", ch);
+	    act("$n closes $p.", FALSE, ch, obj, 0, TO_ROOM);
+	}
+    else if ((door = find_door(ch, type, dir)) >= 0)
+
+	/* Or a door */
+
+	if (!IS_SET(EXIT(ch, door)->exit_info, EX_ISDOOR))
+	    send_to_char("That's absurd.\n\r", ch);
+        else if ( IS_SET(EXIT(ch, door)->exit_info, EX_CLOSED) &&
+                 IS_SET(EXIT(ch, door)->exit_info, EX_SECRET) ) {
+	    sprintf(buf,"I see no %s there.\r\n",type);
+	    send_to_char(buf,ch);
+        }
+	else if (IS_SET(EXIT(ch, door)->exit_info, EX_CLOSED))
+	    send_to_char("It's already closed!\n\r", ch);
+	else
+	{
+	    SET_BIT(EXIT(ch, door)->exit_info, EX_CLOSED);
+	    if (EXIT(ch, door)->keyword)
+		act("$n closes the $F.", 0, ch, 0, EXIT(ch, door)->keyword,
+		    TO_ROOM);
+	    else
+		act("$n closes the door.", FALSE, ch, 0, 0, TO_ROOM);
+	    send_to_char("Ok.\n\r", ch);
+	    /* now for closing the other side, too */
+	    if ((other_room = EXIT(ch, door)->to_room) != NOWHERE)
+	    if ( ( back = world[other_room]->dir_option[rev_dir[door]] ) != 0 )
+		    if (back->to_room == ch->in_room)
+		    {
+			SET_BIT(back->exit_info, EX_CLOSED);
+			if (back->keyword)
+			{
+			    sprintf(buf,
+				"The %s closes quietly.\n\r", back->keyword);
+			    send_to_room(buf, EXIT(ch, door)->to_room);
+			}
+			else
+			    send_to_room(
+				"The door closes quietly.\n\r",
+				EXIT(ch, door)->to_room);
+		    }                        
+	}
+}
+
+
+int has_key(struct char_data *ch, int key)
+{
+    struct obj_data *o=NULL;
+
+    for (o = ch->carrying; o; o = o->next_content)
+	if (o->item_number == key)
+	    return(1);
+
+    if (ch->equipment[HOLD])
+	if (ch->equipment[HOLD]->item_number == key)
+	    return(1);
+
+    return(0);
+}
+
+
+void do_lock(struct char_data *ch, char *argument, int cmd)
+{
+    int door, other_room;
+    char type[MAX_INPUT_LENGTH], dir[MAX_INPUT_LENGTH], buf[MAX_INPUT_LENGTH];
+    struct room_direction_data *back=NULL;
+    struct obj_data *obj=NULL;
+    struct char_data *victim=NULL;
+
+
+    argument_interpreter(argument, type, dir);
+
+    if (!*type)
+	send_to_char("Lock what?\n\r", ch);
+    else if (generic_find(argument, FIND_OBJ_INV | FIND_OBJ_ROOM,
+	ch, &victim, &obj))
+
+	/* this is an object */
+
+	if (obj->obj_flags.type_flag != ITEM_CONTAINER)
+	    send_to_char("That's not a container.\n\r", ch);
+	else if (!IS_SET(obj->obj_flags.value[1], CONT_CLOSED))
+	    send_to_char("Maybe you should close it first...\n\r", ch);
+	else if (obj->obj_flags.value[2] < 0)
+	    send_to_char("That thing can't be locked.\n\r", ch);
+	else if (!has_key(ch, obj->obj_flags.value[2]))
+	    send_to_char("You don't seem to have the proper key.\n\r", ch); 
+	else if (IS_SET(obj->obj_flags.value[1], CONT_LOCKED))
+	    send_to_char("It is locked already.\n\r", ch);
+	else
+	{
+	    SET_BIT(obj->obj_flags.value[1], CONT_LOCKED);
+	    send_to_char("*Click*\n\r", ch);
+	    act("You hear a soft click as $n locks $p.", FALSE, ch, obj, 0, TO_ROOM);
+	}
+    else if ((door = find_door(ch, type, dir)) >= 0)
+
+	/* a door, perhaps */
+
+	if (!IS_SET(EXIT(ch, door)->exit_info, EX_ISDOOR))
+	    send_to_char("That's absurd.\n\r", ch);
+        else if ( IS_SET(EXIT(ch, door)->exit_info, EX_CLOSED) &&
+                 IS_SET(EXIT(ch, door)->exit_info, EX_SECRET) ) {            
+	    sprintf(buf,"I see no %s there.\r\n",type);
+            send_to_char(buf,ch);
+        }
+	else if (!IS_SET(EXIT(ch, door)->exit_info, EX_CLOSED))
+	    send_to_char("You have to close it first, I'm afraid.\n\r", ch);
+	else if (EXIT(ch, door)->key < 0)
+	    send_to_char("There do not seem to be any keyholes.\n\r", ch);
+	else if (!has_key(ch, EXIT(ch, door)->key))
+	    send_to_char("You don't have the proper key.\n\r", ch);
+	else if (IS_SET(EXIT(ch, door)->exit_info, EX_LOCKED))
+	    send_to_char("It's already locked!\n\r", ch);
+	else
+	{
+	    SET_BIT(EXIT(ch, door)->exit_info, EX_LOCKED);
+	    if (EXIT(ch, door)->keyword)
+		act("$n locks the $F.", 0, ch, 0,  EXIT(ch, door)->keyword,
+		    TO_ROOM);
+	    else
+		act("$n locks the door.", FALSE, ch, 0, 0, TO_ROOM);
+	    send_to_char("*Click*\n\r", ch);
+	    /* now for locking the other side, too */
+	    if ((other_room = EXIT(ch, door)->to_room) != NOWHERE)
+	    if ( ( back = world[other_room]->dir_option[rev_dir[door]] ) != 0 )
+		    if (back->to_room == ch->in_room)
+			SET_BIT(back->exit_info, EX_LOCKED);
+	}
+}
+
+
+void do_unlock(struct char_data *ch, char *argument, int cmd)
+{
+    int door, other_room, iWear;
+    char type[MAX_INPUT_LENGTH], dir[MAX_INPUT_LENGTH], buf[MAX_INPUT_LENGTH];
+    struct room_direction_data *back=NULL;
+    struct obj_data *obj=NULL,*mykey=NULL, *next_key=NULL;
+    struct char_data *victim=NULL;
+
+
+    argument_interpreter(argument, type, dir);
+
+    if (!*type)
+	send_to_char("Unlock what?\n\r", ch);
+    else if (generic_find(argument, FIND_OBJ_INV | FIND_OBJ_ROOM,
+	ch, &victim, &obj))
+
+	/* this is an object */
+
+	if (obj->obj_flags.type_flag != ITEM_CONTAINER)
+	    send_to_char("That's not a container.\n\r", ch);
+	else if (!IS_SET(obj->obj_flags.value[1], CONT_CLOSED))
+	    send_to_char("Silly - it ain't even closed!\n\r", ch);
+	else if (obj->obj_flags.value[2] < 0)
+	    send_to_char("Odd - you can't seem to find a keyhole.\n\r", ch);
+	else if (!has_key(ch, obj->obj_flags.value[2]))
+	    send_to_char("You don't seem to have the proper key.\n\r", ch); 
+	else if (!IS_SET(obj->obj_flags.value[1], CONT_LOCKED))
+	    send_to_char("Oh.. it wasn't locked, after all.\n\r", ch);
+	else
+		{
+	    REMOVE_BIT(obj->obj_flags.value[1], CONT_LOCKED);
+	    send_to_char("*Click*\n\r", ch);
+	    act("$n unlocks $p.", FALSE, ch, obj, 0, TO_ROOM);
+        for (mykey = ch->carrying; mykey; mykey=next_key){
+			next_key=mykey->next;
+            if (mykey->item_number == obj->obj_flags.value[2])
+				{
+                if(mykey->obj_flags.value[1] == 1)
+					{
+					act("$p crumbles to dust in $n's hand.",
+						TRUE, ch, mykey, 0, TO_ROOM);
+					act("$p crumbles to dust in your hand.", 
+						FALSE, ch, mykey, 0, TO_CHAR);
+					extract_obj(mykey);
+					}
+                if(mykey->obj_flags.value[1] > 1)
+                   mykey->obj_flags.value[1]--;
+				}
+		}
+		for ( iWear = 0; iWear < MAX_WEAR; iWear++ )
+    	  if ( ch->equipment[iWear] )
+			if(ch->equipment[iWear]->item_number == obj->obj_flags.value[2]){
+				if(ch->equipment[iWear]->obj_flags.value[1]==1){
+					act("$p crumbles to dust in $n's hand.",
+						TRUE, ch, ch->equipment[iWear], 0, TO_ROOM);
+					act("$p crumbles to dust in your hand.",
+						FALSE, ch, ch->equipment[iWear], 0, TO_CHAR);
+					mykey=ch->equipment[iWear];
+            		obj_to_char( unequip_char( ch, iWear ), ch );
+					extract_obj(mykey);
+				}else{
+					if(ch->equipment[iWear]->obj_flags.value[1]>1)
+						ch->equipment[iWear]->obj_flags.value[1]--;
+				}
+			}
+	}
+    else if ((door = find_door(ch, type, dir)) >= 0)
+
+	/* it is a door */
+
+	if (!IS_SET(EXIT(ch, door)->exit_info, EX_ISDOOR))
+	    send_to_char("That's absurd.\n\r", ch);
+        else if ( IS_SET(EXIT(ch, door)->exit_info, EX_CLOSED) &&
+                 IS_SET(EXIT(ch, door)->exit_info, EX_SECRET) ) {
+            sprintf(buf,"I see no %s there.\r\n",type);
+            send_to_char(buf,ch);
+        }
+	else if (!IS_SET(EXIT(ch, door)->exit_info, EX_CLOSED))
+	    send_to_char("Heck ... it ain't even closed!\n\r", ch);
+	else if (EXIT(ch, door)->key < 0)
+	    send_to_char("You can't seem to spot any keyholes.\n\r", ch);
+	else if (!has_key(ch, EXIT(ch, door)->key))
+	    send_to_char("You do not have the proper key for that.\n\r", ch);
+	else if (!IS_SET(EXIT(ch, door)->exit_info, EX_LOCKED))
+	    send_to_char("It's already unlocked, it seems.\n\r", ch);
+	else
+	{
+	    REMOVE_BIT(EXIT(ch, door)->exit_info, EX_LOCKED);
+	    if (EXIT(ch, door)->keyword)
+		act("$n unlocks the $F.", 0, ch, 0, EXIT(ch, door)->keyword,
+		    TO_ROOM);
+	    else
+		act("$n unlocks the door.", FALSE, ch, 0, 0, TO_ROOM);
+	    send_to_char("*click*\n\r", ch);
+	    /* now for unlocking the other side, too */
+	    if ((other_room = EXIT(ch, door)->to_room) != NOWHERE)
+	    if ( ( back = world[other_room]->dir_option[rev_dir[door]] ) != 0 )
+		    if (back->to_room == ch->in_room)
+			REMOVE_BIT(back->exit_info, EX_LOCKED);
+        for (mykey = ch->carrying; mykey; mykey = mykey->next_content)
+            if (mykey->item_number == EXIT(ch, door)->key)
+				{
+                if(mykey->obj_flags.value[1] == 1)
+					{
+					act("$p crumbles to dust in $n's hand.",
+						TRUE, ch, mykey, 0, TO_ROOM);
+					act("$p crumbles to dust in your hand.",
+						FALSE, ch, mykey, 0, TO_CHAR);
+					extract_obj(mykey);
+					}
+                if(mykey->obj_flags.value[1] > 1)
+                   mykey->obj_flags.value[1]--;
+				}
+	}
+}
+
+
+void do_pick(struct char_data *ch, char *argument, int cmd)
+{
+   byte percent;
+    int door, other_room;
+    char type[MAX_INPUT_LENGTH], dir[MAX_INPUT_LENGTH], buf[MAX_INPUT_LENGTH];
+    struct room_direction_data *back=NULL;
+    struct obj_data *obj=NULL;
+    struct char_data *victim=NULL;
+
+    argument_interpreter(argument, type, dir);
+
+   percent=number(1,101); /* 101% is a complete failure */
+
+   if (percent > (ch->skills[SKILL_PICK_LOCK].learned)) {
+      send_to_char("You failed to pick the lock.\n\r", ch);
+      return;
+    }
+
+    if (!*type)
+	send_to_char("Pick what?\n\r", ch);
+    else if (generic_find(argument, FIND_OBJ_INV | FIND_OBJ_ROOM,
+	ch, &victim, &obj))
+
+	/* this is an object */
+
+	if (obj->obj_flags.type_flag != ITEM_CONTAINER)
+	    send_to_char("That's not a container.\n\r", ch);
+	else if (!IS_SET(obj->obj_flags.value[1], CONT_CLOSED))
+	    send_to_char("Silly - it ain't even closed!\n\r", ch);
+	else if (obj->obj_flags.value[2] < 0)
+	    send_to_char("Odd - you can't seem to find a keyhole.\n\r", ch);
+	else if (!IS_SET(obj->obj_flags.value[1], CONT_LOCKED))
+	    send_to_char("Oho! This thing is NOT locked!\n\r", ch);
+	else if (IS_SET(obj->obj_flags.value[1], CONT_PICKPROOF))
+	    send_to_char("It resists your attempts at picking it.\n\r", ch);
+	else
+	{
+	    REMOVE_BIT(obj->obj_flags.value[1], CONT_LOCKED);
+	    send_to_char("*Click*\n\r", ch);
+	    act("$n fiddles with $p.", FALSE, ch, obj, 0, TO_ROOM);
+	}
+    else if ((door = find_door(ch, type, dir)) >= 0)
+	if (!IS_SET(EXIT(ch, door)->exit_info, EX_ISDOOR))
+	    send_to_char("That's absurd.\n\r", ch);
+        else if ( IS_SET(EXIT(ch, door)->exit_info, EX_CLOSED) &&
+                 IS_SET(EXIT(ch, door)->exit_info, EX_SECRET) ) {
+            sprintf(buf,"I see no %s there.\r\n",type);
+            send_to_char(buf,ch);
+        }
+	else if (!IS_SET(EXIT(ch, door)->exit_info, EX_CLOSED))
+	    send_to_char("You realize that the door is already open.\n\r", ch);
+	else if (EXIT(ch, door)->key < 0)
+	    send_to_char("You can't seem to spot any lock to pick.\n\r", ch);
+	else if (!IS_SET(EXIT(ch, door)->exit_info, EX_LOCKED))
+	    send_to_char("Oh.. it wasn't locked at all.\n\r", ch);
+	else if (IS_SET(EXIT(ch, door)->exit_info, EX_PICKPROOF))
+	    send_to_char("You seem to be unable to pick this lock.\n\r", ch);
+	else
+	{
+	    REMOVE_BIT(EXIT(ch, door)->exit_info, EX_LOCKED);
+	    if (EXIT(ch, door)->keyword)
+		act("$n skillfully picks the lock of the $F.", 0, ch, 0,
+		    EXIT(ch, door)->keyword, TO_ROOM);
+	    else
+		act("$n picks the lock of the.", TRUE, ch, 0, 0, TO_ROOM);
+	    send_to_char("The lock quickly yields to your skills.\n\r", ch);
+	    /* now for unlocking the other side, too */
+	    if ((other_room = EXIT(ch, door)->to_room) != NOWHERE)
+	    if ( ( back = world[other_room]->dir_option[rev_dir[door]] ) != 0 )
+		    if (back->to_room == ch->in_room)
+			REMOVE_BIT(back->exit_info, EX_LOCKED);
+	}
+}
+
+
+void do_enter(struct char_data *ch, char *argument, int cmd)
+{
+    int door;
+    char buf[MAX_INPUT_LENGTH], tmp[MAX_STRING_LENGTH];
+
+    void do_move(struct char_data *ch, char *argument, int cmd);
+
+    one_argument(argument, buf);
+
+    if (*buf)  /* an argument was supplied, search for door keyword */
+    {
+	for (door = 0; door <= 5; door++)
+	    if (EXIT(ch, door))
+		if (EXIT(ch, door)->keyword)
+		    if (!str_cmp(EXIT(ch, door)->keyword, buf))
+		    {
+			do_move(ch, "", ++door);
+			return;
+		    }
+	sprintf(tmp, "There is no %s here.\n\r", buf);
+	send_to_char(tmp, ch);
+    }
+    else
+	if (IS_SET(world[ch->in_room]->room_flags, INDOORS))
+	    send_to_char("You are already indoors.\n\r", ch);
+	else
+	{
+	    /* try to locate an entrance */
+	    for (door = 0; door <= 5; door++)
+		if (EXIT(ch, door))
+		    if (EXIT(ch, door)->to_room != NOWHERE)
+			if (!IS_SET(EXIT(ch, door)->exit_info, EX_CLOSED) &&
+			    IS_SET(world[EXIT(ch, door)->to_room]->room_flags,
+			    INDOORS))
+			{
+			    do_move(ch, "", ++door);
+			    return;
+			}
+	    send_to_char("You can't seem to find anything to enter.\n\r", ch);
+	}
+}
+
+
+void do_leave(struct char_data *ch, char *argument, int cmd)
+{
+    int door;
+
+    void do_move(struct char_data *ch, char *argument, int cmd);
+
+    if (!IS_SET(world[ch->in_room]->room_flags, INDOORS))
+	send_to_char("You are outside.. where do you want to go?\n\r", ch);
+    else
+    {
+	for (door = 0; door <= 5; door++)
+	    if (EXIT(ch, door))
+		if (EXIT(ch, door)->to_room != NOWHERE)
+		    if (!IS_SET(EXIT(ch, door)->exit_info, EX_CLOSED) &&
+			!IS_SET(world[EXIT(ch, door)->to_room]->room_flags,
+				INDOORS))
+		    {
+			do_move(ch, "", ++door);
+			return;
+		    }
+	send_to_char("I see no obvious exits to the outside.\n\r", ch);
+    }
+}
+
+void do_SecDrSearch(struct char_data *ch, char *argument, int cmd)
+{
+int door, other_room, chance, found=0;
+struct room_direction_data *back=NULL;
+char buf[MAX_STRING_LENGTH];
+struct obj_data *mykey;
+	char *exits[] =
+	{
+		"north wall",
+		"east wall",
+		"south wall",
+		"west wall",
+		"ceiling",
+		"floor"
+	};
+	
+	if(!ch) return;
+	
+	if(ch->in_room == NOWHERE) return;
+
+	chance = (ch->abilities.intel+ch->abilities.wis+ch->abilities.dex)/2;
+	
+	if(GET_CLASS(ch) == CLASS_THIEF)
+		chance += GET_LEVEL(ch)*1.2;
+			
+	if(number(0,100) >= chance) {
+		WAIT_STATE(ch, 10);
+		send_to_char("Your search of the room yields nothing special.\r\n",ch);
+		act("$n attempts to search the room...", TRUE,ch,0,0,TO_ROOM);
+		return;
+	}
+	
+	act("$n attempts to search the room...", TRUE,ch,0,0,TO_ROOM);
+	
+	for (door = 0; door <= 5; door++) {
+		if (EXIT(ch, door))
+			if ( EXIT(ch, door)->to_room != NOWHERE &&
+			     IS_SET(EXIT(ch, door)->exit_info, EX_CLOSED) &&
+				 IS_SET(EXIT(ch, door)->exit_info, EX_SECRET) ) {
+				    if(IS_SET(ch, door)->exit_info, EX_LOCKED)) {
+				    	if(has_key(ch, EXIT(ch, door)->key) {
+				       		REMOVE_BIT(EXIT(ch, door)->exit_info,EX_CLOSED);
+				       		found_key = 1;
+				       	} else {
+				       		
+				 	REMOVE_BIT(EXIT(ch, door)->exit_info,EX_CLOSED);
+				 	found=1;
+				 	/* Message for the char */
+				 	if (EXIT(ch, door)->keyword) 
+				 		sprintf(buf,"Searching the area, you find a secret %s in the %s.\r\n",
+				 			EXIT(ch, door)->keyword,
+				 			exits[door]);
+				 	else 
+				 		sprintf(buf,"You notice a hidden pannel in the wall and open it.\r\n");
+				  	send_to_char(buf, ch);
+				  	/* Now to the people in the room */
+				  	if (EXIT(ch, door)->keyword)
+				  		sprintf(buf,"$n finds a secret %s in the %s and opens it.",
+				  			EXIT(ch, door)->keyword,
+				  			exits[door]);
+				  	else
+				  		sprintf(buf,"$n finds a secret door and opens it.");
+				  	act(buf,TRUE,ch,0,0,TO_ROOM);
+				    /* Now remove the closed on the other side */
+				    
+				 	if ((other_room = EXIT(ch, door)->to_room) != NOWHERE)
+				 	if ( ( back = world[other_room]->dir_option[rev_dir[door]] ) != 0 )
+				 		if (back->to_room == ch->in_room &&
+				 			IS_SET(back->exit_info, EX_CLOSED))
+				 				REMOVE_BIT(back->exit_info, EX_CLOSED);
+				 }
+	}
+	
+	if(found == 0) {
+        WAIT_STATE(ch, 10);
+        send_to_char("Your search of the room yields nothing special.\r\n",ch);
+        return;
+	} else {
+		WAIT_STATE(ch, 10);
+		return;
+	}
+
+}                            
+
+void do_stand(struct char_data *ch, char *argument, int cmd)
+{
+    global_color=32;
+    switch(GET_POS(ch)) {
+	case POSITION_STANDING : { 
+	    act("You are already standing.",FALSE, ch,0,0,TO_CHAR);
+	} break;
+	case POSITION_SITTING   : { 
+	    act("You stand up.", FALSE, ch,0,0,TO_CHAR);
+	    act("$n clambers to $s feet.",TRUE, ch, 0, 0, TO_ROOM);
+	    GET_POS(ch) = POSITION_STANDING;
+	} break;
+	case POSITION_RESTING   : { 
+	    act("You stop resting, and stand up.", FALSE, ch,0,0,TO_CHAR);
+	    act("$n stops resting, and clambers to $s feet.",
+		TRUE, ch, 0, 0, TO_ROOM);
+	    GET_POS(ch) = POSITION_STANDING;
+	} break;
+	case POSITION_SLEEPING : { 
+	    act("You have to wake up first!", FALSE, ch, 0,0,TO_CHAR);
+	} break;
+	case POSITION_FIGHTING : { 
+	    act("Do you not consider fighting as standing?",
+		FALSE, ch, 0, 0, TO_CHAR);
+	} break;
+	default : { 
+	    act("You stop floating around, and put your feet on the ground.",
+	      FALSE, ch, 0, 0, TO_CHAR);
+	    act("$n stops floating around, and puts $s feet on the ground.",
+	      TRUE, ch, 0, 0, TO_ROOM);
+	} break;
+    }
+    global_color=0;
+}
+
+
+void do_sit(struct char_data *ch, char *argument, int cmd)
+{
+    global_color=32;
+    switch(GET_POS(ch)) {
+	case POSITION_STANDING : {
+	    act("You sit down.", FALSE, ch, 0,0, TO_CHAR);
+	    act("$n sits down.", FALSE, ch, 0,0, TO_ROOM);
+	    GET_POS(ch) = POSITION_SITTING;
+	} break;
+	case POSITION_SITTING   : {
+	    send_to_char("You're sitting already.\n\r", ch);
+	} break;
+	case POSITION_RESTING   : {
+	    act("You stop resting, and sit up.", FALSE, ch,0,0,TO_CHAR);
+	    act("$n stops resting.", TRUE, ch, 0,0,TO_ROOM);
+	    GET_POS(ch) = POSITION_SITTING;
+	} break;
+	case POSITION_SLEEPING : {
+	    act("You have to wake up first.", FALSE, ch, 0, 0, TO_CHAR);
+	} break;
+	case POSITION_FIGHTING : {
+	    act("Sit down while fighting? are you MAD?",
+		FALSE, ch,0,0,TO_CHAR);
+	} break;
+	default : {
+	    act("You stop floating around, and sit down.",
+		FALSE, ch,0,0,TO_CHAR);
+	    act("$n stops floating around, and sits down.",
+	    	TRUE, ch,0,0,TO_ROOM);
+	    GET_POS(ch) = POSITION_SITTING;
+	} break;
+    }
+    global_color=0;
+}
+	    
+
+void do_rest(struct char_data *ch, char *argument, int cmd)
+{
+global_color=32;
+    switch(GET_POS(ch)) {
+	case POSITION_STANDING : {
+	    act("You sit down and rest your tired bones.",
+		FALSE, ch, 0, 0, TO_CHAR);
+	    act("$n sits down and rests.", TRUE, ch, 0, 0, TO_ROOM);
+	    GET_POS(ch) = POSITION_RESTING;
+	} break;
+	case POSITION_SITTING : {
+	    act("You rest your tired bones.", FALSE, ch, 0, 0, TO_CHAR);
+	    act("$n rests.", TRUE, ch, 0, 0, TO_ROOM);
+	    GET_POS(ch) = POSITION_RESTING;
+	} break;
+	case POSITION_RESTING : {
+	    act("You are already resting.", FALSE, ch, 0, 0, TO_CHAR);
+	} break;
+	case POSITION_SLEEPING : {
+	    act("You have to wake up first.", FALSE, ch, 0, 0, TO_CHAR);
+	    } break;
+	case POSITION_FIGHTING : {
+	    act("Rest while fighting? are you MAD?", FALSE, ch, 0, 0, TO_CHAR);
+	} break;
+	default : {
+	    act("You stop floating around, and stop to rest your tired bones.",
+	      FALSE, ch, 0, 0, TO_CHAR);
+	    act("$n stops floating around, and rests.",
+	    FALSE, ch, 0,0, TO_ROOM);
+	    GET_POS(ch) = POSITION_SITTING;
+	} break;
+    }
+    global_color=0;
+}
+
+
+void do_sleep(struct char_data *ch, char *argument, int cmd)
+{
+
+struct char_data *m;
+
+    global_color=32;
+    switch(GET_POS(ch)) {
+	case POSITION_STANDING : 
+	case POSITION_SITTING  :
+	case POSITION_RESTING  : {
+	    send_to_char("You go to sleep.\n\r", ch);
+	    act("$n lies down and falls asleep.", TRUE, ch, 0, 0, TO_ROOM);
+	    GET_POS(ch) = POSITION_SLEEPING;
+	} break;
+	case POSITION_SLEEPING : {
+	    send_to_char("You are already sound asleep.\n\r", ch);
+	} break;
+	case POSITION_FIGHTING : {
+	    send_to_char("Sleep while fighting? are you MAD?\n\r", ch);
+	} break;
+	default : {
+	    act("You stop floating around, and lie down to sleep.",
+	      FALSE, ch, 0, 0, TO_CHAR);
+	    act("$n stops floating around, and lie down to sleep.",
+	      TRUE, ch, 0, 0, TO_ROOM);
+	    GET_POS(ch) = POSITION_SLEEPING;
+	} break;
+    }
+    if(GET_POS(ch)!=POSITION_SLEEPING)return;
+    global_color=0;
+    if(world[ch->in_room]->zone==198){
+	for(m=world[ch->in_room]->people;m;m=m->next_in_room)
+	    if(m->nr==17021){
+		dream_weaver(ch);	
+		return;
+	    }
+    }
+}
+
+
+void do_wake(struct char_data *ch, char *argument, int cmd)
+{
+    struct char_data *tmp_char=NULL;
+    char arg[MAX_STRING_LENGTH];
+
+    global_color=32;
+
+    one_argument(argument,arg);
+    if (*arg) {
+	if (GET_POS(ch) == POSITION_SLEEPING) {
+	    act("You can't wake people up if you are asleep yourself!",
+		FALSE, ch,0,0,TO_CHAR);
+	} else {
+	    tmp_char = get_char_room_vis(ch, arg);
+	    if (tmp_char) {
+		if (tmp_char == ch) {
+		    act("If you want to wake yourself up, just type 'wake'",
+			FALSE, ch,0,0,TO_CHAR);
+		} else {
+		    if (GET_POS(tmp_char) == POSITION_SLEEPING) {
+			if (IS_AFFECTED(tmp_char, AFF_SLEEP)) {
+			    act("You can not wake $M up!",
+				FALSE, ch, 0, tmp_char, TO_CHAR);
+			} else {
+			    act("You wake $M up.",
+			    FALSE, ch, 0, tmp_char, TO_CHAR);
+			    GET_POS(tmp_char) = POSITION_STANDING;
+			    act("You are awakened by $n.",
+			    FALSE, ch, 0, tmp_char, TO_VICT);
+			}
+		    } else {
+			act("$N is already awake.",
+				FALSE,ch,0,tmp_char, TO_CHAR);
+		    }
+		}
+	    } else {
+		send_to_char("You do not see that person here.\n\r", ch);
+	    }
+	}
+    } else {
+	if (IS_AFFECTED(ch,AFF_SLEEP)) {
+	    send_to_char("You can't wake up!\n\r", ch);
+	} else {
+	    if (GET_POS(ch) > POSITION_SLEEPING)
+		send_to_char("You are already awake...\n\r", ch);
+	    else {
+		send_to_char("You wake, and stand up.\n\r", ch);
+		act("$n awakens.", TRUE, ch, 0, 0, TO_ROOM);
+		GET_POS(ch) = POSITION_STANDING;
+	    }
+	}
+    }
+    global_color=0;
+}
+
+
+
+*** Modified files in JOE when it aborted on Wed Sep 27 19:14:29 1995
+*** JOE was aborted by signal 1
+
+*** File 'holomob.c'
+/***************************************************************************
+*		 MEDIEVIA CyberSpace Code and Data files		   *
+*       Copyright (C) 1992, 1995 INTENSE Software(tm) and Mike Krause	   *
+*			   All rights reserved				   *
+***************************************************************************/
+/***************************************************************************
+* This program belongs to INTENSE Software, and contains trade secrets of  *
+* INTENSE Software.  The program and its contents are not to be disclosed  *
+* to or used by any person who has not received prior authorization from   *
+* INTENSE Software.  Any such disclosure or use may subject the violator   *
+* to civil and criminal penalties by law.                                  *
+***************************************************************************/
+
+#include <stdlib.h> 
+#include <stdio.h> 
+#include <string.h> 
+#include <memory.h> 
+#include <ctype.h> 
+#include <time.h> 
+#include "structs.h"
+#include "mob.h" 
+#include "obj.h" 
+#include "utils.h" 
+#include "db.h"
+#include "handler.h" 
+#include "limits.h" 
+#include "spells.h"
+#include "interp.h"
+
+
+/*                  /External variables and functions\                    */
+/*------------------------------------------------------------------------*/
+extern int port;
+extern struct room_data *world[MAX_ROOM];  
+extern struct char_data *mobs[MAX_MOB];  
+extern struct obj_data *objs[MAX_OBJ];  
+extern int top_of_world;  
+extern struct obj_data *object_list;  
+extern struct char_data *character_list;  
+extern struct zone_data zone_table_array[MAX_ZONE];  
+extern struct zone_data *zone_table;  
+extern int top_of_zone_table;  
+extern struct index_data mob_index_array[MAX_MOB]; 
+extern struct index_data *mob_index;  
+extern struct index_data obj_index_array[MAX_OBJ];  
+extern struct index_data *obj_index;  
+extern int top_of_mobt;  
+extern int top_of_objt; 
+extern struct descriptor_data *descriptor_list;  
+extern int dice(int number, int size);  
+extern int number(int from, int to); 
+
+
+#define HP_WAR 1.5
+#define HP_THI 1.1
+#define HP_MAG .6
+#define HP_CLE 1.0
+
+#define DAM_WAR 1.3
+#define DAM_MAG .5
+#define DAM_CLE 1.0
+#define DAM_THI 1.0
+
+#define HMOB_MAX_TABLE	40
+
+struct Hmob_table 
+{
+	sh_int hp;
+	sh_int mana;
+	sh_int move;
+	sh_int armor;
+	sbyte hitroll;
+	sbyte damroll;
+	byte dice[2];
+	int gold;
+	int exp;
+	sbyte str;
+	sbyte intel;
+	sbyte wis;
+	sbyte dex;
+	sbyte con;
+};
+
+
+float fMobWeights[15] = {
+	5,			/* 0: HP			*/
+	1,			/* 1: MANA			*/
+	1,			/* 2: MV			*/
+	1,			/* 3: ARMOR			*/
+	5,			/* 4: HITROLL		*/
+	10,			/* 5: AVERAGE DAM	*/
+	1,			/* 6: AUTOSANC?		*/
+	1,			/* 7: AGRESSIVE		*/
+	1,			/* 8: FIRE SHIELD	*/
+	1,			/* 9: SLEEPING-REST	*/
+	1,			/*10: WIMPY		*/
+ 	1,			/*11: CLASS MAGE 	*/
+ 	1,			/*12: CLASS WARRIOR	*/
+ 	1,			/*13: CLASS THIEF	*/
+ 	1			/*14: CLASS CLERIC	*/
+ 	
+};
+
+const struct Hmob_table hMobTable[HMOB_MAX_TABLE+1] = 
+{
+
+/*
+ *   HP,    MA,     MV,    AC,  HT, DAM, Dice[2] 
+ *   GP,         EXP,      ST, IN, WS, DEX, CON
+ */
+ 
+     /* 0 */
+	{ 1,	100,	100,	0,	0,	0,	1,	1,
+	  1,			1,	 	1, 1, 1, 1, 1 },
+     /* 1 */
+	{ 18,	100,	100,	95,	0,	0,	1,	6,
+	  0,			100,	 	13, 13, 13, 13, 13 },
+     /* 2 */
+	{ 24,	150,	100,	90,	0,	0,	1,	6,
+	  0,			150,	 	13, 13, 13, 13, 13 },
+     /* 3 */
+	{ 32,	200,	100,	85,	0,	0,	1,	8,
+	  0,			200,	 	13, 13, 13, 13, 13 },
+     /* 4 */
+	{ 50,	250,	100,	80,	0,	0,	1,	8,
+	  0,			500,	 	13, 13, 13, 13, 13 },
+     /* 5 */
+	{ 100,	300,	100,	75,	0,	0,	1,	8,
+	  0,			1000,	 	13, 13, 13, 13, 13 },
+     /* 6 */
+	{ 130,	350,	100,	70,	0,	1,	1,	8,
+	  0,			3000,		13, 13, 13, 13, 13 },
+     /* 7 */
+	{ 150,	400,	100,	65,	0,	1,	1,	8,
+	  0,			6000,	 	13, 13, 13, 13, 13 },
+     /* 8 */
+	{ 170,	450,	100,	60,	0,	0,	1,	10,
+	  0,			8000,	 	13, 13, 13, 13, 13 },
+     /* 9 */
+	{ 190,	500,	100,	55,	0,	1,	1,	10,
+	  0,			9000,	 	13, 13, 13, 13, 13 },
+     /* 10 */
+	{ 200,	550,	100,	50,	0,	1,	1,	10,
+	  0,			10000,	 	14, 14, 14, 14, 14 },
+     /* 11 */
+	{ 250,	600,	100,	45,	0,	0,	2,	6,
+	  0,			12000,	 	14, 14, 14, 14, 14 },
+     /* 12 */
+	{ 310,	650,	100,	40,	0,	0,	2,	6,
+	  0,			15500,	 	14, 14, 14, 14, 14 },
+     /* 13 */
+	{ 380,	700,	100,	35,	0,	0,	2,	6,
+	  0,			20000,	 	14, 14, 14, 14, 14 },
+     /* 14 */
+	{ 420,	750,	100,	30,	0,	0,	2,	8,
+	  0,			30000,	 	14, 14, 14, 14, 14 },
+     /* 15 */
+	{ 480,	800,	100,	25,	0,	0,	2,	8,
+	  0,			40000,	 	14, 14, 14, 14, 14 },
+     /* 16 */
+	{ 580,	850,	100,	20,	0,	0,	2,	8,
+	  0,			60000,	 	14, 14, 14, 14, 14 },
+     /* 17 */
+	{ 690,	900,	100,	15,	0,	1,	2,	8,
+	  0,			70000,	 	14, 14, 14, 14, 14 },
+     /* 18 */
+	{ 800,	950,	100,	10,	0,	0,	3,	6,
+	  0,			90000,	 	14, 14, 14, 14, 14 },
+     /* 19 */
+	{ 900,	1000,	100,	5,	0,	0,	3,	6,
+	  0,			100000,	 	14, 14, 14, 14, 14 },
+     /* 20 */
+	{ 1000,	1050,	100,	0,	0,	0,	3,	6,
+	  0,			110000,	 	15, 15, 15, 15, 15 },
+     /* 21 */
+	{ 1100,	1100,	100,	-5,	0,	0,	3,	8,
+	  0,			130000,	 	15, 15, 15, 15, 15 },
+     /* 22 */
+	{ 1210,	1150,	100,	-10,	0,	0,	4,	6,
+	  0,			140000,	 	15, 15, 15, 15, 15 },
+     /* 23 */
+	{ 1322,	1200,	100,	-15,	0,	0,	4,	7,
+	  0,			200000,	 	15, 15, 15, 15, 15 },
+     /* 24 */
+	{ 1440,	1250,	100,	-20,	0,	0,	4,	8,
+	  0,			250000,	 	15, 15, 15, 15, 15 },
+     /* 25 */
+	{ 1562,	1300,	100,	-25,	0,	4,	5,	6,
+	  0,			300000,	 	16, 16, 16, 16, 16 },
+     /* 26 */
+	{ 1690,	1350,	100,	-30,	0,	6,	5,	6,
+	  0,			360000,	 	16, 16, 16, 16, 16 },
+     /* 27 */
+	{ 1822,	1400,	100,	-35,	0,	8,	5,	6,
+	  0,			400000,	 	16, 16, 16, 16, 16 },
+     /* 28 */
+	{ 1960,	1450,	100,	-40,	0,	2,	5,	8,
+	  0,			450000,	 	17, 17, 17, 17, 17 },
+     /* 29 */
+	{ 2102,	1500,	100,	-45,	0,	4,	5,	8,
+	  0,			500000,	 	17, 17, 17, 17, 17 },
+     /* 30 */
+	{ 2250,	1550,	100,	-50,	0,	3,	5,	10,
+	  0,			550000,	 	18, 18, 18, 18, 18 },
+     /* 31 */
+	{ 2400,	1600,	100,	-55,	0,	5,	5,	10,
+	  0,			600000,	 	18, 18, 18, 18, 18 },
+     /* 32 */
+	{ 2560,	1650,	100,	-60,	0,	7,	5,	10,
+	  0,			650000,	 	18, 18, 18, 18, 18 },
+     /* 33 */
+	{ 2722,	1700,	100,	-65,	5,	9,	5,	10,
+	  0,			680000,	 	18, 18, 18, 18, 18 },
+     /* 34 */
+	{ 2890,	1750,	100,	-70,	10,	5,	5,	11,
+	  0,			720000,	 	18, 18, 18, 18, 18 },
+     /* 35 */
+	{ 3062,	1800,	100,	-75,	20,	10,	5,	11,
+	  0,			770000,	 	19, 19, 19, 19, 19 },
+     /* 36 */
+	{ 3888,	1900,	100,	-80,	30,	15,	5,	11,
+	  0,			820000,	 	19, 19, 19, 19, 19 },
+     /* 37 */
+	{ 4107,	1900,	100,	-85,	40,	20,	5,	11,
+	  0,			900000,	 	20, 20, 20, 20, 20 },
+     /* 38 */
+	{ 4332,	2000,	100,	-90,	50,	20,	5,	12,
+	  0,			950000,	 	21, 21, 21, 21, 21 },
+     /* 39 */
+	{ 5000,	2100,	100,	-95,	60,	20,	6,	11,
+	  0,			1000000,	 	22, 22, 22, 22, 22 },
+     /* 40 */
+	{ 6100,	2300,	100,	-100,	70,	30,	6,	12,
+	  0,			1500000,	 	23, 23, 23, 23, 23 }
+
+};
+	
+
+
+int iMobWeigh(struct char_data *mob)
+{
+int iBase=0, iAvDam, iAvDr;
+	
+	/* Figuring out Base Stuff */
+
+	iBase += mob->points.max_hit * fMobWeights[0];
+
+	if( ( GET_CLASS(mob) == CLASS_CLERIC ) || ( GET_CLASS(mob) == CLASS_MAGIC_USER ) )
+		iBase += mob->points.max_mana * fMobWeights[1];
+	iBase += (200 - mob->points.armor) * fMobWeights[3];
+	
+	
+	iBase += mob->points.hitroll *  fMobWeights[4];
+	
+	iAvDam = ( mob->specials.damnodice + (mob->specials.damnodice*mob->specials.damsizedice) ) / 2;
+		
+	switch(GET_CLASS(mob)) {
+		case CLASS_WARRIOR:
+			iAvDr = mob->points.damroll;
+			break;
+		case CLASS_THIEF:
+			iAvDr = mob->points.damroll * .75;
+			break;
+		case CLASS_CLERIC:
+			iAvDr = mob->points.damroll / 2;
+			break;
+		case CLASS_MAGIC_USER:
+			iAvDr = mob->points.damroll / 2;
+			break;
+		default:
+		    iAvDr = mob->points.damroll / 2;
+			break;
+	}
+	
+	/* Calculate the final damange amounts and then multiply by weight */
+	iAvDam += iAvDr;
+	iBase += iAvDam * fMobWeights[5];
+	
+	switch(GET_CLASS(mob)) {
+		case CLASS_WARRIOR:
+			iBase *= fMobWeights[12];
+			break;
+		case CLASS_CLERIC:
+			iBase *= fMobWeights[14];
+			break;
+		case CLASS_MAGIC_USER:
+			iBase *= fMobWeights[11];
+			break;
+		case CLASS_THIEF:
+			iBase *= fMobWeights[13];
+			break;
+		default:
+			break;
+	}
+
+	/* Now onto fireshield / sanc affects / etc.. */
+	
+	if(IS_SET(mob->specials.affected_by, AFF_SANCTUARY))
+		iBase *= fMobWeights[6];
+	if(IS_SET(mob->specials.affected_by, AFF_FIRESHIELD))
+		iBase *= fMobWeights[8];	
+	if(IS_SET(mob->specials.act, ACT_AGGRESSIVE))
+		iBase *= fMobWeights[7];
+	if(IS_SET(mob->specials.act, ACT_WIMPY))
+		iBase *= fMobWeights[11];
+		
+	if(iBase >= 0)
+		return(iBase);
+	else
+		return(0);
+		
+}
+
+
+void do_Mobexp(struct char_data *ch, char *argument, int cmd)
+{
+	char arg1[MAX_INPUT_LENGTH], buf[MAX_STRING_LENGTH];
+	char arg2[MAX_INPUT_LENGTH], arg3[MAX_INPUT_LENGTH];
+	int loop=0, value;
+	float value2;
+	struct char_data *mob;
+	
+	char *wt_types[] =
+	{
+		"     Hit Points:",
+		"    Mana Points:",
+		"           Move:",
+		"          Armor:",
+		"        Hitroll:",
+		" Average Damage:",
+		"(M)   Sanctuary:",
+		"(M)  Aggressive:",
+		"(M) Fire Shield:",
+		"(M)(NU)Sleeping:",
+		"(M)       Wimpy:",
+		"(M)  Class Mage:",
+		"(M) Class Thief:",
+		"(M)   Class War:",
+		"(M)Class Cleric:"
+	};		
+	
+	if(ch == NULL || IS_NPC(ch)) return;
+	
+	*buf = '\0';
+	
+	if(!*argument) {
+		send_to_char("MOB EXPERIENCE MODIFIERS/WEIGHTS\r\n",ch);
+		for(loop = 0; loop <= 14; loop++) 
+		{
+			sprintf(buf, "[%s%2d%s] %s %s%f%s\r\n",
+				 GRN(ch), loop, NRM(ch), wt_types[loop], RED(ch),
+				 fMobWeights[loop], NRM(ch));
+				 send_to_char(buf,ch);
+		} 
+		return;
+	}
+	
+	argument = one_argument(argument,arg1);  
+	argument = one_argument(argument,arg2);
+	one_argument(argument,arg3);
+	
+	
+	if(arg1[0] != 's' && arg1[0] != 'm') {
+		send_to_char("Usage: mobexp (m||s) (name||value)\r\n",ch);
+		send_to_char("THIS CAN BE DANGEROUS! BE VERY CAREFULL!\r\n",ch);	
+		return;
+	}
+	
+	if(arg1[0] == 'm') {
+		if(!*arg2) {
+			send_to_char("You must specify a mob name to test.\r\n",ch);
+			return;
+		}
+		
+		mob = get_char_vis(ch,arg2);
+		
+		if(mob) {
+			value = iMobWeigh(mob);
+			sprintf(buf,"%s is worth: %d exps.", GET_NAME(mob), value);
+			send_to_char(buf,ch);
+			return;
+		} else {
+			send_to_char("No such creature. \r\n",ch);
+			return;
+		}
+	}
+	
+	if(arg1[0] == 's') {
+		if(!*arg2 || !*arg3) {
+			send_to_char("You must specify a value to set..\r\n",ch);
+			return;
+		}
+		value = atoi(arg2);
+		value2 = atof(arg3);
+		
+		if(value > 14 || value < 0) {
+			send_to_char("Invalid Modifier.\r\n",ch);
+			return;
+		}
+		fMobWeights[value] = value2;
+		send_to_char("MOB EXP: Weights Updated.\r\n",ch);
+		
+		return;
+	}
+	
+}
+			
+	
+	
+void SetMobDificulty(struct char_data *mob, int level)
+{
+sh_int iHp=0;
+
+	if(!mob) {
+		log_hd("## Null mob passed to SetMobDifculty");
+		return;
+	}
+
+	if( !IS_NPC(mob) ) 
+		return;
+	
+	if(level > 40) {
+		log_hd("## mob LEVEL too HIGH in Setmobdificulty");
+		level= 40;
+	}
+	
+	if(level < 1) {
+		log_hd("## Mob LEVEL to LOW in Setmobdificulty");
+		level = 1;  
+	}
+	
+	iHp = hMobTable[level].hp + ( (hMobTable[level].hp / 100) * number(-10,10) );
+	
+    
+	switch( GET_CLASS(mob) ) {
+		case CLASS_WARRIOR:
+			mob->points.max_hit = iHp * HP_WAR;
+			mob->points.damroll = hMobTable[level].damroll * DAM_WAR;
+			break;
+		case CLASS_CLERIC:
+			mob->points.max_hit = iHp * HP_CLE;
+			mob->points.damroll = hMobTable[level].damroll * DAM_CLE;
+			break;
+		case CLASS_MAGIC_USER:
+			mob->points.max_hit = iHp * HP_MAG;
+			mob->points.damroll = hMobTable[level].damroll * DAM_MAG;
+			break;
+		case CLASS_THIEF:
+			mob->points.max_hit = iHp * HP_THI;
+			mob->points.damroll = hMobTable[level].damroll * DAM_THI;
+			break;
+		default:
+			mob->points.max_hit = iHp;
+			mob->points.damroll = hMobTable[level].damroll;
+			break;
+	}
+	
+	mob->points.max_mana = hMobTable[level].mana;
+	mob->points.max_move = hMobTable[level].move;
+	                        
+	mob->abilities.str   = hMobTable[level].str;
+	mob->abilities.dex   = hMobTable[level].dex;
+	mob->abilities.con   = hMobTable[level].con;
+	mob->abilities.wis   = hMobTable[level].wis;
+	mob->abilities.intel = hMobTable[level].intel;	                                        
+					
+	mob->points.hitroll  = hMobTable[level].hitroll;
+	mob->specials.damnodice = hMobTable[level].dice[0];
+	mob->specials.damsizedice = hMobTable[level].dice[1];
+	mob->points.armor = hMobTable[level].armor;
+	
+	mob->points.gold = hMobTable[level].gold + ( (hMobTable[level].gold / 100) * number(-20,20) );
+	mob->points.exp = hMobTable[level].exp + ( (hMobTable[level].exp / 100) * number(-20,20) );	
+
+	GET_LEVEL(mob) = level;
+	
+	GET_HIT(mob) = GET_MAX_HIT(mob);
+	GET_MANA(mob) = GET_MAX_MANA(mob);
+	GET_MOVE(mob) = GET_MAX_MOVE(mob);
+	
+	return;
+
+}
+
+*** Modified files in JOE when it aborted on Wed Sep 27 22:32:31 1995
+*** JOE was aborted by signal 1
+
+*** Modified files in JOE when it aborted on Thu Oct 12 15:49:01 1995
+*** JOE was aborted by signal 1
+
+*** File '(Unnamed)'
+edit_room_flags
+editroom_flags
+editroom
+roomflags
+roomflags
+
+*** Modified files in JOE when it aborted on Thu Oct 12 17:29:05 1995
+*** JOE was aborted by signal 1
+
+*** File '(Unnamed)'
+<<
+
+*** File 'changes.c'
+/***************************************************************************
+*		 MEDIEVIA CyberSpace Code and Data files		   *
+*       Copyright (C) 1992, 1995 INTENSE Software(tm) and Mike Krause	   *
+*			   All rights reserved				   *
+***************************************************************************/
+/***************************************************************************
+* This program belongs to INTENSE Software, and contains trade secrets of  *
+* INTENSE Software.  The program and its contents are not to be disclosed  *
+* to or used by any person who has not received prior authorization from   *
+* INTENSE Software.  Any such disclosure or use may subject the violator   *
+* to civil and criminal penalties by law.                                  *
+***************************************************************************/
+#include <memory.h>
+#include <stdlib.h>
+#include <stdio.h>
+#include <string.h>
+#include <ctype.h>
+
+#include "structs.h"
+#include "mob.h"
+#include "obj.h"
+#include "utils.h"
+#include "interp.h"
+#include "handler.h"
+#include "db.h"
+#include "spells.h"
+#include "limits.h"
+
+/*   external vars  */
+extern void fall(struct char_data *ch);
+extern char grep_text[250];
+extern char *god_list[];
+extern char global_color;
+extern int top_of_zone_table;
+extern struct room_data *world[MAX_ROOM]; /* array of rooms  */
+extern struct obj_data  *objs[MAX_OBJ];
+extern struct descriptor_data *descriptor_list;
+extern struct index_data *mob_index;
+extern struct index_data *obj_index;
+extern struct int_app_type int_app[26];
+extern bool wizlock;
+extern struct zone_data *zone_table;
+extern struct damage_rooms *daroom_list;
+
+int post_office(struct char_data *ch, int cmd, char *arg);
+/* external functs */
+extern bool in_a_shop(struct char_data *ch);
+void set_title(struct char_data *ch);
+int str_cmp(char *arg1, char *arg2);
+char *skip_spaces(char *string);
+struct time_info_data age(struct char_data *ch);
+bool is_formed(struct char_data *ch);
+int mana_limit(struct char_data *ch);
+int hit_limit(struct char_data *ch);
+int move_limit(struct char_data *ch);
+int mana_gain(struct char_data *ch);
+int hit_gain(struct char_data *ch);
+int move_gain(struct char_data *ch);
+bool is_in_safe(struct char_data *ch, struct char_data *victim);
+void do_editroom_roomflags(struct char_data *ch, char *argument, int cmd);
+extern void do_editroom_actions(struct char_data *ch, char *argument, int cmd);
+
+extern bool IS_IN_BACK(struct char_data *ch);  
+extern bool IS_IN_FRONT(struct char_data *ch);  
+extern struct char_data *pick_victim(struct char_data *ch); 
+
+
+void do_password(struct char_data *ch, char *argument, int cmd)
+{
+    if(cmd==9){
+    	send_to_char("Please enter your password, between 6-10 characters...\n\r",ch);
+      	strcpy(ch->p->queryprompt,"Enter your new password> ");
+		ch->p->querycommand=1000; 
+		ch->p->queryfunc=do_password;
+        return;
+    }
+    if(cmd==1000){
+	    if(!argument||!argument[0]){
+	    	send_to_char("CANCLED\r\n",ch);
+	    	ch->p->querycommand=0;
+	    	return;
+	    }
+		if((strlen(argument)<6)||(strlen(argument)>10))
+		{
+			send_to_char("Password must be 6 to 10 characters.\n\r",ch);
+		    return;
+		}
+		strncpy(ORIGINAL(ch)->pwd,crypt(argument,ORIGINAL(ch)->player.name),10);
+		ORIGINAL(ch)->pwd[10] = '\0';
+		strcpy(ch->p->queryprompt,"Please retype password> ");
+		ch->p->querycommand=1001;
+		return;
+	}
+	if(strncmp(crypt(argument,ORIGINAL(ch)->pwd ),ORIGINAL(ch)->pwd,10))
+	{
+		send_to_char("Passwords dont match, retype password...\n\r",ch);
+    	send_to_char("Please enter your password, between 6-10 characters...\n\r",ch);
+      	strcpy(ch->p->queryprompt,"Enter your new password> ");
+		ch->p->querycommand=1000; 
+        return;
+	}
+	ch->p->querycommand=0;
+}
+
+void do_grep(struct char_data *ch, char *argument, int cmd)
+{
+    char buf[MAX_INPUT_LENGTH]; 
+    char text[MAX_INPUT_LENGTH]; 
+    if (IS_NPC(ch))
+	return;
+    if(!argument||!argument[0]){
+	send_to_char("SYNTAX>  grep texttosearchfor command args
+\rexample: grep fight who
+\rexample: grep MAG who
+\rexample: grep vryce l board
+\rnotice it is NOT case sensitive\n\r",ch);
+	return;
+    }
+    half_chop(argument,text,buf);
+    if(!text[0]||!buf[0]){
+	send_to_char("SYNTAX>  grep texttosearchfor command args
+example: grep fight who
+example: grep MAG who
+example: grep vryce l board
+notice it is NOT case sensitive\n\r",ch);
+	return;
+    }
+    send_to_char("Starting grep....\n\r",ch);
+    set_to_lower(grep_text,text);
+    command_interpreter(ch, buf);
+    grep_text[0]=MED_NULL;
+    global_color=0;
+    send_to_char("Grep complete.\n\r",ch);
+
+}
+
+void do_editroom_sectortype(struct char_data *ch, char *argument, int cmd)
+{
+    char buf[MAX_INPUT_LENGTH]; 
+    if (IS_NPC(ch))
+	return; 
+    one_argument(argument, buf); 
+
+
+   if(cmd==9){
+	global_color=32; 
+	send_to_char("\n\r    EDIT ROOM SECTORTYPE\n\r",ch); 
+	global_color=0; 
+	ch->p->queryfunc=do_editroom_sectortype; 
+send_to_char(
+"Please select a number from the following\n\rThe sector type affects your Movement loss
+[0]-INSIDE  walking indoors
+[1]-CITY walking in a city
+[2]-FIELD walking in a field
+[3]-FOREST hiking through a forest
+[4]-HILLS walking up and or down hills
+[5]-MOUNTAIN climbing a mountain
+[6]-SWIMMABLE WATER swimming in water
+[7]-WATER WITH BOAT on water, need a boat or fly
+[8]-DESERT trudging through a desert
+[9]-UNDERWATER swimming under water, need underwater gear or spells
+[10]-AIR flying in the air, need flying equipment
+",ch);
+
+      	strcpy(ch->p->queryprompt,
+	 "Select a number 0-10 or CR=no change > ");
+	ch->p->querycommand=1000; 
+	return; 
+    }
+    if(cmd==1000&&buf[0]){
+	int number;
+	number=atoi(buf);
+	if(number<0||number>10){
+	    send_to_char("Select sector type from 0-10 only.\n\r",ch);
+	    return;
+	}
+	world[ch->in_room]->sector_type=number;
+    }
+    ch->p->querycommand=0;
+}
+
+void do_editroom_restrictions(struct char_data *ch, char *argument, int cmd)
+{
+    char buf[MAX_INPUT_LENGTH]; 
+    int level;
+    if (IS_NPC(ch))
+	return; 
+    one_argument(argument, buf); 
+
+
+   if(cmd==9){
+	global_color=32; 
+	send_to_char("\n\r    EDIT ROOM RESTRICTIONS\n\r",ch); 
+	global_color=0; 
+	ch->p->queryfunc=do_editroom_restrictions; 
+      	strcpy(ch->p->queryprompt,
+	 "\n\rEdit the rooms CLASS Restrictions? (y/cr)> ");
+	ch->p->querycommand=1001; 
+	return; 
+    }
+    if(cmd==1001){
+	if(buf[0]=='Y'||buf[0]=='y'){
+	   ch->p->querycommand=1002;
+ 	strcpy(ch->p->queryprompt,
+	 "\n\rDISALLOW THIEVES from the room? (y/n/cr)> "); 
+	return;	
+        }
+ 	strcpy(ch->p->queryprompt,
+	 "\n\rEdit the rooms LEVEL Restrictions? (y/cr)> "); 
+	ch->p->querycommand=1006;
+	return; 
+    }
+    if(cmd==1002){
+	if(buf[0]=='Y'||buf[0]=='y')
+	    SET_BIT(world[ch->in_room]->class_restriction, NO_THIEF); 
+	if(buf[0]=='N'||buf[0]=='n')
+	    REMOVE_BIT(world[ch->in_room]->class_restriction, NO_THIEF); 
+
+ 	strcpy(ch->p->queryprompt,
+	 "\n\rDISALLOW MAGES from the room? (y/n/cr)> "); 
+	ch->p->querycommand=1003; 
+	return; 
+    }
+    if(cmd==1003){
+	if(buf[0]=='Y'||buf[0]=='y')
+	    SET_BIT(world[ch->in_room]->class_restriction, NO_MAGE); 
+	if(buf[0]=='N'||buf[0]=='n')
+	    REMOVE_BIT(world[ch->in_room]->class_restriction, NO_MAGE); 
+
+ 	strcpy(ch->p->queryprompt,
+	 "\n\rDISALLOW CLERICS from the room? (y/n/cr)> "); 
+	ch->p->querycommand=1004; 
+	return; 
+    }
+    if(cmd==1004){
+	if(buf[0]=='Y'||buf[0]=='y')
+	    SET_BIT(world[ch->in_room]->class_restriction, NO_CLERIC); 
+	if(buf[0]=='N'||buf[0]=='n')
+	    REMOVE_BIT(world[ch->in_room]->class_restriction, NO_CLERIC); 
+
+ 	strcpy(ch->p->queryprompt,
+	 "\n\rDISALLOW WARRIORS from the room? (y/n/cr)> "); 
+	ch->p->querycommand=1005; 
+	return; 
+    }
+
+    if(cmd==1005){
+	if(buf[0]=='Y'||buf[0]=='y')
+	    SET_BIT(world[ch->in_room]->class_restriction, NO_WARRIOR); 
+	if(buf[0]=='N'||buf[0]=='n')
+	    REMOVE_BIT(world[ch->in_room]->class_restriction, NO_WARRIOR); 
+
+ 	strcpy(ch->p->queryprompt,
+	 "\n\rEdit the rooms LEVEL Restrictions? (y/cr)> "); 
+	ch->p->querycommand=1006; 
+	return; 
+    }
+    if(cmd==1006){
+	if(buf[0]=='Y'||buf[0]=='y'){
+	   ch->p->querycommand=1007;
+ 	strcpy(ch->p->queryprompt,
+	 "\n\renter level number example: 
+ 30=only allow players level 30+
+-20=only allow players under level 20 (-35to35(cr to cancel))> "); 
+	return;	
+        }
+ 	strcpy(ch->p->queryprompt,
+	 "\n\rEdit the rooms ALIGNMENT Restrictions? (y/cr)> ");
+	ch->p->querycommand=1008;
+	return; 
+    }
+    if(cmd==1007){
+      if(buf[0]){
+	level=atoi(buf);
+	if(level<-35||level>35){
+	    send_to_char("Select from -35 to 35 only.\n\r",ch);
+	    return;
+	}
+	world[ch->in_room]->level_restriction=level;
+      }
+      strcpy(ch->p->queryprompt,
+      "\n\rEdit the rooms ALIGNMENT Restrictions? (y/cr)> ");
+      ch->p->querycommand=1008;
+      return; 
+    }
+    if(cmd==1008){
+	if(buf[0]=='Y'||buf[0]=='y'){
+	   ch->p->querycommand=1009;
+ 	strcpy(ch->p->queryprompt,
+	 "\n\rDISALLOW EVIL Alignments from the room? (y/n/cr)> "); 
+	return;	
+        }
+ 	strcpy(ch->p->queryprompt,
+	 "\n\rEdit the rooms MOUNT Restrictions? (y/cr)> "); 
+	ch->p->querycommand=1012;
+	return; 
+    }
+    if(cmd==1009){
+	if(buf[0]=='Y'||buf[0]=='y')
+	    SET_BIT(world[ch->in_room]->align_restriction, NO_EVIL); 
+	if(buf[0]=='N'||buf[0]=='n')
+	    REMOVE_BIT(world[ch->in_room]->align_restriction, NO_EVIL); 
+
+ 	strcpy(ch->p->queryprompt,
+	 "\n\rDISALLOW NEUTRAL Alignments from the room? (y/n/cr)> "); 
+	ch->p->querycommand=1010; 
+	return; 
+    }
+    if(cmd==1010){
+	if(buf[0]=='Y'||buf[0]=='y')
+	    SET_BIT(world[ch->in_room]->align_restriction, NO_NEUTRAL); 
+	if(buf[0]=='N'||buf[0]=='n')
+	    REMOVE_BIT(world[ch->in_room]->align_restriction, NO_NEUTRAL); 
+
+ 	strcpy(ch->p->queryprompt,
+	 "\n\rDISALLOW GOOD Alignments from the room? (y/n/cr)> "); 
+	ch->p->querycommand=1011; 
+	return; 
+    }
+    if(cmd==1011){
+	if(buf[0]=='Y'||buf[0]=='y')
+	    SET_BIT(world[ch->in_room]->align_restriction, NO_GOOD); 
+	if(buf[0]=='N'||buf[0]=='n')
+	    REMOVE_BIT(world[ch->in_room]->align_restriction, NO_GOOD); 
+ 	strcpy(ch->p->queryprompt,
+	 "\n\rEdit the rooms MOUNT Restrictions? (y/cr)> "); 
+	ch->p->querycommand=1012;
+	return; 
+    }
+    if(cmd==1012){
+	send_to_char("MOUNTING is not ready yet.\n\r",ch);
+	ch->p->querycommand=0;
+	return;
+    }
+}
+
+void add_damage_room(int room, int type, int amt)
+{
+ struct damage_rooms *d_room = NULL;
+ int found=0;
+ 
+ 	for( d_room = daroom_list ; d_room ; d_room = d_room->next) 
+ 	{ 
+   		if(d_room->room_num == room && d_room->damage_type == type)
+  			found=1;  		
+	}
+	
+	d_room = NULL;
+	
+	if(!found) {
+		CREATE(d_room, struct damage_rooms, 1);
+		d_room->room_num = room;
+		d_room->damage_type = type;
+		d_room->damage_amt = amt;
+		d_room->next = daroom_list;
+		daroom_list = d_room;
+	}
+		
+	return;	
+}
+
+
+
+void remove_damage_room(int room, int type)
+{
+ struct damage_rooms *temp, *d_room = NULL;
+ int found=0;
+
+	for( d_room = daroom_list ; d_room ; d_room = d_room->next)
+	{
+		if(d_room->room_num == room && d_room->damage_type == type) {
+			found = 1;
+			break;
+		}
+        }
+
+	if(found && d_room) {
+		REMOVE_FROM_LIST(d_room, daroom_list, next);
+		my_free(d_room);
+	}
+	return;
+}
+
+/*
+
+void do_editroom_roomflags(struct char_data *ch, char *argument, int cmd)
+{
+    char buf[MAX_INPUT_LENGTH]; 
+    if (IS_NPC(ch))
+	return; 
+    one_argument(argument, buf); 
+
+
+   if(cmd==9){
+	global_color=32; 
+	send_to_char("\n\r    EDIT ROOM FLAGS\n\r",ch); 
+	global_color=0; 
+	ch->p->queryfunc=do_editroom_roomflags; 
+      	strcpy(ch->p->queryprompt,
+	 "\n\rDo you want to set the DARK bit? So you always need a light.\n\ry=yes make it dark, n=no don't need a light, cr=no change (y/n/cr)> ");
+	ch->p->querycommand=1000; 
+	return; 
+    }
+    if(cmd==1000){
+	if(buf[0]=='Y'||buf[0]=='y')
+	    SET_BIT(world[ch->in_room]->room_flags, DARK); 
+	if(buf[0]=='N'||buf[0]=='n')
+	    REMOVE_BIT(world[ch->in_room]->room_flags, DARK); 
+
+ 	strcpy(ch->p->queryprompt,
+	 "\n\rDo you want to set the DEATH bit?\n\ry=yes people will die, n=no let them live, cr=no change (y/n/cr)> "); 
+	ch->p->querycommand=1001; 
+	return; 
+    }
+    if(cmd==1001){
+	if(buf[0]=='Y'||buf[0]=='y')
+	    SET_BIT(world[ch->in_room]->room_flags, DEATH); 
+	if(buf[0]=='N'||buf[0]=='n')
+	    REMOVE_BIT(world[ch->in_room]->room_flags, DEATH); 
+
+ 	strcpy(ch->p->queryprompt, "\n\rSet the NO_MOB bit? so critters cannot wander into room?\n\ry=yes disallow critters, n=no let them wander in, cr=no change (y/n/cr)> "); 
+	ch->p->querycommand=1002; 
+	return; 
+    }
+    if(cmd==1002){
+	if(buf[0]=='Y'||buf[0]=='y')
+	    SET_BIT(world[ch->in_room]->room_flags, NO_MOB); 
+	if(buf[0]=='N'||buf[0]=='n')
+	    REMOVE_BIT(world[ch->in_room]->room_flags, NO_MOB); 
+
+ 	strcpy(ch->p->queryprompt, "\n\rSet the INDOORS bit? Y=yes make it indoors n=no cr=no change(y/n/cr)> "); 
+	ch->p->querycommand=1003; 
+	return; 
+    }
+    if(cmd==1003){
+	if(buf[0]=='Y'||buf[0]=='y')
+	    SET_BIT(world[ch->in_room]->room_flags, INDOORS); 
+	if(buf[0]=='N'||buf[0]=='n')
+	    REMOVE_BIT(world[ch->in_room]->room_flags, INDOORS); 
+
+ 	strcpy(ch->p->queryprompt, "\n\rSelect PLAYERKILL l=LAWFULL, n=NEUTRAL, c=CHAOTIC,cr=no change(l/n/c/cr)> "); 
+	ch->p->querycommand=1004; 
+	return; 
+    }
+    if(cmd==1004){
+	if(buf[0]=='L'||buf[0]=='l'){
+	    REMOVE_BIT(world[ch->in_room]->room_flags, NEUTRAL); 
+	    REMOVE_BIT(world[ch->in_room]->room_flags, CHAOTIC); 
+
+	}
+	if(buf[0]=='N'||buf[0]=='n')
+	    SET_BIT(world[ch->in_room]->room_flags, NEUTRAL); 
+	if(buf[0]=='C'||buf[0]=='c')
+	    SET_BIT(world[ch->in_room]->room_flags, CHAOTIC); 
+
+ 	strcpy(ch->p->queryprompt, "\n\rSet the PRIVATE bit? y=its impossible to teleport here if already has 2 players\n\r n=no do not set this bit,  cr=no change (y/n/cr)> "); 
+	ch->p->querycommand=1005; 
+	return; 
+    }
+    if(cmd==1005){
+	if(buf[0]=='Y'||buf[0]=='y')
+	    SET_BIT(world[ch->in_room]->room_flags, PRIVATE); 
+	if(buf[0]=='N'||buf[0]=='n')
+	    REMOVE_BIT(world[ch->in_room]->room_flags, PRIVATE); 
+
+ 	strcpy(ch->p->queryprompt, "\n\rSet the GODPROOF bit? y=fort knox, n=let gods in, cr=no change(y/n/cr)> "); 
+	ch->p->querycommand=1006; 
+	return; 
+    }
+    if(cmd==1006){
+	if(buf[0]=='Y'||buf[0]=='y')
+	    SET_BIT(world[ch->in_room]->room_flags, GODPROOF); 
+	if(buf[0]=='N'||buf[0]=='n')
+	    REMOVE_BIT(world[ch->in_room]->room_flags, GODPROOF); 
+
+	strcpy(ch->p->queryprompt, "\n\rSet the TUNNEL bit? y=yes make the room a tunnel, n=no, cr=no change(y/n/cr)> ");
+	ch->p->querycommand=1007; 
+	return; 
+    }
+    if( cmd == 1007) {
+    	if(buf[0]=='Y'||buf[0]=='y')
+    		SET_BIT(world[ch->in_room]->room_flags, TUNNEL);
+    	if(buf[0]=='N'||buf[0]=='n')
+    		REMOVE_BIT(world[ch->in_room]->room_flags, TUNNEL);
+    	
+    	strcpy(ch->p->queryprompt, "\n\rSet the f=FIRE, g=GAS, c=COLD bit? (f/g/c/n=no/#cr = no change)> ");
+    	ch->p->querycommand=1008;
+    	return;
+    }
+    if( cmd == 1008 ) {
+    	if(buf[0]=='F'||buf[0]=='f') {
+    		SET_BIT(world[ch->in_room]->room_flags, FIRE);
+    		add_damage_room(ch->in_room, FIRE, 120);
+    	}
+	if(buf[0]=='g'||buf[0]=='G') {
+    		SET_BIT(world[ch->in_room]->room_flags, GAS);
+    		add_damage_room(ch->in_room, GAS, 85);
+    	}
+    	if(buf[0]=='c'||buf[0]=='C') {
+    		SET_BIT(world[ch->in_room]->room_flags, COLD);
+    		add_damage_room(ch->in_room, COLD, 60);
+    	}
+    	if(buf[0]=='N'||buf[0]=='n') {
+	    	if(ROOM_FLAGGED(ch->in_room,FIRE))
+ 			remove_damage_room(ch->in_room, FIRE);
+ 		if(ROOM_FLAGGED(ch->in_room,GAS)) 
+ 			remove_damage_room(ch->in_room, GAS);
+ 		if(ROOM_FLAGGED(ch->in_room,COLD))
+ 			remove_damage_room(ch->in_room, COLD);
+ 		REMOVE_BIT(world[ch->in_room]->room_flags, FIRE);
+ 		REMOVE_BIT(world[ch->in_room]->room_flags, GAS);
+ 		REMOVE_BIT(world[ch->in_room]->room_flags, COLD);
+ 	}		
+    	ch->p->querycommand=0;	
+    	return;
+    }
+ }
+
+*/
+
+#define NUM_ROOM_FLAGS 16
+
+void do_editroom_roomflags(struct char_data *ch, char *argument, int cmd)
+{
+  char buf2[MAX_INPUT_LENGTH];
+  char buf[MAX_STRING_LENGTH], buf1[300];
+
+  int counter, number, addflag=0;
+  extern char *room_bits[];
+
+  if (IS_NPC(ch))
+    return;
+  
+  one_argument(argument, buf2);
+  
+   if( cmd == 9 ) {
+	ch->p->queryfunc=do_editroom_roomflags;
+	ch->p->querycommand=1000;
+	strcpy(ch->p->queryprompt, "(# of Tag to Toggle, 0 to quit)> ");
+  }
+
+  if(cmd == 1000) {
+    if(*buf2) {
+	  if(is_number(buf2)) {
+		number = atoi(buf2);
+		if(number < 0 || number > NUM_ROOM_FLAGS) {
+		   send_to_char("INVALID ROOM FLAG. \r\n",ch);
+		   return;
+		}
+		if(number == 0) {
+		   ch->p->querycommand=0;
+		   return;
+		}
+		if(number == 13)
+			return;
+			
+		if (IS_SET(world[ch->in_room]->room_flags, 1 << (number - 1)))
+		  REMOVE_BIT(world[ch->in_room]->room_flags, 1 << (number - 1));
+		else {
+		  SET_BIT(world[ch->in_room]->room_flags, 1 << (number - 1));
+		  addflag = 1;
+		}
+		if(number == 14 && addflag) 
+		   add_damage_room(ch->in_room, FIRE, 120);
+		else
+		   remove_damage_room(ch->in_room, FIRE);
+
+		if(number == 15 && addflag)
+			add_damage_room(ch->in_room, GAS, 85);
+		else
+			remove_damage_room(ch->in_room, GAS);
+
+		if(number == 16 && addflag)
+			add_damage_room(ch->in_room, COLD, 60);
+		else
+			remove_damage_room(ch->in_room, COLD);
+	
+	} /* end if is number */
+
+   } /* end if if *buf2 */
+   
+  } /* end if if(cmd == 1000) */
+   
+     /* display menu now */
+  
+   for (counter = 0; counter < NUM_ROOM_FLAGS; counter += 2) {
+   	sprintf(buf, "%2d) %20.20s %2d) %20.20s\r\n",
+                  counter + 1, room_bits[counter],
+                  counter + 2, counter + 1 < NUM_ROOM_FLAGS ?
+                  room_bits[counter + 1] : "");
+        send_to_char(buf, ch);
+  }
+  sprintbit((long) world[ch->in_room]->room_flags, room_bits, buf1);
+  sprintf(buf, "--> %s\r\n\r\n", buf1);
+  send_to_char(buf, ch);
+
+}
+
+
+
+void do_editroom_exit(struct char_data *ch, char *argument, int cmd)
+{
+    char buf[MAX_INPUT_LENGTH], keyword[MAX_INPUT_LENGTH]; 
+    int number;
+
+    if (IS_NPC(ch))
+	return; 
+    strcpy(keyword,argument);
+    one_argument(argument, buf); 
+
+   if(cmd==9){
+	global_color=32; 
+	send_to_char("\n\r    EDIT ROOM EXIT\n\r",ch); 
+	global_color=0; 
+	ch->p->queryfunc=do_editroom_exit; 
+      	strcpy(ch->p->queryprompt,
+	 "Enter Direction to edit(n,e,s,w,u,d) or cr to cancel > ");
+	ch->p->querycommand=1000; 
+	return; 
+    }
+    if(cmd==1000){
+      if(!buf[0]){
+	ch->p->querycommand=0;
+	ch->internal_use=-1;
+	return;
+      }
+      switch(buf[0]){
+	case 'n':
+	case 'N':
+	    ch->internal_use=0;
+	    break;
+	case 'e':
+	case 'E':
+	    ch->internal_use=1;
+	    break;
+	case 's':
+	case 'S':
+	    ch->internal_use=2;
+	    break;
+	case 'w':
+	case 'W':
+	    ch->internal_use=3;
+	    break;
+	case 'u':
+	case 'U':
+	    ch->internal_use=4;
+	    break;
+	case 'd':
+	case 'D':
+	    ch->internal_use=5;
+	    break;
+	default:
+	    ch->internal_use=0;
+	    ch->p->querycommand=0;
+	    send_to_char("Direction not recognized.\n\r",ch);
+	    break;
+      }
+      if(!world[ch->in_room]->dir_option[ch->internal_use]){
+	    send_to_char("No exit there. Use makeexit command.\n\r",ch);
+	    ch->internal_use=0;
+	    ch->p->querycommand=0;
+	    return;	    
+      }
+      strcpy(ch->p->queryprompt,
+      "\n\rEdit what you see when typing LOOK DIRECTION? (y/cr)> ");
+      ch->p->querycommand=1001;
+      return; 
+    }
+    if(cmd==1001){
+	if(buf[0]=='Y'||buf[0]=='y'){
+	    ch->desc->str = &world[ch->in_room]->dir_option[ch->internal_use]->general_description; 
+	    ch->desc->max_str = 400; 
+	    strcpy(ch->desc->editing,"Room direction text");
+        }
+      strcpy(ch->p->queryprompt,
+      "\n\r
+Enter a list of space seperated words that will work with open/close 
+This is what the door is called, open door, open closet  etc..
+example: trapdoor door
+or just type ENTER(cr) for no change> ");
+      ch->p->querycommand=1002;
+      return; 
+    }
+    if(cmd==1002){
+	if(keyword[0]){
+	  
+	   world[ch->in_room]->dir_option[ch->internal_use]->keyword =
+			my_free(world[ch->in_room]->dir_option[ch->internal_use]->keyword);
+	   world[ch->in_room]->dir_option[ch->internal_use]->keyword=str_dup(keyword);
+        }
+      send_to_char("\n\r
+           **SELECTION OF DOOR TYPE**
+     0 - exit is not a door, not openable closeable etc..
+     1 - is a door and CAN be Picked
+     2 - is a door and CANNOT be picked
+     3 - is a SECRET door
+     4 - is a HIDDEN door
+     5 - is an ILLUSION door
+     Whether door is lockable depends on next prompt for key#\n\r",ch);
+      strcpy(ch->p->queryprompt,
+     "Enter your selection(0,1,2,3,4,5) or ENTER(cr) for no change> ");
+      ch->p->querycommand=1003;
+      return; 
+    }
+    if(cmd==1003){
+	if(buf[0]){
+	    switch(buf[0]){
+		case '0':
+		    world[ch->in_room]->dir_option[ch->internal_use]->exit_info=0;
+		    break;
+		case '1':
+		    world[ch->in_room]->dir_option[ch->internal_use]->exit_info=EX_ISDOOR;
+		    break;
+		case '2':
+		    world[ch->in_room]->dir_option[ch->internal_use]->exit_info=EX_ISDOOR|EX_PICKPROOF;
+		    break;
+		case '3':
+		    world[ch->in_room]->dir_option[ch->internal_use]->exit_info=EX_ISDOOR|EX_SECRET;
+		    break;
+		case '4':
+		    world[ch->in_room]->dir_option[ch->internal_use]->exit_info=EX_ISDOOR|EX_HIDDEN;
+		    break;
+		case '5':
+		    world[ch->in_room]->dir_option[ch->internal_use]->exit_info=EX_ISDOOR|EX_ILLUSION;
+		    break;
+		default:
+		    send_to_char("Selection not recognized! NO CHANGES MADE\n\r",ch);
+		    break;
+	    }
+        }
+      strcpy(ch->p->queryprompt,
+      "
+                **ENTER KEY NUMBER**
+Enter the number of the KEY object which can unlock/lock the door.
+If the player carries/holds this object, he can lock/unlock the door.
+Number of object or ENTER(cr) no change> ");
+      ch->p->querycommand=1004;
+      return; 
+
+    }
+    if(cmd==1004){
+	if(buf[0]){
+	    number=atoi(buf);
+	    if(number<1||number>MAX_OBJ){
+		send_to_char("Object of key must be between 1 and MAX_OBJ.\n\r",ch);
+	    }else if(!objs[number]){
+		send_to_char("That object number doesn't exist.\n\r",ch);
+	    }else if(objs[number]->obj_flags.type_flag!=ITEM_KEY){
+		send_to_char("That obj is not a KEY TYPE.\n\r",ch);
+	    }else{
+		world[ch->in_room]->dir_option[ch->internal_use]->key=number;
+	    }
+        }
+      strcpy(ch->p->queryprompt,
+      "
+                **ENTER CUSTOM entrance Message**
+This what the NEXT room will see when the player goes from here to there.
+You see %n climb up to you from below: Notice %n will be filled with name
+Enter ONE line entrance message or ENTER(cr) no change:
+> ");
+      if(world[ch->in_room]->dir_option[ch->internal_use]->entrance){
+	send_to_char("\n\rOLD ENTRANCE MESSAGE:\n\r",ch);
+	send_to_char(world[ch->in_room]->dir_option[ch->internal_use]->entrance,ch);
+      }
+      ch->p->querycommand=1005;
+      return; 
+    }    
+
+    if(cmd==1005){
+	if(keyword[0]){
+	   number=-1;
+	   while(keyword[++number])
+	 	if(keyword[number]=='%')keyword[number]='$';
+	   world[ch->in_room]->dir_option[ch->internal_use]->entrance =
+		my_free(world[ch->in_room]->dir_option[ch->internal_use]->entrance);
+	   world[ch->in_room]->dir_option[ch->internal_use]->entrance=str_dup(keyword);
+        }
+
+      strcpy(ch->p->queryprompt,
+      "
+                **ENTER CUSTOM exit Message**
+This is what the room HERE sees when the player exits via this exit.
+You see %n cross the chasm hand over hand: Notice %n will be filled with name
+Enter ONE line entrance message or ENTER(cr) no change:
+> ");
+      if(world[ch->in_room]->dir_option[ch->internal_use]->exit){
+	send_to_char("\n\rOLD EXIT MESSAGE:\n\r",ch);
+	send_to_char(world[ch->in_room]->dir_option[ch->internal_use]->exit,ch);
+      }
+      ch->p->querycommand=1006;
+      return; 
+    }    
+    if(cmd==1006){
+	if(keyword[0]){
+	   number=-1;
+	   while(keyword[++number])
+	 	if(keyword[number]=='%')keyword[number]='$';
+	   world[ch->in_room]->dir_option[ch->internal_use]->exit =
+		my_free(world[ch->in_room]->dir_option[ch->internal_use]->exit);
+	   world[ch->in_room]->dir_option[ch->internal_use]->exit=str_dup(keyword);
+        }
+    }
+   ch->internal_use=-1;
+   ch->p->querycommand=0; 
+
+}
+struct extra_descr_data *get_descr(struct char_data *ch,int number)
+{
+struct extra_descr_data *new_descr=NULL;
+int x=0;
+
+    if(!world[ch->in_room]->ex_description)return(NULL);
+    new_descr=world[ch->in_room]->ex_description;
+    while(x<number){
+	if(new_descr&&new_descr->next){
+	    x++;
+	    new_descr=new_descr->next;
+	}else{
+	    return(NULL);
+	}
+    }
+    return(new_descr);
+}
+void do_editroom_lookat(struct char_data *ch, char *argument, int cmd)
+{
+char buf[MAX_INPUT_LENGTH];
+char buf1[MAX_INPUT_LENGTH];
+
+struct extra_descr_data *new_descr=NULL, *prev_descr=NULL;
+int number;
+   if (IS_NPC(ch))
+        return;
+   strcpy(buf1,argument);
+   one_argument(argument, buf);
+
+   if(cmd==9){
+        global_color=32;
+        send_to_char("\n\r    EDIT ROOM LOOK AT DESCRIPTIONS\n\r",ch);
+        global_color=0;
+        ch->p->queryfunc=do_editroom_lookat;
+        strcpy(ch->p->queryprompt,
+         "\n\r1 - Make a new Look At description
+2 - Delete a Look At description
+3 - EDIT a current Look At description
+Select 1,2,3 or cr(carriage return) for Cancel > ");
+        ch->p->querycommand=1000;
+        return;
+    }
+    if(cmd==1000){
+	if(buf[0]=='1'){
+   	    CREATE(new_descr, struct extra_descr_data, 1);
+            new_descr->keyword = str_dup("blank");
+	    new_descr->description = str_dup("");
+            new_descr->next = world[ch->in_room]->ex_description;
+            world[ch->in_room]->ex_description = new_descr;
+            sprintf(log_buf,"\n\rENTER the new KEYWORDS
+Enter all the words that can be used to look at this description.
+The words are seperated by spaces.
+example: window outside out
+look window - look outside - look out will all work.
+OLD KEYWORD(s): %s\n\r",new_descr->keyword);
+            send_to_char(log_buf,ch);
+            strcpy(ch->p->queryprompt,
+"Enter new space seperated keywords, or press ENTER to cancel\n\r > ");
+            ch->p->querycommand=1002;
+            ch->internal_use=0;/* top of list (is new one) */
+            return;
+	}
+	if(buf[0]=='2'){
+            number=0;
+            new_descr=world[ch->in_room]->ex_description;
+            send_to_char("\n\rCURRENT ROOMS EXTRA LOOK AT DESCRIPTIONS\n\r",ch);
+            while(new_descr){
+                number++;
+                sprintf(log_buf,"%d - Keywords: %s\n\r",number,new_descr->keyword);
+                send_to_char(log_buf,ch);
+                new_descr=new_descr->next;
+            }
+            if(!number){
+                send_to_char("NO EXTRA LOOK AT DESCRIPTIONS TO EDIT!\n\r",ch);
+                ch->p->querycommand=0;
+                return;
+            }
+            strcpy(ch->p->queryprompt,
+                "Pick the number to DELETE or press RETURN to cancel> ");
+            ch->p->querycommand=1004;
+            return;
+        }
+	if(buf[0]=='3'){
+	    number=0;
+	    new_descr=world[ch->in_room]->ex_description;
+	    send_to_char("\n\rCURRENT ROOMS EXTRA LOOK AT DESCRIPTIONS\n\r",ch);
+	    while(new_descr){
+	 	number++;
+		sprintf(log_buf,"%d - Keywords: %s\n\r",number,new_descr->keyword);
+		send_to_char(log_buf,ch);
+		new_descr=new_descr->next;
+	    }
+	    if(!number){
+		send_to_char("NO EXTRA LOOK AT DESCRIPTIONS TO EDIT!\n\r",ch);
+		ch->p->querycommand=0;
+		return;
+	    }
+	    strcpy(ch->p->queryprompt,
+		"Pick the number to edit or press RETURN to cancel> ");
+	    ch->p->querycommand=1001;
+	    return;
+	}
+	ch->p->querycommand=0;
+	return;
+    }
+    if(cmd==1001){
+	if(!buf[0]){
+	    ch->p->querycommand=0;
+	    return;
+	}
+	number=atoi(buf);
+	if(!number||number<0){
+	    send_to_char("HUH!? canceling...\n\r",ch);
+	    ch->p->querycommand=0;
+	    return;
+	}
+	number--;
+	new_descr=get_descr(ch,number);
+	if(!new_descr){
+	    send_to_char("That description does not exist!\n\r",ch);
+	    ch->p->querycommand=0;
+	    return;
+	}
+	sprintf(log_buf,"\n\rENTER the new KEYWORDS
+Enter all the words that can be used to look at this description.
+The words are seperated by spaces.
+example: window outside out 
+look window - look outside - look out will all work.
+OLD KEYWORD(s): %s\n\r",new_descr->keyword);
+	send_to_char(log_buf,ch);
+	strcpy(ch->p->queryprompt,
+"Enter new space seperated keywords, or press ENTER to cancel\n\r > ");
+	ch->p->querycommand=1002;
+	ch->internal_use=number;
+	return;	   
+    }
+    if(cmd==1002){
+        new_descr=get_descr(ch,ch->internal_use);
+        if(!new_descr){
+            send_to_char("That description does not exist!\n\r",ch);
+            ch->p->querycommand=0;
+            return;
+        }
+	if(buf1[0]){
+	    new_descr->keyword = my_free(new_descr->keyword);
+	    new_descr->keyword=str_dup(buf1);
+	    send_to_char("KEYWORD CHANGED\n\r",ch);
+	}else
+	    send_to_char("keyword not changed\n\r",ch);
+	strcpy(ch->p->queryprompt,
+"Edit what you SEE when looking at this extra description?
+(y=yes, cr(carriage return[PRESS ENTER])=no)(y/cr)> ");
+	ch->p->querycommand=1003;
+	return;	
+    }
+    if(cmd==1003){
+	if(buf[0]!='y'){
+	    ch->p->querycommand=0;
+	    return;
+	}
+        new_descr=get_descr(ch,ch->internal_use);
+        if(!new_descr){
+            send_to_char("That description does not exist!\n\r",ch);
+            ch->p->querycommand=0;
+            return;
+        }
+        global_color=31;
+        act("$n starts editing the room extra description",TRUE,ch,0,0,TO_ROOM);
+        global_color=0;
+        ch->desc->str = &new_descr->description;
+        ch->desc->max_str = 2500;
+	ch->p->querycommand=0;
+	strcpy(ch->desc->editing,"Extra description");
+	return;
+    }
+    if(cmd==1004){
+        if(!buf[0]){
+            ch->p->querycommand=0;
+            return;
+        }
+        number=atoi(buf);
+        if(!number||number<0){
+            send_to_char("HUH!? canceling...\n\r",ch);
+            ch->p->querycommand=0;
+            return;
+        }
+        number--;
+        new_descr=get_descr(ch,number);
+        if(!new_descr){
+            send_to_char("That description does not exist!\n\r",ch);
+            ch->p->querycommand=0;
+            return;
+        }
+	if(world[ch->in_room]->ex_description==new_descr){
+	    world[ch->in_room]->ex_description=new_descr->next;
+	    new_descr->keyword = my_free(new_descr->keyword);
+	    new_descr->description = my_free(new_descr->description);
+	    new_descr = my_free(new_descr);
+	}else{
+	    prev_descr=world[ch->in_room]->ex_description;
+	    while(prev_descr->next!=new_descr)
+		prev_descr=prev_descr->next;
+	    prev_descr->next=new_descr->next;
+        new_descr->keyword = my_free(new_descr->keyword);
+        new_descr->description =     my_free(new_descr->description);
+        new_descr = my_free(new_descr);
+	}
+	send_to_char("Extra Description DELETED.\n\r",ch);
+	ch->p->querycommand=0;
+	return;
+    }
+}
+void do_editroom_modifiers(struct char_data *ch, char *argument, int cmd)
+{
+    char buf[MAX_INPUT_LENGTH]; 
+    int number;
+
+    if (IS_NPC(ch))
+	return; 
+    one_argument(argument, buf); 
+
+   if(cmd==9){
+	global_color=32; 
+	send_to_char("\n\r    EDIT ROOM MODIFIERS\n\r",ch); 
+	global_color=0; 
+	ch->p->queryfunc=do_editroom_modifiers; 
+      	strcpy(ch->p->queryprompt,
+	 "\n\rEnter the Movement modifier 30=takes 30 MORE movements\n\r-30 means gives 30 back cr=nochange (#/cr)> ");
+	ch->p->querycommand=1000; 
+	return; 
+    }
+    if(cmd==1000){
+      if(buf[0]){
+	number=atoi(buf);
+	if(number<-250){
+	    send_to_char("Select from -250 to 250 only.\n\r",ch);
+	    return;
+	}
+	world[ch->in_room]->move_mod=number;
+      }
+      strcpy(ch->p->queryprompt,
+      "\n\rEnter the pressure Modifier  cr=no change  (#/cr)> ");
+      ch->p->querycommand=1001;
+      return; 
+    }
+    if(cmd==1001){
+      if(buf[0]){
+	number=atoi(buf);
+	if(number<-250){
+	    send_to_char("Select from -250 to 250 only.\n\r",ch);
+	    return;
+	}
+	world[ch->in_room]->pressure_mod=number;
+      }
+      strcpy(ch->p->queryprompt,
+      "\n\rEnter the temperature Modifier  cr=no change  (#/cr)> ");
+      ch->p->querycommand=1002;
+      return; 
+    }
+    if(cmd==1002){
+      if(buf[0]){
+	number=atoi(buf);
+	if(number<-250){
+	    send_to_char("Select from -250 to 250 only.\n\r",ch);
+	    return;
+	}
+	world[ch->in_room]->temperature_mod=number;
+      }
+      ch->p->querycommand=0;
+      return; 
+    }
+}
+void do_editroom(struct char_data *ch, char *argument, int cmd)
+{
+char buf[MAX_STRING_LENGTH];
+
+    one_argument(argument,buf);
+    if(!buf[0]){
+	global_color=31;
+	send_to_char("\n\rSYNTAX>  EDITROOM TYPE(one of the following)\n\r",ch);
+	send_to_char("------------------------------------------------------------\n\r",ch);
+	global_color=36;
+	send_to_char("Example  editroom n (edit the room name)\n\r",ch);
+	send_to_char("Example  editroom d (edit the room description)\n\r",ch);
+	send_to_char("Example  editroom f (set room flags, dark indoors etc)\n\r",ch);
+	send_to_char("Example  editroom s (set room sector type, forest etc)\n\r",ch);
+	send_to_char("Example  editroom r (set the restrictions, level class etc)\n\r",ch);
+	send_to_char("Example  editroom m (set the modifiers, move temperature etc)\n\r",ch);
+	send_to_char("Example  editroom e (edit an exit)\n\r",ch);
+	send_to_char("Example  editroom l (edit things to Look at)\n\r",ch);
+	send_to_char("Example  editroom a (edit the rooms Actions)\n\r",ch);
+	global_color=0;
+	return;
+    }
+    if(ch->specials.editzone>=0)
+    if(ch->specials.editzone!=world[ch->in_room]->zone&&GET_LEVEL(ch)<35){
+	sprintf(log_buf,"-=<(%s)>=-",GET_NAME(ch));
+	if(strcmp(world[ch->in_room]->name,log_buf)){
+	    send_to_char("You are not authorized to do that for this zone.\n\r",ch);
+	    return;
+	}
+    }
+
+    switch(buf[0]){
+	case 'n':
+	    if(ch->specials.editzone>=0)
+	    if(ch->specials.editzone!=world[ch->in_room]->zone&&GET_LEVEL(ch)<35){
+		sprintf(log_buf,"-=<(%s)>=-",GET_NAME(ch));
+		if(!strcmp(world[ch->in_room]->name,log_buf)){
+	    	    send_to_char("You are not authorized to do that for this zone.\n\r",ch);
+		    return;
+		}
+    	    }
+	    ch->desc->str = &world[ch->in_room]->name; 
+	    ch->desc->max_str = 79; 
+	    strcpy(ch->desc->editing,"Room name");
+	    ch->desc->oneline=TRUE;
+	    break;
+	case 'd':
+	    global_color=31;
+	    act("$n starts editing the room description",TRUE,ch,0,0,TO_ROOM);
+	    global_color=0;
+	    /* juice -- save the old room desc for later*/
+	    ch->player.short_descr = my_free(ch->player.short_descr);
+	    ch->player.short_descr = str_dup(world[ch->in_room]->description);
+	    /* end changes */
+	    ch->desc->str = &world[ch->in_room]->description; 
+	    ch->desc->max_str = 1000; 
+	    strcpy(ch->desc->editing,"Room Description");
+	    break;
+	case 'f':
+	    do_editroom_roomflags(ch,"",9);
+	    break;
+	case 's':
+	    do_editroom_sectortype(ch,"",9);
+	    break;
+	case 'r':
+	    do_editroom_restrictions(ch,"",9);
+	    break;
+	case 'm':
+	    do_editroom_modifiers(ch,"",9);
+	    break;
+	case 'e':
+	    do_editroom_exit(ch,"",9);
+	    break;
+	case 'l':
+	    do_editroom_lookat(ch,"",9);
+	    break;
+	case 'a':
+	    do_editroom_actions(ch,"",9);
+	    break;
+	default:
+	    send_to_char("Option not recognized.\n\r",ch);
+	    break;
+    }
+
+}
+
+void do_afk(struct char_data *ch, char *argument, int cmd)
+{
+
+    if(!ch->specials.afk){
+       ch->specials.afk=1;
+       send_to_char("AWAY FROM KEYBOARD MODE NOW [ON]!\n\r",ch);
+       act( "$n Just went into AFK MODE", TRUE, ch, 0, 0, TO_ROOM );
+       if(argument[0])
+	   strcpy(&ch->specials.afk_text[0],argument);
+    }else{
+       ch->specials.afk=0;
+       send_to_char("AWAY FROM KEYBOARD MODE NOW [OFF]!\n\r",ch);
+       act( "$n is BACK from AFK mode.", TRUE, ch, 0, 0, TO_ROOM );
+       ch->specials.afk_text[0]=0;
+    }
+}
+
+void do_gohome(struct char_data *ch, char *argument, int cmd)
+{
+int location;
+	if(!ch->specials.home_number){
+	   send_to_char("You Don't OWN a HOME!\n\r",ch);
+	   return;
+	}
+	if(!world[ch->specials.home_number]){
+	    send_to_char("ROOM doesn't exist anymore! Resetting\n\r",ch);
+		sprintf(log_buf,"## %s has a bad home number %d.  Resetting to none.",
+			GET_NAME(ch),ch->specials.home_number);
+		log_hd(log_buf);
+		ch->specials.home_number = 0;
+	    return;
+	}
+	if(GET_LEVEL(ch)<33){
+	if(world[ch->in_room]->zone==65){
+	    send_to_char("Doesn't seem to work from the ship.\n\r",ch);
+	    return;
+	}
+	if(world[ch->specials.home_number]->zone!=world[ch->in_room]->zone){
+	    send_to_char("Your home is too far away.\n\r",ch);
+	    return;
+ 	}
+	}
+	if(ch->specials.home_number>=3012&&ch->specials.home_number<=3030){
+	    if(!IS_PLAYER(ch,"Vryce")&&!IS_PLAYER(ch,"Rebecca")
+	    &&!IS_PLAYER(ch,"Darkwind")&&!IS_PLAYER(ch,"Elspeth")){
+		send_to_char("Vryce's house is PRIVATE!",ch);
+		return;
+	    }else{
+		global_color=33;
+		send_to_char("Welcome Back!\n\r",ch);
+	    }
+ 	}
+	if(ch->specials.fighting){
+	   send_to_char("You're FIGHTING!\n\r",ch);
+	   return;
+	}
+               location = ch->specials.home_number;
+	       if(!world[location]){
+		  send_to_char("Please tell Vryce your home_number is invalid\n\r",ch);
+		  return;
+	       }	
+	       if(GET_LEVEL(ch)<33){
+	       if(zone_table[world[location]->zone].continent!=GET_CONTINENT(ch)){
+		   send_to_char("The magic of gohome doesn't work across the ocean.\n\r",ch);
+		   return;
+	       }
+	       if(world[ch->in_room]->zone==65){
+		   send_to_char("No gohomes from the ship.\n\r",ch);
+		   return;
+	       }
+	       }
+	       global_color=31;
+	       act( "$n disappears to $s home.", TRUE, ch, 0, 0, TO_ROOM );
+	       char_from_room( ch );
+	       char_to_room( ch, location);
+	       act( "$n appears in the middle of the room.", TRUE, ch, 0, 0, TO_ROOM);
+	       send_to_char("PHHHHHWWWTT! POOF! You're Home!\n\r",ch);
+	       global_color=0;
+	       do_look( ch, "", 0 );
+	       return;
+}
+
+void do_color(struct char_data *ch, char *argument, int cmd)
+{
+    if(ch->specials.ansi_color!=69){
+	ch->specials.ansi_color=69;
+        send_to_char("\033[0m\033[2J",ch);
+	global_color=31;
+	send_to_char("ANSI COLOR Enabled.\n\r",ch);
+	global_color=0;
+	return;
+    }
+    send_to_char("ANSI COLOR Disabled.\n\r",ch);
+    ch->specials.ansi_color=0;
+    
+}
+void do_ll_set(struct char_data *ch, char *argument, int cmd)
+{
+    if(!ch->specials.ll_set){
+	send_to_char("Displaying of Auto Room Stats Enabled.\n\r",ch);
+	ch->specials.ll_set=1;
+	return;
+    }
+    send_to_char("Displaying of Auto Room Stats Disabled.\n\r",ch);
+    ch->specials.ll_set=0;
+    
+}
+void do_autoexit(struct char_data *ch, char *argument, int cmd)
+{
+    if(!ORIGINAL(ch)->specials.autoexit){
+	send_to_char("Displaying EXITS automatically Disabled.\n\r",ch);
+	ORIGINAL(ch)->specials.autoexit=1;
+	return;
+    }
+    send_to_char("Displaying EXITS automatically Enabled.\n\r",ch);
+    ORIGINAL(ch)->specials.autoexit=0;
+    
+}
+void do_display_autosave(struct char_data *ch, char *argument, int cmd)
+{
+    if(ch->specials.display_autosave){
+	send_to_char("Displaying when AUTOSAVE'd disabled.\n\r",ch);
+	ch->specials.display_autosave=0;
+	return;
+    }
+    send_to_char("Displaying when AUTOSAVE'd enabled.\n\r",ch);
+    ch->specials.display_autosave=1;
+    
+}
+
+bool if_allowed_to_attack(struct char_data *ch, struct char_data *vict)
+{
+
+#ifdef PACIFIST
+	send_to_char("You feel so peaceful you lay down your weapon and hug your enemy.\n\r",ch);
+	return(FALSE);
+#else
+    if(IS_UNDEAD(ch)
+	&& (vict->nr == 9801)
+	&& (vict->specials.fighting)
+	)
+	{
+	send_to_char("This Necromancer has other problems right now.\n\r",ch);
+	return(FALSE);
+	}
+
+    if((ch->nr == 9801) && (IS_UNDEAD(ch->specials.fighting)))
+	{
+	send_to_char("You decide to let the corpse fight for its own spirit.",ch);
+	return(FALSE);
+	}
+
+    if(ch->specials.fighting == vict)
+	return(TRUE);
+
+    if(GET_LEVEL(ch) > 32) return(TRUE);
+
+    if(IS_SET(world[ch->in_room]->room_flags,NEUTRAL)
+	&& (!IS_NPC(ch))
+	&& (!IS_NPC(vict))
+	&& (vict->specials.fighting)
+	&& (IS_NPC(vict->specials.fighting))
+	)
+	{
+	send_to_char("Hey! You're trying to turn NPK into CPK!???!",ch);
+	return(FALSE);
+	}
+
+    if(IS_DEAD(vict) || ((vict->nr == 9800)&&(vict->specials.death_timer > 1)))
+	{
+	send_to_char("You want to kill someone who's already dead?\n\r",ch);
+	return(FALSE);
+	}
+
+    if(in_a_shop(ch)){
+        send_to_char(
+			"You realize it is not polite to fight in a public shop.\n\r",ch);
+        return(FALSE);
+    }
+	if(IS_SET(world[ch->in_room]->room_flags,LAWFULL)
+		&& IS_NPC(vict) && IS_AFFECTED( vict, AFF_CHARM )
+		&& vict->master
+		&& (vict->in_room == vict->master->in_room)
+		)
+		{
+		send_to_char("You wouldn't attack someone's pet, would you?\n\r",ch);
+		return(FALSE);
+		}
+
+    if(IS_NPC(vict))return(TRUE);
+    if(vict==ch)return(TRUE);
+    if(!vict->specials.fighting&&!vict->desc){
+	global_color=33;
+	send_to_char("You cannot start fighting someone who lost link!\n\r",ch);
+	global_color=0;
+	return(FALSE);
+    }
+    if(!IS_SET(world[ch->in_room]->room_flags,NEUTRAL)&&
+	!IS_SET(world[ch->in_room]->room_flags,CHAOTIC)){
+        send_to_char("You are only allowed to ATTACK players in NEUTRAL or CHAOTIC Areas!\n\r",ch); 
+       return(FALSE);
+    }
+
+    return(TRUE);
+#endif
+}
+char *get_title(struct char_data *ch)
+{
+    if(ch->player.title){
+
+/*	if(!ch->desc){
+	   sprintf(log_buf," [*LOST LINK*] %s",ch->player.title);
+	   return(log_buf);
+	}
+*/
+	if(ch->desc&&ch->desc->str){
+	   sprintf(log_buf," [*EDITING (%s) PLEASE BE QUIET*] ",ch->desc->editing);
+	   return(log_buf);
+	}
+/*	if(ch->specials.afk){
+	   sprintf(log_buf," [*AFK*] %s",ch->player.title);
+	   return(log_buf);
+	}
+*/
+	return(ch->player.title);
+    }else
+	return(no_title);
+}
+void do_unalias(struct char_data *ch, char *argument, int cmd)
+{
+char buf[MAX_INPUT_LENGTH];
+char alias[MAX_INPUT_LENGTH];
+int i=0,a=0;
+char flag;
+	if(IS_NPC(ch))return;
+	one_argument(argument,buf);
+	if(!*buf){
+	    send_to_char("Yes but UNALIAS What?\n\r",ch);
+	    send_to_char("SYNTAX  unalias alias\n\r",ch);
+	    return;
+	}
+	flag=0;
+	for(i=0;i<5;i++){
+	    one_argument(&ch->p->alias[i][0],alias);
+	    if(!strcmp(alias,buf)){
+		flag=1;
+		sprintf(log_buf,"Alias (%s) removed.\n\r",buf);
+		send_to_char(log_buf,ch);
+		for(a=i;a<4;a++)
+		    strcpy(&ch->p->alias[a][0],&ch->p->alias[a+1][0]);
+		ch->p->alias[4][0]=MED_NULL;
+	    }
+	}
+	if(!flag){
+	   sprintf(log_buf,"alias (%s) is not defined!\n\r",buf);
+	   send_to_char(log_buf,ch);
+	}
+	
+}
+void do_alias(struct char_data *ch, char *argument, int cmd)
+{
+char buf[MAX_INPUT_LENGTH];
+char alias[MAX_INPUT_LENGTH];
+char text[MAX_INPUT_LENGTH];
+char command[MAX_INPUT_LENGTH];
+int i=0,a=0;
+    if(IS_NPC(ch))return;
+    while((ch->p->alias[i][0])&&(i<5))i++;  /* get next blank */
+
+    if(ch->p->querycommand==300){
+	if(argument[0]=='Y'||argument[0]=='y'){
+    	    ch->p->queryfunc=do_alias;
+	    strcpy(ch->p->queryprompt,"Type in alias [syntax example >av assist Vryce] > ");
+    	    ch->p->querycommand=301;
+        }else
+	    ch->p->querycommand=0;
+        return;
+    }
+    if(ch->p->querycommand==301){
+	if(argument[0]){
+	    if(strlen(argument)>80)
+		send_to_char("Alias is too long. Limit it to 80 characters.\n\r", ch);
+	    else{
+		set_to_lower(text,argument);
+	        half_chop(argument,alias,command);
+		if(!command[0])
+		    send_to_char("Yes, but where's the command?\n\r", ch);
+		else{
+		    if(!str_cmp(alias,"gre")||!str_cmp(alias,"grep")){
+			send_to_char("You cannot use an alias to do the GREP command.\n\r",ch);
+			return;
+		    }
+            if(strstr(text,"moogooboozoo")){
+                send_to_char("Huh?\n\r",ch);
+                return;
+            }
+			if(strstr(text,"~")){
+				send_to_char("Huh?\n\r", ch);
+				return;
+			}
+		    if(strstr(text,"gre ")||strstr(text,"grep ")){
+			send_to_char("You cannot use an alias to do the GREP command.\n\r",ch);
+			return;
+		    }
+		    strcpy(&ch->p->alias[i][0],argument);
+ 		    sprintf(buf,"OK, done! [%s] will now do this [%s].\n\r",alias,command);
+		    send_to_char(buf,ch);
+		}
+	    }
+        }
+	ch->p->querycommand=0;
+        return;
+    }
+
+    if(i>=5){
+	send_to_char("[*YOU ARE AT YOUR LIMIT OF 5 ALIASES!*]\n\r",ch);
+        send_to_char("Your defined aliases are:\n\r", ch);
+	for(a=0;a<i;a++){
+	    send_to_char(&ch->p->alias[a][0], ch);
+	    send_to_char("\n\r", ch);
+	}
+	return;
+    }
+    send_to_char("Your defined aliases are:\n\r", ch);
+    if(i==0)
+	send_to_char("There are currently no aliases, you can have five.\n\r", ch);
+    else
+	for(a=0;a<i;a++){
+	    send_to_char(&ch->p->alias[a][0], ch);
+	    send_to_char("\n\r", ch);
+	}
+    ch->p->queryfunc=do_alias;
+    if(i)
+	strcpy(ch->p->queryprompt,"Do you want to create another alias? (y/n)> ");
+    else
+	strcpy(ch->p->queryprompt,"Do you want to create an alias? (y/n)> ");
+    ch->p->querycommand=300;
+    return;
+	
+}
+
+void do_donate(struct char_data *ch, char *argument, int cmd)
+{
+char buf[MAX_INPUT_LENGTH];
+char text[MAX_INPUT_LENGTH];
+struct obj_data *obj=NULL;
+struct char_data *dude=NULL;
+int room;
+
+    room=3;
+    if(GET_CONTINENT(ch)==TRELLOR)
+        room=4553;
+    one_argument(argument, buf);
+    if(!buf){
+	send_to_char("Yes, but donate what?\n\r", ch);
+	return;
+    }
+    if(!(obj=get_obj_in_list_vis(ch, buf, ch->carrying))){
+	send_to_char("Your intentions are admirable, but, you don't have that!\n\r", ch);
+	return;
+    }
+    if (IS_SET(obj->obj_flags.extra_flags, ITEM_NODROP)){
+	if(obj->item_number==10||obj->item_number==16)
+	    send_to_char("You would never dream of donating such a precious gift.\n\r", ch);
+	else
+	    send_to_char("You can't let go! It must be cursed!\n\r", ch);
+	return;
+    }
+    obj_from_char(obj);
+    obj_to_room(obj, room);
+    sprintf(text,"You send %s to the donation room.\n\r", obj->short_description);    
+    send_to_char(text,ch);
+    sprintf(text,"$n sends %s to the donation room.\n\r", obj->short_description);    
+    act(text,TRUE, ch, 0, 0, TO_ROOM);
+    for(dude=world[room]->people; dude; dude=dude->next_in_room)
+	send_to_char("[BANG!] A crack in space opens up and something flies through!\n\r[PHHFFfffft] The crack shrinks to a pinpoint and disappears.\n\r", dude);
+}
+void do_godsend(struct char_data *ch, char *argument, int cmd)
+{
+char buf[MAX_INPUT_LENGTH];
+struct obj_data *obj=NULL;
+int x=0;
+
+    one_argument(argument, buf);
+    if(!buf){
+	send_to_char("Yes, but send what to all gods?\n\r", ch);
+	return;
+    }
+    if(!(obj=get_obj_in_list_vis(ch, buf, ch->carrying))){
+	send_to_char("Your intentions are admirable, but, you don't have that!\n\r", ch);
+	return;
+    }
+    while(god_list[x][0]!='$'){
+       sprintf(log_buf,"%s %s",buf,god_list[x++]);
+       post_office(ch,999,log_buf);
+    }
+}
+void do_noemote(struct char_data *ch, char *argument, int cmd)
+{
+    struct char_data *vict=NULL;
+    struct obj_data *dummy=NULL;
+    char buf[MAX_INPUT_LENGTH];
+
+    if (IS_NPC(ch))
+	return;
+
+    one_argument(argument, buf);
+
+    if (!*buf)
+	send_to_char("Noemote who?\n\t", ch);
+
+    else if (!generic_find(argument, FIND_CHAR_WORLD, ch, &vict, &dummy))
+	send_to_char("Couldn't find any such creature.\n\r", ch);
+    else if (!vict->desc)
+	send_to_char("Can't do that to a beast.\n\r", ch);
+    else if (GET_LEVEL(ORIGINAL(vict)) >= GET_LEVEL(ch))
+	act("$E might object to that ... better not.",
+	0, ch, 0, vict, TO_CHAR);
+    else if (IS_SET(ORIGINAL(vict)->specials.act, PLR_NOEMOTE))
+    {
+	send_to_char("You can emote again.\n\r", vict);
+	send_to_char("NOEMOTE removed.\n\r", ch);
+	REMOVE_BIT(ORIGINAL(vict)->specials.act, PLR_NOEMOTE);
+    }
+    else
+    {
+	send_to_char("The gods take away your ability to emote!\n\r", vict);
+	send_to_char("NOEMOTE set.\n\r", ch);
+	SET_BIT(ORIGINAL(vict)->specials.act, PLR_NOEMOTE);
+    }
+}
+
+
+void do_notell(struct char_data *ch, char *argument, int cmd)
+{
+    struct char_data *vict=NULL;
+    struct obj_data *dummy=NULL;
+    char buf[MAX_INPUT_LENGTH];
+
+    if (IS_NPC(ch))
+	return;
+
+    one_argument(argument, buf);
+
+    if (!*buf)
+	if (IS_SET(ORIGINAL(ch)->specials.act, PLR_NOTELL))
+	{
+	    send_to_char("You can now hear tells again.\n\r", ch);
+	    REMOVE_BIT(ORIGINAL(ch)->specials.act, PLR_NOTELL);
+	}
+	else
+	{
+	    send_to_char("From now on, you can't use tell.\n\r", ch);
+	    SET_BIT(ORIGINAL(ch)->specials.act, PLR_NOTELL);
+	}
+    else if (!generic_find(argument, FIND_CHAR_WORLD, ch, &vict, &dummy))
+	send_to_char("Couldn't find any such creature.\n\r", ch);
+    else if (!vict->desc)
+	send_to_char("Can't do that to a beast.\n\r", ch);
+    else if (GET_LEVEL(ORIGINAL(vict)) >= GET_LEVEL(ch))
+	act("$E might object to that.. better not.", 0, ch, 0, vict, TO_CHAR);
+    else if (IS_SET(ORIGINAL(vict)->specials.act, PLR_NOTELL))
+    {
+	send_to_char("You can use telepatic communication again.\n\r", vict);
+	send_to_char("NOTELL removed.\n\r", ch);
+	REMOVE_BIT(ORIGINAL(vict)->specials.act, PLR_NOTELL);
+    }
+    else
+    {
+	send_to_char(
+	"The gods take away your ability to use telepatic communication!\n\r",
+	    vict);
+	send_to_char("NOTELL set.\n\r", ch);
+	SET_BIT(ORIGINAL(vict)->specials.act, PLR_NOTELL);
+    }
+}
+
+
+void do_freeze(struct char_data *ch, char *argument, int cmd)
+{
+    struct char_data *vict=NULL;
+    struct obj_data *dummy=NULL;
+    char buf[MAX_INPUT_LENGTH];
+
+    if (IS_NPC(ch))
+	return;
+
+    one_argument(argument, buf);
+
+    if (!*buf)
+	send_to_char("Freeze who?\n\r", ch);
+
+    else if (!generic_find(argument, FIND_CHAR_WORLD, ch, &vict, &dummy))
+	send_to_char("Couldn't find any such creature.\n\r", ch);
+    else if (!vict->desc)
+	send_to_char("Can't do that to a beast.\n\r", ch);
+    else if (GET_LEVEL(ORIGINAL(vict)) >= GET_LEVEL(ch))
+	act("$E might object to that.. better not.", 0, ch, 0, vict, TO_CHAR);
+    else if (IS_SET(ORIGINAL(vict)->specials.act, PLR_FREEZE))
+    {
+	send_to_char("You now can do things again.\n\r", vict);
+	send_to_char("FREEZE removed.\n\r", ch);
+	REMOVE_BIT(ORIGINAL(vict)->specials.act, PLR_FREEZE);
+    }
+    else
+    {
+	send_to_char("The gods take away your ability to ...\n\r", vict);
+	send_to_char("FREEZE set.\n\r", ch);
+	SET_BIT(ORIGINAL(vict)->specials.act, PLR_FREEZE);
+    }
+}
+
+
+void do_log(struct char_data *ch, char *argument, int cmd)
+{
+    struct char_data *vict=NULL;
+    struct obj_data *dummy=NULL;
+    char buf[MAX_INPUT_LENGTH];
+
+    if (IS_NPC(ch))
+	return;
+
+    one_argument(argument, buf);
+
+    if (!*buf)
+		send_to_char("Log who?\n\r", ch);
+    else if (!generic_find(argument, FIND_CHAR_WORLD, ch, &vict, &dummy))
+		send_to_char("Couldn't find any such creature.\n\r", ch);
+    else if (!vict->desc)
+		send_to_char("Can't do that to a beast.\n\r", ch);
+    else if (GET_LEVEL(vict) > GET_LEVEL(ch)||IS_PLAYER(vict,"Vryce"))
+		act("$E might object to that.. better not.", 0, ch, 0, vict, TO_CHAR);
+    else if (IS_SET(ORIGINAL(vict)->specials.act, PLR_LOG))
+    {
+		send_to_char("LOG removed.\n\r", ch);
+		REMOVE_BIT(ORIGINAL(vict)->specials.act, PLR_LOG);
+    }else{
+		send_to_char("LOG set.\n\r", ch);
+		SET_BIT(ORIGINAL(vict)->specials.act, PLR_LOG);
+    }
+}
+
+void do_templog(struct char_data *ch, char *argument, int cmd)
+{
+    struct char_data *vict=NULL;
+    struct obj_data *dummy=NULL;
+    char buf[MAX_INPUT_LENGTH];
+
+    if (IS_NPC(ch))
+	return;
+
+    one_argument(argument, buf);
+
+    if (!*buf)
+		send_to_char("Log who?\n\r", ch);
+    else if (!generic_find(argument, FIND_CHAR_WORLD, ch, &vict, &dummy))
+		send_to_char("Couldn't find any such creature.\n\r", ch);
+    else if (!vict->desc)
+		send_to_char("Can't do that to a beast.\n\r", ch);
+    else if (GET_LEVEL(vict) > GET_LEVEL(ch)||IS_PLAYER(vict,"Vryce"))
+		act("$E might object to that.. better not.", 0, ch, 0, vict, TO_CHAR);
+	else if(strcmp(GET_NAME(ch),"Vryce"))
+		send_to_char("What?!?",ch);
+    else if (vict->desc->templog)
+    {
+		send_to_char("LOG removed.\n\r", ch);
+		vict->desc->templog=0;
+    }else{
+		send_to_char("LOG set.\n\r", ch);
+		vict->desc->templog=1;
+    }
+}
+
+void do_wizlock(struct char_data *ch, char *argument, int cmd)
+{
+    wizlock = !wizlock;
+    if(IS_NPC(ch))return;
+
+    if ( wizlock ) {
+	sprintf(log_buf,"Game has been wizlocked by %s.",GET_NAME(ch));
+	log_hd(log_buf);
+	send_to_char("Game wizlocked.\n\r", ch);
+    } else {
+	sprintf(log_buf,"Game has been un-wizlocked by %s.",GET_NAME(ch));
+	log_hd(log_buf);
+	send_to_char("Game un-wizlocked.\n\r", ch);
+    }
+}
+
+
+
+
+/* This routine is used by 34+ level ONLY to set 
+   specific char/npc variables, including skills */
+
+void do_set(struct char_data *ch, char *argument, int cmd)
+{
+    char *values[] = {
+	"age","sex","class","level","height","weight","str","stradd",
+	"int","wis","dex","con","gold","exp","mana","hit","move",
+	"sessions","alignment","thirst","drunk","full","pk","eggs","\n"
+    };
+    struct char_data *vict=NULL;
+    char name[100], buf2[100], buf[100], help[MAX_STRING_LENGTH];
+    int skill, value, i;
+
+    if(IS_NPC(ch))return;
+    argument = one_argument(argument, name);
+    if (!*name) /* no arguments. print an informative text */
+    {
+	send_to_char(
+	    "NEW SYNTAX:\n\rset <name> <field> <value>\n\r", ch);
+
+	strcpy(help, "\n\rField being one of the following:\n\r");
+	for (i = 1; *values[i] != '\n'; i++)
+	{
+	    sprintf(help + strlen(help), "%18s", values[i]);
+	    if (!(i % 4))
+	    {
+		strcat(help, "\n\r");
+		send_to_char(help, ch);
+		*help = '\0';
+	    }
+	}
+	if (*help)
+	    send_to_char(help, ch);
+	send_to_char("\n\r", ch);
+	return;
+    }
+    if (!(vict = get_char_vis(ch, name)))
+    {
+	send_to_char("No living thing by that name.\n\r", ch);
+	return;
+    }
+	argument = one_argument(argument,buf);
+	if (!*buf)
+	{
+	    send_to_char("Field name expected.\n\r", ch);
+	    return;
+	}
+	if ((skill = old_search_block(buf, 0, strlen(buf), values, 1)) < 0)
+	{
+	    send_to_char(
+		"No such field is known. Try 'set' for list.\n\r", ch);
+	    return;
+	}
+	skill--;
+	argument = one_argument(argument,buf);
+	if (!*buf)
+	{
+	    send_to_char("Value for field expected.\n\r", ch);
+	    return;
+	}
+	sprintf(buf2,
+		"%s sets %s's %s to %s.",
+		GET_NAME(ch),GET_NAME(vict),values[skill],buf);
+	switch (skill) {
+	    case 0: /* age */
+	    {
+		value = atoi(buf);
+		if ((value < 16) || (value > 79))
+		{
+		    send_to_char("Age must be more than 16 years\n\r", ch);
+		    send_to_char("and less than 80 years.\n\r", ch);
+		    return;
+		}
+		log_hd(buf2);
+		/* set age of victim */
+		vict->player.time.birth = 
+		    time(0) - (long)value*(long)SECS_PER_MUD_YEAR;
+	    };
+	    break;
+	    case 1: /* sex */
+	    {
+		if (str_cmp(buf,"m") && str_cmp(buf,"f") && str_cmp(buf,"n"))
+		{
+		    send_to_char("Sex must be 'm','f' or 'n'.\n\r", ch);
+		    return;
+		}
+		log_hd(buf2);
+		/* set sex of victim */
+		switch(*buf) {
+		    case 'm':vict->player.sex = SEX_MALE;   break;
+		    case 'f':vict->player.sex = SEX_FEMALE; break;
+		    case 'n':vict->player.sex = SEX_NEUTRAL;break;
+		}
+	    }
+	    break;
+	    case 2: /* class */
+	    {
+/* juice
+ * If people are unhappy with their class, they should start a new char.
+ * Nobody has any business multiclassing their friends.
+ */
+		if( !IS_NPC(vict) 
+		   && (ch != vict)
+		   && !IS_PLAYER(ch,"Vryce") 
+		   && !IS_PLAYER(ch,"Io") 
+		  )
+		{
+		send_to_char("You can't set other player's class.\n\r",ch);
+		return;
+		}
+
+		if (str_cmp(buf,"m") && str_cmp(buf,"c") && 
+		    str_cmp(buf,"w") && str_cmp(buf,"t"))
+		{
+		    send_to_char("Class must be 'm','c','w' or 't'.\n\r", ch);
+		    return;
+		}
+		log_hd(buf2);
+		/* set class of victim */
+		switch(*buf) {
+		    case 'm':vict->player.class = CLASS_MAGIC_USER; break;
+		    case 'c':vict->player.class = CLASS_CLERIC;     break;
+		    case 'w':vict->player.class = CLASS_WARRIOR;    break;
+		    case 't':vict->player.class = CLASS_THIEF;      break;
+		}
+	    }
+	    break;
+	    case 3: /* level */
+	    {
+		if(!IS_PLAYER(ch,"Vryce") 
+		   && !IS_PLAYER(ch, "Io")
+		   && !IS_PLAYER(ch, "Sultress")
+		   && !IS_PLAYER(ch, "Firm")){
+		    send_to_char("Sorry only Vryce can do that.\n\r",ch);
+		    return;
+		}
+		value = atoi(buf);
+		if ((value < 0) || (value > 31))
+		{
+		    send_to_char(
+			"Level must be between 0 and 31.\n\r", ch );
+		    return;
+		}
+		log_hd(buf2);
+		/* set level of victim */
+		vict->player.level = value;
+	    }
+	    break;
+	    case 4: /* height */
+	    {
+		value = atoi(buf);
+		if ((value < 100) || (value > 250))
+		{
+		    send_to_char("Height must be more than 100 cm\n\r", ch);
+		    send_to_char("and less than 251 cm.\n\r", ch); 
+		    return;
+		}
+		log_hd(buf2);
+		/* set hieght of victim */
+		vict->player.height = value;
+	    }       
+	    break;
+	    case 5: /* weight */
+	    {
+		value = atoi(buf);
+		if ((value < 100) || (value > 250))
+		{
+		    send_to_char("Weight must be more than 100 stones\n\r", ch);
+		    send_to_char("and less than 251 stones.\n\r", ch);
+		    return;
+		}
+		log_hd(buf2);
+		/* set weight of victim */
+		vict->player.weight = value;
+	    }
+	    break;
+	    case 6: /* str */
+	    {
+		value = atoi(buf);
+		if ((value <= 0) || (value > 18))
+		{
+		    send_to_char("Strength must be more than 0\n\r", ch);
+		    send_to_char("and less than 19.\n\r", ch);
+		    return;
+		}
+		log_hd(buf2);
+		/* set original strength of victim */
+		vict->tmpabilities.str = value;
+		vict->abilities.str = value;
+	    }
+	    break;
+	    case 7: /* stradd */
+	    {
+		send_to_char( "Strength addition not supported.\n\r", ch );
+	    }
+	    break;
+	    case 8: /* int */
+	    {
+		value = atoi(buf);
+		if ((value <= 0) || (value > 18))
+		{
+		    send_to_char("Intelligence must be more than 0\n\r", ch);
+		    send_to_char("and less than 19.\n\r", ch);
+		    return;
+		}
+		log_hd(buf2);
+		/* set original INT of victim */
+		vict->tmpabilities.intel = value;
+		vict->abilities.intel = value;
+	    }
+	    break;
+	    case 9: /* wis */
+	    {
+		value = atoi(buf);
+		if ((value <= 0) || (value > 18))
+		{
+		    send_to_char("Wisdom must be more than 0\n\r", ch);
+		    send_to_char("and less than 19.\n\r", ch);
+		    return;
+		}
+		log_hd(buf2);
+		/* set original WIS of victim */
+		vict->tmpabilities.wis = value;
+		vict->abilities.wis = value;
+	    }
+	    break;
+	    case 10: /* dex */
+	    {
+		value = atoi(buf);
+		if ((value <= 0) || (value > 18))
+		{
+		    send_to_char("Dexterity must be more than 0\n\r", ch);
+		    send_to_char("and less than 19.\n\r", ch);
+		    return;
+		}
+		log_hd(buf2);
+		/* set original DEX of victim */
+		vict->tmpabilities.dex = value;
+		vict->abilities.dex = value;
+	    }
+	    break;
+	    case 11: /* con */
+	    {
+		value = atoi(buf);
+		if ((value <= 0) || (value > 18))
+		{
+		    send_to_char("Constitution must be more than 0\n\r", ch);
+		    send_to_char("and less than 19.\n\r", ch);
+		    return;
+		}
+		log_hd(buf2);
+		/* set original CON of victim */
+		vict->tmpabilities.con = value;
+		vict->abilities.con = value;
+	    }
+	    break;
+	    case 12: /* gold */
+	    {
+		value = atoi(buf);
+		log_hd(buf2);
+		/* set original gold of victim */
+		vict->points.gold = value;
+	    }
+	    break;
+	    case 13: /* exp */
+	    {
+		if(!IS_PLAYER(ch,"Vryce") && !IS_PLAYER(ch, "Io")){
+		    send_to_char("Sorry only Vryce can do that.\n\r",ch);
+		    return;
+		}
+		value = atoi(buf);
+		if ((value <= 0) || (value > 1400000000))
+		{
+		    send_to_char(
+			"Experience-points must be more than 0\n\r", ch);
+		    send_to_char("and less than 1400000001.\n\r", ch);
+		    return;
+		}
+		log_hd(buf2);
+		/* set original exp of victim */
+		vict->points.exp = value;
+	    }
+	    break;
+	    case 14: /* mana */
+	    {
+		value = atoi(buf);
+		if ((value <= -100) || (value > 9994))
+		{
+		    send_to_char("Mana-points must be more than -100\n\r", ch);
+		    send_to_char("and less than 9995.\n\r", ch);
+		    return;
+		}
+		log_hd(buf2);
+		/* set original mana of victim */
+		vict->points.max_mana = value;
+	    }
+	    break;
+	    case 15: /* hit */
+	    {
+		value = atoi(buf);
+		if ((value <= -10) || (value > 30000))
+		{
+		    send_to_char("Hit-points must be more than -10\n\r", ch);
+		    send_to_char("and less than 30001.\n\r", ch);
+		    return;
+		}
+		log_hd(buf2);
+		/* set original hit of victim */
+		vict->points.max_hit = value;
+	    }
+	    break;
+	    case 16: /* move */
+	    {
+		value = atoi(buf);
+		if ((value <= -100) || (value > 9917))
+		{
+		    send_to_char("Move-points must be more than -100\n\r", ch);
+		    send_to_char("and less than 9918.\n\r", ch);
+		    return;
+		}
+		log_hd(buf2);
+		/* set original move of victim */
+		vict->points.max_move = value;
+	    }
+	    break;
+	    case 17: /* sessions */
+	    {
+		value = atoi(buf);
+		if ((value < 0) || (value > 100))
+		{
+		    send_to_char("Sessions must be more than 0\n\r", ch);
+		    send_to_char("and less than 101.\n\r", ch);
+		    return;
+		}
+		log_hd(buf2);
+		/* set original sessions of victim */
+		vict->specials.practices = value;
+	    }
+	    break;
+	    case 18: /* alignment */
+	    {
+		value = atoi(buf);
+		if ((value < -1000) || (value > 1000))
+		{
+		    send_to_char("Alignment must be more than -1000\n\r", ch);
+		    send_to_char("and less than 1000.\n\r", ch);
+		    return;
+		}
+		log_hd(buf2);
+		/* set original alignment of victim */
+		vict->specials.alignment = value;
+	    }
+	    break;
+	    case 19: /* thirst */
+	    {
+		value = atoi(buf);
+		if ((value < -1) || (value > 100))
+		{
+		    send_to_char("Thirst must be more than -2\n\r", ch);
+		    send_to_char("and less than 101.\n\r", ch);
+		    return;
+		}
+		log_hd(buf2);
+		/* set original thirst of victim */
+		vict->specials.conditions[THIRST] = value;
+	    }
+	    break;
+	    case 20: /* drunk */
+	    {
+		value = atoi(buf);
+		if ((value < -1) || (value > 100))
+		{
+		    send_to_char("Drunk must be more than -2\n\r", ch);
+		    send_to_char("and less than 101.\n\r", ch);
+		    return;
+		}
+		log_hd(buf2);
+		/* set original drunk of victim */
+		vict->specials.conditions[DRUNK] = value;
+	    }
+	    break;
+	    case 21: /* full */
+	    {
+		value = atoi(buf);
+		if ((value < -1) || (value > 100))
+		{
+		    send_to_char("Full must be more than -2\n\r", ch);
+		    send_to_char("and less than 101.\n\r", ch);
+		    return;
+		}
+		log_hd(buf2);
+		/* set original full of victim */
+		vict->specials.conditions[FULL] = value;
+	    }
+	    break;
+            case 22: /* PKs */
+            {
+                if(!IS_PLAYER(ch,"Vryce") && !IS_PLAYER(ch, "Io")
+                   && !IS_PLAYER(ch, "Shalafi")){
+                    send_to_char("Sorry only Vryce can do that.\n\r",ch);
+                    return;
+                }
+                value = atoi(buf);
+                log_hd(buf2);
+                /* set victim's player kills */
+                vict->specials.numpkills = value;
+            }
+	    break;
+            case 23: /* Eggs */
+            {
+                if(!IS_PLAYER(ch,"Vryce")
+		   &&!IS_PLAYER(ch,"Sultress")
+		   &&!IS_PLAYER(ch, "Firm")){
+                    send_to_char("Sorry only Vryce can do that.\n\r",ch);
+                    return;
+                }
+                value = atoi(buf);
+                log_hd(buf2);
+                /* set victim's eggs */
+                vict->specials.eggs = value;
+            }
+	    break;
+	}
+    send_to_char("Ok.\n\r", ch);
+}
+
+void do_imm(struct char_data *ch, char *argument, int cmd)
+{
+    char buf1[MAX_STRING_LENGTH];
+    struct descriptor_data *i=NULL;
+
+    if(IS_NPC(ch))return;
+    for (; *argument == ' '; argument++);
+
+    if (!(*argument))
+	send_to_char(
+	    "What do you want to tell all immortals?\n\r", ch);
+    else
+    {
+	global_color=31;
+	sprintf(buf1, "$n [35]: %s", argument);
+	act(buf1, FALSE, ch, 0, 0, TO_CHAR);
+
+	for (i = descriptor_list; i; i = i->next)
+	if (i->character != ch && !i->connected && 
+		GET_LEVEL(i->character) > 34)
+		act(buf1, FALSE, ch, 0, i->character, TO_VICT);
+	global_color=0;
+    }
+}
+void do_wiz(struct char_data *ch, char *argument, int cmd)
+{
+    char buf1[MAX_STRING_LENGTH];
+    struct descriptor_data *i=NULL;
+	int mylevel=31;
+	char mybuf[MAX_INPUT_LENGTH];
+
+    if(IS_NPC(ch))return;
+    for (; *argument == ' '; argument++);
+
+    if (!(*argument))
+	send_to_char(
+	    "What do you want to tell all gods and immortals?\n\r", ch);
+    else
+    {
+	if(argument[0]=='#'){
+		argument++;
+		one_argument(argument,mybuf);
+		if(is_number(mybuf)){
+			half_chop(argument, mybuf, argument);
+			mylevel=MIN(atoi(mybuf), 35);
+			if(mylevel<31){
+				send_to_char("Thats not a god level.\n", ch);
+				return;
+			}
+			if(mylevel>GET_LEVEL(ch)){
+				send_to_char("You can't speak at that level.\n",ch);
+				return;
+			}
+		}
+	}	
+	if(GET_LEVEL(ch)>=31)global_color=36;
+	else global_color=34;
+	if(cmd==5)
+		sprintf(buf1, "%s\r\n", argument);
+	else
+		if(mylevel>31)
+			sprintf(buf1, "%s [%d]: %s\r\n", GET_NAME(ch), mylevel, argument);
+		else
+			sprintf(buf1, "%s: %s\r\n", GET_NAME(ch), argument);
+/*	act(buf1, FALSE, ch, 0, 0, TO_CHAR);*/
+
+	for (i = descriptor_list; i; i = i->next)
+	if (/*i->character != ch &&*/ !i->connected && 
+		GET_LEVEL(i->character) >= mylevel)
+	    if(cmd==5){
+		if(IS_SET(i->character->specials.god_display,GOD_INOUT))
+			send_to_char(buf1, i->character);
+/*			act(buf1, FALSE, ch, 0, i->character, TO_VICT);*/
+	    }else
+	        if(IS_SET(i->character->specials.god_display,GOD_ONOFF))
+			send_to_char(buf1, i->character);
+/*		    	act(buf1, FALSE, ch, 0, i->character, TO_VICT);*/
+	global_color=0;
+    }
+}
+
+void do_tap(struct char_data *ch, char *argument, int cmd)
+{
+    struct obj_data *obj=NULL;
+    char name[100];
+    char buf[MAX_INPUT_LENGTH];
+    int xp;
+
+    if( IS_NPC(ch) )
+	{
+	send_to_char("The gods don't accept sacrifices from monsters.\n\r",ch);
+	return;
+	}
+
+    one_argument (argument, name);
+
+    if (!*name || !str_cmp(name, GET_NAME(ch)) )
+    {
+	act( "$n offers $mself to $s god, who graciously declines.",
+	    FALSE, ch, 0, 0, TO_ROOM);
+	act( "Your god appreciates your offer and may accept it later.",
+	    FALSE, ch, 0, 0, TO_CHAR);
+	return;
+    }
+
+    obj = get_obj_in_list_vis( ch, name, world[ch->in_room]->contents );
+    if ( obj == NULL )
+    {
+	act( "You can't find that object.",
+	    FALSE, ch, 0, 0, TO_CHAR);
+	return;
+    }
+
+    if ( !CAN_WEAR(obj, ITEM_TAKE) )
+    {
+	act( "$p is not an acceptable sacrifice.",
+	    FALSE, ch, obj, 0, TO_CHAR );
+	return;
+    }
+
+    if ( (ch->in_room == 3) || (ch->in_room == 4553) )
+    {
+        act( "$n sacrifices $p to $s god.", FALSE, ch, obj, 0, TO_ROOM);
+        act( "You tidy up the donation room.", FALSE, ch, obj, 0, TO_CHAR
+);
+        extract_obj(obj);
+        return;
+    }
+
+    if ( GET_ITEM_TYPE(obj) != ITEM_CONTAINER || obj->obj_flags.value[3] != 1 )
+    {
+	act( "$n sacrifices $p to $s god.", FALSE, ch, obj, 0, TO_ROOM );
+	sprintf(name,"You get %d gold coins for your sacrifice",
+		(int)(obj->obj_flags.cost-(int)(obj->obj_flags.cost*.93)));
+	act( name,FALSE, ch, obj, 0, TO_CHAR );
+	GET_GOLD(ch) += (int)(obj->obj_flags.cost-(int)(obj->obj_flags.cost*.93));
+	extract_obj(obj);
+    }
+    else if ( obj->obj_flags.cost_per_day != 100000 )
+    {
+	act( "Such a sacrifice would be very unwise.",
+	    FALSE, ch, obj, 0, TO_CHAR );
+	return;
+    }
+    else
+    {
+	xp = 5 + GET_LEVEL(ch)*2;
+	sprintf( buf,
+	    "You get %d experience points for your sacrifice.", xp );
+	act( "$n sacrifices $p to $s god.", FALSE, ch, obj, 0, TO_ROOM);
+	act( buf, FALSE, ch, obj, 0, TO_CHAR );
+	gain_exp(ch, xp, NULL);
+	extract_obj(obj);
+    }
+}
+
+void do_trip(struct char_data *ch, char *argument, int cmd)
+{
+    struct char_data *victim=NULL;
+    char name[256];
+    byte percent;
+
+    /* Mobs auto-trip in fight.c */
+    if ( IS_NPC(ch) )
+        return;
+    if(in_a_shop(ch)){
+        send_to_char("You realize it is not polite to fight in a public shop.\n\r",ch);
+        return;
+    }
+
+    if ((GET_CLASS(ch) != CLASS_THIEF) && GET_LEVEL(ch)<33
+	&&!IS_SET(ch->player.multi_class,MULTI_CLASS_THIEF)){
+        send_to_char("You better leave all the agile fighting to thieves.\n\r",
+		     ch);
+        return;
+    }
+
+    one_argument(argument, name);
+
+    victim = get_char_room_vis( ch, name );
+    if ( victim == NULL )
+        victim = ch->specials.fighting;
+
+    if ( victim == NULL )
+    {
+        send_to_char( "Trip whom?\n\r", ch );
+        return;
+    }
+
+    if (victim == ch) {
+        send_to_char("Aren't we funny today...\n\r", ch);
+        return;
+    }
+	if(IS_SET(victim->denyclass,DENYTRIP)){
+		act("It's impossible to trip $N.",TRUE,ch,0,victim,TO_CHAR);
+		return;
+	}
+    if(!if_allowed_to_attack(ch,victim))return;
+    if (is_in_safe(ch,victim)==TRUE){
+        act("$n tries to MURDER $N in a safe room!",
+        FALSE, ch, 0, victim, TO_ROOM); 
+        return; 
+    }
+   
+    if((GET_MOB_POS(victim)==POSITION_BELLY)
+		||(GET_POS(victim)==POSITION_SITTING)
+		||(GET_MOB_POS(victim)==POSITION_SITTING)
+		||(GET_MOB_POS(victim)==POSITION_BACK))
+		{
+		send_to_char("Your victim is already down.\n\r",ch);
+        WAIT_STATE(ch, PULSE_VIOLENCE);
+		return;	
+		}
+
+     /* 101% is a complete failure */
+    percent=number(1,101) + (GET_LEVEL(victim) - GET_LEVEL(ch));
+    if(!IS_IN_FRONT(victim)){
+	act("You try and trip $M but $E is not close enough in formation.",TRUE,ch,0,victim,TO_CHAR);
+	return;
+    }
+    if(!IS_IN_FRONT(ch))
+	{
+	send_to_char("You must move up in formation to trip...\n\r",ch);
+	return;
+    	}
+    if (percent > ch->skills[SKILL_TRIP].learned * 2 / 3 ) 
+	{
+	act("$n tries to trip you, but fails.",
+		FALSE, ch, NULL, victim, TO_VICT);
+	act("You try to trip $N, but $E leaps out of the way.",
+		FALSE, ch, NULL, victim, TO_CHAR);
+
+        if(damage(ch, victim, 0, SKILL_TRIP))
+			return;
+        if(!IS_NPC(ch))
+                WAIT_STATE(ch, PULSE_VIOLENCE);
+        else
+                GET_MOB_WAIT(ch)+=1;
+	return;
+	}
+    else {
+      act( "$n trips you and you go down!",
+	  FALSE, ch, NULL, victim, TO_VICT );
+      act( "You trip $N and $N goes down!",
+	  FALSE, ch, NULL, victim, TO_CHAR );
+      act( "$n trips $N and $E goes down!",
+	  FALSE, ch, NULL, victim, TO_NOTVICT );
+      if(damage(ch, victim, 1, SKILL_TRIP))
+		return;
+      WAIT_STATE(ch, PULSE_VIOLENCE*2);
+      WAIT_STATE(victim, PULSE_VIOLENCE*2);
+	  if(IS_NPC(victim))
+		{
+      	GET_MOB_POS(victim) = POSITION_SITTING;
+      	if(number(1,100)<50)GET_MOB_POS(victim)=POSITION_BELLY;
+        else GET_MOB_POS(victim)=POSITION_BACK;
+		}
+	  else
+      	GET_POS(victim) = POSITION_SITTING;
+
+	  fall(victim);
+
+    }
+
+}
+
+void do_disarm( struct char_data *ch, char *argument, int cmd )
+{
+    struct char_data *victim=NULL;
+    char name[256];
+    int percent;
+    struct obj_data *obj=NULL;
+
+    /* Mobs auto-disarm in fight.c */
+    if ( IS_NPC(ch) )
+	return;
+
+    if ( GET_CLASS(ch) != CLASS_WARRIOR && GET_CLASS(ch) != CLASS_THIEF
+	    && GET_LEVEL(ch) < 33 
+ 		&&!IS_SET(ch->player.multi_class,MULTI_CLASS_WARRIOR)
+		&&!IS_SET(ch->player.multi_class,MULTI_CLASS_THIEF))
+    {
+		send_to_char( "You don't know how to disarm opponents.\n\r", ch );
+		return;
+    }
+
+    if ( ch->equipment[WIELD] == NULL ){
+		send_to_char( "You must wield a weapon to disarm.\n\r", ch );
+		return;
+    }
+    one_argument( argument, name );
+    victim = get_char_room_vis( ch, name );
+    if ( victim == NULL )
+		victim = ch->specials.fighting;
+    if ( victim == NULL ){
+		send_to_char( "Disarm whom?\n\r", ch );
+		return;
+    }
+    if ( victim == ch ){
+		act( "$n disarms $mself!", FALSE, ch, NULL, victim, TO_NOTVICT );
+		send_to_char( "You disarm yourself!\n\r", ch );
+		obj = unequip_char( ch, WIELD );
+		obj_to_room( obj, ch->in_room );
+		return;
+    }
+    if(GET_MOB_POS(victim)==POSITION_BELLY)return;
+    if ( victim->equipment[WIELD] == NULL ){
+		send_to_char( "Your opponent is not wielding a weapon!\n\r", ch );
+		return;
+    }
+    if(!if_allowed_to_attack(ch,victim))return;
+    if (is_in_safe(ch,victim)==TRUE){
+       act("$n tries to MURDER $N in a safe room!",
+           FALSE, ch, 0, victim, TO_ROOM); 
+       return; 
+    }
+    if(!IS_IN_FRONT(ch)){
+		send_to_char("You cannot get around the person in front of you.\n\r",ch);
+		return;
+    }
+    if(!IS_IN_FRONT(victim)){
+		act("Your victim has someone in front of $M.",TRUE,ch,0,victim,TO_CHAR);
+		return;
+    }
+	if(IS_SET(victim->denyclass,DENYDISARM)){
+		act("$N easily deflects your weapon.",TRUE,ch,0,victim,TO_CHAR);
+		return;
+	}
+    percent = number( 1, 100 ) + GET_LEVEL(victim) - GET_LEVEL(ch);
+    if ( percent < ch->skills[SKILL_DISARM].learned * 2 / 3 )
+    {
+		disarm( ch, victim );
+		one_hit( victim, ch, TYPE_UNDEFINED );
+		WAIT_STATE( ch, 1 * PULSE_VIOLENCE );
+    }else{
+		one_hit( victim, ch, TYPE_UNDEFINED );
+		WAIT_STATE( ch, PULSE_VIOLENCE*1 );
+    }
+}
+
+void do_title(struct char_data *ch, char *argument, int cmd){
+    char buf[100];
+    char my_buf[100];
+    int x=0, y=0;
+
+    if (!*argument){
+    	send_to_char("Change your title to what?\n\r", ch);
+    	return;
+    }
+    
+    for (; isspace(*argument); argument++);
+
+    if (strlen(argument)>40){
+    	send_to_char("Title field too big.  40 characters max.\n\r", ch);
+    	return;
+    }
+
+    memset(my_buf,0,100);
+
+    while(argument[x]!='\0')
+	if(argument[x]=='~')
+	    x++;
+	else
+	    my_buf[y++]=argument[x++];
+
+    my_buf[y]='\0';
+    ch->player.title = my_free(ch->player.title);
+
+    if(strlen(argument)>2){
+	ch->player.title = str_dup(my_buf);
+	sprintf(buf,"Your title is now: %s\n\r", my_buf);
+	send_to_char(buf,ch);
+    }else 
+	ch->player.title=str_dup(no_title);
+}
+
+void do_split(struct char_data *ch, char *argument, int cmd)
+{
+  int amount,canhold=0,x,y;
+  char buf[256], number[10];
+  int no_members, share, extra;
+  struct char_data *k=NULL;
+
+
+  if (!*argument){
+    send_to_char("Split what?\n\r", ch);
+    return;
+  }
+
+  one_argument (argument, number);
+  
+  if (strlen(number)>7){
+    send_to_char("Number field too big.\n\r", ch);
+    return;
+  }
+
+  amount = atoi(number);
+
+  if ( amount < 0 )
+  {
+    send_to_char( "Your formation wouldn't like that!\n\r", ch );
+    return;
+  }
+
+  if ( amount == 0 )
+  {
+    send_to_char(
+    "You hand out zero coins to everyone, but no one notices.\n\r", ch );
+    return;
+  }
+
+  if (GET_GOLD(ch)<amount)
+  {
+    send_to_char( "You don't have that much gold!\n\r", ch );
+    return;
+  }
+  
+  if (ch->master!=ch)
+    k = ch->master;
+  else
+    k = ch;
+
+  if ( !is_formed(k) || k->in_room != ch->in_room )
+  {
+    send_to_char("You must be in a formation to split your money!\n\r", ch);
+    return;
+  }
+
+  no_members = 0;
+  for (x=0;x<3;x++)
+  for (y=0;y<3;y++)
+  {
+    if(ch->master->formation[x][y])
+    if(ch->master->formation[x][y]->in_room == ch->in_room)
+      no_members++;
+  }
+
+  share = amount / no_members;
+  extra = amount-(share*no_members);
+  if(extra<1)extra=0;
+  GET_GOLD(ch) -= amount;
+  GET_GOLD(ch)+=extra;
+  for (x=0;x<3;x++)
+  for (y=0;y<3;y++)
+  {
+    if(ch->master->formation[x][y])
+    if (ch->master->formation[x][y]->in_room == ch->in_room) {
+      if (ch->master->formation[x][y]==ch)
+	sprintf( buf, "You split %d gold coins.", amount );
+      else 
+	sprintf( buf, "%s splits %d gold coins.", GET_NAME(ch), amount );
+      send_to_char( buf, ch->master->formation[x][y] );
+
+     
+    
+if((GET_GOLD(ch->master->formation[x][y])+share)<=((GET_LEVEL(ch->master->formation[x][y])*GET_LEVEL(ch->master->formation[x][y]))*5555)){
+         sprintf( buf, "Your share is %d gold coins.\n\r", share );
+         send_to_char( buf, ch->master->formation[x][y] );
+         GET_GOLD(ch->master->formation[x][y]) += share;
+      }else{
+        
+	
+if(GET_GOLD(ch->master->formation[x][y])>=((GET_LEVEL(ch->master->formation[x][y])*GET_LEVEL(ch->master->formation[x][y]))*5555)){
+	    send_to_char("You simply can't hold any more
+gold.\n\r",ch->master->formation[x][y]);
+	    act("$N can't hold any more
+gold.",FALSE,ch,0,ch->master->formation[x][y],TO_CHAR);
+	    GET_GOLD(ch)+=share;
+         }else{
+	   
+canhold=((GET_LEVEL(ch->master->formation[x][y])*GET_LEVEL(ch->master->formation[x][y]))*5555)-GET_GOLD(ch->master->formation[x][y]);
+	    sprintf(buf,"%s takes %d coins, all $e can
+carry.\n\r",GET_NAME(ch->master->formation[x][y]),canhold);
+ 	    send_to_char(buf,ch);
+  	    act(buf,FALSE,ch,0,ch,TO_CHAR);	
+	    sprintf(buf,"You take %d coins, all you can carry.\n\r", canhold);
+	    send_to_char(buf,ch->master->formation[x][y]);
+	    GET_GOLD(ch->master->formation[x][y])+=canhold;
+	    GET_GOLD(ch)+=(share-canhold);
+         }     
+      }
+    } 
+  }
+}
+
+void do_grouptell(struct char_data *ch, char *argument, int cmd)
+{
+  char buf[256];
+  int x,y;
+
+  if (!*argument){
+    send_to_char("Tell your formation what?\n\r", ch);
+    return;
+  }
+
+  for (; isspace(*argument); argument++);
+
+  if (IS_SET(ORIGINAL(ch)->specials.act, PLR_NOTELL))
+    {
+      send_to_char("Your message didn't get through!!\n\r", ch);
+      return;
+    }
+
+  if (!is_formed(ch))
+    {
+      send_to_char("You don't have a formation to talk to!\n\r", ch);
+      return;
+    }
+
+  global_color=36;
+  sprintf(buf,"%s tells the formation, '%s'.\n\r",GET_NAME(ch),argument);
+  for(x=0;x<3;x++)
+  for(y=0;y<3;y++) 
+  {
+	if(ch->master->formation[x][y])
+          send_to_char(buf,ch->master->formation[x][y]);
+  }
+  global_color=0;
+}
+
+void do_report(struct char_data *ch, char *argument, int cmd)
+{
+  char buf[256];
+  global_color=31;
+  sprintf(buf, "$n says, 'My stats are:[%d/%dhp %d/%dm %d/%dmv %dac %dal]'",
+      GET_HIT(ch),
+      GET_MAX_HIT(ch),
+      GET_MANA(ch),
+      GET_MAX_MANA(ch),
+      GET_MOVE(ch),
+      GET_MAX_MOVE(ch),
+      GET_AC(ch),
+      ch->specials.alignment);
+  act(buf, FALSE, ch, 0, 0, TO_CHAR);
+  act(buf, FALSE, ch, 0, 0, TO_ROOM);
+  global_color=0;
+}
+
+bool CAN_SEE( struct char_data *sub, struct char_data *obj )
+{
+int x,y;
+    if (obj == sub)
+      return TRUE;
+
+/*  let players who are grouped with god see anyone in the group */
+
+    if(is_formed(sub)){
+	for(x=0;x<3;x++)
+	    for(y=0;y<3;y++){
+		if(sub->master)
+			if(sub->master->formation[x][y]==obj)
+		    	return TRUE;
+	    }    
+    }
+    if ( obj->specials.wizInvis )
+    {
+	if ( IS_NPC(sub) || GET_LEVEL(sub) < GET_LEVEL(obj) )
+	    return FALSE;
+    }
+
+    if ( sub->specials.holyLite )
+	return TRUE;
+
+    if ( IS_AFFECTED(sub, AFF_BLIND) )
+	return FALSE;
+
+    if ( !IS_LIGHT(sub->in_room) && !IS_AFFECTED(sub, AFF_INFRARED) )
+	return FALSE;
+/*
+    if (IS_NPC(sub) && IS_AFFECTED(sub, AFF_SENSE_LIFE))
+	return TRUE;
+*/
+
+    if ( ( IS_AFFECTED(obj, AFF_SNEAK) || ( IS_AFFECTED(obj, AFF_HIDE) ) )
+	&& IS_NPC(sub) && !IS_UNDEAD(sub) )
+    {
+/*
+	if ( number( 1, 100 ) >= MIN(52, GET_LEVEL(sub) * 3 / 2 ))
+	    return FALSE;
+*/
+	if (number(1,100)>=(1+(14*(MIN(35,GET_LEVEL(sub))-GET_LEVEL(obj)+30)/64)))
+		return FALSE;
+    }
+
+    if ( !IS_AFFECTED(obj, AFF_INVISIBLE) )
+	return TRUE;
+
+    if ( IS_AFFECTED(sub, AFF_DETECT_INVISIBLE) )
+	return TRUE;
+
+    return FALSE;
+}
+
+
+
+bool CAN_SEE_OBJ( struct char_data *sub, struct obj_data *obj )
+{
+    if ( sub->specials.holyLite )
+	return TRUE;
+
+    if ( IS_AFFECTED( sub, AFF_BLIND ) )
+	return FALSE;
+
+    if ( !IS_LIGHT(sub->in_room) && !IS_AFFECTED(sub, AFF_INFRARED) )
+	return FALSE;
+
+    if ( !IS_SET(obj->obj_flags.extra_flags, ITEM_INVISIBLE) )
+	return TRUE;
+
+    if ( IS_AFFECTED(sub, AFF_DETECT_INVISIBLE) )
+	return TRUE;
+
+    return FALSE;
+}
+
+
+
+bool check_blind( struct char_data *ch )
+{
+    if ( IS_AFFECTED(ch, AFF_BLIND) )
+    {
+	send_to_char( "You can't see a damn thing!\n\r", ch );
+	return TRUE;
+    }
+
+    return FALSE;
+}
+
+
+
+/*
+ * Given a mob, determine what level its eq is.
+ * Wormhole to shopping_buy.
+ */
+int map_eq_level( struct char_data *mob )
+{
+    if ( mob_index[mob->nr].func == shop_keeper )
+	return 6;
+    if ( GET_LEVEL(mob) <= 10 )
+	return 0;
+    else 
+	return GET_LEVEL(mob) - 6;
+}
+
+
+
+void do_tick( struct char_data *ch, char *argument, int cmd )
+{
+    int	ntick;
+    char buf[256];
+
+    if ( IS_NPC(ch) )
+    {
+	send_to_char( "Monsters don't wait for anything.\n\r", ch );
+	return;
+    }
+
+    if ( ch->desc == NULL )
+	return;
+
+    while ( *argument == ' ' )
+	argument++;
+
+    if ( *argument == '\0' )
+	ntick = 1;
+    else
+	ntick = atoi( argument );
+
+    if ( ntick == 1 )
+	sprintf( buf, "$n is waiting for one tick." );
+    else
+	sprintf( buf, "$n is waiting for %d ticks.", ntick );
+
+    act(buf, TRUE, ch, 0, 0, TO_CHAR);
+    act(buf, TRUE, ch, 0, 0, TO_ROOM);
+
+    ch->desc->tick_wait	= ntick;
+}
+
+*** Modified files in JOE when it aborted on Sun Oct 22 16:46:42 1995
+*** JOE was aborted by signal 1
+
+*** File '(Unnamed)'
+tick
+
+*** Modified files in JOE when it aborted on Sat Oct 28 22:18:08 1995
+*** JOE was aborted by signal 1
+
+*** File '(Unnamed)'
+load_mob
+
+*** Modified files in JOE when it aborted on Fri Nov  3 00:11:33 1995
+*** JOE was aborted by signal 1
+
+*** Modified files in JOE when it aborted on Wed Nov 22 00:53:54 1995
+*** JOE was aborted by signal 1
+
+*** File '(Unnamed)'
+load_
+
+*** File 'files.c'
+/***************************************************************************
+*		 MEDIEVIA CyberSpace Code and Data files		   *
+*       Copyright (C) 1992, 1995 INTENSE Software(tm) and Mike Krause	   *
+*			   All rights reserved				   *
+***************************************************************************/
+/***************************************************************************
+* This program belongs to INTENSE Software, and contains trade secrets of  *
+* INTENSE Software.  The program and its contents are not to be disclosed  *
+* to or used by any person who has not received prior authorization from   *
+* INTENSE Software.  Any such disclosure or use may subject the violator   *
+* to civil and criminal penalties by law.                                  *
+***************************************************************************/
+
+
+#include <stdlib.h>
+#include <stdio.h>
+#include <string.h>
+#include <memory.h>
+#include <ctype.h>
+#include <time.h>
+
+#include "structs.h"
+#include "mob.h"
+#include "obj.h"
+#include "utils.h"
+#include "db.h"
+#include "handler.h"
+#include "limits.h"
+#include "spells.h"
+
+#define NEW_ZONE_SYSTEM
+
+/*
+ * Sizes.
+ */
+#define	MAX_RESET   9792
+
+/**************************************************************************
+*  declarations of most of the 'global' variables                         *
+************************************************************************ */
+extern int weigh(struct obj_data *obj);
+extern int VERSIONNUMBER;
+extern void add_object(struct obj_data *obj);
+extern void sanity_check_object_list();
+extern struct obj_data *DA_paper;
+struct room_data *world[MAX_ROOM]; /* array of rooms                  */
+struct char_data *mobs[MAX_MOB];
+struct obj_data  *objs[MAX_OBJ];
+extern char use_hash_table;
+char fixit=0;
+int top_of_world = 0;                 /* ref to the top element of world */
+struct obj_data  *object_list = NULL;    /* the global linked list of obj's */
+struct char_data *character_list = NULL; /* global l-list of chars          */
+struct ban_t *ban_list=NULL;             /* list of banned site--sigh       */
+extern char global_color;
+struct zone_data zone_table_array[MAX_ZONE];
+struct zone_data *zone_table = zone_table_array;
+#define zone_table  zone_table_array
+		      /* table of reset data             */
+int top_of_zone_table = 0;
+int number_of_rooms=0, number_of_zones=0;
+struct message_list fight_messages[MAX_MESSAGES]; /* fighting messages   */
+char greetings_ansi1[MAX_STRING_LENGTH]; /* ANSI COLOR greetings file     */
+char greetings_ansi2[MAX_STRING_LENGTH]; /* ANSI COLOR greetings file     */
+char greetings_ansi3[MAX_STRING_LENGTH]; /* ANSI COLOR greetings file     */
+char greetings_ansi4[MAX_STRING_LENGTH]; /* ANSI COLOR greetings file     */
+char greetings_ansi5[MAX_STRING_LENGTH]; /* ANSI COLOR greetings file     */
+char greetings1[MAX_STRING_LENGTH];    /* the greeting screen             */
+char greetings2[MAX_STRING_LENGTH];    /* the greeting screen             */
+char greetings3[MAX_STRING_LENGTH];    /* the greeting screen             */
+char greetings4[MAX_STRING_LENGTH];    /* the greeting screen             */
+char greetings5[MAX_STRING_LENGTH];    /* the greeting screen             */
+char greetings6[MAX_STRING_LENGTH];    /* the greeting screen             */
+char credits[MAX_STRING_LENGTH];      /* the Credits List                */
+char news[MAX_STRING_LENGTH];         /* the news                        */
+char motd[MAX_STRING_LENGTH];         /* the messages of today           */
+char mods[MAX_STRING_LENGTH];	      /* Our mods		         */
+char story[MAX_STRING_LENGTH];        /* the game story                  */
+char help[MAX_STRING_LENGTH];         /* the main help page              */
+char info[MAX_STRING_LENGTH];         /* the info text                   */
+char wizlist[MAX_STRING_LENGTH];      /* the wizlist                     */
+char wmfha[1300];        	      /* Work Made For Hire Agreement    */
+char downtxt[1000];        	      /* down and offline text           */
+char *trivia[MAX_TRIVIA]; /* trivia array */
+char trivia_file[MAX_INPUT_LENGTH];  /* file name for trivia file */
+
+
+FILE *mob_f,                          /* file containing mob prototypes  */
+     *obj_f,                          /* obj prototypes                  */
+     *help_fl,                        /* file for help texts (HELP <kwd>)*/
+     *trivia_fl;		      /* file for trivia items 		 */
+
+struct index_data mob_index_array[MAX_MOB];
+struct index_data *mob_index = mob_index_array;
+#define mob_index   mob_index_array
+		      /* index table for mobile file     */
+struct index_data obj_index_array[MAX_OBJ];
+struct index_data *obj_index = obj_index_array;
+		      /* index table for object file     */
+#define obj_index   obj_index_array
+struct help_index_element *help_index = NULL;
+
+int top_of_mobt = 0;                  /* top of mobile index table       */
+int top_of_objt = 0;                  /* top of object index table       */
+int top_of_helpt = 0;                 /* top of help index table         */
+int top_trivia   = 0;				  /* top of trivia table */
+
+struct time_info_data time_info;    /* the infomation about the time   */
+struct weather_data weather_info;   /* the infomation about the weather */
+struct damage_rooms *daroom_list = NULL;
+
+
+/* local procedures */
+void boot_damage_rooms(void);
+void boot_zones(void);
+void setup_dir(FILE *fl, int room, int dir);
+void build_trivia(FILE *);
+
+void boot_world(void);
+struct index_data *generate_indices_objs(FILE *fl, int *top,struct index_data *index);
+int is_empty(int zone_nr);
+void reset_zone(int zone);
+int file_to_string(char *name, char *buf);
+void renum_zone_table(void);
+void reset_time(void);
+void clear_char(struct char_data *ch);
+int slot_machine(struct char_data *ch, int cmd, char *arg);
+
+/* external refs */
+extern struct obj_data *tweak(struct obj_data *obj);
+extern struct index_data *generate_indices_mobs(FILE *fl, int *top,struct index_data *index);
+extern void load_ban_list(void);
+extern struct descriptor_data *descriptor_list;
+extern void load_messages(void);
+extern void weather_and_time ( int mode );
+extern void assign_spell_pointers ( void );
+extern void build_catacombs(void);
+extern int dice(int number, int size);
+extern int number(int from, int to);
+extern void write_filtered_text(FILE *fh, char *text);
+extern void boot_social_messages(void);
+extern void boot_pose_messages(void);
+extern struct help_index_element *build_help_index(FILE *fl, int *num);
+extern int _filbuf(FILE *);
+extern void space_to_underline(char *text);
+extern int port;
+extern bool in_a_shop(struct char_data *ch);
+extern void load_room_actions(void);
+extern struct char_data *finger_ch;
+extern void BootHoloCode(void);
+extern int num_mob_classless;
+extern int num_mob_class;
+extern int num_mob_thief;
+extern int num_mob_magic_user;
+extern int num_mob_warrior;
+extern int num_mob_cleric;
+extern int num_mob_other;
+extern void LoadSurveyList();
+extern void BootTradingSystem(void);
+
+void boot_db(void)
+{
+    int i,k;
+	struct descriptor_data *tmp_d;
+    num_mob_classless=0;
+    num_mob_class=0;
+    num_mob_magic_user=0;
+    num_mob_cleric=0;
+    num_mob_warrior=0;
+    num_mob_thief=0;
+    num_mob_other=0;    reset_time();
+    log_hd( "Reading aux files." );
+    file_to_string("../lib/knight_col.pic",greetings_ansi1);
+    file_to_string("../lib/original_col.pic",greetings_ansi2);
+    file_to_string("../lib/castle1_col.pic",greetings_ansi3);
+    file_to_string("../lib/mortal_col.pic",greetings_ansi4);
+    file_to_string("../lib/castle2_col.pic",greetings_ansi5);
+    file_to_string("../lib/castle2_mon.pic", greetings1);
+    file_to_string("../lib/knight_mon.pic", greetings2);
+    file_to_string("../lib/mortal_mon.pic", greetings3);
+    file_to_string("../lib/original_mon.pic", greetings4);
+    file_to_string("../lib/viking_mon.pic", greetings5);
+    file_to_string("../lib/wiz_desk_mon.pic", greetings6);
+    file_to_string(NEWS_FILE, news);
+    file_to_string(CREDITS_FILE, credits);
+    file_to_string(MOTD_FILE, motd);
+    file_to_string(MODS_FILE, mods);
+    file_to_string("wmfhagreement.txt",wmfha);
+    file_to_string("down.txt",downtxt);
+    strcat( wmfha, "\n\rPress RETURN to continue: " );
+    strcat( motd, "\n\rPress RETURN to continue: " );
+    strcat( mods, "\n\rPress RETURN to continue: " );
+    file_to_string(STORY_FILE, story);
+    strcat( story, "\n\rPress RETURN to continue: " );
+    file_to_string(HELP_PAGE_FILE, help);
+    file_to_string(INFO_FILE, info);
+    file_to_string(WIZLIST_FILE, wizlist);
+
+    log_hd("Opening mobile, object and help files.");
+    if (!(mob_f = fopen(MOB_FILE, "r")))
+    	{
+		perror( MOB_FILE );
+		SUICIDE;
+   		}
+	open_files++;
+
+    if (!(obj_f = fopen(OBJ_FILE, "r")))
+    	{
+		perror( OBJ_FILE );
+		SUICIDE;
+    	}
+
+	open_files++;
+    if (!(help_fl = fopen(HELP_KWRD_FILE, "r")))
+    	{
+		perror( HELP_KWRD_FILE );
+    	SUICIDE;
+		}
+	open_files++;
+
+	/* Build trivia array */
+	if (!(trivia_fl = fopen(TRIVIA_FILE, "r"))){
+		perror(TRIVIA_FILE);
+		SUICIDE;
+	}
+	open_files++;
+	build_trivia(trivia_fl);
+	fclose(trivia_fl);
+	/* End of Trivia Array building */
+
+    help_index = build_help_index(help_fl, &top_of_helpt);
+
+    log_hd( "Loading MEDIEVIA files....." );
+    log_hd("Loading list of banned sites....");
+    load_ban_list();
+    boot_zones();
+    boot_world();
+    log_hd("Verifying all room EXITS:");
+    for(i=0;i<MAX_ROOM;i++){
+	for(k=0;k<6;k++)
+	   if(world[i]&&world[i]->dir_option[k]&&
+		!world[world[i]->dir_option[k]->to_room]){
+		sprintf(log_buf,"##room %d has exit to room %d which isn't here!",i,
+		world[i]->dir_option[k]->to_room);
+		if(port!=1220)
+		   log_hd(log_buf);
+        world[i]->dir_option[k]->general_description = 
+        	my_free(world[i]->dir_option[k]->general_description);
+        world[i]->dir_option[k]->keyword = 
+        	my_free(world[i]->dir_option[k]->keyword);
+        world[i]->dir_option[k]->exit = 
+        	my_free(world[i]->dir_option[k]->exit);
+        world[i]->dir_option[k]->entrance = 
+        	my_free(world[i]->dir_option[k]->entrance);
+		world[i]->dir_option[k] = 
+			my_free(world[i]->dir_option[k]);
+       	world[i]->dir_option[k]=NULL;
+	   }
+       
+    }
+    log_hd("Loading Mobile files");
+    generate_indices_mobs(mob_f, &top_of_mobt, mob_index);
+    log_hd("Loading Object files");
+    generate_indices_objs(obj_f, &top_of_objt, obj_index);
+    log_hd("Loading Room Actions");
+    load_room_actions();
+    log_hd("Loading messages.");
+    load_messages();
+    log_hd("Loading socials.");
+    boot_social_messages();
+    log_hd("Loading poses.");
+    boot_pose_messages();
+    world[0]->funct=slot_machine;
+    log_hd( "Assigning function pointers." );
+    if(port!=1220){
+       assign_mobiles();
+       assign_objects();
+       assign_rooms();
+    }
+    assign_spell_pointers();
+	log_hd("Building the CATACOMBS...");
+	build_catacombs();
+    if(port != 7777){
+    	BootHoloCode();
+		BootTradingSystem();
+    }
+	boot_damage_rooms();
+	
+	/*all this is for the finger data, finger @ourmachine */
+	finger_ch=read_mobile(1219,1);
+	GET_LEVEL(finger_ch)=32;
+    CREATE(tmp_d, struct descriptor_data, 1);
+    finger_ch->specials.holyLite=1;
+	finger_ch->in_room=0;
+    finger_ch->desc=tmp_d;
+	character_list=finger_ch->next;
+	finger_ch->next=NULL;
+
+
+    fprintf( stderr, "Done\n\r******* Medievia is Online and ready *******\n\r" );
+    fclose(mob_f);
+	open_files--;
+    fclose(obj_f);
+	open_files--;
+}
+
+
+/* reset the time in the game from file */
+void reset_time(void)
+{
+long beginning_of_time = 650336715;
+FILE *fh;
+
+    struct time_info_data mud_time_passed(time_t t2, time_t t1);
+
+    if((fh=fopen("../lib/time.dat", "r"))!=NULL){
+    	fread(&time_info ,sizeof(time_info), 1, fh);
+        fclose(fh);    
+    }else{
+	    time_info = mud_time_passed(time(0), beginning_of_time);
+    }
+    switch(time_info.hours){
+	case 0 :
+	case 1 :
+	case 2 :
+	case 3 :
+	case 4 : 
+	{
+	    weather_info.sunlight = SUN_DARK;
+	    break;
+	}
+	case 5 :
+	{
+	    weather_info.sunlight = SUN_RISE;
+	    break;
+	}
+	case 6 :
+	case 7 :
+	case 8 :
+	case 9 :
+	case 10 :
+	case 11 :
+	case 12 :
+	case 13 :
+	case 14 :
+	case 15 :
+	case 16 :
+	case 17 :
+	case 18 :
+	case 19 :
+	case 20 :
+	{
+	    weather_info.sunlight = SUN_LIGHT;
+	    break;
+	}
+	case 21 :
+	{
+	    weather_info.sunlight = SUN_SET;
+	    break;
+	}
+	case 22 :
+	case 23 :
+	default :
+	{
+	    weather_info.sunlight = SUN_DARK;
+	    break;
+	}
+    }
+
+    sprintf(log_buf, "Current Gametime: %dH %dD %dM %dY.",
+	    time_info.hours, time_info.day,
+	    time_info.month, time_info.year);
+    log_hd(log_buf);
+
+    weather_info.pressure = 960;
+    if ((time_info.month>=7)&&(time_info.month<=12))
+	weather_info.pressure += dice(1,50);
+    else
+	weather_info.pressure += dice(1,80);
+
+    weather_info.change = 0;
+
+    if (weather_info.pressure<=980)
+	weather_info.sky = SKY_LIGHTNING;
+    else if (weather_info.pressure<=1000)
+	weather_info.sky = SKY_RAINING;
+    else if (weather_info.pressure<=1020)
+	weather_info.sky = SKY_CLOUDY;
+    else weather_info.sky = SKY_CLOUDLESS;
+}
+
+
+
+/* generate index table for object or monster file */
+struct index_data *generate_indices_objs(FILE *fl, int *top,
+	struct index_data *index)
+{
+    char buf[MAX_STRING_LENGTH];
+    int i=0;
+    int number;
+    rewind(fl);
+    for (;;)
+    {
+	if (fgets(buf, 81, fl))
+	{
+	    if (*buf == '#')
+	    {
+		/* allocate new cell */
+		if ( i >= MAX_INDEX )
+		{
+		    perror( "Too many indexes" );
+			SUICIDE;
+		}
+		i++;		
+		sscanf(buf, "#%d", &number);
+     		index[number].pos=ftell(fl);
+		index[number].number = 0;
+		index[number].func=NULL;
+	    }
+	    else 
+		if (*buf == '$'){    /* EOF */
+     		   index[number].pos=0;
+		    break;
+		}
+	}
+	else
+	{
+	    perror("generate indices");
+		SUICIDE;
+	}
+    }
+    *top = i - 2;
+    for(i=0;i<MAX_OBJ;i++)
+	if(index[i].pos)
+	    objs[i]=load_object(i,0);
+    return(index);
+}
+
+
+
+
+/* load the rooms */
+void boot_world(void)
+{
+FILE *fl;
+int room_nr = 0, zone = 0, flag, tmp, x;
+char *temp, chk[MAX_STRING_LENGTH],filename[255],full_filename[255];
+struct extra_descr_data *new_descr=NULL;
+character_list = NULL;
+object_list = NULL;
+    
+  log_hd("Loading Medievia Room Files (New INTENSE type)");
+  for(x=0;x<MAX_ZONE;x++)
+  if(zone_table[x].reset_mode!=-1){
+    fprintf(stderr,".");
+    strcpy(filename,zone_table[x].name);
+    space_to_underline(filename);
+    sprintf(full_filename,"../lib/wld/%s",filename);
+    if (!(fl = fopen(full_filename, "r")))
+    	{
+		perror("fopen");
+		sprintf(log_buf, "Could not open file %s",full_filename);
+		log_hd(log_buf);
+		SUICIDE;
+   		}
+	open_files++;
+    do
+    	{
+		fscanf(fl, " #%d\n", &room_nr);
+		temp = fread_string(fl);
+		if ( ( flag = (*temp != '$') ) != 0 )  /* a new record to be read */
+		{
+	    if (room_nr >= MAX_ROOM)
+	    {
+		sprintf(log_buf,"Room number too high %d",room_nr);
+		perror( log_buf);
+		SUICIDE;
+	    }
+	    if(world[room_nr]){
+	        sprintf(log_buf,"ROOM #%d already exists!",room_nr);
+	        perror(log_buf);
+			SUICIDE;
+	    }
+	    CREATE(world[room_nr], struct room_data, 1);
+	    number_of_rooms++;
+	    world[room_nr]->number = room_nr;
+	    world[room_nr]->name = temp;
+	    world[room_nr]->description = fread_string(fl);
+		world[room_nr]->stpFreight=NULL;
+	    world[room_nr]->room_afs=NULL;
+		world[room_nr]->holox=0;
+		world[room_nr]->holoy=0;
+	    fscanf(fl, " %d ",&zone);
+	    world[room_nr]->zone = zone;    
+
+	    fscanf(fl, " %d ", &tmp);
+
+	    world[room_nr]->room_flags = tmp;
+	    fscanf(fl, " %d ", &tmp);
+	    world[room_nr]->sector_type = tmp;
+	    fscanf(fl, " %d\n", &tmp);
+	    world[room_nr]->extra_flags = tmp;
+
+	    fscanf(fl, " %d ",&tmp);
+	    world[room_nr]->class_restriction = tmp;    
+	    fscanf(fl, " %d ", &tmp);
+	    world[room_nr]->level_restriction = tmp;
+	    fscanf(fl, " %d ", &tmp);
+	    world[room_nr]->align_restriction = tmp;
+	    fscanf(fl, " %d\n", &tmp);
+	    world[room_nr]->mount_restriction = tmp;
+
+	    fscanf(fl, " %d ", &tmp);
+	    world[room_nr]->move_mod = tmp;
+	    fscanf(fl, " %d ", &tmp);
+	    world[room_nr]->pressure_mod = tmp;
+	    fscanf(fl, " %d\n", &tmp);
+	    world[room_nr]->temperature_mod = tmp;
+
+	    world[room_nr]->funct = NULL;
+	    world[room_nr]->contents = NULL;
+	    world[room_nr]->people = NULL;
+	    world[room_nr]->light = 0; /* Zero light sources */
+
+	    for (tmp = 0; tmp <= 5; tmp++)
+		world[room_nr]->dir_option[tmp] = NULL;
+
+	    world[room_nr]->ex_description = NULL;
+
+	    for (;;)
+	    {
+		fscanf(fl, " %s \n", chk);
+
+		if (*chk == 'D')  /* direction field */
+		    setup_dir(fl, room_nr, atoi(chk + 1));
+		else if (*chk == 'E')  /* extra description field */
+		{
+		    CREATE(new_descr, struct extra_descr_data, 1);
+		    new_descr->keyword = fread_string(fl);
+		    new_descr->description = fread_string(fl);
+		    new_descr->next = world[room_nr]->ex_description;
+		    world[room_nr]->ex_description = new_descr;
+		}
+		else if (*chk == 'S')   /* end of current room */
+		    break;
+	    }
+			
+	}
+    }
+    while (flag);
+    fclose(fl);
+	open_files--;
+    temp = my_free(temp); /* cleanup the area containing the terminal $  */
+   }
+   top_of_world = MAX_ROOM-1;
+   fprintf(stderr, "Done\n\r");
+}
+
+
+
+/* read direction data */
+void setup_dir(FILE *fl, int room, int dir)
+{
+    int tmp;
+
+    CREATE(world[room]->dir_option[dir], struct room_direction_data, 1);
+
+    world[room]->dir_option[dir]->general_description =fread_string(fl);
+    world[room]->dir_option[dir]->keyword = fread_string(fl);
+    world[room]->dir_option[dir]->exit = fread_string(fl);
+    world[room]->dir_option[dir]->entrance = fread_string(fl);
+    fscanf(fl, " %d ", &tmp);
+    if (tmp == 1)
+	world[room]->dir_option[dir]->exit_info = EX_ISDOOR;
+    else if (tmp == 2)
+	world[room]->dir_option[dir]->exit_info = EX_ISDOOR | EX_PICKPROOF;
+    else if (tmp == 3)
+	world[room]->dir_option[dir]->exit_info = EX_ISDOOR | EX_SECRET;
+    else if (tmp == 4)
+	world[room]->dir_option[dir]->exit_info = EX_ISDOOR | EX_HIDDEN;
+    else if (tmp == 5)
+	world[room]->dir_option[dir]->exit_info = EX_ISDOOR | EX_ILLUSION;
+    else
+	world[room]->dir_option[dir]->exit_info = 0;
+    if(world[room]->dir_option[dir]->keyword&&tmp==0)
+	world[room]->dir_option[dir]->exit_info = EX_ISDOOR;	
+    fscanf(fl, " %d ", &tmp);
+    world[room]->dir_option[dir]->key = tmp;
+
+    fscanf(fl, " %d ", &tmp);
+    world[room]->dir_option[dir]->to_room = tmp;
+}
+
+
+
+
+
+#ifdef NEW_ZONE_SYSTEM
+
+/* load the zone table and command tables */
+void boot_zones(void)
+{
+    FILE *fl;
+    int zon = 0, tmp;
+    char *check, buf[MAX_STRING_LENGTH];
+    static struct reset_com reset_tab[MAX_RESET];
+    static int reset_top = 0;
+
+    for(tmp=0;tmp<MAX_ZONE;tmp++){
+	zone_table[tmp].reset_mode=-1;	/* make all non-used first */	
+	zone_table[tmp].population=0;
+	zone_table[tmp].populated=FALSE;
+	zone_table[tmp].time_to_empty=0;
+	zone_table[tmp].num_resets=0;
+	zone_table[tmp].continent=1;
+	zone_table[tmp].siX = 0;
+	zone_table[tmp].siY = 0;
+	zone_table[tmp].iRecallRoom = 0;
+	zone_table[tmp].iSocialRestricted = 0;
+    }
+    if (!(fl = fopen(ZONE_FILE, "r")))
+    	{
+		perror( ZONE_FILE );
+		SUICIDE;
+    	}
+	open_files++;
+    log_hd("Loading Zone File");
+    for (;;)
+    {
+	fscanf(fl, " #%d\n",&zon);
+	check = fread_string(fl);
+	if(port==1220&&zon>1)break;
+
+	if (*check == '$')
+	    break;      /* end of file */
+
+	/* alloc a new zone */
+
+	if ( zon >= MAX_ZONE )
+		{
+	    perror( "Too many zones" );
+		SUICIDE;
+		}
+	number_of_zones++;
+	zone_table[zon].name = check;
+	fscanf(fl, " %d ", &zone_table[zon].top);
+	fscanf(fl, " %d ", &zone_table[zon].lifespan);
+	fscanf(fl, " %d ", &zone_table[zon].reset_mode);
+	fscanf(fl, " %d\n ", &zone_table[zon].iSocialRestricted);
+	fscanf(fl, " %hd ", &zone_table[zon].siX);
+	fscanf(fl, " %hd ", &zone_table[zon].siY);
+	fscanf(fl, " %d ", &zone_table[zon].iRecallRoom);
+	/* read the command table */
+	zone_table[zon].cmd = &reset_tab[reset_top];
+	fprintf(stderr, ".");
+	for ( ;; )
+	{
+	    if ( reset_top >= MAX_RESET )
+	    {
+		sprintf(log_buf,"Too many zone resets at[%d]..",reset_top);
+		perror( log_buf );
+		SUICIDE;
+	    }
+
+	    reset_tab[reset_top].zone=zon;
+	    fscanf(fl, " "); /* skip blanks */
+	    fscanf(fl, "%c", 
+		&reset_tab[reset_top].command);
+	    
+	    if (reset_tab[reset_top].command == 'S')
+	    {
+		reset_top++;
+		break;
+	    }
+
+	    if (reset_tab[reset_top].command == '*')
+	    {
+
+		fgets(buf, 80, fl); /* skip command */
+		continue;
+	    }
+
+	    fscanf(fl, " %d %d %d", 
+		&tmp,
+		&reset_tab[reset_top].arg1,
+		&reset_tab[reset_top].arg2);
+
+	    reset_tab[reset_top].if_flag = tmp;
+
+	    if (reset_tab[reset_top].command == 'M' ||
+		reset_tab[reset_top].command == 'O' ||
+		reset_tab[reset_top].command == 'E' ||
+		reset_tab[reset_top].command == 'P' ||
+		reset_tab[reset_top].command == 'D' ||
+		reset_tab[reset_top].command == 'W')
+		fscanf(fl, " %d", &reset_tab[reset_top].arg3);
+
+	    if (reset_tab[reset_top].command == 'W')
+		fscanf(fl, " %d", &reset_tab[reset_top].arg4);
+
+	    fgets(buf, 80, fl); /* read comment */
+	    reset_top++;
+	}
+    }
+    top_of_zone_table = MAX_ZONE-1;
+    check = my_free(check);
+    fclose(fl);
+	open_files--;
+    fprintf(stderr, "Done\n\r");
+}
+
+
+
+#endif
+
+/* read an object from OBJ_FILE */
+struct obj_data *load_object(int nr, int eq_level)
+{
+    struct obj_data *obj=NULL;
+    int tmp, i;
+
+    char chk[MAX_INPUT_LENGTH];
+    struct extra_descr_data *new_descr=NULL;
+
+    fseek(obj_f,obj_index[nr].pos,0);
+    CREATE(obj, struct obj_data, 1);
+    clear_object(obj);
+
+    /* *** string data *** */
+    sprintf(log_buf,"Loading object#%d",nr);
+    obj->name			= fread_string(obj_f);
+    obj->short_description	= fread_string(obj_f);
+    obj->description		= fread_string(obj_f);
+    obj->action_description	= fread_string(obj_f);
+
+    /* *** numeric data *** */
+
+    fscanf(obj_f, " %d ", &tmp);   obj->obj_flags.type_flag	= tmp;
+    fscanf(obj_f, " %d ", &tmp);   obj->obj_flags.extra_flags	= tmp;
+    fscanf(obj_f, " %d ", &tmp);   obj->obj_flags.wear_flags	= tmp;
+    fscanf(obj_f, " %d ", &tmp);   obj->obj_flags.value[0]	= tmp;
+    fscanf(obj_f, " %d ", &tmp);   obj->obj_flags.value[1]	= tmp;
+    fscanf(obj_f, " %d ", &tmp);   obj->obj_flags.value[2]	= tmp;
+    fscanf(obj_f, " %d ", &tmp);   obj->obj_flags.value[3]	= tmp;
+    fscanf(obj_f, " %d ", &tmp);   obj->obj_flags.weight	= tmp;
+    fscanf(obj_f, " %d \n", &tmp); obj->obj_flags.cost		= tmp;
+    fscanf(obj_f, " %d \n", &tmp); obj->obj_flags.cost_per_day	= tmp;
+    obj->iDetLife = 8035200; /* trois mois a le jour */
+    /* *** extra descriptions *** */
+
+    obj->ex_description = NULL;
+    while (fscanf(obj_f, " %s \n", chk), *chk == 'E')
+    {
+	CREATE(new_descr, struct extra_descr_data, 1);
+	new_descr->keyword	= fread_string(obj_f);
+	new_descr->description	= fread_string(obj_f);
+	new_descr->next		= obj->ex_description;
+	obj->ex_description	= new_descr;
+    }
+
+    for( i = 0 ; (i < MAX_OBJ_AFFECT) && (*chk == 'A') ; i++)
+    {
+	fscanf(obj_f, " %d ", &tmp);   
+	if(tmp==8){
+	   fscanf(obj_f, " %d \n", &tmp); 
+	   obj->obj_flags.eq_level=tmp;
+	   fscanf(obj_f, " %s \n", chk);
+	   i--;
+	   continue;
+	}
+	obj->affected[i].location	= tmp;
+	fscanf(obj_f, " %d \n", &tmp); obj->affected[i].modifier	= tmp;
+	fscanf(obj_f, " %s \n", chk);
+    }
+
+    for (;(i < MAX_OBJ_AFFECT);i++)
+    {
+	obj->affected[i].location	= APPLY_NONE;
+	obj->affected[i].modifier	= 0;
+    }
+
+    obj->in_room	= NOWHERE;
+    obj->next_content	= NULL;
+    obj->carried_by	= NULL;
+    obj->in_obj		= NULL;
+    obj->contains	= NULL;
+    obj->item_number	= nr;  
+    if(!obj->obj_flags.eq_level)
+        obj->obj_flags.eq_level	= eq_level;
+
+    return (obj);  
+}
+
+void boot_damage_rooms(void)
+{
+ int num=0, room;
+ char buf[300];
+  
+  for(room = 0; room < MAX_ROOM ; room++) 
+  {
+	if(world[room])  {	  
+		if( IS_SET(world[room]->room_flags, FIRE) ) {
+   		 	struct damage_rooms *d_room;
+   		 	CREATE(d_room, struct damage_rooms, 1);
+   		 	d_room->room_num = room;
+		 	d_room->damage_type = FIRE;
+   		 	d_room->damage_amt = number(50,200);
+   		 	d_room->next = daroom_list;
+   		 	daroom_list = d_room;
+   			num++;
+   			continue;
+		}
+		if( IS_SET(world[room]->room_flags, COLD) ) {
+   		 	struct damage_rooms *d_room;
+   		 	CREATE(d_room, struct damage_rooms, 1);
+   		 	d_room->room_num = room;
+		 	d_room->damage_type = COLD;
+   		 	d_room->damage_amt = number(75,100);
+   		 	d_room->next = daroom_list;
+   		 	daroom_list = d_room;
+   		 	num++;
+   			continue;
+		}
+		if( IS_SET(world[room]->room_flags, GAS) ) {
+   		 	struct damage_rooms *d_room;
+   		 	CREATE(d_room, struct damage_rooms, 1);
+   		 	d_room->room_num = room;
+		 	d_room->damage_type = GAS;
+   		 	d_room->damage_amt = number(50,100);
+   		 	d_room->next = daroom_list;
+   		 	daroom_list = d_room;
+   		 	num++;
+   		 	continue;
+		}
+     }
+   }
+   sprintf(buf,"Booting Damage Rooms... %d rooms loaded.",num);
+   log_hd(buf);
+}
+
+struct obj_data *read_object(int nr, int eq_level)
+{
+    struct obj_data *obj=NULL;
+    int i;
+
+    struct extra_descr_data *new_descr=NULL, *cp_descr=NULL;
+
+    if(nr<0||nr>MAX_OBJ||!objs[nr]){
+	sprintf(log_buf,"##No object #%d in read_obj",nr);
+	log_hd(log_buf);
+	return(NULL);
+    }
+    CREATE(obj, struct obj_data, 1);
+    clear_object(obj);
+
+#ifdef HASHTABLE
+    if(objs[nr]->obj_flags.type_flag!=ITEM_DRINKCON)
+        obj->name		= objs[nr]->name;
+    else
+	obj->name		= str_dup(objs[nr]->name);
+    obj->short_description	= objs[nr]->short_description;
+    obj->description		= objs[nr]->description;
+    obj->action_description	= objs[nr]->action_description;
+#else
+    obj->name		= str_dup(objs[nr]->name);
+    obj->short_description	= str_dup(objs[nr]->short_description);
+    obj->description		= str_dup(objs[nr]->description);
+    obj->action_description	= str_dup(objs[nr]->action_description);
+#endif
+
+    /* *** numeric data *** */
+    obj->obj_flags.type_flag	= objs[nr]->obj_flags.type_flag;
+    obj->obj_flags.extra_flags	= objs[nr]->obj_flags.extra_flags;
+    obj->obj_flags.wear_flags	= objs[nr]->obj_flags.wear_flags;
+    obj->obj_flags.value[0]	= objs[nr]->obj_flags.value[0];
+    obj->obj_flags.value[1]	= objs[nr]->obj_flags.value[1];
+    obj->obj_flags.value[2]	= objs[nr]->obj_flags.value[2];
+    obj->obj_flags.value[3]	= objs[nr]->obj_flags.value[3];
+    obj->obj_flags.weight	= objs[nr]->obj_flags.weight;
+    obj->obj_flags.cost		= objs[nr]->obj_flags.cost;
+    obj->obj_flags.cost_per_day	= objs[nr]->obj_flags.cost_per_day;
+    obj->iBornDate = (int) time(NULL);
+    obj->iDetLife = objs[nr]->iDetLife;
+    obj->iLastDet = 0;
+    /* *** extra descriptions *** */
+    cp_descr=objs[nr]->ex_description;
+    obj->ex_description = NULL;
+    while (cp_descr)
+    {
+	CREATE(new_descr, struct extra_descr_data, 1);
+	new_descr->keyword	= str_dup(cp_descr->keyword);
+	new_descr->description	= str_dup(cp_descr->description);
+	new_descr->next		= obj->ex_description;
+	obj->ex_description	= new_descr;
+	cp_descr=cp_descr->next;
+    }
+
+    for( i = 0 ; i < MAX_OBJ_AFFECT ; i++)
+    {
+	obj->affected[i].location	= objs[nr]->affected[i].location;
+	obj->affected[i].modifier	= objs[nr]->affected[i].modifier;
+    }
+
+    obj->in_room	= NOWHERE;
+    obj->next_content	= NULL;
+    obj->carried_by	= NULL;
+    obj->in_obj		= NULL;
+    obj->contains	= NULL;
+    obj->item_number	= nr;  
+    obj->obj_flags.eq_level	= objs[nr]->obj_flags.eq_level;
+
+	add_object(obj);
+    obj_index[nr].number++;
+    if(!obj->iValueWeight||obj->iWeightVersion<VERSIONNUMBER){
+       	obj->iValueWeight=weigh(obj);
+        obj->iWeightVersion=VERSIONNUMBER;
+    }
+                        
+    return (obj);  
+}
+
+void do_zonestats(struct char_data *ch, char *argument, int cmd)
+{
+    int i;
+    
+    send_to_char("Zone NUM  Populatn Countdn Loaded?    Reset span Minutes  # of Resets\n\r",ch);
+   
+send_to_char("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n\r",ch);
+    for ( i = 0; i < MAX_ZONE; i++ )
+    {
+        if ( zone_table[i].reset_mode == -1 ) /* this zone node not used */
+            continue;
+	sprintf(log_buf,"[Zone %3d] Pop=%3d TTE=%2d Status=%s Lifespan=%2d Age=%2d Num_Resets=%d\n\r",
+i,zone_table[i].population,zone_table[i].time_to_empty,
+((zone_table[i].populated) ? "LOAD" : "FREE"),zone_table[i].lifespan,
+zone_table[i].age, zone_table[i].num_resets);
+	send_to_char(log_buf,ch);
+    }
+
+
+}
+void free_zone(int zone)
+{
+struct char_data *i=NULL;
+struct descriptor_data *k=NULL;
+struct char_data *next_char=NULL;
+
+int iWear;
+    global_color=34;
+    for (k = descriptor_list; k; k = k->next)
+        if (k->character && !k->connected &&
+                GET_LEVEL(k->character) > 30)
+            if(IS_SET(k->character->specials.god_display,GOD_ZONERESET)){
+                sprintf(log_buf,"(ZONE) %s,   Being un-populated.\n\r",zone_table[zone].name);
+                send_to_char(log_buf,k->character);
+            }
+    global_color=0;
+
+    for (i = character_list; i; i = next_char){
+	next_char=i->next;
+	if(!IS_NPC(i))continue;
+        if(i->desc){/* in case undead*/
+	    continue;
+	}
+	if(i->in_room==-1)continue;
+        if(in_a_shop(i))continue;
+	if(GET_ZONE(i)==zone){
+            for(iWear = 0; iWear < MAX_WEAR ; iWear++)
+                if(i->equipment[iWear])
+                        obj_to_char(unequip_char(i,iWear), i);
+            while(i->carrying)
+                extract_obj(i->carrying);
+	    i->specials.home_number=20000;
+	    extract_char(i,TRUE);
+	}
+    }
+    zone_table[zone].populated=0;
+}
+
+void zone_update(void)
+{
+    int i;
+
+    for ( i = 0; i < MAX_ZONE; i++ )
+    {
+       
+	if ( zone_table[i].reset_mode == -1 ) /* this zone node not used */
+	    continue;
+
+	if(!zone_table[i].populated)
+	    continue;
+
+	if ( zone_table[i].reset_mode == 0 )
+	    continue;
+
+	if ( zone_table[i].age < zone_table[i].lifespan )
+	{
+	    zone_table[i].age++;
+	    continue;
+	}
+
+	if ( zone_table[i].reset_mode == 1 && !is_empty(i) )
+	    continue;
+
+	reset_zone( i );
+    }
+}
+
+
+#define ZCMD zone_table[zone].cmd[cmd_no]
+
+/* execute the reset command table of a given zone */
+void reset_zone(int zone)
+{
+    int cmd_no, last_cmd = 1;
+    struct char_data *mob = NULL;
+    struct obj_data *obj=NULL, *obj_to=NULL;
+    struct descriptor_data *i=NULL;
+
+    if(zone==198)return;/*catacombs */
+    if(zone==197)return;/*landmasses*/
+    global_color=34;
+    for (i = descriptor_list; i; i = i->next)
+        if (i->character && !i->connected &&
+                GET_LEVEL(i->character) > 30)
+	    if(IS_SET(i->character->specials.god_display,GOD_ZONERESET)){
+		sprintf(log_buf,"(ZONE) %s, resetting.\n\r",zone_table[zone].name);
+	        send_to_char(log_buf,i->character);
+	    }
+        global_color=0;
+    zone_table[zone].populated=TRUE;
+    for (cmd_no = 0;;cmd_no++)
+    {
+	if (ZCMD.command == 'S')
+	    break;
+
+	if ( last_cmd || ZCMD.if_flag == 0 )
+	    switch(ZCMD.command)
+	{
+	    case 'M': /* read a mobile */
+		if (mob_index[ZCMD.arg1].number<ZCMD.arg2
+		    ||!zone_table[zone].num_resets)
+		{
+		    if(!world[ZCMD.arg3]){
+			sprintf(log_buf,"## zone reset trying to load mob in room %d.",ZCMD.arg3);
+		   	log_hd(log_buf);
+			break;
+		    }
+		    mob = read_mobile(ZCMD.arg1, REAL);
+                    if(!mob){
+                        sprintf(log_buf,"##ZONE O mob %d doesn't exist",ZCMD.arg1);
+                        log_hd(log_buf);
+                        last_cmd=0;
+                        continue;
+                    }
+
+		    char_to_room(mob, ZCMD.arg3);
+		    last_cmd = 1;
+		}
+		else
+		    last_cmd = 0;
+	    break;
+
+	    case 'O': /* read an object */
+		if (obj_index[ZCMD.arg1].number < ZCMD.arg2
+                   ||!zone_table[zone].num_resets)
+		if (ZCMD.arg3 >= 0)
+		{
+		    if(world[ZCMD.arg3])
+		    if (!get_obj_in_list_num(
+			ZCMD.arg1,world[ZCMD.arg3]->contents))
+		    {
+			obj = read_object(ZCMD.arg1, 0);
+			if(!obj){
+			   sprintf(log_buf,"##ZONE O  object %d doesn't exist",ZCMD.arg1);
+			   log_hd(log_buf);
+			   last_cmd=0;
+			   continue;
+			}
+			obj=tweak(obj);
+			obj_to_room(obj, ZCMD.arg3);
+			last_cmd = 1;
+		    }
+		    else
+			last_cmd = 0;
+		}
+		else
+		{
+		    obj = read_object(ZCMD.arg1, 0);
+			if(!obj){
+			   sprintf(log_buf,"##ZONE O  object %d doesn't exist",ZCMD.arg1);
+			   log_hd(log_buf);
+			   last_cmd=0;
+			   continue;
+			}
+			obj=tweak(obj);		
+		    obj->in_room = NOWHERE;
+		    last_cmd = 1;
+		}
+		else
+		    last_cmd = 0;
+	    break;
+
+	    case 'P': /* object to object */
+		if (obj_index[ZCMD.arg1].number < ZCMD.arg2
+  		   ||!zone_table[zone].num_resets)
+		{
+		    obj_to = get_obj_num(ZCMD.arg3);
+		    if(!obj_to){
+			if(!obj_to){
+			   sprintf(log_buf,"##ZONE P1  object %d doesn't exist",ZCMD.arg3);
+			   log_hd(log_buf);
+			   last_cmd=0;
+			   continue;
+			}
+
+	            }
+		    obj = read_object(ZCMD.arg1, obj_to->obj_flags.eq_level);
+			if(!obj){
+			   sprintf(log_buf,"##ZONE P2  object %d doesn't exist",ZCMD.arg1);
+			   log_hd(log_buf);
+			   last_cmd=0;
+			   continue;
+			}
+			obj=tweak(obj);
+		    obj_to_obj(obj, obj_to);
+		    last_cmd = 1;
+		}
+		else
+		    last_cmd = 0;
+	    break;
+
+	    case 'G': /* obj_to_char */
+		if ( mob == NULL )
+		{
+		    log_hd( "Null mob in G" );
+		    last_cmd = 0;
+		    break;
+		}
+		if (obj_index[ZCMD.arg1].number < ZCMD.arg2
+		   ||!zone_table[zone].num_resets)
+		{       
+		    obj = read_object(ZCMD.arg1, map_eq_level(mob) );
+			if(!obj){
+			   sprintf(log_buf,"##ZONE G  object %d doesn't exist",ZCMD.arg1);
+			   log_hd(log_buf);
+			   last_cmd=0;
+			   continue;
+			}
+			obj=tweak(obj);
+		    obj_to_char(obj, mob);
+		    last_cmd = 1;
+		}
+		else
+		    last_cmd = 0;
+	    break;
+
+	    case 'E': /* object to equipment list */
+		if ( mob == NULL )
+		{
+		    log_hd( "Null mob in E" );
+		    last_cmd = 0;
+		    break;
+		}
+		if (obj_index[ZCMD.arg1].number < ZCMD.arg2
+		   ||!zone_table[zone].num_resets)
+		{       
+		    obj = read_object(ZCMD.arg1, map_eq_level(mob) );
+			if(!obj){
+			   sprintf(log_buf,"##ZONE E  object %d doesn't exist",ZCMD.arg1);
+			   log_hd(log_buf);
+			   last_cmd=0;
+			   continue;
+			}
+			obj=tweak(obj);
+		    equip_char(mob, obj, ZCMD.arg3);
+		    last_cmd = 1;
+		}
+		else
+		    last_cmd = 0;
+	    break;
+
+	    case 'D': /* set state of door */
+		if(!world[ZCMD.arg1])continue;
+		if(!world[ZCMD.arg1]->dir_option[ZCMD.arg2]){
+		    sprintf(log_buf,
+			"room %d door %d not found!!!!! state %d",
+			ZCMD.arg1,ZCMD.arg2,ZCMD.arg3);
+			log_hd(log_buf);
+			continue;
+		}
+		switch (ZCMD.arg3)
+		{
+		    case 0:
+			REMOVE_BIT(
+			    world[ZCMD.arg1]->dir_option[ZCMD.arg2]->exit_info,
+			    EX_LOCKED);
+			REMOVE_BIT(
+			    world[ZCMD.arg1]->dir_option[ZCMD.arg2]->exit_info,
+			    EX_CLOSED);
+		    break;
+		    case 1:
+			SET_BIT(
+			    world[ZCMD.arg1]->dir_option[ZCMD.arg2]->exit_info,
+			    EX_CLOSED);
+			REMOVE_BIT(
+			    world[ZCMD.arg1]->dir_option[ZCMD.arg2]->exit_info,
+			    EX_LOCKED);
+		    break;
+		    case 2:
+			SET_BIT(
+			    world[ZCMD.arg1]->dir_option[ZCMD.arg2]->exit_info,
+			    EX_LOCKED);
+			SET_BIT(
+			    world[ZCMD.arg1]->dir_option[ZCMD.arg2]->exit_info,
+			    EX_CLOSED);
+		    break;
+		}
+		last_cmd = 1;
+	    break;
+	    case 'W': /* Just like 'E' but with a percent chance to load */
+		if(number(1,100)>ZCMD.arg4)break;
+                if ( mob == NULL )
+                {
+                    log_hd( "Null mob in E" );
+                    last_cmd = 0;
+                    break;
+                }
+                if (obj_index[ZCMD.arg1].number < ZCMD.arg2
+                   ||!zone_table[zone].num_resets)
+                {
+                    obj = read_object(ZCMD.arg1, map_eq_level(mob) );
+                        if(!obj){
+                           sprintf(log_buf,"##ZONE E  object %d doesn't exist",ZCMD.arg1);
+                           log_hd(log_buf);
+                           last_cmd=0;
+                           continue;
+                        }
+					obj=tweak(obj);
+                    equip_char(mob, obj, ZCMD.arg3);
+                    last_cmd = 1;
+                }
+                else
+                    last_cmd = 1;
+            break;
+
+	    default:
+		sprintf(log_buf, "Undef command: zone %d cmd %d.",
+		    zone, cmd_no);
+		log_hd(log_buf);
+	    SUICIDE;
+		break;
+	}
+	else
+	    last_cmd = 0;
+
+    }
+
+    zone_table[zone].num_resets++;
+    zone_table[zone].age = 0;
+}
+
+#undef ZCMD
+
+
+
+/* for use in reset_zone; return TRUE if zone 'nr' is free of PC's  */
+int is_empty(int zone_nr)
+{
+    struct descriptor_data *i=NULL;
+
+    for (i = descriptor_list; i; i = i->next)
+	if (!i->connected)
+	    if (world[i->character->in_room]->zone == zone_nr)
+		return(0);
+
+    return(1);
+}
+
+
+
+/************************************************************************
+*  procs of a (more or less) general utility nature         *
+********************************************************************** */
+
+
+
+/* read and allocate space for a '~'-terminated string from a given file */
+char *fread_string(FILE *fl)
+{
+    char    buf[MAX_STRING_LENGTH];
+    char *  pAlloc;
+    char *  pBufLast;
+
+	if(!fl)
+		SUICIDE;
+
+    for ( pBufLast = buf; pBufLast < &buf[sizeof(buf)-2]; )
+    {
+	switch( *pBufLast = getc( fl ) )
+	{
+	default:
+	    pBufLast++;
+	    break;
+
+	case EOF:
+	    log_hd(log_buf);
+	    perror("FREAD_STRING: EOF" );
+		SUICIDE;
+	    break;
+
+	case '\n':
+	    while ( pBufLast > buf && isspace(pBufLast[-1]) )
+		pBufLast--;
+	    *pBufLast++ = '\n';
+	    *pBufLast++ = '\r';
+	    break;
+
+	case '~':
+	    getc( fl );
+	    if ( pBufLast == buf ){
+			CREATE(pAlloc,char,strlen(" ")+2);
+			sprintf(pAlloc," ");
+/* juice  4/7/95  this is a leak and hoses lines with nothing but tildes
+			pAlloc  = " ";
+*/
+	    }else {
+			*pBufLast++ = '\0';
+			CREATE( pAlloc, char, pBufLast-buf );
+			memcpy( pAlloc, buf, pBufLast-buf );
+	    }
+ 	    return pAlloc;
+	}
+    }
+    log_hd(buf);
+    perror( "fread_string: string too long" );
+	SUICIDE;
+    return( NULL );
+}
+
+
+/* release memory allocated for a char struct */
+void free_char( CHAR_DATA *ch )
+{
+    int iWear;
+    struct affected_type *af=NULL;
+    struct affected_type *next_affect=NULL;
+
+    if(IS_NPC(ch)&&ch->nr>=0){
+	if(ch->player.name)
+        if(ch->player.name!=mobs[ch->nr]->player.name)
+    	    ch->player.name = my_free( ch->player.name        );
+	if(ch->player.title)
+        if(ch->player.title!=mobs[ch->nr]->player.title)
+	    if(ch->player.title)
+    	    	ch->player.title = my_free( ch->player.title       );
+	if(ch->player.short_descr)
+        if(ch->player.short_descr!=mobs[ch->nr]->player.short_descr)
+    	    ch->player.short_descr = my_free( ch->player.short_descr );
+	if(ch->player.long_descr)
+        if(ch->player.long_descr!=mobs[ch->nr]->player.long_descr)
+    	    ch->player.long_descr = my_free( ch->player.long_descr  );
+	if(ch->player.description)
+        if(ch->player.description!=mobs[ch->nr]->player.description)
+    	    ch->player.description = my_free( ch->player.description );
+    }else{
+    	ch->player.name = my_free( ch->player.name        );
+    	ch->player.title = my_free( ch->player.title       );
+    	ch->player.short_descr = my_free( ch->player.short_descr );
+    	ch->player.long_descr = my_free( ch->player.long_descr  );
+    	ch->player.description = my_free( ch->player.description );
+    }
+    if(ch->p)
+		ch->p = my_free(ch->p);
+    for ( iWear = 0; iWear < MAX_WEAR; iWear++ )
+    {
+	if ( ch->equipment[iWear] )
+	    obj_to_char( unequip_char( ch, iWear ), ch );
+    }
+
+    while ( ch->carrying )
+	extract_obj( ch->carrying );
+
+    for ( af = ch->affected; af; af = next_affect){
+	next_affect=af->next;
+	affect_remove( ch, af );
+    }
+
+    ch = my_free( ch );
+}
+
+
+
+/* release memory allocated for an obj struct */
+void free_obj(struct obj_data *obj)
+{
+    struct extra_descr_data *this=NULL, *next_one=NULL;
+
+    if(obj->item_number>=0&&objs[obj->item_number]){
+        if(obj->name)
+        if(obj->name!=objs[obj->item_number]->name)
+             obj->name = my_free( obj->name               );
+        if(obj->description)
+        if(obj->description!=objs[obj->item_number]->description)
+    	    obj->description = my_free( obj->description        );
+        if(obj->short_description)
+        if(obj->short_description!=objs[obj->item_number]->short_description)
+    	    obj->short_description = my_free( obj->short_description  );
+	if(obj->item_number==1973){/* newspaper */
+	    if(obj->action_description){
+		if(obj->action_description!=DA_paper->action_description)
+		    if(obj->action_description!=objs[obj->item_number]->action_description)
+	    	        obj->action_description = my_free( obj->action_description );
+	    }
+	}else{
+            if(obj->action_description)
+	    if(obj->action_description!=objs[obj->item_number]->action_description)
+    	        obj->action_description = my_free( obj->action_description );
+	}
+    }else{
+        obj->name = my_free( obj->name               );
+    	obj->description = my_free( obj->description        );
+    	obj->short_description = my_free( obj->short_description  );
+    	obj->action_description = my_free( obj->action_description );
+    }
+    if(obj->item_number!=1973){/* newspaper */
+        for ( this = obj->ex_description; this != NULL; this = next_one ){
+	    next_one = this->next;
+	    this->keyword = my_free( this->keyword );
+	    this->description = my_free( this->description );
+	    this = my_free( this );
+        }
+    }
+    obj = my_free(obj);
+}
+
+
+
+/* read contents of a text file, and place in buf */
+int file_to_string(char *name, char *buf)
+{
+    FILE *fl;
+    char tmp[100];
+
+    *buf = '\0';
+
+    if (!(fl = med_open(name, "r")))
+    	{
+		sprintf(log_buf,"file-to-string(%s)",name);
+		perror(log_buf);
+		*buf = '\0';
+		SUICIDE;
+		return(-1);
+    	}
+	open_files++;
+
+    do
+    {
+	fgets(tmp, 99, fl);
+
+	if (!feof(fl))
+	{
+	    if (strlen(buf) + strlen(tmp) + 2 > MAX_STRING_LENGTH)
+	    {
+		sprintf(log_buf,"fl->strng: (%ld)string too big (db.c,file_to_string)",strlen(buf) + strlen(tmp) + 2);
+		log_hd(log_buf);
+		*buf = '\0';
+		SUICIDE;
+		return(-1);
+	    }
+
+	    strcat(buf, tmp);
+	    *(buf + strlen(buf) + 1) = '\0';
+	    *(buf + strlen(buf)) = '\r';
+	}
+    }
+    while (!feof(fl));
+
+    med_close(fl);
+	open_files--;
+
+    return(0);
+}
+
+
+
+/* clear some of the the working variables of a char */
+void reset_char(struct char_data *ch)
+{
+    int i,x,y;
+
+    for (i = 0; i < MAX_WEAR; i++)  /* Intializing  */
+	ch->equipment[i] = NULL;
+
+    ch->master = NULL;
+    for(x=0;x<3;x++)
+	for(y=0;y<3;y++)
+	    ch->formation[x][y]=NULL;
+    ch->carrying = NULL;
+    ch->next = NULL;
+    ch->next_fighting = NULL;
+    ch->next_in_room = NULL;
+    ch->specials.fighting = NULL;
+    ch->specials.position = POSITION_STANDING;
+    ch->specials.default_pos = POSITION_STANDING;
+    ch->specials.carry_weight = 0;
+    ch->specials.carry_items = 0;
+    GET_AC(ch) = 100;
+    ch->specials.wizInvis = FALSE;
+    ch->specials.holyLite = FALSE;
+    ch->specials.new_comm_flags=0;
+    ch->specials.home_number=0;
+    ch->specials.autoexit=0;
+    ch->specials.editzone=0;
+    ch->specials.wimpy=0;
+    if (GET_HIT(ch) <= 0)
+	GET_HIT(ch) = 1;
+    if (GET_MOVE(ch) <= 0)
+	GET_MOVE(ch) = 1;
+    if (GET_MANA(ch) <= 0)
+	GET_MANA(ch) = 1;
+    GET_GOLD(ch)+=number(2000,5000);
+}
+
+/*
+ * Reset ch->p
+ */
+ 
+void clear_pData(struct char_data *ch)
+{
+  if(!ch->p) return; 
+ 
+  ch->p->sneaked_room = 0;
+  ch->p->siLastTown = 0;
+  ch->p->queryfunc = NULL;
+  ch->p->queryintfunc = NULL;
+  *ch->p->queryprompt = '\0';
+  *ch->p->queryprompt2 = '\0';
+  ch->p->querycommand = 0;
+  ch->p->queryintcommand = 0;
+  ch->p->donated = 0;
+  ch->p->iLastInBeforeSocial = 0;
+  ch->p->iLastSocialX = 0;
+  ch->p->iLastSocialY = 0;
+  return;
+}
+  
+ 
+
+/*
+ * Clear but do not de-alloc.
+ */
+void clear_char(struct char_data *ch)
+{
+    if(!IS_NPC(ch))
+    memset((char *)ch, (char)'\0', (int)sizeof(struct char_data));
+
+    ch->internal_use=-1;
+    ch->in_room = NOWHERE;
+    ch->specials.was_in_room = NOWHERE;
+    ch->specials.position = POSITION_STANDING;
+    ch->specials.default_pos = POSITION_STANDING;
+	ch->specials.wizInvis = FALSE;
+	ch->specials.holyLite = FALSE;
+    ch->specials.afk_text[0]=0;
+    ch->specials.home_number=0;
+    GET_AC(ch) = 100; /* Basic Armor */
+    if (ch->points.max_mana < 100) {
+      ch->points.max_mana = 100;
+    } 
+    ch->ask_for_follow=NULL;
+    ch->formation[0][0]=NULL;
+    ch->formation[0][1]=NULL;
+    ch->formation[0][2]=NULL;
+    ch->formation[1][0]=NULL;
+    ch->formation[1][1]=NULL;
+    ch->formation[1][2]=NULL;
+    ch->formation[2][0]=NULL;
+    ch->formation[2][1]=NULL;
+    ch->formation[2][2]=NULL;
+    ch->affected=NULL;
+}
+
+
+void clear_object(struct obj_data *obj)
+{
+/*
+    memset((char *)obj, (char)'\0', (int)sizeof(struct obj_data));
+*/
+    int i=0;
+
+	obj->insane					= FALSE;  /* used for sanity checking */
+    obj->item_number 			= -1;
+    obj->in_room      			= NOWHERE;
+
+	for (i=0;i<4;i++)
+		obj->obj_flags.value[1] = 0;
+    obj->obj_flags.type_flag		= 0;
+    obj->obj_flags.wear_flags		= 0;
+    obj->obj_flags.extra_flags		= 0;
+    obj->obj_flags.weight		= 0;
+    obj->obj_flags.cost			= 0;
+    obj->obj_flags.cost_per_day		= 0;
+    obj->obj_flags.eq_level		= 0;
+    obj->obj_flags.timer		= 0;
+    obj->obj_flags.bitvector		= 0;
+
+	for (i=0;i<MAX_OBJ_AFFECT;i++){
+		obj->affected[i].location		= 0;
+		obj->affected[i].modifier		= 0;
+	}
+
+    obj->name 					= MED_NULL ;
+    obj->description 			= MED_NULL ;  
+    obj->short_description 		= MED_NULL; 
+    obj->action_description 	= MED_NULL;
+    obj->ex_description 		= NULL;
+    obj->carried_by 			= NULL;
+    obj->worn_by 				= NULL;  
+
+    obj->in_obj 				= NULL;   
+    obj->contains 				= NULL;
+
+    obj->next_content 			= NULL;
+    obj->next 					= NULL;
+    obj->prev 					= NULL;
+
+	obj->iBornDate 				= 0;
+	obj->iDetLife				= 0;
+	obj->iLastDet				= 0;
+}
+
+
+
+
+/* initialize a new character only if class is set */
+void init_char(struct char_data *ch)
+{
+    int i;
+    extern int god;
+
+    /*
+     * Boot with -g to make gods.
+     */
+    if ( god )
+    {
+	GET_EXP(ch) = 90000000;
+	GET_LEVEL(ch) = 35;
+    }
+
+    set_title(ch);
+
+    ch->player.short_descr = MED_NULL;
+    ch->player.long_descr = MED_NULL;
+    ch->player.description = MED_NULL;
+
+    ch->player.hometown = number(1,4);
+
+    ch->player.time.birth = time(0);
+    ch->player.time.played = 0;
+    ch->player.time.logon = time(0);
+
+    for (i = 0; i < MAX_TONGUE; i++)
+     ch->player.talks[i] = 0;
+
+    GET_STR(ch) = 9;
+    GET_INT(ch) = 9;
+    GET_WIS(ch) = 9;
+    GET_DEX(ch) = 9;
+    GET_CON(ch) = 9;
+
+    /* make favors for sex */
+    if (ch->player.sex == SEX_MALE) {
+	ch->player.weight = number(120,180);
+	ch->player.height = number(160,200);
+    } else {
+	ch->player.weight = number(100,160);
+	ch->player.height = number(150,180);
+    }
+    
+	ch->points.max_mana = 100;
+    ch->points.mana = GET_MAX_MANA(ch);
+    ch->points.hit = GET_MAX_HIT(ch);
+    ch->points.move = GET_MAX_MOVE(ch);
+    ch->points.armor = 100;
+
+    for (i = 0; i < MAX_SKILLS; i++)
+    {
+	if (GET_LEVEL(ch) <35) {
+	    ch->skills[i].learned = 0;
+	    ch->skills[i].recognise = FALSE;
+	}   else {
+	    ch->skills[i].learned = 100;
+	    ch->skills[i].recognise = FALSE;
+	}
+    }
+
+    ch->specials.affected_by = 0;
+    ch->specials.practices   = 0;
+
+    for (i = 0; i < 5; i++)
+	ch->specials.apply_saving_throw[i] = 0;
+
+    for (i = 0; i < 3; i++)
+	GET_COND(ch, i) = (GET_LEVEL(ch) == 35 ? -1 : 35);
+
+    reset_char(ch);
+    ch->specials.autoexit = 1;
+}
+
+
+/* these will exist till I stop being lazy and take out all old refernces */
+int real_mobile(int virtual)
+{
+   return(virtual);
+}
+int real_object(int virtual)
+{
+   return(virtual);
+}
+
+void build_trivia(FILE *fh){
+	int counter=0, bcounter=0;
+	char get_buffer[MAX_INPUT_LENGTH];
+
+	while(!feof(fh)){
+	    fgets(get_buffer, sizeof(get_buffer), fh); 
+	    if(*get_buffer=='~')
+		break;
+	    bcounter = 0;
+	    while(get_buffer[bcounter]!='~')
+		bcounter++;
+	    get_buffer[bcounter]='\0';
+	    strcat(get_buffer, "\r\n");
+    	    trivia[counter]=strdup(get_buffer); 
+	    counter++;
+	}
+	top_trivia=counter;
+	*get_buffer='\0';
+	sprintf(get_buffer, "top_trivia = %d", top_trivia);
+	log_hd(get_buffer);
+}
+
+*** Modified files in JOE when it aborted on Tue Dec  5 16:21:03 1995
+*** JOE was aborted by signal 1
+
+*** File 'act_wiz2.c'
+/***************************************************************************
+*		 MEDIEVIA CyberSpace Code and Data files		   *
+*       Copyright (C) 1992, 1995 INTENSE Software(tm) and Mike Krause	   *
+*			   All rights reserved				   *
+***************************************************************************/
+/***************************************************************************
+* This program belongs to INTENSE Software, and contains trade secrets of  *
+* INTENSE Software.  The program and its contents are not to be disclosed  *
+* to or used by any person who has not received prior authorization from   *
+* INTENSE Software.  Any such disclosure or use may subject the violator   *
+* to civil and criminal penalties by law.                                  *
+***************************************************************************/
+
+
+#include <stdlib.h>
+#include <stdio.h>
+#include <string.h>
+#include <ctype.h>
+#include <dirent.h>
+#include <sys/wait.h>
+#include <sys/time.h>
+#include <sys/types.h>
+#include <malloc.h>
+#include <sys/stat.h>
+#include <fcntl.h>
+#include <unistd.h>
+#include <time.h>
+
+#include "structs.h"
+#include "mob.h"
+#include "obj.h"
+#include "utils.h"
+#include "interp.h"
+#include "handler.h"
+#include "db.h"
+#include "spells.h"
+#include "limits.h"
+
+/*   external vars  */
+extern int port;
+extern char global_color;
+extern struct room_data *world[MAX_ROOM]; /* array of rooms  */
+extern struct zone_data zone_table_array[MAX_ZONE];  
+extern struct zone_data *zone_table;  
+extern struct descriptor_data *descriptor_list;
+extern struct char_data *character_list;
+extern struct index_data *mob_index;
+extern struct index_data *obj_index;
+extern struct char_data *mobs[MAX_MOB];
+extern struct obj_data *objs[MAX_OBJ];
+extern struct int_app_type int_app[26];
+extern struct wis_app_type wis_app[26];
+extern struct ban_t *ban_list;
+extern char wmfha[1300];
+extern char downtxt[1000];
+extern int slot_rooms[];
+extern char use_hash_table;
+
+/* external functs */
+extern void write_filtered_text(FILE *fh, char *text);
+/*int system(char *);*/
+extern void page_string(struct descriptor_data *d, char *str, int keep_internal);
+void save_rooms(struct char_data *ch, int zone);
+void set_title(struct char_data *ch);
+int str_cmp(char *arg1, char *arg2);
+struct time_info_data age(struct char_data *ch);
+void sprinttype(int type, char *names[], char *result);
+void sprintbit(long vektor, char *names[], char *result);
+int mana_limit(struct char_data *ch);
+int hit_limit(struct char_data *ch);
+int move_limit(struct char_data *ch);
+int mana_gain(struct char_data *ch);
+int hit_gain(struct char_data *ch);
+int move_gain(struct char_data *ch);
+extern struct mallinfo mallinfo();
+extern void sort_descriptors(void);
+
+extern FILE *obj_f, *mob_f;
+extern char use_memory_debug;
+extern struct global_clan_info_struct global_clan_info;
+extern void load_clan_info(void);
+extern char daytimedown;
+extern struct obj_data *tweak(struct obj_data *);
+
+bool update_trivia_file(struct char_data *);
+void clean_upnwrite_text(FILE *, char *);
+
+void do_rename(struct char_data *ch, char *argument, int cmd)
+{
+ char buf[150];
+ char sCurrent, sNew;
+ 	*buf = '\0';
+ 	
+ 	if(IS_NPC(ch)) return;
+ 
+ 	argument= one_argu
+ 
+ 
+}
+void do_hint(struct char_data *ch, char *argument, int cmd){
+	char *values[]={
+	    "add","edit","delete","\n"
+	};
+	char my_buf[MAX_INPUT_LENGTH];
+	char hint_num[20];
+	int hint=0;
+	int number=0;
+	extern int top_trivia;
+	extern char *trivia[];
+
+	argument=one_argument(argument, my_buf);
+
+	if(!*my_buf){
+	    send_to_char("Syntax:\r\n",ch);
+	    send_to_char("hint add <new hint info>\r\n", ch);
+	    send_to_char("hint edit <hint#>\r\n", ch);
+	    send_to_char("hint delete <hint#>\r\n", ch);
+	    return;
+	}
+
+	if((hint=old_search_block(my_buf, 0, strlen(my_buf), values, 1)) < 0){	
+	    send_to_char("Invalid hint command, try 'hint' for syntax help.\r\n", ch);
+	    return;
+	}
+
+	switch(hint){
+	    case 1:  /*add*/
+		if(top_trivia>=MAX_TRIVIA){
+		    send_to_char("Too many hint topics!\r\n", ch);
+		    return;
+		}
+		if(argument[0]==' ')argument++;
+		trivia[top_trivia]=strdup(argument);
+		top_trivia++;
+		if(!update_trivia_file(ch)){
+		    send_to_char("Hmmm.. problem writing out the new hint file.\r\n", ch);
+		    log_hd("## Could not update the hint file!");
+		    break;
+		}
+		send_to_char("Hint topic added.\r\n", ch);
+		break;
+	    case 2:  /*edit*/
+		send_to_char("Editing hint\n\r", ch);
+		break;
+	    case 3:
+		one_argument(argument, hint_num);
+		if(!is_number(hint_num)){
+		    send_to_char("You need to specify a valid number.\r\n", ch);
+		    break;
+		}
+		number=atoi(hint_num);
+		if((number>=top_trivia)||(number<0)){
+		    send_to_char("Invalid hint number, try again.\r\n", ch);
+		    break;
+		}
+		if(number==(top_trivia-1))
+		    my_free(trivia[number]);
+		else{
+		    while(trivia[number+1]){
+		    	trivia[number]=trivia[number+1];
+			number++;
+		    }
+		    my_free(trivia[number+1]);
+		}
+		top_trivia--;
+		update_trivia_file(ch);
+		send_to_char("Hint deleted.\r\n", ch);
+		break;
+	    default:
+	}
+}
+
+bool update_trivia_file(struct char_data *ch){
+	FILE *out;
+	char current[MAX_INPUT_LENGTH];
+	extern char *trivia[];
+	extern int top_trivia;
+	int counter=0;
+
+	send_to_char("Updating hint file.\r\n", ch);
+	sprintf(current, "../lib/%s", TRIVIA_FILE);
+
+	if(!(out=med_open(current, "w"))){
+	    log_hd("## Couldn't write out new hint file!.");
+	    send_to_char("Problem writing out new hint file.\r\n", ch);
+	    return(FALSE);
+	}
+
+	send_to_char("Writing out new hint file.\r\n", ch);
+	for(counter=0;counter<top_trivia;counter++){
+	    clean_upnwrite_text(out, trivia[counter]);
+	}
+
+	clean_upnwrite_text(out, "~");
+
+	send_to_char("Done!\r\n", ch);
+	med_close(out);
+	return(TRUE);
+}
+
+void clean_upnwrite_text(FILE *fh, char *text){
+    char *filtered;
+    int x=0,f=0;
+
+    if(text){
+      CREATE(filtered,char,strlen(text)+3);
+	  while(text[0]==' ')text++;
+      while(text[x]){
+          if((text[x]=='\r') || (text[x]=='\n') || (text[x]=='~'))x++;
+          else
+             filtered[f++]=text[x++];
+      }
+      filtered[f++]='~';filtered[f++]='\n';filtered[f]=MED_NULL;
+      fprintf(fh,filtered);
+      filtered = my_free(filtered);
+    }else{
+       fprintf(fh,"~\n");
+    }
+}
+
+void do_tweak(struct char_data *ch, char *argument, int subcmd){
+    char obj_name[255];
+    struct obj_data *obj_object;
+
+    one_argument(argument, obj_name);
+    if(!*obj_name){
+	send_to_char("You must specify an object to tweak.\r\n", ch);
+	return;
+    }
+    obj_object = get_obj_in_list_vis(ch, obj_name, ch->carrying);
+    if(!obj_object){
+	send_to_char("You don't seem to have one.\r\n", ch);
+	return;
+    }
+    obj_object=tweak(obj_object);
+}
+
+void do_trackset(struct char_data *ch, char *argument, int subcmd)
+{
+struct char_data *hunted=NULL, *hunter=NULL;
+char name[100], name2[100];
+char my_buf[300];
+
+  argument = one_argument(argument,name);
+  one_argument(argument,name2);
+
+  if(!*name || !*name2) {
+	send_to_char("Not enough arguments.\r\ntrackset <hunted> <hunter>\r\n",ch);
+	return;
+  }
+  
+  hunted = get_char_vis(ch, name);
+  hunter = get_char_vis(ch,name2);
+
+  if(!hunted || !hunter) {
+	send_to_char("No such person or mobile.\r\n",ch);
+	return;
+  }
+  if(!IS_NPC(hunter) || IS_NPC(hunted)) {
+	send_to_char("You can not set PC's to track or NPC's to be hunted.\r\n",ch);  
+	return;
+  }
+  hunter->specials.hunting = hunted;
+  sprintf(my_buf,"Okay, %s is now being hunted by %s.\r\n",GET_NAME(hunted),GET_NAME(hunter));  
+  send_to_char(my_buf,ch);
+
+}
+
+void do_savechar(struct char_data *ch, char *argument, int subcmd){
+    char name[100];
+    char my_buf[MAX_INPUT_LENGTH];
+    struct char_data *savee;
+
+    one_argument(argument, name);
+    if(!*name){
+	send_to_char("Ok, but who do you want to save?\r\n", ch);
+	return;
+    }
+
+    savee=get_char_vis(ch, name);
+    if(!savee){
+	sprintf(my_buf, "No one named '%s' can be found.\r\n", name);
+	send_to_char(my_buf, ch);
+	return;
+    }
+    SAVE_CHAR_OBJ(savee, -20);
+    sprintf(my_buf, "'%s' has been successfully saved.\r\n", name);
+    send_to_char(my_buf, ch);
+	
+}
+
+*** Modified files in JOE when it aborted on Thu Jan  4 10:09:40 1996
+*** JOE was aborted by signal 1
+
+*** File '(Unnamed)'
+main.c
+
+*** File '(Unnamed)'
+472

@@ -1,0 +1,89 @@
+Medievia Information File                             Updated September, 1994
+-----------------------------------------------------------------------------
+[Classes]
+   
+Once you enter the world of Medievia, you will have to pick a class. 
+There are four classes available to you: MAGE, CLERIC, THIEF, WARRIOR. 
+Mages are known for their powerful offensive and defensive spells but 
+they are also frail by nature. Cleric's are the healers of the world, 
+they heal wounds, cure poisons and create objects that sustain life. 
+Thieves are renound for thief sneakyness. They hide, backstab and steal 
+every chance they get. Warriors are known for their strength and power, 
+they are very hearty and last long in battles. Each class has it's 
+advantages and disadvantages, to become very powerful you must form a 
+formation.
+  
+[Formations]
+  
+Formations are very powerful, they are much more powerful than groups. 
+When you are in a formation, your can attack many more powerful mobs and 
+get much better treasure. When you are in formation the damage you 
+receive in a fight depends on your position. There are 9 positions: 
+Front Left, Front Center, Front Right, Center Left, Center Center, Center 
+Center Right, Back Left, and so on. To form a formation you must choose a 
+leader, use the FOLLOW command to follow your leader. The leader can 
+change your position using the REFORM command. A very powerful analytical 
+tool when assesing your formation is the FORMTEST command. FORMTEST fires 
+150 virtual hits at your formation and calculates the percentage of 
+hits each person in the formation is getting. When you form together with 
+other players, you will gain levels faster and be able to explore many 
+dangerous parts of the world.
+  
+[Skills]
+  
+Each class in Medievia has it's own skills. As you learn skills, your 
+range of abilities increases and you become more powerful. To learn new 
+skills you must go to a guild. Once you are at the guild, you can use the 
+PRACTICE command to practice a new skill. When you practice skills, you 
+use practice points. Every time you level, you grain practice points which 
+you can use practice new skills.
+
+[Food and Drink]
+
+Every so often you will get a message "You are hungry" or "You are 
+thirsty", this means you need to eat food or drink some water. If you do 
+not eat and drink, you will not die but the rate you regain movement, 
+hitpoints and mana will be much lower compared to when you are full. You 
+can also even further increase your regeneration rate by sleeping or 
+resting. You can buy food and waterskins at any bakery or general store.
+     
+[Clans and Real Estate]
+     
+Once you become experienced in the game, you might want to join a clan. 
+Clans are groups of players which help each other out, group with each 
+other and basicly stick together. Each clan has their own private talk 
+channel which they can discuss on. To become a member of a clan, you must 
+talk to the clan leader and ask them to join. To join most clans, you 
+usually have to meet special criteria the clan leader sets. For more 
+information on clans look at the help on clans.
+   
+Once you become wealthy, you might want to buy yourself a house. Houses 
+are for pure luxury and are mainly a status symbol. When you own a home 
+you do not have to pay rent. House Auctions usually start at 100mil, a 
+notice of a auction will be posted on the bulletin board.
+
+[Misc]
+  
+To get some information on the game statistics, you can use the LISTZONES 
+command and the MUDINFO command. If you have any questions about the 
+game, please ask one of more experienced players or a god online.
+
+General Hints
+-------------
+     -Read the Bulletin board often.
+     -Don't be afraid to explore new areas.
+     -Read the help on what you are confused with before asking.
+     -Read the FAQ, guide, and handbook that you start with.
+     -Read the Undead Handbook when you die.
+
+Rules
+-----
+  -Dropping link to avoid wait states, to flee out of battle, or for any
+   other reason Gods deem unlawful is illegal.
+  -Exploitation of a bug is a serious offence.  The defence "I didn't know
+     it was a bug" is no excuse (Gods' discretion).
+  -You should always answer a god's question truthfully.
+  (There are other rules, these are just the more commonly broken ones, if
+   in doubt, ask a god before you act.)
+
+** All broken rules are punishable by anything from a warning to deletion **

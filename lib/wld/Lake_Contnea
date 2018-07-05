@@ -1,0 +1,9264 @@
+#1392
+On the banks of Lake Contnea ~
+You stand on the south east shore of Lake Contnea. Little patches of green
+grass grow amoungst the rock that makes up the shoreline. The lake looks so
+beautiful from here, it almost seems as if it is calling you to it. You
+stumble as you loose your balance from an unstable rock.
+~
+64 32 4 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1393
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1763
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5936
+S
+#1393
+On the banks of Lake Contnea ~
+You stand on the south east shore of lake Contnea. Little patches of green
+grass grow amongst the rock. A crude fence of animal bones and sticks is to
+the north. Beyond the fence the ground is lifeless. Dead trees and twigs spot
+the land that protrudes out into the lake.
+~
+64 32 4 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1394
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1765
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1392
+S
+#1394
+On the banks of Lake Contnea ~
+You stand on the south east shore of lake Contnea. Little patches of green
+grass grow amongst the rock. A crude fence of animal bones and sticks is to
+the north. Beyond the fence the ground is lifeless. Dead trees and twigs spot
+the land that protrudes out into the lake.
+~
+64 32 4 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1395
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1764
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1393
+S
+#1395
+Before a gate ~
+A gate of simple proportions is to the north, leading to the burial grounds
+of the village of Contnea. The soil seems to reek of death, dispair and
+suffering. This feeling is enhanced by the baren land that lies nortward
+contrasted to the grassy path you are on now.
+~
+64 32 4 0
+0 0 0 0
+0 0 0
+D0
+ ~
+gate~
+ ~
+ ~
+1 -1 1569
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1396
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1766
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1394
+S
+#1396
+On the banks of Lake Contnea ~
+You stand on the south east shore of lake Contnea. Little patches of green
+grass grow amongst the rock. A crude fence of animal bones and sticks is to
+the north. Beyond the fence the ground is lifeless. Dead trees and twigs spot
+the land that protrudes out into the lake.
+~
+64 32 4 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1397
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1767
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1395
+S
+#1397
+On the banks of Lake Contnea ~
+You stand on the south east shore of lake Contnea. Little patches of green
+grass grow amongst the rock. A crude fence of animal bones and sticks is to
+the north. Beyond the fence the ground is lifeless. Dead trees and twigs spot
+the land that protrudes out into the lake.
+~
+64 32 4 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1566
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1768
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1396
+S
+#1566
+On the banks of Lake Contnea ~
+You stand on the south east shore of lake Contnea. Little patches of green
+grass grow amongst the rock. A crude fence of animal bones and sticks is to
+the north. Beyond the fence the ground is lifeless. Dead trees and twigs spot
+the land that protrudes out into the lake.
+~
+64 32 4 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1567
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1801
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1397
+S
+#1567
+On the Banks of Lake Contnea ~
+You stand on the south east shore of lake Contnea. Little patches of green
+grass grow amongst the rock. A crude fence of animal bones and sticks is to
+the north. Beyond the fence the ground is lifeless. Dead trees and twigs spot
+the land that protrudes out into the lake.
+~
+64 32 4 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1802
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1566
+S
+#1568
+The burial ground~
+This is the final resting place of The villagers of Lake Contnea. Death came to
+them in the package of blood thirsty adventures, a tragic fall, or some other
+unfortunate passing. Now their corpses make up a feast for their new neighbor
+-- The Conquer worm. Those unfortunate enough to die a violent death
+remain here, wandering, seeking the ones who brought death to them. There can
+not be eternal rest for them until their torturers are laid to rest.
+~
+64 32 4 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1570
+D2
+ ~
+(nul)~
+ ~
+ ~
+1 -1 1569
+E
+marker~
+The name on this maker seems to have faded over time.
+~
+S
+#1569
+The burial ground ~
+A gate of simple proportions is to the south, leading back to the shores of
+lake Contnea. Here the conquer worm rules absloute, beasting on the corpses
+of those who have been visited by Thantos, the final equilizer. Crude markers
+mark the final resting spots of some of the vilage's most notable citizens,
+for the rest an unmarked grave is their fate.
+~
+64 36 4 0
+0 0 0 0
+0 0 0
+D0
+ ~
+(nul)~
+ ~
+ ~
+1 -1 1568
+D2
+ ~
+gate~
+ ~
+ ~
+1 -1 1395
+S
+#1570
+The burial ground~
+This is the final resting place of The villagers of Lake Contnea. Death came to
+them in the package of blood thirsty adventures, a tragic fall, or some other
+unfortunate passing. Now their corpses make up a feast for their new neighbor
+-- The Conquer worm. Those unfortunate enough to die a violent death
+remain here, wandering, seeking the ones who brought death to them. There can
+not be eternal rest for them until their torturers are laid to rest.
+~
+64 32 4 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1571
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1568
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1572
+E
+marker~
+The person's name seems to have faded over time.
+~
+S
+#1571
+The burial ground~
+This is the final resting place of The villagers of Lake Contnea. Death came to
+them in the package of blood thirsty adventures, a tragic fall, or some other
+unfortunate passing. Now their corpses make up a feast for their new neighbor
+-- The Conquer worm. Those unfortunate enough to die a violent death
+remain here, wandering, seeking the ones who brought death to them. There can
+not be eternal rest for them until their torturers are laid to rest.
+~
+64 32 4 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1578
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1570
+E
+marker~
+The person's name seems to have faded over time.
+~
+S
+#1572
+The burial ground~
+This is the final resting place of The villagers of Lake Contnea. Death came to
+them in the package of blood thirsty adventures, a tragic fall, or some other
+unfortunate passing. Now their corpses make up a feast for their new neighbor
+-- The Conquer worm. Those unfortunate enough to die a violent death
+remain here, wandering, seeking the ones who brought death to them. There can
+not be eternal rest for them until their torturers are laid to rest.
+~
+64 32 4 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1573
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1570
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1574
+E
+marker~
+Here lies a great warrior and father. After the defeat of a group of
+interlopers he fell victom to death from poison induced upon him by
+one of the fallen adventures.
+~
+S
+#1573
+The burial ground~
+This is the final resting place of The villagers of Lake Contnea. Death came to
+them in the package of blood thirsty adventures, a tragic fall, or some other
+unfortunate passing. Now their corpses make up a feast for their new neighbor
+-- The Conquer worm. Those unfortunate enough to die a violent death
+remain here, wandering, seeking the ones who brought death to them. There can
+not be eternal rest for them until their torturers are laid to rest.
+~
+64 32 4 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1572
+E
+marker~
+The person's name seems to have faded out over time.
+~
+S
+#1574
+The burial ground~
+This is the final resting place of The villagers of Lake Contnea. Death came to
+them in the package of blood thirsty adventures, a tragic fall, or some other
+unfortunate passing. Now their corpses make up a feast for their new neighbor
+-- The Conquer worm. Those unfortunate enough to die a violent death
+remain here, wandering, seeking the ones who brought death to them. There can
+not be eternal rest for them until their torturers are laid to rest.
+~
+64 32 4 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1572
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1575
+E
+marker~
+Death Comes to all, but nearly missed this healer. Nearly defeating death
+he lived to an age of 110, untill he died one night after an overdose
+of fire spirits.
+~
+S
+#1575
+The burial ground~
+This is the final resting place of The villagers of Lake Contnea. Death came to
+them in the package of blood thirsty adventures, a tragic fall, or some other
+unfortunate passing. Now their corpses make up a feast for their new neighbor
+-- The Conquer worm. Those unfortunate enough to die a violent death
+remain here, wandering, seeking the ones who brought death to them. There can
+not be eternal rest for them until their torturers are laid to rest.
+~
+64 32 4 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1574
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1576
+E
+marker~
+The person's name seems to have faded over time.
+~
+S
+#1576
+The burial ground~
+This is the final resting place of The villagers of Lake Contnea. Death came to
+them in the package of blood thirsty adventures, a tragic fall, or some other
+unfortunate passing. Now their corpses make up a feast for their new neighbor
+-- The Conquer worm. Those unfortunate enough to die a violent death
+remain here, wandering, seeking the ones who brought death to them. There can
+not be eternal rest for them until their torturers are laid to rest.
+~
+64 32 4 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1575
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1577
+E
+marker~
+The person's name seems to have faded out over time.
+~
+S
+#1577
+The burial ground~
+This is the final resting place of The villagers of Lake Contnea. Death came to
+them in the package of blood thirsty adventures, a tragic fall, or some other
+unfortunate passing. Now their corpses make up a feast for their new neighbor
+-- The Conquer worm. Those unfortunate enough to die a violent death
+remain here, wandering, seeking the ones who brought death to them. There can
+not be eternal rest for them until their torturers are laid to rest.
+~
+64 32 4 0
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1576
+E
+marker~
+The person's name seems to have faded out over time.
+~
+S
+#1578
+The burial ground~
+This is the final resting place of The villagers of Lake Contnea. Death came to
+them in the package of blood thirsty adventures, a tragic fall, or some other
+unfortunate passing. Now their corpses make up a feast for their new neighbor
+-- The Conquer worm. Those unfortunate enough to die a violent death
+remain here, wandering, seeking the ones who brought death to them. There can
+not be eternal rest for them until their torturers are laid to rest.
+~
+64 32 4 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1579
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1585
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1571
+E
+marker~
+Her lies a mother and her child. The child ripped from her womb by a savage
+mage in his lust for blood.
+~
+S
+#1579
+The burial ground~
+This is the final resting place of The villagers of Lake Contnea. Death came to
+them in the package of blood thirsty adventures, a tragic fall, or some other
+unfortunate passing. Now their corpses make up a feast for their new neighbor
+-- The Conquer worm. Those unfortunate enough to die a violent death
+remain here, wandering, seeking the ones who brought death to them. There can
+not be eternal rest for them until their torturers are laid to rest.
+~
+64 32 4 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1583
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1578
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1584
+E
+marker~
+This marker celebrates the life of this, possably the greatest leader of
+the village. He single handedly held off a hord of 30 blood thirsty
+adventures untill he was slagutered by the blade of a warrior.
+~
+S
+#1583
+The burial ground~
+This is the final resting place of The villagers of Lake Contnea. Death came to
+them in the package of blood thirsty adventures, a tragic fall, or some other
+unfortunate passing. Now their corpses make up a feast for their new neighbor
+-- The Conquer worm. Those unfortunate enough to die a violent death
+remain here, wandering, seeking the ones who brought death to them. There can
+not be eternal rest for them until their torturers are laid to rest.
+The land slopes gently down to the lake. Little waves caused by wind
+sance on the shore.
+~
+64 32 4 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5935
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1579
+S
+#1584
+The burial ground~
+This is the final resting place of The villagers of Lake Contnea. Death came to
+them in the package of blood thirsty adventures, a tragic fall, or some other
+unfortunate passing. Now their corpses make up a feast for their new neighbor
+-- The Conquer worm. Those unfortunate enough to die a violent death
+remain here, wandering, seeking the ones who brought death to them. There can
+not be eternal rest for them until their torturers are laid to rest.
+~
+64 32 4 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1579
+S
+#1585
+The burial ground~
+This is the final resting place of The villagers of Lake Contnea. Death came to
+them in the package of blood thirsty adventures, a tragic fall, or some other
+unfortunate passing. Now their corpses make up a feast for their new neighbor
+-- The Conquer worm. Those unfortunate enough to die a violent death
+remain here, wandering, seeking the ones who brought death to them. There can
+not be eternal rest for them until their torturers are laid to rest.
+~
+64 32 4 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1586
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1578
+E
+marker~
+The person's name seems to have faded over time.
+~
+S
+#1586
+The burial ground~
+This is the final resting place of The villagers of Lake Contnea. Death came to
+them in the package of blood thirsty adventures, a tragic fall, or some other
+unfortunate passing. Now their corpses make up a feast for their new neighbor
+-- The Conquer worm. Those unfortunate enough to die a violent death
+remain here, wandering, seeking the ones who brought death to them. There can
+not be eternal rest for them until their torturers are laid to rest.
+~
+64 32 4 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1585
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1587
+E
+marker~
+The person's name seems to have faded over time.
+~
+S
+#1587
+The burial ground~
+This is the final resting place of The villagers of Lake Contnea. Death came to
+them in the package of blood thirsty adventures, a tragic fall, or some other
+unfortunate passing. Now their corpses make up a feast for their new neighbor
+-- The Conquer worm. Those unfortunate enough to die a violent death
+remain here, wandering, seeking the ones who brought death to them. There can
+not be eternal rest for them until their torturers are laid to rest.
+~
+64 32 4 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1586
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1588
+E
+marker~
+This spot commerates the lost villagers who have died in the cluches of
+nesseia, the demon of the waters.
+~
+S
+#1588
+The burial ground~
+This is the final resting place of The villagers of Lake Contnea. Death came to
+them in the package of blood thirsty adventures, a tragic fall, or some other
+unfortunate passing. A casket of a villager is being lowered into the ground
+as a female, probably his mother or wife bellows out what must have been his
+name. Other villagers look on, almost as if this were a daily occurance. A
+stone placed at his head reads, "Another Fallen father at the hands of a
+Blood thirsty thief."
+~
+64 32 4 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1587
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1589
+S
+#1589
+The burial ground~
+This is the final resting place of The villagers of Lake Contnea. Death came to
+them in the package of blood thirsty adventures, a tragic fall, or some other
+unfortunate passing. Now their corpses make up a feast for their new neighbor
+-- The Conquer worm. Those unfortunate enough to die a violent death
+remain here, wandering, seeking the ones who brought death to them. There can
+not be eternal rest for them until their torturers are laid to rest.
+~
+64 32 4 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1588
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1590
+E
+marker~
+The Person's name has faded over time.
+~
+S
+#1590
+The burial ground~
+This is the final resting place of The villagers of Lake Contnea. Death came to
+them in the package of blood thirsty adventures, a tragic fall, or some other
+unfortunate passing. Now their corpses make up a feast for their new neighbor
+-- The Conquer worm. Those unfortunate enough to die a violent death
+remain here, wandering, seeking the ones who brought death to them. There can
+not be eternal rest for them until their torturers are laid to rest.
+~
+64 32 4 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1591
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1589
+E
+marker~
+The person's name seems to have faded over time.
+~
+S
+#1591
+The burial ground~
+This is the final resting place of The villagers of Lake Contnea. Death came to
+them in the package of blood thirsty adventures, a tragic fall, or some other
+unfortunate passing. Now their corpses make up a feast for their new neighbor
+-- The Conquer worm. Those unfortunate enough to die a violent death
+remain here, wandering, seeking the ones who brought death to them. There can
+not be eternal rest for them until their torturers are laid to rest.
+~
+64 32 4 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1592
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1590
+E
+marker~
+Here lies a brave adventurer, who was struck down by his gods upon his
+defence of a village child after he relized the evil he had done.
+~
+S
+#1592
+The burial ground~
+This is the final resting place of The villagers of Lake Contnea. Death came to
+them in the package of blood thirsty adventures, a tragic fall, or some other
+unfortunate passing. Now their corpses make up a feast for their new neighbor
+-- The Conquer worm. Those unfortunate enough to die a violent death
+remain here, wandering, seeking the ones who brought death to them. There can
+not be eternal rest for them until their torturers are laid to rest.
+~
+64 32 4 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1593
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1591
+E
+marker~
+The person's name seems to have faded over time.
+~
+S
+#1593
+The burial ground~
+This is the final resting place of The villagers of Lake Contnea. Death came to
+them in the package of blood thirsty adventures, a tragic fall, or some other
+unfortunate passing. Now their corpses make up a feast for their new neighbor
+-- The Conquer worm. Those unfortunate enough to die a violent death
+remain here, wandering, seeking the ones who brought death to them. There can
+not be eternal rest for them until their torturers are laid to rest.
+~
+64 32 4 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1592
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1594
+E
+marker~
+The person's name seems to have faded over time.
+~
+S
+#1594
+The burial ground~
+This is the final resting place of The villagers of Lake Contnea. Death came to
+them in the package of blood thirsty adventures, a tragic fall, or some other
+unfortunate passing. Now their corpses make up a feast for their new neighbor
+-- The Conquer worm. Those unfortunate enough to die a violent death
+remain here, wandering, seeking the ones who brought death to them. There can
+not be eternal rest for them until their torturers are laid to rest.
+~
+64 32 4 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1595
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1593
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1596
+E
+marker~
+The person's name seems to have faded over time.
+~
+S
+#1595
+The burial ground~
+This is the final resting place of The villagers of Lake Contnea. Death came to
+them in the package of blood thirsty adventures, a tragic fall, or some other
+unfortunate passing. Now their corpses make up a feast for their new neighbor
+-- The Conquer worm. Those unfortunate enough to die a violent death
+remain here, wandering, seeking the ones who brought death to them. There can
+not be eternal rest for them until their torturers are laid to rest.
+~
+64 32 4 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1594
+E
+marker~
+The person's name seems to have faded over time.
+~
+S
+#1596
+The burial ground~
+This is the final resting place of The villagers of Lake Contnea. Death came to
+them in the package of blood thirsty adventures, a tragic fall, or some other
+unfortunate passing. Now their corpses make up a feast for their new neighbor
+-- The Conquer worm. Those unfortunate enough to die a violent death
+remain here, wandering, seeking the ones who brought death to them. There can
+not be eternal rest for them until their torturers are laid to rest.
+~
+64 32 4 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1594
+E
+marker~
+*gulp* The marker says that this spot is saved for the most hated of all
+adventures, YOU.
+~
+S
+#1763
+On the banks of Lake Contnea ~
+You stand on the south east shore of lake Contnea. Little patches of green
+grass grow amongst the rock. The contour of the land slopes downward to the
+north west, bringing land and lake together.
+~
+64 32 4 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1392
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1764
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5937
+S
+#1764
+On the banks of Lake Contnea ~
+You stand on the south east shore of lake Contnea. Little patches of green
+grass grow amongst the rock. The contour of the land slopes downward to the
+north west, bringing land and lake together.
+~
+64 32 4 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1394
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1765
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1763
+S
+#1765
+On the banks of Lake Contnea ~
+You stand on the south east shore of lake Contnea. Little patches of green
+grass grow amongst the rock. The contour of the land slopes downward to the
+north west, bringing land and lake together.
+~
+64 32 4 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1393
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1766
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1764
+S
+#1766
+On the banks of Lake Contnea ~
+You stand on the south east shore of lake Contnea. Little patches of green
+grass grow amongst the rock. The contour of the land slopes downward to the
+north west, bringing land and lake together.
+~
+64 32 4 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1395
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1767
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1765
+S
+#1767
+On the banks of Lake Contnea ~
+You stand on the south east shore of lake Contnea. Little patches of green
+grass grow amongst the rock. The contour of the land slopes downward to the
+north west, bringing land and lake together.
+~
+64 32 4 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1396
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1768
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1766
+S
+#1768
+On the banks of Lake Contnea ~
+You stand on the south east shore of lake Contnea. Little patches of green
+grass grow amongst the rock. The contour of the land slopes downward to the
+west, north west, bringing land and lake together.
+~
+64 32 4 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1397
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1801
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 19013
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1767
+S
+#1801
+On the banks of Lake Contnea ~
+You stand on the south east shore of lake Contnea. Little patches of green
+grass grow amongst the rock. The contour of the land slopes downward to the
+west, north west, bringing land and lake together.
+~
+64 32 4 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1566
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1802
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1768
+S
+#1802
+On the banks of Lake Contnea ~
+You stand on the south east shore of lake Contnea. Little patches of green
+grass grow amongst the rock. The contour of the land slopes downward to the
+west, north west, bringing land and lake together.
+~
+64 32 4 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1567
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1803
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1801
+S
+#1803
+On the banks of Lake Contnea ~
+You stand on the south east shore of lake Contnea. Little patches of green
+grass grow amongst the rock. The contour of the land slopes downward to the
+north west and to the north east, bringing land and lake together.
+~
+64 32 4 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2379
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1802
+S
+#1804
+On the banks of Lake Contnea ~
+You stand on the south east shore of lake Contnea. Little patches of green
+grass grow amongst the rock. The contour of the land slopes downward to the
+north, north west, bringing land and lake together.
+~
+64 32 4 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1805
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2379
+S
+#1805
+On the banks of Lake Contnea ~
+You stand on the south east shore of lake Contnea. Little patches of green
+grass grow amongst the rock. The contour of the land slopes downward to the
+north, north west, bringing land and lake together.
+~
+64 32 4 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2371
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1804
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2380
+S
+#2371
+On the banks of Lake Contnea ~
+You stand on the south east shore of lake Contnea. Little patches of green
+grass grow amongst the rock. The contour of the land slopes downward to the
+north west, bringing land and lake together.
+~
+64 32 4 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2372
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1805
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2381
+S
+#2372
+On the banks of Lake Contnea ~
+You stand on the south east shore of lake Contnea. Little patches of green
+grass grow amongst the rock. The contour of the land slopes downward to the
+north west, bringing land and lake together.
+~
+64 32 4 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2373
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2371
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2382
+S
+#2373
+On the banks of Lake Contnea ~
+You stand on the south east shore of lake Contnea. Little patches of green
+grass grow amongst the rock. The contour of the land slopes downward towards
+the west bringing the land and lake together.
+~
+64 32 4 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2372
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2383
+S
+#2374
+On Lake Contnea~
+You wander the lake with little idea where you are going, let alone where you
+are. Small fish swim around your feat splashing little droplets of water on
+your feet. You have a nagging feeling that you are running around in a
+wheel, getting nowhere fast.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5913
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2375
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2376
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2377
+S
+#2375
+On Lake Contnea~
+You wander the lake with little idea where you are going, let alone where you
+are. Small fish swim around your feat splashing little droplets of water on
+your feet. You have a nagging feeling that you are running around in a
+wheel, getting nowhere fast.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2377
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2374
+S
+#2376
+On Lake Contnea~
+You wander the lake with little idea where you are going, let alone where you
+are. Small fish swim around your feat splashing little droplets of water on
+your feet. You have a nagging feeling that you are running around in a
+wheel, getting nowhere fast.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2374
+S
+#2377
+On Lake Contnea~
+You wander the lake with little idea where you are going, let alone where you
+are. Small fish swim around your feat splashing little droplets of water on
+your feet. You have a nagging feeling that you are running around in a
+wheel, getting nowhere fast.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2378
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2374
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2378
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2375
+S
+#2378
+On Lake Contnea~
+You wander the lake with little idea where you are going, let alone where you
+are. Small fish swim around your feat splashing little droplets of water on
+your feet. You have a nagging feeling that you are running around in a
+wheel, getting nowhere fast.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2377
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2377
+S
+#2379
+On the banks of Lake Contnea ~
+You stand on the south east shore of lake Contnea. Little patches of green
+grass grow amongst the rock. The contour of the land slopes downward to the
+north west and to the north east, bringing land and lake together.
+~
+64 32 4 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2380
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1804
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1803
+S
+#2380
+On the banks of Lake Contnea ~
+You stand on the south east shore of lake Contnea. Little patches of green
+grass grow amongst the rock. The contour of the land slopes downward to the
+north, north west, bringing land and lake together.
+~
+64 32 4 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2381
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1805
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2379
+S
+#2381
+On the banks of Lake Contnea ~
+You stand on the south east shore of lake Contnea. Little patches of green
+grass grow amongst the rock. The contour of the land slopes downward to the
+north west, bringing land and lake together.
+~
+64 32 4 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2382
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2371
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2380
+S
+#2382
+On the banks of Lake Contnea ~
+You stand on the south east shore of lake Contnea. Little patches of green
+grass grow amongst the rock. The contour of the land slopes downward to the
+north west, bringing land and lake together.
+~
+64 32 4 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2383
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2372
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2381
+S
+#2383
+On the banks of Lake Contnea ~
+You stand on the south east shore of lake Contnea. Little patches of green
+grass grow amongst the rock. The contour of the land slopes downward towards
+the west bringing the land and lake together.
+~
+64 32 4 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2373
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2382
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5941
+S
+#2385
+A Secret Passageway ~
+You are in a secret passageway, lit by the normal florecent veins. The small
+creatures don't seem to have made it in this far, or are kept out by something.
+Small shards of obsidian litter the ground.
+~
+64 40 4 0
+0 0 0 0
+0 1 -10
+D1
+ ~
+vein~
+ ~
+ ~
+2 6401 4881
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2386
+S
+#2386
+A Secret Passageway ~
+You are in a secret passageway, lit by the normal florecent veins. The small
+creatures don't seem to have made it in this far, or are kept out by something.
+Small shards of obsidian litter the ground.
+~
+64 40 4 0
+0 0 0 0
+0 1 -10
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2385
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2387
+S
+#2387
+A Secret Passageway ~
+You are in a secret passageway, lit by the normal florecent veins. The small
+creatures don't seem to have made it in this far, or are kept out by something.
+Small shards of obsidian litter the ground.
+~
+64 40 4 0
+0 0 0 0
+0 1 -10
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2386
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2388
+S
+#2388
+An intersection in a Secret Passageway ~
+You are in a secret passageway, lit by the normal florecent veins. The small
+creatures don't seem to have made it in this far, or are kept out by something.
+Small shards of obsidian litter the ground.
+~
+64 40 4 0
+0 0 0 0
+0 1 -10
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2387
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2389
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2391
+S
+#2389
+A Secret Passageway ~
+You are in a secret passageway, lit by the normal florecent veins. The small
+creatures don't seem to have made it in this far, or are kept out by something.
+Small shards of obsidian litter the ground.
+~
+64 40 4 0
+0 0 0 0
+0 1 -10
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2388
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2390
+S
+#2390
+A Secret Passageway ~
+You are in a secret passageway, lit by the normal florecent veins. The small
+creatures don't seem to have made it in this far, or are kept out by something.
+Small shards of obsidian litter the ground.
+~
+64 40 4 0
+0 0 0 0
+0 1 -10
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2389
+S
+#2391
+A Secret Passageway ~
+You are in a secret passageway, lit by the normal florecent veins. The small
+creatures don't seem to have made it in this far, or are kept out by something.
+Small shards of obsidian litter the ground.
+~
+64 40 4 0
+0 0 0 0
+0 1 -10
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2388
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2392
+S
+#2392
+A Secret Passageway ~
+You are in a secret passageway, lit by the normal florecent veins. The small
+creatures don't seem to have made it in this far, or are kept out by something.
+Small shards of obsidian litter the ground.
+~
+64 40 4 0
+0 0 0 0
+0 1 -10
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2391
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2393
+S
+#2393
+An intersection in a Secret Passageway ~
+You are in a secret passageway, lit by the normal florecent veins. The small
+creatures don't seem to have made it in this far, or are kept out by something.
+Small shards of obsidian litter the ground.
+~
+64 40 4 0
+0 0 0 0
+0 1 -10
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2394
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2392
+S
+#2394
+A Secret Passageway ~
+You are in a secret passageway, lit by the normal florecent veins. The small
+creatures don't seem to have made it in this far, or are kept out by something.
+Small shards of obsidian litter the ground.
+~
+64 40 4 0
+0 0 0 0
+0 1 -10
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2395
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2393
+S
+#2395
+A Secret Passageway ~
+You are in a secret passageway, lit by the normal florecent veins. The small
+creatures don't seem to have made it in this far, or are kept out by something.
+Small shards of obsidian litter the ground.
+~
+64 40 4 0
+0 0 0 0
+0 1 -10
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2394
+S
+#3973
+A Hollow Between the Rocks~
+The musty dampness in here is almost sickening. The air is heavy with the
+stench of death. Shreds of corpses lie around this little pit. Every thing
+here is dead, except for a cute little bunny rabbit in the far back corner.
+You fall back as it lunges for your throat.
+~
+64 33 4 0
+0 0 0 0
+0 5 -8
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 4096
+S
+#4096
+Atop a large rock~
+Atop this rock you can see for miles; however, the only thing you can see
+is water, water, -- everywhere!  Far off in the distance to the south there
+appears to be a tiny black speck on the horizon. Small crabs crawl in the
+cracks beneth your feet. The scratching sound seems to be coming from a hole
+that is covered by a loose bolder.
+~
+64 32 4 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4132
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4097
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 3973
+E
+bolder rock hole~
+That strange scraching sound seems to come from a small hole near the edge
+of this large bolder where another bolder joins. A smaller bolder appears
+to losely cap the hole.
+~
+S
+#4097
+Atop a large rock~
+Atop this rock you can see for miles; however, the only thing you can see
+is water, water -- everywhere! Far off in the distance to the south there
+appears to be a tiny black speck on the horizon. Small crabs crawl
+in the cracks beneth your feet. A silent scraching sound appears to be
+comming from below you.
+~
+64 32 4 0
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4096
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 19008
+S
+#4098
+On Lake Contnea~
+You are near a small island on Lake Contnea. (Finally Land) A sight for sore
+eyes. You servy the coast for a place torest your weary bones.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 19008
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4113
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4099
+S
+#4099
+On Lake Contnea~
+You are near a small island on Lake Contnea, finaly land. A sight fore sore
+eyes. You servy the coast for a place torest your weary bones.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4101
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4098
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4100
+S
+#4100
+On Lake Contnea~
+You are near a small island on Lake Contnea, finaly land. A sight fore sore
+eyes. You servy the coast for a place torest your weary bones.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4102
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4099
+S
+#4101
+Beneath a large rock~
+A sense of near panic overtakes you as you look up to see a huge bolder
+just inches above your head. Small schools of fish disperse as they notice
+your presence in their hiding place. You can't help but wonder what force,
+if any prevents the rock aboce from crushing every bone in your body.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4099
+S
+#4102
+On Lake Contnea~
+You are near a small island on Lake Contnea, finaly land. A sight fore sore
+eyes. You servy the coast for a place torest your weary bones.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4103
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4100
+S
+#4103
+On Lake Contnea~
+You are near a small island on Lake Contnea, finaly land. A sight fore sore
+eyes. You servy the coast for a place torest your weary bones.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4134
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4132
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4102
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4104
+S
+#4104
+On Lake Contnea~
+You wander amilessly amoungst andless ammounts of water with the sun beating
+down on you mercilessly. Reminded of a poem you mumble "water, water
+everywhere, and not a drop to drink." The little fish taunt you by nibbling
+at your toes. To the north you hear watter hitting rocks.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4105
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4103
+S
+#4105
+On Lake Contnea~
+You wander amilessly amoungst andless ammounts of water with the sun beating
+down on you mercilessly. Reminded of a poem you mumble "water, water
+everywhere, and not a drop to drink." The little fish taunt you by nibbling
+at your toes. To the north you hear water hitting rocks.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4486
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4106
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4104
+S
+#4106
+On Lake Contnea~
+ You are near a small island on Lake Contnea, finaly land. A sight for sore
+eyes. You servey the coast for a place to rest your weary bones. You can make
+out the distant chilly snowcapped peaks of the high mountains to the northwest.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4107
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4134
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4105
+S
+#4107
+On Lake Contnea~
+You are near a small island on Lake Contnea, finaly land. A sight fore sore
+eyes. You servy the coast for a place torest your weary bones.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4108
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4106
+S
+#4108
+On Lake Contnea~
+You are near a small island on Lake Contnea, finaly land. A sight fore sore
+eyes. You servy the coast for a place torest your weary bones.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4107
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4109
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4135
+S
+#4109
+On Lake Contnea~
+You are near a small island on Lake Contnea, finaly land. A sight fore sore
+eyes. You servy the coast for a place torest your weary bones.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4110
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4108
+S
+#4110
+On Lake Contnea~
+You are just off the western shore of the lake. Mud from the land that has been
+washed away with the splashing of the waves on the muddy shore. The broken
+stems of plants floating in the water lead you to belive that this is
+frequently used means to get to the lake and the island hidden somwhere in
+it. Endless amounts of water are east from here.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4111
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4109
+S
+#4111
+On Lake Contnea~
+You are near a small island on Lake Contnea, finaly land. A sight fore sore
+eyes. You servy the coast for a place to rest your weary bones.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4110
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4113
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 19008
+S
+#4112
+On Lake Contnea~
+You wander aimlessly through endless amounts of water, the sun beating down
+on you mercilessly. Reminded of a poem you mumble "water, water everywhere,
+and not a drop to drink." The little fish taunt you by nibbling at your toes.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4113
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4120
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4120
+S
+#4113
+On Lake Contnea~
+You wander aimlessly through endless amounts of water, the sun beating down
+on you mercilessly. Reminded of a poem you mumble "water, water everywhere,
+and not a drop to drink." The little fish taunt you by nibbling at your toes.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4111
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4112
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4098
+S
+#4120
+On Lake Contnea~
+You wander aimlessly through endless amounts of water, the sun beating down
+on you mercilessly. Reminded of a poem you mumble "water, water everywhere,
+and not a drop to drink." The little fish taunt you by nibbling at your toes.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4112
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4112
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4131
+S
+#4131
+On Lake Contnea~
+You wander aimlessly through endless amounts of water, the sun beating down
+on you mercilessly. Reminded of a poem you mumble "water, water everywhere,
+and not a drop to drink." The little fish taunt you by nibbling at your toes.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D0
+More water
+~
+ ~
+$n wanders aimlessly around the lake.~
+$n wanders aimleslly around the lake.~
+1 -1 4120
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4131
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4453
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4131
+S
+#4132
+On the beach before a great rock~
+You stand before a rockface that would challange the greatest of adventures.
+There don't seem to be any places to grab hold or to support onself while
+tring to climb up or down it. Blood stains the rock near the corpse of a
+rat that must have come with you on your journey.
+~
+64 32 2 0
+0 0 0 0
+0 0 20
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4135
+D2
+A tough climb is before you, but you can make it.
+~
+ ~
+$n comes flying down the face of the rock, landing face first in the sand.~
+As $n tries to gracefully climb down the rockface, he slips and falls.~
+1 -1 4096
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4103
+S
+#4134
+On Lake Contnea~
+You are near a small island on Lake Contnea, finaly land. A sight fore sore
+eyes. You servy the coast for a place torest your weary bones.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4106
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4135
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4103
+S
+#4135
+On the Beach of an island~
+To the north are jagged rocks seperating the lake with the island.
+Small tracks of sand-colored crabs dot the sand around the rocks, where
+they have made their homes. Mabey if you feel in the dirt you could
+find one.
+~
+64 36 2 0
+0 0 0 0
+0 0 20
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4108
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4132
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4134
+S
+#4453
+On Lake Contnea~
+You wander aimlessly through endless amounts of water, the sun beating down
+on you mercilessly. Reminded of a poem you mumble "water, water everywhere,
+and not a drop to drink." The little fish taunt you by nibbling at your toes.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4131
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4461
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4464
+S
+#4461
+On Lake Contnea~
+You wander aimlessly through endless amounts of water, the sun beating down
+on you mercilessly. Reminded of a poem you mumble "water, water everywhere,
+and not a drop to drink." The little fish taunt you by nibbling at your toes.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4463
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4453
+S
+#4463
+On Lake Contnea~
+You wander aimlessly through endless amounts of water, the sun beating down
+on you mercilessly. Reminded of a poem you mumble "water, water everywhere,
+and not a drop to drink." The little fish taunt you by nibbling at your toes.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4464
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4464
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4461
+S
+#4464
+On Lake Contnea~
+You wander aimlessly through endless amounts of water, the sun beating down
+on you mercilessly. Reminded of a poem you mumble "water, water everywhere,
+and not a drop to drink." The little fish taunt you by nibbling at your toes.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4463
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4453
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6046
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4463
+S
+#4466
+In a Bank of Fog~
+You are engulphed in a bank of fog that seems to have come out of nowhere.
+You sense a slight eletrical charge in the air as you recieve a shock from
+your armor. A faint horn blows in the distance.
+~
+64 33 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4744
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4468
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4472
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4753
+S
+#4468
+In a Bank of Fog~
+You wander aimlessly amoungst endless amounds of water, the sun beeting down
+on you mercilessly. Reminded of a poem you mumble "water, water everywhere,
+and not a drop to drink. The little fish taunt you by nibbling at your toes.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4745
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4649
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4466
+S
+#4472
+In a Bank of Fog~
+You are engulphed in a bank of fog that seems to have come out of nowhere.
+You sense a slight electrical charge in the air, as you receive a shock from
+your armor. A faint horn blows in the distance.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4466
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4649
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4521
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4753
+S
+#4483
+On Lake Contnea~
+You wander the lake with little idea where you are going, let alone where you
+are. Small fish swim around your feat splashing little droplets of water on
+your feet. You have a nagging feeling that you are running around in a
+wheel, getting nowhere fast.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5931
+S
+#4521
+In a Bank of Fog~
+You are engulphed in a bank of fog that seems to have come out of nowhere.
+You sense a slight electrical charge in the air, as you receive a shock from
+your armor. A faint horn blows in the distance.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4472
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4650
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4522
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4753
+S
+#4522
+In a Bank of Fog~
+You are engulphed in a bank of fog that seems to have come out of nowhere.
+You sense a slight electrical charge in the air, as you receive a shock from
+your armor. A faint horn blows in the distance.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4521
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4651
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4523
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4753
+S
+#4523
+In a Bank of Fog by a Cliffside~
+You are engulphed in a bank of fog. You sense a slight eletrical charge in
+the air as you are shocked by your armor as it touches the water. To the East
+is a giant cliffside. Although ropes hang down from above to lift ships from
+the water your weight is more than the ropes can hold.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4522
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4524
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4753
+S
+#4524
+In a Bank of Fog by a Cliffside~
+You are engulphed in a bank of fog. You sense a slight electrical charge in
+the air as you are shocked by your armor when it comes in contact with the
+water.  To the East is a Giant cliffside. Although ropes hand down to lift
+ships from the water your weight is more than the ropes can hold.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4523
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4525
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4753
+S
+#4525
+In a Bank of Fog~
+You are engulphed in a bank of fog that seems to have come out of nowhere.
+You sense a slight electrical charge in the air, as you receive a shock from
+your armor. A faint horn blows in the distance.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4524
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4657
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5071
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4753
+S
+#4526
+In a Bank of Fog~
+You are engulphed in a bank of fog that seems to have come out of nowhere.
+You sense a slight electrical charge in the air, as you receive a shock from
+your armor. A faint horn blows in the distance.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5071
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4656
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4527
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4753
+S
+#4527
+In a Bank of Fog~
+You are engulphed in a bank of fog that seems to have come out of nowhere.
+You sense a slight electrical charge in the air, as you receive a shock from
+your armor. A faint horn blows in the distance.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4526
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4653
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4743
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4753
+S
+#4528
+In a Bank of Fog~
+You are engulphed in a bank of fog that seems to have come out of nowhere.
+You sense a slight electrical charge in the air, as you receive a shock from
+your armor. A faint horn blows in the distance.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4529
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4655
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4743
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4653
+S
+#4529
+In a Bank of Fog~
+You are engulphed in a bank of fog that seems to have come out of nowhere.
+You sense a slight electrical charge in the air, as you receive a shock from
+your armor. A faint horn blows in the distance.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5073
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4654
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4528
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4656
+S
+#4649
+In a Bank of Fog~
+You are engulphed in a bank of fog that seems to have come out of nowhere.
+You sense a slight electrical charge in the air, as you receive a shock from
+your armor. A faint horn blows in the distance.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4468
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4650
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4472
+S
+#4650
+In a Bank of Fog~
+You are engulphed in a bank of fog that seems to have come out of nowhere.
+You sense a slight electrical charge in the air, as you receive a shock from
+your armor. A faint horn blows in the distance.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4649
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4651
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4521
+S
+#4651
+Before a cliffside~
+You are engulphed in a bank of fog. A Cliffside is to the east, into which
+the waves crash, creating a deafening sound. It takes all of your strength
+to prevent yourself from joining the waves on the jagged rocks. The stone
+forming the southern wall is slick with ware and slime.
+~
+64 32 7 0
+0 0 0 0
+20 4 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4650
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4522
+S
+#4652
+By a cliffside~
+You are engulphed in a bank of fog. A cliffside is to the north and east.
+This funnel-like spot has to be the most dangerous place to be. You have to
+rest, its just to hard to simply go on further. Small fish are killed
+instantly as they are crused from the blow of the watter crashing into the
+solid rock walls.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5073
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4657
+S
+#4653
+In a Bank of Fog~
+You are engulphed in a bank of fog that seems to have come out of nowhere.
+You sense a slight electrical charge in the air, as you receive a shock from
+your armor. A faint horn blows in the distance.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4656
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4528
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4743
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4527
+S
+#4654
+In a Bank of Fog~
+You are engulphed in a bank of fog. A cliffside is to the north and east.
+This funnel-like spot has to be the most dangerous place to be. You have to
+rest, its just too hard to simply go on further. Small fish are killed
+instantly as they are crushed from the force of the blow of the water
+crashing into the solid rock walls.
+~
+64 32 7 0
+0 0 0 0
+40 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4655
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4529
+S
+#4655
+In a Bank of Fog~
+You are engulphed in a bank of fog that seems to have come out of nowhere.
+You sense a slight eletrical charge in the air, as you receive a shock from
+your armor.  A faint horn blows in the distance.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4654
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4661
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4743
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4528
+S
+#4656
+In a Bank of Fog~
+You are engulphed in a bank of fog that seems to have come out of nowhere.
+You sense a slight electrical charge in the air, as you receive a shock from
+your armor. A faint horn blows in the distance.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5072
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4529
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4653
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4526
+S
+#4657
+In a Bank of Fog~
+You are engulphed in a bank of fog that seems to have come out of nowhere.
+You sense a slight electrical charge in the air, as you receive a shock from
+your armor. A faint horn blows in the distance.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4652
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5072
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4525
+S
+#4661
+South of a Cliff~
+The fog is thinning out here, it may end a little bit further south. To the
+north is another cliffside. You wonder if you will ever find a way to get up
+onto the island.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4662
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4743
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4655
+S
+#4662
+South of a Cliff~
+The fog thins out here, perhaps further south it ends. Northward is yet
+the same cliffside you just saw all over again. Finding comfort in your
+approaching madness you count the small pebbles in a little niche in the
+intimidating wall.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4663
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4743
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4661
+E
+niche pebbles~
+1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20...........
+~
+S
+#4663
+South of a Cliff~
+The fog is thinngin out here, it may end a little bit further south. To the
+north is another cliffside. You wonder if you will ever find a way to get
+up onto the island.
+~
+64 32 7 0
+0 0 0 0
+-25 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4664
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4743
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4662
+S
+#4664
+In a Bank Of Fog~
+You are engulphed in a bank of fog that seems to be thining out. A slight
+electrical charge that you noticed earlier is gone now, though it has been
+replaced by a unerving silence..Not a living sound is made, only thing is
+a faint horn to the north.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4666
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4665
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4743
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4663
+S
+#4665
+In a Bank of Fog~
+You are engulphed in a bank of fog that seems to be thining out. A slight
+electrical charge that you noticed earlier is now gone, though it has been
+replaced by an unnerving silence..Not a living sound is here, just the faint
+horn to the north.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4671
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4732
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4743
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4664
+S
+#4666
+East of a Cliffside~
+You stand east of what seems to be a never ending cliffside. Small critters
+crawl in and out of the cracks in the rocks. upon a closer inspection you
+notice some fossils in the rock.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5074
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4671
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4664
+E
+cliffside fossil~
+humm.. Wish ya paid a bit more attention to the pre-mideviean geologic and
+life history. Piecing together what little you rmember you relize that you
+are looking at a fossil of the long dead species known as reallus biggus
+crabbus.
+~
+S
+#4667
+East of a Cliffside~
+The cliffside contunues off in the norther and southern directions.  The
+sound you thought to be a horn now sounds more like a deep moaning, and
+it appears to be comming from a north-easternly direction.  Large rocks
+line the cliffside, awaiting someone to impail.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4668
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4672
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5074
+S
+#4668
+At the mouth of a Small bay~
+As you enter this small bay the thick fog suddenly ends. Looking back it
+appears that it ends in a perfect wall, as if it were being held back by some
+force. The moaning sound continues to get louder as you go further northward
+in the bay.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4669
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4673
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4667
+S
+#4669
+In a small Bay~
+As you stand still you detect an alternating breeze comming from the north
+and the south, almost a rythem of breathing. The water appears to be hitting
+another clifface or some rock for the moaning sound, that continues to gain
+volume, is accompanied by a crashing sound.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4670
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4674
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4668
+S
+#4670
+West of a Cave~
+The rock formations here are so wonderfully strange. The breathing like wind
+patters appear to come from a complex serise of mini-caves cut into the rock.
+To the east appeats to be a larger opening. The bay conti9nues back behind
+you.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4675
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4669
+E
+cave mini-cave~
+The complex passageways to simulate the breathing of the island seem to be
+complex to be natural, but then again god has been known to be real bored
+before.
+~
+S
+#4671
+In a Bank of Fog~
+You are engulphed in a bank of fog. The horn is becoming louder as you head
+further north. Small fish jump over your feet. One actually jumps up and
+bites your toe. It would be rather funny except that it has small, sharp
+teeth, which it uses to tear into your flesh.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5075
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4733
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4665
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4666
+S
+#4672
+In a Bank of Fog~
+You are engulphed in a bank of fog. The horn in becoming louder as you head
+further north. Small fish jump over your feet, one actually jumps and bites
+your toe. It would be rather funny except that it has small sharp teeth,
+which it uses to tear into your flesh.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4673
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4734
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5075
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4667
+S
+#4673
+At the mouth of a Small bay~
+As you enter this small bay the thick fog suddenly ends. Looking back it
+appears that it ends in a perfect wall, as if it were being held back by some
+force. The moaning sound continues to get louder as you go further northward
+in the bay.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4674
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4672
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4668
+S
+#4674
+In a small Bay~
+As you stand still you detect an alternating breeze comming from the south
+and the north, almost a rythem of breathing. The water appears to be hitting
+another clifface or some rock for the moaning sound, that continues to gain
+in volume, is ammompanied by a crashing sound.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4675
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4673
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4669
+S
+#4675
+Before a the "Mouth" of a Cave~
+The Stalagtite and Stalagmite formations in the opening of the cave, with the
+mini caves that create the wind create the feeling of a face, though not
+human there seems to be a greatness and goodness about it. The water crashing
+into the rocks is amplified by the acoustics of the cave. The defining
+moaning comes from within.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4839
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4674
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4670
+S
+#4732
+In a Bank of Fog~
+You are engulphed in a bank of fog that seems to be thining out. A slight
+electrical charge that you noticed earlier is now gone, though it has been
+replaced by an unnerving silence..Not a living sound is here, just the faint
+horn to the North.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4733
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4735
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4743
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4665
+S
+#4733
+In a bank of fog~
+You are engulphed in a bank of fog that seems never to end.  A foul smell
+overtakes you. Looking down, you see that you picked up a little fishy.
+Eventhough it is dead you throw it back into the water in a act of futility.
+Just then a bunch of bubbles and little splashes fill the spot where you
+tossed it in. Something tells you this is not an ideal skinnydipping site.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5076
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4736
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4732
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4671
+S
+#4734
+North East of a Bay~
+The Cliff Face here has come to a rounded point with jagged rocks making up
+alot of the base around the cliff. A small pool is home to a small and
+friendly little goldfish. The little goldfish reminds you of your younger
+days when you and your comrads would swallow small fish like him whole
+between classes and taunting the juvinile members of the other guilds, who,
+of course, were far inferior to you.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4737
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5076
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4672
+S
+#4735
+In a Bank of Fog~
+You are engulphed in a bank of fog that seems to be thining out twords the
+east. Small fish quickly swim infright as you approach them, except for one.
+Strange, you don't remember ever seeing a 3 eyed fish before.. must be the
+new three mile island version.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4736
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4732
+S
+#4736
+In a Bank of Fog~
+You are engulphed in a bank of fog that seems to be thining out twords the
+east. Small fish quickly swim infright as you approach them, except for one.
+Strange, you don't remember ever seeing a 3 eyed fish before.. must be the
+new three mile island version.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5077
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4743
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4735
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4733
+S
+#4737
+In a Bank of Fog~
+You are engulphed in a bank of fog that seems to be thining out twords the
+east. Small fish quickly swim in fright as you approach them, except for one.
+Strange, you don't remember ever seeing a 3 eyed fish, excpt the one in the
+other room. Humph, Must be one of those fancy new three mile island versions.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4738
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4743
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5077
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4734
+S
+#4738
+East of a Cliff Face~
+You are engulphed in what seems like a never-ending bank of fog. To the west
+is a solid wall of rock, you guess granite, but of course you can and probably
+are wrong. At times ou begin to wonder if you will ever find the way onto the
+island and if this isn't really a crule joke being plaied on you.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4739
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4743
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4737
+S
+#4739
+East of a Cliff Face~
+You are engulphed in what seems like a never-ending bank of fog. To the west
+is a solid wall of rock, you guess granite, but of course you can and probably
+are wrong. At times ou begin to wonder if you will ever find the way onto the
+island and if this isn't really a crule joke being plaied on you.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4740
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4743
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4738
+S
+#4740
+East of a Cliff Face~
+You are engulphed in what seems like a never-ending bank of fog. To the west
+is a solid wall of rock, you guess granite, but of course you can and probably
+are wrong. At times ou begin to wonder if you will ever find the way onto the
+island and if this isn't really a crule joke being plaied on you.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4741
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4743
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4739
+S
+#4741
+East of a Cliff Face~
+You are engulphed in what seems like a never-ending bank of fog. To the west
+is a solid wall of rock, you guess granite, but of course you can and probably
+are wrong. At times ou begin to wonder if you will ever find the way onto the
+island and if this isn't really a crule joke being plaied on you.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4742
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4743
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4740
+S
+#4742
+East of a Cliff Face~
+You are engulphed in what seems like a never-ending bank of fog. To the west
+is a solid wall of rock, you guess granite, but of course you can and probably
+are wrong. At times ou begin to wonder if you will ever find the way onto the
+island and if this isn't really a crule joke being plaied on you.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6045
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4743
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4741
+S
+#4743
+On Lake Contnea ~
+You wander the lake with little idea where you are going, let alone where you
+are. Small fish swim around your feat splashing little droplets of water on
+your feet. You have a nagging feeling that you are running around in a
+wheel, getting nowhere fast.
+~
+64 36 7 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5886
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6045
+S
+#4744
+In a Bank of Fog~
+You are engulphed in a bank of fog that seems to have come out of nowhere.
+You sense a slight eletrical charge in the air as you recieve a shock from
+your armor. A faint horn blows in the distance.
+~
+64 33 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6046
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4745
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4466
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4753
+S
+#4745
+In a Bank of Fog~
+You are engulphed in a bank of fog that seems to have come out of nowhere.
+You sense a slight eletrical charge in the air as you recieve a shock from
+your armor. A faint horn blows in the distance.
+~
+64 33 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6046
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4746
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4468
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4744
+S
+#4746
+In a Bank of Fog~
+You are engulphed in a bank of fog that seems to have come out of nowhere.
+You sense a slight eletrical charge in the air as you recieve a shock from
+your armor. A faint horn blows in the distance.
+~
+64 33 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6046
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4747
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4745
+S
+#4747
+In a Bank of Fog~
+You are engulphed in a bank of fog that seems to have come out of nowhere.
+You sense a slight eletrical charge in the air as you recieve a shock from
+your armor. A faint horn blows in the distance.
+~
+64 33 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6046
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4748
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4746
+S
+#4748
+In a Bank of Fog~
+You are engulphed in a bank of fog that seems to have come out of nowhere.
+You sense a slight eletrical charge in the air as you recieve a shock from
+your armor. A faint horn blows in the distance.
+~
+64 33 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6046
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4749
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4747
+S
+#4749
+In a Bank of Fog~
+You are engulphed in a bank of fog that seems to have come out of nowhere.
+You sense a slight eletrical charge in the air as you recieve a shock from
+your armor. A faint horn blows in the distance.
+~
+64 33 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6046
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4750
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4748
+S
+#4750
+In a Bank of Fog~
+You are engulphed in a bank of fog that seems to have come out of nowhere.
+You sense a slight eletrical charge in the air as you recieve a shock from
+your armor. A faint horn blows in the distance.
+~
+64 33 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6046
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4971
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4749
+S
+#4751
+In a Bank of Fog~
+You are engulphed in a bank of fog that seems to have come out of nowhere.
+You sense a slight eletrical charge in the air as you recieve a shock from
+your armor. A faint horn blows in the distance.
+~
+64 33 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6046
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4752
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4971
+S
+#4752
+In a Bank of Fog~
+You are engulphed in a bank of fog that seems to have come out of nowhere.
+You sense a slight eletrical charge in the air as you recieve a shock from
+your armor. A faint horn blows in the distance.
+~
+64 33 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6046
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4753
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4751
+S
+#4753
+In a Bank of Fog~
+You are engulphed in a bank of fog that seems to have come out of nowhere.
+You sense a slight eletrical charge in the air as you recieve a shock from
+your armor. A faint horn blows in the distance.
+~
+64 33 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6046
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4743
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6045
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4752
+S
+#4839
+Inside The mouth of a Cave~
+Delicate and beautiful stalagtites form extravagent patters that form
+horrable shadows from the way that your light source hits them, producing
+a strange atmosphere for the cave. The "face" of the cliff looks almost
+as real inside as it did outside, with the un-nerving exception that you
+have been swallowed. A thick slime coats the upwardly sloping floor.
+~
+64 45 4 0
+0 0 0 0
+0 1 -10
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4840
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4675
+S
+#4840
+An intersection in The Cave~
+You barely make it up the slope. For every two steps foward you go, you
+slip one and a half steps back. The shadows are more grotesque here, they
+almost seem alive, and moving.. toward you. The cave slopes downward to the
+south and to the east and west.
+~
+64 41 4 0
+0 0 0 0
+10 1 -10
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4841
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4839
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4842
+S
+#4841
+A passage in the cave~
+Your feet spash in the little ammounts of water that have made its way down
+this far. The floor is almost too slipery to stand on, so you brace yourself
+aginst the walls for what little support they offer.  Small crustacious
+creatures crawl amoungst the stalagtites and stalagmites.
+~
+64 41 4 0
+0 0 0 0
+50 1 -10
+D2
+ ~
+stalagmite~
+ ~
+ ~
+1 -1 4844
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4840
+S
+#4842
+In a downwardly sloping passage~
+You are in a passage in the cave. The floors seem to be beginning to level
+out and probably are flat further on westward. The passage sloaps upward
+to the east. The walls are coated with a watery film, probably nar the water
+table now. A strange rock formation catches your eye in the far side of the
+passage.
+~
+64 41 4 0
+0 0 0 0
+10 1 -10
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4840
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4845
+S
+#4844
+A small alcove behind a Stalagmite~
+Small crustacious creatures crawl along with you behind the loose stalagmite.
+This alcove looks like it has been lived in once, once a long time ago.
+Some trash from the occupant remains (and mabey some of the occupant too).
+~
+64 41 4 0
+0 0 0 0
+50 1 -10
+D0
+ ~
+stalagmite~
+ ~
+ ~
+1 -1 4841
+S
+#4845
+In a downwardly sloping passage~
+You are in a passage in the cave. The floors seem to be beginning to level
+out and probably are flat further on westward. The passage sloaps upward
+to the east. The walls are coated with a watery film, probably nar the water
+table now. A strange rock formation catches your eye in the far side of the
+passage.
+~
+64 41 4 0
+0 0 0 0
+10 1 -10
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4842
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4847
+E
+rock formation stalagtite stalagmite~
+Its really neat, a stalagtite and stalagmite (two really big ones) have
+joined to make a big colum. Around the top of the column is a bunch of little
+soda-straw-like stalagtites.
+~
+S
+#4846
+An intersection in a cave passageway~
+Once again you stand on level ground. To the south is what appears to be a
+passage cut into the stone, while the more natural passgeways continue off to
+the east and the west.
+~
+64 41 4 0
+0 0 0 0
+50 1 -10
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4847
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4849
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4848
+S
+#4847
+At the bottom of a slope in a cave passageway~
+You are in a passage in the cave. The floors seem to be beginning to level
+out and are probably flat further on westward. The passage sloaps slightly
+upward to the east. The walls are coated with a watery film, probably near
+the water table now.
+~
+64 41 4 0
+0 0 0 0
+10 1 -10
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4845
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4846
+S
+#4848
+A cave passageway~
+You stand on level ground. This appears to be a dead end in the cave passage
+way. Perhaps you should turn back the way that you came.
+~
+64 41 4 0
+0 0 0 0
+50 1 -10
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4846
+S
+#4849
+An unnatural passageway~
+This little space seems to have been formed by unnatural means to link to
+paralell passageways together. Who ever dug or clawed this short passageway
+mut have had great stregenth and will to ever finish the laberous task. There
+are uneven scraches on the wall, probably from where the rock was scraped
+away.
+~
+64 45 4 0
+0 0 0 0
+50 1 -10
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4846
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4851
+E
+scraches wall~
+By the angle of the scraches you figure that
+whoever made them was a bit larger than you. A further analysis of the
+markings leads you to belive that whoever made this passage was digging
+Northward out of what ever is sout of you insted of where you have come
+from.
+~
+S
+#4851
+An intersection in the illuminated passageway~
+The unnatural passage widens into a more natural surounding. The air is old
+and the rock dry. Small veins of some florecent rock bathe the room in a dim
+bluse light. Small pieces of the florecent rock lie around the room on the
+floor. Small crab like creatures scurry around at your feet.
+~
+64 40 4 0
+0 0 0 0
+0 1 -10
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4849
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4852
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4854
+S
+#4852
+An illuminated passageway~
+The passage is gripped in an absloute silence, broken only by the clicking
+sound of small creatures on the rocks. A small vein of florecent rock
+illuminates the room.
+~
+64 40 4 0
+0 0 0 0
+0 1 -10
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4853
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4851
+S
+#4853
+A Turn in an illuminated passageway~
+The passage is gripped in an absloute silence, broken only by the clicking
+sound of small creatures on the rocks. Finally the clicking gets to you and
+under an altered state of awareness you crush the little buggers, while
+taking delight in their screams of agony. A small vein of florecent rock
+illuminates the room.
+~
+64 40 4 0
+0 0 0 0
+0 1 -10
+D0
+Absloutely Nothing~
+vein rock wall~
+ ~
+ ~
+1 6403 4867
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4879
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4852
+S
+#4854
+An illuminated passageway~
+The passage is gripped in an absloute silence, borken only by the clicking
+sound of small creatures on the rocks. A small vein of florecent rock
+illuminates the room.
+~
+64 40 4 0
+0 0 0 0
+0 1 -10
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4851
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4855
+S
+#4855
+A Turn in an illuminated passageway~
+The passageway is gripped in an absloute silence, broken only by the clicking
+sound of small creatures on the rocks. A small vein of florecent rock
+illuminates the room. You hear the shuffle of feat behind you. You
+turn your head, expecting to see some grusome creature sneaking up behind
+you only to see nothing. Kinda errie isn't it?
+~
+64 40 4 0
+0 0 0 0
+0 1 -10
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4854
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4878
+S
+#4867
+An upwardly Spiraling Starcase~
+There is a staircase carved into the rock here. Perfectly made steps spiral
+around a central column as they ascend into the total darkness above. As
+you look foward to the climb before you, you can't help but to wish you
+would have left a few of your extra trinkets behind.
+~
+64 40 4 0
+0 0 0 0
+20 0 -10
+D2
+An illuminates pasageway~
+vein rock wall~
+$n exits south.~
+ ~
+1 6403 4853
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 4933
+S
+#4870
+An illuminated passageway~
+The passage is gripped in an absloute silence, broken only by the clicking
+sound of small creatures on the rocks. A small vein of florecent rock
+illuminates the room.
+~
+64 40 4 0
+0 0 0 0
+0 1 -10
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4879
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4871
+S
+#4871
+An intersection in an illuminated passageway~
+The passageway is gripped in an absloute silence, broken only by the clicking
+sound of small creatures on the rocks. A small vein of florecent rock
+illuminates the room. You hear the shuffle of feat behind you. You
+turn your head, expecting to see some grusome creature sneaking up behind
+you only to see nothing. Kinda errie isn't it?
+~
+64 40 4 0
+0 0 0 0
+0 1 -10
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4870
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4872
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4873
+E
+vein~
+ ~
+E
+vein~
+The veins seem to be perfectly perpindicular to each other. They seem
+to pulsate with a yellowish light, brigher, dimmer, brighter dimmer.
+the walls are jagged, yet the florecent parts seem almost smooth, like
+they were polished by someone or something.
+~
+S
+#4872
+An illuminated passageway~
+The passage is gripped in an absloute silence, broken only by the clicking
+sound of small creatures on the rocks. A small vein of florecent rock
+illuminates the room.
+~
+64 40 4 0
+0 0 0 0
+0 1 -10
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4885
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4871
+S
+#4873
+An illuminated passageway~
+The passage is gripped in an absloute silence, broken only by the clicking
+sound of small creatures on the rocks. A small vein of florecent rock
+illuminates the room.
+~
+64 40 4 0
+0 0 0 0
+0 1 -10
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4871
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4874
+S
+#4874
+Falling down a Dank, Dark, Deadly Bottemless Pit~
+You step out over the nothingness below you, and unlike the cartoons you loved
+as a young tot you fal
+                     l
+                     l
+                     l
+                     l
+                     l
+                     l
+                     l
+                  *SPLAT*
+They were wrong, and you proved it. It isn't a bottemless pit, you found
+the bottem. Too bad you won't live to tell anyone. You lay here slowly the
+darkness overtaking you, yet you are aware of sunlight shining down the
+shaft and the many wonderful and valueble items left here by other unweary
+adventures. You become less aware, a peacefullness over takes you. You
+welcome death, the only escape from the horrable pain you feel because you
+truely borke every bone in your body.
+~
+64 38 4 0
+0 0 0 0
+0 1 -10
+S
+#4875
+An illuminated passageway~
+The passage is gripped in an absloute silence, broken only by the clicking
+sound of small creatures on the rocks. A small vein of florecent rock
+illuminates the room.
+~
+64 40 4 0
+0 0 0 0
+0 1 -10
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4874
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4876
+S
+#4876
+An intersection in an illuminated passageway~
+The passage is gripped in an absloute silence, broken only by the clicking
+sound of small creatures on the rocks. A small vein of florecent rock
+illuminates the room.
+~
+64 40 4 0
+0 0 0 0
+0 1 -10
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4877
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4875
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4880
+S
+#4877
+An illuminated passageway~
+The passage is gripped in an absloute silence, broken only by the clicking
+sound of small creatures on the rocks. A small vein of florecent rock
+illuminates the room.
+~
+64 40 4 0
+0 0 0 0
+0 1 -10
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4878
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4876
+S
+#4878
+An illuminated passageway~
+The passage is gripped in an absloute silence, broken only by the clicking
+sound of small creatures on the rocks. A small vein of florecent rock
+illuminates the room.
+~
+64 40 4 0
+0 0 0 0
+0 1 -10
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4855
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4877
+S
+#4879
+An illuminated passageway~
+The passage is gripped in an absloute silence, broken only by the clicking
+sound of small creatures on the rocks. Finally the clicking gets to you and
+under an altered state of awareness you crush the little buggers, while
+taking delight in their screams of agony. A small vein of florecent rock
+illuminates the room.
+~
+64 40 4 0
+0 0 0 0
+0 1 -10
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4853
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4870
+S
+#4880
+An illuminated passageway ~
+The passage is gripped in an absloute silence, broken only by the clicking
+sound of small creatures on the rocks. A small vein of florecent rock
+illuminates the room.
+~
+64 40 4 0
+0 0 0 0
+0 1 -10
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4876
+D3
+ ~
+(nul)~
+ ~
+ ~
+1 -1 4881
+S
+#4881
+An intersection in an illuminated passageway ~
+The passage is gripped in an absloute silence, broken only by the clicking
+sound of small creatures on the rocks. A small vein of florecent rock
+illuminates the room.
+~
+64 40 4 0
+0 0 0 0
+0 1 -10
+D1
+ ~
+(nul)~
+ ~
+ ~
+1 -1 4880
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4882
+D3
+ ~
+vein~
+ ~
+ ~
+2 6401 2385
+S
+#4882
+An illuminated passageway~
+The passage is gripped in an absloute silence, broken only by the clicking
+sound of small creatures on the rocks. A small vein of florecent rock
+illuminates the room.
+~
+64 40 4 0
+0 0 0 0
+0 1 -10
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4881
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4883
+S
+#4883
+An illuminated passageway~
+The passage is gripped in an absloute silence, broken only by the clicking
+sound of small creatures on the rocks. A small vein of florecent rock
+illuminates the room.
+~
+64 40 4 0
+0 0 0 0
+0 1 -10
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4882
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4884
+S
+#4884
+An illuminated passageway~
+The passage is gripped in an absloute silence, broken only by the clicking
+sound of small creatures on the rocks. A small vein of florecent rock
+illuminates the room.
+~
+64 40 4 0
+0 0 0 0
+0 1 -10
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4883
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4886
+S
+#4885
+A turn in An illuminated passageway~
+The passage is gripped in an absloute silence, broken only by the clicking
+sound of small creatures on the rocks. A small vein of florecent rock
+illuminates the room.
+~
+64 40 4 0
+0 0 0 0
+0 1 -10
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4895
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4872
+S
+#4886
+An illuminated passageway~
+The passage is gripped in an absloute silence, broken only by the clicking
+sound of small creatures on the rocks. A small vein of florecent rock
+illuminates the room.
+~
+64 40 4 0
+0 0 0 0
+0 1 -10
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4887
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4884
+S
+#4887
+An illuminated passageway~
+The passage is gripped in an absloute silence, broken only by the clicking
+sound of small creatures on the rocks. A small vein of florecent rock
+illuminates the room.
+~
+64 40 4 0
+0 0 0 0
+0 1 -10
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4888
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4886
+S
+#4888
+An illuminated passageway~
+The passage is gripped in an absloute silence, broken only by the clicking
+sound of small creatures on the rocks. A small vein of florecent rock
+illuminates the room.
+~
+64 40 4 0
+0 0 0 0
+0 1 -10
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4889
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4887
+S
+#4889
+An illuminated passageway~
+The passage is gripped in an absloute silence, broken only by the clicking
+sound of small creatures on the rocks. A small vein of florecent rock
+illuminates the room.
+~
+64 40 4 0
+0 0 0 0
+0 1 -10
+D0
+ ~
+vein~
+ ~
+ ~
+1 6404 4926
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4890
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4888
+S
+#4890
+An illuminated passageway~
+The passage is gripped in an absloute silence, broken only by the clicking
+sound of small creatures on the rocks. A small vein of florecent rock
+illuminates the room.
+~
+64 40 4 0
+0 0 0 0
+0 1 -10
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4891
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4889
+S
+#4891
+An illuminated passageway~
+The passage is gripped in an absloute silence, broken only by the clicking
+sound of small creatures on the rocks. A small vein of florecent rock
+illuminates the room.
+~
+64 40 4 0
+0 0 0 0
+0 1 -10
+D0
+ ~
+vein rock~
+ ~
+ ~
+1 6404 4930
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4892
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4890
+S
+#4892
+An illuminated passageway~
+The passage is gripped in an absloute silence, broken only by the clicking
+sound of small creatures on the rocks. A small vein of florecent rock
+illuminates the room.
+~
+64 40 4 0
+0 0 0 0
+0 1 -10
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4893
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4891
+S
+#4893
+A turn in an illuminated passageway~
+The passage is gripped in an absloute silence, broken only by the clicking
+sound of small creatures on the rocks. A small vein of florecent rock
+illuminates the room.
+~
+64 40 4 0
+0 0 0 0
+0 1 -10
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4894
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4892
+S
+#4894
+An illuminated passageway~
+The passage is gripped in an absloute silence, broken only by the clicking
+sound of small creatures on the rocks. A small vein of florecent rock
+illuminates the room.
+~
+64 40 4 0
+0 0 0 0
+0 1 -10
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4895
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4893
+S
+#4895
+An illuminated passageway~
+The passage is gripped in an absloute silence, broken only by the clicking
+sound of small creatures on the rocks. A small vein of florecent rock
+illuminates the room.
+~
+64 40 4 0
+0 0 0 0
+0 1 -10
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4885
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4894
+S
+#4926
+In a Torch lit Cavern~
+You wander around looking at the pictures drawn on the walls here. An feeling
+that you are being watched overtakes you. Looking around you don't notice
+anything strange, but you wouln't would you? Its probably nothing you say as
+you continue looking at the walls.
+~
+64 40 4 0
+0 0 0 0
+0 1 -10
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4927
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4929
+D2
+ ~
+vein rock~
+ ~
+ ~
+1 6404 4889
+E
+wall picture~
+The picture depicts the constant battle between the forces of good and evil
+for absloute controll. The irony is that the storyline of the picture goes
+on to reveil that if ever one should destroy the other that force would
+inturn destroy itself and the world, for there can never be good with
+out evil, and without either one there can never be.
+~
+S
+#4927
+In a Torch lit Cavern~
+You wander around looking at the pictures drawn on the walls here. An feeling
+that you are being watched overtakes you. Looking around you don't notice
+anything strange, but you wouln't would you? Its probably nothing you say as
+you continue looking at the walls.
+~
+64 40 4 0
+0 0 0 0
+0 1 -10
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4928
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4926
+E
+wall picture~
+The picture depicts the constant battle between the forces of good and evil
+for absloute controll. The irony is that the storyline of the picture goes
+on to reveil that if ever one should destroy the other that force would
+inturn destroy itself and the world, for there can never be good with
+out evil, and without either one there can never be.
+~
+S
+#4928
+Before an Empty Throne~
+An empty Throne Dominates this part of the Cavern. On both one side is a
+glowing clear orb, the other a glowing black orb. Each orb symbolizing
+Good and Evil. The glow of the Black orb seems to be a little more intense,
+but now the clear orb seems more intense. A stillness hangs about the room,
+and the feeling you are being watched is even greater.
+~
+64 40 4 0
+0 0 0 0
+0 1 -10
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4931
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4929
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4927
+E
+wall picture~
+The picture depicts the constant battle between the forces of good and evil
+for absloute controll. The irony is that the storyline of the picture goes
+on to reveil that if ever one should destroy the other that force would
+inturn destroy itself and the world, for there can never be good with
+out evil, and without either one there can never be.
+~
+S
+#4929
+In a Torch lit Cavern~
+You wander around looking at the pictures drawn on the walls here. An feeling
+that you are being watched overtakes you. Looking around you don't notice
+anything strange, but you wouln't would you? Its probably nothing you say as
+you continue looking at the walls.
+~
+64 40 4 0
+0 0 0 0
+0 1 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4928
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4930
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4926
+E
+wall picture~
+The picture depicts the constant battle between the forces of good and evil
+for absloute controll. The irony is that the storyline of the picture goes
+on to reveil that if ever one should destroy the other that force would
+inturn destroy itself and the world, for there can never be good with
+out evil, and without either one there can never be.
+~
+S
+#4930
+In a Torch lit Cavern~
+You wander around looking at the pictures drawn on the walls here. An feeling
+that you are being watched overtakes you. Looking around you don't notice
+anything strange, but you wouln't would you? Its probably nothing you say as
+you continue looking at the walls.
+~
+64 40 4 0
+0 0 0 0
+0 1 -10
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4931
+D2
+ ~
+vein rock~
+ ~
+ ~
+1 6404 4891
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4929
+E
+wall picture~
+The picture depicts the constant battle between the forces of good and evil
+for absloute controll. The irony is that the storyline of the picture goes
+on to reveil that if ever one should destroy the other that force would
+inturn destroy itself and the world, for there can never be good with
+out evil, and without either one there can never be.
+~
+S
+#4931
+In a Torch lit Cavern~
+You wander around looking at the pictures drawn on the walls here. An feeling
+that you are being watched overtakes you. Looking around you don't notice
+anything strange, but you wouln't would you? Its probably nothing you say as
+you continue looking at the walls.
+~
+64 40 4 0
+0 0 0 0
+0 1 -10
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4930
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4928
+E
+wall picture~
+The picture depicts the constant battle between the forces of good and evil
+for absloute controll. The irony is that the storyline of the picture goes
+on to reveil that if ever one should destroy the other that force would
+inturn destroy itself and the world, for there can never be good with
+out evil, and without either one there can never be.
+~
+S
+#4933
+A Spiraling Staircase~
+There is a staircase carved into the rock here. Perfectly made steps spiral
+around a central column as they ascend and decend into the darkness. Small
+roots hang along the wall, and even some have cracked the wall in a few
+places.
+~
+64 40 4 0
+0 0 0 0
+30 1 -10
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 4970
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 4867
+S
+#4934
+A Spiraling Staircase~
+You are climbing a staircase carved out of rock. Perfectly made steps spiral
+around a central comumn as they ascend and decen into the darkness. Small
+roots hang along the wall, and some have cracked the wall in quite a few
+places. Some of the larger holes have been patched by amall rocks held
+togehter by some bonding mixture.
+~
+64 40 4 0
+0 0 0 0
+35 1 -10
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 4935
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 4970
+S
+#4935
+Atop a Spiraling Staircase~
+You stand atop a staircase carved completely out of the rock of the island.
+The stairs have come to an end in a small room whose walls are completly made
+of small rocks held together by some bonding mixture. A smaller staircase
+leads upward to what appers to be a hollow stump whose roots, along with the
+rocks, make up the celing of this small chamber.
+~
+64 44 4 0
+0 0 0 0
+40 1 -10
+D4
+An old, hollow stump
+~
+stump~
+ ~
+ ~
+1 -1 4969
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 4934
+S
+#4969
+In a field of Golden Grasses ~
+A rather large stump dominates the landscape. The only remainder of a tree of
+gigantic proportions it sits here awaiting some tired soul to rest upon it.
+Its roots have sucked the very life from the soil, making this the only spot
+where the grass does not dominate.
+~
+64 32 2 0
+0 0 0 0
+0 1 -10
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4984
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4972
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4998
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4986
+D5
+An old Stump
+~
+stump~
+ ~
+ ~
+1 -1 4935
+S
+#4970
+A Spiraling Staircase~
+There is a staircase carved into the rock here. Perfectly made steps spiral
+around a central column as they ascend and decend into the darkness. Small
+roots hang along the wall, and even some have cracked the wall in a few
+places.
+~
+64 40 4 0
+0 0 0 0
+30 1 -10
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 4934
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 4933
+S
+#4971
+In a Bank of Fog~
+You are engulphed in a bank of fog that seems to have come out of nowhere.
+You sense a slight eletrical charge in the air as you recieve a shock from
+your armor. A faint horn blows in the distance.
+~
+64 33 7 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4751
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4750
+S
+#4972
+In a field of Golden Grasses ~
+Giant stalks of golden grass grow here, hiding all that dwell within it. You
+think it is strange how the grass lifts itself back up to its position after
+you step off of it, almost as if you were never here. Quickly you turn your
+head to try and see what was causing that rustling noise you just heard, but
+the grass protects its secrets.
+~
+64 32 2 0
+0 0 0 0
+0 1 -10
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4982
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4973
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4969
+S
+#4973
+In a field of Golden Grasses ~
+Giant stalks of golden grass grow here, hiding all that dwell within it. You
+think it is strange how the grass lifts itself back up to its position after
+you step off of it, almost as if you were never here. Quickly you turn your
+head to try and see what was causing that rustling noise you just heard, but
+the grass protects its secrets.
+~
+64 32 2 0
+0 0 0 0
+0 1 -10
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4980
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4974
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4972
+S
+#4974
+In a field of Golden Grasses ~
+Giant stalks of golden grass grow here, hiding all that dwell within it. You
+think it is strange how the grass lifts itself back up to its position after
+you step off of it, almost as if you were never here. Quickly you turn your
+head to try and see what was causing that rustling noise you just heard, but
+the grass protects its secrets.
+~
+64 32 2 0
+0 0 0 0
+0 1 -10
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4978
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4975
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4973
+S
+#4975
+On a narrow strip ~
+You stand on a narrow 3 ook wide strip of rock that Protrudes out from the
+main island to form a bay to the west. Due to your carelessness you nearly
+fall to your instant demise because of a loose rock that you decided to place
+your trust in (not to mention all of your body's weight too).
+~
+64 32 2 0
+0 0 0 0
+0 1 -10
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4974
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4976
+S
+#4976
+On a narrow strip ~
+You stand on a narrow 3 ook wide strip of rock that Protrudes out from the
+main island to form a bay to the west. Due to your carelessness you nearly
+fall to your instant demise because of a loose rock that you decided to place
+your trust in (not to mention all of your body's weight too).
+~
+64 32 2 0
+0 0 0 0
+0 1 -10
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4975
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4977
+S
+#4977
+On a narrow strip ~
+The narrow strip of land comes to an end not much further south from here. The
+rocks seem to be looser here then behind you. You wisely decide to give up this
+avenue of exploration.
+~
+64 40 2 0
+0 0 0 0
+0 1 -10
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4976
+S
+#4978
+In a field of Golden Grasses ~
+Giant stalks of golden grass grow here, hiding all that dwell within it. You
+think it is strange how the grass lifts itself back up to its position after
+you step off of it, almost as if you were never here. Quickly you turn your
+head to try and see what was causing that rustling noise you just heard, but
+the grass protects its secrets.
+~
+64 40 2 0
+0 0 0 0
+0 1 -10
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4979
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4974
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4980
+S
+#4979
+At a rat hole ~
+As soon as it sees you coming, a small rat like creature runs into a hold
+made by some large boulders that are one atop another. You are shocked by a
+loud, almost aggressive clicking sound coming from within the hole, probably
+the little bugger trying to frighten you off by clicking its teeth together.
+Still you persist by bundling a group of the golden grasses together and
+taunting it by shoving the grass into the hole. You get the idea that it
+means business from the teeth marks on the remainder of the grass ends.
+~
+64 32 4 0
+0 0 0 0
+0 1 -10
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4978
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4981
+S
+#4980
+In a field of Golden Grasses ~
+Giant stalks of golden grass grow here, hiding all that dwell within it. You
+think it is strange how the grass lifts itself back up to its position after
+you step off of it, almost as if you were never here. Quickly you turn your
+head to try and see what was causing that rustling noise you just heard, but
+the grass protects its secrets.
+~
+64 32 2 0
+0 0 0 0
+0 1 -10
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4981
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4978
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4973
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4982
+S
+#4981
+In a field of Golden Grasses ~
+Giant stalks of golden grass grow here, hiding all that dwell within it. You
+think it is strange how the grass lifts itself back up to its position after
+you step off of it, almost as if you were never here. Quickly you turn your
+head to try and see what was causing that rustling noise you just heard, but
+the grass protects its secrets.
+~
+64 40 2 0
+0 0 0 0
+0 1 -10
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4979
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4980
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4983
+S
+#4982
+In a field of Golden Grasses ~
+Giant stalks of golden grass grow here, hiding all that dwell within it. You
+think it is strange how the grass lifts itself back up to its position after
+you step off of it, almost as if you were never here. Quickly you turn your
+head to try and see what was causing that rustling noise you just heard, but
+the grass protects its secrets.
+~
+64 40 2 0
+0 0 0 0
+0 1 -10
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4983
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4980
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4972
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4984
+S
+#4983
+In a field of Golden Grasses ~
+Giant stalks of golden grass grow here, hiding all that dwell within it. You
+think it is strange how the grass lifts itself back up to its position after
+you step off of it, almost as if you were never here. Quickly you turn your
+head to try and see what was causing that rustling noise you just heard, but
+the grass protects its secrets.
+~
+64 40 2 0
+0 0 0 0
+0 1 -10
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4981
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4982
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4985
+S
+#4984
+In a field of Golden Grasses ~
+Giant stalks of golden grass grow here, hiding all that dwell within it. You
+think it is strange how the grass lifts itself back up to its position after
+you step off of it, almost as if you were never here. Quickly you turn your
+head to try and see what was causing that rustling noise you just heard, but
+the grass protects its secrets.
+~
+64 32 2 0
+0 0 0 0
+0 1 -10
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4985
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4982
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4969
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4987
+S
+#4985
+In a field of Golden Grasses ~
+Giant stalks of golden grass grow here, hiding all that dwell within it. You
+think it is strange how the grass lifts itself back up to its position after
+you step off of it, almost as if you were never here. Quickly you turn your
+head to try and see what was causing that rustling noise you just heard, but
+the grass protects its secrets.
+~
+64 32 2 0
+0 0 0 0
+0 1 -10
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4983
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4984
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4988
+S
+#4986
+Before a Thorn Patch ~
+South of you is a patch of dense thorns. Growing amongst the thorns are
+delicate flowers that give off the most wonderful floral scent. Diverting
+your attention, you focus on a rustling sound that came from within the grass
+to the south.
+~
+64 32 2 0
+0 0 0 0
+0 1 -10
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4987
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4969
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4989
+S
+#4987
+in a field of Golden Grasses ~
+Giant stalks of golden grass grow here, hiding all that dwell within it. You
+think it is strange how the grass lifts itself back up to its position after
+you step off of it, almost as if you were never here. Quickly you turn your
+head to try and see what was causing that rustling noise you just heard, but
+the grass protects its secrets.
+~
+64 32 2 0
+0 0 0 0
+0 1 -10
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4988
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4984
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4986
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4990
+S
+#4988
+In a field of Golden Grasses ~
+Giant stalks of golden grass grow here, hiding all that dwell within it. You
+think it is strange how the grass lifts itself back up to its position after
+you step off of it, almost as if you were never here. Quickly you turn your
+head to try and see what was causing that rustling noise you just heard, but
+the grass protects its secrets.
+~
+64 32 2 0
+0 0 0 0
+0 1 -10
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4985
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4987
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4991
+S
+#4989
+Before a Thorn Patch ~
+South of you is a patch of dense thorns. Growing amongst the thorns are
+delicate flowers that give off the most wonderful floral scent. Diverting
+your attention, you focus on a rustling sound that came from within the grass
+to the south.
+~
+64 32 2 0
+0 0 0 0
+0 1 -10
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4990
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4986
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4992
+S
+#4990
+In a field of Golden Grasses ~
+Giant stalks of golden grass grow here, hiding all that dwell within it. You
+think it is strange how the grass lifts itself back up to its position after
+you step off of it, almost as if you were never here. Quickly you turn your
+head to try and see what was causing that rustling noise you just heard, but
+the grass protects its secrets.
+~
+64 32 2 0
+0 0 0 0
+0 1 -10
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4991
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4987
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4989
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4993
+S
+#4991
+In a field of Golden Grasses ~
+Giant stalks of golden grass grow here, hiding all that dwell within it. You
+think it is strange how the grass lifts itself back up to its position after
+you step off of it, almost as if you were never here. Quickly you turn your
+head to try and see what was causing that rustling noise you just heard, but
+the grass protects its secrets.
+~
+64 32 2 0
+0 0 0 0
+0 1 -10
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4988
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4990
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4994
+S
+#4992
+Before a Thorn Patch ~
+South of you is a patch of dense thorns. Growing amongst the thorns are
+delicate flowers that give off the most wonderful floral scent. Diverting
+your attention, you focus on a rustling sound that came from within the grass
+to the south.
+~
+64 32 2 0
+0 0 0 0
+0 1 -10
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4993
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4989
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4995
+S
+#4993
+In a field of Golden Grasses ~
+Giant stalks of golden grass grow here, hiding all that dwell within it. You
+think it is strange how the grass lifts itself back up to its position after
+you step off of it, almost as if you were never here. Quickly you turn your
+head to try and see what was causing that rustling noise you just heard, but
+the grass protects its secrets.
+~
+64 32 4 0
+0 0 0 0
+0 1 -10
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4994
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4990
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4992
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4996
+S
+#4994
+In a field of Golden Grasses ~
+Giant stalks of golden grass grow here, hiding all that dwell within it. You
+think it is strange how the grass lifts itself back up to its position after
+you step off of it, almost as if you were never here. Quickly you turn your
+head to try and see what was causing that rustling noise you just heard, but
+the grass protects its secrets.
+~
+64 32 2 0
+0 0 0 0
+0 1 -10
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4991
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4993
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4997
+S
+#4995
+Before a Thorn Patch ~
+Looking over the cliff to the west, you are over come by an intense fear as
+you contemplate the fall ahead of you were you to accidentaly slip (or be
+pushed) to your death. South is a dense patch of thorns.
+~
+64 32 2 0
+0 0 0 0
+0 1 -10
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4996
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4992
+E
+thorns patch~
+Attempting to see further into the patch you use your weapon on the briers to
+no avail. They seem to be inpenatrable. In amoungst the "Steel Thorns" are
+delicate little flowers.
+~
+E
+flowers ~
+Delicate red pettals make up the most of the flowers with berries growing at
+the base of every plant. Reaching down to pick a small fower for closer
+inspection your hands gently brush one of the thorns, tearing your flesh
+and allowing small droples stain the dirt. Sensing food the flower plant
+breaks the soil as one of its roots absorb the droplets.
+~
+S
+#4996
+In a field of Golden Grasses ~
+Giant stalks of golden grass grow here, hiding all that dwell within it. You
+think it is strange how the grass lifts itself back up to its position after
+you step off of it, almost as if you were never here. Quickly you turn your
+head to try and see what was causing that rustling noise you just heard, but
+the grass protects its secrets.
+~
+64 32 2 0
+0 0 0 0
+0 1 -10
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4997
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4993
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4995
+S
+#4997
+In a field of Golden Grasses ~
+Giant stalks of golden grass grow here, hiding all that dwell within it. You
+think it is strange how the grass lifts itself back up to its position after
+you step off of it, almost as if you were never here. Quickly you turn your
+head to try and see what was causing that rustling noise you just heard, but
+the grass protects its secrets.
+~
+64 32 2 0
+0 0 0 0
+0 1 -10
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4994
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4996
+S
+#4998
+A field of golden grass ~
+You can just barely make out a path from an outline of a few stones that
+seem to be arranged in 2 semi-parallel rows. The golden grass grows up from
+between stones, effectively hiding the path. You are prevented form going
+westward by a thick thorn patch and to the east by a sheer drop.
+~
+64 36 4 0
+0 0 0 0
+0 1 -10
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4969
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4999
+S
+#4999
+On a Pebble Path ~
+The path is now completely made up of little pebbles and is clear of any
+grass that may try to grow between the pebbles. The Grasses are cut back to
+ankle height on both sides of the path. You hear voices coming from within
+what seems to be  a hut constructed from the stalks of the dried grass.
+~
+64 36 4 0
+0 0 0 0
+0 1 -10
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4998
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5000
+S
+#5000
+An intersection in a pebble path ~
+You stand at an intersection of a pebble path. Northward is a untamed field of
+golden grasses, To the west is a busy square, and to the South is a covered
+walkway, sloping up into a Grass- enclosed platform.
+~
+64 32 4 0
+0 0 0 0
+0 1 -10
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4999
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5001
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5007
+S
+#5001
+Entrance to the Community hut ~
+Crude beds of grass line the walls, making perfect homes for multitudes of
+annoying insects. Stench of human waste fills your nostrils from beneath the
+floor. You look down on their filth with disgust, even though you haven't had
+a bath since you wee seventeen.
+~
+64 40 4 0
+0 0 0 0
+0 1 -10
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5000
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5069
+S
+#5002
+The community hut ~
+Crude beds of grass line the walls, making perfect homes for multitudes of
+annoying insects. From beneath the floorboards a stench of waste rises up
+to unsult your nostrils. You look down on their filth with disgust, even though
+you haven't had a bath since you were seventeen. The walls are lined with the
+the posessions of the occupents of this part of the hut. Beautiful cloth of
+of many colors, bows, arrows, bowls stained by primitive paints -- the only
+posessions of these simple people.
+~
+64 40 4 0
+0 0 0 0
+0 1 -10
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5069
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5003
+S
+#5003
+The community hut ~
+Crude beds of grass line the walls, making perfect homes for multitudes of
+annoying insects. From beneath the floorboards a stench of waste rises up
+to unsult your nostrils. You look down on their filth with disgust, even though
+you haven't had a bath since you were seventeen. The walls are lined with the
+the posessions of the occupents of this part of the hut. Beautiful cloth of
+of many colors, bows, arrows, bowls stained by primitive paints -- the only
+posessions of these simple people.
+~
+64 40 4 0
+0 0 0 0
+0 1 -10
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5002
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5004
+D5
+ ~
+floor~
+$n climbs down, out of the hut.~
+$n climbs down from the hut.~
+1 -1 5709
+S
+#5004
+The community hut ~
+Crude beds of grass line the walls, making perfect homes for multitudes of
+annoying insects. From beneath the floorboards a stench of waste rises up
+to unsult your nostrils. You look down on their filth with disgust, even though
+you haven't had a bath since you were seventeen. The walls are lined with the
+the posessions of the occupents of this part of the hut. Beautiful cloth of
+of many colors, bows, arrows, bowls stained by primitive paints -- the only
+posessions of these simple people.
+~
+64 40 4 0
+0 0 0 0
+0 1 -10
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5005
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5003
+S
+#5005
+The comunity hut ~
+Crude beds of grass line the walls, making perfect homes for multitudes of
+annoying insects. From beneath the floorboards a stench of waste rises up
+to unsult your nostrils. You look down on their filth with disgust, even though
+you haven't had a bath since you were seventeen. The walls are lined with the
+the posessions of the occupents of this part of the hut. Beautiful cloth of
+of many colors, bows, arrows, bowls stained by primitive paints -- the only
+posessions of these simple people.
+~
+64 40 4 0
+0 0 0 0
+0 1 -10
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5059
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5004
+S
+#5006
+An intersection in a pebble path ~
+You stand on an intersection of the pebble path. The path continues to the
+north, east and west. To the south is an entrance to a large community hut
+made completely out of the dried grasses.
+~
+64 32 4 0
+0 0 0 0
+0 1 -10
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5046
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5007
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5059
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5060
+S
+#5007
+Village Square ~
+You stand in the center of activity in this small village. Villagers wander
+about you, most going to the well to the south. The pebble path widens here
+to make up the entire square. In the center of the Square is a mosaic of some
+sort, what it is of you can't readily tell. It seems to be made for someone
+looking down on the village to see.
+~
+64 32 4 0
+0 0 0 0
+0 1 -10
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5045
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5000
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5008
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5006
+S
+#5008
+At a Well~
+A large well dominates this area off of the main square. Busily women come
+to the well, draw water, and hustle off on their way without noticing your
+presence except for the occasional push or shove.
+~
+64 32 4 0
+0 0 0 0
+0 1 -10
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5007
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5068
+E
+well~
+You notice nothing special about the well other than the bucket is raised and
+lowered by an extremely long rope. Suddenly you hear the scream of a fellow
+adventured in the well. Your skin crawls as you continue to listen to his calls
+for help fade as he falls. A clunk comes from behind you, you turn and notice
+a woman pulling a striders blade out of her water container and tossing it back
+into the well as if it were a common practice.
+~
+S
+#5045
+In the Priest's Hut ~
+You stand in the home of the village high priest. The hut is sparsely furnished
+with only a crude table and a strange wine-rack like shelf that lines every
+free wall. Atop the shelf is open a scroll of some sort. The room over all has
+a simple feel, simpler than this small village.
+~
+64 8 4 0
+0 0 0 0
+0 1 -10
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5007
+E
+scroll~
+Seems to be just another religous scroll depicting the villagers as being
+the best thing since sliced bread.
+~
+S
+#5046
+On a Pebble Path ~
+You are traveling on a north south pebble path. To the south is a intersection
+in the pebble path, to the East is the hut and kitchen of the royal cook.
+~
+64 32 4 0
+0 0 0 0
+0 1 -10
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5051
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5006
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5049
+S
+#5049
+The hut of the Royal Chef~
+The walls are lined with assorted pots and pans. One spot in piritcular
+has the outline of a pan where it protected the crude walls from the smudge
+from the fire. Bags of flour and other assorted vegtables lie aginst
+the walls and floors. A small cot is made in the corner. Seems the chef
+who calls this his kitchen also calls this home.
+~
+64 40 4 0
+0 0 0 0
+0 1 -10
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5046
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5050
+S
+#5050
+The Royal Garden ~
+The air if filled with the scent of fresh vegetables. Gigantic squash, wild
+onions, tomatoes, lettuce, and many other delicious vegetables grow here
+all year long. The plants are laid out in a systematic, yet in a pleasing
+manner. A fountain feeds a steady stream of water to all the plants while
+numerous lady-bugs keep insects away.
+~
+64 32 4 0
+0 0 0 0
+0 1 -10
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5054
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5049
+S
+#5051
+On a Pebble Path ~
+You are at a turn in a pebble path. The path continues to the west and to the
+south. There is a Royal Guard hut to the east.
+~
+64 32 4 0
+0 0 0 0
+0 1 -10
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5053
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5046
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5052
+S
+#5052
+On a Pebble Path ~
+You stand before the royal Hut. It is unlike any other of the huts, it is
+carved out from an extended growh of the huge Thorn bush that grows to the
+north. The needle sharp thorns are quite an awesome barrier to protect the
+chiefton from any unwelcome visitors.
+~
+64 32 4 0
+0 0 0 0
+0 1 -10
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5051
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5054
+S
+#5053
+The Hut of the Royal Guard ~
+Hammocks are neatly hung from posts to make bed for the Chiefton's Guard.
+Weapons line the walls, ranging from the simple sword to weapons not yet
+understood by modern weaponsmiths. You jump as a sleeping guard stirs in
+his sleep. Strange you hadn't noticed him until he moved. They are well
+trained in many skills you assume from his stealth in such a unprotected
+position.
+~
+64 40 4 0
+0 0 0 0
+0 1 -10
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5051
+S
+#5054
+The Royal Hut ~
+The inside of the Chiefton's hut is a mixture of nature and royal extravagance.
+The thorns on the Thorn bush that make up the entire hut give the room a
+natural air. The royal splendor makes it a little awe inspiring. In a Throne
+supported by the Thorn vines the chiefton sits controlling the state and his
+next menu, while his guard keep watch for any assasians. An exit to the south
+leads to the royal garden where the king's meals origanate, and to the east is
+a pebble path leading away from the chiefton.
+~
+64 40 4 0
+0 0 0 0
+0 1 -10
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5052
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5050
+S
+#5055
+Climbing Up Pure-Marble Stairs ~
+You stand on a staircase made of only the finest and purest marble in all the
+land. Perfectly equal stairs lead upward to a temple reaching tword the sky.
+Carved into the face of each step is the story of the creation of medievia and
+especially. The villagers depict themselves as being the chosen people, the
+preferred ones of the gods, except the god of evil, horror, and pain.
+~
+64 32 4 0
+0 0 0 0
+15 1 -10
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5060
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5056
+S
+#5056
+Inside a Temple ~
+You stand beneath a dome of marble, with small veins of colored jewel placed
+in it to create beams of colored light. Although the dome is supported by
+perfectly white columns it seems to be flying unsupported because of the
+blinding light from the outside streaming in. To the north is an alter and to
+the east is a staircase leading downward.
+~
+64 8 4 0
+0 0 0 0
+0 1 -10
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5058
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5055
+S
+#5058
+At the Altar of the Great One~
+Before you is an altar of marble. Behind it is a statue of the god of the
+villagers, the only name he has is The Great one. In the arms of the Great
+one is a Glowing orb that could symbolize the world he created -- Medievia.
+Surrounding him are beings of various sizes that seem to be concentrating on
+orb in the arms of The Great One. Cast beneath him is a figure representing
+all that is evil, grotesque and sickly. Placed in his arms is a piece of
+animal fecal matter, around which the servants of the Lord of the Flies swarm.
+~
+64 8 6 0
+0 0 0 0
+0 1 -10
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5056
+S
+#5059
+The Entrance to The Community Hut ~
+Crude beds of grass line the walls, making perfect homes for multitudes of
+annoying insects. From beneath the floorboards a stench of waste rises up
+to unsult your nostrils. You look down on their filth with disgust, even though
+you haven't had a bath since you were seventeen. The walls are lined with the
+the posessions of the occupents of this part of the hut. Beautiful cloth of
+of many colors, bows, arrows, bowls stained by primitive paints -- the only
+posessions of these simple people.
+~
+64 40 4 0
+0 0 0 0
+0 1 -10
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5006
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5005
+S
+#5060
+On a pebble path before a magnificent temple ~
+To the west is a pure-marble staircase leading up to a beautiful white temple.
+Looking down, the pebble path looks almost ugly compared to the beauty you can
+see even at this distance. South of you is the village healer's hut.
+~
+64 32 4 0
+0 0 0 0
+0 1 -10
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5006
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5061
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5055
+S
+#5061
+The Healer's Hut ~
+The walls of this hut are lines by shelcs of bottles of dried herbs marked
+by symbols unknown to you. Upon a table lie volumes of books, some open to
+pictures of some plants probably describing their use and effect on the
+body. A pot boils in the corner with a bag of some leaves dangling from a
+hook into it.
+~
+64 8 4 0
+0 0 0 0
+0 1 -10
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5060
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5070
+S
+#5068
+South of Well ~
+A well is the center of activity to the north. The natives stare at you from
+the well in a mixture of fear and disgust. A plain cloth hangs down from a
+rather large to the south. You feel something wet atop your head and look up
+to see a native male spiting on your head. THEY WILL PAY!
+~
+64 32 4 0
+0 0 0 0
+0 1 -10
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5008
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5709
+S
+#5069
+The community hut ~
+Crude beds of grass line the walls, making perfect homes for multitudes of
+annoying insects. From beneath the floorboards a stench of waste rises up
+to unsult your nostrils. You look down on their filth with disgust, even though
+you haven't had a bath since you were seventeen. The walls are lined with the
+the posessions of the occupents of this part of the hut. Beautiful cloth of
+of many colors, bows, arrows, bowls stained by primitive paints -- the only
+posessions of these simple people.
+~
+64 40 4 0
+0 0 0 0
+0 1 -10
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5001
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5002
+S
+#5070
+A herbal Garden ~
+This is the garden of the village healer. From the herbs here he creates, from
+ancient myth, medicine, which he clams will cure the ills of many of the
+villagers. Beautiful and exotic plants grow here, tended by his caring hands.
+Snipping leaves from his precious plants he then drops them in his basket for
+later processing.
+~
+64 32 4 0
+0 0 0 0
+0 1 -10
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5061
+S
+#5071
+In a Bank of Fog~
+You are engulphed in a bank of fog that seems to have come out of nowhere.
+You sense a slight electrical charge in the air, as you receive a shock from
+your armor. A faint horn blows in the distance.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4525
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5072
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4526
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4753
+S
+#5072
+In a Bank of Fog~
+You are engulphed in a bank of fog that seems to have come out of nowhere.
+You sense a slight electrical charge in the air, as you receive a shock from
+your armor. A faint horn blows in the distance.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4657
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5073
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4656
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5071
+S
+#5073
+By a cliffside~
+You are engulphed in a bank of fog. A cliffside is to the north and east.
+This funnel-like spot has to be the most dangerous place to be. You have to
+rest, its just to hard to simply go on further. Small fish are killed
+instantly as they are crused from the blow of the watter crashing into the
+solid rock walls.
+~
+64 32 7 0
+0 0 0 0
+40 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4652
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4529
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5072
+S
+#5074
+East of a Cliffside~
+You stand eas of what seems to be a never ending cliffside. Small critters
+crawl in and out of the cracks in the rocks.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4667
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5075
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4666
+S
+#5075
+In a Bank of Fog~
+You are engulphed in a bank of fog. The horn is becoming louder as you head
+further north. Small fish jump over your feet, one actually jumps up and
+bites your toe. It would be rather funny except that it has small sharp
+teeth, which it uses to tear into your flesh.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4672
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5076
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4671
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5074
+S
+#5076
+North East of a Bay~
+You are engulphed in a bank of fog. The horn seems to be coming from a North,
+North-easternly direction. Small fish jump over your feet, one actually jumps
+up and bites your toe, The one with the ingrown toenail. You take delight in
+punishing the fish by repeatadly slamming in into your armor.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4734
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5077
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4733
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5075
+S
+#5077
+In a Bank of Fog~
+You are engulphed in a bank of fog that seems to be thining out twords the
+east. Small fish quickly swim in fright as you approach them, except for one.
+Strange, you don't remember ever seeing a 3 eyed fish, excpt the one in the
+other room. Humph, Must be one of those fancy new three mile island versions.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4737
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4743
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4736
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5076
+S
+#5709
+Beneth the community hut ~
+You stand in piles of human fecal matter. Seems this is the community bathroom.
+Swarms of flies buzz about carrying their disease with them. The Odor is almost
+unbearable, heck it IS unbearable. YOu start to feel Wheezy, a knot in your
+stomach develops and starts making its way up your throat. *WHARF*
+*GAG* *COUGH*
+After loosing your lunch you feel as thought you won't want a lunch in a long
+while.
+~
+64 40 4 0
+0 0 0 0
+0 1 -10
+D0
+You have an urge to get out of here pronto!
+~
+blanket cloth~
+$n has finally had enough of this filth so $e leaves tword the well.~
+$n quickly runs to the bushes and lets out a mighty hurle~
+1 -1 5068
+D4
+ ~
+floor~
+$n climbs upto the hut.~
+$n climbs up into the hut.~
+1 -1 5003
+S
+#5886
+On Lake Contnea ~
+You wander the lake with little idea where you are going, let alone where you
+are. Small fish swim around your feat splashing little droplets of water on
+your feet. You have a nagging feeling that you are running around in a
+wheel, getting nowhere fast.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4743
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5888
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5887
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5891
+S
+#5887
+On Lake Contnea~
+You wander the lake with little idea where you are going, let alone where you
+are. Small fish swim around your feat splashing little droplets of water on
+your feet. You have a nagging feeling that you are running around in a
+wheel, getting nowhere fast.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5886
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5888
+S
+#5888
+On Lake Contnea~
+You wander the lake with little idea where you are going, let alone where you
+are. Small fish swim around your feat splashing little droplets of water on
+your feet. You have a nagging feeling that you are running around in a
+wheel, getting nowhere fast.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5887
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5889
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5891
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5886
+S
+#5889
+On Lake Contnea~
+You wander the lake with little idea where you are going, let alone where you
+are. Small fish swim around your feat splashing little droplets of water on
+your feet. You have a nagging feeling that you are running around in a
+wheel, getting nowhere fast.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5890
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5890
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5888
+S
+#5890
+On Lake Contnea~
+You wander the lake with little idea where you are going, let alone where you
+are. Small fish swim around your feat splashing little droplets of water on
+your feet. You have a nagging feeling that you are running around in a
+wheel, getting nowhere fast.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5892
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5889
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5889
+S
+#5891
+On Lake Contnea~
+You wander the lake with little idea where you are going, let alone where you
+are. Small fish swim around your feat splashing little droplets of water on
+your feet. You have a nagging feeling that you are running around in a
+wheel, getting nowhere fast.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5888
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5886
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5929
+S
+#5892
+On Lake Contnea~
+You wander the lake with little idea where you are going, let alone where you
+are. Small fish swim around your feat splashing little droplets of water on
+your feet. You have a nagging feeling that you are running around in a
+wheel, getting nowhere fast.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5928
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5893
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5890
+S
+#5893
+On Lake Contnea~
+You wander the lake with little idea where you are going, let alone where you
+are. Small fish swim around your feat splashing little droplets of water on
+your feet. You have a nagging feeling that you are running around in a
+wheel, getting nowhere fast.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5894
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5892
+S
+#5894
+On Lake Contnea~
+You wander the lake with little idea where you are going, let alone where you
+are. Small fish swim around your feat splashing little droplets of water on
+your feet. You have a nagging feeling that you are running around in a
+wheel, getting nowhere fast.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5927
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5893
+S
+#5895
+On Lake Contnea~
+You wander the lake with little idea where you are going, let alone where you
+are. Small fish swim around your feat splashing little droplets of water on
+your feet. You have a nagging feeling that you are running around in a
+wheel, getting nowhere fast.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5896
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5894
+S
+#5896
+On Lake Contnea~
+You wander the lake with little idea where you are going, let alone where you
+are. Small fish swim around your feat splashing little droplets of water on
+your feet. You have a nagging feeling that you are running around in a
+wheel, getting nowhere fast.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5898
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5897
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5895
+S
+#5897
+On Lake Contnea~
+You wander the lake with little idea where you are going, let alone where you
+are. Small fish swim around your feat splashing little droplets of water on
+your feet. You have a nagging feeling that you are running around in a
+wheel, getting nowhere fast.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5896
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5910
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5898
+S
+#5898
+On Lake Contnea~
+You wander the lake with little idea where you are going, let alone where you
+are. Small fish swim around your feat splashing little droplets of water on
+your feet. You have a nagging feeling that you are running around in a
+wheel, getting nowhere fast.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5897
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5899
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5896
+S
+#5899
+On Lake Contnea~
+You wander the lake with little idea where you are going, let alone where you
+are. Small fish swim around your feat splashing little droplets of water on
+your feet. You have a nagging feeling that you are running around in a
+wheel, getting nowhere fast.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5910
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5902
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5898
+S
+#5900
+On Lake Contnea~
+You wander the lake with little idea where you are going, let alone where you
+are. Small fish swim around your feat splashing little droplets of water on
+your feet. You have a nagging feeling that you are running around in a
+wheel, getting nowhere fast.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5901
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5894
+S
+#5901
+On Lake Contnea~
+You wander the lake with little idea where you are going, let alone where you
+are. Small fish swim around your feat splashing little droplets of water on
+your feet. You have a nagging feeling that you are running around in a
+wheel, getting nowhere fast.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5904
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5900
+S
+#5902
+On Lake Contnea~
+You wander the lake with little idea where you are going, let alone where you
+are. Small fish swim around your feat splashing little droplets of water on
+your feet. You have a nagging feeling that you are running around in a
+wheel, getting nowhere fast.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5899
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5903
+S
+#5903
+On Lake Contnea~
+You wander the lake with little idea where you are going, let alone where you
+are. Small fish swim around your feat splashing little droplets of water on
+your feet. You have a nagging feeling that you are running around in a
+wheel, getting nowhere fast.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5902
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5907
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5904
+S
+#5904
+On Lake Contnea~
+You wander the lake with little idea where you are going, let alone where you
+are. Small fish swim around your feat splashing little droplets of water on
+your feet. You have a nagging feeling that you are running around in a
+wheel, getting nowhere fast.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5903
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5917
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5901
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5905
+S
+#5905
+On Lake Contnea~
+You wander the lake with little idea where you are going, let alone where you
+are. Small fish swim around your feat splashing little droplets of water on
+your feet. You have a nagging feeling that you are running around in a
+wheel, getting nowhere fast.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5923
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5904
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5906
+S
+#5906
+On Lake Contnea~
+You wander the lake with little idea where you are going, let alone where you
+are. Small fish swim around your feat splashing little droplets of water on
+your feet. You have a nagging feeling that you are running around in a
+wheel, getting nowhere fast.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5905
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5922
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5907
+S
+#5907
+On Lake Contnea~
+You wander the lake with little idea where you are going, let alone where you
+are. Small fish swim around your feat splashing little droplets of water on
+your feet. You have a nagging feeling that you are running around in a
+wheel, getting nowhere fast.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5921
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5906
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5908
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5934
+S
+#5908
+On Lake Contnea~
+You wander the lake with little idea where you are going, let alone where you
+are. Small fish swim around your feat splashing little droplets of water on
+your feet. You have a nagging feeling that you are running around in a
+wheel, getting nowhere fast.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5907
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5917
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5909
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5911
+S
+#5909
+On Lake Contnea~
+You wander the lake with little idea where you are going, let alone where you
+are. Small fish swim around your feat splashing little droplets of water on
+your feet. You have a nagging feeling that you are running around in a
+wheel, getting nowhere fast.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5908
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5910
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5934
+S
+#5910
+On Lake Contnea~
+You wander the lake with little idea where you are going, let alone where you
+are. Small fish swim around your feat splashing little droplets of water on
+your feet. You have a nagging feeling that you are running around in a
+wheel, getting nowhere fast.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5909
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5914
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5899
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5897
+S
+#5911
+On Lake Contnea~
+You wander the lake with little idea where you are going, let alone where you
+are. Small fish swim around your feat splashing little droplets of water on
+your feet. You have a nagging feeling that you are running around in a
+wheel, getting nowhere fast.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5908
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5912
+S
+#5912
+On Lake Contnea~
+You wander the lake with little idea where you are going, let alone where you
+are. Small fish swim around your feat splashing little droplets of water on
+your feet. You have a nagging feeling that you are running around in a
+wheel, getting nowhere fast.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5933
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5911
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5913
+S
+#5913
+On Lake Contnea~
+You wander the lake with little idea where you are going, let alone where you
+are. Small fish swim around your feat splashing little droplets of water on
+your feet. You have a nagging feeling that you are running around in a
+wheel, getting nowhere fast.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5930
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5912
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2374
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5922
+S
+#5914
+On Lake Contnea~
+You wander the lake with little idea where you are going, let alone where you
+are. Small fish swim around your feat splashing little droplets of water on
+your feet. You have a nagging feeling that you are running around in a
+wheel, getting nowhere fast.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5915
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5920
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5910
+S
+#5915
+On Lake Contnea~
+You wander the lake with little idea where you are going, let alone where you
+are. Small fish swim around your feat splashing little droplets of water on
+your feet. You have a nagging feeling that you are running around in a
+wheel, getting nowhere fast.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5922
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5916
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5916
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5914
+S
+#5916
+On Lake Contnea~
+You wander the lake with little idea where you are going, let alone where you
+are. Small fish swim around your feat splashing little droplets of water on
+your feet. You have a nagging feeling that you are running around in a
+wheel, getting nowhere fast.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5915
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5920
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5917
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5915
+S
+#5917
+On Lake Contnea~
+You wander the lake with little idea where you are going, let alone where you
+are. Small fish swim around your feat splashing little droplets of water on
+your feet. You have a nagging feeling that you are running around in a
+wheel, getting nowhere fast.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5916
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5938
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5918
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5904
+S
+#5918
+On Lake Contnea~
+You wander the lake with little idea where you are going, let alone where you
+are. Small fish swim around your feat splashing little droplets of water on
+your feet. You have a nagging feeling that you are running around in a
+wheel, getting nowhere fast.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5917
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5919
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5904
+S
+#5919
+On Lake Contnea~
+You wander the lake with little idea where you are going, let alone where you
+are. Small fish swim around your feat splashing little droplets of water on
+your feet. You have a nagging feeling that you are running around in a
+wheel, getting nowhere fast.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5918
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5925
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5924
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5923
+S
+#5920
+On Lake Contnea~
+You wander the lake with little idea where you are going, let alone where you
+are. Small fish swim around your feat splashing little droplets of water on
+your feet. You have a nagging feeling that you are running around in a
+wheel, getting nowhere fast.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5914
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5921
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5906
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5916
+S
+#5921
+On Lake Contnea~
+You wander the lake with little idea where you are going, let alone where you
+are. Small fish swim around your feat splashing little droplets of water on
+your feet. You have a nagging feeling that you are running around in a
+wheel, getting nowhere fast.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5939
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5922
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5907
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5920
+S
+#5922
+On Lake Contnea~
+You wander the lake with little idea where you are going, let alone where you
+are. Small fish swim around your feat splashing little droplets of water on
+your feet. You have a nagging feeling that you are running around in a
+wheel, getting nowhere fast.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5906
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5913
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5915
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5921
+S
+#5923
+On Lake Contnea~
+You wander the lake with little idea where you are going, let alone where you
+are. Small fish swim around your feat splashing little droplets of water on
+your feet. You have a nagging feeling that you are running around in a
+wheel, getting nowhere fast.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5919
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5905
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5924
+S
+#5924
+On Lake Contnea~
+You wander the lake with little idea where you are going, let alone where you
+are. Small fish swim around your feat splashing little droplets of water on
+your feet. You have a nagging feeling that you are running around in a
+wheel, getting nowhere fast.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5919
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5923
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5930
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5925
+S
+#5925
+On Lake Contnea~
+You wander the lake with little idea where you are going, let alone where you
+are. Small fish swim around your feat splashing little droplets of water on
+your feet. You have a nagging feeling that you are running around in a
+wheel, getting nowhere fast.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5931
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5924
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5926
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5919
+S
+#5926
+On Lake Contnea~
+You wander the lake with little idea where you are going, let alone where you
+are. Small fish swim around your feat splashing little droplets of water on
+your feet. You have a nagging feeling that you are running around in a
+wheel, getting nowhere fast.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5925
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5931
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5927
+S
+#5927
+On Lake Contnea~
+You wander the lake with little idea where you are going, let alone where you
+are. Small fish swim around your feat splashing little droplets of water on
+your feet. You have a nagging feeling that you are running around in a
+wheel, getting nowhere fast.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5926
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5928
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5894
+S
+#5928
+On Lake Contnea~
+You wander the lake with little idea where you are going, let alone where you
+are. Small fish swim around your feat splashing little droplets of water on
+your feet. You have a nagging feeling that you are running around in a
+wheel, getting nowhere fast.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5927
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5932
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5892
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5929
+S
+#5929
+On Lake Contnea~
+You wander the lake with little idea where you are going, let alone where you
+are. Small fish swim around your feat splashing little droplets of water on
+your feet. You have a nagging feeling that you are running around in a
+wheel, getting nowhere fast.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5891
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5928
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5930
+S
+#5930
+On Lake Contnea~
+You wander the lake with little idea where you are going, let alone where you
+are. Small fish swim around your feat splashing little droplets of water on
+your feet. You have a nagging feeling that you are running around in a
+wheel, getting nowhere fast.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5929
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5913
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5931
+S
+#5931
+On Lake Contnea~
+You wander the lake with little idea where you are going, let alone where you
+are. Small fish swim around your feat splashing little droplets of water on
+your feet. You have a nagging feeling that you are running around in a
+wheel, getting nowhere fast.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4483
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5930
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5926
+S
+#5932
+On Lake Contnea~
+You wander the lake with little idea where you are going, let alone where you
+are. Small fish swim around your feat splashing little droplets of water on
+your feet. You have a nagging feeling that you are running around in a
+wheel, getting nowhere fast.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5933
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5928
+S
+#5933
+On Lake Contnea~
+You wander the lake with little idea where you are going, let alone where you
+are. Small fish swim around your feat splashing little droplets of water on
+your feet. You have a nagging feeling that you are running around in a
+wheel, getting nowhere fast.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5934
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5912
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5932
+S
+#5934
+On Lake Contnea~
+You wander the lake with little idea where you are going, let alone where you
+are. Small fish swim around your feat splashing little droplets of water on
+your feet. You have a nagging feeling that you are running around in a
+wheel, getting nowhere fast.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5907
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5935
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5933
+S
+#5935
+On Lake Contnea~
+You wander the lake with little idea where you are going, let alone where you
+are. Small fish swim around your feat splashing little droplets of water on
+your feet. You have a nagging feeling that you are running around in a
+wheel, getting nowhere fast.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5934
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1583
+S
+#5936
+On the banks of Lake Contnea ~
+You stand on the south east shore of Lake Contnea. Little patches of green
+grass grow amoungst the rock that makes up the shoreline. The lake looks so
+beautiful from here, it almost seems as if it is calling you to it. You
+stumble as you loose your balance from an unstable rock. This would
+be a perfect place decend on the lake, if the jagged rock to the north were
+not there, blocking the way.
+~
+64 32 4 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1392
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5937
+S
+#5937
+On the banks of Lake Contnea ~
+You stand on the south east shore of Lake Contnea. Little patches of green
+grass grow amoungst the rock that makes up the shoreline. The lake looks so
+beautiful from here, it almost seems as if it is calling you to it. You
+stumble as you loose your balance from an unstable rock.
+~
+64 32 4 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5936
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1763
+S
+#5938
+On Lake Contnea~
+You wander the lake with little idea where you are going, let alone where you
+are. Small fish swim around your feat splashing little droplets of water on
+your feet. You have a nagging feeling that you are running around in a
+wheel, getting nowhere fast.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5939
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5917
+S
+#5939
+On Lake Contnea~
+You wander the lake with little idea where you are going, let alone where you
+are. Small fish swim around your feat splashing little droplets of water on
+your feet. You have a nagging feeling that you are running around in a
+wheel, getting nowhere fast.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5938
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5940
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5921
+S
+#5940
+On Lake Contnea~
+You wander the lake with little idea where you are going, let alone where you
+are. Small fish swim around your feat splashing little droplets of water on
+your feet. You have a nagging feeling that you are running around in a
+wheel, getting nowhere fast.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5941
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5939
+S
+#5941
+On Lake Contnea~
+You wander the lake with little idea where you are going, let alone where you
+are. Small fish swim around your feat splashing little droplets of water on
+your feet. You have a nagging feeling that you are running around in a
+wheel, getting nowhere fast.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2383
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5940
+S
+#6045
+East of a Cliff Face~
+You are engulphed in what seems like a never-ending bank of fog. To the west
+is a solid wall of rock, you guess granite, but of course you can and probably
+are wrong. At times you begin to wonder if you will ever find the way onto the
+island and if this isn't really a crule joke being plaied on you.
+~
+64 32 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4753
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4743
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4742
+S
+#6046
+On Lake Contnea~
+You wander aimlessly through endless amounts of water, the sun beating down
+on you mercilessly. Reminded of a poem you mumble "water, water everywhere,
+and not a drop to drink." The little fish taunt you by nibbling at your toes.
+~
+64 36 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4464
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4753
+S
+#19008
+On a small island on Lake Contnea~
+You stand on a small island somewhere on Lake Contnea. Small shrubbery
+grows from the cracks in the rocks. One Larrge rock dominates the island,
+with smaller, looser ones scattered about.
+~
+64 36 4 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4111
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4098
+D4
+a touch climb.
+~
+ ~
+$n carefuly slips down the rockface.~
+$n barely makes it up the face of the rock.~
+1 -1 4097
+E
+shrubbery~
+The plants are verry small, and look like they cling to life. It must be hard
+living on this desolit island.
+~
+S
+#19999
+$~

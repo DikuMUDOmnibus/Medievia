@@ -1,0 +1,8 @@
+/***************************************************************************
+* This program belongs to INTENSE Software, and contains trade secrets of  *
+* INTENSE Software.  The program and its contents are not to be disclosed  *
+* to or used by any person who has not received prior authorization from   *
+* INTENSE Software.  Any such disclosure or use may subject the violator   *
+* to civil and criminal penalties by law.                                  *
+***************************************************************************/
+

@@ -1,0 +1,116 @@
+#0
+NAM Medievia Trading Shop~
+DES This is the most impressive trading area you have seen in your days.  To
+the left is a huge stall full or fine pack horses and mules.  To the right
+are covered and open wagons.  Assorted trading goods are piled all around
+as the trading shop keeper quickly darts back and forth, busy as a beaver.
+~
+X 1001 Y 1005
+TRADE 0
+TRADE 43
+TRADE 39
+TRADE 11
+TRADE 35
+#1
+NAM Minotaur Trading Outpost~
+DES As you duck your head under a tarp, you find yourself in a small 
+hut with a warm fire glowing in the center of the room.  Horses and mules 
+are in the back grazing in a small pen behind the tent.  Various goods 
+line a small table and hang off hooks on the sides.  A harsh wind blows 
+through and sends a shiver down your spine.
+~
+X 1894 Y 486
+TRADE 46
+TRADE 8
+TRADE 30
+TRADE 3
+TRADE 24
+#2
+NAM New Ashton Trading Post~
+DES You can finally get out of the hot sun as you step into this wooden 
+shack.  Several bins line the walls here and filled to the brim with 
+various goods made from New Ashton.  A few people are in the shop with 
+you, trying to bargan with the trademaster on getting a good deal on his 
+goods from across the land.
+~
+X 1296 Y 637
+TRADE 41
+TRADE 23
+TRADE 18
+TRADE 26
+TRADE 34
+#3
+NAM Trading Post of the Dark Army~
+DES This small trade post is not very well lit.  You have to squint your 
+eyes to make out the various goods available for purchasing and there is 
+the presence of a soldier of the Dark Army looking over your shoulder.  
+Outside you can hear the munching of the horses feasting on bloody corpses.
+~
+X 737 Y 696
+TRADE 45
+TRADE 1
+TRADE 10
+TRADE 29
+TRADE 32
+#4
+NAM Tar Valon Trading Shop~
+DES This shop is nestled deep within the woods outside of Tar Valon.  
+Through the dense tops of trees you can see the massive wall and crystal 
+clear river that protects Tar Valon from the wild beasts that roam the 
+forest.  This shop is silent due to the sound muffling redwoods that 
+border outside the wooden walls of the shop.  Various goods are spread 
+out on shelves and a large oak table in the center of the shop.
+~
+X 983 Y 1509
+TRADE 40
+TRADE 12
+TRADE 38
+TRADE 14
+TRADE 25
+#5
+NAM Trading Post of the City of Tear~
+DES The distant sounds of waves crashing on a beach filter into this 
+small shop west of Tear.  Outside this shop are rolling hills of green 
+and white grass and a river is not too far away.  Small tables have 
+various goods scattered throughout the store with the most valuble goods 
+behind the counter.  Out in the field behind the post you can hear the 
+munching of mules and horses and a few wagons are parked to the side near 
+the front.
+~
+X 1644 Y 1060
+TRADE 6
+TRADE 9
+TRADE 42
+TRADE 5
+TRADE 13
+#6
+NAM A Small Trading Outpost~
+DES The cool shade of this shop provides great relef from the blistering 
+heat outside.  The cooling winds off the ocean do very little to cool you 
+down.  This small shop wreeks of spoiled meat and other products and the 
+close quarters doesn't let enough fresh air inside.  The small variety of 
+tradeables is closely packed together to get the most variety for the 
+amount of space given.
+~
+X 431 Y 929
+TRADE 36
+TRADE 7
+TRADE 19
+TRADE 27
+TRADE 20
+#7
+NAM Trading Shop of Trellor City~
+DES The salty smell of the ocean pours into this post on the outskirts
+of the city of Trellor.  A patch of grass behind the post provides a nice
+grazing ground for the mules and horses available for your purchase.
+This shop has many people perusing the various goods available for
+purchasing and you must fight your way through to get a look at the
+merchandise.
+~
+X 1610 Y 493
+TRADE 47
+TRADE 31
+TRADE 28
+TRADE 22
+TRADE 21
+$

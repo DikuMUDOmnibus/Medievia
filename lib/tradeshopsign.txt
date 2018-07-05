@@ -1,0 +1,12 @@
+                       Medievia Trading Shop Basics
+
+list     Lists all trading goods produced locally and some hauling beasts and
+         supplies
+buy      buy OBJECT, closes the sale.  example: buy horse, buy linen
+sell     sell OBJECT to sell the item at the VALUED price
+value    value OBJECT will tell you what you can sell the OBJECT for.
+describe describe OBJECT tells you the objects interesting features and
+         stats
+
+For a full help listing on trading type HELP TRADING.
+~

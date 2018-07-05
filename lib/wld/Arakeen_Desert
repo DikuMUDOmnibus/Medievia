@@ -1,0 +1,1071 @@
+#1798
+The Arakeen Desert~
+The sand is rather shallow here and there is a sheet of rock under it.
+A hot wind blows in your face and you think it has a scent of sea
+water on it.  Looking west you notice the desert ends abruptly here and
+at a steep cliff.  Looking down over the edge you can see a small beach and
+a great ocean stretches out in the distance.  There doesn't appear to be
+any way down the sheer cliff wall.
+~
+61 0 8 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 19005
+D1
+~
+~
+~
+~
+0 -1 2014
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1799
+S
+#1799
+The Arakeen Desert~
+The sand is rather shallow here and there is a sheet of rock under it.
+A hot wind blows in your face and you think it has a scent of sea
+water on it.  Looking west you notice the desert ends abruptly here and
+at a steep cliff.  Looking down over the edge you can see a small beach and
+a great ocean stretches out in the distance.  There doesn't appear to be
+any way down the sheer cliff wall.
+~
+61 0 8 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1798
+D1
+~
+~
+~
+~
+0 -1 2018
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1800
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 4490
+S
+#1800
+The Arakeen Desert~
+The sand is rather shallow here and there is a sheet of rock under it.
+A hot wind blows in your face and you think it has a scent of sea
+water on it.  Looking west you notice the desert ends abruptly here and
+at a steep cliff.  Looking down over the edge you can see a small beach and
+a great ocean stretches out in the distance.  There doesn't appear to be
+any way down the sheer cliff wall.
+~
+61 0 8 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1799
+D1
+~
+~
+~
+~
+0 -1 2023
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1869
+S
+#1869
+The Oasis~
+You stand in a lush oasis in the middle of the Desert. This place
+is filled with all kinds of plant and animal life, as well as a
+large spring, which supplies the water neccessary to support the
+life here. The spring feeds a lake to the south. There is a large,
+rather unusual looking cactus here, on the west side of the oasis.
+~
+61 0 6 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1800
+D1
+~
+~
+~
+~
+0 -1 2028
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4485
+E
+cactus~
+The cactus towers before you. It is well over 100 feet tall, and
+is apparently very ancient. Birds have nested in its branches.
+~
+S
+#1871
+The Arakeen Desert~
+You are wandering a vast, blisteringly hot desert.  The heat rising from the
+white sand blurs your vision and the sweat running down your face burns your
+eyes. Small withering plants fight for survival in the unyeilding heat.
+~
+61 0 8 0
+0 0 0 0
+0 0 0
+D1
+~
+~
+~
+~
+0 -1 2000
+D2
+~
+~
+~
+~
+0 -1 2014
+D3
+~
+~
+~
+~
+0 -1 19005
+S
+#2000
+The Arakeen Desert~
+You are wandering a vast, blisteringly hot desert.  The heat rising from the
+white sand blurs your vision and the sweat running down your face burns your
+eyes. Small withering plants fight for survival in the unyeilding heat.
+~
+61 0 8 0
+0 0 0 0
+0 0 0
+D1
+~
+~
+~
+~
+0 -1 2001
+D2
+~
+~
+~
+~
+0 -1 2015
+D3
+~
+~
+~
+~
+0 -1 1871
+S
+#2001
+The Arakeen Desert~
+You are wandering a vast, blisteringly hot desert.  The heat rising from the
+white sand blurs your vision and the sweat running down your face burns your
+eyes. Small withering plants fight for survival in the unyeilding heat.
+~
+61 0 8 0
+0 0 0 0
+0 0 0
+D1
+~
+~
+~
+~
+0 -1 2002
+D2
+~
+~
+~
+~
+0 -1 2016
+D3
+~
+~
+~
+~
+0 -1 2000
+S
+#2002
+The Arakeen Desert~
+You are wandering a vast, blisteringly hot desert.  The heat rising from the
+white sand blurs your vision and the sweat running down your face burns your
+eyes. Small withering plants fight for survival in the unyeilding heat.
+~
+61 0 8 0
+0 0 0 0
+0 0 0
+D1
+~
+~
+~
+~
+0 -1 2003
+D2
+~
+~
+~
+~
+0 -1 2017
+D3
+~
+~
+~
+~
+0 -1 2001
+S
+#2003
+The Arakeen Desert~
+You are wandering a vast, blisteringly hot desert.  The heat rising from the
+white sand blurs your vision and the sweat running down your face burns your
+eyes. Small withering plants fight for survival in the unyeilding heat.
+~
+61 0 8 0
+0 0 0 0
+0 0 0
+D2
+~
+~
+~
+~
+0 -1 2030
+D3
+~
+~
+~
+~
+0 -1 2002
+S
+#2014
+The Arakeen Desert~
+You are wandering a vast, blisteringly hot desert.  The heat rising from the
+white sand blurs your vision and the sweat running down your face burns your
+eyes. Small withering plants fight for survival in the unyeilding heat.
+~
+61 0 8 0
+0 0 0 0
+0 0 0
+D0
+~
+~
+~
+~
+0 -1 1871
+D1
+~
+~
+~
+~
+0 -1 2015
+D2
+~
+~
+~
+~
+0 -1 2018
+D3
+~
+~
+~
+~
+0 -1 1798
+S
+#2015
+The Arakeen Desert~
+You are wandering a vast, blisteringly hot desert.  The heat rising from the
+white sand blurs your vision and the sweat running down your face burns your
+eyes. Small withering plants fight for survival in the unyeilding heat.
+~
+61 0 8 0
+0 0 0 0
+0 0 0
+D0
+~
+~
+~
+~
+0 -1 2000
+D1
+~
+~
+~
+~
+0 -1 2016
+D2
+~
+~
+~
+~
+0 -1 2019
+D3
+~
+~
+~
+~
+0 -1 2014
+S
+#2016
+The Arakeen Desert~
+You are wandering a vast, blisteringly hot desert.  The heat rising from the
+white sand blurs your vision and the sweat running down your face burns your
+eyes. Small withering plants fight for survival in the unyeilding heat.
+~
+61 0 8 0
+0 0 0 0
+0 0 0
+D0
+~
+~
+~
+~
+0 -1 2001
+D1
+~
+~
+~
+~
+0 -1 2017
+D2
+~
+~
+~
+~
+0 -1 2020
+D3
+~
+~
+~
+~
+0 -1 2015
+S
+#2017
+The Arakeen Desert~
+You are wandering a vast, blisteringly hot desert.  The heat rising from the
+white sand blurs your vision and the sweat running down your face burns your
+eyes. Small withering plants fight for survival in the unyeilding heat.
+~
+61 0 8 0
+0 0 0 0
+0 0 0
+D0
+~
+~
+~
+~
+0 -1 2002
+D1
+~
+~
+~
+~
+0 -1 2030
+D2
+~
+~
+~
+~
+0 -1 2021
+D3
+~
+~
+~
+~
+0 -1 2016
+S
+#2018
+The Arakeen Desert~
+You are wandering a vast, blisteringly hot desert.  The heat rising from the
+white sand blurs your vision and the sweat running down your face burns your
+eyes. Small withering plants fight for survival in the unyeilding heat.
+~
+61 0 8 0
+0 0 0 0
+0 0 0
+D0
+~
+~
+~
+~
+0 -1 2014
+D1
+~
+~
+~
+~
+0 -1 2019
+D2
+~
+~
+~
+~
+0 -1 2023
+D3
+~
+~
+~
+~
+0 -1 1799
+S
+#2019
+The Arakeen Desert~
+You are wandering a vast, blisteringly hot desert.  The heat rising from the
+white sand blurs your vision and the sweat running down your face burns your
+eyes. Small withering plants fight for survival in the unyeilding heat.
+~
+61 0 8 0
+0 0 0 0
+0 0 0
+D0
+~
+~
+~
+~
+0 -1 2015
+D1
+~
+~
+~
+~
+0 -1 2020
+D2
+~
+~
+~
+~
+0 -1 2024
+D3
+~
+~
+~
+~
+0 -1 2018
+S
+#2020
+The Arakeen Desert~
+You are wandering a vast, blisteringly hot desert.  The heat rising from the
+white sand blurs your vision and the sweat running down your face burns your
+eyes. Small withering plants fight for survival in the unyeilding heat.
+~
+61 0 8 0
+0 0 0 0
+0 0 0
+D0
+~
+~
+~
+~
+0 -1 2016
+D1
+~
+~
+~
+~
+0 -1 2021
+D2
+~
+~
+~
+~
+0 -1 2025
+D3
+~
+~
+~
+~
+0 -1 2019
+S
+#2021
+The Arakeen Desert~
+You are wandering a vast, blisteringly hot desert.  The heat rising from the
+white sand blurs your vision and the sweat running down your face burns your
+eyes. Small withering plants fight for survival in the unyeilding heat.
+~
+61 0 8 0
+0 0 0 0
+0 0 0
+D0
+~
+~
+~
+~
+0 -1 2017
+D1
+~
+~
+~
+~
+0 -1 2022
+D2
+~
+~
+~
+~
+0 -1 2026
+D3
+~
+~
+~
+~
+0 -1 2020
+S
+#2022
+The Arakeen Desert~
+You are wandering a vast, blisteringly hot desert.  The heat rising from the
+white sand blurs your vision and the sweat running down your face burns your
+eyes. Small withering plants fight for survival in the unyeilding heat.
+~
+61 0 8 0
+0 0 0 0
+0 0 0
+D0
+~
+~
+~
+~
+0 -1 2030
+D2
+~
+~
+~
+~
+0 -1 2027
+D3
+~
+~
+~
+~
+0 -1 2021
+S
+#2023
+The Arakeen Desert~
+You are wandering a vast, blisteringly hot desert.  The heat rising from the
+white sand blurs your vision and the sweat running down your face burns your
+eyes. Small withering plants fight for survival in the unyeilding heat.
+~
+61 0 8 0
+0 0 0 0
+0 0 0
+D0
+~
+~
+~
+~
+0 -1 2018
+D1
+~
+~
+~
+~
+0 -1 2024
+D2
+~
+~
+~
+~
+0 -1 2028
+D3
+~
+~
+~
+~
+0 -1 1800
+S
+#2024
+The Arakeen Desert~
+You are wandering a vast, blisteringly hot desert.  The heat rising from the
+white sand blurs your vision and the sweat running down your face burns your
+eyes. Small withering plants fight for survival in the unyeilding heat.
+~
+61 0 8 0
+0 0 0 0
+0 0 0
+D0
+~
+~
+~
+~
+0 -1 2019
+D1
+~
+~
+~
+~
+0 -1 2025
+D2
+~
+~
+~
+~
+0 -1 2029
+D3
+~
+~
+~
+~
+0 -1 2023
+S
+#2025
+The Arakeen Desert~
+You are wandering a vast, blisteringly hot desert.  The heat rising from the
+white sand blurs your vision and the sweat running down your face burns your
+eyes. Small withering plants fight for survival in the unyeilding heat.
+~
+61 0 8 0
+0 0 0 0
+0 0 0
+D0
+~
+~
+~
+~
+0 -1 2020
+D1
+~
+~
+~
+~
+0 -1 2026
+D2
+~
+~
+~
+~
+0 -1 2031
+D3
+~
+~
+~
+~
+0 -1 2024
+S
+#2026
+The Arakeen Desert~
+You are wandering a vast, blisteringly hot desert.  The heat rising from the
+white sand blurs your vision and the sweat running down your face burns your
+eyes. Small withering plants fight for survival in the unyeilding heat.
+~
+61 0 8 0
+0 0 0 0
+0 0 0
+D0
+~
+~
+~
+~
+0 -1 2021
+D1
+~
+~
+~
+~
+0 -1 2027
+D2
+~
+~
+~
+~
+0 -1 2032
+D3
+~
+~
+~
+~
+0 -1 2025
+S
+#2027
+The Arakeen Desert~
+You are wandering a vast, blisteringly hot desert.  The heat rising from the
+white sand blurs your vision and the sweat running down your face burns your
+eyes. Small withering plants fight for survival in the unyeilding heat.
+~
+61 0 8 0
+0 0 0 0
+0 0 0
+D0
+~
+~
+~
+~
+0 -1 2022
+D2
+~
+~
+~
+~
+0 -1 2033
+D3
+~
+~
+~
+~
+0 -1 2026
+S
+#2028
+The Arakeen Desert~
+You are wandering a vast, blisteringly hot desert.  The heat rising from the
+white sand blurs your vision and the sweat running down your face burns your
+eyes. Small withering plants fight for survival in the unyeilding heat.
+~
+61 0 8 0
+0 0 0 0
+0 0 0
+D0
+~
+~
+~
+~
+0 -1 2023
+D1
+~
+~
+~
+~
+0 -1 2029
+D3
+~
+~
+~
+~
+0 -1 1869
+S
+#2029
+The Arakeen Desert~
+You are wandering a vast, blisteringly hot desert.  The heat rising from the
+white sand blurs your vision and the sweat running down your face burns your
+eyes. Small withering plants fight for survival in the unyeilding heat.
+~
+61 0 8 0
+0 0 0 0
+0 0 0
+D0
+~
+~
+~
+~
+0 -1 2024
+D1
+~
+~
+~
+~
+0 -1 2031
+D3
+~
+~
+~
+~
+0 -1 2028
+S
+#2030
+The Arakeen Desert~
+You are wandering a vast, blisteringly hot desert.  The heat rising from the
+white sand blurs your vision and the sweat running down your face burns your
+eyes. Small withering plants fight for survival in the unyeilding heat.
+~
+61 0 8 0
+0 0 0 0
+0 0 0
+D0
+~
+~
+~
+~
+0 -1 2003
+D2
+~
+~
+~
+~
+0 -1 2022
+D3
+~
+~
+~
+~
+0 -1 2017
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 4489
+S
+#2031
+The Arakeen Desert~
+You are wandering a vast, blisteringly hot desert.  The heat rising from the
+white sand blurs your vision and the sweat running down your face burns your
+eyes. Small withering plants fight for survival in the unyeilding heat.
+~
+61 0 8 0
+0 0 0 0
+0 0 0
+D0
+~
+~
+~
+~
+0 -1 2025
+D1
+~
+~
+~
+~
+0 -1 2032
+D3
+~
+~
+~
+~
+0 -1 2029
+S
+#2032
+The Arakeen Desert~
+You are wandering a vast, blisteringly hot desert.  The heat rising from the
+white sand blurs your vision and the sweat running down your face burns your
+eyes. Small withering plants fight for survival in the unyeilding heat.
+~
+61 0 8 0
+0 0 0 0
+0 0 0
+D0
+~
+~
+~
+~
+0 -1 2026
+D1
+~
+~
+~
+~
+0 -1 2033
+D3
+~
+~
+~
+~
+0 -1 2031
+S
+#2033
+The Arakeen Desert~
+You are wandering a vast, blisteringly hot desert.  The heat rising from the
+white sand blurs your vision and the sweat running down your face burns your
+eyes. Small withering plants fight for survival in the unyeilding heat.
+~
+61 0 8 0
+0 0 0 0
+0 0 0
+D0
+~
+~
+~
+~
+0 -1 2027
+D3
+~
+~
+~
+~
+0 -1 2032
+S
+#4485
+A small stream~
+You are following a small stream southward from the oasis.  It runs
+along a large sheet of rock that started to the north of here and slopes
+slightly downward.
+~
+61 0 6 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1869
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4486
+S
+#4486
+A small stream~
+You are following a small stream southward from the oasis.  It runs
+along a large sheet of rock that started to the north of here and slopes
+slightly downward.  The stream empties into a large lake just to the south
+of here.
+~
+61 0 6 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4485
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4105
+S
+#4490
+Clinging to the side of a cliff~
+You are clinging to the side of the sheer cliff wall using some hand
+holds which have been carved into the rock face.  The strong wind blows
+all around you, you have to squint your eyes to keep the dust and debris
+out.  Just above you is the top of the cliff and the edge of the desert.
+Far below you is a small beach at the edge of a great ocean.
+~
+61 0 5 0
+0 0 0 0
+0 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 1799
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 4491
+S
+#4491
+Clinging to the side of a cliff~
+You are clinging to the side of the sheer cliff wall using some hand
+holds which have been carved into the rock face.  The strong wind blows
+all around you, you have to squint your eyes to keep the dust and debris
+out.  The cliff wall reaches far above you, there are more hand holds cut
+out of the stone allowing you to continue up or down.  Far below you is a
+small beach at the edge of a great ocean.
+~
+61 0 5 0
+0 0 0 0
+0 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 4490
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 4492
+S
+#4492
+Clinging to the side of a cliff~
+You are clinging to the side of the sheer cliff wall using some hand
+holds which have been carved into the rock face.  The strong wind blows
+all around you, you have to squint your eyes to keep the dust and debris
+out.  The cliff wall reaches far above you, there are more hand holds cut
+out of the stone allowing you to continue up or down.  Below you is a
+small beach at the edge of a great ocean.
+~
+61 0 5 0
+0 0 0 0
+0 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 4491
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 4493
+S
+#4493
+A small beach~
+You are standing on a beautiful white sandy beach.  The crystal clear,
+sparkling water of the ocean washes up on the shore in a neverending cycle.
+A few shells can be see in the sand as well as some birds circling the
+water looking for food.  You can see a small island on the horizon of the
+ocean.  The north, south and east directions are all blocked by an enourmous
+cliff which reaches up towards to the sky out of view.
+~
+61 4 8 0
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4501
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 4492
+S
+#19005
+The Arakeen Desert~
+The sand is rather shallow here and there is a sheet of rock under it.
+A hot wind blows in your face and you think it has a scent of sea
+water on it.  Looking west you notice the desert ends abruptly here and
+at a steep cliff.  Looking down over the edge you can see a small beach and
+a great ocean stretches out in the distance.  There doesn't appear to be
+any way down the sheer cliff wall.
+~
+61 0 8 0
+0 0 0 0
+0 0 0
+D1
+~
+~
+~
+~
+0 -1 1871
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1798
+S
+#19999
+$~

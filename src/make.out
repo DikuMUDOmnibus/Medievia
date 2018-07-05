@@ -1,0 +1,9 @@
+gcc -c -g -O -Wall -DOLDLIB -DHASHTABLE -DMEMDEBUG act_info.c 
+gcc -c -g -O -Wall -DOLDLIB -DHASHTABLE -DMEMDEBUG act_wiz.c
+gcc -c -g -O -Wall -DOLDLIB -DHASHTABLE -DMEMDEBUG fight.c
+gcc -c -g -O -Wall -DOLDLIB -DHASHTABLE -DMEMDEBUG locker.c
+locker.c: In function `insure_locker_one':
+locker.c:619: warning: int format, long int arg (arg 3)
+locker.c:619: warning: int format, long int arg (arg 4)
+gcc  -o medievia_online act_comm.o act_info.o act_move.o act_o1.o act_o2.o act_off.o  act_oth.o act_soc.o act_wiz.o  board.o  casino.o catacomb.o changes.o clan.o comm.o const.o continent.o  db.o death.o  editor.o  fight.o formatn.o fount.o  handler.o  interp.o  limits.o  locker.o mob_diff.o mob_act.o mob_mage.o mob_cler.o mob_warr.o mob_thie.o  magic.o modify.o mail.o  nanny.o newspaper.o  online.o  room_act.o room_afs.o  save.o shop.o spec_ass.o spec_pro.o spells.o  utility.o  weather.o  /usr/lib/debug/malloc.o -lm
+chmod 770 medievia_online 

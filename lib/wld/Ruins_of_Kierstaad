@@ -1,0 +1,2476 @@
+#580
+Walking Through the Maze~
+ ~
+70 1 3 0
+0 35 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 803
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6552
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 581
+S
+#581
+Walking Through the Maze~
+ ~
+70 1 3 0
+0 35 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2760
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 580
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 956
+S
+#803
+Walking Through the Maze~
+ ~
+70 1 3 0
+0 35 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 817
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 580
+S
+#817
+Walking Through the Maze~
+ ~
+70 1 3 0
+0 35 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 819
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 803
+S
+#819
+Walking Through the Maze~
+ ~
+70 1 3 0
+0 35 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 990
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 817
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 989
+S
+#910
+A Narrow Path Through the Weeds~
+ As you walk along the path you notice with each step you take the mansion is
+much larger than you thought. You also notice the air of decay and desertion
+surrounding you. One whole wing of the masion has been ravaged by fire, leaving
+only masonry and charred timbers. Even the landscape around you seems lifeless,
+devoid of trees and bristling with rank weeds.
+~
+70 1 3 0
+0 35 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 911
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6533
+S
+#911
+A Narrow Path Through the Weeds~
+ The mansion looms over you like a heavy weight on your shoulders. You notice
+that the mansion is three stories tall, the bottom story recessed five or six
+feet. Five broad corbled stone arches support the overhang. A yard-wide chunk
+of stone and plaster has fallen from the middle arch.
+~
+70 1 3 0
+0 35 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 912
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 910
+S
+#912
+Before The Mansion~
+ The path has led you to the central arch of the mansion. A dark oak door set
+into the wall beneath has been decorated with two carved mirror-image whorls
+occupying the top and bottom frames, surrounded by intertwining serpents. Two
+bronze lanterns jutt out from the stone beside the door, their glasswork broken
+and jagged. To each side of the door are bricked-up windows, and beyond them
+more alcoves in the stone walls.
+~
+70 1 3 0
+0 35 0 0
+0 0 0
+D0
+The door is decorated with a unique design that at one time before the mansion
+fell to ruins, might have been very impressive.
+~
+door~
+$n steps into the darkness.~
+$n cautiously steps inside the mansion.~
+1 18012 913
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 911
+S
+#913
+A Dark Hallway~
+ ~
+70 73 3 0
+0 35 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 914
+D2
+A dark oak door blocks your way back to the vineyard.
+~
+door~
+$n runs out of the mansion.~
+$n steps out of the mansion, looking rather pale.~
+1 18012 912
+S
+#914
+A Dark Hallway~
+ ~
+70 73 3 0
+0 35 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 915
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 913
+S
+#915
+A Dark Hallway~
+ ~
+70 73 3 0
+0 35 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 926
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 914
+S
+#916
+A Large and Long-abandoned Kitchen~
+ As you step inside the kitchen your feet kick up great black wafts of
+felt-like dust. Yard-wide iron pots and brick-based stoves and ovens fill a
+chamber of at least 70 feet long and 60 feet wide. Everything smells of old
+spilled wine and dusty decay. A stream of light struggles to make it's way
+through a long, narrow horizontal window about twelve feet above the floor on
+the opposite wall. Apparently the kitchen is in a kind of basement, from the
+front it lays below ground level. To your north a white enameled metal door
+hangs ajar on corroded hinges, revealing only darkness within.
+~
+70 73 0 0
+0 35 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 917
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 921
+S
+#917
+A Pantry~
+ ~
+70 73 3 0
+0 35 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 916
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 918
+S
+#918
+Rotting, Wooden Stairs~
+ ~
+70 73 3 0
+0 35 0 0
+25 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 917
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 919
+S
+#919
+Rotting, Wooden Stairs~
+ ~
+70 73 0 0
+0 35 0 0
+25 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 920
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 918
+S
+#920
+The Wine Cellar~
+ ~
+70 73 0 0
+0 35 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 919
+S
+#921
+A Small Stairwell~
+ You stand near the bottom a small stairwell that leads to the lower levels of
+the mansion where the kitchen and other basic necessities lay. A thick layer of
+dust coats the stairs, marked only by tiny footprints of rodents, obviously
+this section of the manor is not used often. A wretched odor comes from the
+room below but, it is far to dark to see what exactly is causing the smell.
+~
+70 73 0 0
+0 35 0 0
+20 0 0
+D4
+Through the darkness you see the top of the stairwell.
+~
+ ~
+$n slowly climbs the stairwell.~
+$n takes a breath as $e reaches the top of the staircase.~
+1 -1 922
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 916
+S
+#922
+A Small Stairwell~
+What used to be swinging doors have been torn apart. One knocked from it's
+hinges and propped agaisnt the wall, the other kicked and splintered askew.
+~
+70 73 0 0
+0 35 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 923
+D5
+You peer through the darkness but cannot make much out.
+~
+ ~
+$n slowly descends down the staircase.~
+$n slowly descends the stairwell, taking care not to trip and fall.~
+1 -1 921
+S
+#923
+The Dining Hall~
+Three long dark wood tables fill about half the space, chairs upended neatly
+on the table edges. A stained and musty carpet gives way to wooden flooring
+beyond the tables. The room could hold a respectable size ball-stretching to
+the front of the house where tall arched windows afforded a view of the rising
+sun. The light struggles through the windows, casting smeared silvery-grey
+across the table tops. The rooms smells of dust and and rather bitter tang of
+flowers.
+~
+70 73 0 0
+0 35 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 922
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 924
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 933
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6825
+S
+#924
+The Foyer~
+Modern, overstuffed couches have been spaced along the walls between
+more tall arched windows. A demolished piano clutters a nearby stage. At the
+opposite end of the foyer is an immense staircase, with gold banisters mounted
+on turned pillars of ebony. A balistrade runs from the staircase across the
+length of the upper landing.
+~
+70 73 0 0
+0 35 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6166
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 923
+S
+#926
+An Arched Entrance Way~
+ ~
+70 73 3 0
+0 35 0 0
+0 0 0
+D0
+The front entrance of the mansion.
+~
+door~
+$n opens the door and walks out of the mansion.~
+$n walks out of the mansion.~
+2 18012 945
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 931
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 915
+D3
+Two large bronze doors engraved with two large stalking cats.
+~
+doors~
+$n opens the doors and cautiously steps inside.~
+$n enters the guest sitting room.~
+1 -1 927
+S
+#927
+A Small Sitting Room~
+ ~
+70 73 3 0
+0 35 0 0
+0 0 0
+D1
+Two highly tarnished bronze doors block your way back into the entrance area.
+~
+doors~
+$n exits through the bronze doors.~
+$n enters from the sitting room.~
+1 -1 926
+D3
+Two heavy dark wood doors with intricate crystal knobs block your way west.
+~
+doors~
+$n opens the doors and cautiously steps inside...~
+$n opens the doors and steps through.~
+1 -1 928
+S
+#928
+A Shadowy Hallway~
+ ~
+70 73 3 0
+0 35 0 0
+0 0 0
+D0
+A beautiful painting has been mounted here on the wall. It shows a young
+maiden sitting amongst a field of beautiful wild flowers. Yet, something is odd
+about the picture, perhaps it's the snow falling lightly around her, or maybe
+it's her ice cold blue eyes that chill your soul. Whatever it is you feel a
+distinct uneasiness when gazing upon this strange painting.
+~
+painting~
+$n opens the painting and steps through.~
+$n crawls inside.~
+3 -1 6156
+D1
+Two large dark wood doors block your way east.
+~
+doors~
+$n opens the doors and steps through.~
+$n arrives in  the sitting room.~
+1 -1 927
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 929
+S
+#929
+A Shadowy Hallway~
+ ~
+70 73 3 0
+0 35 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 928
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 930
+S
+#930
+A Bend in the Hallway~
+ ~
+70 73 3 0
+0 35 0 0
+0 0 0
+D0
+Two large wooden doors with black metal door rings. There is a rather strange
+claw mark trailing down one of the doors...
+~
+doors~
+$n steps inside the room.~
+$n walks in behind you.~
+1 18012 4539
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 929
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 935
+S
+#931
+A Burnt, Destroyed Hallway~
+ ~
+70 73 3 0
+0 35 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 932
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 926
+S
+#932
+A Burnt, Destroyed Hallway~
+ ~
+70 73 3 0
+0 35 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 933
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 931
+S
+#933
+A Burnt, Destroyed Hallway~
+ The smell of sulfur is dulled somewhat here by an overwhelming odor of decay
+that fills the air. Double doors leading to the dinning hall, once strong and
+sturdy lay on the ground here, little more the pieces of burnt cinder. The heat
+generated from the fire was intense enough to even melt the brass door handles.
+~
+70 73 3 0
+0 35 0 0
+0 0 0
+D0
+You see what little remains of two sturdy wooden doors.
+~
+ ~
+ ~
+ ~
+1 -1 923
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 934
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 932
+S
+#934
+A Burnt, Destroyed Hallway~
+ This section of the hall lays in ruin, paintings and tapestries that once hung
+proudly on the walls now lay on the ground in bits and pieces of burnt ruin.
+The strong odor of sulfur fills the otherwise musty hall, almost to the point
+of overpowering your senses. From the amount of damage done to this section of
+the mansion it is amazing that whatever disaster struck here did not consume
+the whole house.
+~
+70 73 3 0
+0 35 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 940
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 933
+E
+painting~
+All that is left of the painting is bits and pieces of burnt canvas.
+~
+S
+#935
+The Hallway of Mirrors~
+ ~
+70 73 3 0
+0 35 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 930
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 936
+S
+#936
+The Hallway of Mirrors~
+ ~
+70 73 3 0
+0 35 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 935
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 937
+S
+#937
+The Hallway of Mirrors~
+ ~
+70 73 3 0
+0 35 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 936
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 938
+S
+#938
+The Hallway of Mirrors~
+ ~
+70 73 3 0
+0 35 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 937
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 939
+D3
+ ~
+ ~
+$n disappears suddenly through the mirror.~
+You scream as $n comes crashing headfirst through the mirror!~
+5 -1 4539
+E
+mirror~
+ A large oval mirror has been mounted on the wall here. It is framed with a
+beautiful ebony stone, and all around it are vines covered with small black
+flowers that are shaped like bells. The surface ripples slightly as if it were
+water.
+~
+S
+#939
+The Hallway of Mirrors~
+ ~
+70 73 3 0
+0 35 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 938
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4481
+S
+#940
+A Dark Hallway~
+ You stand in the middle of a long, dark hallway. Just north of here the strong
+scent of sulfur is quite strong. Scorched marks line the once finely polished
+wooden floors, as if a once great fire burned its way through this section of
+the mansion. To the east you see a small archway that leads to a large library
+that despite the burnt marks on the doorway, appears to have been unaffected by
+whatever disaster happened here.
+~
+70 73 0 0
+0 35 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 934
+D1
+ ~
+door~
+ ~
+ ~
+2 -1 6394
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 941
+E
+floor wood~
+ The floors of the hallway looked to have once been magnificent, made of the
+finest oak they surely must have shined brightly long ago. Sadly now all that
+remains of that former splendor is bits and pieces of undamaged wood in between
+the large, charred sections of the floor.
+~
+S
+#941
+A Dark Hallway~
+ ~
+70 73 0 0
+0 35 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 940
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 942
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6395
+S
+#942
+A Dark Hallway~
+ ~
+70 73 3 0
+0 35 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 941
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 943
+S
+#943
+A Dark Hallway~
+ ~
+70 73 3 0
+0 35 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 942
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 944
+S
+#944
+A Dark Hallway~
+ ~
+70 73 3 0
+0 35 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 943
+S
+#945
+The Front Entrance to the Mansion~
+ ~
+70 1 3 0
+0 35 0 0
+0 0 0
+D2
+This looks like the front entrance into the mansion.
+~
+door~
+$n enters the mansion.~
+$n walks into the mansion.~
+2 18012 926
+S
+#956
+Walking Through the Maze~
+ ~
+70 1 3 0
+0 35 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 957
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 581
+S
+#957
+Walking Through the Maze~
+ ~
+70 1 3 0
+0 35 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 972
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 956
+S
+#972
+Walking Through the Maze~
+ ~
+70 1 3 0
+0 35 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2469
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 990
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 957
+S
+#989
+Walking Through the Maze~
+ ~
+70 1 3 0
+0 35 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 819
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 999
+S
+#990
+Walking Through the Maze~
+ ~
+70 1 3 0
+0 35 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 972
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1119
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 819
+S
+#999
+A Dead End~
+ ~
+70 1 3 0
+0 35 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 989
+S
+#1119
+Walking Through the Maze~
+ ~
+70 1 3 0
+0 35 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1612
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 990
+S
+#1612
+Walking Through the Maze~
+ ~
+70 1 3 0
+0 35 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1726
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1119
+S
+#1726
+Walking Through the Maze~
+ ~
+70 1 3 0
+0 35 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2403
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1612
+S
+#2403
+Walking Through the Maze~
+ ~
+70 1 3 0
+0 35 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1726
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2405
+S
+#2405
+A Dead End~
+ ~
+70 1 3 0
+0 35 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2403
+S
+#2469
+Walking Through the Maze~
+ ~
+70 1 3 0
+0 35 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2760
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 972
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2476
+S
+#2476
+Walking Through the Maze~
+ ~
+70 1 3 0
+0 35 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2469
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2763
+S
+#2760
+Walking Through the Maze~
+ The maze twists and turns around you in an unpredictable pattern of disorder
+and confusion. The thorny hedge tears at your clothes, in it's own attempt to
+stop your progress. As you feel your mind slip into a state of insanity you
+feel a chilling wind blow over your body from below.
+~
+70 1 3 0
+0 35 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 581
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2469
+D5
+ ~
+stone~
+$n opens the stone and squeezes down.~
+$n crawls carefully down into the crawlspace.~
+3 -1 2891
+S
+#2761
+Walking Through the Maze~
+ ~
+70 1 3 0
+0 35 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2763
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2762
+S
+#2762
+Walking Through the Maze~
+ ~
+70 1 3 0
+0 35 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2764
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2761
+S
+#2763
+Walking Through the Maze~
+ ~
+70 1 3 0
+0 35 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2476
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2761
+S
+#2764
+Walking Through the Maze~
+ ~
+70 1 3 0
+0 35 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2762
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2765
+S
+#2765
+Walking Through the Maze~
+ ~
+70 1 3 0
+0 35 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2766
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2764
+S
+#2766
+Walking Through the Maze~
+ ~
+70 1 3 0
+0 35 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2767
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2765
+S
+#2767
+A Dead End~
+ ~
+70 1 3 0
+0 35 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2766
+S
+#2891
+A Narrow Crawlspace of Smooth Stone~
+ ~
+70 33033 3 0
+0 35 0 0
+0 0 0
+D4
+The stone above you is covered with desperate claw marks...
+~
+stone~
+$n squeezes out of the crawlspace.~
+$n opens the stone and crawls out.~
+3 -1 2760
+S
+#4481
+The Room of Shadows~
+ You walk into a giant, circular room illuminated by hundreds of soft golden
+flames. All around you tall, black candles throw shadows across the walls. As
+you stand here slightly dazed by the candle-light, the shadows on the wall
+begin to transform into beautiful, dancing spirits. As you watch their erotic,
+dark dance of magic, they swirl, spiraling upward merging into one, dark form.
+~
+70 73 3 0
+0 35 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 939
+S
+#4539
+An Elaborate Bedroom~
+ You push aside thick spider webs and step inside a rather large bed chamber.
+Hanging on the walls around you are a collection of rather disturbing
+tapestries of dark, ancient beauty. Against the far wall is a large canopy bed,
+draped with black velvet curtains. A small table sits near the bed with a
+bouquet of withered, dead roses. Everything in the room is covered with a thin
+layer of dust. You smell that faint scent of sweet jasmine fill the air,
+encircling your body.
+~
+70 73 3 0
+0 35 0 0
+0 0 0
+D0
+Two stained-glass doors block your way out to the balcony. The design
+on the windows shows an array of once beautiful wild flowers and roses
+that have died and withered. The flowers surround a woman figure cloaked
+in black. On her head is a garland of black nightshade.
+~
+glass~
+A rush of cold air sweeps over you as $n steps out to the balcony.~
+$n steps out on to the balcony.~
+1 -1 5612
+D2
+Two huge dark wood doors with black metal door handle rings. At the top of the
+doors is a small open section that has been carved in precise detail showing a
+tangle of vines wrapped around a single, thorny rose.
+~
+doors~
+$n disappears through the door.~
+$n steps out of the bedroom.~
+1 18012 930
+D3
+A dark wood door with a brass door ring.
+~
+door~
+$n opens the door and steps inside.~
+$n walks into the closet.~
+1 -1 5613
+E
+mirror~
+ A large oval mirror is here mounted on the wall. It is framed with an ebony
+black rock and is covered with beautiful vines and flowers. The surface of the
+mirror shimmers slightly as if it were water.
+~
+E
+tapestry~
+ A woman naked and white sits upon the back of a black, demon creature. Her
+black hair hangs down to her waist, and she looks at you with green cat-like
+eyes. Wrapped around her body are soft, black wings and instead of feet she has
+sharp bird-like claws.
+~
+E
+2.tapestry~
+ A naked woman with long, flowing pale hair sits facing another woman creature
+about to engage in a kiss. The other woman looks fainly human but you notice
+covering her legs are light grey scales and her feet aren't feet at all but
+instead sharp talons. She has a long flowing black tail and soft, grey feathers
+cover her head. Encircling the ankles and calves of the human woman are
+beautiful, intricate tatoos of flowering vines.
+~
+S
+#5612
+A Balcony~
+ ~
+70 64 0 0
+0 35 0 0
+0 0 0
+D2
+Two stained-glass doors block your way back into the bed chamber.
+~
+glass~
+$n steps back into the bed chamber.~
+$n walks in from the balcony, looking chilled to the bone.~
+1 -1 4539
+S
+#5613
+A Large Closet~
+ You step inside a large, musty closet. Cobwebs fill every corner, and dust
+lays in thick blankets over everything. With every breath you inhale a mouthful
+of old, musty decay. Rotted, decayed clothing lays in heaps around your feet.
+The closet is so large that the shadows at the far end keep it secluded from
+your vision.
+~
+70 73 3 0
+0 35 0 0
+0 0 0
+D1
+A dark wood door, hanging on a hook is an arrangement of musty robes.
+~
+door~
+$n pushes aside the robes and steps back out into the bedroom.~
+$n walks out of the closet.~
+1 -1 4539
+S
+#6156
+A Small, Dark Corridor~
+ ~
+70 457 3 0
+0 35 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6157
+D2
+A cold, stone wall...
+~
+wall~
+$n pushes on the wall and falls through.~
+The painting opens and $n steps out.~
+3 -1 928
+S
+#6157
+A Small, Dark Corridor~
+ ~
+70 457 3 0
+0 35 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6156
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 6158
+S
+#6158
+Smooth, Stone Stairs~
+ ~
+70 73 3 0
+0 35 0 0
+0 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 6157
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 6161
+S
+#6161
+Smooth, Stone Stairs~
+ ~
+70 73 3 0
+0 35 0 0
+0 0 0
+D0
+A huge heavy looking black door with strange magical symbols on it blocks your
+way.
+~
+door~
+$n opens the door and steps inside.~
+$n steps inside the study.~
+1 -1 6162
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 6158
+S
+#6162
+A Hidden, Magical Laboratory~
+ ~
+70 73 3 0
+13 35 0 0
+0 0 0
+D2
+A large black door blocks your way out of the study.
+~
+door~
+$n leaves the study.~
+$n forms out of the shadows.~
+1 -1 6161
+S
+#6164
+The Foyer~
+Modern, overstuffed couches have been spaced along the walls between
+more tall arched windows. A demolished piano clutters a nearby stage. At the
+opposite end of the foyer is an immense staircase, with gold banisters mounted
+on turned pillars of ebony. A balistrade runs from the staircase across the
+length of the upper landing.
+~
+70 73 3 0
+0 35 0 0
+0 0 0
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 924
+S
+#6166
+At the Bottom of the Stairs~
+ ~
+70 73 0 0
+0 35 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 924
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 6175
+S
+#6175
+A Large Stairwell~
+ ~
+70 73 3 0
+0 35 0 0
+0 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 6178
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 6166
+S
+#6178
+A Large Stairwell~
+ ~
+70 73 3 0
+0 35 0 0
+0 0 0
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 6175
+S
+#6336
+A Dusty Path Through the Vineyard~
+ As you step through the gate, a fierce wind picks up, blowing it's cold breath
+over your body. Surveying the field before you shows what once was a beautiful
+vineyard now is overgrown with dry shrub. The vines have died, leaving thick
+grey stumps tethered to stakes tilting crazily in dirt crusted with crisp, sere
+dead leaves. Looking further in the distance you notice the rear of a blocky
+retangular mansion emerging from the mist and shadows...
+~
+70 5 3 0
+0 35 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6466
+D2
+The gate you just stepped through clicks softly behind you. The darkness
+closes in around you and you feel slightly what the woman in the carving must
+feel...
+~
+gate~
+$n opens the gate and steps through.~
+$n arrives from behind the gate, their complexion a ghostly pale.~
+2 18012 19026
+S
+#6394
+The Library~
+ You stand in an old musty library. Huge bookcases made of the finest yew
+surround you, spiraling far up to ceiling above. An odd assortment of ancient
+tomes line each of the bookshelves, most covered in a thick layer of dust from
+lack of use. An old, antique desk, covered with numerous parchments and scrolls
+sits in the corner of the library, it too lays covered in a thick layer of dust
+as if someone simply got up from working and never returned. A long stairwell
+fashioned from shiny black stone leads to the upper levels of the library. It
+has been poorly maintained and has lost much of its original luster.
+~
+70 73 0 0
+0 35 0 0
+0 0 0
+D0
+ ~
+tapestry~
+A shaft of crimson light fills the room as $n opens the tapestry and steps inside.~
+You are so amazed by the beauty you hardly notice $n step inside.~
+3 -1 6778
+D3
+The hallway is much to dark to see what lurks out there.
+~
+door~
+$n departs the library.~
+$n emerges from the library.~
+2 -1 940
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 6396
+D5
+ ~
+stone~
+You hear a loud grinding sound as $n pulls up a large stone and drops down.~
+You scramble out of the way as $n drops down from above.~
+3 -1 6407
+E
+desk~
+ A tarnished silver candleholder sits on the desk, the remains of an old melted
+candle rests inside of it. On the other side of the desk a pile of ancient
+parchments, most written in some strange language you are unfamiliar with rests
+on top of large, leather bound journal. Several dried inkwells also sit on the
+desk.
+~
+S
+#6395
+An Indoor Temple~
+ ~
+70 73 3 0
+0 35 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6779
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 941
+S
+#6396
+A Spiraling Staircase of Black Stone~
+ The staircase crawls up around you, leading into the darkness of the upper
+levels of the library. The stairs themselves are made from a dull black stone
+that has been cracked and neglected. The banisters are made of silver, now
+tarnished and black. The library stretches out below you, an endless room of
+knowledge.
+~
+70 73 0 0
+0 35 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6397
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 6398
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 6394
+S
+#6397
+The Libray - Second Level~
+ This section of the library is relatively dust free, the shelves and books all
+appear to be in pristine condition. Obviously someone has taken great care to
+insure that these tomes are kept in good condition. On the eastern wall one of
+the bookcases contain a row of unusual looking books, each of them appear to be
+fashioned from a dark blue leather binding that almost seems to glow, filling
+the room with a soft blue light.
+~
+70 73 0 0
+0 35 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6396
+E
+books book~
+ The books appear to be quite old but the magical power infused into the
+bindings have protected them against decay. While the language they are written
+in is beyond your knowledge, they are undoubtedly arcane in nature.
+~
+S
+#6398
+A Spiraling Staircase of Black Stone~
+ ~
+70 73 3 0
+0 35 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6406
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 6396
+S
+#6406
+The Library - Upper Level~
+ ~
+70 73 3 0
+0 35 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6398
+S
+#6407
+The Library~
+ ~
+70 73 3 0
+0 35 0 0
+0 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 6394
+S
+#6466
+A Dusty Path Through the Vineyard~
+ ~
+70 1 3 0
+0 35 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6530
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6336
+S
+#6468
+An Old Courtyard~
+Right in the center of the Vineyard, is an old courtyard surrounded by wild
+desertion and neglect. All around you are stone fountains, benches, and statues
+tangled in rank weeds and undergrowth. The sounds around you seem at once to
+die away, leaving a hollow silence broken only by the wind rustling through the
+tall dead weeds. Rearing up ahead of you, is the mansion with it's dark wings,
+oddly resembling a colossal hound, crouched and ready to spring.
+~
+70 1 6 0
+0 35 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6532
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6536
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6530
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6534
+S
+#6530
+A Dusty Path Through the Vineyard~
+ ~
+70 1 3 0
+0 35 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6468
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6466
+S
+#6531
+A Dusty Path Through the Vineyard~
+ ~
+70 1 3 0
+0 35 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6530
+S
+#6532
+A Dusty Path Through the Vineyard~
+ ~
+70 1 3 0
+0 35 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6533
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6468
+S
+#6533
+A Dusty Path Through the Vineyard~
+ ~
+70 1 3 0
+0 35 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 910
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6532
+S
+#6534
+A Dusty Path Through the Vineyard~
+ ~
+70 1 3 0
+0 35 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6468
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6535
+S
+#6535
+A Dusty Path Through the Vineyard~
+ ~
+70 1 3 0
+0 35 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6538
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6534
+S
+#6536
+A Dusty Path Through the Vineyard~
+ ~
+70 1 3 0
+0 35 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6537
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6468
+S
+#6537
+A Dusty Path Through the Vineyard~
+ ~
+70 1 3 0
+0 35 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6550
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6536
+S
+#6538
+A Dusty Path Through the Vineyard~
+ ~
+70 1 3 0
+0 35 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6539
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6535
+S
+#6539
+A Dusty Path Through the Vineyard~
+ ~
+70 1 3 0
+0 35 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6540
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6538
+S
+#6540
+A Dusty Path Through the Vineyard~
+ ~
+70 1 3 0
+0 35 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6541
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6539
+S
+#6541
+A Dusty Path Through the Vineyard~
+ ~
+70 1 3 0
+0 35 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6542
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6540
+S
+#6542
+A Dusty Path Through the Vineyard~
+ ~
+70 1 3 0
+0 35 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6543
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6541
+S
+#6543
+A Dusty Path Through the Vineyard~
+ ~
+70 1 3 0
+0 35 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6544
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6542
+S
+#6544
+A Dusty Path Through the Vineyard~
+ ~
+70 1 3 0
+0 35 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6545
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6543
+S
+#6545
+A Dusty Path Through the Vineyard~
+ ~
+70 1 3 0
+0 35 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6546
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6544
+S
+#6546
+A Dusty Path Through the Vineyard~
+ ~
+70 1 3 0
+0 35 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6545
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6547
+S
+#6547
+A Dusty Path Through the Vineyard~
+ ~
+70 1 3 0
+0 35 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6546
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6548
+S
+#6548
+A Dusty Path Through the Vineyard~
+ ~
+70 1 3 0
+0 35 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6547
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6549
+S
+#6549
+A Dusty Path Through the Vineyard~
+ ~
+70 1 3 0
+0 35 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6548
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6550
+S
+#6550
+A Dusty Path Through the Vineyard~
+ ~
+70 1 3 0
+0 35 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6549
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6537
+S
+#6551
+Before a Maze of Overgrown Hedge~
+ ~
+70 1 3 0
+0 35 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6552
+S
+#6552
+Walking Through the Maze~
+ ~
+70 1 3 0
+0 35 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 580
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6551
+S
+#6778
+Before a Beautiful Stained-Glass Window~
+ A chaotic mosaic of jagged, colored shards of glass make up a window at least
+nine feet tall. The sunlight streams through the nightmarish stained-glass
+window forming a writhing pattern of images. Looking closely at the window you
+notice that there is a man clad in a coat of black velvet and golden breeches.
+A red ribbon ties back his long raven-dark hair. The portrait is exquisitely
+done, and the tiny fragments of glass render his gave, handsome features
+perfectly.
+~
+70 73 3 0
+0 35 0 0
+0 0 0
+D2
+ ~
+tapestry~
+$n pulls the tapestry aside and steps back into the library.~
+The tapestry moves and $n steps out from behind it.~
+3 -1 6394
+S
+#6779
+Before the Altar~
+ ~
+70 73 3 0
+0 35 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6395
+S
+#6799
+A Narrow, Overgrown Path~
+ ~
+70 1 3 0
+0 35 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6800
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 945
+S
+#6800
+A Narrow, Overgrown Path~
+ ~
+70 1 3 0
+0 35 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6801
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6799
+S
+#6801
+A Narrow, Overgrown Path~
+ ~
+70 1 3 0
+0 35 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6802
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6800
+S
+#6802
+A Circular Altar of White Pillars~
+ A deep, persuasive silence overwhelms you and embraces the entire area with
+solitude. Unlike the decay and death that embodies the Mansion, you feel like
+you have stepped into another place and time far away from that chaotic realm.
+You stand in the center of a beautiful, flourishing garden. The altar has been
+crafted from a marbled white stone set in a circular pattern of white pillars.
+The top of the altar is covered with a metal latice design that you can look
+through, past the darkening sky into the dominions of stillness and grace.
+Gentle moonbeams bathe the area in a silver fluid grace that seem to stop the
+hand of time with their magic. Deep purple vines spiral and encircle the
+pillars and small wild black roses cover the ground. But what draws your
+attention the most is standing in the center of the altar...a statue of a woman
+who's beauty surpasses the natural beauty around you with a profound
+sacredness.
+~
+70 1 3 0
+0 35 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6801
+S
+#6825
+A grand, lavishly decorated ballroom~
+ Despite the overall neglect of the mansion, this room has managed to retain
+some of its magnificent splendor. A large, silver chandelier, somewhat
+tarnished but still quite beautiful hangs from the ceiling. The oak floors,
+while slightly dulled, still retain most of their shiny luster. An archway,
+near the western end of the ballroom lead outside onto a balcony.
+~
+70 73 0 0
+0 35 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 923
+D3
+You see a large balcony overlooking a garden.
+~
+doors~
+$n steps out on the balcony for a breath of fresh air.~
+$n departs the stuffiness of the ballroom and steps out for a breath of fresh air.~
+1 -1 6826
+S
+#6826
+On a balcony, overlooking the garden~
+ The view from the balcony is quite beautiful. Just below you, you see a large
+garden, surrounded by what looks like a maze of thick, tall bushes that for the
+most part block your view of the interior of the garden. Off in the distant
+horizon you see the side of the cliff that the mansion sits on.
+~
+70 64 0 0
+0 35 0 0
+0 0 0
+D1
+ ~
+door~
+ ~
+ ~
+1 -1 6825
+S
+#19026
+The Gate of Kierstaad~
+ A feeling of panic rushes through you as you find yourself standing before a
+black iron gate that towers at least twenty feet above you. The very air around
+you weighs heavy on your soul and a feeling of dread that you cannot quite
+place whispers of secrets long forgotten. Placing your hands lightly on the
+cold black iron you feel pain and love resonate through your body. Spiraling up
+and around the gate are beautiful deep purple vines that strangle and choke off
+the wild flowers that grow nearby. Beyond the gate lies a gloomy darkness that
+hoovers around you, threatening to consume you. Along each side of the gate is
+a high wall covered by the surrounding forest.
+~
+70 5 3 0
+0 35 0 0
+0 0 0
+D0
+To your north towers a black iron gate blocking any attempts at
+moving forward. You notice in the center of the gate is a detailed
+carving of the figure of a beautiful woman. Wrapped around her body
+are the wings of an angel, veiling her face from view. The iron bars
+seem to portray her eternal prison.
+~
+gate~
+$n opens the gate and steps through...~
+$n steps cautiously into the darkness.~
+2 18012 6336
+S
+#19999
+$~

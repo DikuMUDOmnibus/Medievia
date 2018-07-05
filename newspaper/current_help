@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+How Do I Read the MudSlinger?
+------------------------------------------------------------------------------
+
+The MudSlinger is set up like a real newspaper.  Each story has it's own 
+'look at <STORY>' keyword.  For example, if we had a story about the 
+catacombs, the most likely "keyword" would be CATACOMBS.  Therefore, to 
+read the story would would type 'look at catacombs' or 'look catacombs'.  
+
+You can find the keyword of a story 3 ways:
+
+1) Look at the newspaper (front page).  Each story has this setup:
+
+[HEADLINE OF STORY IN CAPS]
+By [AUTHOR]  (See [KEYWORD])
+
+Some storys are too long and require 2 parts.  They will be in the format 
+STORY,STORY2 where STORY2 is the continuation of the story.
+
+2) Look at the index.  Type 'look index' and you'll see a listing of each 
+"section" with it's keywords followed in CAPS.  The index is a great tool 
+after you read the front page to remind yourself of other stories.
+
+3) *New in this issue* Look at the article.  At the top of each article 
+is the keyword next to the author's name, just like the front page.
+
+If you need further help with the paper or have any other suggestions, 
+please talk to either Columnus or Yugo when they are online.
+~

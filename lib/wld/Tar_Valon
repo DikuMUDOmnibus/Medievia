@@ -1,0 +1,3586 @@
+#600
+A Nobleman's house~
+This house is lavishly furnished with imports from across the realm. Obviously
+this Noble is well-to-do. There are brass baubles all around the room and there
+are even glass windows. You think the owner must be very rich.
+~
+9 8 1 7
+0 0 0 0
+5 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4901
+S
+#601
+A Nobleman's house~
+This house is lavishly furnished with imports from across the realm. Obviously
+this Noble is well-to-do. There are brass baubles all around the room and there
+are even glass windows. You think the owner must be very rich.
+~
+9 8 1 7
+0 0 0 0
+5 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4902
+S
+#602
+A Nobleman's house~
+This house is lavishly furnished with imports from across the realm. Obviously
+this Noble is well-to-do. There are brass baubles all around the room and there
+are even glass windows. You think the owner must be very rich.
+~
+9 8 1 7
+0 0 0 0
+5 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4903
+S
+#829
+The gates to Tar Valon~
+As you look up you see the grand gates open to your entrance. Guard towers are
+to your right and left. You think someone would be foolish to attack this city.
+Especially with all the Aes Sedai here...
+~
+9 8 1 0
+0 0 0 0
+5 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 909
+D1
+ ~
+wooden door~
+ ~
+ ~
+1 -1 830
+D2
+You see the grand river flowing south around the city.
+~
+gate gates~
+ ~
+ ~
+1 -1 900
+D3
+ ~
+wooden door~
+ ~
+ ~
+1 -1 831
+S
+#830
+East Guard Tower~
+You stand in the east guard tower.  As you look around you see old weapons,
+cups, and bowls scattered around. Off in the corner you see a rickety stairwell
+leading to upper levels.
+~
+9 8 1 7
+0 0 0 0
+5 0 0
+D3
+ ~
+wooden door~
+ ~
+ ~
+1 -1 829
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 901
+S
+#831
+West Guard Tower~
+As you stand in this stone guard tower you can see a stairway off in the
+corner. Old yet sturdy, you see the age of the stones in all the cracks. You
+think if you get to the top of the tower it will give you a better perspective.
+~
+9 8 1 7
+0 0 0 0
+5 0 0
+D1
+ ~
+wooden door~
+ ~
+ ~
+1 -1 829
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 903
+S
+#900
+Entrance to the Grand City of Tar Valon~
+You are standing at the entrance ot the city of Tar Valon.  This is where the
+Amyrlin seat is located. The leader of the Aes Sedai. The Amyrlin gives counsel
+to people on matters of state. Possibly you could talk to her if you have
+something she could assist with. The island is very busy with people going to
+and fro. Watch out, there may be darkfriends afoot.
+Item: sign
+~
+9 4 1 0
+0 0 0 0
+5 0 0
+D0
+As you look north you see a large city with an even larger stone tower in the
+center. You are amazed at the immensity of Tar Valon. You wonder if there isn't
+anything you can't find here.
+~
+gate gates~
+You see $n come from the grand city astounded with their discoveries.~
+You see $n scramble up from the river below to stand at the gates.~
+1 -1 829
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4531
+E
+sign post banner~
+Welcome to the city of Tar Valon!
+Visitors are most welcome.
+Please make yourself at home with us.
+If you need to see the Amyrlin, please make an appointment.
+~
+S
+#901
+East Guard Tower~
+Inside this tower you can see the extreme age of the structure. Mud fills
+cracks in the walls and dust covers the wood planking on the floor. You
+see the stairs continue up but cant seem to find an opening to the next level.
+As you look out the opening in the wall, you can see the well traveled road
+which leads in and out of Tar Valon.
+~
+9 8 1 7
+0 0 0 0
+5 0 0
+D4
+ ~
+hatch~
+ ~
+ ~
+3 -1 902
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 830
+S
+#902
+Top of East Tower~
+You are standing atop the eastern guard tower.  From this vantage you can see
+for miles in just about every direction.  You see people walking in and out
+of Tar Valon here for all sorts of business.  Horses and people line the
+streets.
+~
+9 8 1 7
+0 0 0 0
+5 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 905
+D5
+ ~
+hatch~
+ ~
+ ~
+3 -1 901
+S
+#903
+West Guard Tower~
+Inside this tower you can see the extreme age of the structure. Mud fills
+cracks in the walls and dust covers the wood planking on the floor. You
+see the stairs continue up but cant seem to find an opening to the next level.
+As you look out the opening in the wall, you can see the well traveled road
+which leads in and out of Tar Valon.
+~
+9 8 1 7
+0 0 0 0
+5 0 0
+D4
+ ~
+hatch~
+ ~
+ ~
+3 -1 904
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 831
+S
+#904
+Top of the West Tower~
+You are standing atop the western guard tower.  From this vantage you can see
+for miles in just about every direction.  You see people walking in and out
+of Tar Valon here for all sorts of business.  Horses and people line the
+streets.
+~
+9 8 1 7
+0 0 0 0
+5 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 905
+D5
+ ~
+hatch~
+ ~
+ ~
+3 -1 903
+S
+#905
+Center of the tower~
+As you stand in the center of this bulwark you can see tower rooms to the
+sides. This vantage allows you to see for miles to the south. Small but
+effective, this gatehouse would allow the guards to see any attack on its way.
+~
+9 8 1 7
+0 0 0 0
+5 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 902
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 904
+S
+#909
+Tower street~
+This street allows travel between the south port and the White tower.  The
+Eldone market is just to the north where everything from armor to Yaks are
+sold. Tar Valon is full of whitecloaks that walk in the light. Darkfriends hide
+everywhere, even with Aes Sedai and the Amyrlin seat so closeby...
+~
+9 0 1 0
+0 0 0 0
+5 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 960
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 829
+S
+#960
+Tower street~
+The famous Eldone market is abustle with citizen traffic.  You see merchants
+on both sides of the street. You also see the White tower to the north.
+Whitecloaks wander the street in their pure white garb and you are sure that
+darkfriends are lurking in the shadows....
+~
+9 0 1 0
+0 0 0 0
+5 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1927
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4552
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 909
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4554
+S
+#971
+A Nobleman's house~
+This house is lavishly furnished with imports from across the realm. Obviously
+this Noble is well-to-do. There are brass baubles all around the room and there
+are even glass windows. You think the owner must be very rich.
+~
+9 8 1 7
+0 0 0 0
+5 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4906
+S
+#1196
+Deep in the Grove~
+You are inside the Ogier grove. A large row of green hedges surrounds the
+grove. Various plants and trees inhabit this grove and give it a tranquil tone.
+You can appreciate the meticulous care with which the Ogiers take care of
+their precious grove.
+~
+9 0 1 7
+0 0 0 0
+5 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4728
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2007
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1197
+S
+#1197
+Deep in the Grove~
+You are inside the Ogier grove. A large row of green hedges surrounds the
+grove. Various plants and trees inhabit this grove and give it a tranquil tone.
+You can appreciate the meticulous care with which the Ogiers take care of
+their precious grove.
+~
+9 0 1 7
+0 0 0 0
+5 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1196
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2008
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1382
+S
+#1382
+Deep in the Grove~
+You are inside the Ogier grove. A large row of green hedges surrounds the
+grove. Various plants and trees inhabit this grove and give it a tranquil tone.
+You can appreciate the meticulous care with which the Ogiers take care of
+their precious grove.
+~
+9 0 1 7
+0 0 0 0
+5 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1197
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2070
+S
+#1927
+Tower street~
+This street allows travel between the south port and the White tower.  You
+are in the center of Eldone market, where everything from armor to Yaks are
+sold. Tar Valon is full of whitecloaks that walk in the light. Darkfriends hide
+everywhere, even with Aes Sedai and the Amyrlin seat so closeby...
+~
+9 0 1 0
+0 0 0 0
+5 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4010
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4556
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 960
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4555
+S
+#2005
+Deep in the Grove~
+You have entered the Ogier grove.  A large hedge row surrounds the grove.
+Various plants and trees inhabit this grove and give it a tranquil tone. You
+can appreciate the meticulous care with which the Ogires take care of their
+precious grove.
+~
+9 0 1 7
+0 0 0 0
+5 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2007
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4728
+S
+#2007
+Deep in the Grove~
+You are inside the Ogier grove. A large row of green hedges surrounds the
+grove. Various plants and trees inhabit this grove and give it a tranquil tone.
+You can appreciate the meticulous care with which the Ogiers take care of
+their precious grove.
+~
+9 0 1 7
+0 0 0 0
+5 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2005
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2008
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1196
+S
+#2008
+Deep in the Grove~
+You are inside the Ogier grove. A large row of green hedges surrounds the
+grove. Various plants and trees inhabit this grove and give it a tranquil tone.
+You can appreciate the meticulous care with which the Ogiers take care of
+their precious grove.
+~
+9 0 1 7
+0 0 0 0
+5 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2007
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2070
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1197
+S
+#2070
+Deep in the Grove~
+You are inside the Ogier grove. A large row of green hedges surrounds the
+grove. Various plants and trees inhabit this grove and give it a tranquil tone.
+You can appreciate the meticulous care with which the Ogiers take care of
+their precious grove.
+~
+9 0 1 7
+0 0 0 0
+5 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2008
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1382
+S
+#2368
+Practice grounds~
+You can see a small dirt ring with a wooden post fence all around it. Warders
+come here daily to work on their sword skills. Masters of swordsmanship,
+Warders train hard so they will be able to defend their Aes Sedai.
+~
+9 0 1 3
+0 0 0 0
+5 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2370
+D2
+ ~
+fence~
+ ~
+ ~
+1 -1 4588
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2369
+S
+#2369
+Practice grounds~
+You can see a small dirt ring with a wooden post fence all around it. Warders
+come here daily to work on their sword skills. Masters of swordsmanship,
+Warders train hard so they will be able to defend their Aes Sedai.
+~
+9 0 1 3
+0 0 0 0
+5 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2396
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2368
+S
+#2370
+Practice grounds~
+You can see a small dirt ring with a wooden post fence all around it. Warders
+come here daily to work on their sword skills. Masters of swordsmanship,
+Warders train hard so they will be able to defend their Aes Sedai.
+~
+9 0 1 3
+0 0 0 0
+5 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2368
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2396
+S
+#2396
+Practice grounds~
+You can see a small dirt ring with a wooden post fence all around it. Warders
+come here daily to work on their sword skills. Masters of swordsmanship,
+Warders train hard so they will be able to defend their Aes Sedai.
+~
+9 0 1 3
+0 0 0 0
+5 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2370
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2369
+S
+#2397
+Cairhien street~
+The White tower is an ominous icon in the midle of Tar Valon. As you travel
+this street your aspect from it changes and the light reflects off the gleaming
+walls. You can hear the sounds of metal against metal and soon see that Warders
+are practicing nearby.
+~
+9 0 1 0
+0 0 0 0
+5 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2398
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4590
+S
+#2398
+Cairhien street~
+The White tower is an ominous icon in the midle of Tar Valon. As you travel
+this street your aspect from it changes and the light reflects off the gleaming
+walls. You can hear the sounds of metal against metal and soon see that Warders
+are practicing nearby.
+~
+9 0 1 0
+0 0 0 0
+5 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2399
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2397
+S
+#2399
+Cairhien street~
+The White tower is an ominous icon in the midle of Tar Valon. As you travel
+this street your aspect from it changes and the light reflects off the gleaming
+walls. You can hear the sounds of metal against metal and soon see that Warders
+are practicing nearby.
+~
+9 0 1 0
+0 0 0 0
+5 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2398
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2401
+S
+#2401
+Cairhien street~
+The White tower is an ominous icon in the midle of Tar Valon. As you travel
+this street your aspect from it changes and the light reflects off the gleaming
+walls. You can hear the sounds of metal against metal and soon see that Warders
+are practicing nearby.
+~
+9 0 1 0
+0 0 0 0
+5 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5476
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2399
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2477
+S
+#2477
+Cairhien street~
+The White tower is an ominous icon in the midle of Tar Valon. As you travel
+this street your aspect from it changes and the light reflects off the gleaming
+walls. You can hear the sounds of metal against metal and soon see that Warders
+are practicing nearby.
+~
+9 0 1 0
+0 0 0 0
+5 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5475
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2401
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2478
+S
+#2478
+Cairhien street~
+The White tower is an ominous icon in the midle of Tar Valon. As you travel
+this street your aspect from it changes and the light reflects off the gleaming
+walls. You can hear the sounds of metal against metal and soon see that Warders
+are practicing nearby.
+~
+9 0 1 0
+0 0 0 0
+5 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5474
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2477
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2736
+S
+#2736
+Cairhien street~
+The White tower is an ominous icon in the midle of Tar Valon. As you travel
+this street your aspect from it changes and the light reflects off the gleaming
+walls. You can hear the sounds of metal against metal and soon see that Warders
+are practicing nearby.
+~
+9 0 1 0
+0 0 0 0
+5 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2478
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2798
+S
+#2798
+Tower street~
+This street allows travel between the north port and the White tower.
+Nobleman's homes are to the north with NorthHarbor being past the northern
+gates. Tar Valon is the home to the Amyrlin seat, the head of the Aes Sedai.
+There are Whitecloaks everywhere, they even have a barracks closeby.
+~
+9 0 1 0
+0 0 0 0
+5 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2890
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2736
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4948
+S
+#2890
+Tower street~
+This street allows travel between the north port and the White tower.
+Nobleman's homes are to the north with NorthHarbor being past the northern
+gates. Tar Valon is the home to the Amyrlin seat, the head of the Aes Sedai.
+There are Whitecloaks everywhere, they even have a barracks closeby.
+~
+9 0 1 0
+0 0 0 0
+5 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2961
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5271
+D2
+ ~
+door~
+ ~
+ ~
+1 -1 2798
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5272
+S
+#2961
+Tower street~
+This street allows travel between the north port and the White tower.
+Nobleman's homes are to the east and west and as you look north you can see the
+gates to NorthHarbor. Tar Valon is the home to the Amyrlin seat, the head of
+the Aes Sedai. There are Whitecloaks everywhere, they even have a barracks
+closeby.
+~
+9 0 1 0
+0 0 0 0
+5 0 0
+D0
+ ~
+door~
+lock mist~
+close mist~
+1 -1 4913
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5151
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2890
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5191
+S
+#4010
+Tower street~
+The famous Eldone market is abustle with citizen traffic.  You see merchants
+on both sides of the street. You also see the White tower to the north.
+Whitecloaks wander the street in their pure white garb and you are sure that
+darkfriends are lurking in the shadows....
+~
+9 0 1 0
+0 0 0 0
+5 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4549
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4558
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1927
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4559
+S
+#4531
+SouthHarbor, Tar Valon~
+You are standing at the southern entrance to Tar Valon, the home to the
+Amyrlin seat. The Erinin river flows north and south around Tar Valon. You can
+see the ancient ogier grove to the north-east. The White tower looms before you
+in magnificient splendor.
+~
+9 4 1 0
+0 0 0 0
+5 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 900
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 4551
+S
+#4549
+Tower street~
+This street allows travel between the south port and the White tower.  The
+The White tower is just to the north where the Amyrlin seat calls home.
+Tar Valon is full of whitecloaks that walk in the light.  Darkfriends hide
+everywhere, even with Aes Sedai and the Amyrlin seat so closeby...
+~
+9 512 1 3
+0 0 0 0
+5 0 0
+D0
+ ~
+gate gates~
+ ~
+ ~
+1 -1 4550
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4010
+S
+#4550
+The entrance to the White Tower~
+As you look up towards the top of the White tower you notice the flawless
+marble that makes up the sides. Gleaming white, the tower stands for the One
+Power that the Aes Sedai wield to do good deeds. The White tower is home to the
+Amyrlin seat who leads the Aes Sedai. Aes Sedai and their Warder companions
+fight against the Dark One. The Sedai are constantly on the look-out for
+someone that claims to be the Dragon. When they find him, it will mean
+the beginning of the end.
+~
+9 1156 1 3
+0 0 0 0
+5 0 0
+D0
+ ~
+doors gates~
+lock mist gates~
+close mist~
+1 -1 4562
+D2
+ ~
+gate gates~
+ ~
+ ~
+1 -1 4549
+S
+#4551
+The Erinin river~
+ ~
+9 262148 7 7
+0 0 0 0
+5 0 0
+D1
+~
+~
+~
+~
+0 0 63385
+D2
+~
+~
+~
+~
+0 0 63384
+D3
+~
+~
+~
+~
+0 0 63386
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 4531
+S
+#4552
+The Eldone market~
+Eldone market is where Tar Valon shopkeepers call home. They come here every
+day and set up shop. The market is home to some of the finest imports in the
+realm. You can find just about everything here. You see Whitecloaks patrolling
+the market in look of trouble. You think it best to keep out of the way.
+~
+9 1172 1 7
+0 0 0 0
+5 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4556
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 960
+S
+#4554
+The Eldone market~
+Eldone market is where Tar Valon shopkeepers call home. They come here every
+day and set up shop. The market is home to some of the finest imports in the
+realm. You can find just about everything here. You see Whitecloaks patrolling
+the market in look of trouble. You think it best to keep out of the way.
+~
+9 1172 1 3
+0 0 0 0
+5 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4555
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 960
+S
+#4555
+The Eldone market~
+Eldone market is where Tar Valon shopkeepers call home. They come here every
+day and set up shop. The market is home to some of the finest imports in the
+realm. You can find just about everything here. You see Whitecloaks patrolling
+the market in look of trouble. You think it best to keep out of the way.
+~
+9 1172 1 0
+0 0 0 0
+5 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4559
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1927
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4554
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4900
+S
+#4556
+The Eldone market~
+Eldone market is where Tar Valon shopkeepers call home. They come here every
+day and set up shop. The market is home to some of the finest imports in the
+realm. You can find just about everything here. You see Whitecloaks patrolling
+the market in look of trouble. You think it best to keep out of the way.
+~
+9 1172 1 0
+0 0 0 0
+5 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4558
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4727
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4552
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1927
+S
+#4557
+Tower street~
+You are standing at the southern entrance to Tar Valon, the home to the
+Amyrlin seat. The Erinin river flows north and south around Tar Valon. You can
+see the ancient ogire grove to the north-east. The White tower looms before you
+in magnificient splendor.
+~
+9 512 1 0
+0 0 0 0
+5 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4552
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4552
+S
+#4558
+The Eldone market~
+Eldone market is where Tar Valon shopkeepers call home. They come here every
+day and set up shop. The market is home to some of the finest imports in the
+realm. You can find just about everything here. You see Whitecloaks patrolling
+the market in look of trouble. You think it best to keep out of the way.
+~
+9 1172 1 7
+0 0 0 0
+5 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4556
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4010
+S
+#4559
+The Eldone market~
+Eldone market is where Tar Valon shopkeepers call home. They come here every
+day and set up shop. The market is home to some of the finest imports in the
+realm. You can find just about everything here. You see Whitecloaks patrolling
+the market in look of trouble. You think it best to keep out of the way.
+~
+9 1172 1 7
+0 0 0 0
+5 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4010
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4555
+S
+#4562
+Foyer~
+As you enter the White tower you are astonished at the immense size of this
+room. White almost blinds you as candle light reflect off the walls. Natural
+light is let in through sky-lights in the dome up above. There is a gleaming
+silver carpet that runs down the center of the floor all the way up to the
+staircase.
+~
+9 8 1 3
+0 0 0 0
+5 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4578
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4577
+D2
+ ~
+doors gates~
+ ~
+ ~
+1 -1 4550
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4576
+S
+#4576
+A long hallway~
+Exquisite murals line the walls depicting battles long forgotten. The Aes
+Sedai and the White tower have been in existance for longer than anyone can
+remember. Warders protect the Aes Sedai in their task of clearing the realm of
+evil. There are murals also showing combat between the forces of evil and the
+wielders of the One Power.
+~
+9 8 1 7
+0 0 0 0
+5 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4579
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4562
+S
+#4577
+A long hallway~
+Exquisite murals line the walls depicting battles long forgotten. The Aes
+Sedai and the White tower have been in existance for longer than anyone can
+remember. Warders protect the Aes Sedai in their task of clearing the realm of
+evil. There are murals also showing combat between the forces of evil and the
+wielders of the One Power.
+~
+9 8 1 7
+0 0 0 0
+5 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4580
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4562
+S
+#4578
+The main entry way~
+As you enter the White tower you are astonished at the immense size of this
+room. White almost blinds you as candle light reflect off the walls. Natural
+light is let in through sky-lights in the dome up above. There is a gleaming
+silver carpet that runs down the center of the floor all the way up to the
+staircase.
+~
+9 8 1 3
+0 0 0 0
+5 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4731
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4580
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4562
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4579
+S
+#4579
+A long hallway~
+Exquisite murals line the walls depicting battles long forgotten. The Aes
+Sedai and the White tower have been in existance for longer than anyone can
+remember. Warders protect the Aes Sedai in their task of clearing the realm of
+evil. There are murals also showing combat between the forces of evil and the
+wielders of the One Power.
+~
+9 8 1 3
+0 0 0 0
+5 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4730
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4578
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4576
+D3
+ ~
+gate gates~
+ ~
+ ~
+1 -1 4581
+S
+#4580
+A long hallway~
+Exquisite murals line the walls depicting battles long forgotten. The Aes
+Sedai and the White tower have been in existance for longer than anyone can
+remember. Warders protect the Aes Sedai in their task of clearing the realm of
+evil. There are murals also showing combat between the forces of evil and the
+wielders of the One Power.
+~
+9 8 1 3
+0 0 0 0
+5 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4807
+D1
+ ~
+gate gates~
+ ~
+ ~
+1 -1 4587
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4577
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4578
+S
+#4581
+Shienar street~
+The White tower rises to the east where the Sedai reside. The Amyrlin Seat is
+the magistrate for this part of the realm. Nobles come to her to settle
+disputes and other disagreements. West a marble bridge leads out of Tar Valon
+and you can see the Whitecloaks barracks to the north.
+~
+9 0 1 0
+0 0 0 0
+5 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4957
+D1
+ ~
+gate gates~
+ ~
+ ~
+1 -1 4579
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4906
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4582
+S
+#4582
+Shienar street~
+The White tower rises to the east where the Sedai reside. The Amyrlin Seat is
+the magistrate for this part of the realm. Nobles come to her to settle
+disputes and other disagreements. West a marble bridge leads out of Tar Valon
+and you can see the Whitecloaks barracks to the north.
+~
+9 0 1 0
+0 0 0 0
+5 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4581
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4583
+S
+#4583
+Shienar street~
+The White tower rises to the east where the Sedai reside. The Amyrlin Seat is
+the magistrate for this part of the realm. Nobles come to her to settle
+disputes and other disagreements. West a marble bridge leads out of Tar Valon
+and you can see the Whitecloaks barracks to the north.
+~
+9 0 1 0
+0 0 0 0
+5 0 0
+D0
+ ~
+door~
+l~
+ ~
+1 -1 5477
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4582
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4584
+S
+#4584
+Shienar street~
+The White tower rises to the east where the Sedai reside. The Amyrlin Seat is
+the magistrate for this part of the realm. Nobles come to her to settle
+disputes and other disagreements. West a marble bridge leads out of Tar Valon
+and you can see the Whitecloaks barracks to the north.
+~
+9 0 1 0
+0 0 0 0
+5 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4583
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4585
+S
+#4585
+A White marble bridge~
+You are standing on a magnificent white marble bridge over the Erinin river.
+The White tower is to your east. As you inspect the bridge you determine for
+yourself that it is very rare and must be very old. Tar Valon looks vulnerable
+but you think with all the Aes Sedai here it will be kept safe for ages to
+come.
+~
+9 4 1 0
+0 0 0 0
+5 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4584
+D3
+~
+~
+~
+~
+0 0 63392
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 4586
+S
+#4586
+The Alindrelle Erinin~
+ ~
+9 0 7 7
+0 0 0 0
+5 0 0
+D0
+~
+~
+~
+~
+0 0 63391
+D2
+~
+~
+~
+~
+0 0 63390
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 4585
+S
+#4587
+Garden path~
+As you walk through the gardens you can smell the odor of fresh hay comming
+from the south.  You can see a dirt covered ring to the north through a small
+fence. It must be where the Warders train and spar each other.
+The White tower gate is to the west.
+~
+9 0 1 3
+0 0 0 0
+5 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4588
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4597
+D3
+ ~
+gate gates~
+ ~
+ ~
+1 -1 4580
+S
+#4588
+Garden path~
+As you walk through the gardens you can smell the odor of fresh hay comming
+from the south.  You can see a dirt covered ring to the north through a small
+fence. It must be where the Warders train and spar each other.
+~
+9 0 1 3
+0 0 0 0
+5 0 0
+D0
+ ~
+fence~
+ ~
+ ~
+1 -1 2368
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4589
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4621
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4587
+S
+#4589
+Garden path~
+As you walk through the gardens you can smell the odor of fresh hay comming
+from the south.  You can see a dirt covered ring to the north through a small
+fence. It must be where the Warders train and spar each other.
+~
+9 0 1 3
+0 0 0 0
+5 0 0
+D1
+ ~
+gate~
+ ~
+ ~
+1 -1 4590
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4588
+S
+#4590
+Cairhien street~
+The White tower is an ominous icon in the midle of Tar Valon. As you travel
+this street your aspect from it changes and the light reflects off the gleaming
+walls. You can hear the sounds of metal against metal and soon see that Warders
+are practicing nearby.
+~
+9 0 1 0
+0 0 0 0
+5 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2397
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4591
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4693
+D3
+ ~
+gate~
+ ~
+ ~
+1 -1 4589
+S
+#4591
+Cairhien street~
+The White tower is an ominous icon in the midle of Tar Valon. As you travel
+this street your aspect from it changes and the light reflects off the gleaming
+walls. You can hear the sounds of metal against metal and soon see that Warders
+are practicing nearby.
+~
+9 0 1 0
+0 0 0 0
+5 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4592
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4590
+S
+#4592
+Cairhien street~
+This street runs in the east and west directions. You see a row of hedges to
+the south and the river Erinin is to your east. The White tower stables and
+practice grounds are to the west. You can hear the sounds of metal striking
+metal and you believe it to be Warders having their daily work out.
+~
+9 0 1 0
+0 0 0 0
+5 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4594
+D2
+ ~
+ ~
+ ~
+ ~
+5 -1 4728
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4591
+E
+hedge hedges~
+You see a large block of thorny hedges that are very thick. As you explore the
+branches you think you can see some light comming through from the other side.
+Maybe you can press through but you might get a little scraped...
+~
+S
+#4594
+Cairhien street~
+This street runs in the east and west directions.  You see a hedgerow to the
+south and the river Erinin is to your east. The White tower stables and
+practice grounds are to the west. You can hear the sounds of metal striking
+metal and you believe it to be Warders having their daily work out.
+~
+9 0 1 0
+0 0 0 0
+5 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4595
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4592
+S
+#4595
+A White marble bridge~
+You are standing on a magnificent white marble bridge over the Erinin river.
+The White tower is to your west.  As you inspect the bridge you determine for
+yourself that it is very rare and must be very old. Tar Valon looks vulnerable
+but you think with all the Aes Sedai here it will be kept safe for ages to
+come.
+~
+9 0 1 0
+0 0 0 0
+5 0 0
+D1
+~
+~
+~
+~
+0 0 63381
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4594
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 4596
+S
+#4596
+The Esendrelle Erinin~
+ ~
+9 0 7 7
+0 0 0 0
+5 0 0
+D0
+~
+~
+~
+~
+0 0 63382
+D2
+~
+~
+~
+~
+0 0 63383
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 4595
+S
+#4597
+White tower stables~
+A large marble structure that looks very old, the White tower stables are home
+to the Aes Sedais' mounts.  The Warders also keep their steeds here.  Hay
+carpets the floor and the smell of barley and oats fills the air. There are
+stalls lining the walls and tack hung up on posts next to them.
+~
+9 8 1 3
+0 0 0 0
+5 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4587
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4621
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4598
+S
+#4598
+White tower stables~
+A large marble structure that looks very old, the White tower stables are home
+to the Aes Sedais' mounts.  The Warders also keep their steeds here.  Hay
+carpets the floor and the smell of barley and oats fills the air. There are
+stalls lining the walls and tack hung up on posts next to them.
+~
+9 8 1 3
+0 0 0 0
+5 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4597
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4640
+S
+#4621
+White tower stables~
+A large marble structure that looks very old, the White tower stables are home
+to the Aes Sedais' mounts.  The Warders also keep their steeds here.  Hay
+carpets the floor and the smell of barley and oats fills the air. There are
+stalls lining the walls and tack hung up on posts next to them.
+~
+9 8 1 3
+0 0 0 0
+5 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4588
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4640
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4597
+S
+#4640
+White tower stables~
+A large marble structure that looks very old, the White tower stables are home
+to the Aes Sedais' mounts.  The Warders also keep their steeds here.  Hay
+carpets the floor and the smell of barley and oats fills the air. There are
+stalls lining the walls and tack hung up on posts next to them.
+~
+9 8 1 3
+0 0 0 0
+5 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4621
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4598
+S
+#4693
+Cairhien street~
+The White tower is an ominous icon in the midle of Tar Valon. As you travel
+this street your aspect from it changes and the light reflects off the gleaming
+walls. You can hear the sounds of metal against metal and soon see that Warders
+are practicing nearby. You see a hedgerow to your east.
+~
+9 0 1 0
+0 0 0 0
+5 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4590
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4694
+S
+#4694
+Cairhien street~
+The White tower is an ominous icon in the midle of Tar Valon. As you travel
+this street your aspect from it changes and the light reflects off the gleaming
+walls. You can hear the sounds of metal against metal and soon see that Warders
+are praticing nearby. You can see a row of green thorn hedge to your east.
+~
+9 0 1 0
+0 0 0 0
+5 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4693
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4695
+S
+#4695
+Cairhien street~
+The White tower is an ominous icon in the middle of Tar Valon. As you travel
+this street your aspect from it changes and the light reflects off the gleaming
+walls. You can see the back of the stables to the north, and Eldone market to
+the west. are practicing nearby.
+~
+9 0 1 0
+0 0 0 0
+5 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4694
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4696
+S
+#4696
+Cairhien street~
+The White tower is an ominous icon in the middle of Tar Valon. As you travel
+this street your aspect from it changes and the light reflects off the gleaming
+walls. You can see the back of the stables to the north, and Eldone market to
+the west. are practicing nearby.
+~
+9 0 1 0
+0 0 0 0
+5 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4695
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4726
+S
+#4726
+Cairhien street~
+The White tower is an ominous icon in the middle of Tar Valon. As you travel
+this street your aspect from it changes and the light reflects off the gleaming
+walls. You can see the back of the stables to the north, and Eldone market to
+the west. are practicing nearby.
+~
+9 0 1 0
+0 0 0 0
+5 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4696
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4727
+S
+#4727
+Cairhien street~
+The White tower is an ominous icon in the middle of Tar Valon. As you travel
+this street your aspect from it changes and the light reflects off the gleaming
+walls. You can see the back of the stables to the north, and Eldone market to
+the west. are practicing nearby.
+~
+9 0 1 0
+0 0 0 0
+5 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4726
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4556
+S
+#4728
+Entrance to the Ogier Grove~
+You have entered the Ogier grove.  A large hedge row surrounds the grove.
+Various plants and trees inhabit this grove and give it a tranquil tone. You
+can appreciate the meticulous care with which the Ogires take care of their
+precious grove.
+~
+9 4 1 7
+0 0 0 0
+5 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+5 -1 4592
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2005
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1196
+E
+hedge hedges~
+As you look north you can see cobblestones on the ground. You can see a slight
+part in the hedge where you pressed through. The thorns look sharp and long.
+~
+S
+#4730
+A long hallway~
+Exquisite murals line the walls depicting battles long forgotten. The Aes
+Sedai and the White tower have been in existance for longer than anyone can
+remember. Warders protect the Aes Sedai in their task of clearing the realm of
+evil. There are murals also showing combat between the forces of evil and the
+wielders of the One Power.
+~
+9 8 1 7
+0 0 0 0
+5 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4731
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4579
+S
+#4731
+A long marble stairway~
+A huge silver marble staircase looms before you as it wraps around east and
+west as well as upwards. As you explore around the back side of the stairwell
+you can see the faint impression of something in the floor near the back wall.
+Crystal bannisters line the stairwell as it goes up. There is a large portait
+of the Amyrlin Seat at the top of the stairwell.
+~
+9 8 1 3
+0 0 0 0
+5 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4807
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4578
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4730
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 4899
+D5
+ ~
+trapdoor door~
+ ~
+ ~
+3 -1 4811
+S
+#4807
+A long hallway~
+Exquisite murals line the walls depicting battles long forgotten. The Aes
+Sedai and the White tower have been in existance for longer than anyone can
+remember. Warders protect the Aes Sedai in their task of clearing the realm of
+evil. There are murals also showing combat between the forces of evil and the
+wielders of the One Power.
+~
+9 8 1 7
+0 0 0 0
+5 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4580
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4731
+S
+#4811
+The White tower dungeons~
+Down in the dark dungeons of the White tower. Darkfriends and False-Dragons
+are interrogated here. You are not sure how long you want to be down here.
+~
+9 9 1 7
+0 0 0 0
+5 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4816
+D4
+ ~
+trapdoor door~
+ ~
+ ~
+3 -1 4731
+S
+#4816
+A dank dark hallway~
+Down in the dark dungeons of the White tower. Darkfriends and False-Dragons
+are interrogated here. You are not sure how long you want to be down here.
+~
+9 13 1 7
+0 0 0 0
+5 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4811
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4898
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4818
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4897
+S
+#4818
+A dark hallway~
+Down in the dark dungeons of the White tower. Darkfriends and False-Dragons
+are interrogated here. You are not sure how long you want to be down here.
+~
+9 13 1 7
+0 0 0 0
+5 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4816
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4863
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4836
+S
+#4836
+A dark cell~
+A dark, damp, and dirty holding cell. Time has not been kind to the people
+kept in these cells. Moss lines the walls and water drips down the walls
+allowing mold to grow. There is a musty smell that fills the dungeon.
+~
+9 9 1 7
+0 0 0 0
+5 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4818
+S
+#4863
+A dark cell~
+A dark, damp, and dirty holding cell. Time has not been kind to the people
+kept in these cells. Moss lines the walls and water drips down the walls
+allowing mold to grow. There is a musty smell that fills the dungeon.
+~
+9 9 1 7
+0 0 0 0
+5 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4818
+S
+#4897
+A dark cell~
+A dark, damp, and dirty holding cell. Time has not been kind to the people
+kept in these cells. Moss lines the walls and water drips down the walls
+allowing mold to grow. There is a musty smell that fills the dungeon.
+~
+9 9 1 7
+0 0 0 0
+5 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4816
+S
+#4898
+A dark cell~
+A dark, damp, and dirty holding cell. Time has not been kind to the people
+kept in these cells. Moss lines the walls and water drips down the walls
+allowing mold to grow. There is a musty smell that fills the dungeon.
+~
+9 9 1 7
+0 0 0 0
+5 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4816
+S
+#4899
+A long marble stairway~
+A huge silver marble staircase looms before you as it wraps around east and
+west as well as upwards. As you explore around the back side of the stairwell
+you can see the faint impression of something in the floor near the back wall.
+Crystal bannisters line the stairwell as it goes up. There is a large portait
+of the Amyrlin Seat at the top of the stairwell.
+~
+9 8 1 7
+0 0 0 0
+5 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5275
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5297
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5278
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 4731
+S
+#4900
+Kandor street~
+This street leads from the Eldone market where many different things are sold.
+Whitecloaks line the streets trying to recruit new members into the light. You
+can hear whispers of stories from all over the land about the Aes Sedai and the
+Amyrlin seat. The White tower looms to the north-east.
+~
+9 0 1 0
+0 0 0 0
+5 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4901
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4555
+S
+#4901
+Kandor street~
+This street leads from the Eldone market where many different things are sold.
+Whitecloaks line the streets trying to recruit new members into the light. You
+can hear whispers of stories from all over the land about the Aes Sedai and the
+Amyrlin seat. The White tower looms to the north-east.
+~
+9 0 1 0
+0 0 0 0
+5 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4902
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4900
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 600
+S
+#4902
+Kandor street~
+This street leads from the Eldone market where many different things are sold.
+Whitecloaks line the streets trying to recruit new members into the light. You
+can hear whispers of stories from all over the land about the Aes Sedai and the
+Amyrlin seat. The White tower looms to the north-east.
+~
+9 0 1 0
+0 0 0 0
+5 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4903
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4901
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 601
+S
+#4903
+Kandor street~
+This street leads from the Eldone market where many different things are sold.
+Whitecloaks line the streets trying to recruit new members into the light. You
+can hear whispers of stories from all over the land about the Aes Sedai and the
+Amyrlin seat. The White tower looms to the north-east.
+~
+9 0 1 0
+0 0 0 0
+5 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4906
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4902
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 602
+S
+#4906
+Kandor street~
+This street leads from the Eldone market where many different things are sold.
+Whitecloaks line the streets trying to recruit new members into the light. You
+can hear whispers of stories from all over the land about the Aes Sedai and the
+Amyrlin seat. The White tower looms to the north-east.
+~
+9 0 1 0
+0 0 0 0
+5 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4581
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4903
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 971
+S
+#4913
+Tower street~
+This street allows travel between the north port and the White tower.
+Nobleman's homes are to the east and west and as you look north you can see the
+gates to NorthHarbor. Tar Valon is the home to the Amyrlin seat, the head of
+the Aes Sedai. There are Whitecloaks everywhere, they even have a barracks
+closeby.
+~
+9 0 1 0
+0 0 0 0
+5 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4947
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5066
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2961
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5067
+S
+#4947
+Tower street~
+This street allows travel between the north port and the White tower.
+Nobleman's homes are to the south, and as you look north you can see  the
+gates to NorthHarbor. Tar Valon is the home to the Amyrlin seat, the head of
+the Aes Sedai. There are Whitecloaks everywhere, they even have a barracks
+closeby.
+~
+9 0 1 0
+0 0 0 0
+5 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4958
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4913
+S
+#4948
+Kandor street~
+This street leads from the Eldone market where many different things are sold.
+Whitecloaks line the streets trying to recruit new members into the light. You
+can hear whispers of stories from all over the land about the Aes Sedai and the
+Amyrlin seat. The White tower looms to the south.
+~
+9 0 1 0
+0 0 0 0
+5 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2798
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4956
+S
+#4956
+Kandor street~
+This street leads from the Eldone market where many different things are sold.
+Whitecloaks line the streets trying to recruit new members into the light. You
+can hear whispers of stories from all over the land about the Aes Sedai and the
+Amyrlin seat. The White tower looms to the south.
+~
+9 0 1 0
+0 0 0 0
+5 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4948
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4957
+S
+#4957
+Kandor street~
+This street leads from the Eldone market where many different things are sold.
+Whitecloaks line the streets trying to recruit new members into the light. You
+can hear whispers of stories from all over the land about the Aes Sedai and the
+Amyrlin seat. The White tower looms to the east.
+~
+9 0 1 0
+0 0 0 0
+5 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4956
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4581
+S
+#4958
+The gates to Tar Valon~
+As you look up you see the grand gates open to your entrance. Guard towers are
+to your right and left. You think someone would be foolish to attack this city.
+Especially with all the Aes Sedai here...
+~
+9 8 1 0
+0 0 0 0
+5 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5032
+D1
+ ~
+door~
+ ~
+ ~
+1 -1 5020
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4947
+D3
+ ~
+door~
+ ~
+ ~
+1 -1 5021
+S
+#5020
+East Guard Tower~
+You stand in the east guard tower.  As you look around you see old weapons,
+cups, and bowls scattered around. Off in the corner you see a rickety stairwell
+leading to upper levels.
+~
+9 0 1 7
+0 0 0 0
+5 0 0
+D3
+ ~
+door~
+ ~
+ ~
+1 -1 4958
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 5029
+S
+#5021
+West Guard Tower~
+As you stand in this stone guard tower you can see a stairway off in the
+corner. Old yet sturdy, you see the age of the stones in all the cracks. You
+think if you get to the top of the tower it will give you a better perspective.
+~
+9 8 1 7
+0 0 0 0
+5 0 0
+D1
+ ~
+door~
+ ~
+ ~
+1 -1 4958
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 5026
+S
+#5026
+West Guard Tower~
+Inside this tower you can see the extreme age of the structure.  Mud filling
+cracks in the walls and dust covering the wood planking on the floor.  You
+see the stairs continue up but cant seem to find an opening to the next level.
+As you look out the opening in the wall, you can see the well traveled road
+which leads in and out of Tar Valon.
+~
+9 0 1 7
+0 0 0 0
+5 0 0
+D4
+ ~
+trapdoor~
+ ~
+ ~
+3 -1 5027
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 5021
+S
+#5027
+Top of the West Tower~
+You are standing atop the western guard tower.  From this vantage you can see
+for miles in just about every direction.  You see people walking in and out
+of Tar Valon here for all sorts of business.  Horses and people line the
+streets.
+~
+9 0 1 7
+0 0 0 0
+5 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5031
+D5
+ ~
+trapdoor~
+ ~
+ ~
+3 -1 5026
+S
+#5029
+East Guard Tower~
+Inside this tower you can see the extreme age of the structure.  Mud filling
+cracks in the walls and dust covering the wood planking on the floor.  You
+see the stairs continue up but cant seem to find an opening to the next level.
+As you look out the opening in the wall, you can see the well traveled road
+which leads in and out of Tar Valon.
+~
+9 0 1 7
+0 0 0 0
+5 0 0
+D4
+ ~
+trapdoor door~
+ ~
+ ~
+3 -1 5030
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 5020
+S
+#5030
+Top of the West Tower~
+You are standing atop the eastern guard tower.  From this vantage you can see
+for miles in just about every direction.  You see people walking in and out
+of Tar Valon here for all sorts of business.  Horses and people line the
+streets.
+~
+9 0 1 7
+0 0 0 0
+5 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5031
+D5
+ ~
+trapdoor~
+ ~
+ ~
+3 -1 5029
+S
+#5031
+Center of the Tower~
+As you stand in the center of this bulwark you can see tower rooms to the
+sides. This vantage allows you to see for miles to the north. Small but
+effective, this gatehouse would allow the guards to see any attack on its way.
+~
+9 0 1 7
+0 0 0 0
+5 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5030
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5027
+S
+#5032
+Entrance to the Grand City of Tar Valon~
+You are standing at the entrance ot the city of Tar Valon.  This is where the
+Amyrlin seat is located. The leader of the Aes Sedai. The Amyrlin gives counsel
+to people on matters of state. Possibly you could talk to her if you have
+something she could assist with. The island is very busy with people going to
+and fro. Watch out, there may be darkfriends afoot.
+~
+9 4 1 0
+0 0 0 0
+5 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5033
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4958
+S
+#5033
+NorthHarbor, Tar Valon~
+You are standing at the northern entrance to Tar Valon, the home to the
+Amyrlin seat. The Erinin river flows north and south around Tar Valon. You can
+The White tower to the south. The Warder practice grounds are east of that. Tar
+Valon is small but you think it would be easy to defend with the Aes Sedai here
+~
+9 0 1 0
+0 0 0 0
+5 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5032
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 5034
+S
+#5034
+The Erinin river~
+ ~
+9 4 7 7
+0 0 0 0
+5 0 0
+D0
+~
+~
+~
+~
+0 0 63388
+D1
+~
+~
+~
+~
+0 0 63387
+D3
+~
+~
+~
+~
+0 0 63389
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 5033
+S
+#5066
+A Nobleman's house~
+This house is lavishly furnished with imports from across the realm. Obviously
+this Noble is well-to-do. There are brass baubles all around the room and there
+are even glass windows. You think the owner must be very rich.
+~
+9 8 1 7
+0 0 0 0
+5 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4913
+S
+#5067
+A Nobleman's house~
+This house is lavishly furnished with imports from across the realm. Obviously
+this Noble is well-to-do. There are brass baubles all around the room and there
+are even glass windows. You think the owner must be very rich.
+~
+9 8 1 7
+0 0 0 0
+5 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4913
+S
+#5151
+A Nobleman's house~
+This house is lavishly furnished with imports from across the realm. Obviously
+this Noble is well-to-do. There are brass baubles all around the room and there
+are even glass windows. You think the owner must be very rich.
+~
+9 8 1 7
+0 0 0 0
+5 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2961
+S
+#5191
+A Nobleman's house~
+This house is lavishly furnished with imports from across the realm. Obviously
+this Noble is well-to-do. There are brass baubles all around the room and there
+are even glass windows. You think the owner must be very rich.
+~
+9 8 1 7
+0 0 0 0
+5 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2961
+S
+#5271
+A Nobleman's house~
+This house is lavishly furnished with imports from across the realm. Obviously
+this Noble is well-to-do. There are brass baubles all around the room and there
+are even glass windows. You think the owner must be very rich.
+~
+9 8 1 7
+0 0 0 0
+5 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2890
+S
+#5272
+A Nobleman's house~
+This house is lavishly furnished with imports from across the realm. Obviously
+this Noble is well-to-do. There are brass baubles all around the room and there
+are even glass windows. You think the owner must be very rich.
+~
+9 8 1 7
+0 0 0 0
+5 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2890
+S
+#5275
+A crystalline hallway~
+Light blazes into the room from the painted glass windows in the dome above.
+The seven colors of the Aes Sedai are represented in a collage of colorfull
+beams. The floors reflect the light all around the room creating a prism effect
+unlike you have ever seen.
+~
+9 8 1 7
+0 0 0 0
+5 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5298
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4899
+S
+#5278
+A crystalline hallway~
+Light blazes into the room from the painted glass windows in the dome above.
+The seven colors of the Aes Sedai are represented in a collage of colorfull
+beams. The floors reflect the light all around the room creating a prism effect
+unlike you have ever seen.
+~
+9 8 1 7
+0 0 0 0
+5 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4899
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5311
+S
+#5297
+A crystalline hallway~
+Light blazes into the room from the painted glass windows in the dome above.
+The seven colors of the Aes Sedai are represented in a collage of colorfull
+beams. The floors reflect the light all around the room creating a prism effect
+unlike you have ever seen.
+~
+9 8 1 7
+0 0 0 0
+5 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4899
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5298
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5314
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5311
+S
+#5298
+A crystalline hallway~
+Light blazes into the room from the painted glass windows in the dome above.
+The seven colors of the Aes Sedai are represented in a collage of colorfull
+beams. The floors reflect the light all around the room creating a prism effect
+unlike you have ever seen.
+~
+9 8 1 7
+0 0 0 0
+5 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5275
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5324
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5297
+S
+#5311
+A crystalline hallway~
+Light blazes into the room from the painted glass windows in the dome above.
+The seven colors of the Aes Sedai are represented in a collage of colorfull
+beams. The floors reflect the light all around the room creating a prism effect
+unlike you have ever seen.
+~
+9 8 1 7
+0 0 0 0
+5 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5278
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5297
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5312
+S
+#5312
+A crystalline hallway~
+Light blazes into the room from the painted glass windows in the dome above.
+The seven colors of the Aes Sedai are represented in a collage of colorfull
+beams. The floors reflect the light all around the room creating a prism effect
+unlike you have ever seen.
+~
+9 8 1 7
+0 0 0 0
+5 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5311
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5314
+S
+#5314
+A crystalline hallway~
+Light blazes into the room from the painted glass windows in the dome above.
+The seven colors of the Aes Sedai are represented in a collage of colorfull
+beams. The floors reflect the light all around the room creating a prism effect
+unlike you have ever seen.
+~
+9 8 1 7
+0 0 0 0
+5 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5297
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5324
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5312
+S
+#5324
+A crystalline hallway~
+Light blazes into the room from the painted glass windows in the dome above.
+The seven colors of the Aes Sedai are represented in a collage of colorfull
+beams. The floors reflect the light all around the room creating a prism effect
+unlike you have ever seen.
+~
+9 8 1 7
+0 0 0 0
+5 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5298
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5314
+S
+#5474
+A Nobleman's house~
+This house is lavishly furnished with imports from across the realm. Obviously
+this Noble is well-to-do. There are brass baubles all around the room and there
+are even glass windows. You think the owner must be very rich.
+~
+9 8 1 7
+0 0 0 0
+5 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2478
+S
+#5475
+A Nobleman's house~
+This house is lavishly furnished with imports from across the realm. Obviously
+this Noble is well-to-do. There are brass baubles all around the room and there
+are even glass windows. You think the owner must be very rich.
+~
+9 8 1 7
+0 0 0 0
+5 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2477
+S
+#5476
+A Nobleman's house~
+This house is lavishly furnished with imports from across the realm. Obviously
+this Noble is well-to-do. There are brass baubles all around the room and there
+are even glass windows. You think the owner must be very rich.
+~
+9 8 1 7
+0 0 0 0
+5 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2401
+S
+#5477
+Whitecloak barracks~
+These barracks are the headquarters for the Whitecloaks in this region. The
+Whitecloaks' sole goal in life is to remove Darkfriends from the realm. This
+building is sparkling white just like the White tower.
+~
+9 0 1 3
+0 0 0 0
+5 0 0
+D0
+ ~
+(null)~
+lock mist~
+close mist~
+1 -1 5480
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5479
+D2
+ ~
+door~
+lock mist~
+close mist~
+1 -1 4583
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5478
+S
+#5478
+A clean dormer~
+A glistening room where the Whitecloaks bed down for the night. A few cots
+line the walls and the floor is spotless. Weapons and white cloaks hang on the
+walls.
+~
+9 0 1 3
+0 0 0 0
+5 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5477
+S
+#5479
+A clean dormer~
+A glistening room where the Whitecloaks bed down for the night. A few cots
+line the walls and the floor is spotless. Weapons and white cloaks hang on the
+walls.
+~
+9 0 1 3
+0 0 0 0
+5 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5477
+S
+#5480
+A stairwell~
+A crystal clean stairwell leading to the second floor. More dormers occupy the
+upstairs to this barracks. Windows allow you to look out over the river Erinin.
+The north guard towers rise up and partially obstruct your northern view.
+~
+9 0 1 7
+0 0 0 0
+5 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5482
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5477
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5481
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 5483
+S
+#5481
+A clean dormer~
+A glistening room where the Whitecloaks bed down for the night. A few cots
+line the walls and the floor is spotless. Weapons and white cloaks hang on the
+walls.
+~
+9 0 1 7
+0 0 0 0
+5 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5480
+S
+#5482
+A clean dormer~
+A glistening room where the Whitecloaks bed down for the night. A few cots
+line the walls and the floor is spotless. Weapons and white cloaks hang on the
+walls.
+~
+9 0 1 7
+0 0 0 0
+5 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5480
+S
+#5483
+A gleaming hallway~
+These barracks are the headquarters for the Whitecloaks in this region. The
+Whitecloaks' sole goal in life is to remove Darkfriends from the realm. This
+building is sparkling white just like the White tower.
+~
+9 0 1 7
+0 0 0 0
+5 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5485
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5486
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5484
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 5480
+S
+#5484
+A clean dormer~
+A glistening room where the Whitecloaks bed down for the night. A few cots
+line the walls and the floor is spotless. Weapons and white cloaks hang on the
+walls.
+~
+9 0 1 7
+0 0 0 0
+5 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5483
+S
+#5485
+A clean dormer~
+A glistening room where the Whitecloaks bed down for the night. A few cots
+line the walls and the floor is spotless. Weapons and white cloaks hang on the
+walls.
+~
+9 0 1 7
+0 0 0 0
+5 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5483
+S
+#5486
+A gleaming hallway~
+These barracks are the headquarters for the Whitecloaks in this region. The
+Whitecloaks' sole goal in life is to remove Darkfriends from the realm. This
+building is sparkling white just like the White tower.
+~
+9 0 1 7
+0 0 0 0
+5 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5483
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5487
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5488
+S
+#5487
+A clean dormer~
+A glistening room where the Whitecloaks bed down for the night. A few cots
+line the walls and the floor is spotless. Weapons and white cloaks hang on the
+walls.
+~
+9 0 1 7
+0 0 0 0
+5 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5486
+S
+#5488
+A clean dormer~
+A glistening room where the Whitecloaks bed down for the night. A few cots
+line the walls and the floor is spotless. Weapons and white cloaks hang on the
+walls.
+~
+9 0 1 7
+0 0 0 0
+5 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5486
+S
+#19999
+$~

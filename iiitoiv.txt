@@ -1,0 +1,71 @@
+This file is sorta the changes and addictions to medievia iv.
+Its purpose is at first to HELP us fix the help system and then to give to
+all people in mediv so they can convert from iii to iv without feeling
+clueless.  It is in 2 parts   NEW and CHANGES.  All first words MUST be a
+help topic that HAS been changed and or created to reflect changes and
+additions.  PLEASE who ever fixes,updates or creates them, when you are
+happy they are done and correct put a * in front of them. Some things are
+indented.  That means the unindented theme above is a topic that quickly
+says what that is and then simply lists other help topic to look at.  Please
+keep this file in order.  If I forgot stuff and I am sure I did, add it. 
+Keep the file format.  We need all this done in a few weeks.
+
+
+CHANGES
+-------
+death
+*tell is only in MEDLINK  see message command
+*shout changes a lot
+*gossip
+*auction gone
+*formtell gone
+*clantalk
+*look around   for in holoworld to redisplay map
+*summon 
+teleport 
+*recall
+hide NOT DONE YET
+dream
+*spell parser
+catacombs NOT DONE YET
+weather NOT DONE YET
+prompt This needs to reflect mount prompt changing and NEWS
+
+NEW
+---
+*medlink
+	*link
+*mounts
+	*mount 
+	*dismount
+	*see also stamina breath prompt flying
+*flying
+	*fly
+	*land
+*trading
+	*tradeshops
+	*freight
+	*tradeables
+	mudslinger
+	*economy
+	score
+*wilderness
+	*survey
+	*wizard eye spell
+	*tracking
+	*flying ALMOST DONE
+*breath
+	*stamina
+	*prompt
+*deterioration
+	*det
+*camp
+	*quit
+*message
+*news
+tweak
+hide
+adopt adopt-a-zone
+*description
+drinking rooms
+sectors

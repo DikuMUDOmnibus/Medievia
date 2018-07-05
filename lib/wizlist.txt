@@ -1,0 +1,45 @@
+
+                   The Medievia Roster of Imps & Gods
+                   --- -------- ------ -- ---- - ----
+
+Implementors & Gods [Level 140]:           * = Departmental Head
+-----------------------------------------------------------------------------
+*Vryce    Owner, Head Programmer, Mud Manager, God Manager, Development
+*Shalafi  Part owner, WOM manager(world,object,Mobiles), Programmer
+*Sultress Public Relations and Marketing  (sin@netcom.com)
+Raster    Programmer, Development
+Semele	  World Builder, Assistant
+Anubis    Programmer, Development
+* Departmental Head
+
+Superiors [Level 136]:
+----------------------------------------------------------------------------
+Lena          : Real Estate Manager
+Asskicker     : Quest Master 
+Achad         : Medievia Press (horus@astro.ocis.temple.edu)
+Pug           : Medievia Press (pugster@intense.netaxs.com)
+Columnus      : Medievia Press
+
+Deities [Level 132]:
+----------------------------------------------------------------------------
+Wakim         : Help files, news, player assistance
+Stormchylde   : Quest Master
+Drakoth       : World Builder
+Yugo          : World Builder
+Warlok        : World Builder
+Vanyel        : World Builder
+Stu           : Player Assistance
+----------------------------------------------------------------------------
+
+        MUDMAIL is much better then email, but....
+	     To email a level 140 send to:
+		VRYCE   mkrause@netaxs.com
+                The Shalafi   belial@openix.com
+
+Retired Gods that are not very active any longer:
+
+Io        Retired, used to code and develop(we hope she comes back)
+Firm	  Retired, used to code and develop(he will be back! Right?)
+Ugadal    Retired, did quests, play tests
+Vehn,Alotta,Kathy,Lucifuge, Hanna, Pipeline, Megan, Zemci, Dragos
+    

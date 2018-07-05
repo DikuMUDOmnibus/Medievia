@@ -1,0 +1,39 @@
+                   . .. ... The Medievia ... .. .
+ 
+            _|         _|  _|_|_|_  _|       _|  _|_|_|_|_|
+           _| _|      _|  _|       _|       _|  _|
+          _|   _|    _|  _|_|_|   _|       _|  _|_|_|_|_|   
+         _|     _|  _|  _|       _|  _    _|          _|    
+        _|       _|_|  _|       _| _| _| _|          _|       
+       _|         _|  _|_|_|_| _|_|    _|   _|_|_|_|_|              
+                                             Updated January 18, 1996
+------------------------------------------------------------------------------
+
+The MUDSLINGER now has a trading section.  Just buy a paper and look 
+trading.  It lists 100 MAJOR needs across the world.  It is sorted from top 
+down.  The sort is from 0 to 100 of items INSTOCK.  Only 12 needs from each 
+local market are shown.  So it shows 100 major needs but not more then 12 
+from any one market sorted highest top to least bottom though all 100 would 
+be very major needs.  It gives where the need is, what it is, how much of 
+that item they have, how much it costs to buy it and what you can sell it 
+for there.  I want to remind all that this whole economy IS player driven.  
+It is an amazing thing.  You will see that the major needs almost always 
+represent something that is produced VERY far away from where the need is.  
+Some shops like the artic one can only be gotten to by horse and is very 
+very far away.  You can, as you see, make 1-100 million sometimes with a 
+wagon full of stuff.  The adventures you will happen upon during your 
+travels will be worthy of re-telling.
+
+THE IDEA IS TO travel with your goods a long way from point a to b, 
+adventuring along the way and entering the zones you may happen upon for 
+more adventure and equipment.  You should always have a plan.  Point A to 
+point B.  If you meet someone along the way going the same way...you form 
+up.  Just like real travelers.  Some plans may take you a few days or even 
+a week, spanning many sessions.  If you tire you can just LINK to medlink 
+and chill a while....or even pop back and forth.  PLEASE KEEP IN MIND this 
+whole plan relies on MANY MANY people playing for max fun.   Playtesting 
+can be lonely.
+
+YOU CAN NOW use the get or take command to take someones abandoned wagon 
+and pack mule etc.  You may also take or get stuff from inside them and put 
+in yours.

@@ -1,0 +1,1673 @@
+#1161
+[Eldar War Room]~
+This room is constructed from the same bone white material that the
+rest of the complex is made from, with the exception of the gems set into
+the walls and irregular interviels. There is a large table in the middle of
+the room that glows. There is a large glowing map set against the eastern
+wall with many different spots of light on it. The map looks like a
+representation of Trellor, with the city outlined. All the clan halls are
+marked, and two of them have been blacked out. There is a door to your east,
+and to the west.
+~
+99 1064 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+palmlock~
+ ~
+ ~
+3 9901 19025
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 2896
+S
+#1725
+The base of the lost cliffs.~
+You stand at the base of cliffs that have been roughly hewn out of
+living obsidian.  A small trail winds upward to the west disappearing from
+view as it as it curves northward.
+~
+99 8 0 0
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+$n leaves east~
+$n arrives from the east.~
+1 -1 1727
+E
+blank~
+ ~
+S
+#1727
+The obsidian path.~
+ ~
+99 8 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1725
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1797
+S
+#1797
+The obsidian path.~
+ ~
+99 8 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1727
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1838
+S
+#1838
+The obsidian path.~
+ ~
+99 8 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1797
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2744
+S
+#2744
+The obsidian path.~
+ ~
+99 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2745
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1838
+S
+#2745
+The obsidian path.~
+ ~
+99 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2746
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2744
+S
+#2746
+The obsidian path.~
+ ~
+99 8 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2745
+S
+#2894
+Stormchylde's bedroom~
+The walls of this room are made from wraithbone and obsidian. To the west
+is a door made from a solid ruby. To the south there is a large fireplace,
+burning aromatic herbs. Above the fireplace, on the mantle rests a number
+of weapons and skulls. Over the mantle there is a design consisting of gems.
+There is a large bed covered with wolf furs. Chained to the bed there is
+a wolf with grey eyes and brown hair. There are screens inset in the east
+wall showing various points of the world. The floors are covered with
+various rugs.
+~
+99 3592 0 0
+0 0 0 0
+0 0 0
+D3
+This door is made from a solid ruby. The handle is crafted from gold and
+silver.
+~
+ruby~
+ ~
+ ~
+2 5181 3606
+D4
+ ~
+portal~
+ ~
+ ~
+2 9901 19025
+E
+wolf~
+There is a collar around the wolfs neck that reads, 'Misha'. This wolf is
+not large for it's species, but it is quite beautiful. It's eyes are a soft
+grey, and its silky hair is a dark brown. The wolf does not look dangerous,
+but starts to growl as you approach the bed.
+~
+E
+design~
+This design is made from various gems, and stones, in the form of a giant
+wolfs head. The wolf's eyes are made from Soul Stones, and emit a soft
+keening.
+~
+S
+#2896
+[Base Hallway]~
+The hallway is eight feet wide and ten feet high. The walls are laced with
+a bone white material. When you touch the wraithbone, you hear keening in
+your mind. Floating globes of light hover every twenty feet, illuminating
+the hallway quite well. There are gems set into the wall in a random pattern.
+~
+99 40 0 0
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2897
+D4
+ ~
+hatch~
+ ~
+ ~
+4 -1 1161
+S
+#2897
+[Base Hallway]~
+The hallway is eight feet wide and ten feet high. The walls are laced with
+a bone white material. When you touch the wraithbone, you hear keening in
+your mind. Floating globes of light hover every twenty feet, illuminating
+the hallway quite well. There are gems set into the wall in a random pattern.
+~
+99 40 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2896
+D2
+ ~
+door~
+ ~
+ ~
+1 9901 3597
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2898
+S
+#2898
+[Base Hallway]~
+The hallway is eight feet wide and ten feet high. The walls are laced with
+a bone white material. When you touch the wraithbone, you hear keening in
+your mind. Floating globes of light hover every twenty feet, illuminating
+the hallway quite well. There are gems set into the wall in a random pattern.
+~
+99 40 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+door~
+ ~
+ ~
+1 9901 3571
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2897
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2899
+S
+#2899
+[Base Hallway]~
+The hallway is eight feet wide and ten feet high. The walls are laced with
+a bone white material. When you touch the wraithbone, you hear keening in
+your mind. Floating globes of light hover every twenty feet, illuminating
+the hallway quite well. There are gems set into the wall in a random pattern.
+~
+99 40 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2898
+D2
+ ~
+door~
+ ~
+ ~
+1 9901 3566
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2957
+S
+#2957
+[Base Hallway]~
+The hallway is eight feet wide and ten feet high. The walls are laced with
+a bone white material. When you touch the wraithbone, you hear keening in
+your mind. Floating globes of light hover every twenty feet, illuminating
+the hallway quite well. There are gems set into the wall in a random pattern.
+~
+99 40 0 0
+0 0 0 0
+0 0 0
+D0
+This door is made of the bone white material that comprises the walls. There
+is a design of crossed sword inlaid with gold set in the door. There are
+visible means of opening it.
+~
+wraithbone~
+ ~
+ ~
+1 9901 3563
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2899
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2958
+S
+#2958
+[Base Hallway]~
+The hallway is eight feet wide and ten feet high. The walls are laced with
+a bone white material. When you touch the wraithbone, you hear keening in
+your mind. Floating globes of light hover every twenty feet, illuminating
+the hallway quite well. There are gems set into the wall in a random pattern.
+~
+99 40 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2957
+D5
+ ~
+platform~
+ ~
+ ~
+1 9901 2959
+S
+#2959
+[Main Base Area]~
+This area is huge. There are Eldar everywhere. It seems that the Eldar are
+gearing up for a war. There are no children present. In the middle of the
+room is a black platform with a box with a glowing outline of a hand set
+on a pole next to the actual platform. The ceiling rises 30 feet, and the walls
+are all made from the same bone white material as the rest of the base. There
+are about twenty of the floating globes of light.
+Hallways stretch in all directions.
+~
+99 40 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3178
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3089
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2996
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3161
+D4
+ ~
+portal~
+ ~
+ ~
+3 9901 2958
+D5
+ ~
+hatch~
+ ~
+ ~
+3 9901 2960
+E
+down~
+In the corner of the room, on the floor, you see a snall keypad set
+into the floor. A faint outline of a hatch is next to it.
+~
+S
+#2960
+[Dentention Center]~
+You have entered the area where the Eldar keep their prisoners. There is
+a small console to the side of the room, and a large table in the middle.
+There are four doors to each direction of the compass. Each door is made
+from a different material. Where the prisoners are is not obvious. Are they
+in each of the cells, or all in one.
+~
+99 40 0 0
+0 0 0 0
+0 0 0
+D0
+This door is made from a giant ruby. There are no openings nor hinges.
+~
+ruby~
+ ~
+ ~
+2 9901 2980
+D1
+This door is made from a solid slab of marble. There are no openings at all.
+~
+marble~
+ ~
+ ~
+2 9901 2986
+D2
+This door is made from a solid piece of adamantite. There are no openings.
+~
+adamantite~
+ ~
+ ~
+2 9901 2981
+D3
+This door is made from a solid block of obsidian. There are no handholds.
+~
+obsidian~
+ ~
+ ~
+2 9901 2993
+D4
+ ~
+trapdoor~
+ ~
+ ~
+2 9901 2959
+S
+#2980
+[Eldar Holding Cell]~
+You enter the room cautiously, peering into the dank, ugly and
+dark confines.  The stench of long years of imprisonment fills
+your nostrils, giving you a sense of the long, ponderous hours
+spent here by those trapped here.  Suddenly, the door through
+which you came slams shut.  It is only now that you notice a
+skeleton lying deep in the dark corner.  Remains of armor
+encircle it, the bones seeming to turn to dust as you stare.
+Fear and dispare grip you as you slowly begin to realize that
+the thick walls will muffle your cries for help.  Like
+the poor soul in the corner, you are trapped, eternally.
+~
+99 1032 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+door~
+ ~
+ ~
+2 9901 2960
+S
+#2981
+[Eldar Holding Cell]~
+You enter the room cautiously, peering into the dank, ugly and
+dark confines.  The stench of long years of imprisonment fills
+your nostrils, giving you a sense of the long, ponderous hours
+spent here by those trapped here.  Suddenly, the door through
+which you came slams shut.  It is only now that you notice a
+skeleton lying deep in the dark corner.  Remains of armor
+encircle it, the bones seeming to turn to dust as you stare.
+Fear and dispare grip you as you slowly begin to realize that
+the thick walls will muffle your cries for help.  Like
+the poor soul in the corner, you are trapped, eternally.
+~
+99 40 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+door~
+ ~
+ ~
+2 -1 2960
+S
+#2982
+Non-descript cave mouth~
+Before you is a non-descript cave mouth. If not for some hidden instinct
+telling you to look this way, you would have passed by with nary a glance.
+Parting the shrubs before the mouth of the cave you can see evidence of
+recent movement in and out of the cave.
+As you continue into the interior, you come across a door standing hundreds
+of feet high and tens of feet wide. The door is made from plain black stone
+and is featureless except for a small keyhole. Should you turn back now...or
+continue ahead.
+~
+99 2712 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+door~
+ ~
+ ~
+2 6414 3028
+S
+#2986
+[Eldar Holding Cell]~
+You enter the room cautiously, peering into the dank, ugly and
+dark confines.  The stench of long years of imprisonment fills
+your nostrils, giving you a sense of the long, ponderous hours
+spent here by those trapped here.  Suddenly, the door through
+which you came slams shut.  It is only now that you notice a
+skeleton lying deep in the dark corner.  Remains of armor
+encircle it, the bones seeming to turn to dust as you stare.
+Fear and dispare grip you as you slowly begin to realize that
+the thick walls will muffle your cries for help.  Like
+the poor soul in the corner, you are trapped, eternally.
+~
+99 40 0 0
+0 0 0 0
+0 0 0
+D3
+ ~
+door~
+ ~
+ ~
+2 9901 2960
+S
+#2993
+[Eldar Holding Cell]~
+You enter the room cautiously, peering into the dank, ugly and
+dark confines.  The stench of long years of imprisonment fills
+your nostrils, giving you a sense of the long, ponderous hours
+spent here by those trapped here.  Suddenly, the door through
+which you came slams shut.  It is only now that you notice a
+skeleton lying deep in the dark corner.  Remains of armor
+encircle it, the bones seeming to turn to dust as you stare.
+Fear and dispare grip you as you slowly begin to realize that
+the thick walls will muffle your cries for help.  Like
+the poor soul in the corner, you are trapped, eternally.
+~
+99 40 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+door~
+ ~
+ ~
+2 9901 2960
+S
+#2996
+[Base Hallway}~
+There is a door to your east and west. There are small boxes with glowing
+outlines of a hand set to the right of each door. Twisted rose vines
+are carved into each of the doors, outlining a dark and shifting war mask.
+The hallway continues north to the main area.
+~
+99 40 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2959
+D1
+An obsidian door with a rose vine twisting it's way behind a shifting
+war mask. There is a box with a glowing outline of hand set to the right
+of the door.
+~
+door palmlock~
+ ~
+ ~
+1 9901 3055
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2997
+D3
+An obsidian door with a rose vine twisting it's way behind a shifting
+war mask. There is a box with a glowing outline of a hand set to the right
+of the door.
+~
+door palmlock~
+ ~
+ ~
+1 9901 3056
+S
+#2997
+[Base Hallway]~
+The hallway is eight feet wide and ten feet high. The walls are laced with
+a bone white material. When you touch the wraithbone, you hear keening in
+your mind. Floating globes of light hover every twenty feet, illuminating
+the hallway quite well. There are gems set into the wall in a random pattern.
+There is a cage to your west.
+~
+99 40 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2996
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2998
+D3
+Black beams of chaotic energy leap across this doorway.
+~
+cage~
+ ~
+ ~
+1 9901 3087
+S
+#2998
+[Base Hallway]~
+The hallway is eight feet wide and ten feet high. The walls are laced with
+a bone white material. When you touch the wraithbone, you hear keening in
+your mind. Floating globes of light hover every twenty feet, illuminating
+the hallway quite well. There are gems set into the wall in a random pattern.
+There is a cage to your east.
+~
+99 40 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2997
+D1
+Dark beams of chaotic energy leap across this doorway...
+~
+cage~
+ ~
+ ~
+1 9901 3080
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2999
+S
+#2999
+[Base Hallway}~
+The walls of this room are made of a strange white bone like material. There
+is a door set in the west wall and another in the east wall. The hallway
+continues north, with a slight downward slope. The entire corridor is lit
+with strange glowing orbs that float at 30 foot intervals. You begin
+to hear that melody, it begins to feel oppressive to your soul...
+~
+99 40 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2998
+D1
+ ~
+door~
+ ~
+ ~
+1 -1 3046
+D2
+The base door is carved from a solid slab of obsidian. There is a small
+box set to the right of the door with a glowing outline of a hand. The door
+has no hinges.
+~
+door gate palmlock~
+ ~
+ ~
+2 9901 3010
+D3
+ ~
+door~
+ ~
+ ~
+1 -1 3029
+S
+#3010
+[Base Entrance]~
+The back of this cave is cleaner then it should be. There is a obsidian
+door set in the back of the cave to the south. There is a small box
+set to the right of the door with a glowing outline of a hand. The ceiling
+rises into the gloom, puddles gather underfoot, and there is glowing lichen
+on the walls. Parts of the stone walls meld into a bone white substance that
+defies your inspection, it is clearly not of human origin.
+~
+99 40 0 0
+0 0 0 0
+0 0 0
+D0
+The door set into the back of this cave is carved obsidian. There is a small
+box set into the wall next to it, with a glowing hand in the middle of it.
+The door has no hinges.
+~
+door gate palmlock~
+The box glows briefly, the door slides to the right and $n enters.~
+The gate slides to the side and $n enters the base.~
+1 9901 2999
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3028
+S
+#3028
+[Cave Mouth]~
+You have found the entrance of the current Eldar base on this plane. The
+entrance of this cave is littered with many bones and corpses of a human
+cast. Looking into the cave, you see a dim light, and further down the cave,
+an obsidian door, with a box next to it in the shape of a hand. There is
+evidence of recent inhabitation, and the interior hums with a strange
+far off melody.
+~
+99 40 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3010
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2982
+E
+bones~
+These bones look as if they have been gnawed my large dogs..or maybe wolves?
+~
+S
+#3029
+[Guard Room]~
+This guard room is staffed by a squad of drones. They all turn at your
+approach. The walls are made of the same strange bone white material. There
+are two beds set back against the wall. There are strange glass like things
+set into the walls on the north side. It seems a miniature picture of the
+cave enterance outside. There are two of those floating globes in the far
+corners of this room.' The door closes behind you automatically.
+~
+99 40 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2999
+S
+#3046
+[Guard Room]~
+This guard room is staffed by a squad of drones. They all turn at your
+approach. The walls are made of the same strange bone white material. There
+are two beds set back against the wall. There are strange glass like things
+set into the walls on the north side. It seems a miniature picture of the
+cave enterance outside. There are two of those floating globes in the far
+corners of this room.' The door closes behind you automatically.
+~
+99 40 0 0
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2999
+S
+#3055
+[Eldar Scout Barracks]~
+This room is obviously a barracks of some sorts. There are 10 beds in this
+room, 5 to a side, at the left of each bed is a large, black obsidian
+locker. The beds look soft, but spartan. There are unknown symbols adorning
+the walls, and there are floating globes of light hovering down the middle
+aisle. The walls here are made from the same strange white material that is
+in the halls.
+~
+99 40 0 0
+0 0 0 0
+0 0 0
+D3
+ ~
+door~
+ ~
+ ~
+1 9901 2996
+S
+#3056
+[Eldar Scout Barracks]~
+This room is obviously a barracks of some sorts. There are 10 beds in this
+room, 5 to a side, at the left of each bed is a large, black obsidian
+locker. The beds look soft, but spartan. There are unknown symbols adorning
+the walls, and there are floating globes of light hovering down the middle
+aisle. The walls here are made from the same strange white material that is
+in the halls.
+~
+99 40 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+door~
+ ~
+ ~
+1 9901 2996
+S
+#3080
+[Wolf Pens]~
+The floors of this area are covered with straw and grass. There is a noticable
+lack of the floating globes in here. From the back of this dark room
+you hear a deep low growl, slowing growing in size. The musk of wolves is
+unmistakable in the air.
+~
+99 40 0 0
+0 0 0 0
+0 0 0
+D3
+Black beam of chaotic energy jump across this doorway...
+~
+cage~
+ ~
+ ~
+1 9901 2998
+S
+#3087
+[Wolf Pens]~
+The floors of this area are covered with straw and grass. There is a noticable
+lack of the floating globes in here. From the back of this dark room
+you hear a deep low growl, slowing growing in size. The musk of wolves is
+unmistakable in the air.
+~
+99 40 0 0
+0 0 0 0
+0 0 0
+D1
+Black beams of chaotic energy leap across this doorway...
+~
+cage~
+ ~
+ ~
+1 9901 2997
+S
+#3089
+[Base Hallway]~
+The hallway is eight feet wide and ten feet high. The walls are laced with
+a bone white material. When you touch the wraithbone, you hear keening in
+your mind. Floating globes of light hover every twenty feet, illuminating
+the hallway quite well. There are gems set into the wall in a random pattern.
+~
+99 40 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3096
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2959
+S
+#3096
+[Base Hallway]~
+The hallway is eight feet wide and ten feet high. The walls are laced with
+a bone white material. When you touch the wraithbone, you hear keening in
+your mind. Floating globes of light hover every twenty feet, illuminating
+the hallway quite well. There are gems set into the wall in a random pattern.
+~
+99 40 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3097
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3089
+S
+#3097
+[Base Hallway]~
+The hallway is eight feet wide and ten feet high. The walls are laced with
+a bone white material. When you touch the wraithbone, you hear keening in
+your mind. Floating globes of light hover every twenty feet, illuminating
+the hallway quite well. There are gems set into the wall in a random pattern.
+There are doors to the north and south.
+~
+99 40 0 0
+0 0 0 0
+0 0 0
+D0
+This door is fifteen inch thick adamantite doors. There is a small box
+with a glowing outline of a hand set to the right of it.
+~
+door palmlock~
+ ~
+ ~
+1 9901 3172
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3160
+D2
+This door is fifteen inch thick adamantite doors. There is a small box
+with a glowing outline of a hand set to the right of it.
+~
+door palmlock~
+ ~
+ ~
+1 9901 3175
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3096
+S
+#3160
+[Base Hallway]~
+The hallway is eight feet wide and ten feet high. The walls are laced with
+a bone white material. When you touch the wraithbone, you hear keening in
+your mind. Floating globes of light hover every twenty feet, illuminating
+the hallway quite well. There are gems set into the wall in a random pattern.
+There is a door to the east.
+~
+99 40 0 0
+0 0 0 0
+0 0 0
+D1
+This door is made from a solid ruby. There are etchings of swords and
+weapons inlaid with gold on the door. There is a small box set to the right
+with a glowing outline of a hand.
+~
+door ruby~
+ ~
+ ~
+1 9901 3171
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3097
+S
+#3161
+[Base Hallway]~
+The hallway is eight feet wide and ten feet high. The walls are laced with
+a bone white material. When you touch the wraithbone, you hear keening in
+your mind. Floating globes of light hover every twenty feet, illuminating
+the hallway quite well. There are gems set into the wall in a random pattern.
+~
+99 40 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2959
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3162
+S
+#3162
+[Base Hallway]~
+The hallway is eight feet wide and ten feet high. The walls are laced with
+a bone white material. When you touch the wraithbone, you hear keening in
+your mind. Floating globes of light hover every twenty feet, illuminating
+the hallway quite well. There are gems set into the wall in a random pattern.
+~
+99 40 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3161
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3164
+S
+#3164
+[Base Hallway]~
+The hallway is eight feet wide and ten feet high. The walls are laced with
+a bone white material. When you touch the wraithbone, you hear keening in
+your mind. Floating globes of light hover every twenty feet, illuminating
+the hallway quite well. There are gems set into the wall in a random pattern.
+There are doors to your north and south.
+~
+99 40 0 0
+0 0 0 0
+0 0 0
+D0
+This door is fifteen inch thick adamantite doors. There is a small box
+with a glowing outline of a hand set to the right of it.
+~
+door~
+ ~
+ ~
+1 9901 3176
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3162
+D2
+This door is fifteen inch thick adamantite doors. There is a small box
+with a glowing outline of a hand set to the right of it.
+~
+door~
+ ~
+ ~
+1 9901 3177
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3169
+S
+#3169
+[Base Hallway]~
+The hallway is eight feet wide and ten feet high. The walls are laced with
+a bone white material. When you touch the wraithbone, you hear keening in
+your mind. Floating globes of light hover every twenty feet, illuminating
+the hallway quite well. There are gems set into the wall in a random pattern.
+There is a door to the west.
+~
+99 40 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3164
+D3
+Made from a solid peice of Mithril, this door is set into the wall. There is a
+small box to the right of it with a glowing outline of a hand.
+~
+door palmlock~
+ ~
+ ~
+1 9901 3170
+S
+#3170
+[FarSeerer barracks]~
+There is but one floating globe of light in this room, making it rather
+gloomy. You can make out in the dim light 8 beds in this room. Next to each
+bed there is a obsidian locker, and a small desk made out of the same material
+the walls are made from. Incense lays heavy upon the air, and the melody of
+sound is very strong here.
+~
+99 40 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+door~
+ ~
+ ~
+1 9901 3169
+S
+#3171
+[WarDancer barracks]~
+This room is brightly lit. There are fifteen beds lined up against the back
+wall. Weapons are hung from the southern wall, and armor on the northern.
+There is a small gym set up along with the beds, and there are weapon burns
+all over the place.
+~
+99 40 0 0
+0 0 0 0
+0 0 0
+D3
+ ~
+door ruby~
+ ~
+ ~
+1 9901 3160
+S
+#3172
+[DNA Recombination Chamber]~
+Upon entering this room your nose is assailed by a stench that screams of
+chaos. Against the far walls there are five DNA recombination tanks. These
+tanks are what Stormchylde uses to create his Drones. Underfoot there is the
+detrius of skin, bone and muscle, overlaying a pool of eldar blood. The walls
+are made from the same white material as the rest of the base. There are two
+globes of light in this room.
+~
+99 168 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+door~
+ ~
+ ~
+1 9901 3097
+S
+#3175
+[DNA Recombination Chamber]~
+Upon entering this room your nose is assailed by a stench that screams of
+chaos. Against the far walls there are five DNA recombination tanks. These
+tanks are what Stormchylde uses to create his Drones. Underfoot there is the
+detrius of skin, bone and muscle, overlaying a pool of eldar blood. The walls
+are made from the same white material as the rest of the base. There are two
+globes of light in this room.
+~
+99 168 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+door~
+ ~
+ ~
+1 9901 3097
+S
+#3176
+[DNA Recombination Chamber]~
+Upon entering this room your nose is assailed by a stench that screams of
+chaos. Against the far walls there are five DNA recombination tanks. These
+tanks are what Stormchylde uses to create his Drones. Underfoot there is the
+detrius of skin, bone and muscle, overlaying a pool of eldar blood. The walls
+are made from the same white material as the rest of the base. There are two
+globes of light in this room.
+~
+99 168 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+door~
+ ~
+ ~
+1 9901 3164
+S
+#3177
+[DNA Recombination Chamber]~
+Upon entering this room your nose is assailed by a stench that screams of
+chaos. Against the far walls there are five DNA recombination tanks. These
+tanks are what Stormchylde uses to create his Drones. Underfoot there is the
+detrius of skin, bone and muscle, overlaying a pool of eldar blood. The walls
+are made from the same white material as the rest of the base. There are two
+globes of light in this room.
+~
+99 168 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+door~
+ ~
+ ~
+1 9901 3164
+S
+#3178
+[Base Hallway]~
+The hallway is eight feet wide and ten feet high. The walls are laced with
+a bone white material. When you touch the wraithbone, you hear keening in
+your mind. Floating globes of light hover every twenty feet, illuminating
+the hallway quite well. There are gems set into the wall in a random pattern.
+~
+99 40 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3204
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2959
+S
+#3204
+[Base Hallway]~
+The hallway is eight feet wide and ten feet high. The walls are laced with
+a bone white material. When you touch the wraithbone, you hear keening in
+your mind. Floating globes of light hover every twenty feet, illuminating
+the hallway quite well. There are gems set into the wall in a random pattern.
+There are cages to your west and your east.
+~
+99 40 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3303
+D1
+Black beams of chaotic energy leap across the doorway.
+~
+cage~
+ ~
+ ~
+1 9901 3358
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3178
+D3
+Black beams of chaotic energy leap across the doorway.
+~
+cage~
+ ~
+ ~
+1 9901 3357
+S
+#3303
+[Base Hallway]~
+The hallway is eight feet wide and ten feet high. The walls are laced with
+a bone white material. When you touch the wraithbone, you hear keening in
+your mind. Floating globes of light hover every twenty feet, illuminating
+the hallway quite well. There are gems set into the wall in a random pattern.
+~
+99 40 0 0
+0 0 0 0
+0 0 0
+D0
+There is an obisdian door set in the wall blocking your way. There is a box
+set to the right of the door with a glowing outline of a hand.
+~
+door palmlock~
+ ~
+ ~
+1 9901 3356
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3204
+S
+#3356
+[Elevator]~
+You enter the elevator, a voice speaks to you in an unknown tongue. Alarms
+start to ring in the distance. Maybe you should have answered?
+~
+99 40 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+door~
+ ~
+ ~
+2 9901 3303
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 3361
+S
+#3357
+[Wolf Pens]~
+The floors of this area are covered with straw and grass. There is a noticable
+lack of the floating globes in here. From the back of this dark room
+you hear a deep low growl, slowing growing in size. The musk of wolves is
+unmistakable in the air.
+~
+99 40 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+cage~
+ ~
+ ~
+1 9901 3204
+S
+#3358
+[Wolf Pens]~
+The floors of this area are covered with straw and grass. There is a noticable
+lack of the floating globes in here. From the back of this dark room
+you hear a deep low growl, slowing growing in size. The musk of wolves is
+unmistakable in the air.
+~
+99 40 0 0
+0 0 0 0
+0 0 0
+D3
+ ~
+cage~
+ ~
+ ~
+1 9901 3204
+S
+#3361
+[Elevator]~
+You enter the elevator, a voice speaks to you in an unknown tongue. Alarms
+start to ring in the distance. Maybe you should have answered?
+~
+99 40 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+door~
+ ~
+ ~
+1 9901 3362
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 3356
+S
+#3362
+[Guard Post]~
+This part of the base seems to be heavily guarded. The walls are reinforced
+with obsidian and adamantite. The door to the south looks like its made to
+withstand anything. There are weapons racks along the wall here, and it is
+very dark. The keening you heard before is much stronger here.
+~
+99 40 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+door~
+ ~
+ ~
+2 9901 3361
+D2
+ ~
+door~
+ ~
+ ~
+1 9901 3363
+S
+#3363
+[Challenge Room]~
+This is the challange room for all Eldar to prove their worthiness to
+confer with Khaine, the Bloody Handed One. The Eldar are a warring race,
+where only the strong will survive. And to speak to one' god is a honor
+and a privilage beyond mortal ken. Few survive this room, even fewer
+survive Khaine...
+~
+99 203 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+door~
+ ~
+ ~
+2 9901 3362
+D2
+This door is a solid peice of wraithbone, it is carved with many scenes
+of Khaine's bloody victories. It hums with power so ancient to make it
+painful to your heart and soul.
+~
+door~
+ ~
+ ~
+1 9901 3558
+S
+#3558
+[Throne of Kaela Mensha Khaine]~
+Within this chamber, upon a throne of smoldering iron, sits The Eldar Avatar,
+Kaela Mensha Khaine, the old god of the Eldar now driven into a
+fragmented exile in the material plane. The Avatar sits as still as a
+statue of ancient metal, pitted with age and encrusted with the patina
+of corrosion. The chamber that surround the throne is built of gleaming
+wrathbone whose skeletal structure stretches throughout this entire base.
+~
+99 75 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+door~
+ ~
+ ~
+2 9901 3363
+S
+#3563
+[Base Armoury]~
+This room is loaded with more weapons then you have ever seen. There are
+swords hanging from the northern wall. Blasters along the western wall,
+strange hand held items that emit much power along the eastern wall. Armor
+is stacked in the corners. There are three floating globes in this room.
+~
+99 40 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+door~
+ ~
+ ~
+1 9901 2957
+S
+#3566
+[Base Communications]~
+There are boxy machines with flashing lights set up along the walls of
+this room. There is a desk in the middle with stacks of papers. One of the
+papers catches your eye. The desk is made from a black material unknown to
+you. The walls are made of the same white material as the rest of the base.
+There are two of the glowing orbs in this room.
+~
+99 40 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+door~
+ ~
+ ~
+1 9901 2899
+E
+paper papers memo~
+To: All Personal
+From: Stormchylde
+RE: Base Beta
+.
+All personel, will be prepared to move out to the new base in 5 weeks. Our
+wraithbone singers will be done by then. Our defeat at Trellor has pushed
+back the invasion plans. We need to regroup and re-plan. We will be
+victorious over the humans. Our human spy Kyleel Underwood informs us that
+the main of the populace is ignorant of our plans. Let's keep it that way.
+.
+                                    Lord and Master
+                                      Stormchylde
+~
+S
+#3571
+[Guard Room]~
+This guard room is staffed by a squad of drones. They all turn at your
+approach. The walls are made of the same strange bone white material. There
+are two beds set back against the wall. There are strange glass like things
+set into the walls on the north side. It seems a miniature picture of the
+cave enterance outside. There are two of those floating globes in the far
+corners of this room.' The door closes behind you automatically.
+~
+99 40 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+door~
+ ~
+ ~
+1 9901 2898
+S
+#3597
+[Guard Room]~
+This guard room is staffed by a squad of drones. They all turn at your
+approach. The walls are made of the same strange bone white material. There
+are two beds set back against the wall. There are strange glass like things
+set into the walls on the north side. It seems a miniature picture of the
+cave enterance outside. There are two of those floating globes in the far
+corners of this room.' The door closes behind you automatically.
+~
+99 40 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+door~
+ ~
+ ~
+1 9901 2897
+S
+#3606
+Fairone's Bedroom~
+ The sweet smell of perfume entices you as you enter the room. Gazing around
+you see a huge round bed in its center, curtained in a sheer luminous material
+with a dark red silk duvet and several white silk feather pillows. The wall to
+the west is gone and offers an enchanting view of a beautiful valley of
+flowers. The dome ceiling is covered in lovely murals of flying dragons,
+unicorns and nymphs all with a background of a dark starlit sky. The south wall
+is of mirrors and has several mirrored doors, leading to a large wardrobe. The
+east wall is covered in a huge tapestry of the finest silk. One last thing
+catches your eye...there is a small sphere floating in the corner hovering
+there and suspended by magic.
+~
+99 3592 0 0
+0 0 0 0
+0 0 0
+D1
+This door is made from a solid ruby. The handle is crafted from gold and
+silver.
+~
+ruby~
+ ~
+ ~
+2 5181 2894
+D2
+You reflection stares back at you as you look at this door. The entire door
+is mirrored. It leads to the walk-in closet.
+~
+mirror~
+ ~
+ ~
+1 -1 3607
+E
+sphere~
+When you gaze into the sphere you see the image of a handsome man floating
+inside he is tall has a patch over one eye and is wearing full battle armor.
+This is obviously the man that has won Fairone's heart. And the sphere must be
+her way of gazing upon him when he is gone and she is missing him.
+~
+S
+#3607
+Wardrobe~
+ Never in your life have you seen so many clothes in on place. One entire wall
+has nothing but shoes placed in neat little racks and arranged by color. There
+is a huge dressing table on one wall with several bottles of exotic perfumes
+and a small plague sitting in the middle. The rest of the walls contain nothing
+but lovely dresses of every color you can imagine and then some are of colors
+that you just can't place and have never seen before. In the very center of the
+room there is a huge round tub with candles and small vial of bathing beads and
+salts placed on its rim.
+~
+99 3592 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+mirror~
+ ~
+ ~
+1 -1 3606
+S
+#19025
+[Stormchylde's Office]~
+The walls of this office are completely made from wraithbone. There are
+four floating globes of light in each corner. The floor is covered with rugs
+made from the pelts and hides of many species. There are bookshelves lining
+the northern wall, and a design of a giant wolf on the southern. The design
+is done in gems. There is a desk at the rear of the room, made of old oak,
+polished to a bright sheen. There are papers all over the desk. There is a
+painting over the desk, and a small sign on the desk itself.
+~
+99 67098 0 0
+0 0 0 0
+0 0 0
+D0
+Set into the wall is a obsidian door with no hinged. Beside the door there
+is a glowing hand print.
+~
+palmlock~
+$n is so happy to be leaving.~
+$1 breathes a sigh of relief at being released.~
+2 9901 1161
+D5
+This rug looks like it's moved a lot.
+~
+rug~
+ ~
+ ~
+4 9901 2894
+E
+Painting~
+There is a painting of two people hanging on this wall. The woman in the
+painting has blonde hair and green eyes, and is the most beautiful mortal you
+have ever seen. She is seated in a large chair, dressed in a gown that
+matches her eyes. Standing behind her, in full Avatar Combat Armor is
+Stormchylde. Standing six and half feet tall, he is impressive. Black hair
+and his one eye gleaming black. His hand rests upon Fairone's shoulder. The
+frame of this picture is made from obsidian and is carved with scenes of thier
+meeting.
+~
+E
+desk~
+This desk is made from oak, hand polished to a bright sheen. There are maps
+and various memos laying about the top of the desk. Looking at the writing,
+you realize, it could not be of human origin. There is a sign on the foremost
+left hand corner of the desk.
+~
+E
+sign~
+It's not death if you refuse it...
+It's only death if you accept it...
+~
+E
+bookshelves~
+These bookshelves are filled with books on war, philosophy, death, humans
+and weapons. Some are of human origin.
+~
+E
+gems~
+As you look closer to these gems, you see sleeping eldar within. You realize
+that the strange melody you have been hearing since you have entered, emits
+from these gems.
+~
+E
+memo~
+Master, here is a list of the humans who will help us take over trellor.
+Kyleel, Yuri, Praxeus, Volito, and Jinxx. The others, we shall have to either
+capture them, or kill them.
+~
+S
+#19999
+$~

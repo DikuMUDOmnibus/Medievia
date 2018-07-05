@@ -1,0 +1,87 @@
+The mob file has changed dramatically.
+
+The first few fields are the same as usual
+#number
+namelist~
+short description~
+long description
+~
+description
+~
+
+NOW things get interesting, all OTHER variables will now use
+TAG / VALUE pairs...
+
+example LEV 23     or   EXP 223372
+
+ALL the tags listed below can be put ANYWHERE or in ANY order
+as many or as few on a line as you like.  If you duplicate a variable the
+last variable of the same type will be used.
+
+BELOW we list the TAGS and what can be used with them
+the tags may be UPPER OR LOWER CASE and can be whole words
+for exampel you can have experience 100d25+5000  it ONLY looks at the
+first 3 characters of the tag so experience will be translated to EXP
+
+You will notice you can use DICE for many variables you could not
+before.
+
+THESE M U S T be included
+----------------------------------
+ACT  ACTION FLAGS 	# or #d#+#
+AFF  AFFECTED FLAGS 	# or #d#+# 
+ALI  ALIGNMENT		# or #d#+# 
+CLA  CLASS  		W,M,C,T,O
+LEV  LEVEL		# or #d#+# 
+HRO  HITROLL    	# or #d#+# 
+ARM  ARMOR		# or #d#+# 
+HIT  HITROLL		# or #d#+# 
+DAM  DAMROLL		#d#+#		NOTICE this REQUIRES a DIE 
+GOL  GOLD		# or #d#+# 
+EXP  EXPERIENCE		# or #d#+# 
+POS  POSITION		# or #d#+# 
+DPOS DEFAULT POSITION   # or #d#+# 
+SEX  SEX		# or #d#+# 
+
+NEW TAGS CODED and considered OPTIONAL
+--------------------------------------
+STR  STRENGTH		# or #d#+#
+INT  INTELIGENCE	# or #d#+#
+WIS  WISDOM		# or #d#+#
+DEX  DEXTERITY		# or #d#+#
+CON  CONSTITUTION	# or #d#+#
+MOU  This mob is mountable
+FLY  This mounted mob FLIES, also needs MOU set
+MOV  MOVEMENT           # or #d#+#
+!KIC  Cannot be kicked
+!BAC  Cannot be Backstabbed
+!TRI  Cannot be tripped
+!BAS  Cannot be Bashed
+!CHA  Cannot be charged
+!DIS  Cannot be disarmed
+!THR  Cannot be Thrown againt
+!SOL  Cannot be hit by solid objects(swords, punched, kicked, hit etc)
+
+TO BE ADDED TO CODE AT WILL and CONSIDERED   O P T I O N A L
+------------------------------------------------------------
+WEI  WEIGHT		# or #d#+#  in stones
+HEI  HEIGHT		# or #d#+#  in centimeters
+
+
+Things to be added also will be things like
+!BS  cannot be backstabbed  like for a tree
+!TR  cannot be tripped  like for a centipede
+!BA  cannot be bashed  like for a pudding
+and many many more things..including special funcs like HUNTER etc
+
+I would SUGGEST using something of the same format we used before
+like... a line would read
+LEV 30 THA 0 ARM -5 HIT 10d15+2200 DAM 10d5+20
+Again in no way does any variable have to be in any order etc, but it may
+be easier to use the old way of which variables on which lines as to not
+FORGET to include a variable REQUIRED.
+
+This new design makes adding NEW variables to a mob file a 5 minute 
+process at TOPS.  IF we wanted a VAR  !FOR  to say this mob will not
+form up, 5 minute hack, it is a good thing :)
+

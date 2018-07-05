@@ -1,0 +1,1319 @@
+#5100
+City Entrance~
+     You are at the entrance to a small underground city. A great adamantite
+gate lies open to the west allowing entrance into the city.
+~
+51 9 0 7
+0 0 0 0
+0 0 0
+D3
+A huge gate opens to the west allowing entrance into the city.
+~
+gate~
+ ~
+ ~
+1 0 5101
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 2743
+E
+gate~
+A large adamantite gate with giant spider-shaped emblems stands here.
+~
+E
+hole~
+A small hole that looks to have been sealed at one time.
+~
+S
+#5101
+City street~
+     You walk along a highly ornate street going north-south. A large gate
+lies to the east while a building lies to the west.
+~
+51 9 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 5123
+D1
+A huge adamantite gate.
+~
+gate~
+ ~
+ ~
+1 0 5100
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 5102
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 5122
+S
+#5102
+City street~
+You walk along a highly ornate street going north and west.
+~
+51 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 5101
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 5103
+S
+#5103
+City street~
+You walk along a highly ornate street going east-west.  A large house
+stands to the south.
+~
+51 9 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 5102
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 5104
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 5106
+S
+#5104
+3rd House~
+You stand inside the 3rd house of the city.  It is fairly well decorated
+by drow standards, having a few statues, murals, and such.  A door leads to
+the south.
+~
+51 9 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 5103
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5105
+S
+#5105
+Throne Room~
+     The throne room of the 3rd house is about as decorated as the inner
+courtyard except with a blood covered altar in the center of the room.
+~
+51 9 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5104
+E
+altar~
+Dark red blood stains this stone altar.  You look away in disgust when you
+notice part of the last victim near the base.
+~
+E
+throne~
+The throne is made of hard wood, and decorated with a few gems.  A spider
+carving is marked on the back of this noble's chair.
+~
+S
+#5106
+City street~
+You walk along a highly ornate street going east-west.  To the north
+is a large building.
+~
+51 9 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 5118
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 5103
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 5107
+S
+#5107
+City street~
+You walk along a highly ornate street leading north and east.  To the
+south is an extremely large house.
+~
+51 9 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 5110
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 5106
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 5108
+S
+#5108
+2nd House~
+You stand inside the 2nd house of the city.  The room is highly decorated,
+with statues of spiders and murals everywhere.
+~
+51 9 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 5107
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5109
+S
+#5109
+Throne Room~
+The throne room of the 2nd house is just a little more decorative than
+the inner courtyard, having an altar in the center of the room.
+~
+51 9 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5108
+E
+altar~
+This blood stained stone altar has obviously gotten a lot of use.
+~
+E
+throne~
+The throne in this room is a highly decoartive piece of art, made of the
+a hard wood and embedded with gems and precious metals.
+~
+S
+#5110
+Main Gate~
+     You are at the entrance to the 1st house of the city. A large gate, almost
+as big and elegant as the one at the entrance to the city, stands here.
+~
+51 9 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 5114
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 5107
+D3
+A large gate lies to the west.~
+gate~
+ ~
+ ~
+1 -1 5111
+E
+gate~
+This adamantite gate has carvings of spiders and other things that the
+drow consider holy.
+~
+S
+#5111
+1st House~
+     You stand in the inner courtyard of the 1st and largest house in the city.
+The room is extremely large and decorative. Mural and paintings hang on the
+walls depicting some battles and a spider queen.
+~
+51 9 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5110
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 5112
+S
+#5112
+Throne Room~
+The throne room of the 1st house is in one word... awesome. It is so
+horrifying it is almost beautiful.
+A spider-shaped throne sits near the back wall of the room.
+~
+51 9 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5113
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5111
+E
+throne~
+The throne is the most hideous yet beautiful you have ever seen!
+It is made of a strange wood that reminds you of Mythago Forest.
+The gems embedded in it are finely crafted, and the metals are the most
+precious you have ever seen, giving this spider-like chair of nobles a
+life-like quality.
+~
+S
+#5113
+Main Chamber~
+     This is the council chamber for the Matron Mother herself. A huge table
+and chairs surrounding it sits in the center of the room.
+~
+51 9 0 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5112
+E
+chair chairs~
+These are comfortable chairs, made of the same peculiar wood as the table,
+and covered with furs from exotic animals.
+~
+E
+table~
+This is a basically plain table, made of a peculiar wood.  Upon closer
+inspection, you realize the wood comes from the trees in Mythago.
+~
+S
+#5114
+City street~
+You walk along a highly ornate street leading to the north, south, and east.
+~
+51 9 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 5115
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 5117
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 5110
+S
+#5115
+City street~
+You walk along a highly ornate street leading south.  A building is
+to the west.
+~
+51 9 0 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 5114
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5116
+S
+#5116
+Cleric Academy~
+     This is the most lavish of the academies being that it is for the clerics.
+~
+51 9 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5115
+S
+#5117
+City street~
+You walk along a highly ornate street going east-west.  To the north
+is a giant temple.
+~
+51 9 0 7
+0 0 0 0
+0 0 0
+D0
+The entrance to the temple of Lloth.
+~
+ ~
+$n enters the temple of Lloth.~
+$n walks into the temple.~
+1 -1 5119
+D1
+The street continues east into the darkness.  Doors line the north and south
+sides of the walls.
+~
+ ~
+$n walks down the street and into the darkness to the east.~
+$n walks out of the darkness from the west.~
+1 0 5121
+D3
+The street ends shortly to the west, but goes on to the north and south.
+~
+ ~
+$n walks down the street and into the darkness to the east.~
+$n walks out of the darkness from the east.~
+1 0 5114
+S
+#5118
+Warrior's Academy~
+     This looks more like a barracks than a school.
+~
+51 9 0 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 5106
+S
+#5119
+Entrance to the Temple of Lloth~
+     The temple is the largest building in the city. Even it's doors are beyond
+imagination. Inside of the temple entrance, the walls are made of gold and
+adamantite.
+~
+51 9 0 7
+0 0 0 0
+0 0 0
+D2
+You peer to the south, out the temple doorway, into a dim street of the
+drow city, in the huge cavern.
+~
+ ~
+$n leaves the temple.~
+$n walks out of the temple.~
+1 -1 5117
+D5
+Looking down the stairs you see a small room with an exit to the north.
+~
+ ~
+$n walks down the stairs into the dim temple interior below.~
+$n descends the stairs from above.~
+1 0 5126
+S
+#5120
+Mage's Academy~
+The mage's academy is fairly well decorated, seeing that the drow prefer magic
+over physical power greatly.
+~
+51 9 0 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5121
+S
+#5121
+City street~
+You walk along a highly ornate street going east-west.  To the north is
+a building.
+~
+51 9 0 7
+0 0 0 0
+0 0 0
+D0
+You are looking at the enterance to the Academy of Magic.
+~
+ ~
+$n walks out of the Mage's Academy.~
+$n enters the Mage's Academy.~
+1 -1 5120
+D1
+The street east turns abrupty towards the south.
+~
+ ~
+$n walks into the shadows of the street to the east.~
+$n walks out of the shadows of the street from the west.~
+1 0 5123
+D2
+To the south is a small room with hay strewn about.  Obviously the slave
+chambers.
+~
+ ~
+$n leaves south towards the slave chambers.~
+$n walks in from the north.~
+1 0 5122
+D3
+The street continues into darkness to the west.  Just beyond the shadows
+lies the temple of Lloth.
+~
+ ~
+$n steps into the shadows to the west.~
+$n steps out of the shadows from the east.~
+1 0 5117
+S
+#5122
+Slave Chamber~
+The room is in shambles.  Straw is strewn all about the room as bedding
+for the unfortunate creatures who have fallen prey to Drow imperialism.
+~
+51 9 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 5121
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 5101
+S
+#5123
+City street~
+You walk along a highly ornate street leading west and south.  To the
+north is a relatively small house.
+~
+51 9 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5124
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 5101
+D3
+The street continues on to the west into the darkness.  Just ahead you see
+an elaborate building to the north, and a worn down building to the south.
+Just at the edge of your vision can also make out what looks like a temple,
+to the north.
+~
+ ~
+$n walks west down the street and into the darkness...~
+$n walks out of the darkness from the east.~
+1 0 5121
+S
+#5124
+4th house~
+    You stand inside the 4th house of the city. Its inner courtyard is rather
+dull by drow standards and rather small as well.
+~
+51 9 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 5125
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5123
+S
+#5125
+Throne Room~
+The throne room is basically similar to the inner courtyard in regards
+to decor.  There is a small throne behind the altar, but that is about it.
+~
+51 9 0 7
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 5124
+E
+throne~
+The throne is plain and wooden, with the exception of a spider carving
+on the back.
+~
+S
+#5126
+Entrance Way~
+     You stand in the entrance way to the temple which opens up to the north
+into a large hallway going east and west. Small statues of spiders line the
+entrance way's walls.
+~
+51 9 0 7
+0 0 0 0
+0 0 0
+D0
+To the north is a hallway that goes to the east and west.  Further to
+the north is a staircase leading up.
+~
+ ~
+$n walks north, into the hall.~
+$n enters the hall from the south.~
+1 0 5127
+D4
+Looking up the stairs, you see a single room with an exit to the south.
+~
+ ~
+$n walks up the stairs, to the enterance to the temple.~
+You see $n ascend the stairs from below.~
+1 0 5119
+S
+#5127
+Hallway~
+     You are in a long hallway lined with adamantite. The walls are engraved
+with pictures of elves and spiders. The hallway continues east and west. As you
+look down the hallway you can make out one or two figures moving away from you.
+To the north is a obsidian stairway.
+~
+51 9 0 7
+0 0 0 0
+0 0 0
+D0
+You see a grand staircase, leading up to the floor above.
+~
+ ~
+$n walks over the staircase to the north.~
+$n approaches the staircase and begins to ascend to the next floor.~
+1 0 5135
+D1
+The dark hallway seems to go on forever... but a ways down the hall you see
+a door to the north.
+~
+ ~
+$n walks down the hall to the east.~
+$n walks down the hall from the west.~
+1 0 5128
+D2
+To the south is the enterance way to the temple, with a set of stairs
+leading up.
+~
+ ~
+$n walks away, to the enterance hall.~
+You see $n walk towards the enterance hall.~
+1 0 5126
+D3
+The dark hallway seems to go on forever... but you can see a door a little
+ways ahead to the south.
+~
+ ~
+$n walks down the hall to the west.~
+$n walks down the hall from the east.~
+1 0 5131
+S
+#5128
+Long Hallway~
+     You are in a long hallway lined with adamantite. The walls are engraved
+with pictures of elves and spiders. The hallway continues east and west. As you
+look down the hallway you can make out one or two figures moving away from you.
+~
+51 9 0 7
+0 0 0 0
+0 0 0
+D1
+The dark hallway seems to go on forever... but just down the hall you see
+a door to the north.
+~
+ ~
+$n walks down the hall to the east.~
+$n walks down the hall from the west.~
+1 0 5129
+D3
+The dark hallway seems to go on forever... But just ahead is an
+intersection.
+~
+ ~
+$n walks down the hall to the west.~
+$n walks down the hall from the east.~
+1 0 5127
+S
+#5129
+Long Hallway~
+     You are in a long hallway lined with adamantite. The walls are engraved
+with pictures of elves and spiders. The hallway continues east and west. As you
+look down the hallway you can make out one or two figures moving away from you.
+To the north is a door.
+~
+51 9 0 7
+0 0 0 0
+0 0 0
+D0
+Peering through the dim door to the north, you see the chambers of the
+temple's weaponsmaster.
+~
+ ~
+$n walks into the weaponsmaster's chambers.~
+$n enters the weaponsmaster's chambers.~
+1 -1 5150
+D1
+The dark hallway seems to go on forever...
+~
+ ~
+$n walks down the hall to the east.~
+$n walks down the hall from the west.~
+1 0 5130
+D3
+The dark hallway seems to go on forever...  but you can see an
+intersection a ways ahead.
+~
+ ~
+$n walks down the hall to the west.~
+$n walks down the hall from the east.~
+1 0 5128
+S
+#5130
+Long Hallway~
+     You are in a long hallway lined with adamantite. The walls are engraved
+with pictures of elves and spiders. The hallway continues east and west. As you
+look down the hallway you can make out one or two figures moving away from you.
+~
+51 9 0 7
+0 0 0 0
+0 0 0
+D1
+The dark hallway seems to go on forever... but a ways down the hall you see
+a door to the south.
+~
+ ~
+$n walks down the hall to the east.~
+$n walks down the hall from the west.~
+1 0 5134
+D3
+The dark hallway seems to go on forever... but you can see a door a little
+ways ahead to the north.
+~
+ ~
+$n walks down the hall to the west.~
+$n walks down the hall from the east.~
+1 0 5129
+S
+#5131
+Long Hallway~
+     You are in a long hallway lined with adamantite. The walls are engraved
+with pictures of elves and spiders. The hallway continues east and west. As you
+look down the hallway you can make out one or two figures moving away from you.
+~
+51 9 0 7
+0 0 0 0
+0 0 0
+D1
+The dark hallway seems to go on forever... but just ahead you see an
+intersection.
+~
+ ~
+$n walks down the hall to the east.~
+$n walks down the hall from the west.~
+1 0 5127
+D3
+The dark hallway seems to go on forever... but you can see a door a little
+ways ahead to the south.
+~
+ ~
+$n walks down the hall to the west.~
+$n walks down the hall from the east.~
+1 0 5132
+S
+#5132
+Long Hallway~
+     You are in a long hallway lined with adamantite. The walls are engraved
+with pictures of elves and spiders. The hallway continues east and west. As you
+look down the hallway you can make out one or two figures moving away from you.
+To the south is a door.
+~
+51 9 0 7
+0 0 0 0
+0 0 0
+D1
+The dark hallway seems to go on forever... but up aways ahead you see an
+intersection.
+~
+ ~
+$n walks down the hall to the east.~
+$n walks down the hall from the west.~
+1 0 5131
+D2
+Peering through the dim doorway to the south, you see the soldiers'
+barracks.
+~
+ ~
+$n steps through the door to the south, into the barracks.~
+$n walks into the barracks.~
+1 -1 5133
+D3
+The dark hallway seems to go on forever...
+~
+ ~
+$n walks down the hall to the west.~
+$n walks down the hall from the east.~
+1 0 5134
+S
+#5133
+Warrior's Barracks~
+     The room is a complete mess. None of the beds are made, clothes and other
+items have been left all about the room. Well drow warriors never were known
+for neatness.
+~
+51 9 0 7
+0 0 0 0
+0 0 0
+D0
+To the north you see a hallway, leading far to the east and west, beyond
+your sight.
+~
+ ~
+$n leaves the barracks.~
+$n walks into the hallway, from the barracks.~
+1 -1 5132
+S
+#5134
+Long Hallway~
+     You are in a long hallway lined with adamantite. The walls are engraved
+with pictures of elves and spiders. The hallway continues east and west. As you
+look down the hallway you can make out one or two figures moving away from you.
+~
+51 9 0 7
+0 0 0 0
+0 0 0
+D1
+The dark hallway seems to go on forever... but just down the hall you see
+a door to the south.
+~
+ ~
+$n walks down the hall to the east.~
+$n walks down the hall from the west.~
+1 0 5132
+D3
+The dark hallway seems to go on forever...  But you can see a door a ways
+ahead to the north.
+~
+ ~
+$n walks down the hall to the west.~
+$n walks down the hall from the east.~
+1 0 5130
+S
+#5135
+Grand Stairway~
+     You are standing at the bottom of a giant obsidian and adamantite
+stairway. The edges are trimmed with gold.
+~
+51 9 0 7
+0 0 0 0
+0 0 0
+D2
+Looking south you see a hallway which leads to the east and west.  Further
+still to the south is a staircase leading up.
+~
+ ~
+$n walks to the south, into the hall.~
+$n enters the hall from the north.~
+1 0 5127
+D4
+You are looking up the stairs, which only goes one floor up.  Above,
+a hallway runs north, and a beyond the edge of the stairwell a door is
+visible.
+~
+ ~
+$n ascends the stairs, out of sight.~
+$n walks up the stairs from the hallway below.~
+1 0 5136
+E
+stair stairs staircase stairway~
+The Grand Staircase is trimmed in gold and silver, with gleaming platinum
+laced banisters of an odd wood.  The stairs are deathly quiet when you step
+on them, without even the slightest of moans, groans, or squeaks.
+~
+S
+#5136
+Grand Hallway~
+You are standing in the middle of a grand hallway. The walls are
+of the purest adamantite with gold trim.  Mosaics line the walls.
+~
+51 9 0 7
+0 0 0 0
+0 0 0
+D0
+To the north the hallway abruuptly ends, with a stairway leading down, and
+a door to the east.
+~
+ ~
+$n leaves to the north in the grand hallway.~
+$n walks towards you through the grand hallway.~
+1 0 5138
+D1
+You peek into the room to the east, the mage's barracks.  From here it
+appears fairly well filled with miscellaneous objects.
+~
+ ~
+$n walks into the mage's barracks.~
+$n enters the mage's barracks.~
+1 -1 5137
+D5
+You are looking down a grand staircase, which has precious metals
+decorating it in every concievable manner.  Below is a room with golden
+doors to the north.
+~
+ ~
+$n descends the stairs to the floor below.~
+$n descends the stairs from above.~
+1 0 5135
+E
+stair stairs staircase stairway~
+The Grand Staircase is trimmed in gold and silver, with gleaming platinum
+laced banisters of an odd wood.  The stairs are deathly quiet when you step
+on them, without even the slightest of moans, groans, or squeaks.
+~
+S
+#5137
+Mage's Barracks~
+The mage's living quarters is rather clean with the exception of a few
+used component containers. It is rather well decorated as well. Cots line the
+floor for the mages to sleep on.  The only door is to the west.
+~
+51 9 0 7
+0 0 0 0
+0 0 0
+D3
+Looking out into the hallway you see it continues north.  There is, however,
+a staircase leading down.
+~
+ ~
+$n leaves the mage's barracks.~
+$n walks out of the mage's barracks.~
+1 -1 5136
+S
+#5138
+Grand Hallway~
+     You are walking down a grand hallway, heavily decorated with adamantite
+and gold. To the north the hall goes down a flight of stairs while a door is
+too the west.
+~
+51 9 0 7
+0 0 0 0
+0 0 0
+D2
+To the south is another staircase, leading down, and a door to the east.
+~
+ ~
+$n leaves to the south.~
+$n walks towards you.~
+1 0 5136
+D3
+You are looking into the clerics barracks to the west.  This basic room
+has a few beds and spider-shaped pieces of art.
+~
+ ~
+$n leaves towards the cleric's barracks.~
+$n walks into the barracks.~
+1 -1 5139
+D5
+You are looking down a grand staircase, which has precious metals
+decorating it in every concievable manner.  Below is a room with golden
+doors to the north.
+~
+ ~
+$n begins to descend the stairs.~
+$n walks down the stairs from above.~
+1 0 5140
+E
+stairs stair staircase stairway~
+The Grand Staircase is trimmed in gold and silver, with gleaming platinum
+laced banisters of an odd wood.  The stairs are deathly quiet when you step
+on them, without even the slightest of moans, groans, or squeaks.
+~
+S
+#5139
+Cleric's Barracks~
+     The bed chamber is brightly decorated with spider shaped statues, murals
+and the like. Large beds line the floor making this a comfortable room to live
+in.
+~
+51 9 0 7
+0 0 0 0
+0 0 0
+D1
+Looking out the door of the cleric's barracks you see the grand staircase,
+which descends to the next level, and a hallway, which runs south.
+~
+ ~
+$n leaves the cleric's barracks.~
+$n walks into the room from the cleric's barracks.~
+1 -1 5138
+S
+#5140
+Grand Stairway~
+     You are climbing a set of obsidian stairs surrounded by adamantite walls.
+To the north are a set of large golden doors.
+~
+51 9 0 7
+0 0 0 0
+0 0 0
+D0
+You are looking north into the auditorium.  A stone altar is visible, and
+beyond that a raised dias.
+~
+ ~
+$n walks away from the stairs and into the auditorium.~
+$n steps off the stairs and into the auditorium.~
+1 -1 5141
+D4
+You are looking up a grand stairway, with precious metals decorating it
+in every possible way.  The stairs run up a single flight, to the floor
+above.
+~
+ ~
+You see $n ascend the stairs.~
+$n climbs up the stairs from below.~
+1 0 5138
+E
+stairs stair staircase stairway~
+The Grand Staircase is trimmed in gold and silver, with gleaming platinum
+laced banisters of an odd wood.  The stairs are deathly quiet when you step
+on them, without even the slightest of moans, groans, or squeaks.
+~
+S
+#5141
+Main Chamber~
+     This is the south side of a large auditorium used for services by the
+drow priestesses. In the center is a large sacrificial pit and beyond that is
+an altar.
+~
+51 9 0 7
+0 0 0 0
+0 0 0
+D0
+A large stone altar lies to the north, and a dias beyond that.  But that
+is all you can see from here.
+~
+ ~
+$n walks up to the altar.~
+$n approaches the altar.~
+1 -1 5145
+D1
+You see the eastern side of the auditorium, and a door beyond.
+~
+ ~
+$n walks into the shadows to the east.~
+$n enters the shadows from the auditorium.~
+1 -1 5142
+D2
+You see a grand stairway to the south, but you can't make out much
+detail from this distance.
+~
+ ~
+$n leaves the auditorium and starts up the stairs.~
+$n walks south from the auditorium and steps onto the stairs.~
+1 -1 5140
+D3
+You see the western side of the auditorium, but nothing else.
+~
+ ~
+$n enters the shadows to the west.~
+$n enters the shadows.~
+1 -1 5144
+S
+#5142
+Easternside of Chamber~
+You are on the eastern side of the chamber overlooking the pit.  To the east
+is a door while to the north is an altar.
+~
+51 9 0 7
+0 0 0 0
+0 0 0
+D1
+You see a doorway leading to the slave cells.
+~
+ ~
+$n leaves into the auditorium.~
+$n enters from the shadowy side of the auditorium.~
+1 -1 5146
+D3
+You look towards the center of the auditorium, and see just that.
+Some shadows lie to the far west end.
+~
+ ~
+$n steps out of the shadows and into the center of the auditorium.~
+$n walks out of the shadows to the east.~
+1 -1 5141
+S
+#5143
+Sacrificial Pit~
+As you climb down into the pit thousands of spiders cover you tearing your
+body to shreds.
+Lloth thanks you for your sacrifice.
+~
+51 6 0 0
+0 0 0 0
+0 0 0
+S
+#5144
+Westernside of Chamber~
+You are on the western side of the main chamber, overlooking a sacrificial
+pit. To the north is an altar.
+~
+51 9 0 7
+0 0 0 0
+0 0 0
+D1
+You see the main chamber of the auditorium, and beyond that a door.
+~
+ ~
+$n steps out of the shadows and into the center of the auditorium.~
+$n walks out of the shadows to the west.~
+1 -1 5141
+S
+#5145
+The Altar~
+     You are standing in front of a highly and freshly bloodstained altar.
+Engraved on the top of the altar is a giant spider with a human head. Looking
+down from the altar you see a large sacrificial pit.
+~
+51 9 0 7
+0 0 0 0
+0 0 0
+D0
+You see a large dias behind the altar, with a large design above it that you
+can't quite make you.  You think you see something moving up ahead.
+~
+ ~
+You see $n walk around the altar and up onto the dias.~
+$n walks up the dias from the altar.~
+1 0 5148
+D2
+You see in the distance the south wall of the auditorium, and a grand
+stairway leading up.
+~
+ ~
+$n walks towards the stairs.~
+$n steps down from the altar.~
+1 -1 5141
+D5
+You look into the pit, but an unnatural darkness prevents you from seeing
+what lies below.  You feel an evil aura rising from the depths of the
+pit.  From time to time you hear a faint tap-tap-tap... like a spider
+crawling.  Only a normal spider wouldn't be that loud.
+~
+ ~
+$n climbs down into the pit.  You hear a scurrying below.~
+$n jumps into the pit and lands next to you!~
+1 0 5143
+E
+altar~
+This bloody work of stone is where most of the sacraficed are... well...
+~
+S
+#5146
+Slave Cells~
+     This is the main room to the cell chambers for the slaves to be
+sacrificed. You notice there are no guards around.
+~
+51 9 0 7
+0 0 0 0
+0 0 0
+D0
+You see a slave pen.  However, it is empty.
+~
+ ~
+$n walks into the slave pen.~
+$n enters the slave pen.~
+1 -1 5147
+D3
+You see the auditorium to the west, and not much else.
+~
+ ~
+$n walks out of the slave pens and dissappears into the shadows.~
+$n walks out of the slave pens.~
+1 0 5142
+S
+#5147
+Slave Pen~
+Rotten meat and bread lie about the floor while shackles hang from the
+walls.  The room reeks of death.  You almost become nausious and decide to
+leave the room, since you were obviously too late to save the slaves.
+~
+51 9 0 7
+0 0 0 0
+0 0 0
+D2
+You see the slave cells outside of the pen.
+~
+ ~
+$n walks out of the slave pen.~
+$n walks out of the slave pen and into the main cell.~
+1 -1 5146
+S
+#5148
+Dias~
+     You stand upon a dias behind the altar. Above you is a enormous illusion
+of a female drow turning into a giant spider and back again. There is a door
+to the west.
+~
+51 9 0 7
+0 0 0 0
+0 0 0
+D2
+You see an altar below the dias which you stand on, and a large pit.
+A hallway runs further south.
+~
+ ~
+$n walks down the dias towards the altar and the shadows below.~
+$n walks towards the altar from the dias above you.~
+1 0 5145
+D3
+A large circular door made of adamantite and engraved with a huge spider.
+~
+door adamantite~
+$n slips through the door into the room to the west.~
+$n slips silently into the room.~
+1 5117 5149
+E
+door~
+A large circular door made of adamantite and engraved with a huge spider.
+~
+S
+#5149
+The Treasury~
+     This is obviously only a temporary storage place for the collected
+treasure being rather bare.
+~
+51 9 0 7
+0 0 0 0
+0 0 0
+D1
+A large circular door made of adamantite and engraved with a huge spider.
+~
+door adamantite~
+$n slides out the door to the east.~
+$n slips out of the door to the west.~
+1 5117 5148
+E
+door~
+A large circular door made of adamantite and engraved with a huge spider.
+~
+S
+#5150
+Weaponsmaster's Chamber~
+This one person bedchamber is very elegant. The owner must be held in high
+regards to get this kind of treatment.
+~
+51 9 0 7
+0 0 0 0
+0 0 0
+D2
+The hallway to the south runs to the east and west, far beyond your
+vision.
+~
+ ~
+$n leaves the chambers of the weaponsmaster.~
+$n walks into the hall from the weaponsmaster's chambers.~
+1 -1 5129
+S
+#19999
+$~

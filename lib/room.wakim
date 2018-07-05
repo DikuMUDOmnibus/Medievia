@@ -1,0 +1,149 @@
+#32
+NAME A Rusty, Iron Gate~
+DSC Before you stands an old gate, it hangs at an awkward angle from it's
+rusted hinges, it's once proud finials now dull and corroded.  You can 
+still make out some of the intricacies of the iron work at the center of 
+the gate, where clearly a rose is surrounded by a network of vines.
+~
+FIELD
+MCOL 30 MCHAR G
+#93
+NAME A Sturdy, Wooden Bridge~
+DSC You have come upon a solid looking bridge which fords the water.  It 
+looks to be made of solid hard wood, and has smooth tracks down it's
+center, clearly designed to support a wagon.  On either side, four foot 
+high rails enclose the structure, providing added security.
+~
+FIELD
+MCOL 133 MCHAR =
+#125
+NAME A Clear River~
+DSC You are on a river whose water is clean and cool, as it flows along 
+it's course.  You wonder from where the water comes, and to where it 
+journeys now. Beneath the surface you  see the occasional flash of small 
+fish, doing whatever it is fish do.
+~
+WATER_NOSWIM DRINKROOM NOWAGON NOMULE NOHORSE
+MCOL 34 MCHAR ~
+#21
+NAME A Huge, Thundering Waterfall~
+DSC The roar of falling water is deafening as you stand before the 
+massive falls.  Sheets of water cascade off of the rocks, and rain down 
+upon you.  As you listen the roar of the falls seems to transcend into 
+some strange language,  carrying an urgent message whose meaning lies 
+just beyond you comprehension.  
+~
+BLOCKING
+MCOL 134 MCHAR W
+#98
+NAME On the Moors~
+DSC You stand in the midst of a bog, dominated by grasses and sedges, a 
+thick mist hanging at your feet. The ground gives way beneath you as you 
+walk, your feet frequently sinking deep beneath the surface.  The smell 
+of peat is heavy in the air, intermingling with the soft aroma of heather 
+and decay.  Although there is no wind blowing, a soft moaning rises and 
+falls, as if the very ground were protesting your passage. 
+~
+FIELD NOMULE NOWAGON
+MCOL 133 MCHAR v
+#111
+NAME A Silty, Grass Plain~
+DSC Here the earth has become course and particulate, supporting only the 
+hardiest of grasses,  their tender shoots pushed defiantly above the 
+surface in awkward clumps.  The air is crisp and clean, and small birds 
+scamper before you as you flush them from their roosts.  
+~
+FIELD NOWAGON
+MCOL 133 MCHAR .
+#194
+NAME A Sparse, Forested Region~
+DSC The trees here grow far apart, separated by broad glades of woodland 
+grasses and shrubs, the walking is easy, and pleasant.  Occasionally you 
+here the high pitched rise and fall of a predatory bird, as it announces 
+itself to it's supper.  
+~
+FOREST NOWAGON NOMULE
+MCOL 32 MCHAR .
+#197
+NAME A Twisting Stream~
+DSC You are on a small stream, whose course weaves in and out of view 
+around you.  Small whorls form as it passes rocks which protrude from it's 
+surface.  The water looks clean and potable, and occasionally a trout 
+breaks the surface in pursuit of some invisible quarry, which you gather 
+must be one of the many flying insects, dipping and diving around the 
+shallows.    
+~
+WATER_SWIM DRINKROOM NOWAGON NOMULE
+MCOL 36 MCHAR ~
+#204
+NAME Jungle~
+DSC You are in a tangled mass of tropical vegetation, which seems all but 
+impenetrable.  Myriad's of flying, biting insects swarm around you, and 
+the air is laden with moisture.  A cacophony of sounds fills the erupt at 
+regular frequencies, and though most seem bird-like in nature, an 
+occasional low pitched grunt brings on a deep ancestral forboding.
+~
+FOREST NOWAGON NOMULE
+MCOL 32 MCHAR x
+#213
+NAME An Overgrown Trail~
+DSC  Evidently there once was a trail here, but it has long since been 
+overgrown by grasses and brush.  You can still, however, make out it's 
+general course as it heads off into the distance.  Why a perfectly good 
+trail has fallen into such disuse is open to speculation.
+~
+FOREST NOWAGON
+MCOL 133 MCHAR :
+#214
+NAME A Frigid, Arctic Wasteland~
+DSC You are surrounded by a frozen, glacial landscape, whose vastness 
+defies the imagination.  The air is killing cold, and the apparent 
+absence of any combustible material, makes it seem all the colder.  
+Intermittently a shudder passes through the packed ice, and you wonder 
+what idiocy possessed you to travel here in the first place.
+~
+HILLS NOWAGON NOMULE
+MCOL 37 MCHAR .
+#255
+NAME A Charred Area~
+DSC Here is a desolate scene of scorched earth, and old blackened tree 
+stumps, stretching out over the landscape like an illness.  The air is 
+still too still and quiet to be called peaceful, and your feet raise 
+small clouds of charred dust as you walk.  
+~
+FIELD
+MCOL 30 MCHAR x
+
+
+
+
+
+
+
+CONIFER FOREST TRAIL:
+
+You are on a forest trail.  Large pines loom up on either side of you, 
+giving you the feeling of being in a wide alley.  The branches of the 
+pines stretch out over the trail above you, completing the illusion.  The 
+path is straight, and looks well travelled. Exactly what has been 
+travelling here is questionable, for you occasionally spot an odd looking 
+footprint.
+~
+#194
+NAME A Sparse, Forested Region~
+DSC Needs one
+~
+FOREST
+#197
+NAME A Twisting Stream~
+DSC Needs one
+~
+WATER_SWIM
+#204
+NAME Jungle~
+DSC Needs one
+~
+#21
+NAME A Huge, Thundering Waterfall~
+DSC Needs one
+~

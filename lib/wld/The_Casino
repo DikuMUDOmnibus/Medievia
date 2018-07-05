@@ -1,0 +1,4568 @@
+#577
+Fred and Vicki's~
+This is a large, spacious lingerie shop.  The floor is covered in plush
+carpeting with several chandeliers hanging from the ceiling glowing brightly
+with many candles.  Shelves built into the walls as well as small, wooden
+tables placed about the shop display the clothing for sale.
+~
+180 1032 0 0
+0 0 0 0
+0 0 0
+D5
+~
+~
+~
+~
+0 -1 1812
+S
+#1652
+Entering MEDLink... ~
+  Welcome to....
+888   88 888888 88888, 88      88 8888   8 88     8       .od8888bo.
+8888 888 88     88   8 88      88 88 88  8 88   88     .d::::88::888b.
+88 888 8 88aaa  88   8 88      88 88  88 8 88a888    .d888::::::::8:888
+88  8  8 88     88   8 88      88 88   888 888' `8b .88888:::::::88888::
+88     8 88     88   8 88      88 88    88 88     8 d888888:::88;888888::b
+88     8 888888 88888' 8888888 88 88     8 88     8 888888888:888888888888
+................................................... Y8888888::::::888888P
+::::::::::::::::::::::::::::::::::::::::::::::::::: `8888888:::::::8888:'.
+iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii `88888888:::888888'.i
+10!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!..`8888888::88888'..!!
+Sin96||||||||||||||||||||||||||||||||||||||||||||||||||.. `"688889"' ..||||
+~
+180 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1653
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 19012
+S
+#1653
+Yellow Brick Road~
+Before you lies a road.. a yellow brick road that stretches for as far
+as your eyes can see. On either side of the road are what seem to be portals
+or doorways of some sort. These gateways to.. who knows where, go on forever
+as well. You stare at each one as you pass, wondering what awaits you on
+the other side. Your thoughts run wild, limited only by your imagination.
+~
+180 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1806
+D1
+A hardwood door with brass fixtures leads to the ladies room.
+~
+door~
+$n has gone into the ladies room to powder her nose.~
+$n has come into the ladies room. Looks like she is having a rough night!~
+1 -1 1809
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1652
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1808
+S
+#1806
+Yellow Brick Road~
+Before you lies a road.. a yellow brick road that stretches for as far
+as your eyes can see. On either side of the road are what seem to be portals
+or doorways of some sort. These gateways to.. who knows where, go on forever
+as well. You stare at each one as you pass, wondering what awaits you on
+the other side. Your thoughts run wild, limited only by your imagination.
+~
+180 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1807
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1810
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1653
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1811
+S
+#1807
+Yellow Brick Road~
+Before you lies a road.. a yellow brick road that stretches for as far
+as your eyes can see. On either side of the road are what seem to be portals
+or doorways of some sort. These gateways to.. who knows where, go on forever
+as well. You stare at each one as you pass, wondering what awaits you on
+the other side. Your thoughts run wild, limited only by your imagination.
+~
+180 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1814
+D1
+A hardwood door with much-used brass fixtures leads to the mens room.
+~
+door~
+$n has gone into the mens room for a much needed break and freshening up.~
+$n staggers into the room and stumbles toward a stall. He's looked better...~
+1 -1 1812
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1806
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1813
+S
+#1808
+Mens Room~
+The mens room is a smokey den of grumbling and odd body noises. The porter
+is worked almost to death trying to keep the place neat. If it weren't for
+the big winners who gave him big tips, he would probably run screaming from
+this job! The stalls here are individual with running water closets and a
+swinging door for privacy. The north wall is lined with sinks that have silver
+plated and porcelain fittings. Each sink has a silvered glass mirror, but none
+of the gentleman seems to want to look into theirs. You try and peer
+through the cigar smoke to find an unoccupied stall.
+~
+180 8 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1653
+E
+map~
+
+CASINO
+  exit-STAGE-exit                   #=slot machine
+         +                          C=Card table
+      ###+###                      HR=High rollers card room
+      ###+###Stairs down            R=Roulette Table
+      ###+###                       B=Bar
+   CCCCCC+RRRRR                     $$=ATM
+HR ++++++++++++B                    M=mens room
+   CCCCCC+RRRRR                     W=womans room
+        $$+M                         F=fountain outside
+     shop+STAIRS_to_rooms and roof
+  checkin+W
+         F
+~
+S
+#1809
+Ladies Room~
+The Ladies Room is a picture of elegance and taste. Individual stalls line the
+south wall, each with its own door and running water-closet. There are soft,
+cushioned chairs at vanity tables along the north wall. Each vanity has its
+own silver tray with an assortment of expensive perfumes and a sink with silver
+plated fixtures and running hot-and-cold water. There is also a mirror above
+each vanity framed in exotic wood and fronted with genuine silvered glass.
+A maid sits near the entrance, ready to clean any mess or help you with a towel
+or any of your personal needs. What a WONDERFUL place to powder your nose!
+~
+180 8 0 0
+0 0 0 0
+0 0 0
+D3
+A door of dark hardwood and brass fixtures leads to the main hallway.
+~
+door~
+$n has left to win some money and knock the men dead with her looks.~
+$n has left the ladies room refreshed and looking FABULOUS!~
+1 -1 1653
+S
+#1810
+Stairs~
+ You stand on the grand stairs in the casino.  The huge oak staircase is highly
+polished, and looks antique.  The stairs are covered with a thin, red carpet.
+The shiny brass railing gently flows up the stairs.  The stairs are very busy
+with customers going up and down.  There are workers standing around, keeping
+the stairs looking new.
+~
+180 8 0 0
+0 0 0 0
+15 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1806
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 1877
+S
+#1811
+Rent-A-Fantasy~
+You stand at a crowded long high counter where others are perusing
+literature describing the various suites and rooms available for rent
+here in the Link. Each one with a different theme to satisfy almost 
+any fantasy imaginable.  
+~
+180 8 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1806
+S
+#1812
+MEDLink Souvenir Shop~
+ You stand in a small, well lite shop in the casino.  The floor is covered with
+beige carpet, and the walls are painted off-white.  Many glass cabinets are
+filled with wonderful, expensive trinkets to spend your winnings on, or to buy
+a present for the now bankrupted wife.  The shopkeeper is wrapping a gift for
+an impatient patron.  You turn around and head out of the crowded shop.
+~
+180 8 0 0
+0 0 0 0
+0 0 0
+D3
+A dark hardwood door leads to the main hallway. The porter keeps it polished.
+~
+door~
+$n heads back to the casino to try and regain some of his money.~
+$n steps out from the mens room. He looks better, but not much.~
+1 -1 1807
+D4
+~
+~
+~
+~
+0 -1 577
+S
+#1813
+Entrance to the Freaks Clubhouse~
+ ~
+180 8 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1807
+E
+sticker~
+How to use the Medievia Automatic Teller Machine.
+Deposit <amount>  : Puts -X- amount into your bank account.
+Withdraw <amount> : Withdrawns -X- amount from your bank account.
+Balance           : Shows you how much money you have in the bank.
+~
+S
+#1814
+Yellow Brick Road~
+Before you lies a road.. a yellow brick road that stretches for as far
+as your eyes can see. On either side of the road are what seem to be portals
+or doorways of some sort. These gateways to.. who knows where, go on forever
+as well. You stare at each one as you pass, wondering what awaits you on
+the other side. Your thoughts run wild, limited only by your imagination.
+~
+180 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1815
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1807
+S
+#1815
+Yellow Brick Road~
+Before you lies a road.. a yellow brick road that stretches for as far
+as your eyes can see. On either side of the road are what seem to be portals
+or doorways of some sort. These gateways to.. who knows where, go on forever
+as well. You stare at each one as you pass, wondering what awaits you on
+the other side. Your thoughts run wild, limited only by your imagination.
+~
+180 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1816
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1840
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1814
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1820
+S
+#1816
+Yellow Brick Road~
+Before you lies a road.. a yellow brick road that stretches for as far
+as your eyes can see. On either side of the road are what seem to be portals
+or doorways of some sort. These gateways to.. who knows where, go on forever
+as well. You stare at each one as you pass, wondering what awaits you on
+the other side. Your thoughts run wild, limited only by your imagination.
+~
+180 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1817
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1815
+S
+#1817
+Yellow Brick Road~
+Before you lies a road.. a yellow brick road that stretches for as far
+as your eyes can see. On either side of the road are what seem to be portals
+or doorways of some sort. These gateways to.. who knows where, go on forever
+as well. You stare at each one as you pass, wondering what awaits you on
+the other side. Your thoughts run wild, limited only by your imagination.
+~
+180 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1818
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1865
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1816
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1862
+S
+#1818
+Yellow Brick Road~
+Before you lies a road.. a yellow brick road that stretches for as far
+as your eyes can see. On either side of the road are what seem to be portals
+or doorways of some sort. These gateways to.. who knows where, go on forever
+as well. You stare at each one as you pass, wondering what awaits you on
+the other side. Your thoughts run wild, limited only by your imagination.
+~
+180 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1819
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1817
+S
+#1819
+Yellow Brick Road~
+Before you lies a road.. a yellow brick road that stretches for as far
+as your eyes can see. On either side of the road are what seem to be portals
+or doorways of some sort. These gateways to.. who knows where, go on forever
+as well. You stare at each one as you pass, wondering what awaits you on
+the other side. Your thoughts run wild, limited only by your imagination.
+~
+180 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6408
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1818
+S
+#1820
+Gaming Area~
+ You stand in a grand hallway in the casino.  The hallway is long, with many
+rooms of chance to your left and right.  Famous paintings adorn the finely
+crafted walls.  As you walk down the hallway, the plush green carpet softens
+your steps.  There is a small wooden table off to your left, with a multi-color
+cut glass lamp on top.  You feel lucky just standing here.
+ITEM: tutor
+~
+180 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1827
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1815
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1826
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1821
+E
+tutor~
+HELP FOR PLAYING CARDS IN MEDIEVIA
+You can play any game that requires a standard deck of 52 cards and does
+not use a pile that must be drawn and put back to.
+Everyone follow one person, that person is automatically the dealer.
+Dealer Commands:
+shuffle           - takes all cards and shuffles the deck.
+showdeal(also sd) - deals cards FACE UP so all can see.
+hidedeal(alse hd) - deals cards to player so only player can see them.
+downdeal(also dd) - deals cards face DOWN so NO ONE can see them yet.
+ALL deal commands are in the form  command # player
+  (#=number cards   if player is not supplied, cards are dealt to all)
+Player Commands:
+cards   - shows you your cards.  cards a   will show everyones cards.
+discard - example  discard 7h Qs 10c etc etc...
+show    - turns all your cards over so all can see.
+ante    - ante # will make you drop # coins for the ante.
+raise   - raise # will make you drop # coins to raise the bet.
+fold    - will fold your hand for current game.
+~
+S
+#1821
+Gaming Area~
+ You stand in a grand hallway in the casino.  The hallway is long, with many
+rooms of chance to your left and right.  Famous paintings adorn the finely
+crafted walls.  As you walk down the hallway, the plush green carpet softens
+your steps.  There is a small wooden table off to your left, with a multi-color
+cut glass lamp on top.  You feel lucky just standing here.
+~
+180 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1829
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1820
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1828
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1822
+S
+#1822
+Gaming Area~
+ You stand in a grand hallway in the casino.  The hallway is long, with many
+rooms of chance to your left and right.  Famous paintings adorn the finely
+crafted walls.  As you walk down the hallway, the plush green carpet softens
+your steps.  There is a small wooden table off to your left, with a multi-color
+cut glass lamp on top.  You feel lucky just standing here.
+~
+180 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1831
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1821
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1830
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1823
+S
+#1823
+Gaming Area~
+ You stand in a grand hallway in the casino.  The hallway is long, with many
+rooms of chance to your left and right.  Famous paintings adorn the finely
+crafted walls.  As you walk down the hallway, the plush green carpet softens
+your steps.  There is a small wooden table off to your left, with a multi-color
+cut glass lamp on top.  You feel lucky just standing here.
+~
+180 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1833
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1822
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1832
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1824
+S
+#1824
+Gaming Area~
+ You stand in a grand hallway in the casino.  The hallway is long, with many
+rooms of chance to your left and right.  Famous paintings adorn the finely
+crafted walls.  As you walk down the hallway, the plush green carpet softens
+your steps.  There is a small wooden table off to your left, with a multi-color
+cut glass lamp on top.  You feel lucky just standing here.
+~
+180 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1835
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1823
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1834
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1825
+S
+#1825
+Gaming Area~
+ You stand in a grand hallway in the casino.  The hallway is long, with many
+rooms of chance to your left and right.  Famous paintings adorn the finely
+crafted walls.  As you walk down the hallway, the plush green carpet softens
+your steps.  There is a small wooden table off to your left, with a multi-color
+cut glass lamp on top.  You feel lucky just standing here.
+~
+180 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1837
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1824
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1836
+D3
+The door to the High Rollers room has been made from imported cherry wood
+and it has pearl and gold inlays forming the shape of Vryce, the god
+of poker.
+~
+door~
+$n enters the High Roller room.~
+$n enters the room, you hope $n has a lot of gold.~
+2 10000 1839
+S
+#1826
+Card table~
+ You have entered a card room in the casino.  The room has plush green carpet
+and cherry stained oak walls.  On the ceiling is a large crystal chandelier
+emitting a faint white light.  There is a octagonal shaped table with a top
+made of green velvet.  There are eight hard wood chairs lining the sides of
+the table.  You hear a piano playing somewhere in another room.  The room is
+very comfortable and you hope that luck is on your side.
+ITEM: Sign
+~
+180 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1820
+E
+sign~
+HELP FOR PLAYING CARDS IN MEDIEVIA
+You can play any game that requires a standard deck of 52 cards and does
+not use a pile that must be drawn and put back to.
+Everyone follow one person, that person is automatically the dealer.
+Dealer Commands:
+shuffle           - takes all cards and shuffles the deck.
+showdeal(also sd) - deals cards FACE UP so all can see.
+hidedeal(alse hd) - deals cards to player so only player can see them.
+downdeal(also dd) - deals cards face DOWN so NO ONE can see them yet.
+ALL deal commands are in the form  command # player
+  (#=number cards   if player is not supplied, cards are dealt to all)
+Player Commands:
+cards   - shows you your cards.  cards a   will show everyones cards.
+discard - example  discard 7h Qs 10c etc etc...
+show    - turns all your cards over so all can see.
+ante    - ante # will make you drop # coins for the ante.
+raise   - raise # will make you drop # coins to raise the bet.
+fold    - will fold your hand for current game.
+~
+S
+#1827
+Card Table~
+ You have entered a card room in the casino.  The room has plush green carpet
+and cherry stained oak walls.  On the ceiling is a large crystal chandelier
+emitting a faint white light.  There is a octagonal shaped table with a top
+made of green velvet.  There are eight hard wood chairs lining the sides of
+the table.  You hear a piano playing somewhere in another room.  The room is
+very comfortable and you hope that luck is on your side.
+ITEM: Sign
+~
+180 8 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1820
+E
+sign~
+HELP FOR PLAYING CARDS IN MEDIEVIA
+You can play any game that requires a standard deck of 52 cards and does
+not use a pile that must be drawn and put back to.
+Everyone follow one person, that person is automatically the dealer.
+Dealer Commands:
+shuffle           - takes all cards and shuffles the deck.
+showdeal(also sd) - deals cards FACE UP so all can see.
+hidedeal(alse hd) - deals cards to player so only player can see them.
+downdeal(also dd) - deals cards face DOWN so NO ONE can see them yet.
+ALL deal commands are in the form  command # player
+  (#=number cards   if player is not supplied, cards are dealt to all)
+Player Commands:
+cards   - shows you your cards.  cards a   will show everyones cards.
+discard - example  discard 7h Qs 10c etc etc...
+show    - turns all your cards over so all can see.
+ante    - ante # will make you drop # coins for the ante.
+raise   - raise # will make you drop # coins to raise the bet.
+fold    - will fold your hand for current game.
+~
+S
+#1828
+Card Table~
+ You have entered a card room in the casino.  The room has plush green carpet
+and cherry stained oak walls.  On the ceiling is a large crystal chandelier
+emitting a faint white light.  There is a octagonal shaped table with a top
+made of green velvet.  There are eight hard wood chairs lining the sides of
+the table.  You hear a piano playing somewhere in another room.  The room is
+very comfortable and you hope that luck is on your side.
+ITEM: Sign
+~
+180 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1821
+E
+sign~
+HELP FOR PLAYING CARDS IN MEDIEVIA
+You can play any game that requires a standard deck of 52 cards and does
+not use a pile that must be drawn and put back to.
+Everyone follow one person, that person is automatically the dealer.
+Dealer Commands:
+shuffle           - takes all cards and shuffles the deck.
+showdeal(also sd) - deals cards FACE UP so all can see.
+hidedeal(alse hd) - deals cards to player so only player can see them.
+downdeal(also dd) - deals cards face DOWN so NO ONE can see them yet.
+ALL deal commands are in the form  command # player
+  (#=number cards   if player is not supplied, cards are dealt to all)
+Player Commands:
+cards   - shows you your cards.  cards a   will show everyones cards.
+discard - example  discard 7h Qs 10c etc etc...
+show    - turns all your cards over so all can see.
+ante    - ante # will make you drop # coins for the ante.
+raise   - raise # will make you drop # coins to raise the bet.
+fold    - will fold your hand for current game.
+~
+S
+#1829
+Card Table~
+ You have entered a card room in the casino.  The room has plush green carpet
+and cherry stained oak walls.  On the ceiling is a large crystal chandelier
+emitting a faint white light.  There is a octagonal shaped table with a top
+made of green velvet.  There are eight hard wood chairs lining the sides of
+the table.  You hear a piano playing somewhere in another room.  The room is
+very comfortable and you hope that luck is on your side.
+ITEM: Sign
+~
+180 8 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1821
+E
+sign~
+HELP FOR PLAYING CARDS IN MEDIEVIA
+You can play any game that requires a standard deck of 52 cards and does
+not use a pile that must be drawn and put back to.
+Everyone follow one person, that person is automatically the dealer.
+Dealer Commands:
+shuffle           - takes all cards and shuffles the deck.
+showdeal(also sd) - deals cards FACE UP so all can see.
+hidedeal(alse hd) - deals cards to player so only player can see them.
+downdeal(also dd) - deals cards face DOWN so NO ONE can see them yet.
+ALL deal commands are in the form  command # player
+  (#=number cards   if player is not supplied, cards are dealt to all)
+Player Commands:
+cards   - shows you your cards.  cards a   will show everyones cards.
+discard - example  discard 7h Qs 10c etc etc...
+show    - turns all your cards over so all can see.
+ante    - ante # will make you drop # coins for the ante.
+raise   - raise # will make you drop # coins to raise the bet.
+fold    - will fold your hand for current game.
+~
+S
+#1830
+Card Table~
+ You have entered a card room in the casino.  The room has plush green carpet
+and cherry stained oak walls.  On the ceiling is a large crystal chandelier
+emitting a faint white light.  There is a octagonal shaped table with a top
+made of green velvet.  There are eight hard wood chairs lining the sides of
+the table.  You hear a piano playing somewhere in another room.  The room is
+very comfortable and you hope that luck is on your side.
+ITEM: Sign
+~
+180 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1822
+E
+sign~
+HELP FOR PLAYING CARDS IN MEDIEVIA
+You can play any game that requires a standard deck of 52 cards and does
+not use a pile that must be drawn and put back to.
+Everyone follow one person, that person is automatically the dealer.
+Dealer Commands:
+shuffle           - takes all cards and shuffles the deck.
+showdeal(also sd) - deals cards FACE UP so all can see.
+hidedeal(alse hd) - deals cards to player so only player can see them.
+downdeal(also dd) - deals cards face DOWN so NO ONE can see them yet.
+ALL deal commands are in the form  command # player
+  (#=number cards   if player is not supplied, cards are dealt to all)
+Player Commands:
+cards   - shows you your cards.  cards a   will show everyones cards.
+discard - example  discard 7h Qs 10c etc etc...
+show    - turns all your cards over so all can see.
+ante    - ante # will make you drop # coins for the ante.
+raise   - raise # will make you drop # coins to raise the bet.
+fold    - will fold your hand for current game.
+~
+S
+#1831
+Card Table~
+ You have entered a card room in the casino.  The room has plush green carpet
+and cherry stained oak walls.  On the ceiling is a large crystal chandelier
+emitting a faint white light.  There is a octagonal shaped table with a top
+made of green velvet.  There are eight hard wood chairs lining the sides of
+the table.  You hear a piano playing somewhere in another room.  The room is
+very comfortable and you hope that luck is on your side.
+ITEM: Sign
+~
+180 8 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1822
+E
+sign~
+HELP FOR PLAYING CARDS IN MEDIEVIA
+You can play any game that requires a standard deck of 52 cards and does
+not use a pile that must be drawn and put back to.
+Everyone follow one person, that person is automatically the dealer.
+Dealer Commands:
+shuffle           - takes all cards and shuffles the deck.
+showdeal(also sd) - deals cards FACE UP so all can see.
+hidedeal(alse hd) - deals cards to player so only player can see them.
+downdeal(also dd) - deals cards face DOWN so NO ONE can see them yet.
+ALL deal commands are in the form  command # player
+  (#=number cards   if player is not supplied, cards are dealt to all)
+Player Commands:
+cards   - shows you your cards.  cards a   will show everyones cards.
+discard - example  discard 7h Qs 10c etc etc...
+show    - turns all your cards over so all can see.
+ante    - ante # will make you drop # coins for the ante.
+raise   - raise # will make you drop # coins to raise the bet.
+fold    - will fold your hand for current game.
+~
+S
+#1832
+Card Table~
+ You have entered a card room in the casino.  The room has plush green carpet
+and cherry stained oak walls.  On the ceiling is a large crystal chandelier
+emitting a faint white light.  There is a octagonal shaped table with a top
+made of green velvet.  There are eight hard wood chairs lining the sides of
+the table.  You hear a piano playing somewhere in another room.  The room is
+very comfortable and you hope that luck is on your side.
+ITEM: Sign
+~
+180 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1823
+E
+sign~
+HELP FOR PLAYING CARDS IN MEDIEVIA
+You can play any game that requires a standard deck of 52 cards and does
+not use a pile that must be drawn and put back to.
+Everyone follow one person, that person is automatically the dealer.
+Dealer Commands:
+shuffle           - takes all cards and shuffles the deck.
+showdeal(also sd) - deals cards FACE UP so all can see.
+hidedeal(alse hd) - deals cards to player so only player can see them.
+downdeal(also dd) - deals cards face DOWN so NO ONE can see them yet.
+ALL deal commands are in the form  command # player
+  (#=number cards   if player is not supplied, cards are dealt to all)
+Player Commands:
+cards   - shows you your cards.  cards a   will show everyones cards.
+discard - example  discard 7h Qs 10c etc etc...
+show    - turns all your cards over so all can see.
+ante    - ante # will make you drop # coins for the ante.
+raise   - raise # will make you drop # coins to raise the bet.
+fold    - will fold your hand for current game.
+~
+S
+#1833
+Card Table~
+ You have entered a card room in the casino.  The room has plush green carpet
+and cherry stained oak walls.  On the ceiling is a large crystal chandelier
+emitting a faint white light.  There is a octagonal shaped table with a top
+made of green velvet.  There are eight hard wood chairs lining the sides of
+the table.  You hear a piano playing somewhere in another room.  The room is
+very comfortable and you hope that luck is on your side.
+ITEM: Sign
+~
+180 8 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1823
+E
+sign~
+HELP FOR PLAYING CARDS IN MEDIEVIA
+You can play any game that requires a standard deck of 52 cards and does
+not use a pile that must be drawn and put back to.
+Everyone follow one person, that person is automatically the dealer.
+Dealer Commands:
+shuffle           - takes all cards and shuffles the deck.
+showdeal(also sd) - deals cards FACE UP so all can see.
+hidedeal(alse hd) - deals cards to player so only player can see them.
+downdeal(also dd) - deals cards face DOWN so NO ONE can see them yet.
+ALL deal commands are in the form  command # player
+  (#=number cards   if player is not supplied, cards are dealt to all)
+Player Commands:
+cards   - shows you your cards.  cards a   will show everyones cards.
+discard - example  discard 7h Qs 10c etc etc...
+show    - turns all your cards over so all can see.
+ante    - ante # will make you drop # coins for the ante.
+raise   - raise # will make you drop # coins to raise the bet.
+fold    - will fold your hand for current game.
+~
+S
+#1834
+Card Table~
+ You have entered a card room in the casino.  The room has plush green carpet
+and cherry stained oak walls.  On the ceiling is a large crystal chandelier
+emitting a faint white light.  There is a octagonal shaped table with a top
+made of green velvet.  There are eight hard wood chairs lining the sides of
+the table.  You hear a piano playing somewhere in another room.  The room is
+very comfortable and you hope that luck is on your side.
+ITEM: Sign
+~
+180 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1824
+E
+sign~
+HELP FOR PLAYING CARDS IN MEDIEVIA
+You can play any game that requires a standard deck of 52 cards and does
+not use a pile that must be drawn and put back to.
+Everyone follow one person, that person is automatically the dealer.
+Dealer Commands:
+shuffle           - takes all cards and shuffles the deck.
+showdeal(also sd) - deals cards FACE UP so all can see.
+hidedeal(alse hd) - deals cards to player so only player can see them.
+downdeal(also dd) - deals cards face DOWN so NO ONE can see them yet.
+ALL deal commands are in the form  command # player
+  (#=number cards   if player is not supplied, cards are dealt to all)
+Player Commands:
+cards   - shows you your cards.  cards a   will show everyones cards.
+discard - example  discard 7h Qs 10c etc etc...
+show    - turns all your cards over so all can see.
+ante    - ante # will make you drop # coins for the ante.
+raise   - raise # will make you drop # coins to raise the bet.
+fold    - will fold your hand for current game.
+~
+S
+#1835
+Card Table~
+ You have entered a card room in the casino.  The room has plush green carpet
+and cherry stained oak walls.  On the ceiling is a large crystal chandelier
+emitting a faint white light.  There is a octagonal shaped table with a top
+made of green velvet.  There are eight hard wood chairs lining the sides of
+the table.  You hear a piano playing somewhere in another room.  The room is
+very comfortable and you hope that luck is on your side.
+ITEM: Sign
+~
+180 8 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1824
+E
+sign~
+HELP FOR PLAYING CARDS IN MEDIEVIA
+You can play any game that requires a standard deck of 52 cards and does
+not use a pile that must be drawn and put back to.
+Everyone follow one person, that person is automatically the dealer.
+Dealer Commands:
+shuffle           - takes all cards and shuffles the deck.
+showdeal(also sd) - deals cards FACE UP so all can see.
+hidedeal(alse hd) - deals cards to player so only player can see them.
+downdeal(also dd) - deals cards face DOWN so NO ONE can see them yet.
+ALL deal commands are in the form  command # player
+  (#=number cards   if player is not supplied, cards are dealt to all)
+Player Commands:
+cards   - shows you your cards.  cards a   will show everyones cards.
+discard - example  discard 7h Qs 10c etc etc...
+show    - turns all your cards over so all can see.
+ante    - ante # will make you drop # coins for the ante.
+raise   - raise # will make you drop # coins to raise the bet.
+fold    - will fold your hand for current game.
+~
+S
+#1836
+Card Table~
+ You have entered a card room in the casino.  The room has plush green carpet
+and cherry stained oak walls.  On the ceiling is a large crystal chandelier
+emitting a faint white light.  There is a octagonal shaped table with a top
+made of green velvet.  There are eight hard wood chairs lining the sides of
+the table.  You hear a piano playing somewhere in another room.  The room is
+very comfortable and you hope that luck is on your side.
+ITEM: Sign
+~
+180 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1825
+E
+sign~
+HELP FOR PLAYING CARDS IN MEDIEVIA
+You can play any game that requires a standard deck of 52 cards and does
+not use a pile that must be drawn and put back to.
+Everyone follow one person, that person is automatically the dealer.
+Dealer Commands:
+shuffle           - takes all cards and shuffles the deck.
+showdeal(also sd) - deals cards FACE UP so all can see.
+hidedeal(alse hd) - deals cards to player so only player can see them.
+downdeal(also dd) - deals cards face DOWN so NO ONE can see them yet.
+ALL deal commands are in the form  command # player
+  (#=number cards   if player is not supplied, cards are dealt to all)
+Player Commands:
+cards   - shows you your cards.  cards a   will show everyones cards.
+discard - example  discard 7h Qs 10c etc etc...
+show    - turns all your cards over so all can see.
+ante    - ante # will make you drop # coins for the ante.
+raise   - raise # will make you drop # coins to raise the bet.
+fold    - will fold your hand for current game.
+~
+S
+#1837
+Card Table~
+ You have entered a card room in the casino.  The room has plush green carpet
+and cherry stained oak walls.  On the ceiling is a large crystal chandelier
+emitting a faint white light.  There is a octagonal shaped table with a top
+made of green velvet.  There are eight hard wood chairs lining the sides of
+the table.  You hear a piano playing somewhere in another room.  The room is
+very comfortable and you hope that luck is on your side.
+ITEM: Sign
+~
+180 8 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1825
+E
+sign~
+HELP FOR PLAYING CARDS IN MEDIEVIA
+You can play any game that requires a standard deck of 52 cards and does
+not use a pile that must be drawn and put back to.
+Everyone follow one person, that person is automatically the dealer.
+Dealer Commands:
+shuffle           - takes all cards and shuffles the deck.
+showdeal(also sd) - deals cards FACE UP so all can see.
+hidedeal(alse hd) - deals cards to player so only player can see them.
+downdeal(also dd) - deals cards face DOWN so NO ONE can see them yet.
+ALL deal commands are in the form  command # player
+  (#=number cards   if player is not supplied, cards are dealt to all)
+Player Commands:
+cards   - shows you your cards.  cards a   will show everyones cards.
+discard - example  discard 7h Qs 10c etc etc...
+show    - turns all your cards over so all can see.
+ante    - ante # will make you drop # coins for the ante.
+raise   - raise # will make you drop # coins to raise the bet.
+fold    - will fold your hand for current game.
+~
+S
+#1839
+High rollers Table~
+The walls are a deep plush red, lined with candles in dull brass
+holders that seem to give off a never-ending glow. Smoke
+rises from an old giant mahogany table which dominates the
+room. Players lounge about betting amd laughing with casual
+poker-faced ease. You feel the urge to join them in the
+many games they are engaged in.
+~
+180 8 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+door~
+You turn and see $n leave the room.~
+$n enters from the High rollers room.~
+2 10000 1825
+S
+#1840
+MUDtv Hall~
+  ____________             __________
+ /           /\           /         /|
+/___________/  \        /__________/ |
+|           \   \      /           | |
+|            \   \    /            | |
+|              \   \/              | |    * *
+|                \/      **        | |  *   *
+|                    * *  *    *   | |*   *
+|                    *  *     *  * | *  *
+|                  *  ** *     *  * *  *
+|           |\    * * /|* *     *  *  *
+|           | \      / | * *     *   *      Choose a room, choose an
+|           |  \    /  |  * *     ***|       artist. What's your
+|           |  | \/    |    *      | |       listening pleasure?
+|           |  |       |           | |
+|           |  |       |           | |
+|___________| /        |___________|/
+~
+180 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1845
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1841
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1846
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1815
+S
+#1841
+MUDtv Hall~
+  ____________             __________
+ /           /\           /         /|
+/___________/  \        /__________/ |
+|           \   \      /           | |
+|            \   \    /            | |
+|              \   \/              | |    * *
+|                \/      **        | |  *   *
+|                    * *  *    *   | |*   *
+|                    *  *     *  * | *  *
+|                  *  ** *     *  * *  *
+|           |\    * * /|* *     *  *  *
+|           | \      / | * *     *   *      Choose a room, choose an
+|           |  \    /  |  * *     ***|       artist. What's your
+|           |  | \/    |    *      | |       listening pleasure?
+|           |  |       |           | |
+|           |  |       |           | |
+|___________| /        |___________|/
+~
+180 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1847
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1842
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1848
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1840
+S
+#1842
+MUDtv Hall~
+  ____________             __________
+ /           /\           /         /|
+/___________/  \        /__________/ |
+|           \   \      /           | |
+|            \   \    /            | |
+|              \   \/              | |    * *
+|                \/      **        | |  *   *
+|                    * *  *    *   | |*   *
+|                    *  *     *  * | *  *
+|                  *  ** *     *  * *  *
+|           |\    * * /|* *     *  *  *
+|           | \      / | * *     *   *      Choose a room, choose an
+|           |  \    /  |  * *     ***|       artist. What's your
+|           |  | \/    |    *      | |       listening pleasure?
+|           |  |       |           | |
+|           |  |       |           | |
+|___________| /        |___________|/
+~
+180 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1849
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1843
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1850
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1841
+S
+#1843
+MUDtv Hall~
+  ____________             __________
+ /           /\           /         /|
+/___________/  \        /__________/ |
+|           \   \      /           | |
+|            \   \    /            | |
+|              \   \/              | |    * *
+|                \/      **        | |  *   *
+|                    * *  *    *   | |*   *
+|                    *  *     *  * | *  *
+|                  *  ** *     *  * *  *
+|           |\    * * /|* *     *  *  *
+|           | \      / | * *     *   *      Choose a room, choose an
+|           |  \    /  |  * *     ***|       artist. What's your
+|           |  | \/    |    *      | |       listening pleasure?
+|           |  |       |           | |
+|           |  |       |           | |
+|___________| /        |___________|/
+~
+180 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1851
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1844
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1852
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1842
+S
+#1844
+MUDtv Hall~
+  ____________             __________
+ /           /\           /         /|
+/___________/  \        /__________/ |
+|           \   \      /           | |
+|            \   \    /            | |
+|              \   \/              | |    * *
+|                \/      **        | |  *   *
+|                    * *  *    *   | |*   *
+|                    *  *     *  * | *  *
+|                  *  ** *     *  * *  *
+|           |\    * * /|* *     *  *  *
+|           | \      / | * *     *   *      Choose a room, choose an
+|           |  \    /  |  * *     ***|       artist. What's your
+|           |  | \/    |    *      | |       listening pleasure?
+|           |  |       |           | |
+|           |  |       |           | |
+|___________| /        |___________|/
+~
+180 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1853
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1855
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1854
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1843
+S
+#1845
+Skinny Puppy!~
+ ~
+180 8 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1840
+S
+#1846
+Nine Inch Nails~
+ ~
+180 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1840
+E
+song1~
+"Get Down, Make Love"
+by Queen
+version by Nine Inch Nails
+"How old were you when you first let a man make love
+to you?  Next who was he, next how did you feel at
+the time, next how did you feel afterwards, what
+did you feel, what did you think, were you pleased,
+frightened, ecstatic, disgusted what did he say?
+What words did you speak?  That's what I want to
+know--now tell me now now all of it now tell me yes
+yes!"
+Get Down Make Love (4x)
+You take my body
+I give you heat
+You say you hungry
+I give you meat
+I suck your life
+you blow my head
+make love
+inside your bed
+Everybody
+Get Down Make Love (4x)
+chorus:
+Every time I get high
+you wanna go down
+every time I get high
+you say you wanna go down
+Tainted Love,
+is sex too much
+Every time I wanna
+Get down, get down,
+get down make love
+I can squeeze
+you can shake me
+I can feel
+when you break me
+come on..[?]
+...when you take me
+You make love (4x)
+You can't make everybody
+get down make love
+get down make love
+chorus (2x)
+~
+S
+#1847
+The Grateful Dead~
+ ~
+180 8 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1841
+S
+#1848
+The Cure~
+ ~
+180 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1841
+S
+#1849
+Pearl Jam~
+ ~
+180 8 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1842
+S
+#1850
+Cranberries~
+ ~
+180 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1842
+S
+#1851
+Enya~
+ ~
+180 8 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1843
+S
+#1852
+Hendrix~
+ ~
+180 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1843
+S
+#1853
+The AllStars of Funk~
+ ~
+180 8 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1844
+S
+#1854
+Hip Hop Artists~
+ ~
+180 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1844
+S
+#1855
+MUDtv Hall~
+  ____________             __________
+ /           /\           /         /|
+/___________/  \        /__________/ |
+|           \   \      /           | |
+|            \   \    /            | |
+|              \   \/              | |    * *
+|                \/      **        | |  *   *
+|                    * *  *    *   | |*   *
+|                    *  *     *  * | *  *
+|                  *  ** *     *  * *  *
+|           |\    * * /|* *     *  *  *
+|           | \      / | * *     *   *      Choose a room, choose an
+|           |  \    /  |  * *     ***|       artist. What's your
+|           |  | \/    |    *      | |       listening pleasure?
+|           |  |       |           | |
+|           |  |       |           | |
+|___________| /        |___________|/
+~
+180 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6381
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6392
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6391
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1844
+S
+#1856
+Slot Machine~
+ The noise subsides in this secluded corner of the slot machine
+madhouse. Tipsy ladies totter about and collapse on the benches,
+and laugh at strings of non-sequitors. But even this corner is
+not free from clatter. An old man stoops bent over a slot machine,
+his feet leaving the ground each time he pulls down the lever.
+ITEM: Sign
+~
+180 8 0 0
+0 0 0 0
+51 2300 100
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1862
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1857
+E
+sign~
+-----=====<<<<<(((((*SLOT MACHINES*)))))>>>>>=====-----
+Every slot machine room in Medievia has a different Betting amount, a
+different ODDS of winning and its own jackpot.  The Jackpot is saved to
+survive over restarts and the such.  Walk around to find a bet/odd you
+like and go to it!
+To play type PULL
+Type ODDS to see stats for that machine.
+You win whole jackpot if all middle row are the same.
+1/2 the jackpot for the Upper or Lower row.
+1/4 the prize if you match in any diagnal.
+When you win the coins are dropped, don't forget to GET them!
+~
+S
+#1857
+Slot Machine~
+A strange belle of unknown origin drapes herself on your arm
+and smiles glaze-eyed about her. She seems interested in a
+night painting the town red. From the way she eyes a shiny
+slot machine you get the idea this means you trying your good
+luck....with her at your side should you strike it big.
+ITEM: Sign
+~
+180 8 0 0
+0 0 0 0
+54 34000 1000
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1863
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1856
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1858
+E
+sign~
+-----=====<<<<<(((((*SLOT MACHINES*)))))>>>>>=====-----
+Every slot machine room in Medievia has a different Betting amount, a
+different ODDS of winning and its own jackpot.  The Jackpot is saved to
+survive over restarts and the such.  Walk around to find a bet/odd you
+like and go to it!
+To play type PULL
+Type ODDS to see stats for that machine.
+You win whole jackpot if all middle row are the same.
+1/2 the jackpot for the Upper or Lower row.
+1/4 the prize if you match in any diagnal.
+When you win the coins are dropped, don't forget to GET them!
+~
+S
+#1858
+Slot Machine~
+ The noise subsides in this secluded corner of the slot machine
+madhouse. Tipsy ladies totter about and collapse on the benches,
+and laugh at strings of non-sequitors. But even this corner is
+not free from clatter. An old man stoops bent over a slot machine,
+his feet leaving the ground each time he pulls down the lever.
+ITEM: Sign
+~
+180 8 0 0
+0 0 0 0
+57 5460 10
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1864
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1857
+E
+sign~
+-----=====<<<<<(((((*SLOT MACHINES*)))))>>>>>=====-----
+Every slot machine room in Medievia has a different Betting amount, a
+different ODDS of winning and its own jackpot.  The Jackpot is saved to
+survive over restarts and the such.  Walk around to find a bet/odd you
+like and go to it!
+To play type PULL
+Type ODDS to see stats for that machine.
+You win whole jackpot if all middle row are the same.
+1/2 the jackpot for the Upper or Lower row.
+1/4 the prize if you match in any diagnal.
+When you win the coins are dropped, don't forget to GET them!
+~
+S
+#1859
+Slot Machine~
+ The noise subsides in this secluded corner of the slot machine
+madhouse. Tipsy ladies totter about and collapse on the benches,
+and laugh at strings of non-sequitors. But even this corner is
+not free from clatter. An old man stoops bent over a slot machine,
+his feet leaving the ground each time he pulls down the lever.
+ITEMS: Sign
+~
+180 8 0 0
+0 0 0 0
+6 213 10
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1865
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1860
+E
+sign~
+-----=====<<<<<(((((*SLOT MACHINES*)))))>>>>>=====-----
+Every slot machine room in Medievia has a different Betting amount, a
+different ODDS of winning and its own jackpot.  The Jackpot is saved to
+survive over restarts and the such.  Walk around to find a bet/odd you
+like and go to it!
+To play type PULL
+Type ODDS to see stats for that machine.
+You win whole jackpot if all middle row are the same.
+1/2 the jackpot for the Upper or Lower row.
+1/4 the prize if you match in any diagnal.
+When you win the coins are dropped, don't forget to GET them!
+ ~
+S
+#1860
+Slot Machine~
+A strange belle of unknown origin drapes herself on your arm
+and smiles glaze-eyed about her. She seems interested in a
+night painting the town red. From the way she eyes a shiny
+slot machine you get the idea this means you trying your good
+luck....with her at your side should you strike it big.
+ITEM: Sign
+~
+180 8 0 0
+0 0 0 0
+9 0 10
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1866
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1861
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1859
+E
+sign~
+-----=====<<<<<(((((*SLOT MACHINES*)))))>>>>>=====-----
+Every slot machine room in Medievia has a different Betting amount, a
+different ODDS of winning and its own jackpot.  The Jackpot is saved to
+survive over restarts and the such.  Walk around to find a bet/odd you
+like and go to it!
+To play type PULL
+Type ODDS to see stats for that machine.
+You win whole jackpot if all middle row are the same.
+1/2 the jackpot for the Upper or Lower row.
+1/4 the prize if you match in any diagnal.
+When you win the coins are dropped, don't forget to GET them!
+~
+S
+#1861
+Slot Machine~
+ The noise subsides in this secluded corner of the slot machine
+madhouse. Tipsy ladies totter about and collapse on the benches,
+and laugh at strings of non-sequitors. But even this corner is
+not free from clatter. An old man stoops bent over a slot machine,
+his feet leaving the ground each time he pulls down the lever.
+ITEM: Sign
+~
+180 8 0 0
+0 0 0 0
+12 2059 30
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1867
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1860
+E
+sign~
+-----=====<<<<<(((((*SLOT MACHINES*)))))>>>>>=====-----
+Every slot machine room in Medievia has a different Betting amount, a
+different ODDS of winning and its own jackpot.  The Jackpot is saved to
+survive over restarts and the such.  Walk around to find a bet/odd you
+like and go to it!
+To play type PULL
+Type ODDS to see stats for that machine.
+You win whole jackpot if all middle row are the same.
+1/2 the jackpot for the Upper or Lower row.
+1/4 the prize if you match in any diagnal.
+When you win the coins are dropped, don't forget to GET them!
+~
+S
+#1862
+Slot Machine~
+A shaggy rug of worn dark red welcomes you to the slot machines,
+which line this area on all sides. People of all walks of life
+traipse about in hopes of making their fortune this very night.
+Lights and bells shine and clang in the smoky air and tempt you
+to try your luck!
+ITEM: Sign
+~
+180 8 0 0
+0 0 0 0
+4 0 100
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1868
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1817
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1856
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1863
+E
+sign~
+-----=====<<<<<(((((*SLOT MACHINES*)))))>>>>>=====-----
+Every slot machine room in Medievia has a different Betting amount, a
+different ODDS of winning and its own jackpot.  The Jackpot is saved to
+survive over restarts and the such.  Walk around to find a bet/odd you
+like and go to it!
+To play type PULL
+Type ODDS to see stats for that machine.
+You win whole jackpot if all middle row are the same.
+1/2 the jackpot for the Upper or Lower row.
+1/4 the prize if you match in any diagnal.
+When you win the coins are dropped, don't forget to GET them!
+~
+S
+#1863
+Slot Machine~
+Worn velvet carpeting covers a floor that creaks under your
+feet. From all sides you can hear the clinking of coins in slots
+and the sounds of levers being tugged. Unconsciously
+you reach for your coin purse and catch yourself just in time. (?)
+ITEM: Sign
+~
+180 8 0 0
+0 0 0 0
+45 9524 20
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1872
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1862
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1857
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1864
+E
+sign~
+-----=====<<<<<(((((*SLOT MACHINES*)))))>>>>>=====-----
+Every slot machine room in Medievia has a different Betting amount, a
+different ODDS of winning and its own jackpot.  The Jackpot is saved to
+survive over restarts and the such.  Walk around to find a bet/odd you
+like and go to it!
+To play type PULL
+Type ODDS to see stats for that machine.
+You win whole jackpot if all middle row are the same.
+1/2 the jackpot for the Upper or Lower row.
+1/4 the prize if you match in any diagnal.
+When you win the coins are dropped, don't forget to GET them!
+~
+S
+#1864
+Slot Machine~
+At this far end of the smoke filled hall an odd portrait
+catches your eye, dragging it away for a moment from
+the glinting of levers being tugged. Seems to be an obese
+woman with a smirk on her face, garbed in rich attire and
+mauve plumes.
+How many people has that face seen go to ruin within
+these walls? Not you! Surely!
+ITEM: Sign
+~
+180 8 0 0
+0 0 0 0
+42 99873 150
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1873
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1863
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1858
+E
+sign~
+-----=====<<<<<(((((*SLOT MACHINES*)))))>>>>>=====-----
+Every slot machine room in Medievia has a different Betting amount, a
+different ODDS of winning and its own jackpot.  The Jackpot is saved to
+survive over restarts and the such.  Walk around to find a bet/odd you
+like and go to it!
+To play type PULL
+Type ODDS to see stats for that machine.
+You win whole jackpot if all middle row are the same.
+1/2 the jackpot for the Upper or Lower row.
+1/4 the prize if you match in any diagnal.
+When you win the coins are dropped, don't forget to GET them!
+~
+S
+#1865
+Slot Machine~
+A shaggy rug of worn dark red welcomes you to the slot machines,
+which line this area on all sides. People of all walks of life
+traipse about in hopes of making their fortune this very night.
+Lights and bells shine and clang in the smoky air and tempt you
+to try your luck!
+ITEM: Sign
+~
+180 8 0 0
+0 0 0 0
+4 0 1000
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1874
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1866
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1859
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1817
+E
+sign~
+-----=====<<<<<(((((*SLOT MACHINES*)))))>>>>>=====-----
+Every slot machine room in Medievia has a different Betting amount, a
+different ODDS of winning and its own jackpot.  The Jackpot is saved to
+survive over restarts and the such.  Walk around to find a bet/odd you
+like and go to it!
+To play type PULL
+Type ODDS to see stats for that machine.
+You win whole jackpot if all middle row are the same.
+1/2 the jackpot for the Upper or Lower row.
+1/4 the prize if you match in any diagnal.
+When you win the coins are dropped, don't forget to GET them!
+~
+S
+#1866
+Slot Machine~
+ The noise of levers pulled and clanking coins is almost deafening.
+Lights flash and you hear an occasional swearing or burst of
+laughter.
+You barely catch yourself reaching into your pocket in time.
+(or did you?)
+ITEM: Sign
+~
+180 8 0 0
+0 0 0 0
+18 20891 100
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1875
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1867
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1860
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1865
+E
+sign~
+-----=====<<<<<(((((*SLOT MACHINES*)))))>>>>>=====-----
+Every slot machine room in Medievia has a different Betting amount, a
+different ODDS of winning and its own jackpot.  The Jackpot is saved to
+survive over restarts and the such.  Walk around to find a bet/odd you
+like and go to it!
+To play type PULL
+Type ODDS to see stats for that machine.
+You win whole jackpot if all middle row are the same.
+1/2 the jackpot for the Upper or Lower row.
+1/4 the prize if you match in any diagnal.
+When you win the coins are dropped, don't forget to GET them!
+~
+S
+#1867
+Slot Machine~
+A rather odd portrait hangs slightly askew on the wall here.
+Some showgirls in tawdry feathers on a stage poorly lit...you
+wonder if there is such a place here anymore, it is so old.
+As you stand contemplating a bawdy woman laughs at a joke and
+slams her hand on the wall, setting the picture upright again.
+ITEM: Sign
+~
+180 8 0 0
+0 0 0 0
+15 761 10
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1876
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1861
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1866
+E
+sign~
+-----=====<<<<<(((((*SLOT MACHINES*)))))>>>>>=====-----
+Every slot machine room in Medievia has a different Betting amount, a
+different ODDS of winning and its own jackpot.  The Jackpot is saved to
+survive over restarts and the such.  Walk around to find a bet/odd you
+like and go to it!
+To play type PULL
+Type ODDS to see stats for that machine.
+You win whole jackpot if all middle row are the same.
+1/2 the jackpot for the Upper or Lower row.
+1/4 the prize if you match in any diagnal.
+When you win the coins are dropped, don't forget to GET them!
+~
+S
+#1868
+Slot Machine~
+Worn velvet carpeting covers a floor that creaks under your
+feet. From all sides you can hear the clinking of coins in slots
+and the sounds of levers being tugged. Unconsciously
+you reach for your coin purse and catch yourself just in time. (?)
+ITEM: Sign
+~
+180 8 0 0
+0 0 0 0
+33 6780 30
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1862
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1872
+E
+sign~
+-----=====<<<<<(((((*SLOT MACHINES*)))))>>>>>=====-----
+Every slot machine room in Medievia has a different Betting amount, a
+different ODDS of winning and its own jackpot.  The Jackpot is saved to
+survive over restarts and the such.  Walk around to find a bet/odd you
+like and go to it!
+To play type PULL
+Type ODDS to see stats for that machine.
+You win whole jackpot if all middle row are the same.
+1/2 the jackpot for the Upper or Lower row.
+1/4 the prize if you match in any diagnal.
+When you win the coins are dropped, don't forget to GET them!
+~
+S
+#1872
+Slot Machine~
+Worn velvet carpeting covers a floor that creaks under your
+feet. From all sides you can hear the clinking of coins in slots
+and the sounds of levers being tugged. Unconsciously
+you reach for your coin purse and catch yourself just in time. (?)
+ITEM: Sign
+~
+180 8 0 0
+0 0 0 0
+36 180 10
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1868
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1863
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1873
+E
+sign~
+-----=====<<<<<(((((*SLOT MACHINES*)))))>>>>>=====-----
+Every slot machine room in Medievia has a different Betting amount, a
+different ODDS of winning and its own jackpot.  The Jackpot is saved to
+survive over restarts and the such.  Walk around to find a bet/odd you
+like and go to it!
+To play type PULL
+Type ODDS to see stats for that machine.
+You win whole jackpot if all middle row are the same.
+1/2 the jackpot for the Upper or Lower row.
+1/4 the prize if you match in any diagnal.
+When you win the coins are dropped, don't forget to GET them!
+~
+S
+#1873
+Slot Machine~
+This is an antique slot machine. No lights or sirens...just some old-tyme bells
+and the sound of springs and gears working. Just pull the arm and try your luck!
+ITEM: Sign
+~
+180 8 0 0
+0 0 0 0
+39 18500 500
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1872
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1864
+E
+sign~
+-----=====<<<<<(((((*SLOT MACHINES*)))))>>>>>=====-----
+Every slot machine room in Medievia has a different Betting amount, a
+different ODDS of winning and its own jackpot.  The Jackpot is saved to
+survive over restarts and the such.  Walk around to find a bet/odd you
+like and go to it!
+To play type PULL
+Type ODDS to see stats for that machine.
+You win whole jackpot if all middle row are the same.
+1/2 the jackpot for the Upper or Lower row.
+1/4 the prize if you match in any diagnal.
+When you win the coins are dropped, don't forget to GET them!
+~
+S
+#1874
+Slot Machine~
+ The noise of levers pulled and clanking coins is almost deafening.
+Lights flash and you hear an occasional swearing or burst of
+laughter.
+You barely catch yourself reaching into your pocket in time.
+(or did you?)
+ITEM: Sign
+~
+180 8 0 0
+0 0 0 0
+25 12240 60
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1875
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1865
+E
+sign~
+-----=====<<<<<(((((*SLOT MACHINES*)))))>>>>>=====-----
+Every slot machine room in Medievia has a different Betting amount, a
+different ODDS of winning and its own jackpot.  The Jackpot is saved to
+survive over restarts and the such.  Walk around to find a bet/odd you
+like and go to it!
+To play type PULL
+Type ODDS to see stats for that machine.
+You win whole jackpot if all middle row are the same.
+1/2 the jackpot for the Upper or Lower row.
+1/4 the prize if you match in any diagnal.
+When you win the coins are dropped, don't forget to GET them!
+~
+S
+#1875
+Slot Machine~
+ The noise of levers pulled and clanking coins is almost deafening.
+Lights flash and you hear an occasional swearing or burst of
+laughter.
+You barely catch yourself reaching into your pocket in time.
+(or did you?)
+ITEM: Sign
+~
+180 8 0 0
+0 0 0 0
+27 6000 40
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1876
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1866
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1874
+E
+sign~
+-----=====<<<<<(((((*SLOT MACHINES*)))))>>>>>=====-----
+Every slot machine room in Medievia has a different Betting amount, a
+different ODDS of winning and its own jackpot.  The Jackpot is saved to
+survive over restarts and the such.  Walk around to find a bet/odd you
+like and go to it!
+To play type PULL
+Type ODDS to see stats for that machine.
+You win whole jackpot if all middle row are the same.
+1/2 the jackpot for the Upper or Lower row.
+1/4 the prize if you match in any diagnal.
+When you win the coins are dropped, don't forget to GET them!
+~
+S
+#1876
+Slot Machine~
+ The noise subsides in this secluded corner of the slot machine
+madhouse. Tipsy ladies totter about and collapse on the benches,
+and laugh at strings of non-sequitors. But even this corner is
+not free from clatter. An old man stoops bent over a slot machine,
+his feet leaving the ground each time he pulls down the lever.
+ITEM: Sign
+~
+180 8 0 0
+0 0 0 0
+30 21594 100
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1867
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1875
+E
+sign~
+-----=====<<<<<(((((*SLOT MACHINES*)))))>>>>>=====-----
+Every slot machine room in Medievia has a different Betting amount, a
+different ODDS of winning and its own jackpot.  The Jackpot is saved to
+survive over restarts and the such.  Walk around to find a bet/odd you
+like and go to it!
+To play type PULL
+Type ODDS to see stats for that machine.
+You win whole jackpot if all middle row are the same.
+1/2 the jackpot for the Upper or Lower row.
+1/4 the prize if you match in any diagnal.
+When you win the coins are dropped, don't forget to GET them!
+~
+S
+#1877
+Stairs~
+ You stand on the grand stairs in the casino.  The huge oak staircase is highly
+polished, and looks antique.  The stairs are covered with a thin, red carpet.
+The shiny brass railing gently flows up the stairs.  The stairs are very busy
+with customers going up and down.  There are workers standing around, keeping
+the stairs looking new.
+~
+180 8 0 0
+0 0 0 0
+15 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 1878
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 1810
+S
+#1878
+Stairs~
+ You stand on the grand stairs in the casino.  The huge oak staircase is highly
+polished, and looks antique.  The stairs are covered with a thin, red carpet.
+The shiny brass railing gently flows up the stairs.  The stairs are very busy
+with customers going up and down.  There are workers standing around, keeping
+the stairs looking new.
+~
+180 8 0 0
+0 0 0 0
+15 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1879
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 2345
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 1877
+S
+#1879
+Sitting Room~
+ You stand in a small sitting room in the casino.  The room has plush red and
+green carpet covering the floor.  On the walls, hang expensive paintings of
+tranquil scenes.  There are brass lamps hanging on the walls dimly lighting
+the room.  There are antique chairs all around the room, well padded for long
+waits.  You have a warm feeling inside as you stand in this wonderful room.
+~
+180 8 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1878
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1880
+S
+#1880
+Hallway~
+ You are standing in a hallway in the casino.  The hallway is lined by private
+suites on either side.  The hallway is large with oak-carved paneling lining
+the walls.  Your feet stand on plush carpet, cool to the touch.  The hallway
+is lite by antique brass lamps, hanging periodically on the oak walls.  As you
+walk down the hall, you hear the giggles of patrons as they close their doors.
+~
+180 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1883
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1879
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1881
+D3
+You see the suite door, finely crafted from Cherrywood.
+~
+door~
+$n enters a private suite~
+You turn and see $n enter the suite.~
+2 10000 1899
+S
+#1881
+Hallway~
+ You are standing in a hallway in the casino.  The hallway is lined by private
+suites on either side.  The hallway is large with oak-carved paneling lining
+the walls.  Your feet stand on plush carpet, cool to the touch.  The hallway
+is lite by antique brass lamps, hanging periodically on the oak walls.  As you
+walk down the hall, you hear the giggles of patrons as they close their doors.
+~
+180 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1880
+D1
+You see the suite door, finely crafted from Cherrywood.
+~
+door~
+$n enters a private suite~
+You turn and see $n enter the suite.~
+2 10000 1897
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1882
+D3
+You see the suite door, finely crafted from Cherrywood.
+~
+door~
+$n enters a private suite~
+You turn and see $n enter the suite.~
+2 10000 1898
+S
+#1882
+Hallway~
+ You are standing in a hallway in the casino.  The hallway is lined by private
+suites on either side.  The hallway is large with oak-carved paneling lining
+the walls.  Your feet stand on plush carpet, cool to the touch.  The hallway
+is lite by antique brass lamps, hanging periodically on the oak walls.  As you
+walk down the hall, you hear the giggles of patrons as they close their doors.
+~
+180 2572 0 0
+0 1 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1881
+D1
+You see the suite door, finely crafted from Cherrywood.
+~
+door~
+$n enters a private suite~
+You turn and see $n enter the suite.~
+2 10000 1895
+D3
+You see the suite door, finely crafted from Cherrywood.
+~
+door~
+$n enters a private suite~
+You turn and see $n enter the suite.~
+2 10000 1896
+S
+#1883
+Hallway~
+ You are standing in a hallway in the casino.  The hallway is lined by private
+suites on either side.  The hallway is large with oak-carved paneling lining
+the walls.  Your feet stand on plush carpet, cool to the touch.  The hallway
+is lite by antique brass lamps, hanging periodically on the oak walls.  As you
+walk down the hall, you hear the giggles of patrons as they close their doors.
+~
+180 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1884
+D1
+You see the suite door, finely crafted from Cherrywood.
+~
+door~
+$n enters a private suite~
+You turn and see $n enter the suite.~
+2 10000 1900
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1880
+D3
+You see the suite door, finely crafted from Cherrywood.
+~
+door~
+$n enters a private suite~
+You turn and see $n enter the suite.~
+2 10000 1901
+S
+#1884
+Hallway~
+ You are standing in a hallway in the casino.  The hallway is lined by private
+suites on either side.  The hallway is large with oak-carved paneling lining
+the walls.  Your feet stand on plush carpet, cool to the touch.  The hallway
+is lite by antique brass lamps, hanging periodically on the oak walls.  As you
+walk down the hall, you hear the giggles of patrons as they close their doors.
+~
+180 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1885
+D1
+You see the suite door, finely crafted from Cherrywood.
+~
+door~
+$n enters a private suite~
+You turn and see $n enter the suite.~
+2 10000 1902
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1883
+D3
+You see the suite door, finely crafted from Cherrywood.
+~
+door~
+$n enters a private suite~
+You turn and see $n enter the suite.~
+2 10000 1903
+S
+#1885
+Hallway~
+ You are standing in a hallway in the casino.  The hallway is lined by private
+suites on either side.  The hallway is large with oak-carved paneling lining
+the walls.  Your feet stand on plush carpet, cool to the touch.  The hallway
+is lite by antique brass lamps, hanging periodically on the oak walls.  As you
+walk down the hall, you hear the giggles of patrons as they close their doors.
+~
+180 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1886
+D1
+You see the suite door, finely crafted from Cherrywood.
+~
+door~
+$n enters a private suite~
+You turn and see $n enter the suite.~
+2 10000 1904
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1884
+D3
+You see the suite door, finely crafted from Cherrywood.
+~
+door~
+$n enters a private suite~
+You turn and see $n enter the suite.~
+2 10000 1905
+S
+#1886
+Hallway~
+ You are standing in a hallway in the casino.  The hallway is lined by private
+suites on either side.  The hallway is large with oak-carved paneling lining
+the walls.  Your feet stand on plush carpet, cool to the touch.  The hallway
+is lite by antique brass lamps, hanging periodically on the oak walls.  As you
+walk down the hall, you hear the giggles of patrons as they close their doors.
+~
+180 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1887
+D1
+You see the suite door, finely crafted from Cherrywood.
+~
+door~
+$n enters a private suite~
+You turn and see $n enter the suite.~
+2 10000 1906
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1885
+D3
+You see the suite door, finely crafted from Cherrywood.
+~
+door~
+$n enters a private suite~
+You turn and see $n enter the suite.~
+2 10000 1907
+S
+#1887
+Hallway~
+ You are standing in a hallway in the casino.  The hallway is lined by private
+suites on either side.  The hallway is large with oak-carved paneling lining
+the walls.  Your feet stand on plush carpet, cool to the touch.  The hallway
+is lite by antique brass lamps, hanging periodically on the oak walls.  As you
+walk down the hall, you hear the giggles of patrons as they close their doors.
+~
+180 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1888
+D1
+You see the suite door, finely crafted from Cherrywood.
+~
+door~
+$n enters a private suite~
+You turn and see $n enter the suite.~
+2 10000 1908
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1886
+D3
+You see the suite door, finely crafted from Cherrywood.
+~
+door~
+$n enters a private suite~
+You turn and see $n enter the suite.~
+2 10000 1909
+S
+#1888
+Hallway~
+ You are standing in a hallway in the casino.  The hallway is lined by private
+suites on either side.  The hallway is large with oak-carved paneling lining
+the walls.  Your feet stand on plush carpet, cool to the touch.  The hallway
+is lite by antique brass lamps, hanging periodically on the oak walls.  As you
+walk down the hall, you hear the giggles of patrons as they close their doors.
+~
+180 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1889
+D1
+You see the suite door, finely crafted from Cherrywood.
+~
+door~
+$n enters a private suite~
+You turn and see $n enter the suite.~
+2 10000 1910
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1887
+D3
+You see the suite door, finely crafted from Cherrywood.
+~
+door~
+$n enters a private suite~
+You turn and see $n enter the suite.~
+2 10000 1911
+S
+#1889
+Hallway~
+ You are standing in a hallway in the casino.  The hallway is lined by private
+suites on either side.  The hallway is large with oak-carved paneling lining
+the walls.  Your feet stand on plush carpet, cool to the touch.  The hallway
+is lite by antique brass lamps, hanging periodically on the oak walls.  As you
+walk down the hall, you hear the giggles of patrons as they close their doors.
+~
+180 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1890
+D1
+You see the suite door, finely crafted from Cherrywood.
+~
+door~
+$n enters a private suite~
+You turn and see $n enter the suite.~
+2 10000 1912
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1888
+D3
+You see the suite door, finely crafted from Cherrywood.
+~
+door~
+$n enters a private suite~
+You turn and see $n enter the suite.~
+2 10000 1913
+S
+#1890
+Hallway~
+ You are standing in a hallway in the casino.  The hallway is lined by private
+suites on either side.  The hallway is large with oak-carved paneling lining
+the walls.  Your feet stand on plush carpet, cool to the touch.  The hallway
+is lite by antique brass lamps, hanging periodically on the oak walls.  As you
+walk down the hall, you hear the giggles of patrons as they close their doors.
+~
+180 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1891
+D1
+You see the suite door, finely crafted from Cherrywood.
+~
+door~
+$n enters a private suite~
+You turn and see $n enter the suite.~
+2 10000 1914
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1889
+D3
+You see the suite door, finely crafted from Cherrywood.
+~
+door~
+$n enters a private suite~
+You turn and see $n enter the suite.~
+2 10000 1915
+S
+#1891
+Hallway~
+ You are standing in a hallway in the casino.  The hallway is lined by private
+suites on either side.  The hallway is large with oak-carved paneling lining
+the walls.  Your feet stand on plush carpet, cool to the touch.  The hallway
+is lite by antique brass lamps, hanging periodically on the oak walls.  As you
+walk down the hall, you hear the giggles of patrons as they close their doors.
+~
+180 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1892
+D1
+You see the suite door, finely crafted from Cherrywood.
+~
+door~
+$n enters a private suite~
+You turn and see $n enter the suite.~
+2 10000 1916
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1890
+D3
+You see the suite door, finely crafted from Cherrywood.
+~
+door~
+$n enters a private suite~
+You turn and see $n enter the suite.~
+2 10000 1917
+S
+#1892
+Hallway~
+ You are standing in a hallway in the casino.  The hallway is lined by private
+suites on either side.  The hallway is large with oak-carved paneling lining
+the walls.  Your feet stand on plush carpet, cool to the touch.  The hallway
+is lite by antique brass lamps, hanging periodically on the oak walls.  As you
+walk down the hall, you hear the giggles of patrons as they close their doors.
+~
+180 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1893
+D1
+You see the suite door, finely crafted from Cherrywood.
+~
+door~
+$n enters a private suite~
+You turn and see $n enter the suite.~
+2 10000 1918
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1891
+D3
+You see the suite door, finely crafted from Cherrywood.
+~
+door~
+$n enters a private suite~
+You turn and see $n enter the suite.~
+2 10000 1919
+S
+#1893
+Hallway~
+ You are standing in a hallway in the casino.  The hallway is lined by private
+suites on either side.  The hallway is large with oak-carved paneling lining
+the walls.  Your feet stand on plush carpet, cool to the touch.  The hallway
+is lite by antique brass lamps, hanging periodically on the oak walls.  As you
+walk down the hall, you hear the giggles of patrons as they close their doors.
+~
+180 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1894
+D1
+You see the suite door, finely crafted from Cherrywood.
+~
+door~
+$n enters a private suite~
+You turn and see $n enter the suite.~
+2 10000 1920
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1892
+D3
+You see the suite door, finely crafted from Cherrywood.
+~
+door~
+$n enters a private suite~
+You turn and see $n enter the suite.~
+2 10000 1921
+S
+#1894
+Hallway~
+ You are standing in a hallway in the casino.  The hallway is lined by private
+suites on either side.  The hallway is large with oak-carved paneling lining
+the walls.  Your feet stand on plush carpet, cool to the touch.  The hallway
+is lite by antique brass lamps, hanging periodically on the oak walls.  As you
+walk down the hall, you hear the giggles of patrons as they close their doors.
+~
+180 8 0 0
+0 0 0 0
+0 0 0
+D1
+You see the suite door, finely crafted from Cherrywood.
+~
+door~
+$n enters a private suite~
+You turn and see $n enter the suite.~
+2 10000 1922
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1893
+D3
+You see the suite door, finely crafted from Cherrywood.
+~
+door~
+$n enters a private suite~
+You turn and see $n enter the suite.~
+2 10000 1923
+S
+#1895
+Private Suite~
+ You stand in a private suite.  The room is filled with luxurious items like
+a golden lamp, a king size bed with gold trim, a couch that looks to good to
+sit on.  On your left sits a jacuzzi, with nice warm water bubbling in it.  To
+your right is a fireplace with two smoldering logs in it.  A bottle of
+champagne sittin in a bucket of ice..it looks like there's going to be a little
+romance happening here tonight.
+~
+180 2572 0 0
+0 1 0 0
+0 0 0
+D3
+ ~
+door~
+You notice $n leave towards the hall.~
+$n walks into the hall.~
+2 10000 1882
+S
+#1896
+Private Suite~
+ You stand in a private suite.  The room is filled with luxurious items like
+a golden lamp, a king size bed with gold trim, a couch that looks to good to
+sit on.  On your left sits a jacuzzi, with nice warm water bubbling in it.  To
+your right is a fireplace with two smoldering logs in it.  A bottle of
+champagne sittin in a bucket of ice..it looks like there's going to be a little
+romance happening here tonight.
+~
+180 2572 0 0
+0 1 0 0
+0 0 0
+D1
+ ~
+door~
+You notice $n leave towards the hall.~
+$n walks into the hall.~
+2 10000 1882
+S
+#1897
+Private Suite~
+ You stand in a private suite.  The room is filled with luxurious items like
+a golden lamp, a king size bed with gold trim, a couch that looks to good to
+sit on.  On your left sits a jacuzzi, with nice warm water bubbling in it.  To
+your right is a fireplace with two smoldering logs in it.  A bottle of
+champagne sittin in a bucket of ice..it looks like there's going to be a little
+romance happening here tonight.
+~
+180 2572 0 0
+0 1 0 0
+0 0 0
+D3
+ ~
+door~
+You notice $n leave towards the hall.~
+$n walks into the hall.~
+2 10000 1881
+S
+#1898
+Private Suite~
+ You stand in a private suite.  The room is filled with luxurious items like
+a golden lamp, a king size bed with gold trim, a couch that looks to good to
+sit on.  On your left sits a jacuzzi, with nice warm water bubbling in it.  To
+your right is a fireplace with two smoldering logs in it.  A bottle of
+champagne sittin in a bucket of ice..it looks like there's going to be a little
+romance happening here tonight.
+~
+180 2572 0 0
+0 1 0 0
+0 0 0
+D1
+ ~
+door~
+You notice $n leave towards the hall.~
+$n walks into the hall.~
+2 10000 1881
+S
+#1899
+Private Suite~
+ You stand in a private suite.  The room is filled with luxurious items like
+a golden lamp, a king size bed with gold trim, a couch that looks to good to
+sit on.  On your left sits a jacuzzi, with nice warm water bubbling in it.  To
+your right is a fireplace with two smoldering logs in it.  A bottle of
+champagne sittin in a bucket of ice..it looks like there's going to be a little
+romance happening here tonight.
+~
+180 2572 0 0
+0 1 0 0
+0 0 0
+D1
+ ~
+door~
+You notice $n leave towards the hall.~
+$n walks into the hall.~
+2 10000 1880
+S
+#1900
+Private Suite~
+ You stand in a private suite.  The room is filled with luxurious items like
+a golden lamp, a king size bed with gold trim, a couch that looks to good to
+sit on.  On your left sits a jacuzzi, with nice warm water bubbling in it.  To
+your right is a fireplace with two smoldering logs in it.  A bottle of
+champagne sittin in a bucket of ice..it looks like there's going to be a little
+romance happening here tonight.
+~
+180 2572 0 0
+0 1 0 0
+0 0 0
+D3
+ ~
+door~
+You notice $n leave towards the hall.~
+$n walks into the hall.~
+2 10000 1883
+S
+#1901
+Private Suite~
+ You stand in a private suite.  The room is filled with luxurious items like
+a golden lamp, a king size bed with gold trim, a couch that looks to good to
+sit on.  On your left sits a jacuzzi, with nice warm water bubbling in it.  To
+your right is a fireplace with two smoldering logs in it.  A bottle of
+champagne sittin in a bucket of ice..it looks like there's going to be a little
+romance happening here tonight.
+~
+180 2572 0 0
+0 1 0 0
+0 0 0
+D1
+ ~
+door~
+You notice $n leave towards the hall.~
+$n walks into the hall.~
+2 10000 1883
+S
+#1902
+Private Suite~
+ You stand in a private suite.  The room is filled with luxurious items like
+a golden lamp, a king size bed with gold trim, a couch that looks to good to
+sit on.  On your left sits a jacuzzi, with nice warm water bubbling in it.  To
+your right is a fireplace with two smoldering logs in it.  A bottle of
+champagne sittin in a bucket of ice..it looks like there's going to be a little
+romance happening here tonight.
+~
+180 2572 0 0
+0 1 0 0
+0 0 0
+D3
+ ~
+door~
+You notice $n leave towards the hall.~
+$n walks into the hall.~
+2 10000 1884
+S
+#1903
+Private Suite~
+ You stand in a private suite.  The room is filled with luxurious items like
+a golden lamp, a king size bed with gold trim, a couch that looks to good to
+sit on.  On your left sits a jacuzzi, with nice warm water bubbling in it.  To
+your right is a fireplace with two smoldering logs in it.  A bottle of
+champagne sittin in a bucket of ice..it looks like there's going to be a little
+romance happening here tonight.
+~
+180 2572 0 0
+0 1 0 0
+0 0 0
+D1
+ ~
+door~
+You notice $n leave towards the hall.~
+$n walks into the hall.~
+2 10000 1884
+S
+#1904
+Private Suite~
+ You stand in a private suite.  The room is filled with luxurious items like
+a golden lamp, a king size bed with gold trim, a couch that looks to good to
+sit on.  On your left sits a jacuzzi, with nice warm water bubbling in it.  To
+your right is a fireplace with two smoldering logs in it.  A bottle of
+champagne sittin in a bucket of ice..it looks like there's going to be a little
+romance happening here tonight.
+~
+180 2572 0 0
+0 1 0 0
+0 0 0
+D3
+ ~
+door~
+You notice $n leave towards the hall.~
+$n walks into the hall.~
+2 10000 1885
+S
+#1905
+Private Suite~
+ You stand in a private suite.  The room is filled with luxurious items like
+a golden lamp, a king size bed with gold trim, a couch that looks to good to
+sit on.  On your left sits a jacuzzi, with nice warm water bubbling in it.  To
+your right is a fireplace with two smoldering logs in it.  A bottle of
+champagne sittin in a bucket of ice..it looks like there's going to be a little
+romance happening here tonight.
+~
+180 2572 0 0
+0 1 0 0
+0 0 0
+D1
+ ~
+door~
+You notice $n leave towards the hall.~
+$n walks into the hall.~
+2 10000 1885
+S
+#1906
+Private Suite~
+ You stand in a private suite.  The room is filled with luxurious items like
+a golden lamp, a king size bed with gold trim, a couch that looks to good to
+sit on.  On your left sits a jacuzzi, with nice warm water bubbling in it.  To
+your right is a fireplace with two smoldering logs in it.  A bottle of
+champagne sittin in a bucket of ice..it looks like there's going to be a little
+romance happening here tonight.
+~
+180 2572 0 0
+0 1 0 0
+0 0 0
+D3
+ ~
+door~
+You notice $n leave towards the hall.~
+$n walks into the hall.~
+2 10000 1886
+S
+#1907
+Private Suite~
+ You stand in a private suite.  The room is filled with luxurious items like
+a golden lamp, a king size bed with gold trim, a couch that looks to good to
+sit on.  On your left sits a jacuzzi, with nice warm water bubbling in it.  To
+your right is a fireplace with two smoldering logs in it.  A bottle of
+champagne sittin in a bucket of ice..it looks like there's going to be a little
+romance happening here tonight.
+~
+180 2572 0 0
+0 1 0 0
+0 0 0
+D1
+ ~
+door~
+You notice $n leave towards the hall.~
+$n walks into the hall.~
+2 10000 1886
+S
+#1908
+Private Suite~
+ You stand in a private suite.  The room is filled with luxurious items like
+a golden lamp, a king size bed with gold trim, a couch that looks to good to
+sit on.  On your left sits a jacuzzi, with nice warm water bubbling in it.  To
+your right is a fireplace with two smoldering logs in it.  A bottle of
+champagne sittin in a bucket of ice..it looks like there's going to be a little
+romance happening here tonight.
+~
+180 2572 0 0
+0 1 0 0
+0 0 0
+D3
+ ~
+door~
+You notice $n leave towards the hall.~
+$n walks into the hall.~
+2 10000 1887
+S
+#1909
+Private Suite~
+ You stand in a private suite.  The room is filled with luxurious items like
+a golden lamp, a king size bed with gold trim, a couch that looks to good to
+sit on.  On your left sits a jacuzzi, with nice warm water bubbling in it.  To
+your right is a fireplace with two smoldering logs in it.  A bottle of
+champagne sittin in a bucket of ice..it looks like there's going to be a little
+romance happening here tonight.
+~
+180 2572 0 0
+0 1 0 0
+0 0 0
+D1
+ ~
+door~
+You notice $n leave towards the hall.~
+$n walks into the hall.~
+2 10000 1887
+S
+#1910
+Private Suite~
+ You stand in a private suite.  The room is filled with luxurious items like
+a golden lamp, a king size bed with gold trim, a couch that looks to good to
+sit on.  On your left sits a jacuzzi, with nice warm water bubbling in it.  To
+your right is a fireplace with two smoldering logs in it.  A bottle of
+champagne sittin in a bucket of ice..it looks like there's going to be a little
+romance happening here tonight.
+~
+180 2572 0 0
+0 1 0 0
+0 0 0
+D3
+ ~
+door~
+You notice $n leave towards the hall.~
+$n walks into the hall.~
+2 10000 1888
+S
+#1911
+Private Suite~
+ You stand in a private suite.  The room is filled with luxurious items like
+a golden lamp, a king size bed with gold trim, a couch that looks to good to
+sit on.  On your left sits a jacuzzi, with nice warm water bubbling in it.  To
+your right is a fireplace with two smoldering logs in it.  A bottle of
+champagne sittin in a bucket of ice..it looks like there's going to be a little
+romance happening here tonight.
+~
+180 2572 0 0
+0 1 0 0
+0 0 0
+D1
+ ~
+door~
+You notice $n leave towards the hall.~
+$n walks into the hall.~
+2 10000 1888
+S
+#1912
+Private Suite~
+ You stand in a private suite.  The room is filled with luxurious items like
+a golden lamp, a king size bed with gold trim, a couch that looks to good to
+sit on.  On your left sits a jacuzzi, with nice warm water bubbling in it.  To
+your right is a fireplace with two smoldering logs in it.  A bottle of
+champagne sittin in a bucket of ice..it looks like there's going to be a little
+romance happening here tonight.
+~
+180 2572 0 0
+0 1 0 0
+0 0 0
+D3
+ ~
+door~
+You notice $n leave towards the hall.~
+$n walks into the hall.~
+2 10000 1889
+S
+#1913
+Private Suite~
+ You stand in a private suite.  The room is filled with luxurious items like
+a golden lamp, a king size bed with gold trim, a couch that looks to good to
+sit on.  On your left sits a jacuzzi, with nice warm water bubbling in it.  To
+your right is a fireplace with two smoldering logs in it.  A bottle of
+champagne sittin in a bucket of ice..it looks like there's going to be a little
+romance happening here tonight.
+~
+180 2572 0 0
+0 1 0 0
+0 0 0
+D1
+ ~
+door~
+You notice $n leave towards the hall.~
+$n walks into the hall.~
+2 10000 1889
+S
+#1914
+Private Suite~
+ You stand in a private suite.  The room is filled with luxurious items like
+a golden lamp, a king size bed with gold trim, a couch that looks to good to
+sit on.  On your left sits a jacuzzi, with nice warm water bubbling in it.  To
+your right is a fireplace with two smoldering logs in it.  A bottle of
+champagne sittin in a bucket of ice..it looks like there's going to be a little
+romance happening here tonight.
+~
+180 2572 0 0
+0 1 0 0
+0 0 0
+D3
+ ~
+door~
+You notice $n leave towards the hall.~
+$n walks into the hall.~
+2 10000 1890
+S
+#1915
+Private Suite~
+ You stand in a private suite.  The room is filled with luxurious items like
+a golden lamp, a king size bed with gold trim, a couch that looks to good to
+sit on.  On your left sits a jacuzzi, with nice warm water bubbling in it.  To
+your right is a fireplace with two smoldering logs in it.  A bottle of
+champagne sittin in a bucket of ice..it looks like there's going to be a little
+romance happening here tonight.
+~
+180 2572 0 0
+0 1 0 0
+0 0 0
+D1
+ ~
+door~
+You notice $n leave towards the hall.~
+$n walks into the hall.~
+2 10000 1890
+S
+#1916
+Private Suite~
+ You stand in a private suite.  The room is filled with luxurious items like
+a golden lamp, a king size bed with gold trim, a couch that looks to good to
+sit on.  On your left sits a jacuzzi, with nice warm water bubbling in it.  To
+your right is a fireplace with two smoldering logs in it.  A bottle of
+champagne sittin in a bucket of ice..it looks like there's going to be a little
+romance happening here tonight.
+~
+180 2572 0 0
+0 1 0 0
+0 0 0
+D3
+ ~
+door~
+You notice $n leave towards the hall.~
+$n walks into the hall.~
+2 10000 1891
+S
+#1917
+Private Suite~
+ You stand in a private suite.  The room is filled with luxurious items like
+a golden lamp, a king size bed with gold trim, a couch that looks to good to
+sit on.  On your left sits a jacuzzi, with nice warm water bubbling in it.  To
+your right is a fireplace with two smoldering logs in it.  A bottle of
+champagne sittin in a bucket of ice..it looks like there's going to be a little
+romance happening here tonight.
+~
+180 2572 0 0
+0 1 0 0
+0 0 0
+D1
+ ~
+door~
+You notice $n leave towards the hall.~
+$n walks into the hall.~
+2 10000 1891
+S
+#1918
+Private Suite~
+ You stand in a private suite.  The room is filled with luxurious items like
+a golden lamp, a king size bed with gold trim, a couch that looks to good to
+sit on.  On your left sits a jacuzzi, with nice warm water bubbling in it.  To
+your right is a fireplace with two smoldering logs in it.  A bottle of
+champagne sittin in a bucket of ice..it looks like there's going to be a little
+romance happening here tonight.
+~
+180 2572 0 0
+0 1 0 0
+0 0 0
+D3
+ ~
+door~
+You notice $n leave towards the hall.~
+$n walks into the hall.~
+2 10000 1892
+S
+#1919
+Private Suite~
+ You stand in a private suite.  The room is filled with luxurious items like
+a golden lamp, a king size bed with gold trim, a couch that looks to good to
+sit on.  On your left sits a jacuzzi, with nice warm water bubbling in it.  To
+your right is a fireplace with two smoldering logs in it.  A bottle of
+champagne sittin in a bucket of ice..it looks like there's going to be a little
+romance happening here tonight.
+~
+180 2572 0 0
+0 1 0 0
+0 0 0
+D1
+ ~
+door~
+You notice $n leave towards the hall.~
+$n walks into the hall.~
+2 10000 1892
+S
+#1920
+Private Suite~
+ You stand in a private suite.  The room is filled with luxurious items like
+a golden lamp, a king size bed with gold trim, a couch that looks to good to
+sit on.  On your left sits a jacuzzi, with nice warm water bubbling in it.  To
+your right is a fireplace with two smoldering logs in it.  A bottle of
+champagne sittin in a bucket of ice..it looks like there's going to be a little
+romance happening here tonight.
+~
+180 2572 0 0
+0 1 0 0
+0 0 0
+D3
+ ~
+door~
+You notice $n leave towards the hall.~
+$n walks into the hall.~
+2 10000 1893
+S
+#1921
+Private Suite~
+ You stand in a private suite.  The room is filled with luxurious items like
+a golden lamp, a king size bed with gold trim, a couch that looks to good to
+sit on.  On your left sits a jacuzzi, with nice warm water bubbling in it.  To
+your right is a fireplace with two smoldering logs in it.  A bottle of
+champagne sittin in a bucket of ice..it looks like there's going to be a little
+romance happening here tonight.
+~
+180 2572 0 0
+0 1 0 0
+0 0 0
+D1
+ ~
+door~
+You notice $n leave towards the hall.~
+$n walks into the hall.~
+2 10000 1893
+S
+#1922
+Private Suite~
+ You stand in a private suite.  The room is filled with luxurious items like
+a golden lamp, a king size bed with gold trim, a couch that looks to good to
+sit on.  On your left sits a jacuzzi, with nice warm water bubbling in it.  To
+your right is a fireplace with two smoldering logs in it.  A bottle of
+champagne sittin in a bucket of ice..it looks like there's going to be a little
+romance happening here tonight.
+~
+180 2572 0 0
+0 1 0 0
+0 0 0
+D3
+ ~
+door~
+You notice $n leave towards the hall.~
+$n walks into the hall.~
+2 10000 1894
+S
+#1923
+Private Suite~
+ You stand in a private suite.  The room is filled with luxurious items like
+a golden lamp, a king size bed with gold trim, a couch that looks to good to
+sit on.  On your left sits a jacuzzi, with nice warm water bubbling in it.  To
+your right is a fireplace with two smoldering logs in it.  A bottle of
+champagne sittin in a bucket of ice..it looks like there's going to be a little
+romance happening here tonight.
+~
+180 2572 0 0
+0 1 0 0
+0 0 0
+D1
+ ~
+door~
+You notice $n leave towards the hall.~
+$n walks into the hall.~
+2 10000 1894
+S
+#1924
+Walkway~
+ You are standing in a walkway in the casino.  To the east and west is stage
+seating, and to the north is the stage.  As you walk on the walkway, an usher
+quickly leads you to your seat.  The stage is filled with wonderful sights and
+sounds.  The room is cool, and is dimly lit, just enough to get to your seat.
+You can't wait to get to your comfortable seat and watch the show.
+~
+180 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2339
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1925
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2337
+S
+#1925
+Stage seating~
+You step carefully through the seats to find a free place to sit and
+enjoy the show.  The stage is to the north and what a sight it is with the
+new technology spotlights coming from behind you.  The ceiling has many
+candle chandeliers lighting the main area.
+~
+180 8 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2336
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1924
+S
+#2336
+Stage seating~
+You step carefully through the seats to find a free place to sit and
+enjoy the show.  The stage is to the north and what a sight it is with the
+new technology spotlights coming from behind you.  The ceiling has many
+candle chandeliers lighting the main area.
+~
+180 8 0 0
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1925
+S
+#2337
+Stage seating~
+You step carefully through the seats to find a free place to sit and
+enjoy the show.  The stage is to the north and what a sight it is with the
+new technology spotlights coming from behind you.  The ceiling has many
+candle chandeliers lighting the main area.
+~
+180 8 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1924
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2338
+S
+#2338
+Stage seating~
+You step carefully through the seats to find a free place to sit and
+enjoy the show.  The stage is to the north and what a sight it is with the
+new technology spotlights coming from behind you.  The ceiling has many
+candle chandeliers lighting the main area.
+~
+180 8 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2337
+S
+#2339
+Walkway~
+ You are standing in a walkway in the casino.  To the east and west is stage
+seating, and to the north is the stage.  As you walk on the walkway, an usher
+quickly leads you to your seat.  The stage is filled with wonderful sights and
+sounds.  The room is cool, and is dimly lit, just enough to get to your seat.
+You can't wait to get to your comfortable seat and watch the show.
+~
+180 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2344
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2340
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1924
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2342
+S
+#2340
+Stage seating~
+You step carefully through the seats to find a free place to sit and
+enjoy the show.  The stage is to the north and what a sight it is with the
+new technology spotlights coming from behind you.  The ceiling has many
+candle chandeliers lighting the main area.
+~
+180 8 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2341
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2339
+S
+#2341
+Stage seating~
+You step carefully through the seats to find a free place to sit and
+enjoy the show.  The stage is to the north and what a sight it is with the
+new technology spotlights coming from behind you.  The ceiling has many
+candle chandeliers lighting the main area.
+~
+180 8 0 0
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2340
+S
+#2342
+Stage seating~
+You step carefully through the seats to find a free place to sit and
+enjoy the show.  The stage is to the north and what a sight it is with the
+new technology spotlights coming from behind you.  The ceiling has many
+candle chandeliers lighting the main area.
+~
+180 8 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2339
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2343
+S
+#2343
+Stage seating~
+You step carefully through the seats to find a free place to sit and
+enjoy the show.  The stage is to the north and what a sight it is with the
+new technology spotlights coming from behind you.  The ceiling has many
+candle chandeliers lighting the main area.
+~
+180 8 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2342
+S
+#2344
+Stage~
+You are on the grand stage of the casino.  The stage has polished, hard wood
+floors and there are many props lying around.  There are four colored curtains
+hanging from the ceiling.  The outside rim of the stage is lined with burning
+candels.  You see ropes and sand bags hanging down from above.  You feel
+important standing up here.
+~
+180 8 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2339
+S
+#2345
+Stairs~
+ You stand on the grand stairs in the casino.  The huge oak staircase is highly
+polished, and looks antique.  The stairs are covered with a thin, red carpet.
+The shiny brass railing gently flows up the stairs.  The stairs are very busy
+with customers going up and down.  There are workers standing around, keeping
+the stairs looking new.
+~
+180 8 0 0
+0 0 0 0
+15 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 2346
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 1878
+S
+#2346
+Stairs~
+ You stand on the grand stairs in the casino.  The huge oak staircase is highly
+polished, and looks antique.  The stairs are covered with a thin, red carpet.
+The shiny brass railing gently flows up the stairs.  The stairs are very busy
+with customers going up and down.  There are workers standing around, keeping
+the stairs looking new.
+~
+180 8 0 0
+0 0 0 0
+15 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2358
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 2345
+S
+#2347
+Penthouse Sitting Room~
+You are standing in the penthouse sitting room.  This room was made to
+entertain guests.  There are many comfortable chairs around the room,
+all in a circle.  A small antique coffee table is in the center of the
+room, with a bowl of mints on it.  The walls are made with carved oak
+panels and the floor is covered with wonderful carpet.  This is a room
+that you want to stay in for a long time.
+~
+180 2572 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2349
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2348
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2350
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2351
+S
+#2348
+Foyer~
+You are standing in the foyer in the penthouse.  The room is well lite and
+has a finely crafted table in the center.  There are freshly cut flowers
+in a vase on the center of it.  The walls are painted green, with floral
+decorations, and the carpet is green and red.  The ceiling is spackled
+with white plaster.  This is a nice room.
+~
+180 2572 0 0
+0 1 0 0
+0 0 0
+D1
+ ~
+door~
+$n leaves the penthouse.~
+You watch $n enter from the penhouse suite~
+2 10000 2358
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2347
+S
+#2349
+Closet~
+You are standing inside a large closet in the penthouse.  The closet seems
+well kept.  The walls and floor are painted and carpeted, and there is a
+brass bar fastened to each wall to hold your belongings.  The room is lite
+with a single light in the center.  This closed is larger than some peoples'
+home.
+~
+180 2572 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2347
+S
+#2350
+Winding staircase~
+You are on a winding staircase in the penthouse.  This staircase is made
+of solid cast iron.  It winds up into the air.  You get almost dizzy as
+you look to the top.  The metal steps are placed in just the right places
+for your feet.  The walls that surround you are white plaster, and the
+floor is hard wood.
+~
+180 2572 0 0
+0 0 0 0
+15 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2347
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 2356
+S
+#2351
+Living Area~
+You are in the main living area of the penthouse suite.  The room is huge,
+and the center is sunken down from the rest.  The room is filled with nice
+antique furniture.  There are many crystal lights adorning the ceiling.
+The room is very clean, and looks brand new.  You smell the smell of fresh
+paint in the room.  You look into the mirror and fix your hair.
+~
+180 2572 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2352
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2347
+E
+mirror~
+You see a huge antique mirror.
+~
+S
+#2352
+Dining area~
+You are in the dining area of the penthouse suite.  The room has a large
+finely crafted table in the center.  The table is a rectangle, with
+beautifully designed legs.  The antique table is surrounded by many chairs
+and is covered with a silk tablecloth.  There is another chandelier on the
+center of the ceiling, plated with gold.  On the wall hangs a picture of
+the owner of the casino.  The table service is already on the table,
+waiting for the next meal.
+~
+180 2572 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2355
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2353
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2351
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2354
+S
+#2353
+Restroom~
+You are standing inside the restroom in the penthouse suite.  This is where
+all the folk come to powder their nose.  The fixtures inside this room are
+made of gold.  There is a well dressed man here, waiting to hand you a towel
+to dry off with.  The room is cool, your feet are standing on the cold tile
+floor.  You leave this room feeling refreshed.
+~
+180 2572 0 0
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2352
+S
+#2354
+Small bar~
+You are at a small bar in the penthouse suite.  The room has a well stocked
+bar in the center.  The bar is made of oak, and is plated the gold.  Fine
+bar stools line the edges of the bar.  The room is dimly lit.  The walls
+are painted green, with gold and wood trim.  The floor is made of white tile,
+and the ceiling is painted white.  You smile as you engulf the aged liquor.
+~
+180 2572 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2352
+S
+#2355
+Kitchen~
+You are standing inside the kitchen of the penthouse suite.  The kitchen
+is well furnished, with a large stove and a icebox.  There are many tables
+around the room, with hard wood tops.  There is a metal railing above your
+head to hold pots and pans.  In the corner you see the master chef hard
+at work.  The room smells great, and you can not wait to eat.
+~
+180 2572 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2352
+S
+#2356
+Winding staircase~
+You are on a winding staircase in the penthouse.  This staircase is made
+of solid cast iron.  It winds up into the air.  You get almost dizzy as
+you look to the top.  The metal steps are placed in just the right places
+for your feet.  The walls that surround you are white plaster, and the
+floor is hard wood.
+~
+180 2572 0 0
+0 0 0 0
+15 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2357
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 2350
+S
+#2357
+Bedroom Loft~
+You are in the bedroom loft of the casino's penthouse.  The room is finely
+crafted with hard wood floors, and a king size bed in the center. Oak
+furniture is distributed throughout the room. The room is dimly lit with
+lights decorating the walls. The walls are painted green, with gold trim.
+You hope that this will be your room.
+~
+180 2572 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2356
+S
+#2358
+Penthouse Floor~
+You are standing on the penthouse floor of the casino. This is where only
+the richest of the rich come and stay. The oak trim on the finely crafted
+walls is lined with gold. You see a fine chandelier hanging from the
+ceiling. The plush carpet under your feet feels wonderful. You gaze at
+the expensive painting on the wall and wonder who paid for it. You hope
+you can stay here awhile.
+~
+180 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2359
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2346
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2348
+S
+#2359
+Utility Room~
+You are standing in the utility room of the casino.  Around you is loud
+machinery, buzzing away.  The room is very warm from all the old machines.
+This is also used as a closet for cleaning gear.  You see mops and brooms
+and the such.  Above you is the stairs to the roof.
+~
+180 8 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2358
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 2360
+S
+#2360
+Stairs~
+You are standing on a small set of stairs leading up to the roof of the
+casino.  The stairs are made out of cast iron. and look very sturdy.
+They were placed here for usefulness, not looks.  Around you are sparsely
+covered walls, painted white.  Below you is a small room.
+~
+180 8 0 0
+0 0 0 0
+15 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 2361
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 2359
+S
+#2361
+Casino Roof~
+You are standing on the roof of the casino.  This is where people come to
+scream out their frustrations, and to be alone.  The roof is covered with
+small rocks, neatly raked into place.  The roof is fairly large, and you
+hope you do not fall off as you stand and gaze out into Medievia's
+wonderous lands.
+~
+180 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2362
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2364
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2363
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2365
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 2360
+S
+#2362
+Casino Roof~
+You are standing on the roof of the casino.  This is where people come to
+scream out their frustrations, and to be alone.  The roof is covered with
+small rocks, neatly raked into place.  The roof is fairly large, and you
+hope you do not fall off as you stand and gaze out into Medievia's
+wonderous lands.
+~
+180 8 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2361
+S
+#2363
+Casino Roof~
+You are standing on the roof of the casino.  This is where people come to
+scream out their frustrations, and to be alone.  The roof is covered with
+small rocks, neatly raked into place.  The roof is fairly large, and you
+hope you do not fall off as you stand and gaze out into Medievia's
+wonderous lands.
+~
+180 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2361
+S
+#2364
+Casino Roof~
+You are standing on the roof of the casino.  This is where people come to
+scream out their frustrations, and to be alone.  The roof is covered with
+small rocks, neatly raked into place.  The roof is fairly large, and you
+hope you do not fall off as you stand and gaze out into Medievia's
+wonderous lands.
+~
+180 8 0 0
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2361
+S
+#2365
+Casino Roof~
+You are standing on the roof of the casino.  This is where people come to
+scream out their frustrations, and to be alone.  The roof is covered with
+small rocks, neatly raked into place.  The roof is fairly large, and you
+hope you do not fall off as you stand and gaze out into Medievia's
+wonderous lands.
+~
+180 8 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2361
+S
+#6381
+Alice In Chains~
+ ~
+180 8 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1855
+S
+#6391
+Janes Addiction~
+ ~
+180 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1855
+S
+#6392
+MUDtv Hall~
+  ____________             __________
+ /           /\           /         /|
+/___________/  \        /__________/ |
+|           \   \      /           | |
+|            \   \    /            | |
+|              \   \/              | |    * *
+|                \/      **        | |  *   *
+|                    * *  *    *   | |*   *
+|                    *  *     *  * | *  *
+|                  *  ** *     *  * *  *
+|           |\    * * /|* *     *  *  *
+|           | \      / | * *     *   *      Choose a room, choose an
+|           |  \    /  |  * *     ***|       artist. What's your
+|           |  | \/    |    *      | |       listening pleasure?
+|           |  |       |           | |
+|           |  |       |           | |
+|___________| /        |___________|/
+~
+180 8 0 0
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1855
+S
+#6408
+Yellow Brick Road~
+Before you lies a road.. a yellow brick road that stretches for as far
+as your eyes can see. On either side of the road are what seem to be portals
+or doorways of some sort. These gateways to.. who knows where, go on forever
+as well. You stare at each one as you pass, wondering what awaits you on
+the other side. Your thoughts run wild, limited only by your imagination.
+~
+180 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6409
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1819
+S
+#6409
+Yellow Brick Road~
+Before you lies a road.. a yellow brick road that stretches for as far
+as your eyes can see. On either side of the road are what seem to be portals
+or doorways of some sort. These gateways to.. who knows where, go on forever
+as well. You stare at each one as you pass, wondering what awaits you on
+the other side. Your thoughts run wild, limited only by your imagination.
+~
+180 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6410
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6408
+S
+#6410
+Yellow Brick Road~
+Before you lies a road.. a yellow brick road that stretches for as far
+as your eyes can see. On either side of the road are what seem to be portals
+or doorways of some sort. These gateways to.. who knows where, go on forever
+as well. You stare at each one as you pass, wondering what awaits you on
+the other side. Your thoughts run wild, limited only by your imagination.
+~
+180 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1806
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6409
+S
+#19012
+The fountain before the Casino~
+[####][####][#.o'-.odPYT"'    9FFFFFc       `"7bo.-`o.####][####][####][####][
+##][####][###d--_dPllll" .... d868FFFF-          7b_--b#[####][####][####][###
+[####][####]d--_dPlll.o8P"""""88888FFFF=          7b_--b##][####][####][####][
+##][####][##8   8ll.8P"       "8888FFFFFccFF--    l8   8[##|              |###
+[####][####]8---8ld8Pl        .888888FF--         l8---8##]|    CASINO    |#][
+##][####][##8   8d8Pll       d8888888888bcc   __  l8   8[##|______________|###
+[####][####]8---d88lll     .d888888888888oFFF--   l8---8##][####][####][####][
+##][####][##8  d88"lll    o88888bd8o8888888       l8   8[####][####][####][###
+[####][####]8-d888llll     "888Pd78888P"888b      l8---8##][####][####][####][
+##][####][##8.888"llll       "88888888   "88b     l8   8[####][####][####][###
+[####][####].8888lllll       8"8888888.   "88b    l8---8##][####][####][####][
+##][####][##88888lll"       88l8888888b     "88b  l8   8[####][####][####][###
+88888888888888888l"        d8".88888888b      "88bl888888888888888888888888888
+           88888         "888 d888888888l       "88boo
+          888888         """  88888888888.        "88b
+          88888               88888d888888          """
+         888888               "8888l888888
+         888888          ...ooo 888l888888 oooooooo...
+        888888 ooooo888888888888 888l88888 88888888888888888oooooooo..
+..oo888 888888 88888888TTTTTTTTTT 88l88888 TTTTTTTTTTTTT888888888888888888ooo.
+888888 8888888 TTTTTTTTTTIIIIIIIII 88l888P IIIIIIIIIIIITTTTTTTTTTTTTTT88888888
+~
+180 4 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1652
+S
+#19999
+$~

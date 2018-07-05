@@ -1,0 +1,5124 @@
+#79
+A Sloped Embankment~
+This area of the cave is about twenty feet wide, with steeply inclined
+walls to the east and west.  The "floor" you are straining to cling to
+is so greatly slanted down to the south, that you're not sure if it
+is the cavern floor, or the remains of a wall.
+~
+150 13 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2324
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2096
+S
+#962
+Base of a Stone Bridge~
+The northern wall of this chamber rises up into darkness.  It also
+extends to the east and west as far as your sight can penetrate the
+darkness. There are no walls to the south, east or west, leaving
+you in a huge cavernous chamber.  The ground to the south forms a
+stone bridge of very fine craftsmanship.
+~
+150 13 2 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2013
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1126
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2324
+S
+#973
+An Oily Passage~
+The cavern is fairly narrow here, with rocky protrusions jutting from
+the walls and ceiling. The sound of running water echos loudly
+throughout the cave.  The footing here is treacherous.  Oil drips
+from the walls and runs down, forming shallow pools all over the
+floor. A large opening lies in the center of the floor at the end
+of this tunnel.
+~
+150 9 2 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 15073
+S
+#981
+A Musty Tunnel~
+This cavern twists and winds in the darkness.  Jagged protrusions
+from the walls and ceilings make your progress slow.  The air is
+thick and musty, filled with a light mist.  The tunnel is coated
+with a thin layer of water from the mist surrounding you.
+~
+150 13 2 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 15082
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 997
+S
+#997
+A Musty Tunnel~
+This cavern twists and winds in the darkness.  Jagged protrusions
+from the walls and ceilings make your progress slow.  The air is
+thick and musty, filled with a light mist.  The tunnel is coated
+with a thin layer of water from the mist surrounding you.
+~
+150 9 2 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 981
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1136
+S
+#1126
+On a Stone Bridge~
+You stand on a ten foot wide bridge of finished stone work. It
+slants upward as it extends to the south. Three foot high walls
+border the bridge walkway on the east and west side. Nothing but
+empty, black space can be seen all around you. The sound of
+rushing water echos loudly throughout the chamber.
+~
+150 9 2 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 962
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1691
+S
+#1136
+A Musty Tunnel~
+This cavern twists and winds in the darkness.  Jagged protrusions
+from the walls and ceilings make your progress slow.  The air is
+thick and musty, filled with a light mist.  The tunnel is coated
+with a thin layer of water from the mist surrounding you.
+~
+150 9 2 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 997
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1152
+S
+#1151
+A Musty Tunnel~
+This cavern twists and winds in the darkness.  Jagged protrusions
+from the walls and ceilings make your progress slow.  The air is
+thick and musty, filled with a light mist.  The tunnel is coated
+with a thin layer of water from the mist surrounding you.
+~
+150 9 2 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1159
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1152
+S
+#1152
+A Musty Tunnel~
+This cavern twists and winds in the darkness.  Jagged protrusions
+from the walls and ceilings make your progress slow.  The air is
+thick and musty, filled with a light mist.  The tunnel is coated
+with a thin layer of water from the mist surrounding you.
+~
+150 9 2 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1136
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1151
+S
+#1159
+A Musty Tunnel~
+This cavern twists and winds in the darkness.  Jagged protrusions
+from the walls and ceilings make your progress slow.  The air is
+thick and musty, filled with a light mist.  The tunnel is coated
+with a thin layer of water from the mist surrounding you.
+~
+150 9 2 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1151
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1187
+S
+#1187
+A Musty Tunnel~
+This cavern twists and winds in the darkness.  Jagged protrusions
+from the walls and ceilings make your progress slow.  The air is
+thick and musty, filled with a light mist.  The tunnel is coated
+with a thin layer of water from the mist surrounding you.
+~
+150 9 2 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1159
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1190
+S
+#1190
+A Musty Tunnel~
+This cavern twists and winds in the darkness.  Jagged protrusions
+from the walls and ceilings make your progress slow.  The air is
+thick and musty, filled with a light mist.  The tunnel is coated
+with a thin layer of water from the mist surrounding you.
+~
+150 9 2 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1187
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1191
+S
+#1191
+A Musty Tunnel~
+This cavern twists and winds in the darkness.  Jagged protrusions
+from the walls and ceilings make your progress slow.  The air is
+thick and musty, filled with a light mist.  The tunnel is coated
+with a thin layer of water from the mist surrounding you.
+~
+150 9 2 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1190
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1222
+S
+#1222
+A Musty Tunnel~
+This cavern twists and winds in the darkness.  Jagged protrusions
+from the walls and ceilings make your progress slow.  The air is
+thick and musty, filled with a light mist.  The tunnel is coated
+with a thin layer of water from the mist surrounding you.
+~
+150 9 2 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1191
+S
+#1224
+A Wide, Dark Cave~
+The surrounding rock walls are craggy and uneven. Long, narrow
+stalactites hang down from the ceiling, reaching down a few feet
+above the cavern floor. A few patches of brownish moss grow from the
+walls and cracks in the floor. A cold breeze blows through the tunnel,
+creating an eerie howling sound.
+~
+150 8 2 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1225
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 15025
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1255
+S
+#1225
+A Wide, Dark Cave~
+The surrounding rock walls are craggy and uneven. Long, narrow
+stalactites hang down from the ceiling, reaching down a few feet
+above the cavern floor. A few patches of brownish moss grow from the
+walls and cracks in the floor. A cold breeze blows through the tunnel,
+creating an eerie howling sound.
+~
+150 9 2 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1290
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1224
+S
+#1251
+A Wide, Dark Cave~
+The surrounding rock walls are craggy and uneven. Long, narrow
+stalactites hang down from the ceiling, reaching down a few feet
+above the cavern floor. A few patches of brownish moss grow from the
+walls and cracks in the floor. A cold breeze blows through the tunnel,
+creating an eerie howling sound.
+~
+150 9 2 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1279
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1255
+S
+#1255
+A Wide, Dark Cave~
+The surrounding rock walls are craggy and uneven. Long, narrow
+stalactites hang down from the ceiling, reaching down a few feet
+above the cavern floor. A few patches of brownish moss grow from the
+walls and cracks in the floor. A cold breeze blows through the tunnel,
+creating an eerie howling sound.
+~
+150 9 2 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1224
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1251
+S
+#1279
+A Wide, Dark Cave~
+The surrounding rock walls are craggy and uneven. Long, narrow
+stalactites hang down from the ceiling, reaching down a few feet
+above the cavern floor. A few patches of brownish moss grow from the
+walls and cracks in the floor. A cold breeze blows through the tunnel,
+creating an eerie howling sound.
+~
+150 9 2 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1251
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1289
+S
+#1287
+A Wide, Dark Cave~
+The surrounding rock walls are craggy and uneven. Long, narrow
+stalactites hang down from the ceiling, reaching down a few feet
+above the cavern floor. A few patches of brownish moss grow from the
+walls and cracks in the floor. A cold breeze blows through the tunnel,
+creating an eerie howling sound.
+~
+150 9 2 0
+0 0 0 0
+0 0 0
+D0
+The tunnel appears to open into a large cavern just ahead.
+~
+ ~
+ ~
+ ~
+1 -1 1634
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1289
+S
+#1289
+A Wide, Dark Cave~
+The surrounding rock walls are craggy and uneven. Long, narrow
+stalactites hang down from the ceiling, reaching down a few feet
+above the cavern floor. A few patches of brownish moss grow from the
+walls and cracks in the floor. A cold breeze blows through the tunnel,
+creating an eerie howling sound.
+~
+150 9 2 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1279
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1287
+S
+#1290
+A Vast Cavern~
+You are in a large, circular cavern with walls rising up nearly seventy
+feet into the darkness above.  The floor is covered by patches of
+dried marsh grass and large leaves.  Cracked and gnawed bones litter
+the cave floor.  A hole pierces the north wall of this cave.
+~
+150 9 2 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1225
+E
+hole wall~
+A hole funnels into the north wall of this cave like a giant cone.
+It is two feet in diameter at the opening here, but after a distance
+of about eight feet, it narrows to only a few inches.  Strange
+noises, footsteps and voices echo out of the hole.
+~
+S
+#1634
+An Oil-Filled Cavern~
+Oil covers the floor of the cavern. The rough walls extend to a
+70 foot high ceiling. A long, snakelike mound of earth winds its
+way through the oil-filled cave to the north.  This raised pathway
+leads to a dry area beyond the cavern.
+~
+150 9 2 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1636
+D2
+A 10 foot wide tunnel of rough-hewn rock leads into darkness.
+~
+l~
+ ~
+ ~
+1 -1 1287
+S
+#1636
+On a Raised Pathway~
+Streams of oil trickle down the cave walls from the ceiling, feeding
+the vast pool covering the floor.  Suddenly, flames burst into life
+all around.  Searing flames and explosions of hot wind blast into
+you. Your vision is clouded by the thick, black smoke in the air.
+You barely manage to remain on the raised, snakelike pathway.
+~
+150 8205 2 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1640
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1634
+S
+#1638
+An Oil-Filled Cavern~
+Oil covers the floor of the cavern.  The rough walls extend to a
+70 foot high ceiling.  A long, snakelike mound of earth winds its
+way through the oil-filled cave to the south.  This raised pathway
+leads to a dry area beyond the cavern.
+~
+150 9 2 0
+0 0 0 0
+0 0 0
+D0
+A short tunnel leads north, cluttered with small pieces of rubble.
+~
+ ~
+$n leaves through the tunnel.~
+$n arrives from the southern tunnel.~
+1 -1 2751
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1640
+S
+#1640
+On a Raised Pathway~
+Streams of oil trickle down the cave walls from the ceiling, feeding
+the vast pool covering the floor.  Suddenly, flames burst into life
+all around.  Searing flames and explosions of hot wind blast into
+you. Your vision is clouded by the thick, black smoke in the air.
+You barely manage to remain on the raised, snakelike pathway.
+~
+150 8205 2 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1638
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1636
+S
+#1648
+A Curved Staircase~
+You are in a ten foot wide corridor, made from large, smooth blocks
+of stone.  Small gems are set into the stone walls, glowing softly.
+They provide dim illumination in the area, but enough to see by.
+Long steps carved from the natural stone of the mountain stretch
+across the floor from one wall to the other.  The stairs descend slowly
+to the east.
+~
+150 8 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1649
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 15090
+S
+#1649
+A Secret Passage~
+You are in a ten foot wide corridor, made from large, smooth blocks
+of stone.  Small gems are set into the stone walls, glowing softly.
+They provide dim illumination in the area, but enough to see by.
+Long steps carved from the natural stone of the mountain stretch
+across the floor from one wall to the other.  The stairs descend slowly
+to the south.
+~
+150 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+passage~
+ ~
+ ~
+3 -1 1650
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1648
+S
+#1650
+Drainage Room~
+This is a large square room, each wall about thirty feet long.
+A pool of water, set into the floor, occupies the northwest
+portion of the room.  A spiral, stone staircase winding its way
+around a pillar stands at the edge of the pool, near the center
+of the north wall.  Two sturdy wooden doors exit from this room,
+one through the north wall and one through the east.
+~
+150 262152 0 0
+0 0 0 0
+0 0 0
+D0
+A sturdy wooden door, banded by iron.  It lock radiates a faint aura.
+~
+door wooden~
+$n exits through the northern door.~
+$n arrives from the door to the south.~
+2 15001 1870
+D1
+A sturdy wooden door.
+~
+door wooden~
+$n leaves through the east door.~
+$n appears in the doorway, choking and gagging from the stench.~
+1 -1 1651
+D2
+ ~
+passage~
+ ~
+ ~
+3 -1 1649
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 6334
+E
+pool water~
+A section of the floor slants down, forming a ramp down into the
+pool. The water is about 3 feet deep and only a few inches below
+the floor level.  The water is fairly clear, and you judge that it
+is probably safe to drink from.  Mounted into the north wall, just
+at the water's surface, is a rusted iron grate.  The grate allows
+excess water to spill into it, disappearing into the darkness beyond.
+You can hear running water splashing from the darkness, but the grate
+is too secure to remove.
+~
+S
+#1651
+Storage Room~
+The stench of carrion fills the air.  A body lies among several
+boxes and kegs.  The person has obviously been dead a very long
+time. The rest of the room is cluttered with wooden crates, filled
+with useless remains and garbage.
+~
+150 8 0 0
+0 0 0 0
+0 0 0
+D3
+A sturdy wooden door.
+~
+door wooden~
+$n leaves the room.~
+$n arrives from the eastern doorway.~
+1 -1 1650
+E
+body corpse~
+The body is badly decomposed, but from the size it appears to have
+been a human man.  The tattered remains of his clothing suggest
+leather armor.  A broken lantern and a feather quill lie next to the
+body. Partially concealed by the boxes is a leather-bound book.
+~
+S
+#1665
+A Rocky Corridor~
+The cavern is fairly narrow here, with rocky protrusions jutting from
+the walls and ceiling. The sound of running water echos loadly
+throughout the cave. The floor is damp and small pieces of rubbles
+lay scattered about.
+~
+150 9 2 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1666
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 15076
+S
+#1666
+A Rocky Corridor~
+The cavern is fairly narrow here, with rocky protrusions jutting from
+the walls and ceiling. The sound of running water echos loadly
+throughout the cave. The floor is damp and small pieces of rubbles
+lay scattered about.
+~
+150 9 2 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1695
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1665
+S
+#1691
+On a Stone Bridge~
+You stand on a ten foot wide bridge of finished stone work. It
+slants upward as it extends to the south. Three foot high walls
+border the bridge walkway on the east and west side. Nothing but
+empty, black space can be seen all around you. The sound of
+rushing water echos loudly throughout the chamber. Looking over
+the side of the bridge, you can the support is a massive stone
+arch, carved from the mountain.
+~
+150 9 2 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1126
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1870
+S
+#1695
+A Rocky Corridor~
+The cavern is fairly narrow here, with rocky protrusions jutting from
+the walls and ceiling. The sound of running water echos loadly
+throughout the cave. The floor is damp and small pieces of rubbles
+lay scattered about.
+~
+150 9 2 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1697
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1666
+S
+#1697
+A Rocky Corridor~
+The cavern is fairly narrow here, with rocky protrusions jutting from
+the walls and ceiling. The sound of running water echos loadly
+throughout the cave. The floor is damp and small pieces of rubbles
+lay scattered about.
+~
+150 9 2 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1728
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1695
+S
+#1728
+A Rocky Corridor~
+The cavern is fairly narrow here, with rocky protrusions jutting from
+the walls and ceiling. The sound of running water echos loadly
+throughout the cave. The floor is damp and small pieces of rubbles
+lay scattered about.
+~
+150 9 2 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1697
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2013
+S
+#1870
+On a Stone Bridge~
+You stand on a ten foot wide bridge of finished stone work.  It
+slants upward as it extends to the south.  Three foot high walls
+border the bridge walkway on the east and west side.  Nothing but
+emoty, black space can be seen all around you.  The sound of
+rushing water echos loudly throughout the chamber.  The bridge ends
+to the south as it meets a stone wall.  A wooden door stands in
+the center of the wall.
+~
+150 9 2 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1691
+D2
+A sturdy wooden door, banded by iron.  The lock radiates a faint aura.
+~
+door wooden~
+$n enters the door to the south.~
+$n arrives from the northern doorway.~
+2 15001 1650
+S
+#2013
+An Enormous Cavern Entrance~
+The northern wall of the cavern is intact, however, the southern one
+has given way to a sloping, rocky path.  The level ground left to
+safely walk on has been reduced to only a few feet in width.  The
+ceiling here rises up nearly a hundred feet into the pitch darkness
+that your light can not penetrate.  The sound of water crashing into
+water echos almost painfully throughout the area.
+~
+150 9 2 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1728
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2064
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 962
+S
+#2064
+A Sloped, Rocky Path~
+This area of the cave is about twenty feet wide, with steeply inclined
+walls to the east and west.  The "floor" you are straining to cling to
+is so greatly slanted down to the south, that you're not sure if it
+is the cavern floor, or the remains of a wall.
+~
+150 13 5 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2013
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2066
+S
+#2066
+An Icy Lake~
+This lake is deep and very cold.  A thin slick of oil covers the
+water. Steep cavern walls rise up on the east and south sides.  They
+are too sheer and oil-covered to climb.  A sharply inclinded bank
+leads north and the lake continues to the west.
+~
+150 9 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2064
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2068
+S
+#2068
+An Icy Lake~
+This lake is deep and very cold.  A thin slick of oil covers the
+water. Steep cavern walls rise up on the north and south sides.  They
+are too sheer and oil-covered to climb.  The lake continues to the
+east and west, while above you, the walls bend inward.  They seem to
+form a gigantic archway.
+~
+150 9 7 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2066
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2096
+S
+#2096
+An Icy Lake~
+This lake is deep and very cold. A thin slick of oil covers the
+water. Steep cavern walls rise up on the west and south sides.  They
+are too sheer and oil-covered to climb.  A sharply inclinded bank
+leads north and the lake continues to the east.  Twenty feet above
+the water surface, there are two large holes in the walls, nearly
+ten feet in diameter.  One is on the south wall, and the other on the
+west. Water rushes out of the southern hole with tremendous force,
+creating a waterfall that can be heard echoing throughout the entire
+cavern. A small cascade of water trickles from the west hole.  There
+appear to be enough hand-holds to reach the western hole.
+~
+150 9 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 79
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2068
+S
+#2324
+An Enormous Cavern Entrance~
+The northern wall of the cavern is intact, however, the southern one
+has given way to a sloping, rocky path. The level ground left to
+safely walk on has been reduced to only a few feet in width. The
+ceiling here rises up nearly a hundred feet into the pitch darkness
+that your light can not penetrate. The sound of water crashing into
+water echos almost painfully throughout the area.
+~
+150 9 2 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 962
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 79
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2409
+S
+#2409
+A Twisting Passage~
+This cavern passageway is about fifteen feet wide and almost as
+high. Several points are still a tight fit due to hanging rock
+formations and rocks jutting from the walls.  The ground is wet
+and uneven, making walking difficult.  The sound of splashing
+water echos loudly throughout the area.
+~
+150 9 2 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2410
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2324
+S
+#2410
+A Twisting Passage~
+This cavern passageway is about fifteen feet wide and almost as
+high. Several points are still a tight fit due to hanging rock
+formations and rocks jutting from the walls.  The ground is wet
+and uneven, making walking difficult.  The sound of splashing
+water echos loudly throughout the area.
+~
+150 9 2 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2409
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2412
+S
+#2412
+A Twisting Passage~
+This cavern passageway is about fifteen feet wide and almost as
+high. Several points are still a tight fit due to hanging rock
+formations and rocks jutting from the walls.  The ground is wet
+and uneven, making walking difficult.  The sound of splashing
+water echos loudly throughout the area.
+~
+150 9 2 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2410
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2413
+S
+#2413
+A Twisting Passage~
+This cavern passageway is about fifteen feet wide and almost as
+high. Several points are still a tight fit due to hanging rock
+formations and rocks jutting from the walls.  The ground is wet
+and uneven, making walking difficult.  The sound of splashing
+water echos loudly throughout the area.
+~
+150 9 2 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2414
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2412
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2415
+S
+#2414
+A Twisting Passage~
+This cavern passageway is about fifteen feet wide and almost as
+high. Several points are still a tight fit due to hanging rock
+formations and rocks jutting from the walls. The ground is wet
+and uneven, making walking difficult. The sound of splashing
+water echos softly throughout the area.
+~
+150 9 2 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2413
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2420
+S
+#2415
+A Twisting Passage~
+This cavern passageway is about fifteen feet wide and almost as
+high. Several points are still a tight fit due to hanging rock
+formations and rocks jutting from the walls.  The ground is wet
+and uneven, making walking difficult.  The sound of splashing
+water echos loudly throughout the area.
+~
+150 9 2 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2413
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2416
+S
+#2416
+A Twisting Passage~
+This cavern passageway is about fifteen feet wide and almost as
+high. Several points are still a tight fit due to hanging rock
+formations and rocks jutting from the walls. The ground is wet
+and uneven, making walking difficult. The sound of splashing
+water echos softly throughout the area.
+~
+150 9 2 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2417
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2415
+S
+#2417
+A Cavern Clearing~
+This section of cave is roughly round in shape, with a domed
+ceiling. A few large boulders lay scattered about but the
+floor is mostly covered with dried bones and clothing debris.
+Tunnels exit the clearing to the north and west.
+~
+150 9 2 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2416
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2421
+S
+#2418
+A Twisting Passage~
+This cavern passageway is about fifteen feet wide and almost as
+high. Several points are still a tight fit due to hanging rock
+formations and rocks jutting from the walls.  The ground is wet
+and uneven, making walking difficult.  The sound of splashing
+water echos loudly throughout the area.
+~
+150 9 2 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2419
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2425
+S
+#2419
+A Twisting Passage~
+This cavern passageway is about fifteen feet wide and almost as
+high. Several points are still a tight fit due to hanging rock
+formations and rocks jutting from the walls.  The ground is wet
+and uneven, making walking difficult.  The sound of splashing
+water echos loudly throughout the area.
+~
+150 9 2 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2420
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2418
+S
+#2420
+A Twisting Passage~
+This cavern passageway is about fifteen feet wide and almost as
+high. Several points are still a tight fit due to hanging rock
+formations and rocks jutting from the walls. The ground is wet
+and uneven, making walking difficult. The sound of splashing
+water echos quietly throughout the area.
+~
+150 9 2 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2414
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2419
+S
+#2421
+A Twisting Passage~
+This cavern passageway is about fifteen feet wide and almost as
+high. Several points are still a tight fit due to hanging rock
+formations and rocks jutting from the walls. The ground is wet
+and uneven, making walking difficult. The sound of splashing
+water echos softly throughout the area.
+~
+150 9 2 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2417
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2425
+S
+#2425
+A Twisting Passage~
+This cavern passageway is about fifteen feet wide and almost as
+high. Several points are still a tight fit due to hanging rock
+formations and rocks jutting from the walls. The ground is wet
+and uneven, making walking difficult. The sound of splashing
+water echos quietly throughout the area.
+~
+150 9 2 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2418
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2421
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2708
+S
+#2708
+A Twisting Passage~
+This cavern passageway is about fifteen feet wide and almost as
+high. Several points are still a tight fit due to hanging rock
+formations and rocks jutting from the walls. The ground is wet
+and uneven, making walking difficult. The sound of splashing
+water echos faintly throughout the area.
+An enormous stone door is built into the south wall.
+~
+150 9 2 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2425
+D2
+The door is made from sanded granite, nearly twenty feet tall.
+A dagger, with a serrated edge, has been carved into the surface.
+~
+door stone granite~
+ ~
+ ~
+1 15001 2709
+S
+#2709
+Base of a Stairwell~
+You stand at the base of a massive stairwell. It is nearly fourty
+feet square, rising up hundreds of feet into darkness. Carved stone
+steps protrude from the wall, spiralling upwards. Strange orbs,
+a foot in diameter, float in the center of the shaft. Each one
+ten feet above the last. They glow with a soft, flickering light.
+A massive stone door is built into the north wall.
+~
+150 520 0 0
+0 0 0 0
+0 0 0
+D0
+The door is made from sanded granite, nearly twenty feet tall.
+~
+door stone granite~
+ ~
+ ~
+1 15001 2708
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 2710
+S
+#2710
+In a Stairwell~
+You are in a massive stairwell, leading up and down. It is nearly fourty
+feet square, rising up hundreds of feet into darkness. Carved stone
+steps protrude from the wall, spiralling upwards. Strange orbs,
+a foot in diameter, float in the center of the shaft. Each one
+ten feet above the last. They glow with a soft, flickering light.
+~
+150 520 0 0
+0 0 0 0
+0 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 2711
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 2709
+S
+#2711
+In a Stairwell~
+You are in a massive stairwell. It is nearly fourty feet square,
+leading up and down into darkness. Carved stone steps protrude
+from the wall, spiralling in their ascent from below. Strange
+orbs, a foot in diameter, float in the center of the shaft. Each
+one ten feet above the last. They glow with a soft, flickering light.
+~
+150 520 0 0
+0 0 0 0
+0 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 2750
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 2710
+S
+#2747
+Top of a Stairwell~
+You are in a massive stairwell, leading down. It is nearly fourty
+feet square, sinking down hundreds of feet into darkness. Carved stone
+steps protrude from the wall, spiralling downwards. Strange orbs,
+a foot in diameter, float in the center of the shaft. Each one
+ten feet below the last. They glow with a soft, flickering light.
+~
+150 520 0 0
+0 0 0 0
+0 0 0
+D2
+A large circular door made of dull grey metal.  A strange looking
+slot has been cut into the door.  It is irregular in shape and about
+six inches deep.
+~
+door~
+$n steps through the circular doorway.~
+$n steps through the circular doorway into the hall.~
+2 15004 6369
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 2748
+S
+#2748
+In a Stairwell~
+You are in a massive stairwell. It is nearly fourty feet square,
+leading up and down into darkness. Carved stone steps protrude
+from the wall, spiralling in their ascent from below. Strange
+orbs, a foot in diameter, float in the center of the shaft. Each
+one ten feet above the last. They glow with a soft, flickering light.
+~
+150 520 0 0
+0 0 0 0
+0 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 2747
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 2749
+S
+#2749
+In a Stairwell~
+You are in a massive stairwell. It is nearly fourty feet square,
+leading up and down into darkness. Carved stone steps protrude
+from the wall, spiralling in their ascent from below. Strange
+orbs, a foot in diameter, float in the center of the shaft. Each
+one ten feet above the last. They glow with a soft, flickering light.
+Two doors exit from the stairwell, one south and the other east.
+~
+150 520 0 0
+0 0 0 0
+0 0 0
+D1
+A heavy oak door.
+~
+door oak oaken~
+ ~
+ ~
+1 -1 6329
+D2
+A heavy door made of oak.
+~
+door oak oaken~
+ ~
+ ~
+1 -1 6318
+D3
+ ~
+panel~
+ ~
+$n arrives from a narrow tunnel in the east wall.~
+3 -1 5624
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 2748
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 2750
+S
+#2750
+In a Stairwell~
+You are in a massive stairwell. It is nearly fourty feet square,
+leading up and down into darkness. Carved stone steps protrude
+from the wall, spiralling in their ascent from below. Strange
+orbs, a foot in diameter, float in the center of the shaft. Each
+one ten feet above the last. They glow with a soft, flickering light.
+~
+150 520 0 0
+0 0 0 0
+0 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 2749
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 2711
+S
+#2751
+Dark Cavern Chamber~
+The chamber here appears more like a hallway.  A giant earthen
+mound rises up before you, causing the passage to split to the
+east and west.  Oil fills both these passages.  A short tunnel
+also leads south.
+~
+150 9 2 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2752
+D2
+A short tunnel leads to another chamber.  The ground is cluttered
+with small pieces of rubble.
+~
+ ~
+$n leaves through the short tunnel.~
+$n arrives from the tunnel entrance.~
+1 -1 1638
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2757
+D4
+There are several hand and foot holds in the side of the mound.
+~
+ ~
+$n scrambles up the earthen mound.~
+$n climbs up over the southern edge of the mound.~
+5 -1 2759
+S
+#2752
+An Oil-Filled Tunnel~
+This passage is filled knee-deep with thick oil.  The walls are
+made of rough, pourous rock.  A large, earthen mound rises up
+to the northwest.  The tunnel continues to the north and west.
+~
+150 9 2 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2754
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2751
+S
+#2753
+An Oil-Filled Tunnel~
+This passage is filled knee-deep with thick oil.  The walls are
+made of rough, pourous rock. A large, earthen mound rises up
+to the southwest. The tunnel continues to the south and west.
+~
+150 9 2 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2754
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2756
+S
+#2754
+An Oil-Filled Tunnel~
+This passage is filled knee-deep with thick oil.  The walls are
+made of rough, pourous rock. A large, earthen mound rises up
+to the west. The tunnel continues to the north and south.
+~
+150 9 2 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2753
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2752
+D4
+There are several hand and foot holds in the side of the mound.
+~
+ ~
+$n scrambles up the earthen mound.~
+$n climbs up over the eastern edge of the mound.~
+5 -1 2759
+S
+#2755
+An Oil-Filled Tunnel~
+This passage is filled knee-deep with thick oil.  The walls are
+made of rough, pourous rock. A large, earthen mound rises up
+to the southeast. The tunnel continues to the south and east.
+~
+150 9 2 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2756
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2758
+S
+#2756
+A Cavern Chamber~
+The chamber here appears more like a hallway. A giant earthen
+mound rises up before you, causing the passage to split to the
+east and west. Oil fills both these passages. A wide tunnel
+also leads north.
+~
+150 9 2 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5623
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2753
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2755
+D4
+There are several hand and foot holds in the side of the mound.
+~
+ ~
+$n scrambles up the earthen mound.~
+$n climbs up over the northern edge of the mound.~
+5 -1 2759
+S
+#2757
+An Oil-Filled Tunnel~
+This passage is filled knee-deep with thick oil.  The walls are
+made of rough, pourous rock. A large, earthen mound rises up
+to the northeast. The tunnel continues to the north and east.
+~
+150 9 2 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2758
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2751
+S
+#2758
+An Oil-Filled Tunnel~
+This passage is filled knee-deep with thick oil.  The walls are
+made of rough, pourous rock. A large, earthen mound rises up
+to the east. The tunnel continues to the north and south.
+~
+150 9 2 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2755
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2757
+D4
+There are several hand and foot holds in the side of the mound.
+~
+ ~
+$n scrambles up the earthen mound.~
+$n climbs up over the western edge of the mound.~
+5 -1 2759
+S
+#2759
+Atop the Earthen Mound~
+There is a space between the earthen mound and the ceiling of
+this cavern.  It is only high enough to crouch in.  A bowl
+shaped depression has been dug into the mound.
+~
+150 13 2 0
+0 0 0 0
+0 0 0
+D0
+Peering over the edge of the mound, you can see a rock landing below.
+~
+ ~
+$n climbs over the edge of the mound to the north.~
+$n slides down the side of the earthen mound.~
+1 -1 2756
+D1
+Peering over the edge, you can see a tunnel filled with oil.
+~
+ ~
+$n climbs over the eastern side of the mound.~
+$n slides down the side of the mound, splashing into the oil.~
+1 -1 2754
+D2
+Peering over the side of the mound, you can see a rock landing below.
+~
+ ~
+$n climbs over the southern edge of the mound.~
+$n slides down the side of the mound, landing at your feet.~
+1 -1 2751
+D3
+Peering over the edge, you can see a tunnel filled with oil.
+~
+ ~
+$n climbs over the western side of the mound.~
+$n slides down the side of the mound, splashing into the oil.~
+1 -1 2758
+S
+#5623
+A Curved Passage~
+The surrounding rock walls are craggy and uneven. Long, narrow
+stalactites hang down from the ceiling, reaching down a few feet
+above the cavern floor. A few patches of brownish moss grow from the
+walls and cracks in the floor.
+~
+150 9 2 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5624
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2756
+S
+#5624
+Dead-End Tunnel~
+The surrounding rock walls are craggy and uneven. Long, narrow
+stalactites hang down from the ceiling, reaching down a few feet
+above the cavern floor. A few patches of brownish moss grow from the
+walls and cracks in the floor.  The tunnel forms a circular chamber here.
+~
+150 9 2 0
+0 0 0 0
+0 0 0
+D1
+A large rock has been pushed aside, revealing a secret passage.
+~
+passage behind a huge rock~
+$n crouches down and enters the secret passage.~
+ ~
+3 -1 2749
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5623
+S
+#6318
+A Cold, Stone Corridor~
+The walls, ceiling and floor of this hallway are all made of plain,
+brown stone.  The surface is fairly smooth, mostly from age than any
+craftsmanship. A thin layer of dust covers the floor and several
+cobwebs cling to the corners where the ceiling and walls meet.
+An open archway stands to the east.
+~
+150 521 0 0
+0 0 0 0
+0 0 0
+D0
+A heavy door made of oak.
+~
+door oak oaken~
+ ~
+ ~
+1 -1 2749
+D1
+Through the arched doorway you can see nothing but a large, empty chamber.
+~
+ ~
+$n leaves through the archway.~
+$n arrives from the west.~
+1 -1 6324
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6319
+S
+#6319
+A Cold, Stone Corridor~
+The walls, ceiling and floor of this hallway are all made of plain,
+brown stone.  The surface is fairly smooth, mostly from age than any
+craftsmanship. A thin layer of dust covers the floor and several
+cobwebs cling to the corners where the ceiling and walls meet.
+The corridor forms a T here, leading north, south and east.
+~
+150 521 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6318
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6321
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6326
+S
+#6320
+A Cold, Stone Corridor~
+The walls, ceiling and floor of this hallway are all made of plain,
+brown stone.  The surface is fairly smooth, mostly from age than any
+craftsmanship. A thin layer of dust covers the floor and several
+cobwebs cling to the corners where the ceiling and walls meet.
+An open archway stands to the north and a doorway to the east.
+~
+150 521 0 0
+0 0 0 0
+0 0 0
+D0
+Through the arched doorway you can see nothing but a large, empty chamber.
+~
+ ~
+$n leaves through the archway.~
+$n arrives from the south.~
+1 -1 6324
+D1
+A sturdy door made of deep red wood.
+~
+door wood red~
+$n leaves through the door to the east.~
+$n arrives from the west ern doorway.~
+1 -1 6322
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6321
+S
+#6321
+A Cold, Stone Corridor~
+The walls, ceiling and floor of this hallway are all made of plain,
+brown stone.  The surface is fairly smooth, mostly from age than any
+craftsmanship. A thin layer of dust covers the floor and several
+cobwebs cling to the corners where the ceiling and walls meet.
+An oaken door stands in the south wall.
+~
+150 521 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6320
+D2
+A heavy oaken door banded by steel strips.
+~
+door oaken~
+$n leaves through the door to the south.~
+$n arrives through the northern door.~
+2 -1 6323
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6319
+S
+#6322
+A Bedroom~
+This room is warm and cozy.  A plush bed sits in the northeast corner,
+covered by beautiful blankets and quilts.  Majestic tapestries depicting
+strange creatures line the walls, and thick fur rugs carpet the floor.
+Gems set into the walls illuminate the room.
+~
+150 520 0 0
+0 0 0 0
+0 0 0
+D2
+A small wooden door.
+~
+door wooden~
+$n leaves through the southern door.~
+$n has arrived from the doorway.~
+1 -1 6327
+D3
+A sturdy door made of deep red wood.
+~
+door wood red~
+$n leaves through the deep red door.~
+$n arrives from the eastern doorway.~
+1 -1 6320
+S
+#6323
+A Wizard's Workshop~
+Tables and cabinets fill this room.  Various pieces of equipment
+cover the tables.  Jars and boxes filled with strange items fill
+the cabinets.  Two half-built bone golems stand in the southwest
+corner. This is definitely a wizard's workroom.
+~
+150 8 0 0
+0 0 0 0
+0 0 0
+D0
+A heavy oaken door banded by steel strips.
+~
+door oaken~
+$n leaves through the north door.~
+$n arrives through the doorway to the south.~
+2 -1 6321
+D1
+A small wooden door.
+~
+door wooden~
+$n leaves through the doorway to the east.~
+$n arrives from the western doorway.~
+1 -1 6328
+S
+#6324
+A Large, Stone Chamber~
+This room is nearly fourty feet square with a tall ceiling, about
+twenty feet high.  Cobwebs clings to the corners of the chamber and
+thick dust covers the floor.  Several skeletons and rotting
+adventurers' equipment lay about the room.
+~
+150 525 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6331
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6320
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6318
+S
+#6325
+A Short Hallway~
+The walls, ceiling and floor of this hallway are all made of plain,
+gray stone. The surface is fairly smooth, mostly from age than any
+craftsmanship. A thin layer of dust covers the floor and several
+cobwebs cling to the corners where the ceiling and walls meet.
+Deep pits of burning embers border the hall on either side.
+~
+150 521 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6369
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6484
+D2
+A massive black steel door.  The image of a serrated edged dagger
+has been carved into its surface and inlaid with silver.
+~
+door steel~
+$n cautiously enters the chamber beyond the steel door.~
+$n cautiously walks into the warm chamber.~
+2 -1 6371
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6485
+S
+#6326
+A Cold, Stone Corridor~
+The walls, ceiling and floor of this hallway are all made of plain,
+brown stone.  The surface is fairly smooth, mostly from age than any
+craftsmanship. A thin layer of dust covers the floor and several
+cobwebs cling to the corners where the ceiling and walls meet.
+~
+150 521 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6319
+S
+#6327
+A Narrow Passage~
+The floor is tiled with grey flagstone and the ceiling is of
+unfinished black stone.  The walls are narrow and rough, made
+from blocks of obsidian.  The floors are devoid of dust and the
+air is filled with a bitter, herbal scent.  A small wooden door
+stands to the north.
+~
+150 521 0 0
+0 0 0 0
+0 0 0
+D0
+A small, wooden door.
+~
+door wooden~
+$n leaves through the wooden door.~
+$n arrives through the southern doorway.~
+1 -1 6322
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6328
+S
+#6328
+A Narrow Passage~
+The floor is tiled with grey flagstone and the ceiling is of
+unfinished black stone. The walls are narrow and rough, made
+from blocks of obsidian. The floors are devoid of dust and the
+air is filled with a bitter, herbal scent. A small wooden door
+stands to the west.
+~
+150 521 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6327
+D2
+ ~
+passageway~
+ ~
+ ~
+3 15001 6332
+D3
+A small wooden door.
+~
+door wooden~
+$n leaves through the wooden door.~
+$n arrives from the eastern doorway.~
+1 -1 6323
+E
+floor ground tile tiles flagstone~
+You can see faint scrapes and gouges along the southern wall.
+~
+E
+wall walls~
+You detect a narrow crack in the southern wall.
+~
+S
+#6329
+A Cold, Stone Corridor~
+The walls, ceiling and floor of this hallway are all made of plain,
+brown stone.  The surface is fairly smooth, mostly from age than any
+craftsmanship. A thin layer of dust covers the floor and several
+cobwebs cling to the corners where the ceiling and walls meet.
+An open archway stands to the east.  There is a thick, cloudy vapor
+in the air.
+~
+150 16905 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6330
+D3
+A heavy door made of oak.
+~
+door oak oaken~
+ ~
+ ~
+2 -1 2749
+S
+#6330
+A Large Chamber~
+This room is nearly fourty feet square with a tall ceiling, about
+twenty feet high.  Cobwebs clings to the corners of the chamber and
+thick dust covers the floor.  Several skeletons and rotting
+adventurers' equipment lay about the room.
+~
+150 525 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6331
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6329
+S
+#6331
+A Wizard's Workroom~
+Tables and cabinets fill this room.  Various pieces of equipment
+cover the tables.  Jars and boxes filled with strange items fill
+the cabinets.  Two half-built bone golems stand in the southwest
+corner. This is definitely a wizard's workroom.
+~
+150 520 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6330
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6324
+S
+#6332
+A Narrow Passage~
+The floor is tiled with grey flagstone and the ceiling is of
+unfinished black stone. The walls are narrow and rough, made
+from blocks of obsidian. The floors are covered by a thick layer
+of dust.
+~
+150 521 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+passageway~
+ ~
+ ~
+3 15001 6328
+D1
+ ~
+passageway~
+ ~
+ ~
+3 -1 6333
+S
+#6333
+A Natural Stone Stairwell~
+The floor is tiled with grey flagstone and the ceiling is of
+unfinished black stone. The walls form a rough circle around
+you and are made from unfinished obsidian.  A deep shaft descends
+into the ground, surrounding a spiral staircase.
+~
+150 521 0 0
+0 0 0 0
+0 0 0
+D3
+ ~
+passageway~
+ ~
+ ~
+3 -1 6332
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 6335
+S
+#6334
+On a Spiral Staircase~
+You are in a shaft, bored through the solid stone of the mountain.
+A pillar extends straight up and down, supporting a spiral staircase
+also carved from the natural stone.  The area is damp and small
+patches of moss grow in the corners.
+~
+150 8 0 0
+0 0 0 0
+0 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 6335
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 1650
+S
+#6335
+On a Spiral Staircase~
+You are in a shaft, bored through the solid stone of the mountain.
+A pillar extends straight up and down, supporting a spiral staircase
+also carved from the natural stone.  The area is damp and small
+patches of moss grow in the corners.
+~
+150 521 0 0
+0 0 0 0
+0 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 6333
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 6334
+S
+#6369
+A Short Hallway~
+The walls, ceiling and floor of this hallway are all made of plain,
+gray stone. The surface is fairly smooth, mostly from age than any
+craftsmanship. A thin layer of dust covers the floor and several
+cobwebs cling to the corners where the ceiling and walls meet.
+A rotting wooden door leads east.
+~
+150 521 0 0
+0 0 0 0
+0 0 0
+D0
+A large circular door made of dull grey metal.  A strange looking
+slot has been cut into the door.  It is irregular in shape and about
+six inches deep.
+~
+door~
+$n leaves through the circular doorway.~
+$n steps arrives from the doorway.~
+2 15004 2747
+D1
+The doorway leads into a small, dark room.  The door itself has
+been forced to remain open, with a heavy metal spike hammered into
+the floor.
+~
+ ~
+$n leaves through the doorway.~
+$n arrives in the room, but the door never appeared to open.~
+1 -1 6370
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6325
+S
+#6370
+A Small Room~
+As you enter this ten by ten room, the door slams shut behind you.
+You panic and look about, noticing an iron grate above you.  Water
+rushes from it, filling the chamber in a matter of moments.  There
+is a rusty metal gate in the floor, about two feet square.
+~
+150 525 9 0
+0 0 0 0
+0 0 0
+D5
+A rusty, metal grate covers a deep shaft.  It slants somewhat in its
+descent, disappearing in darkness.
+~
+grate metal rusty~
+$n frantically swims into the shaft and disappears from view.~
+$n $n falls into the lake from above you, screaming.~
+1 -1 2096
+S
+#6371
+Home of the Heartstone~
+A burst of hot air rushes past you as you enter the room.  A
+bright glow fills the hallway, and burning red light bathes the
+room. There is no furniture here, except for a semicircular
+platform that stands against the south wall.  The platform
+stands one foot off the floor.  A circular dais rises two
+feet from the center of the platform.  Atop the dais rests
+a black stone obelisk.  The obelisk appears to be an ornately
+carved totem.  A sculpted hand rests atop the totem, its palm
+open.
+~
+150 520 0 0
+0 0 0 0
+0 0 0
+D0
+A massive black steel door.
+~
+door steel~
+$n leaves through the northern doorway.~
+$n arrives from behind the massive black steel door.~
+2 -1 6325
+D2
+ ~
+passage behind the obelisk~
+$n crawls through the open passageway behind the obelisk.~
+ ~
+3 -1 6372
+S
+#6372
+Lair of the Master Thief~
+Riches and rarities fill this luxurious room.  The sweet smell
+of incense fills the air.  Expensive tapestries and carvings
+hang on the wall, and exotic furs cover the floor.  A carved
+wooden bed sits in the nortwest corner, covered with fine silk
+and satin sheets.  A portion of the southern wall has been cut
+away and a shimmering, transparent field blocks the harsh
+weather from entering this chamber.  The window provides a
+breathtaking view of the snow-capped mountain peeks.
+~
+150 520 0 0
+0 0 0 0
+0 0 0
+D0
+A polished wooden door, rounded to a semicircle on top.  The carved
+stone edging around the doorway is embedded with gems.
+~
+door wooden~
+$n leaves through the ornate door.~
+$n crawls out of a secret passage behind the obelisk.~
+1 -1 6371
+S
+#6484
+A Pit of Flaming Embers~
+This is a square shaft, cut into the floor about five feet deep.
+The walls are charred black but still glowing a deep red from the
+intense heat.  The floor is covered with a foot deep layer of
+fiery rocks and chunks of wood.
+~
+150 8716 0 0
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6325
+S
+#6485
+A Pit of Flaming Embers~
+This is a square shaft, cut into the floor about five feet deep.
+The walls are charred black but still glowing a deep red from the
+intense heat.  The floor is covered with a foot deep layer of
+fiery rocks and chunks of wood.
+~
+150 8716 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6325
+S
+#14999
+Foot of the Cliff~
+Patches of fog float through the area.  A waterfall thunders nearby.
+The trail has become very wet and slippery.  Soon, the trail gives
+way to a wide ledge that hugs the foot of a cliff.  To the west, a
+great waterfall cascades down from hundreds of feet above.  The spray
+from the falls is icy cold.  Straight ahead, a huge cliff rises into
+the mists.  Cave openings riddle the face of the cliff.
+~
+150 0 5 1
+0 0 0 0
+0 0 0
+D1
+~
+~
+~
+~
+0 0 63460
+D2
+~
+~
+~
+~
+0 0 63461
+D3
+The narrow craggy mountain path leads west, slopping upwards.
+~
+ ~
+$n starts up the sloping mountain trail.~
+$n arrives from the east, walking up the sloping trail.~
+1 -1 15001
+S
+#15001
+Outside a Cave Entrance~
+You stand on a narrow trail, hugging the face of a cliff.  A thundering
+waterfall can be seen, heard and even felt to the west.  The mouth of
+a cave opens into the cliff face here.  Many dog-like animal tracks
+lead in and out of the six foot wide opening.  The sound of snarling
+draws closer to the opening.
+~
+150 4 5 1
+0 0 0 0
+0 0 0
+D0
+You can see nothing but darkness inside the cave.
+~
+ ~
+$n disappears into the dark cavern.~
+$n has arrived from the outside, walking cautiously while $s eyes adjust.~
+1 -1 15002
+D1
+The craggy mountain path leads east, slopped downwards.
+~
+ ~
+$n follows the trail to the east.~
+$n makes $s way down the slopping trail to the foot of the cliff.~
+1 -1 14999
+D3
+A craggy mountain path leads west, sloping upwards as it hugs the cliff.
+~
+ ~
+$n continues up the trail to the west.~
+$n arrives from the east.~
+1 -1 15007
+D5
+A steep, narrow trail winds down the front of the cliff face.  A
+small clearing surrounded by boulders lies at the bottom.
+~
+ ~
+$n carefully makes $s way down the narrow path to a small clearing.~
+$n stumbles on some loose rocks but makes it to the clearing unharmed.~
+1 -1 15006
+S
+#15002
+Inside a Barren Cave~
+The cave ceiling is six feet high, with rock formations jutting down
+towards the floor.  The walls are rough and very cold, coated with ice
+in places where water drips down them.  The floor is covered with many
+gnarled bones.
+~
+150 9 0 7
+0 0 0 0
+0 0 0
+D0
+You see nothing but darkness farther into the cave.
+~
+ ~
+$n moves intot he northern cave branch.~
+$n arrives from the main cave.~
+1 -1 15004
+D1
+You see nothing but darkness farther into the cave.
+~
+ ~
+$n moves into the eastern cave branch.~
+$n arrives from the main cave.~
+1 -1 15005
+D2
+The cave exits to a rocky trail, a view of a vast mountain range can be
+seen beyond that.
+~
+ ~
+$n leaves the cave.~
+$n arrives from the cave's entrance.~
+1 -1 15001
+D3
+You see nothing but darkness farther into the cave.
+~
+ ~
+$n moves into the western cave branch.~
+$n has arrived from the main cave.~
+1 -1 15003
+S
+#15003
+Inside a Barren Cave~
+The cave ceiling is six feet high, with rock formations jutting down
+towards the floor.  The walls are rough and very cold, coated with ice
+in places where water drips down them.  The floor is covered with many
+gnarled bones.
+~
+150 9 0 7
+0 0 0 0
+0 0 0
+D1
+This tunnel leads back to the main cave, but the darkness prevents
+you from seeing into it.
+~
+ ~
+$n leaves down the east tunnel, back to the main cave.~
+$n has arrived from the western cave branch.~
+1 -1 15002
+S
+#15004
+Inside a Barren Cave~
+The cave ceiling is six feet high, with rock formations jutting down
+towards the floor.  The walls are rough and very cold, coated with ice
+in places where water drips down them.  The floor is covered with many
+gnarled bones.
+~
+150 9 0 7
+0 0 0 0
+0 0 0
+D2
+The tunnel leads back to the main cave, but the darkness prevents
+you from seeing into it.
+~
+ ~
+$n leaves down the south tunnel, back to the main cave.~
+$n has arrived from the northern cave branch.~
+1 -1 15002
+S
+#15005
+Inside a Barren Cave~
+The cave ceiling is six feet high, with rock formations jutting down
+towards the floor.  The walls are rough and very cold, coated with ice
+in places where water drips down them.  The floor is covered with many
+gnarled bones.
+~
+150 9 0 7
+0 0 0 0
+0 0 0
+D3
+This tunnel leads back to the main cave, but the darkness prevents
+you from seeing into it.
+~
+ ~
+$n leaves west through a tunnel which leads back to the main cave.~
+$n has arrived from the eastern cave branch.~
+1 -1 15002
+S
+#15006
+A Lower Cavern Entrance~
+The only trail from this rocky clearing leads up the cliff face.  A
+large cave opening lies north of you.  Claw tracks lead into the
+entrance. A fetid odor pulses out of the opening, almost as if the
+cave were breathing.
+~
+150 4 5 7
+0 0 0 0
+0 0 0
+D0
+Peering into the cavern entrance, you can see nothing but darkness.
+The faint sound of clicking, like rock tapping rock can be heard from
+within, as well as the howl of unknown creatures.
+~
+ ~
+$n disappears into the darkness of the cave.~
+$n has arrived from clearing outside the cave, peering about nervously.~
+1 -1 15046
+D4
+A steep, narrow trail winds its way up the cliff face to a wider trail.
+~
+ ~
+$n carefully makes $s way up the narrow trail, knocking some rocks loose.~
+$n climbs up to the trail from a small clearing below.~
+1 -1 15001
+S
+#15007
+Outside a Cave Entrance~
+You stand on a narrow trail, hugging the face of a cliff.  A thundering
+waterfall can be seen, heard and even felt to the west.  The mouth of
+a cave opens into the cliff face here.  It is enormous, stretching
+over twenty feet high and almost as wide.
+~
+150 0 5 1
+0 0 0 0
+0 0 0
+D0
+A massive corridor leads into the cliff face.
+~
+ ~
+$n enters the giant corridor to the north.~
+Footfalls echo throughout the corridor as $n arrives from the south.~
+1 -1 15032
+D1
+A craggy mountain trail leads east, slopping downward.
+~
+ ~
+$n leaves east down the sloping trail.~
+$n has arrived from the west.~
+1 -1 15001
+D3
+A craggy mountainous trail leads westward, slopping upward.
+~
+ ~
+$n continues up the rocky path to the west.~
+$n as arrived from the east.~
+1 -1 15008
+S
+#15008
+A Rocky Cliff Path~
+The trail here has become wet and very slick from the spraying mist of
+the waterfall just a few yards to the west.  Loose rocks and patches
+of ice cover the trail, making it extemely treatcherous.  The path leads
+to the east and also makes a sharp incline.
+~
+150 0 5 1
+0 0 0 0
+0 0 0
+D1
+A craggy mountainous trail leads eastward, slopping downward.
+~
+ ~
+$n cautiously walks down the narrow trail to the east.~
+$n has arrived from the west.~
+1 -1 15007
+D4
+The trail has become more of a series of ledges and protrudding stones
+leading up the cliff to a more suitable path.
+~
+ ~
+$n grips the rocks of the cliff tightly and climbs up to the next ledge.~
+$n pulls $mself up onto the trail from below.~
+1 -1 15009
+S
+#15009
+A Rocky Cliff Path~
+You stand on a narrow trail, hugging the face of a cliff.  A thundering
+waterfall can be seen, heard and even felt to the west.  The entrance
+of a cave opens into the face of the cliff here.  It is huge, stretching
+twenty feet high and the same distance across.
+~
+150 0 5 7
+0 0 0 0
+0 0 0
+D0
+You can't penetrate the darkness of the cave, but you can however hear a
+low, deep growling from inside.
+~
+ ~
+$n disappears into the darkness of the cavern before you.~
+The sound of crunching ice seems all too loud as $n arrives.~
+1 -1 15010
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 15017
+D5
+A series of ledges and protruding rocks provides a safe path to the
+trail below.
+~
+ ~
+$n carefully makes $s way down to the trail below.~
+$n climbs down from the path above you.~
+1 -1 15008
+S
+#15010
+An Icy Cavern~
+Ice covers the walls, floor and ceiling of this frigid cave.  The
+tunnels of this cavern are twenty feet wide and twenty feet high.
+Forty feet into the cave, the floor appears to be glowing dimly.
+~
+150 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 15011
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 15009
+S
+#15011
+On a Frozen Pool~
+Ice covers the walls, floor and ceiling of this frigid cave.  The
+tunnels of this cavern are twenty feet wide and twenty feet high.
+The floor has given way to a frozen pool that glows dimly, which
+you now stand on.
+~
+150 15 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 15012
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 15010
+S
+#15012
+An Icy Cavern~
+Ice covers the walls, floor and ceiling of this frigid cave.  The
+tunnels of this cavern are twenty feet wide and twenty feet high.
+Long stalactites hang down from the ceiling, reflecting the dim
+light in spectacular colors.  The floor is rocky and cold.
+~
+150 9 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 15013
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 15011
+S
+#15013
+An Icy Cavern~
+Ice covers the walls, floor and ceiling of this frigid cave.  The
+tunnels of this cavern are twenty feet wide and twenty feet high.
+Around the corner to the southwest, a thirty foot long tunnel leads
+into a brightly lit cavern.  The air grows colder and colder as the
+tunnel leads closer to the light.
+~
+150 9 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 15014
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 15012
+S
+#15014
+An Icy Pool~
+A tunnel from the north has opened up into this frigid, oval-shaped
+cavern. Huge icicles hang like stalactites from the ceiling. A
+frozen pond covers the caverns floor. An eerie glow comes from
+beneath the ice of this pond, lighting up the cavern.
+A bitter-cold wind seems to be eminating from the pool itself.
+~
+150 32780 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 15013
+D5
+The ice on the pond's surface has begun to crack.  Stalagmites and
+stalactites have fallen and shattered on the surface, creating holes.
+~
+ ~
+ ~
+ ~
+1 -1 15015
+E
+pond ice surface pool floor~
+Change this.~
+S
+#15015
+Beneath a Frozen Pond~
+The walls of this pool have been worn smooth and are now covered with
+thick sheets of ice.  The floor of the pool resembles the walls except
+that it is encrusted with small glass beads which glow brightly, illuminating
+the area.  Frigid water surrounds you on all sides and chunks of ice float
+by overhead.
+~
+150 32776 9 0
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 15016
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 15014
+S
+#15016
+Beneath a Frozen Pond~
+The walls of this pool have been worn smooth and are now covered with
+thick sheets of ice.  The floor of the pool resembles the walls except
+that it is encrusted with small, glass beads which glow brightly,
+illuminating the area.  Frigid water surrounds you on all sides.
+~
+150 32776 9 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 15015
+S
+#15017
+A Rocky Cliff Path~
+You stand on a narrow trail, hugging the face of a cliff.  A thundering
+waterfall can be seen, heard and even felt to the west.  Some twenty
+feet above you is another trail, but there doesn't appear to be any
+way of accessing it from your location.
+~
+150 0 5 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 15018
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 15009
+D4
+A narrow ledge juts from the cliff face above you.  There are not enough
+hand and foot holds to climb up to it however.
+~
+ ~
+ ~
+ ~
+1 -1 15022
+S
+#15018
+A Rocky Cliff Path~
+You stand on a narrow trail, hugging the face of a cliff.  A thundering
+waterfall can be seen, heard and even felt to the west.  The entrance
+of a cave opens into the mountain here.  It is fairly narrow and only
+six feet high.
+~
+150 0 5 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 15019
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 15017
+S
+#15019
+A Narrow Tunnel~
+The cold walls of this cavern are less than an arms width apart.  The
+floor beneath you is rocky and uneven.  You can make out claw marks in
+the damp dirt on the floor and what appears to be scrape marks on the
+walls.
+~
+150 9 4 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 15020
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 15018
+S
+#15020
+A Narrow Tunnel~
+The cold walls of this cavern are less than an arms width apart.  The
+floor beneath you is rocky and uneven.  You can make out claw marks in
+the damp dirt on the floor and what appears to be scrape marks on the
+walls. The tunnel ends in a twenty foot high wall to the north.  There
+appears to be an alcove at the top.
+~
+150 9 4 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 15019
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 15021
+S
+#15021
+A Cavernous Lair~
+The walls and ceiling of this lair are jagged and uneven.  The ceiling
+is about eight feet high, but long stalactites lessen that height
+considerably in places.  The floor is fairly smooth with mounds of
+straw and dried marsh grass in the northeast corner.  A small alcove
+marks the west wall and a twenty foot cliff to the south provides
+the only exit out.
+~
+150 9 4 0
+0 0 0 0
+0 0 0
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 15020
+S
+#15022
+Hovering Before a Cliff Face~
+You are floating approximately ten feet about a narrow ledge jutting
+from the face of the cliff.  An icy wind blows, sending a painful chill
+through your entire body.  The ice-covered rock of the mountain is a
+few feet in front of you, but there is little to hold onto at this
+point. A few feet above you appears to be another ledge.
+~
+150 4 10 7
+0 0 0 0
+0 0 0
+D4
+A narrow rocky ledge protrudes from the cliff face, about 5
+feet above you.
+~
+ ~
+ ~
+ ~
+1 -1 15023
+D5
+A narrow, rocky ledge protrudes from the cliff face 10 feet below you.
+~
+ ~
+ ~
+ ~
+1 -1 15017
+S
+#15023
+A Rocky Cliff Path~
+You carefully make your way along this icy cliff path.  The cold wind
+blows, sending a painful chill through your body.  A thundering
+waterfall to the west sprays the area with a light mist, causing ice
+to form on the surfaces of the rock.
+~
+150 4 5 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 15025
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 15024
+D5
+Another trail along the cliff face is twenty feet below you.  There
+are a few hand and foot holds, but you would have to fall about half
+the distance.  You judge you could safely make it down to the path,
+but could never climb back up this way.
+~
+ ~
+ ~
+ ~
+1 -1 15017
+S
+#15024
+A Rocky Cliff Path~
+You carefully make your way along this icy cliff path.  The cold wind
+blows, sending a painful chill through your body.  A thundering
+waterfall, a few yards to the west, sprays the area with a light mist,
+causing ice to form on the surfaces of the rock.
+~
+150 0 5 0
+0 0 0 0
+0 0 0
+D0
+A cave opens into the cliff to the north.  The wind blowing across the
+entrances causes an eerie howling sound.
+~
+ ~
+ ~
+ ~
+1 -1 15030
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 15023
+S
+#15025
+A Rocky Cliff Path~
+You carefully make your way along this icy cliff path.  The cold wind
+blows, sending a painful chill through your body.  A thundering
+waterfall to the west sprays the area with a light mist, causing ice
+to form on the surfaces of the rock.
+~
+150 0 5 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1224
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 15023
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 15026
+S
+#15026
+A Rocky Cliff Path~
+You carefully make your way along this icy cliff path.  The cold wind
+blows, sending a painful chill through your body.  A thundering
+waterfall to the west sprays the area with a light mist, causing ice
+to form on the surfaces of the rock.
+~
+150 0 5 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 15027
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 15025
+S
+#15027
+A Rocky Cliff Path~
+You carefully make your way along this icy cliff path.  The cold wind
+blows, sending a painful chill through your body.  A thundering
+waterfall to the west sprays the area with a light mist, causing ice
+to form on the surfaces of the rock.
+~
+150 0 5 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 15095
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 15026
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 15028
+S
+#15028
+A Rocky Cliff Path~
+You carefully make your way along this icy cliff path.  The cold wind
+blows, sending a painful chill through your body.  A thundering
+waterfall to the west sprays the area with a light mist, causing ice
+to form on the surfaces of the rock.
+~
+150 0 5 0
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 15029
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 15027
+S
+#15029
+A Rocky Cliff Path~
+You carefully make your way along this icy cliff path.  The cold wind
+blows, sending a painful chill through your body.  A thundering
+waterfall to the west sprays the area with a light mist, causing ice
+to form on the surfaces of the rock.
+~
+150 0 5 0
+0 0 0 0
+0 0 0
+D0
+A long, narrow corridor leads into darkness.  The faint sound of
+buzzing can be heard from inside.
+~
+ ~
+ ~
+ ~
+1 -1 15094
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 15028
+S
+#15030
+A Dark Cavern~
+The cavern tunnel of rough, jagged rock turns here, leading west and
+south. The floor is uneven and slanted, slowing your progress.  The
+smell of rotting flesh is strong from the west.
+~
+150 9 4 0
+0 0 0 0
+0 0 0
+D2
+Fresh, cold mountain air blows into the tunnel from the south.
+~
+ ~
+ ~
+ ~
+1 -1 15024
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 15031
+S
+#15031
+A Cavernous Lair~
+The tunnel that leads into this cave winds a bit before it empties into
+this larger cavern.  A ten foot wide alcove stands to the right of the
+cavern. The cavern itself is twenty feet long and twenty feet wide.
+Dried bones and marsh grass covers the cave floor.
+~
+150 9 4 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 15030
+S
+#15032
+A Giant Corridor~
+This huge tunnel is twenty feet wide and twenty feet high.  Colorful
+paintings of frost giants dot the corridor walls.  The paintings show
+the giants throwing large pieces of meat to various winged monsters.
+One scene shows a giant earth creature carving a cave in the side of
+cliff, while a chimera hovers above the cave entrance.
+~
+150 8 2 1
+0 0 0 0
+0 0 0
+D0
+The tunnel extends several more yards before ending at a set of huge
+double doors.
+~
+ ~
+$n continues farther into the tunnel.~
+Footfalls echo loudly throughout the corridor as $n arrives from the south.~
+1 -1 15033
+D2
+The tunnel opens onto a narrow rocky trail, high above the ground.
+~
+ ~
+$n leaves the massive tunnel.~
+$n has arrived from the giant corridor.~
+1 -1 15007
+S
+#15033
+A Giant Corridor~
+This tunnel ends to the north where a huge pair of double doors stands.
+They are made of sturdy wood and are crossed by iron bands.  Heavy iron
+pullrings, 14 inches in diameter, are centered on each door.  The pull-
+rings are at least nine feet from the ground.  Another eight feet above
+the pullrings, dark horizontal slits, each 14 inches wide by two feet
+high, have been cut into the center of each door.
+~
+150 8 2 1
+0 0 0 0
+0 0 0
+D0
+A pair of huge wooden doors, crossed by iron bands.
+~
+door doors huge wooden~
+ ~
+ ~
+1 5799 15034
+D2
+The tunnel extends many yards to the south.  You can see the opening
+at the cliff's face in the distance.
+~
+ ~
+$n walks down the giant corridor to the south.~
+Footfalls echo loudly throughout the corridor as $n arrives from the north.~
+1 -1 15032
+S
+#15034
+A Huge Chamber~
+Smooth stone walls rise up to a thirty foot high ceiling in this area.
+A large gem, embedded in the eastern wall, illuminates this massive,
+80 foot by 30 foot room.  Several giant-sized fur cloaks and vests hang
+from pegs along the south wall.  Three pairs of huge fur boots lie
+beneath the cloaks.  Several giant-sized weapons also line the south wall.
+Two wooden clubs and one hammer are on the floor, leaning against the
+wall. The chamber extends to the west.
+~
+150 8 0 7
+0 0 0 0
+0 0 0
+D0
+A giant wooden door is built into the north wall.
+~
+door wooden~
+ ~
+ ~
+1 -1 15036
+D2
+A pair of huge wooden doors, crossed by iron bands.
+~
+door doors huge wooden~
+ ~
+ ~
+1 5799 15033
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 15035
+E
+club clubs hammer weapon weapons~
+These weapons appear quite normal, except for the fact that they are
+huge. Nearly three times the size of human weapons, they are much
+to large and heavy to move.
+~
+E
+boots boot~
+These boots are even larger than they first appeared.  They are
+made from animal hide and lined with thick fur.  Judging from
+the size, you could almost fit inside one.
+~
+E
+vests vest~
+The vests are made of thick leather and lined with fur.  They appear
+to be heavily used and too cumbersome to carry with you.
+~
+E
+fur cloaks cloak~
+The fur cloaks appear to be made of bear hide and other mountain-
+dwelling animals.  The are far too heavy and cumbersome to move.
+~
+E
+gem~
+The gem is actually a glass bauble.  A continual light spell has been
+cast upon it to provide illumination in this room.  It is embedded in
+the wall 20 feet above the floor.
+~
+S
+#15035
+A Huge Chamber~
+Smooth stone walls rise up to a thirty foot high ceiling in this area.
+A large gem, embedded in the western wall, illuminates this massive,
+80 foot by 30 foot room.  Several giant-sized fur cloaks and vests hang
+from pegs along the south wall.  Three pairs of huge fur boots lie
+beneath the cloaks.  Several giant-sized weapons also line the south wall.
+Four iron-tipped spears, two bows and two quivers of arrows hang from
+pegs along with the cloaks.  The chamber extends to the east.
+~
+150 8 0 0
+0 0 0 0
+0 0 0
+D0
+A giant wooden door is built into the north wall.
+~
+door wooden~
+ ~
+ ~
+1 -1 15037
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 15034
+E
+spear spears bow bows arrow arrows quiver quivers weapon weapons~
+These weapons appear quite normal, except for the fact that they are
+huge. Nearly three times the size of human weapons, they are much
+to large and heavy to move.
+~
+E
+boots boot~
+These boots are even larger than they first appeared.  They are
+made from animal hide and lined with thick fur.  Judging from
+the size, you could almost fit inside one.
+~
+E
+vests vest~
+The vests are made of thick leather and lined with fur.  They appear
+to be heavily used and too cumbersome to carry with you.
+~
+E
+fur cloaks cloak~
+The fur cloaks appear to be made of bear hide and other mountain-
+dwelling animals.  The are far too heavy and cumbersome to move.
+~
+E
+gem~
+The gem is actually a glass bauble.  A continual light spell has been
+cast upon it to provide illumination in this room.  It is embedded in
+the wall 20 feet above the floor.
+~
+S
+#15036
+A Kitchen~
+A gigantic wooden table surrounded by four stools stands near
+the north wall.  In the southeast corner of the room, the carcass
+of a freshly slain moose lies on a high table.  A huge iron
+cleaver is imbedded in the table.  A pile of throwing boulders
+lies under the table.
+~
+150 8 0 0
+0 0 0 0
+0 0 0
+D0
+A large wooden door leads through the north wall.  The floor under it
+is wet.
+~
+door wooden~
+ ~
+ ~
+1 -1 15040
+D2
+A giant wooden door is built into the south wall.
+~
+door wooden~
+ ~
+ ~
+1 -1 15034
+D3
+A tall arched doorway leads into a common living area.
+~
+ ~
+ ~
+ ~
+1 -1 15038
+E
+cleaver~
+The cleaver is at least the size of your arm.  The blade is embedded
+several inches into the table surface.  The iron chopping tool must
+weight at least a hundred pounds.
+~
+E
+throwing boulders boulder pile~
+A pile of boulders, about two feet in diameter each, have been stacked
+under the table.
+~
+S
+#15037
+Common Room~
+Four crude chairs are arranged in a circle in the center of this room.
+A small pile of throwing boulders lies next to each chair.  Several
+torches light this clean room.  Color drawnings of flying creatures
+grace the smooth stone walls of this room.  Several large cockroaches
+scurry around near a door in the western wall.  There are wooden doors
+on the west and south walls and the room extends to the north.
+~
+150 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 15038
+D2
+A giant wooden door is built into the south wall.
+~
+door wooden~
+ ~
+ ~
+1 -1 15035
+D3
+A tall but narrow door leads through the west wall.
+~
+door wooden~
+ ~
+ ~
+1 -1 15039
+E
+pile piles boulder boulders throwing~
+A pile of boulders, about two feet in diameter each, have been stacked
+next to each chair.
+~
+E
+chair chairs~
+The chairs are made of wood.  The planks are slightly bent and warped,
+but have been worn very smooth of the years of use.  They are each
+huge compared to a human's chair, too heavy to move.
+~
+E
+drawing drawings color walls wall~
+These drawings are of a dragon, done in white chalk; a three-headed
+flying creature; a flying, lionlike creature that has a spiked tail
+and a man's face; and a large, eaglelike creature that has a lion's
+hindquarters.  There are several different  renditions of this last
+creature.
+~
+S
+#15038
+Common Room~
+Four crude chairs are arranged in a circle in the center of this room.
+A small pile of throwing boulders lies next to each chair.  Several
+torches light this clean room.  A color drawing of odd creatures
+grace the smooth stone walls of this room.  Several large cockroaches
+scurry around near a door in the western wall.  There is an open
+doorway in the east wall and the room extends to the south.
+~
+150 8 0 0
+0 0 0 0
+0 0 0
+D1
+A tall arched doorway leads into the kitchen.
+~
+ ~
+ ~
+ ~
+1 -1 15036
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 15037
+D3
+A huge wooden door is built into the stone wall.  A flickering light
+can be seen coming from underneath.
+~
+door wooden~
+ ~
+ ~
+1 -1 15044
+E
+drawing drawings chalk color walls wall~
+This drawing depicts a clifftop next to a waterfall.  The drawing
+shows a great wooden cage standing open atop the cliff.  A robed
+human stands near the open cage, his arms outstretched.  Several
+other large cages have been drawn in the background.  Each appears
+to hold a great winged creature of some sort.
+~
+E
+pile piles boulder boulders throwing~
+A pile of boulders, about two feet in diameter each, have been stacked
+next to each chair.
+~
+E
+chair chairs~
+The chairs are made of wood.  The planks are slightly bent and warped,
+but have been worn very smooth of the years of use.  They are each
+huge compared to a human's chair, too heavy to move.
+~
+S
+#15039
+Storage Room~
+Large boxes, sacks of grain, and huge kegs of ale are stacked here.
+Dozens of piles of furs, hides and sponges stand in piles around the room.
+There are wooden doors in the western and eastern walls.
+~
+150 9 0 0
+0 0 0 0
+0 0 0
+D1
+A tall but narrow door leads through the east wall.
+~
+door wooden~
+ ~
+ ~
+1 -1 15037
+D3
+The wooden door is rotting and discolored.
+~
+door wooden~
+ ~
+ ~
+1 -1 15093
+E
+furs fur hide hides sponge sponges pile piles~
+Thrown in piles with no apparent care for order.  The furs, hides and
+sponges are all too large for humans to use and too encumbersome to
+carry with you.
+~
+E
+sacks grain sack~
+Large sacks made of burlap and filled with corn, wheat and other grains
+are stacked in one of the corners.  You find nothing unusual about them
+except their size.  They weight about 500 pounds apiece.
+~
+S
+#15040
+Bathroom~
+A great fountain adorns the north wall of this huge, torch-lit room.
+Water gushes from the mouth of the three-dimensional relief.  The
+relief is of a bearded frost giant's head.  The icy water spills down
+into a semicircular, 30 foot wide pool.  A six foot high, smooth stone
+wall surrounds the pool.  An eight foot tall cylinder stands on the
+right side of the pool.  The floor around it is very wet and slippery.
+Two large, sheepskin-like pelts hang on pegs along the south wall.
+Large wooden doors lead out through the north and south walls.  The room
+extends to the west.
+~
+150 8 0 0
+0 0 0 0
+0 0 0
+D0
+A massive wooden door is built into the stone wall.
+~
+door wooden~
+ ~
+ ~
+1 -1 15042
+D1
+ ~
+panel~
+ ~
+ ~
+3 -1 15084
+D2
+A large wooden door leads through the south wall.
+~
+door wooden~
+ ~
+ ~
+1 -1 15036
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 15041
+E
+fountain relief~
+You can discover nothing else of interest about the fountain.
+~
+E
+pool~
+The pool is empty, except for the cold water.
+~
+E
+pillar cylinder~
+The pillar has a bowl-like depression in the top, which is used to
+hold soap.
+~
+S
+#15041
+Bathroom~
+A great fountain adorns the north wall of this huge, torch-lit room.
+Water gushes from the mouth of the three-dimensional relief.  The
+relief is of a bearded frost giant's head.  The icy water spills down
+into a semicircular, 30 foot wide pool.  A six foot high, smooth stone
+wall surrounds the pool.  An eight foot tall cylinder stands on the
+left side of the pool.  The floor around it is very wet and slippery.
+Two large, sheepskin-like pelts hang on pegs along the south wall.
+A large door leads out through the western wall and the room extends
+to the east.
+~
+150 8 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 15040
+D3
+A giant sized wooden door is built into the stone wall.
+~
+door~
+ ~
+ ~
+1 -1 15043
+S
+#15042
+The Inside Outhouse~
+A five foot high, five foot wide platform rises up ten feet against
+the south wall.  Two circular holes have been cut into the top of
+the wooden construction.  Each hole is three feet in diameter.
+~
+150 8 0 0
+0 0 0 0
+0 0 0
+D2
+A massive wooden door is built into the stone wall.
+~
+door wooden~
+ ~
+ ~
+1 -1 15040
+S
+#15043
+A Shadowy Hallway~
+The walls of this corridor are made of cold, smooth stone.  Shadows
+cast from the torches mounted in sconces dance about the area.
+Large cockroaches skitter about the floors, walls and ceiling.
+A door leads into the hallway from the east, and the corridor
+continues to the south.
+~
+150 8 0 0
+0 0 0 0
+0 0 0
+D1
+A giant sized wooden door is built into the stone wall.  The floor
+under the door is wet.
+~
+door~
+ ~
+ ~
+1 -1 15041
+D2
+The dark hallway continues a short distance to the south.  At the far
+end, are two doors; one on either side of the corridor.
+~
+ ~
+ ~
+ ~
+1 -1 15044
+S
+#15044
+A Shadowy Hallway~
+The walls of this corridor are made of cold, smooth stone.  Shadows
+cast from the torches mounted in sconces dance about the hallway.
+Large cockroaches skitter about the floor, walls and ceiling.
+Doors lead into the hallway from the east and west while the corridor
+continues to the north.
+~
+150 8 0 0
+0 0 0 0
+0 0 0
+D0
+The dark corridor continues a short distance to the north.  At the
+far end is a door on the east side.
+~
+ ~
+ ~
+ ~
+1 -1 15043
+D1
+A giant wooden door.
+~
+door~
+ ~
+ ~
+1 -1 15038
+D3
+A giant wooden door.
+~
+door~
+ ~
+ ~
+1 -1 15045
+S
+#15045
+A Bedroom/Workroom~
+Four beds covered by huge animal pelts stand along the walls of this
+room.  Three beds line the west wall, and one stands in the northeast
+corner.  Two large tables stand against the east wall.  A few stools
+rest before each table.  A large mastodon rug lies on the floor in the
+center of the room.  The walls and ceiling are beautifully painted with
+pictures of flying creatures and birds.
+~
+150 8 0 0
+0 0 0 0
+0 0 0
+D1
+A huge wooden door is built into the stone wall.  A flicking light
+comes from the other side.
+~
+door~
+ ~
+ ~
+1 -1 15044
+S
+#15046
+A Carved Tunnel~
+The walls and ceiling of this passageway appear to have been carved by
+an expert craftsman.  The floor is unfinished and bumpy as well as being
+covered with small rocks and rubble.  Thick dust hangs in the air and a
+layer of dirt covers everything.  Odd claw marks can be seen in the dirt.
+~
+150 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 15047
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 15006
+S
+#15047
+A Carved Tunnel~
+The walls and ceiling of this passageway appear to have been carved by
+an expert craftsman.  The floor is unfinished and bumpy as well as being
+covered with small rocks and rubble.  Thick dust hangs in the air and a
+layer of dirt covers everything.  Odd claw marks can be seen in the dirt.
+~
+150 9 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 15048
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 15046
+S
+#15048
+A Carved Tunnel~
+The walls and ceiling of this passageway appear to have been carved by
+an expert craftsman.  The floor is unfinished and bumpy as well as being
+covered with small rocks and rubble.  Thick dust hangs in the air and a
+layer of dirt covers everything.  Odd claw marks can be seen in the dirt.
+~
+150 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 15049
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 15047
+S
+#15049
+A Carved Tunnel~
+The walls and ceiling of this passageway appear to have been carved by
+an expert craftsman.  The floor is unfinished and bumpy as well as being
+covered with small rocks and rubble.  Thick dust hangs in the air and a
+layer of dirt covers everything.  Odd claw marks can be seen in the dirt.
+~
+150 9 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 15050
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 15048
+S
+#15050
+A Tunnel Intersection~
+Strange clicking noices come from deep within the cave.  The constant
+plop of dripping water comes from every direction.  Two rats run by
+and scurry toward the cave opening to the west.  You have reached a
+four-way intersection.  The main tunnel runs west to east while other
+tunnels lead off to the north and south.  The smaller tunnels seem to
+curve towards the east.
+~
+150 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 15051
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 15055
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 15053
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 15049
+S
+#15051
+A Narrow Tunnel~
+The carved and finished walls of this passageway seem to have been done
+by an expert craftsman.  The dirt and dust on the floor seems to be
+undisturbed.  This tunnel is only wide enough for one person to fit
+in at a time.
+~
+150 265 2 0
+0 0 0 0
+0 0 0
+D0
+ ~
+passage~
+ ~
+ ~
+3 -1 15092
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 15052
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 15050
+E
+dirt dust floor ground~
+After a closer inspection, you notice footprints in the dust.  They
+appear to be human, or at least human-sized.  They lead north towards
+the cavern wall, then disappear.
+~
+S
+#15052
+A Narrow Tunnel~
+The carved and finished walls of this passageway seem to have been done
+by an expert craftsman.  The dirt and dust on the floor seems to be
+undisturbed.  This tunnel is only wide enough for one person to fit
+in at a time.
+~
+150 525 2 0
+0 0 0 0
+0 0 0
+S
+#15053
+A Narrow Tunnel~
+The carved and finished walls of this passageway seem to have been done
+by an expert craftsman.  The dirt and dust on the floor seems to be
+undisturbed.  This tunnel is only wide enough for one person to fit
+in at a time.
+~
+150 265 2 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 15050
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 15052
+S
+#15054
+DELETE ME~
+The carved and finished walls of this passageway seem to have been done
+by an expert craftsman.  The dirt and dust on the floor seems to be
+undisturbed.  This tunnel is only wide enough for one person to fit
+in at a time.
+~
+150 781 2 0
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 15053
+S
+#15055
+A Dark Passageway~
+Just ahead of you, five large reptile skulls hang mysteriously in
+midair.  The walls here appear to have been carved by a skilled
+craftsman.  There are no seams or marks in the stone.  Clawed foot
+prints mark the floor to the east of the hanging skulls, leading
+down the tunnel into darkness.
+~
+150 9 2 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 15056
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 15050
+E
+skulls skull~
+Upon closer inspection of the skulls, you recognize them as hydra
+skulls.  You can now see that strong threads from the ceiling hold
+the skulls, making it appear as though they hang in mid air.
+~
+S
+#15056
+A Tunnel Branch~
+The walls here are slimy and cold.  The floor and ceiling are in much
+worse condition than the walls.  They have begun to crumble and crack.
+The main passage continues to the east and west while another tunnel
+branches off to the north.
+~
+150 9 2 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 15057
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 15059
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 15055
+S
+#15057
+A Dark Passageway~
+You are in a ten foot wide corridor carved from the natural stone of
+the mountain.  The floor is slick with water and oil.  The echoing
+of droplets of water landing in pools fills the area.  A wooden door
+stands at the far end of the tunnel.  Long claw marks mar the door's
+surface. The scratches start about 5 feet up the door and run all
+the way to the ground.
+~
+150 9 2 0
+0 0 0 0
+0 0 0
+D0
+The door is made of extremely thick oak.  Its surface is old and discolored.
+Large claw marks are visible on the lower half of the door.
+~
+door oak wooden~
+ ~
+ ~
+2 5799 15056
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 15056
+S
+#15058
+DELETE ME~
+The ground opens up beneath you... you fall.
+~
+150 13 2 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 15057
+S
+#15059
+A Cavernous Intersection~
+The smoothly carved tunnel from the west ends here.  The walls, floor
+and ceiling appear to be natural.  The cavern is rough and jagged in
+many places.  The floor is covered with a damp, thick clay.  The
+echoing screaches of a cave-dwelling monster set your heart pounding.
+~
+150 9 2 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 15066
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 15060
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 15056
+S
+#15060
+An Oil Filled Tunnel~
+The tunnel floor here is completely covered with thick, gooey oil.
+It is ankle deep and makes walking extremely difficult.  The
+cave turns here, leading to the north and east.  Strange clicking
+noises echo down the hallway from the east.
+~
+150 265 2 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 15059
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 15061
+S
+#15061
+Tunnel Fork~
+Oily clawed footprints extend toward the east and south here.  Oil
+drips into the tunnel from small cracks in the walls.  Shallow
+pools of oil lie on the cavern floor.  The sound of clicking grows
+slowly louder.
+~
+150 9 2 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 15062
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 15063
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 15060
+S
+#15062
+A Dark Cavern~
+The tunnel opens into a large, pear-shaped cavern.  The ceiling
+extends upwards until it is lost in the darkness.  The floor is
+covered with loose rocks and deep pits.  Small edges extend from
+the walls of the cave, too high up for you to reach.
+~
+150 9 2 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 15064
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 15061
+S
+#15063
+A Dark Cavern~
+The tunnel opens into a large, pear-shaped cavern.  The ceiling
+extends upwards until it is lost in the darkness.  The floor is
+covered with loose rocks and deep pits.  Small ledges extend from
+the walls of the cave, too high up for you to reach.
+~
+150 9 2 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 15061
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 15064
+S
+#15064
+A Rocky Lair~
+Narrow tunnels from the north and west lead into this large cavern.
+The sound of your footsteps echo loudly in your ears and the drops
+of water falling into small pools seems deafening to you.  Giant
+stalagmites stretch up into the darkness.
+~
+150 9 2 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 15062
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 15065
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 15063
+S
+#15065
+A Rocky Lair~
+Stalctites and stalagmites fill this odd-shaped cave.  A large pool
+of oil fills the eastern end of the cavern.  The darkness seems
+much more dense here, you can see only a few feet around you.  A
+blood-curdling squawk splits the eerie silence.
+~
+150 9 2 0
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 15064
+S
+#15066
+An Oily Passageway~
+The cave walls are very jagged here, twisting and turning in the
+general direction of north-south.  The floor is covered with ankle-
+deep oil.  The oil is seeping from cracks in the walls and ceiling.
+The tunnel is sloped downward to the north, making this a dangerous
+area.
+~
+150 9 2 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 15067
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 15059
+S
+#15067
+An Oily Passageway~
+The cave walls are very jagged here, twisting and turning in the
+general direction of east-south.  The floor is covered with ankle-
+deep oil.  The oil is seeping from cracks in the walls and ceiling.
+The tunnel is sloped downward to the east, making this a dangerous
+area.
+~
+150 9 2 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 15068
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 15066
+S
+#15068
+A Rocky Corridor~
+The cavern is fairly narrow here, with rocky protrusions jutting from
+the walls and ceiling.  The sound of running water echos softly
+throughout the cave.  The floor is damp and small pieces of rubbles
+lay scattered about.
+~
+150 9 2 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 15069
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 15067
+S
+#15069
+A Rocky Corridor~
+The cavern is fairly narrow here, with rocky protrusions jutting from
+the walls and ceiling.  The sound of running water echos softly
+throughout the cave.  The floor is damp and small pieces of rubbles
+lay scattered about.
+~
+150 9 2 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 15070
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 15068
+S
+#15070
+A Rocky Corridor~
+The cavern is fairly narrow here, with rocky protrusions jutting from
+the walls and ceiling.  The sound of running water echos softly
+throughout the cave.  The floor is damp and small pieces of rubbles
+lay scattered about.
+~
+150 9 2 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 15071
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 15069
+S
+#15071
+A Rocky Corridor~
+The cavern is fairly narrow here, with rocky protrusions jutting from
+the walls and ceiling.  The sound of running water echos softly
+throughout the cave.  The floor is damp and small pieces of rubbles
+lay scattered about.
+~
+150 9 2 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 15072
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 15070
+S
+#15072
+A Rocky Corridor~
+The cavern is fairly narrow here, with rocky protrusions jutting from
+the walls and ceiling. The sound of running water echos loadly
+throughout the cave. The floor is damp and small pieces of rubbles
+lay scattered about.
+~
+150 9 2 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 15074
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 15071
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 15073
+S
+#15073
+A Rocky Corridor~
+The cavern is fairly narrow here, with rocky protrusions jutting from
+the walls and ceiling. The sound of running water echos loudly
+throughout the cave.  The floor is covered with a thin coating of
+oil, making walking very dangerous.
+~
+150 9 2 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 973
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 15072
+S
+#15074
+A Rocky Corridor~
+The cavern is fairly narrow here, with rocky protrusions jutting from
+the walls and ceiling. The sound of running water echos loadly
+throughout the cave. The floor is damp and small pieces of rubbles
+lay scattered about.
+~
+150 13 2 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 15076
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 15075
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 15072
+S
+#15075
+A Clearing in the Cave~
+This is a rocky chamber, fairly round with apparently one exit to
+the north.  Black oil floods this area.  The oily slime coats the
+walls and ceiling, and the oil pools that stand on the floor are at
+least a foot deep.
+~
+150 9 6 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 15074
+S
+#15076
+A Rocky Corridor~
+The cavern is fairly narrow here, with rocky protrusions jutting from
+the walls and ceiling. The sound of running water echos loadly
+throughout the cave. The floor is damp and small pieces of rubbles
+lay scattered about.
+~
+150 9 2 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1665
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 15077
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 15074
+S
+#15077
+A Rocky Corridor~
+The cavern is fairly narrow here, with rocky protrusions jutting from
+the walls and ceiling.  The sound of running water echos softly
+throughout the cave.  The floor is damp and small pieces of rubbles
+lay scattered about.
+~
+150 9 2 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 15079
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 15078
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 15076
+S
+#15078
+A Rocky Corridor~
+The cavern is fairly narrow here, with rocky protrusions jutting from
+the walls and ceiling.  The sound of running water echos softly
+throughout the cave.  The floor is damp and small pieces of rubbles
+lay scattered about.
+~
+150 9 2 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 15077
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 15080
+S
+#15079
+Caved-In Tunnel~
+This passage is slightly wider than the others around it.  A huge
+pile of boulders has fallen from the ceiling, blocking off the north
+end. Water drips in through the cracks in the ceiling, creating small
+puddles around the room.
+~
+150 9 2 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 15077
+S
+#15080
+A Rocky Corridor~
+The cavern is fairly narrow here, with rocky protrusions jutting from
+the walls and ceiling.  The sound of running water echos softly
+throughout the cave.  The floor is damp and small pieces of rubbles
+lay scattered about.
+~
+150 9 2 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 15081
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 15078
+S
+#15081
+A Vast Cavern~
+You are in a roughly circular cavern chamber.  The ceiling is dome-shaped
+and rises to thirty feet at its center. Your slightest movements here
+echo loudly, making you nervous. The floor is cluttered with rubble.
+The southern wall has been reduced to a huge pile of boulders.
+~
+150 13 2 0
+0 0 0 0
+0 0 0
+D0
+A narrow tunnel leads out of the chamber into the darkness.
+~
+ ~
+ ~
+ ~
+1 -1 15080
+D2
+The southern wall appears to have been reduced to a pile of rubble,
+The stones near the top appear to be loose and some have been pushed
+away. It looks as though you could crawl through near the ceiling.
+~
+ ~
+$n climbs over some rubble along the southern wall into another chamber.~
+$n appears from a narrow space at the top of the rubble pile.~
+5 -1 15082
+E
+southern wall pile boulders rubble~
+The southern wall appears to have been reduced to a pile of rubble,
+The stones near the top appear to be loose and some have been pushed
+away. It looks as though you could crawl through near the ceiling.
+~
+S
+#15082
+Cavern of Statues~
+A huge pile of rocks and rubble clutter the north end of this tunnel.
+The east and west walls stand about twenty feet apart while the north
+and south ones are spaced nearly fourty feet apart. Standing in the
+thirty foot tall cavern are six humanoid statues of dark stone. They
+have vulture heads and single talons on the end of each arm. They all
+face south.
+~
+150 9 2 0
+0 0 0 0
+0 0 0
+D0
+The northern wall appears to have been reduced to a pile of rubble,
+The stones near the top appear to be loose and some have been pushed
+away. It looks as though you could crawl through near the ceiling.
+~
+ ~
+$n crawls up the pile of rocks and slips through a narrow opening.~
+$n appears froma narrow space along the top of the pile of rocks.~
+5 -1 15081
+D2
+The cavern narrows to a ten foot wide tunnel, leading south into darkness.
+~
+ ~
+$n disappears into the veil of darkness in the southern tunnel.~
+$n arrives from the narrow tunnel to the north.~
+1 -1 15083
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 981
+E
+statues statue~
+All the statues appear to be the remains of Hook Horrors.  They were
+turned to stone while in an attack formation.
+~
+E
+northern wall pile boulders rubble rocks~
+The northern wall appears to have been reduced to a pile of rubble,
+The stones near the top appear to be loose and some have been pushed
+away. It looks as though you could crawl through near the ceiling.
+~
+S
+#15083
+Dead-End Cavern~
+A short, ten foot wide tunnel leads from the cavern of statues to this
+30 foot wide dead-end cave.  A deep pool of water, partially covered by
+an oil slick, lies in the center of the cave.
+~
+150 13 2 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 15082
+S
+#15084
+A Secret Passage~
+You are in a ten foot wide corridor, made from large, smooth blocks
+of stone.  Small gems are set into the stone walls, glowing softly.
+They provide dim illumination in the area, but enough to see by.
+The tunnel extends to the south.
+~
+150 8 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 15085
+D3
+ ~
+passage~
+ ~
+ ~
+3 -1 15040
+S
+#15085
+A Secret Passage~
+You are in a ten foot wide corridor, made from large, smooth blocks
+of stone.  Small gems are set into the stone walls, glowing softly.
+They provide dim illumination in the area, but enough to see by.
+The tunnel extends to the north and east.
+~
+150 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 15084
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 15086
+S
+#15086
+A Secret Passage~
+You are in a ten foot wide corridor, made from large, smooth blocks
+of stone.  Small gems are set into the stone walls, glowing softly.
+They provide dim illumination in the area, but enough to see by.
+The tunnel extends to the south and west.
+~
+150 8 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 15087
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 15085
+S
+#15087
+A Secret Passage~
+You are in a ten foot wide corridor, made from large, smooth blocks
+of stone.  Small gems are set into the stone walls, glowing softly.
+They provide dim illumination in the area, but enough to see by.
+The tunnel continues to the north and south.
+~
+150 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 15086
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 15088
+S
+#15088
+A Secret Passage~
+You are in a ten foot wide corridor, made from large, smooth blocks
+of stone.  Small gems are set into the stone walls, glowing softly.
+They provide dim illumination in the area, but enough to see by.
+The corridor leads down a flight of stairs to the south and continues
+to the north.
+~
+150 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 15087
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 15089
+S
+#15089
+A Secret Passage~
+You are in a ten foot wide corridor, made from large, smooth blocks
+of stone.  Small gems are set into the stone walls, glowing softly.
+They provide dim illumination in the area, but enough to see by.
+The corridor leads up a flight of stairs to the north, and continues
+to the south.
+~
+150 8 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 15090
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 15088
+S
+#15090
+A Secret Passage~
+You are in a ten foot wide corridor, made from large, smooth blocks
+of stone.  Small gems are set into the stone walls, glowing softly.
+They provide dim illumination in the area, but enough to see by.
+The corridor continues to the north and south, and also branches off
+to the east.
+~
+150 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 15089
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1648
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 15091
+S
+#15091
+A Secret Passage~
+You are in a ten foot wide corridor, made from large, smooth blocks
+of stone.  Small gems are set into the stone walls, glowing softly.
+They provide dim illumination in the area, but enough to see by.
+A staircase leads down at the south end of the tunnel, and the
+corridor continues to the north.
+~
+150 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 15090
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 15092
+S
+#15092
+A Secret Passage~
+You stand at the base of a staircase in a ten foot wide passageway.
+The corridor is made from large, smooth blocks of stone.  The tunnel
+ends ten feet to the south.
+~
+150 8 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+passage~
+ ~
+ ~
+3 -1 15051
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 15091
+S
+#15093
+Boulder Cavern~
+A large pile of throwing boulders lies in the center of this cave.
+Webs fill the room from one end to the other.  Loose rocks lay
+scattered about the floor and the walls are marred where picks
+were used on them.
+~
+150 9 2 0
+0 0 0 0
+0 0 0
+D1
+An old rotted wooden door, covered with mold and spider webs.
+~
+door wooden~
+ ~
+ ~
+1 -1 15039
+S
+#15094
+A Rocky Chamber~
+A corridor of rough-hewn rock narrows slightly as it winds inward.
+After 40 feet, the corridor opens into a roughly circular cavern.
+The tunnel to the south appears to be the only exit out.  The
+sound of buzzing slowly grows louder.
+~
+150 9 5 0
+0 0 0 0
+0 0 0
+D2
+A long narrow corridor leads out to the cliff face.
+~
+ ~
+ ~
+ ~
+1 -1 15029
+S
+#15095
+A Dark Cavern~
+A tunnel leading from the cave opening leads back twenty feet and
+empties here into a thirty foot by thirty foot cavern chamber.  The
+ceiling is twelve feet high and slightly domed.
+~
+150 9 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 15027
+S
+#19999
+$~

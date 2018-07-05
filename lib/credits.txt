@@ -1,0 +1,42 @@
+Medievia was designed compatible outwardly with the standard Diku interface
+but medievia is not a diku mud inside or out.
+
+          DikuMud was originally developed by Katja Nyboe, Tom Madsen,
+        Hans Henrik Staerfeldt, Michael Seifert, and Sebastian Hammer.
+
+          A small bit of background of DikuMud, according to
+        Sebastian Hammer:
+
+        "The game originated at the Department of Computer Science at the
+        University of Copenhagen (in Danish: Datalogisk Institut ved
+        K|benhavns Universitet; or, amongst friends: DIKU) The foundations
+        of the code were laid out in March of 1990. Our background (Mud-wise)
+        was primarily Abermud (LpMud was just emerging at the time), and
+        our object was to make a better AberMud. We wanted to make it
+        fast, compact and CPU-efficient. We wanted to allow more than
+        the 18 (or so) players-at-a-time that AberMuds permitted in thos
+        days, and we wanted a bigger world, so that players could truly
+        get lost in there (back then, 500 room AberMuds seemed the norm).
+        Also, we wanted to make it more interesting for players to
+        cooperate, rather than just run madly around in search of beasts to
+        kill."
+
+The whole mud community, even non-diku types, have been affected by that 
+1990 release of diku code.  Since that time, with a fairly stable base 
+code to start with, Muds have sprung up all over Internet.  Even though 
+Medievia's code is different I doubt we would be here, if diku did not 
+make muds such a popular and easy to set up game.  I would like to thank 
+the whole diku team for their insight and their passion for the game.
+
+Medievia has been coded and recoded, re-thought and recoded again by 
+Vryce over the years.
+
+Our zones have been created by many many gods, many of which no longer 
+play the game.
+
+Today Medievia is owned, run  and coded by              Vryce
+RUNNING and managing all worlds, critters and stuff is	Shalafi
+
+All email about medievia should be directed to mkrause@netaxs.com
+
+Long Live Medievia

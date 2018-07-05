@@ -1,0 +1,5192 @@
+#261
+The Castle Stairs~
+You are on a grand staircase made of white marble. There is no railing, just
+steps spiraling upward towards an island of land. A huge chunk of earth
+looks as if it were torn from the ground and now floats above the City of
+Medievia. Far below you can see the city square and above you the stairs
+end at the entrance to a majestic castle on the island.
+~
+69 0 1 0
+0 0 0 0
+0 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 483
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 19017
+S
+#483
+Before the Castle~
+You are standing atop a huge staircase, stretching down hundreds of feet to
+the City of Medievia.  This landing is on the edge of a giant island in
+the sky.  In front of you is a magnificent castle, made of silvery-white
+stone, gleaming in the sunlight.  It has many high towers and spires of
+various heights.  A wide dirt road leads north to the castle's drawbridge.
+~
+69 0 2 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 491
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 261
+S
+#491
+On the Drawbridge~
+This is the main entranceway into the castle courtyard. It spans the
+twenty foot moat which surrounds the entire structure. Made of thick black
+wood, the drawbridge is wide and strong enough to support several horsemen
+side by side as well as large, heavy siege equipment. A high arched doorway
+stands open before you, providing passage through the castle's outer wall.
+~
+69 4 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 571
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 483
+D5
+You see a dark form swimming under the surface of the murky moat water.
+~
+ ~
+$n climbs over the edge of the drawbridge into the dark water.~
+$n jumps off the drawbridge from above, splashing water on you.~
+1 -1 2083
+S
+#548
+The Castle Courtyard~
+This is a large courtyard in front of Castle Medievia. High, stone walls
+are built on the east, west and south. To the north stands the majestic
+castle itself, gleaming in the sunlight. The ground is mostly dirt with
+little patches of grass growing sporadically. The courtyard continues to
+the north before ending at the castle doors. There's an open doorway built
+into the west wall, about ten feet wide and easily as tall. Looking up you
+see the battlements surrounding the walls.
+~
+69 4 2 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 550
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 571
+D3
+A large, slightly arched, doorway leads into a shadowy room built into
+the castle wall.  A waist high gate, made of wood, is open and tied
+secured with a rope and stake.
+~
+ ~
+ ~
+ ~
+1 -1 1182
+S
+#550
+The Castle Courtyard~
+This is a large courtyard in front of Castle Medievia. High, stone walls
+have been built on the east and west. To the north stands the majestic
+castle itself, gleaming in the sunlight. The ground is mostly dirt with
+little patches of grass growing sporadically. The courtyard continues to
+the south before ending at the gatehouse and drawbridge. Looking up you
+see the battlements surrounding the walls.
+~
+69 0 2 0
+0 0 0 0
+0 0 0
+D0
+A huge set of double doors.  The crest of Medievia has been
+carved into their surface.
+~
+door doors~
+$n enters the great Castle Medievia.~
+$n has entered the great Castle Medievia.~
+1 -1 967
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 548
+S
+#571
+Inside the Gatehouse~
+You are inside a wide stone hallway. A set of portcullis stands open at
+each end of the passage. The walls rise up at least twenty feet, forming
+an arched ceiling. An open doorway leads to a small room to the east.
+~
+69 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 548
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 574
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 491
+S
+#574
+A Guard Room~
+This is a small room, about ten by ten. The walls are made of stone as
+are the floor and the low ceiling. It is sparesly furnished, only a few
+wooden chairs and two small cots occupy the chamber. An open doorway leads
+to the west into the gatehouse passage.
+~
+69 8 0 0
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 571
+S
+#704
+The Hall of Statues~
+You are in a long, wide hallway, running north and south. The walls are
+made of light gray granite, rising fifteen feet, with several small
+alcoves along the east and west walls. A life size statue, carved from
+marble, occupies each alcove. The ceiling is curved, forming a half
+cylinder. Tall torch holders have been placed in between each alcove
+and provide a flickering light, causing strange and haunting shadows.
+~
+69 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1284
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2010
+S
+#782
+A Narrow Corridor~
+This hallway seems cramped and small compared with the spaceousness of
+the rest of the spire. The floor tiles have been carved from dull, gray
+stone; fit together with very tight seams.  Decorative, multi-colored
+wall hangings cover both sides of the corridor to reduce the draft.
+Three braziers burn with a purplish light, centered against the north, east
+and west walls.
+~
+69 8 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 887
+D5
+The outline of a trapdoor can be seen in the floor tiles.
+~
+trapdoor~
+$n climbs down through the trapdoor in the floor.~
+$n climbs down the ladder, through the trapdoor above you.~
+2 5799 2988
+S
+#804
+Standing On A Ledge~
+Digging your finger tips into the spaces between the stone blocks of the
+castle wall, and standing on your tip toes on the narrow ledge, you cling
+dangerously high above the ground.  Looking back over your shoulder, you can
+see the castle's moat far below.  You hold your breath and make a silent
+prayer to the gods as you inch your way along the protruding ledge.  It
+continues to the west and meets a large balcony to the east.
+~
+69 0 1 0
+0 0 0 0
+0 0 0
+D1
+A large balcony juts out from the castle wall to the east.
+~
+ ~
+$n climbs over the railing of the balcony to the east.~
+$n climbs over the railing onto the balcony.~
+1 -1 2072
+D3
+The ledge continues to the west.
+~
+ ~
+$n carefully inches $s way along the ledge to the west.~
+$n arrives from the east, carefully inching $s way along the ledge.~
+1 -1 881
+S
+#881
+Standing On A Ledge~
+Digging your finger tips into the spaces between the stone blocks of the
+castle wall, and standing on your tip toes on the narrow ledge, you cling
+dangerously high above the ground.  Looking back over your shoulder, you can
+see the castle's moat far below.  You hold your breath and make a silent
+prayer to the gods as you inch your way along the protruding ledge.  It
+meets a corner of the castle wall here, bending to the north and east.
+~
+69 0 1 0
+0 0 0 0
+0 0 0
+D0
+The ledge continues to the north.
+~
+ ~
+$n carefully in ches $s way along the ledge to the north.~
+$n arrives from the south, carefully inching $s way along the ledge.~
+1 -1 968
+D1
+The ledge continues to the east.
+~
+ ~
+$n carefully inches $s way along the ledge to the east.~
+$n arrives from the west, carefully inching $s way along the ledge.~
+1 -1 804
+S
+#887
+A Narrow Corridor~
+This hallway seems cramped and small compared with the spaceousness of
+the rest of the spire. The floor tiles have been carved from dull, gray
+stone; fit together with very tight seams. Decorative, multi-colored
+wall hangings cover both sides of the corridor to reduce the draft.
+Three braziers burn with a purplish light, centered against the south, east
+and west walls.
+~
+69 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 782
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 896
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 897
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 955
+S
+#896
+The Private Library~
+All four walls of this chamber are lined with wooden book cases. Their
+shelves strained under the weight of thousands of different kinds of books.
+Some appear to be mundane but most have been kept in pristine condition
+and are covered with golden binding, obviously the spell books of Vryce.
+A square table rests in the center of the room with a large, glowing orb
+hovering above it, illuminating the entire room. A padded leather chair
+is pushed in under the ornately carved stone table.
+~
+69 8 0 0
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 887
+S
+#897
+A Cluttered Laboratory~
+This is a large chamber made entirely of stone.  Various sized tables are
+placed all around the room, their tops covered with all sorts of curiosities.
+Many scrolls, potions, vials, wands and every imagineable magical trinket
+sits on one table or another.  One prominent stone table stands near the
+western wall.  A shimmering crystal orb sits at its center, glowing softly.
+~
+69 8 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 887
+E
+orb crystal ball~
+This orb is nearly three feet in diameter and composed of pure crystal.
+It rests on a circular stand, intricately carved from silver and inlaid with
+jewels. Inside the orb a swirling mass of smoke and mist churns and captures
+your gaze.
+~
+S
+#955
+A Meeting Chamber~
+In the middle of the west wall an elaborate fireplace is flanked by the carved
+effigies of lions which form the sides of the mantle.  Above the fire, a wall
+hanging depicts a gold dragon within a pentacle design.  On the right side
+of the fireplace hangs a large leash of black varnished leather, inset with
+small diamonds and golden studs.  A low table in front of the fire is
+accompanied by three large chairs forming a semicircle around this hearth.
+In the middle of the room is a larger table with an oversized silver dish.
+The silver platter holds several delicious pieces of ripe fruit.  In the
+southwest corner a steep and narrow staircase leads up into the darkness of
+the ceiling vault, fifteen feet above the floor.  In the center of the east
+wall is a spiral staircase leading down.  There is a computer here.
+~
+69 8 0 0
+0 0 0 0
+0 0 0
+D2
+A polished, heavy-looking oak door trimmed with bands of brass.
+~
+door oak~
+ ~
+ ~
+1 -1 992
+D4
+The stairs end at a heavy, stone trapdoor.
+~
+trapdoor~
+$n walks up the stairs and disappears through the trapdoor.~
+$n arrives through the trapdoor in the floor.~
+1 -1 993
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 887
+E
+game doom computer~
+                        \""""\,/""""\/""""\\""v`"/
+                         #.||.##.||.##.||.##., ,.#
+                         |.|| || ||.||.|| || |||.|
+                         | ||,/`\,,/`"\,,/`| |v| |
+                         | _-"---""----""--"-`-| |
+                         ^"                     "`
+~
+S
+#967
+Inside the Castle Doors~
+You stand inside a short tunnel-like hallway. The corridor walls extend
+approximately fifteen feet up then curve into a semi-circle to form the
+ceiling. To the north, the hall opens into a huge room. A set of stairs
+leads up on a slight incline. An artistically designed torch sconce is
+placed on either side of the hallway, at shoulder height. A torch flickers
+brightly in each, illuminating the corridor.
+~
+69 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 976
+D2
+A huge set of double doors.  The crest of Medievia has been carved
+into them.
+~
+door doors~
+$n exits the great Castle Medievia.~
+$n exits from the great Castle Medievia.~
+1 -1 550
+S
+#968
+Standing On A Ledge~
+Digging your finger tips into the spaces between the stone blocks of the
+castle wall, and standing on your tip toes on the narrow ledge, you cling
+dangerously high above the ground. Looking back over your shoulder, you can
+see a massive tower reaching up into the sky. The bottom half appears to
+have been destroyed, completely, and now the upper portion remains, floating
+in mid air above a lush green courtyard below.  A jagged-edged hole in the
+spire's outter wall lies directly behind you, only a few feet away. The
+ledge has crumbled away further to the north, making it impossible to
+continue.
+~
+69 4 1 0
+0 0 0 0
+0 0 0
+D2
+The ledge continues to the south where it bends around a corner in the castle
+wall.
+~
+ ~
+$n carefully inches $s way along the ledge to the south.~
+$n arrives from the north, carfully inching $s way along the ledge.~
+1 -1 881
+D3
+A small hole in the tower wall is directly to the west, it looks like you
+could jump through... if you're lucky.
+~
+ ~
+$n takes a deep breath and lunges through the hole to the west.~
+$n leaps in through a hole in the east wall, swaying dangerously on the staircase.~
+5 -1 3441
+E
+wall hole holes spire tower~
+A small hole in the tower wall is directly to the west, it looks like you
+could jump through... if you're lucky.
+~
+S
+#976
+On the Stairs~
+You are on a long staircase with a shallow incline. The steps are made
+from black marble with gleaming white streaks through it. The walls are
+a dull gray, reaching up extremely high until the ceiling is lost in the
+shadows. The stairs lead up to a majestic chamber of immense size. To the
+south, the hallway turns into a tunnel, going under one of the second story
+passageways. It has an open wall above this staircase which provides
+passers-by with an unobstructed view of the room to the north.
+~
+69 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 986
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 967
+S
+#986
+A Black Tiled Path~
+You are standing in an enormous room.  The walls stretch far out in each
+direction and the ceiling is lost in the shadows.  The floor here is tiled
+with smooth, glass-like black rocks, so pure of color that it almost appears
+you were levitating over a void.  Looking to the east and west, you are
+completely amazed by what you see.  Off the path to the east is a small forest
+and to the west the floor is completely gone, just air and clouds hover in
+the empty space of the chamber.
+~
+69 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 987
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1157
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 976
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1146
+S
+#987
+A Black Tiled Path~
+You are standing in an enormous room.  The walls stretch far out in each
+direction and the ceiling is lost in the shadows.  The floor here is tiled
+with smooth, glass-like black rocks, so pure of color that it almost appears
+you were levitating over a void.  Looking to the east and west, you are
+completely amazed by what you see.  Off the path to the east is a small forest
+and to the west the floor is completely gone, just air and clouds hover in
+the empty space of the chamber.
+~
+69 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1121
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1155
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 986
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1145
+S
+#988
+A Black Tiled Path~
+You are standing in an enormous room.  The walls stretch far out in each
+direction and the ceiling is lost in the shadows.  The floor here is tiled
+with smooth, glass-like black rocks, so pure of color that it almost appears
+you were levitating over a void.  Looking to the east and west, you are
+completely amazed by what you see.  Off the path to the east is a lake of
+crystal blue water and to the west is a lake of fire and molten lava.
+~
+69 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1153
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1204
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1120
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1170
+S
+#992
+A Lavish Bedchamber~
+This large chamber is occupied by an imposing four-poster bed against the
+south wall. Thick black curtains form a drawn canopy around the bed.
+Elaborately carved bedposts have been crafted in the shapes wild birds
+one an owl, a hawk, a raven and an eagle. At the four corners of the
+bed, adjacent to each post, silky red candles are set atop narrow wooden
+pedestals.
+A large chest rests on a table in the northwest corner of the chamber.
+On the east wall a finely rendered painting depicts a beautiful young
+woman with long, brown hair; her green-blue eyes flicker with passion and
+love. The figure in the painting is clothed in an embroidered velvet robe
+of a magic-user.
+~
+69 8 0 0
+0 0 0 0
+0 0 0
+D0
+A polished, heavy-looking oak door, trimmed with bands of brass.
+~
+door oak~
+ ~
+ ~
+1 -1 955
+S
+#993
+The Spire Lookout~
+This is a flat, circular platform atop the giant spire.  The open sky is
+above you and no railing protects you at the edge of the floor.  In all
+directions, the vast contryside is stretched out before you.  To the north
+your view follows the River Carthein as it weaves through dense forest on
+both sides.  Even farther, the majestic Mt. Vryce stands impassively at the
+source of the river, piercing the clouds.  At each cardinal direction, a thick
+column rises up seamlessly from the spire's outter wall and form a tall point
+over this platform, more than twenty feet above your head.  The echoing of
+a lion's roar can be heard in the distance.
+~
+69 8 0 0
+0 0 0 0
+0 0 0
+D5
+ ~
+trapdoor~
+$n descends through the trapdoor in the floor.~
+$n arrives from the stairs in the southwest corner.~
+1 -1 955
+S
+#1120
+A Black Tiled Path~
+You are standing in an enormous room.  The walls stretch far out in each
+direction and the ceiling is lost in the shadows.  The floor here is tiled
+with smooth, glass-like black rocks, so pure of color that it almost appears
+you were levitating over a void.  Looking to the east and west, you are
+completely amazed by what you see.  Off the path to the east is a lake of
+crystal blue water and to the west is a lake of fire and molten lava.
+~
+69 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 988
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1203
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1121
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1168
+S
+#1121
+An Intersection in the Chamber of Planes~
+You are standing in an enormous room. The walls stretch far out in each
+direction and the ceiling is lost in the shadows. This is an intersection
+of two black tiled pathways. One leading north-south, the other crosses it
+going east-west. Looking down you start in terror and awe. You are magically
+suspended over a great vortex. gray swirling mist spins rapidly, creating a
+great funnel cloud. Powerful bolts of lightning streak from the sides and
+explode with sparks and flames. Spectral images and windows to other worlds
+appear and disappear in an instant on the surface of the churning mists.
+~
+69 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1120
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1122
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 987
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1123
+S
+#1122
+A Black Tiled Path~
+You are standing in an enormous room. The walls stretch far out in each
+direction and the ceiling is lost in the shadows. The floor here is tiled
+with smooth, glass-like black rocks, so pure of color that it almost appears
+you were levitating over a void. Looking to the north and south, you are
+completely amazed by what you see. Off the path to the north is a lake of
+crystal blue water and to the south is a forest, growing indoors.
+~
+69 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1203
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1124
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1155
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1121
+S
+#1123
+A Black Tiled Path~
+You are standing in an enormous room. The walls stretch far out in each
+direction and the ceiling is lost in the shadows. The floor here is tiled
+with smooth, glass-like black rocks, so pure of color that it almost appears
+you were levitating over a void. Looking to the south and north, you are
+completely amazed by what you see. Off the path to the north is a lake of
+fire and molten lava, to the south the floor is entirely gone, just air
+and clouds hover in the empty space of the chamber.
+~
+69 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1168
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1121
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1145
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1125
+S
+#1124
+A Black Tiled Path~
+You are standing in an enormous room. The walls stretch far out in each
+direction and the ceiling is lost in the shadows. The floor here is tiled
+with smooth, glass-like black rocks, so pure of color that it almost appears
+you were levitating over a void. Looking to the north and south, you are
+completely amazed by what you see. Off the path to the north is a lake of
+crystal blue water and to the south is a forest, growing indoors.
+~
+69 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1201
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1163
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1156
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1122
+S
+#1125
+A Black Tiled Path~
+You are standing in an enormous room. The walls stretch far out in each
+direction and the ceiling is lost in the shadows. The floor here is tiled
+with smooth, glass-like black rocks, so pure of color that it almost appears
+you were levitating over a void. Looking to the south and north, you are
+completely amazed by what you see. Off the path to the north is a lake of
+fire and molten lava, to the south the floor is entirely gone, just air
+and clouds hover in the empty space of the chamber.
+~
+69 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1169
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1123
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1147
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1175
+S
+#1153
+On the Stairs~
+You are on a long staircase with a shallow incline. The steps are made
+from black marble with gleaming white streaks through it. The walls are
+a dull gray, reaching up extremely high till the ceiling is lost in the
+shadows. The stairs lead up to a large audience chamber. To the south, the
+hall opens up into a majestic chamber of immense size.
+~
+69 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1154
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 988
+S
+#1154
+The Audience Chamber~
+This is a large, open room with a high domed ceiling. Ancient tapestries
+of superb artistic design hang on the walls depicting the history of Medievia.
+The ceiling is made of colored glass, showing in great detail, a huge gold
+dragon. A magical light shines behind the glass, bathing the room in a soft
+glow. The only furnishings are a circular table made of wood in the center
+of the room, measuring at least twenty feet in diameter; and many chairs
+with comfortable padding on the seats arranged around the table.
+~
+69 8 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1153
+S
+#1163
+A Majestic Stone Corridor~
+This is an enormous hallway, more than fifteen feet wide and at least twenty
+feet high. The walls and ceiling are made of polished, charcoal colored
+granite. The floor tiles are hexagon shaped and made from a dull silver
+stone. Platinum chains hang from the ceiling, about five feet, with large
+spheres of flame attached to the end, burning brightly. The magical flames
+produce no smoke and brightly illuminate the passageway. The air is musty
+and irritates your lungs as your movement stirs up dust. You have an eerie
+feeling about this place as a chill runs up your spine.
+~
+69 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1180
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1164
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1124
+S
+#1164
+A Majestic Stone Corridor~
+This is an enormous hallway, more than fifteen feet wide and at least twenty
+feet high. The walls and ceiling are made of polished, charcoal colored
+granite. The floor tiles are hexagon shaped and made from a dull silver
+stone. Platinum chains hang from the ceiling, about five feet, with large
+spheres of flame attached to the end, burning brightly. The magical flames
+produce no smoke and brightly illuminate the passageway. The air is musty
+and irritates your lungs as your movement stirs up dust. You have an eerie
+feeling about this place as a chill runs up your spine.
+~
+69 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1163
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1165
+S
+#1165
+A Turn in the Corridor~
+This is an enormous hallway, more than fifteen feet wide and at least twenty
+feet high. The walls and ceiling are made of polished, charcoal colored
+granite. The floor tiles are hexagon shaped and made from a dull silver
+stone. Platinum chains hang from the ceiling, about five feet, with large
+spheres of flame attached to the end, burning brightly. The magical flames
+produce no smoke and brightly illuminate the passageway. The air is musty
+and irritates your lungs as your movement stirs up dust. You have an eerie
+feeling about this place as a chill runs up your spine.
+~
+69 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1164
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1166
+S
+#1166
+A Majestic Stone Corridor~
+This is an enormous hallway, more than fifteen feet wide and at least twenty
+feet high. The walls and ceiling are made of polished, charcoal colored
+granite. The floor tiles are hexagon shaped and made from a dull silver
+stone. Platinum chains hang from the ceiling, about five feet, with large
+spheres of flame attached to the end, burning brightly. The magical flames
+produce no smoke and brightly illuminate the passageway. The air is musty
+and irritates your lungs as your movement stirs up dust. You have an eerie
+feeling about this place as a chill runs up your spine.
+~
+69 8 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1165
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1173
+S
+#1167
+A Turn in the Corridor~
+This is an enormous hallway, more than fifteen feet wide and at least twenty
+feet high. The walls and ceiling are made of polished, charcoal colored
+granite. The floor tiles are hexagon shaped and made from a dull silver
+stone. Platinum chains hang from the ceiling, about five feet, with large
+spheres of flame attached to the end, burning brightly. The magical flames
+produce no smoke and brightly illuminate the passageway. The air is musty
+and irritates your lungs as your movement stirs up dust. You have an eerie
+feeling about this place as a chill runs up your spine.
+~
+69 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1174
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1172
+S
+#1172
+A Majestic Stone Corridor~
+This is an enormous hallway, more than fifteen feet wide and at least twenty
+feet high. The walls and ceiling are made of polished, charcoal colored
+granite. The floor tiles are hexagon shaped and made from a dull silver
+stone. Platinum chains hang from the ceiling, about five feet, with large
+spheres of flame attached to the end, burning brightly. The magical flames
+produce no smoke and brightly illuminate the passageway. The air is musty
+and irritates your lungs as your movement stirs up dust. You have an eerie
+feeling about this place as a chill runs up your spine.
+~
+69 8 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1173
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1167
+S
+#1173
+A Majestic Stone Corridor~
+This is an enormous hallway, more than fifteen feet wide and at least twenty
+feet high. The walls and ceiling are made of polished, charcoal colored
+granite. The floor tiles are hexagon shaped and made from a dull silver
+stone. Platinum chains hang from the ceiling, about five feet, with large
+spheres of flame attached to the end, burning brightly. The magical flames
+produce no smoke and brightly illuminate the passageway. The entire north wall
+is missing and a railing made of silver and polished to a shine stands at the
+edge of the floor. This open window provides an excellent view of the Chamber
+of Planes which stretches out before you. Just below you the entry hallway
+which leads to the vast chamber.
+~
+69 8 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1166
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1172
+S
+#1174
+A Majestic Stone Corridor~
+This is an enormous hallway, more than fifteen feet wide and at least twenty
+feet high. The walls and ceiling are made of polished, charcoal colored
+granite. The floor tiles are hexagon shaped and made from a dull silver
+stone. Platinum chains hang from the ceiling, about five feet, with large
+spheres of flame attached to the end, burning brightly. The magical flames
+produce no smoke and brightly illuminate the passageway. The air is musty
+and irritates your lungs as your movement stirs up dust. You have an eerie
+feeling about this place as a chill runs up your spine.
+~
+69 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1175
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1167
+S
+#1175
+A Majestic Stone Corridor~
+This is an enormous hallway, more than fifteen feet wide and at least twenty
+feet high. The walls and ceiling are made of polished, charcoal colored
+granite. The floor tiles are hexagon shaped and made from a dull silver
+stone. Platinum chains hang from the ceiling, about five feet, with large
+spheres of flame attached to the end, burning brightly. The magical flames
+produce no smoke and brightly illuminate the passageway. The air is musty
+and irritates your lungs as your movement stirs up dust. You have an eerie
+feeling about this place as a chill runs up your spine.
+~
+69 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1186
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1125
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1174
+S
+#1179
+A Turn in the Corridor~
+This is an enormous hallway, more than fifteen feet wide and at least twenty
+feet high. The walls and ceiling are made of polished, charcoal colored
+granite. The floor tiles are hexagon shaped and made from a dull silver
+stone. Platinum chains hang from the ceiling, about five feet, with large
+spheres of flame attached to the end, burning brightly. The magical flames
+produce no smoke and brightly illuminate the passageway. The air is musty
+and irritates your lungs as your movement stirs up dust. You have an eerie
+feeling about this place as a chill runs up your spine.
+~
+69 8 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1180
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1185
+S
+#1180
+A Majestic Stone Corridor~
+This is an enormous hallway, more than fifteen feet wide and at least twenty
+feet high. The walls and ceiling are made of polished, charcoal colored
+granite. The floor tiles are hexagon shaped and made from a dull silver
+stone. Platinum chains hang from the ceiling, about five feet, with large
+spheres of flame attached to the end, burning brightly. The magical flames
+produce no smoke and brightly illuminate the passageway. The air is musty
+and irritates your lungs as your movement stirs up dust. You have an eerie
+feeling about this place as a chill runs up your spine.
+~
+69 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1179
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1163
+S
+#1181
+A Turn in the Corridor~
+This is an enormous hallway, more than fifteen feet wide and at least twenty
+feet high. The walls and ceiling are made of polished, charcoal colored
+granite. The floor tiles are hexagon shaped and made from a dull silver
+stone. Platinum chains hang from the ceiling, about five feet, with large
+spheres of flame attached to the end, burning brightly. The magical flames
+produce no smoke and brightly illuminate the passageway. The air is musty
+and irritates your lungs as your movement stirs up dust. You have an eerie
+feeling about this place as a chill runs up your spine.
+~
+69 8 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1183
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1186
+S
+#1182
+The Stables~
+This is a spacious room built into the castle wall. The stone floor is
+covered with a layer of dirt, then a layer of straw. Several hooks have
+been secured to the walls, used to tether horses or other animals. A
+rickety wooden chair leans against the far corner, unoccupied.
+~
+69 8 0 0
+0 0 0 0
+0 0 0
+D1
+A large, slightly arched, doorway leads out into the castle courtyard.
+~
+ ~
+ ~
+ ~
+1 -1 548
+S
+#1183
+A Majestic Stone Corridor~
+This is an enormous hallway, more than fifteen feet wide and at least twenty
+feet high. The walls and ceiling are made of polished, charcoal colored
+granite. The floor tiles are hexagon shaped and made from a dull silver
+stone. Platinum chains hang from the ceiling, about five feet, with large
+spheres of flame attached to the end, burning brightly. The magical flames
+produce no smoke and brightly illuminate the passageway. The air is musty
+and irritates your lungs as your movement stirs up dust. You have an eerie
+feeling about this place as a chill runs up your spine.
+~
+69 8 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1184
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1181
+S
+#1184
+A Staircase in the Stone Corridor~
+This is an enormous hallway, more than fifteen feet wide and at least twenty
+feet high. The walls and ceiling are made of polished, charcoal colored
+granite. The floor tiles are hexagon shaped and made from a dull silver
+stone. Platinum chains hang from the ceiling, about five feet, with large
+spheres of flame attached to the end, burning brightly. The magical flames
+produce no smoke and brightly illuminate the passageway. To the north, a
+grand staircase begins its long climb to a landing high above you. The
+steps are actually built into the back of an enormous statue of a gold dragon.
+They begin at its tail and continue up its back, between the wings and exit
+through its horns atop the head at the second floor.
+~
+69 8 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1185
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1183
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 1205
+S
+#1185
+A Majestic Stone Corridor~
+This is an enormous hallway, more than fifteen feet wide and at least twenty
+feet high. The walls and ceiling are made of polished, charcoal colored
+granite. The floor tiles are hexagon shaped and made from a dull silver
+stone. Platinum chains hang from the ceiling, about five feet, with large
+spheres of flame attached to the end, burning brightly. The magical flames
+produce no smoke and brightly illuminate the passageway. The air is musty
+and irritates your lungs as your movement stirs up dust. You have an eerie
+feeling about this place as a chill runs up your spine.
+~
+69 8 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1179
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1184
+S
+#1186
+A Majestic Stone Corridor~
+This is an enormous hallway, more than fifteen feet wide and at least twenty
+feet high.  The walls and ceiling are made of polished, charcole colored
+granite. The floor tiles are hexagon shaped and made from a dull silver
+stone. Platinum chains hang from the ceiling, about five feet, with large
+spheres of flame attached to the end, burning brightly.  The magical flames
+produce no smoke and brightly illuminate the passageway.  The air is musty
+and irritates your lungs as your movement stirs up dust.  You have an eerie
+feeling about this place as a chill runs up your spine.
+~
+69 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1181
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1175
+S
+#1205
+Atop of the Dragon Staircase~
+You are in a large, square room. Each wall is about thirty feet in length
+and made of dull, gray stone. The floor is tiled with ivory colored
+flagstone and the seams have been filled in with a silver metal. The walls
+stand twenty feet high, meeting a ceiling of dark, nondescript stone.
+In each corner stands a five foot tall torch holder, made of silver and
+etched beautifully. To the north, a grand staircase begins its descent to
+a landing far below. The steps are actually built into the back of a huge
+statue of a gold dragon. They begin atop the head, just between the horns
+and follow the spine down between the wings and exit at the tip of the
+tail down on the lower landing.
+~
+69 8 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1214
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1206
+D3
+A heavy oaken door, banded with strips of iron.
+~
+door oaken~
+ ~
+ ~
+1 -1 2112
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 1184
+S
+#1206
+Entrance to the Museum~
+This is the entrance to Castle Medievias wonderous museum.  The floor is
+tiled with shiny white marble with highly contrasting night blue streaks
+running through it. The walls rise up approximately twenty feet before
+meeting the slightly dome shaped ceiling. Torch sconces worked from platinum
+line the walls, brightly illuminating the room with their burning contents.
+Displays of all sorts can be found within this museum.
+~
+69 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1205
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1209
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1213
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1210
+S
+#1209
+The Castle Museum~
+You wander, wide eyed, amongst the many displays here.  The floor is
+tiled with shiny white marble with highly contrasting night blue streaks
+running through it. The walls rise up approximately twenty feet before
+meeting the slightly dome shaped ceiling. Torch sconces worked from platinum
+line the walls, brightly illuminating the room with their burning contents.
+In the center of the room, on a small dias, is an ancient war banner.
+~
+69 8 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1211
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1206
+E
+banner war warbanner~
+On display here is Vryce's War Banner.  A truely awe inspiring piece of
+equipment. It is rumored that ages ago the gods created these extremly
+powerful items to aid mortals in their battles.
+~
+S
+#1210
+The Castle Museum~
+You wander, wide eyed, amongst the many displays here.  The floor is
+tiled with shiny white marble with highly contrasting night blue streaks
+running through it. The walls rise up approximately twenty feet before
+meeting the slightly dome shaped ceiling. Torch sconces worked from platinum
+line the walls, brightly illuminating the room with their burning contents.
+Weapons on all types hang prominantly on the walls and some of the more
+valuable ones have been placed in display cases on the floor.  One short
+sword in particular catches your eye, it seems to be the main artifact.
+~
+69 8 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1206
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1212
+E
+shortsword sword short display artifact~
+A magnificently crafted blade indeed.  The hilt is encrusted with sparkling
+gemstones and the blade glimmers in the torch light, displaying its
+delicate engravings.  This weapon is said to date back many years, before the
+Ages old Gods War.
+~
+S
+#1211
+The Castle Museum~
+You wander, wide eyed, amongst the many displays here.  The floor is
+tiled with shiny white marble with highly contrasting night blue streaks
+running through it. The walls rise up approximately twenty feet before
+meeting the slightly dome shaped ceiling. Torch sconces worked from platinum
+line the walls, brightly illuminating the room with their burning contents.
+~
+69 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1209
+D1
+A tall, but narrow, arched doorway built inconspicuously near the corner
+of the room leads to a wide corridor.
+~
+ ~
+$n leaves through the arched doorway in the corner.~
+$n arrives from the doorway to the west.~
+1 -1 1217
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1213
+S
+#1212
+An Art Gallery~
+You wander, wide eyed, amongst the many displays here.  The floor is
+tiled with shiny white marble with highly contrasting night blue streaks
+running through it. The walls rise up approximately twenty feet before
+meeting the slightly dome shaped ceiling. Torch sconces worked from platinum
+line the walls, brightly illuminating the room with their burning contents.
+This part of the museum is filled with paintings and tapestries, lining the
+walls and standing on several easels.  Most are a chronological depiction
+of Medievia's history, showing the creation of many new lands along with
+destruction of gods.
+~
+69 12 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1210
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1213
+E
+painting paintings display tapestry tapesries~
+You gaze upon the various works of art on display here.  In one painting,
+you see the great god Vryce calling upon the magical forces of creation
+as a vast swamp and forest rise up at his command.  A huge tapestry hanging
+on the south wall illustrates several gods and goddesses standing around
+a cowering lesser god as he is consumed in scorching flames.  One painting
+on the western wall catches your eye, it is of the mortal heros, Khanan
+and Pipeline, battling the arch lich Vecna in a frenzy of steel and magic.
+You shiver a little as the eyes on the painting seem to follow your movements.
+~
+S
+#1213
+The Castle Museum~
+You wander, wide eyed, amongst the many displays here.  The floor is
+tiled with shiny white marble with highly contrasting night blue streaks
+running through it. The walls rise up approximately twenty feet before
+meeting the slightly dome shaped ceiling. Torch sconces worked from platinum
+line the walls, brightly illuminating the room with their burning contents.
+On display in this room are various magical creations.  Staves, wands and
+a few potions and other lesser items.  One staff glows brightly as you
+approach.
+~
+69 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1206
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1211
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1212
+E
+staff display~
+It is an odd looking staff, covered with etchings of vines and the
+letter 'D'.  The staff belongs to Dionysos, the God of Wine.  These
+items, which could produce limitless magical effects, were once bestowed
+upon mortals who proved themselves to be deserving of such honor through
+quests.
+~
+S
+#1214
+A Wide Corridor~
+This is a wide corridor, slightly dusty from the infrequent use. The
+walls are made of dull gray stone and rise fifteen feet before meeting
+a ceiling of dark, nondescript stone. The floors are tiled with ivory
+colored flagstone and the seams have been filled in with a silver metal.
+~
+69 8 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1215
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1205
+S
+#1215
+A Wide Corridor~
+This is a wide corridor, slightly dusty from the infrequent use. The
+walls are made of dull gray stone and rise fifteen feet before meeting
+a ceiling of dark, nondescript stone. The floors are tiled with ivory
+colored flagstone and the seams have been filled in with a silver metal.
+~
+69 8 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1217
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1214
+S
+#1216
+A Wide Corridor~
+This is a wide corridor, slightly dusty from the infrequent use. The
+walls are made of dull gray stone and rise fifteen feet before meeting
+a ceiling of dark, nondescript stone. The floors are tiled with ivory
+colored flagstone and the seams have been filed in with a silver metal.
+~
+69 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1217
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1218
+S
+#1217
+A Wide Corridor~
+This is a wide corridor, slightly dusty from the infrequent use. The
+walls are made of dull grey stone and rise fifteen feet before meeting
+a ceiling of dark, nondescript stone. The floors are tiled with ivory
+colored flagstone and the seams have been filled in with a silver metal.
+~
+69 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1215
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1216
+D3
+A tall, but narrow, arched doorway leads into the Castle's Museum.
+~
+ ~
+$n disappears through the arched doorway into the museum.~
+$n casually walks into the museum and glances around at the displays.~
+1 -1 1211
+S
+#1218
+A Wide Corridor~
+This is a wide corridor, slightly dusty from the infrequent use. The
+walls are made of dull gray stone and rise fifteen feet before meeting
+a ceiling of dark, nondescript stone. The floors are tiled with ivory
+colored flagstone and the seams have been filled in with a silver metal.
+~
+69 8 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1216
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1219
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1282
+S
+#1219
+A Dining Hall~
+This is the largest dining room you have ever seen. The room stretches far
+to the east and a huge table runs down the entire length of the hall.
+Golden candelabras are placed along the table at regular intervals and
+fine china in addition to gold utensils are set at every seat. A cloth
+made of exquisite blue satin covers the delicate elven wood with which the
+table was made.
+~
+69 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1218
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1220
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1221
+S
+#1220
+A Dining Hall~
+This is the largest dining room you have ever seen. The room stretches far
+to the west and a huge table runs down the entire length of the hall.
+Golden candelabras are placed along the table at regular intervals and
+fine china in addition to gold utensils are set at every seat. A cloth
+made of equisite blue satin covers the delicate elven wood with which the
+table was made.
+~
+69 8 0 0
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1219
+S
+#1221
+A Large Kitchen~
+Most of this room is made of stone, with a polished hardwood floor around the
+entrance. Several large wood stoves line the walls, making this area very
+hot and uncomfortable. A fireplace is built into the west wall with a hearth
+extending into the room for roasting large animals. A small set of stairs lead
+into the pantry to the south.
+~
+69 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1219
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1229
+S
+#1229
+The Pantry and Storage Room~
+This is a large, yet still cramped, room.  Rows of cabinets line the
+walls filled with food and other cooking supplies.  Many sacks and barrels
+are stacked under the cabinets and in the corners of the room.  A strong
+odor fills the air, a mixture of spices, mead and many other kinds of food.
+~
+69 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1221
+S
+#1282
+The Bottom of a Curved, Marble Staircase~
+This is a wide corridor, slightly dusty from the infrequent use.  The
+walls are made of dull grey stone and rise fifteen feet before meeting
+a ceiling of dark, nondescript stone.  The floors are tiled with ivory
+colored flagstone and the seams have been filed in with a silver metal.
+A large staircase begins its long, shallow climb here, turning to the
+south as it nears the higher landing.  The steps are made of marble, the
+same color as the flagstone floor.  A polished wooden banister follows
+the stairs up on one side while the other side of the staircase is against
+the wall.
+~
+69 8 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1218
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2078
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 1284
+S
+#1284
+The Top of a Curved, Marble Staircase~
+This is a wide corridor, slightly dusty from the infrequent use. The
+walls are made of light grey stone and rise fifteen feet before meeting
+a ceiling of dark, nondescript stone. The floors are tiled with ivory
+colored flagstone and the seams have been filed in with a silver metal.
+A large staircase begins its long, shallow descent here, turning to the
+east as it nears the lower landing. The steps are made of marble, the
+same color as the flagstone floor. A polished wooden banister follows
+the stairs up on one side while the other side of the staircase is against
+the wall.
+~
+69 8 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 704
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 1282
+S
+#1629
+A Dark Cavern~
+The walls of this cavern are rough and jagged, causing you to stoop over and
+move slowly. The floor is sloped and covered with loose gravel and rubble.
+Stumbling along, you can barely see more than a few paces ahead of yourself.
+~
+69 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2992
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4471
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2367
+S
+#1926
+In Mid Air Above a Courtyard~
+Being extremely brave, and perhaps quite stupid, you step out the window onto
+nothing but air. The wind starts to rush up past you when your fall is suddenly
+halted. The shimmering outline of a bridge appears beneith you, saving you
+from a brutal, and very messy, demise. Two tall, round towers rise up on the
+east and west sides of the bridge. This bridge leads to a stained glass window
+in the side of each spire. Looking through the sparkling, wispy image of the
+bridge, you can see a courtyard filled with lush trees and exotic plants.
+~
+69 518 1 0
+0 0 0 0
+0 0 0
+D1
+You see a tall spire rising far into the sky.  A stained glass window built
+into the stone wall is to the east.
+~
+window~
+$n enters the window to the east.~
+$n climbs in through a window from the west.~
+1 -1 3440
+D3
+You see a tall spire rising far into the sky.  A stain glass window built in
+the stone wall of the tower is to the west.
+~
+window~
+ ~
+ ~
+1 -1 2400
+S
+#2009
+The Hall of Statues~
+You are in a long, wide hallway, running north and south. The walls are
+made of light gray granite, rising fifteen feet, with several small
+alcoves along the east and west walls. A life size statue, carved from
+marble, occupies each alcove. The ceiling is curved, forming a half
+cylinder. Tall torch holders have been placed in between each alcove
+and provide a flickering light, causing strange and haunting shadows.
+~
+69 12 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2010
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2072
+D3
+The statue is of a tall man in his late twenties.  He is dressed
+in finely tailored clothing and a thick mantle, embroidered with
+a bat, surrounds his body.  His hair is short and cut straight.
+Even as a statue, his eyes seem to penetrate your soul.
+~
+statue~
+ ~
+ ~
+4 -1 2011
+E
+statue statues~
+You recognize the statue in the west alcove as the Shalafi.
+~
+S
+#2010
+The Hall of Statues~
+You are in a long, wide hallway, running north and south. The walls are
+made of light gray granite, rising fifteen feet, with several small
+alcoves along the east and west walls. A life size statue, carved from
+marble, occupies each alcove. The ceiling is curved, forming a half
+cylinder. Tall torch holders have been placed in between each alcove
+and provide a flickering light, causing strange and haunting shadows.
+~
+69 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 704
+D1
+A tall oak door with carvings of a lush jungle on its surface stands
+nestled between two statues on the east wall.
+~
+door oak~
+ ~
+ ~
+1 -1 2073
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2009
+S
+#2011
+A Narrow Passageway~
+This is a cramped passageway with rough, unfinished walls.  It twists
+slightly and the floor is uneven and covered with a thick layer of
+dust. A strand of cobweb hits you in the face as you make your way through
+this narrow tunnel.
+~
+69 9 0 0
+0 0 0 0
+0 0 0
+D1
+The tunnel ends here and a smooth stone wall stands to the east.  Through
+the dust and cobwebs you can make out several long cracks.
+~
+door~
+$n leaves through a secret passage in the east wall.~
+$n appears from a secret passage behind one of the statues.~
+4 -1 2009
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2067
+E
+cracks~
+Brushing away some of the dust, you notice the cracks form the outline of
+a door.
+~
+S
+#2067
+A Narrow Passageway~
+This is a cramped passageway with rough, unfinished walls.  It twists
+slightly and the floor is uneven and covered with a thick layer of
+dust. A strand of cobweb hits you in the face as you make your way through
+this narrow tunnel.  This passage ends abruptly at an immovable pile of
+stones to the west, they fill the tunnel from floor to ceiling.
+A carved, stone archway exits north into a large chamber.
+~
+69 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2069
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2011
+S
+#2069
+Medievia War Room~
+You walk into a massive chamber made entirely of stone.  Several tables and
+chairs have been placed around the room.  On all the walls hang huge
+tapestries woven into maps of many lands, some not even found on this plane
+of existence.  One prominent table in the center of the room displays a scale
+map of the entire continent of Medievia; you stare in awe at the intricate
+detail. Empty suits of armor stand on display in each corner, polished and
+kept in excellent condition from ages past.
+You see a large table with a deep bowl shape dug into its solid granite
+center. Inscribed on the table is a sign.
+~
+69 12 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2713
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2067
+E
+sign~
+TO TURN EGGS IN TYPE  fill     to fill the bowl
+TO LIST REWARDS type LIST
+TO GET A REWARD type OFFER #eggs
+TO GET YOUR CURRENT TALLY type ASK
+TO ask the wizard to try and locate catacombs, TYPE WHERE
+~
+S
+#2072
+A Large Balcony~
+You are on a large balcony, extending from the front of Castle Medievia.
+The floor is made of white marble tiles and has been kept clean and new
+looking, despite the weather and passage of time. A waist high railing
+surrounds this semi-circular platform, also made of white marble. The
+posts are ornately carved as are the banisters sides, with a wide, flat
+top. Looking out, you see a stunning view of the castle courtyard and
+surrounding floating island. Further out, you can see the entire city of
+Medievia as well as the countryside stretched out before you.  Decorative
+ivy is growing along the wall above you, reaching upwards.
+~
+69 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2009
+D3
+An ornately carved banister surrounds the balcony.  Beyond it you can see the
+castle wall reaching to the west; a small decorative ledge protrudes from
+it.
+~
+ ~
+$n climbs over the railing onto a dangerously narrow ledge.~
+$n climbs out onto the ledge cautiously from the balcony.~
+1 -1 804
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 3446
+S
+#2073
+An Arched Corridor~
+This is a fairly wide and tall hallway with an arching ceiling of white
+granite. The floor is made of matching stone and grinded smooth.  The
+walls are straight and flawless white marble, with no visible seams.  The
+humidy is noticably higher than normal here and you feel a warm air coming
+from the east.
+~
+69 8 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2074
+D3
+A tall oak door with hanging vines carved into the surface.
+~
+door oak~
+ ~
+ ~
+1 -1 2010
+S
+#2074
+An Arched Corridor~
+This is a fairly wide and tall hallway with an arching ceiling of white
+granite. The floor is made of matching stone and grinded smooth.  The
+walls are straight and flawless white marble, with no visible seams.  The
+humidy is noticably higher than normal here and you feel a warm air coming
+from the east.  The east end of the hallway ends in a curtain of hanging,
+green vines.
+~
+69 8 0 0
+0 0 0 0
+0 0 0
+D1
+A thick, lush veil of vines and other hanging plants blocks your view.
+~
+ ~
+$n brushes the vines aside to the east and walks through.~
+$n pushes the vines aside from the western hallway as $e enters.~
+1 -1 2076
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2073
+S
+#2076
+The Public Bath~
+You are in a spacious room surrounded by a light mist that fills this air.
+The ceiling is composed entirely of glass which lets in the sunlight by day,
+and silvery moonlight at night. The walls and corners of the floor are
+completely covered with plants, thriving on the light and steam. A large,
+round pool is built into the floor at the center of the room, filled with
+hot, soothing water. A carved, marble fountain at the east side of the
+bath feeds it with a constant supply of hot, bubbling water.
+~
+69 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2081
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2082
+D3
+A beautiful display of vines and hanging plants, resembling a waterfall.
+~
+ ~
+$n disappears through the thick covering of vines to the west.~
+$n pushes the vines aside as $e arrives from the east.~
+1 -1 2074
+E
+statue marble carved~
+The statue is that of a young mage, dressed in traditional robes and carrying
+a staff.  One of his arms is stretched forward and he has the staff raised
+in the air.  The water feeding the pool originates at the statue's hand, as
+if he were casting a powerful spell.
+~
+S
+#2077
+A Dim Hallway~
+This is a fairly narrow hallway, illuminated by one mere torch against the west
+wall. The floor is tiled with a dull grey flagstone and the walls and ceiling
+match with the same bland color.  A few cobwebs can be seen clinging in the
+corners where the walls meet the ceiling.  There are doorways to the north
+and south, and the hall continues to the east.
+~
+69 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2079
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2078
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2080
+S
+#2078
+A Narrow Hall Under the Stairs~
+This is a narrow hallway with a low ceiling. You have to duck your head
+slightly to avoid bumping into it. The walls and ceiling are made of a plain
+gray brick and the floor is tiled with black flagstone. Little light
+from the ends of the corridor filter into here, leaving it shrouded in
+darkness.
+~
+69 9 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1282
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2077
+S
+#2079
+A Servants Quarters~
+The chamber is sparesly decorated, containing only the neccessities.  A
+unmade bed is pushed into one corner, the matress starting to droop in the
+center. A wooden chest is at the foot of the bed, filled with personal
+belongings. A waist-height chest of drawers has its back against another wall,
+used for storing the occupants clothing.
+~
+69 8 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2077
+S
+#2080
+A Servants Quarters~
+The chamber is sparesly decorated, containing only the neccessities.  A
+unmade bed is pushed into one corner, the matress starting to droop in the
+center. A wooden chest is at the foot of the bed, filled with personal
+belongings. A waist-height chest of drawers has its back against another wall,
+used for storing the occupants clothing.
+~
+69 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2077
+S
+#2081
+An Elegant Guest Chamber~
+This room is warm and cozy. A plush bed sits in the northeast corner, covered
+by beautiful blankets and quilts.  Majestic tapestries depicting strange
+creatures and dazling battles of powerful magic line the walls, and thick fur
+rugs carpet the floor. Gems set into the walls illuminate the chamber.
+~
+69 8 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2076
+S
+#2082
+An Elegant Guest Chamber~
+This room is warm and cozy. A plush bed sits in the southeast corner, covered
+by beautiful blankets and quilts. Majestic tapestries depicting strange
+creatures and dazling battles of powerful magic line the walls, and thick fur
+rugs carpet the floor. Gems set into the walls illuminate the chamber.
+~
+69 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2076
+S
+#2083
+Under the Drawbridge~
+You are floating above the thick, murky waters of the moat surrounding Castle
+Medievia. It is almost twenty feet wide and you have no way to judge its
+depth. Water plants and clumps of mud float by in the green, slimy muck.
+Steep muddy cliffs are to the north and south, too difficult to climb up
+and the castle drawbridge is directly above you.
+~
+69 0 7 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2084
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2107
+D4
+ ~
+ ~
+$n climbs up onto the drawbridge.~
+$n struggles as $e pulls $mself out of the moat.~
+1 -1 491
+S
+#2084
+In the Moat~
+You are above the thick, murky water of a moat. Almost twenty feet wide
+and too deep to tell, this moat surrounds Castle Medievia. The castle
+wall comes right down to the waters edge to the north and a steep muddy
+cliff rises up on the south side, making it too difficult to climb out.
+Vegetation and other debris, such as clumps of mud and branches, float by
+and you have the eerie feeling something is swimming beneath the surface.
+~
+69 0 7 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2085
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2083
+S
+#2085
+In the Moat~
+You are above the thick, murky water of a moat. Almost twenty feet wide
+and too deep to tell, this moat surrounds Castle Medievia. The corner of
+the castle wall meets the waters edge to the northwest and a steep muddy
+cliff rises up on the south and east sides, making it impossible to climb out.
+Vegetation and other debris, such as clumps of mud and branches, float by
+and you have the eerie feeling something is swimming beneath the surface.
+~
+69 0 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2089
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2084
+S
+#2086
+In the Moat~
+You are above the thick, murky water of a moat. Almost twenty feet wide
+and too deep to tell, this moat surrounds Castle Medievia. The corner of
+the castle wall meets the waters edge to the southwest and a steep muddy
+cliff rises up on the north and east sides, making it impossible to climb out.
+Vegetation and other debris, such as clumps of mud and branches, float by
+and you have the eerie feeling something is swimming beneath the surface.
+~
+69 0 7 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2087
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2102
+S
+#2087
+In the Moat~
+You are above the thick, murky water of a moat. Almost twenty feet wide
+and too deep to tell, this moat surrounds Castle Medievia. The castle
+wall comes right down to the waters edge to the west and a steep muddy
+cliff rises up on the east side, making it too difficult to climb out.
+Vegetation and other debris, such as clumps of mud and branches, float by
+and you have the eerie feeling something is swimming beneath the surface.
+~
+69 0 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2086
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2088
+S
+#2088
+In the Moat~
+You are above the thick, murky water of a moat. Almost twenty feet wide
+and too deep to tell, this moat surrounds Castle Medievia. The castle
+wall comes right down to the waters edge to the west and a steep muddy
+cliff rises up on the east side, making it too difficult to climb out.
+Vegetation and other debris, such as clumps of mud and branches, float by
+and you have the eerie feeling something is swimming beneath the surface.
+~
+69 0 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2087
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2089
+S
+#2089
+In the Moat~
+You are above the thick, murky water of a moat. Almost twenty feet wide
+and too deep to tell, this moat surrounds Castle Medievia. The castle
+wall comes right down to the waters edge to the west and a steep muddy
+cliff rises up on the east side, making it too difficult to climb out.
+Vegetation and other debris, such as clumps of mud and branches, float by
+and you have the eerie feeling something is swimming beneath the surface.
+~
+69 0 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2088
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2085
+S
+#2098
+In the Moat~
+You are above the thick, murky water of a moat. Almost twenty feet wide
+and too deep to tell, this moat surrounds Castle Medievia. The corner of
+the castle wall meets the waters edge to the southeast and a steep muddy
+cliff rises up on the north and west sides, making it impossible to climb out.
+Vegetation and other debris, such as clumps of mud and branches, float by
+and you have the eerie feeling something is swimming beneath the surface.
+~
+69 0 7 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2100
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2106
+S
+#2100
+In the Moat~
+You are above the thick, murky water of a moat. Almost twenty feet wide
+and too deep to tell, this moat surrounds Castle Medievia. The castle
+wall comes right down to the waters edge to the north and a steep muddy
+cliff rises up on the south side, making it too difficult to climb out.
+Vegetation and other debris, such as clumps of mud and branches, float by
+and you have the eerie feeling something is swimming beneath the surface.
+~
+69 0 7 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2101
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2098
+S
+#2101
+In the Moat~
+You are above the thick, murky water of a moat. Almost twenty feet wide
+and too deep to tell, this moat surrounds Castle Medievia. A steep, muddy
+cliff rises up on the south side, making it too difficult for you to climb out.
+Vegetation and other debris, such as clumps of mud and branches, float by
+and you have the eerie feeling something is swimming beneath the surface.
+A small piece of land juts out from the castle wall on the north side.  Tall
+weeds grow from the swampy ground.
+~
+69 0 6 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2102
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2100
+D5
+A rotted wooden hatch leads down into the swampy ground.
+~
+hatch~
+$n squirms into the tight passage below the hatch.~
+$n crawls into the passage from above you.~
+4 -1 3009
+E
+ground swamp swampy weeds weed~
+The ground here is very moist and muddy.  Peering through the weeds at the
+grass, you see patches of it torn up in places.  A hatch can be seen under
+a piece of loose sod.
+~
+S
+#2102
+In the Moat~
+You are above the thick, murky water of a moat. Almost twenty feet wide
+and too deep to tell, this moat surrounds Castle Medievia. The castle
+wall comes right down to the waters edge to the north and a steep muddy
+cliff rises up on the south side, making it too difficult to climb out.
+Vegetation and other debris, such as clumps of mud and branches, float by
+and you have the eerie feeling something is swimming beneath the surface.
+~
+69 0 7 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2086
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2101
+S
+#2103
+In the Moat~
+You are above the thick, murky water of a moat. Almost twenty feet wide
+and too deep to tell, this moat surrounds Castle Medievia. The corner of
+the castle wall meets the waters edge to the northeast and a steep muddy
+cliff rises up on the south and west sides, making it impossible to climb out.
+Vegetation and other debris, such as clumps of mud and branches, float by
+and you have the eerie feeling something is swimming beneath the surface.
+~
+69 0 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2104
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2107
+S
+#2104
+In the Moat~
+You are above the thick, murky water of a moat. Almost twenty feet wide
+and too deep to tell, this moat surrounds Castle Medievia. The castle
+wall comes right down to the waters edge to the east and a steep muddy
+cliff rises up on the west side, making it too difficult to climb out.
+Vegetation and other debris, such as clumps of mud and branches, float by
+and you have the eerie feeling something is swimming beneath the surface.
+~
+69 0 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2105
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2103
+S
+#2105
+In the Moat~
+You are above the thick, murky water of a moat. Almost twenty feet wide
+and too deep to tell, this moat surrounds Castle Medievia. The castle
+wall comes right down to the waters edge to the east and a steep muddy
+cliff rises up on the west side, making it too difficult to climb out.
+Vegetation and other debris, such as clumps of mud and branches, float by
+and you have the eerie feeling something is swimming beneath the surface.
+~
+69 0 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2106
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2104
+S
+#2106
+In the Moat~
+You are above the thick, murky water of a moat. Almost twenty feet wide
+and too deep to tell, this moat surrounds Castle Medievia. The castle
+wall comes right down to the waters edge to the east and a steep muddy
+cliff rises up on the west side, making it too difficult to climb out.
+Vegetation and other debris, such as clumps of mud and branches, float by
+and you have the eerie feeling something is swimming beneath the surface.
+~
+69 0 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2098
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2105
+S
+#2107
+In the Moat~
+You are above the thick, murky water of a moat. Almost twenty feet wide
+and too deep to tell, this moat surrounds Castle Medievia. The castle
+wall comes right down to the waters edge to the north and a steep muddy
+cliff rises up on the south side, making it too difficult to climb out.
+Vegetation and other debris, such as clumps of mud and branches, float by
+and you have the eerie feeling something is swimming beneath the surface.
+~
+69 0 7 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2083
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2103
+S
+#2108
+The Base of a Circular Stairwell~
+This is the base of a tall round tower, completely hollow in the center.
+A staircase spirals up towards the ceiling, you get dizzy following its
+accent. No railing is attacked to the narrow staircase, making it look
+even more treaterous. A thick layer of dust covers every surface in this
+room, attesting to its age and unuse. Even your smallest movements seem to
+echo unnaturally here.
+~
+69 8 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2112
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 2110
+S
+#2109
+Top of a Circular Stairwell~
+This is the top of a tall round tower, completely hollow in the center.
+A staircase spirals down towards the floor, you get dizzy following its
+descent. No railing is attached to the narrow staircase, making it look
+even more trecherous. A thick layer of dust covers every surface in this
+room, attesting to its age and unuse. Even your smallest movements seem to
+echo unnaturally here.
+~
+69 8 0 0
+0 0 0 0
+0 0 0
+D2
+A massive oaken door, standing fifteen feet tall and ten feet wide. It's
+decorated with golden studs and bands.
+~
+door~
+ ~
+ ~
+1 -1 2448
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 2110
+S
+#2110
+In a Circular Stairwell~
+Half way up the inside of a large, round tower, you stand on the staircase
+which spirals up the wall like a gigantic snake coiled around its prey.
+No railing protects you from the empty space in the center of the tower.
+Several windows are spaced along the stairs path, providing you with a
+panoramic view of the west side of the floating island as well as the city
+below.
+~
+69 8 0 0
+0 0 0 0
+10 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 2109
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 2108
+S
+#2112
+A Dark, Narrow Corridor~
+This is a narrow corridor, covered with dust and filled with cobwebs.  The
+walls are made of dull gray stone and rise fifteen feet before meeting
+a ceiling of dark, nondescript stone.  The floors are tiled with ivory
+colored flagstone and the seams have been filled in with a silver metal.
+~
+69 8 0 0
+0 0 0 0
+0 0 0
+D1
+A heavy oaken door, banded by strips of iron.
+~
+door oaken~
+ ~
+ ~
+1 -1 1205
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2108
+S
+#2113
+In a Dark Stone Shaft~
+This is a dark stone tunnel, leading straight up and down.  A spiral, metal
+staircase has become rusted from the damp air and creaks loudly as you
+step on it.  The walls of the cavern are smooth which betrays this was
+created by someone and is not natural.  You can see a faint light above
+you but the stairs continue deep into the island below.
+~
+69 13 0 0
+0 0 0 0
+5 0 0
+D4
+You can see a thin crack of light outlining a hatch above you.
+~
+hatch~
+The dark shaft is flooded with light as $n opens the hatch and leaves.~
+$n climbs up out of a trapdoor in the ground.~
+1 -1 1158
+D5
+You can see nothing but complete darkness.
+~
+ ~
+You hear the creaks of the stairs echoing up as $n proceeds down them.~
+The loud creaks and groans of the stairs echo throughout the tunnel as $n comes down.~
+1 -1 2366
+S
+#2366
+In a Dark Stone Shaft~
+This is a dark stone tunnel, leading straight up and down.  A spiral, metal
+staircase has become rusted from the damp air and creaks loudly as you
+step on it.  The walls of the cavern are smooth which betrays this was
+created by someone and is not natural. You can not see even the faintest
+light above or below you.
+~
+69 9 0 0
+0 0 0 0
+5 0 0
+D4
+You can see nothing but complete darkness.
+~
+ ~
+$n continues up the old, decaying staircase.~
+$n arrives from below, accompanied by the loud creaks of the stairs.~
+1 -1 2113
+D5
+You can see nothing but complete darkness.
+~
+ ~
+$n cautiously continues down the stairs.~
+The old steps creak loudly as $n walks down them into the cavern.~
+1 -1 2367
+S
+#2367
+Base of a Dark Stone Shaft~
+This is a small room at the bottom of a long tunnel, leading straight up.
+A spiral staircase, rusted and decaying with age, creaks loudly as you step
+on it.  The walls of the shaft are smooth but they become rough as they
+meet this cavern.  A rocky, natural cave floor is under you, extending to
+the north.
+~
+69 9 4 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1629
+D4
+You can see nothing but complete darkness.
+~
+ ~
+$n starts up the staircase cautiously, wincing slightly as the steps creak.~
+$n arrives from below, accompanied by the groans of the stairs.~
+1 -1 2366
+S
+#2400
+In a Tall Spire~
+You are on the inside of a tall, hollow spire, reaching far into the sky.
+Standing on a narrow staircase protruding from the wall, nothing protects
+you from tripping over the edge and plumetting to the unforgiving floor
+below. Glancing up you immediately get dizzy by the height of this tower.
+Several stained glass windows have been placed in the tower walls, spiralling
+upwards, following the stairway. Unconsciously you find yourself with your
+back pressed against the wall as you navigate the steps.
+~
+69 8 0 0
+0 0 0 0
+0 0 0
+D1
+This glass art work gives you the perspective of standing on the edge of a
+cliff, looking out over the edge.  There is another cliff face across from
+you and a deep ravine between them.  At the bottom of the cliffs is a lush
+jungle fed by a cool stream of sparkling water.  You notice an almost
+invisible bridge connecting the two cliffs, the outline is sparkling in the
+sunlight.
+~
+window~
+ ~
+ ~
+1 -1 1926
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 2989
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 2991
+E
+windows window glass stained~
+Several highly decorative windows made of stained glass line the walls at
+regular intervals. The light shining in from behind the multi colored
+glass bathes the area in a spectacular display of shimmering hues. These
+works of art all depict various outdoor scenes. A mountain range, a dense
+forest, a serene shore line just to name a few. The one right next to you
+is extremely life like, you feel as if you are actually in the picture.
+~
+S
+#2448
+The Castle Library~
+A fairly large, gothic style library. The ceiling is about fifteen feet high
+with bookcases stretching up the entire distance.  The floor has been covered
+with dust from the unuse of this room.  Circular stone pillars seperate
+each bookcase with small gargoyles adorning the tops of each.  Cobwebs are
+draped from the statues to the ceiling, further confirming the abandonment
+of this chamber.  Books of all shapes and sizes occupy every inch of space
+on the shelves, yet they are all in perfect condition and no dust is
+visible on them.
+~
+69 8 0 0
+0 0 0 0
+0 0 0
+D0
+A massive oaken door, standing fifteen feet high and ten feet wide. It's
+decorated with golden studs and bands.
+~
+door~
+ ~
+ ~
+1 -1 2109
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3048
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2450
+S
+#2449
+The Castle Library~
+A fairly large, gothic style library. The ceiling is about fifteen feet high
+with bookcases stretching up the entire distance.  The floor has been covered
+with dust from the unuse of this room.  Circular stone pillars seperate
+each bookcase with small gargoyles adorning the tops of each.  Cobwebs are
+draped from the statues to the ceiling, further confirming the abandonment
+of this chamber.  Books of all shapes and sizes occupy every inch of space
+on the shelves, yet they are all in perfect condition and no dust is
+visible on them.
+~
+69 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2450
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2451
+D2
+A heavy stone door, engraved with magical runes, stands between two
+bookcases to the south.
+~
+door stone~
+ ~
+ ~
+1 -1 4465
+S
+#2450
+The Castle Library~
+A fairly large, gothic style library. The ceiling is about fifteen feet high
+with bookcases stretching up the entire distance.  The floor has been covered
+with dust from the unuse of this room.  Circular stone pillars seperate
+each bookcase with small gargoyles adorning the tops of each.  Cobwebs are
+draped from the statues to the ceiling, further confirming the abandonment
+of this chamber.  Books of all shapes and sizes occupy every inch of space
+on the shelves, yet they are all in perfect condition and no dust is
+visible on them.
+~
+69 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2448
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2449
+S
+#2451
+The Castle Library~
+A fairly large, gothic style library. The ceiling is about fifteen feet high
+with bookcases stretching up the entire distance.  The floor has been covered
+with dust from the unuse of this room.  Circular stone pillars seperate
+each bookcase with small gargoyles adorning the tops of each.  Cobwebs are
+draped from the statues to the ceiling, further confirming the abandonment
+of this chamber.  Books of all shapes and sizes occupy every inch of space
+on the shelves, yet they are all in perfect condition and no dust is
+visible on them.  A dust covered door stands between two bookcases on the
+east wall.
+~
+69 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3057
+D1
+A fairly tall door with a semi-circular top.  The once-polished wooden
+surface is now covered with dust.
+~
+door~
+ ~
+ ~
+1 -1 3167
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2449
+S
+#2713
+A Glowing Alcove~
+This is a narrow alcove off of the main War room.  The walls and ceiling
+are rounded and polished smooth into an elongated semicircle.  No
+light sources are visible, but the area is bathed in a pale, red glow.
+~
+69 12 0 0
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2069
+E
+sign table~
+REWARD FOR CATACOMB EGGS!
+To turn eggs in and increase your tally...type pour.
+To see what your current tally of eggs is type ask.
+To list what rewards are here for today type list.
+To turn in some of your tally of eggs for a certain reward..
+.....type offer #  where # is the number of eggs that reward requires.
+To get BACK some of your eggs type take #..where # is the amount of eggs you want.
+~
+S
+#2988
+In a Tall Spire~
+A ceiling spans the top of the spire here and a rickety landing ends your
+ascent. Standing on a narrow staircase protruding from the wall, nothing
+protects you from tripping over the edge and plumetting to the unforgiving floor
+below. Glancing up you immediately get dizzy by the height of this tower.
+Several stained glass windows have been placed in the tower walls, spiralling
+upwards, following the stairway. Unconsciously you find yourself with your
+back pressed against the wall as you navigate the steps.
+~
+69 8 0 0
+0 0 0 0
+0 0 0
+D4
+A trapdoor is built into the ceiling above the rickety landing.  There are
+grooves carved into the walls which can serve as a ladder, leading up to the
+trapdoor.
+~
+trapdoor~
+$n uses the ladder to climb up through the trapdoor.~
+$n climbs up through a trapdoor in the floor.~
+2 5799 782
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 2989
+E
+windows window stained glass~
+There are two prominent windows here, each is a portait. The first is of
+a powerful looking man, he stands about six feet tall. Dressing in an amber
+robe, he seems to peer back at you with his intense green eyes. He has a
+moustache and you notice his short brown hair under the hood he wears.
+The second window is of a delicate young woman. She's wearing a flowing
+white gown which contrasts with her waist length dark brown hair. Her
+straigh, silky mane shimmers in the bright moonlight. You stare, unaware of
+your surroundings, at her amazing beauty.
+~
+S
+#2989
+In a Tall Spire~
+You are on the inside of a tall, hollow spire, reaching far into the sky.
+Standing on a narrow staircase protruding from the wall, nothing protects
+you from tripping over the edge and plumetting to the unforgiving floor
+below. Glancing up you immediately get dizzy by the height of this tower.
+Several stained glass windows have been placed in the tower walls, spiralling
+upwards, following the stairway. Unconsciously you find yourself with your
+back pressed against the wall as you navigate the steps.
+~
+69 8 0 0
+0 0 0 0
+0 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 2988
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 2400
+S
+#2990
+Base of a Tall Spire~
+This is the wide base of a tall, hollow spire, rising up as if to pierce
+the sky.  A narrow staircase protruding from the stone wall spirals
+dizzyingly upwards in a seemingly never ending cycle.  The walls slope
+inward slightly as they near the top.  An enourmous pair of doors leads
+south from this chamber, the only other visible exit is up the stairs.
+A highly decorative fountain, forged of adamantite, stands in the middle of
+the floor.  Lava fills the basin and a geyser of flame shoots high into the air.
+~
+69 8 0 0
+0 0 0 0
+0 0 0
+D2
+Two large doors of polished black wood, engraved with a picture of a lion.
+~
+door doors~
+$n enters the courtyard to the south.~
+$n walks out of the giant lion's mouth.~
+1 -1 3435
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 2991
+S
+#2991
+In a Tall Spire~
+You are on the inside of a tall, hollow spire, reaching far into the sky.
+Standing on a narrow staircase protruding from the wall, nothing protects
+you from tripping over the edge and plumetting to the unforgiving floor
+below. Glancing up you immediately get dizzy by the height of this tower.
+Several stained glass windows have been placed in the tower walls, spiralling
+upwards, following the stairway. Unconsciously you find yourself with your
+back pressed against the wall as you navigate the steps.
+~
+69 8 0 0
+0 0 0 0
+0 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 2400
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 2990
+E
+windows window glass stained~
+Several highly decorative windows made of stained glass line the walls at
+regular intervals.  The light shining from behind the multi colored
+glass bathes the area in a spectacular display of shimmering hues.  Many
+of the art works here depict various forest creatures in their natural habitat.
+One prominent window is of a majestic lion with his head turned up to the sky
+in a silent roar.
+~
+S
+#2992
+A Narrow Tunnel~
+The walls of this cavern are rough and jagged, causing you to stoop over and
+move slowly. The floor is sloped and covered with loose gravel and rubble.
+Stumbling along, you can barely see more than a few paces ahead of yourself.
+The cave has narrowed to only a few feet in width and you are forced to
+turn sideways in order to proceed.
+~
+69 9 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1629
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3000
+S
+#3000
+A Narrow Tunnel~
+The walls of this cavern are rough and jagged, causing you to stoop over and
+move slowly. The floor is sloped and covered with loose gravel and rubble.
+Stumbling along, you can barely see more than a few paces ahead of yourself.
+The cave has narrowed to only a few feet in width and you are forced to
+turn sideways in order to proceed.
+~
+69 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3002
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2992
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6259
+S
+#3001
+A Carved Passage~
+This is a small corridor carved from the rock of the island. The walls and
+ceiling and perfectly smooth, created with expert craftsmanship. The floor
+however is covered with rubble and dust, making your footing unsure. Your
+light can not pierce the intense darkness a few feet from you... the sound
+of stones underfoot echoes throughout the cavern.
+~
+69 9 4 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3002
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3004
+S
+#3002
+A Cramped Room in the Cave~
+This is a small, round room in the cave. Most of it appears to be natural
+but other places have quite obviously been worked with tools in order to
+give this cramped cavern a little more space. The uneven walls rise up
+and form a domed ceiling, hanging low enough to make you bend at the waist.
+Looking around for a place to stand upright, you start to get anxious and
+short of breath.
+~
+69 13 4 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3001
+D1
+A rusty wrought iron gate, decaying with age but still extremely strong.
+~
+gate iron~
+ ~
+ ~
+2 6908 3005
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3000
+D3
+A rust wrought iron gate, decaying with age but still extremely strong.
+~
+gate iron~
+ ~
+ ~
+2 6908 3003
+S
+#3003
+A Filthy Dungeon Cell~
+The smell in this room is rancid, making you queasy.  The walls are rough and
+unfinished, and damp from the natural moisture in these tunnels.  A small
+bed of straw is placed in the corner but it hardly looks like a fitting place
+to spend the night.  Something scurries into a darker shadow as you approach.
+Death would be preferable to most than being sentenced to spend time in this
+dingy place.
+~
+69 9 4 0
+0 0 0 0
+0 0 0
+D1
+Peering through a wrought iron gate, you can see into a small stone room.
+~
+gate iron~
+ ~
+ ~
+2 6908 3002
+S
+#3004
+A Carved Passage~
+This is a small corridor carved from the rock of the island. The walls and
+ceiling and perfectly smooth, created with expert craftsmanship. The floor
+however is covered with rubble and dust, making your footing unsure. Your
+light can not pierce the intense darkness a few feet from you... the sound
+of stones underfoot echoes throughout the cavern.
+~
+69 9 4 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3001
+D3
+A rusty wrought iron gate, decaying with age but still extremely strong.
+~
+gate iron~
+ ~
+ ~
+1 6908 3006
+S
+#3005
+A Filthy Dungeon Cell~
+The smell in this room is rancid, making you queasy.  The walls are rough and
+unfinished, and damp from the natural moisture in these tunnels.  A small
+bed of straw is placed in the corner but it hardly looks like a fitting place
+to spend the night.  Something scurries into a darker shadow as you approach.
+Death would be preferable to most than being sentenced to spend time in this
+dingy place.
+~
+69 9 4 0
+0 0 0 0
+0 0 0
+D3
+Peering through a wrought iron gate, you can see into a small stone room.
+~
+gate wrought iron~
+ ~
+ ~
+2 6908 3002
+S
+#3006
+A Filthy Dungeon Cell~
+The smell in this room is rancid, making you queasy.  The walls are rough and
+unfinished, and damp from the natural moisture in these tunnels.  A small
+bed of straw is placed in the corner but it hardly looks like a fitting place
+to spend the night.  Something scurries into a darker shadow as you approach.
+Death would be preferable to most than being sentenced to spend time in this
+dingy place.
+~
+69 9 4 0
+0 0 0 0
+0 0 0
+D0
+A smooth wall of black granite, made of flawless bricks of gigantic proportion.
+The mortar around one of the lower bricks seems to have been scraped away.
+~
+brick bricks stone black granite~
+ ~
+ ~
+4 -1 3007
+D1
+Peering through the bars of a wrought iron gate, you can see little more
+than the beginning of a dark corridor.
+~
+gate~
+ ~
+ ~
+1 6908 3004
+S
+#3007
+A Cramped Passageway~
+This tunnel is extremely tight, causing you to crouch on your hands and knees
+to make any progress.  The walls are jagged and damp, catching your clothing
+in places.  A small stream of water trickles along the bottom of the passage.
+~
+69 265 4 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3008
+D2
+This small tunnel ends at a large brick of black granite.
+~
+brick granite black~
+ ~
+ ~
+4 -1 3006
+S
+#3008
+A Cramped Passageway~
+This tunnel is extremely tight, causing you to crouch on your hands and knees
+to make any progress.  The walls are jagged and damp, catching your clothing
+in places.  A small stream of water trickles along the bottom of the passage.
+~
+69 265 4 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3007
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 3009
+S
+#3009
+A Cramped Passageway~
+This tunnel is extremely tight, causing you to crouch on your hands and knees
+to make any progress.  The walls are jagged and damp, catching your clothing
+in places.  A small stream of water trickles along the bottom of the passage.
+~
+69 269 4 0
+0 0 0 0
+0 0 0
+D4
+A rotted wooden hatch has been built into the stone passageway.
+~
+hatch~
+$n eagerly crawls out of the cramped passage through the hatch in the ceiling.~
+$n lifts $mself out of the narrow passage under the hatch.~
+1 -1 2101
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 3008
+S
+#3048
+The Castle Library~
+A fairly large, gothic style library. The ceiling is about fifteen feet high
+with bookcases stretching up the entire distance.  The floor has been covered
+with dust from the unuse of this room.  Circular stone pillars seperate
+each bookcase with small gargoyles adorning the tops of each.  Cobwebs are
+draped from the statues to the ceiling, further confirming the abandonment
+of this chamber.  Books of all shapes and sizes occupy every inch of space
+on the shelves, yet they are all in perfect condition and no dust is
+visible on them.
+~
+69 8 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3057
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2448
+S
+#3057
+The Castle Library~
+A fairly large, gothic style library. The ceiling is about fifteen feet high
+with bookcases stretching up the entire distance.  The floor has been covered
+with dust from the unuse of this room.  Circular stone pillars seperate
+each bookcase with small gargoyles adorning the tops of each.  Cobwebs are
+draped from the statues to the ceiling, further confirming the abandonment
+of this chamber.  Books of all shapes and sizes occupy every inch of space
+on the shelves, yet they are all in perfect condition and no dust is
+visible on them.
+~
+69 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3048
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2451
+S
+#3167
+A Quiet Study~
+A small room located off the main library where aspiring mages, sages and
+others could study peacefully.  Wooden paneling covers most of the walls,
+but in a few places the original grey stone still shows.  A large table
+of oak occupies the northeast corner with several chairs around it.  There
+is a comfortable sofa in the middle of the room facing the fireplace in
+the south wall.  A circular rug, woven into a beautiful design covers most
+of the stone floor.
+~
+69 8 0 0
+0 0 0 0
+0 0 0
+D3
+A fairly tall door with a semi-circular top. The once-polished wooden
+surface is now covered with dust.
+~
+door~
+ ~
+ ~
+1 -1 2451
+D5
+You notice the edge of a doorframe poking out from beneath the rug.
+~
+trapdoor~
+$n lowers $eself down the trapdoor in the floor.~
+$n starts down the ladder from above you.~
+4 -1 3179
+E
+rug~
+A miriad of colors dazzles your eyes as you look at this work of art.  The
+corner of a trapdoor can be seen, not fully covered by the rug.
+~
+S
+#3168
+A Small Hideout~
+This is a small room, approximately ten feet across on each wall. The walls
+are made from a brownish-grey stone and bare of any decoration.  The floor
+is covered with dust a stale odor fills the air.  The only furnishing is
+wooden stool in the center of the room.  A lander, attached to the souther
+wall, leads upward through a small hole.
+~
+69 13 0 0
+0 0 0 0
+0 0 0
+D1
+In place of a wall, you can see the back side of a transparent painting.
+Looking through the image, you have a clear view of the entire castle
+museum.
+~
+wall~
+$n pauses for a moment then appears on the other side of the painting with a bright flash of light.~
+The painting on the west wall glows brightly for a few seconds and suddenly $n leaps off the canvas into the room.~
+5 -1 1212
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 3179
+S
+#3179
+On A Ladder~
+You are climbing on a rotted wooden ladder attached to the southern wall.
+It runs straight up and down through this narrow shaft of stone.  Cobwebs
+cling to the rungs of the ladder and to the walls.  Judging by the stangnant
+air and msuty smell, you'd say no one has been down here in a long, long time.
+~
+69 13 0 0
+0 0 0 0
+0 0 0
+D4
+A tiny trapdoor, only two feet wide, stands above you.
+~
+trapdoor~
+$n climbs up through the trapdoor in the ceiling.~
+$n climbs up through the trapdoor in the floor.~
+1 -1 3167
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 3168
+S
+#3435
+An Exotic Jungle Courtyard~
+A thick, lush garden surrounds you on all sides.  There's a light mist in
+the air, making this look more like a rain forest then a courtyard.  A few
+tall trees spot the area, providing some shade.  A narrow trail winds its way
+from the base of a tower at the north end of the garden, through the thick
+plant growth and disappears to the east.  There's a refreshing pond filled
+with cool water in the southwest corner of the courtyard; being fed by a
+trickling stream from the east.
+~
+69 262144 3 0
+0 0 0 0
+0 0 0
+D0
+To the north is the base of a tall spire.  The head of a lion has been carved
+from stone at the entrance.  It stands at least fifteen feet tall with its maw
+gaping and teeth showing.
+~
+tooth teeth~
+$n enters the gaping maw of the stone lion.~
+$n arrives from the doors to the south.~
+1 -1 2990
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3436
+E
+teeth tooth lion statue stone~
+Very highly detailed, this stone statue must have taken years to complete.
+Its bushy mane blends into the tower wall without a single seam visible.  Long,
+pointed teeth line its open mouth.  The two largest ones in front are hinged
+and have a handle on them.
+~
+S
+#3436
+An Exotic Jungle Courtyard~
+A thick, lush garden surrounds you on all sides.  There's a light mist in
+the air, making this look more like a rain forest then a courtyard.  A few
+tall trees spot the area, providing some shade.  A narrow trail winds its way
+in from the west, through the thick plant growth and disappears to the north.
+Along side of the path, a small stream of cool water trickles from north to
+west. Above the trees and plants you can see two large towers rising up into
+the sky, one to the northwest and the other to the northeast.
+~
+69 262144 3 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3437
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3435
+S
+#3437
+An Exotic Jungle Courtyard~
+A light mist fills the humid air, surrounding you and the many plants in
+this courtyard. Lush vegetation and several tall trees cover the ground,
+giving you the feeling of being in a rain forest. A small waterfall appears
+from a bright light at the northern end of the courtyard, creating a trickling
+stream which runs south. The base of a tall round tower rises up to the west.
+There's another tower to the east, not as tall as the first but very impressive.
+It has no base, it appears to be broken off in the middle and the top
+portion is hovering in the air.
+~
+69 262144 3 0
+0 0 0 0
+0 0 0
+D0
+ ~
+waterfall~
+$n walks behind the waterfall, and vanishes.~
+$n arrives from outside.~
+4 5167 474
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3436
+S
+#3440
+In a Round Tower~
+You are on the inside of a tall, hollow tower reaching far into the sky.
+Looking down you can see into the small forested area below the floating
+tower. You cautiously procede along the ricktey old staircase protruding
+from the wall.  Glancing upwards a strange feeling of vertigo comes over you
+and you press your back against the wall to help navigate the steps.  A gust
+of wind picks up and blows from the open bottom of the tower past you,
+compromising your balance and your life.  Several window frames dot the walls
+all around the tower, most are crumbling and appear to be nothing more than
+gaping holes now.  One beautiful stained glass window on the western wall
+appears to be undamaged.
+~
+69 8 1 0
+0 0 0 0
+0 0 0
+D3
+A huge stained glass window is prominently displayed on the west wall.
+Behind the glass, a bright light shines through, bathing you in a spectacular
+display of color.
+~
+window~
+$n climbs out the window to the west.
+You hear the pitiful wail of some dying creature.
+~
+$n climbs out of the window to the east.~
+1 -1 1926
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 3443
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 3441
+S
+#3441
+In a Round Tower~
+You are on the inside of a tall, hollow tower reaching far into the sky.
+Looking down, the outter wall crumbles and ends just a few feet below you.
+The upper portion of this tower floats magically above a small, forested
+courtyard. You cautiously procede along a rickety staircase protruding
+from the wall. Glancing upwards a strange feeling of vertigo comes over you
+and you press your back against the wall to help navigate the steps. A gust
+of wind picks up and blows from the open bottom of the tower past you,
+compromising your balance and your life. Several window frames dot the walls
+all around the tower, most are crumbling and appear to be nothing more than
+gaping holes now. Looking out the lowest one on the eastern side, you can
+see the wall of the castle proper and a small ledge surrounding it.
+~
+69 8 1 0
+0 0 0 0
+0 0 0
+D1
+Looking out one of the holes in the eastern wall, you can see the wall
+of the castle proper, and a narrow ledge surrounding it.
+~
+ ~
+$n jumps out one of the holes in the eastern wall.~
+$n leaps from a hole in the tower wall onto the ledge, stumbling and almost falling backwards.~
+5 -1 968
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 3440
+E
+wall walls hole holes castle ledge~
+Looking out one of the holes in the eastern wall, you can see the wall
+of the castle proper, and a narrow ledge surrounding it.
+It appears possible to go out the window and jump to the ledge.
+~
+S
+#3443
+In a Round Tower~
+You are on the inside of a tall, hollow tower reaching far into the sky.
+Looking down you can see into the small forested area below the floating
+tower. You cautiously procede along the ricktey old staircase protruding
+from the wall.  Glancing upwards a strange feeling of vertigo comes over you
+and you press your back against the wall to help navigate the steps.  A gust
+of wind picks up and blows from the open bottom of the tower past you,
+compromising your balance and your life.  Several window frames dot the walls
+all around the tower, most are crumbling and appear to be nothing more than
+gaping holes now.
+~
+69 8 1 0
+0 0 0 0
+0 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 3444
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 3440
+S
+#3444
+Top of a Round Tower~
+You are on the inside of a tall, hollow tower reaching far into the sky.
+Looking down you can see into the small forested area below the floating
+tower. A narrow wooden catwalk surrounds the top of the tower here. Above
+you, the half-destroyed roof comes to a point. Large holes have been ripped
+in it, allowing you a view of portions of the sky on the other side. A gust
+of wind picks up and blows from the open bottom of the tower past you,
+compromising your balance and your life.  Several window frames dot the walls
+all around the tower, most are crumbling and appear to be nothing more than
+gaping holes now.
+~
+69 8 1 0
+0 0 0 0
+0 0 0
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 3443
+S
+#3446
+Clinging to the Side of the Castle~
+Tentatively you hold onto the strong ivy vines attached to the side of the
+castle wall. The plant reaches up to the castle roof where a small tower
+rises up. Looking over your shoulder you can see the entire city of
+Medievia stretched out along the landscape and directly below you is a
+balcony.
+~
+69 4 1 0
+0 0 0 0
+0 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 3447
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 2072
+S
+#3447
+Clinging to the Side of the Castle~
+Tentatively you hold onto the strong ivy vines attached to the side of the
+castle wall. The plant reaches up to the castle roof where a small tower
+rises up. Looking over your shoulder you can see the entire city of
+Medievia stretched out along the landscape and below you is a large balcony.
+~
+69 4 1 0
+0 0 0 0
+0 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 3448
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 3446
+S
+#3448
+Outside a Tower Window~
+You have your body pressed up against the side of a round tower to keep from
+falling backwards.  A small window leads inside the tower with decorative ivy
+growing around the edges and continuing down the side of the castle.  A slight
+breeze wisps through your hair, sending shivers of panic down your spine.
+~
+69 4 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3456
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 3447
+S
+#3456
+Base of a Spire~
+This is the main living quarters of a large, round tower.  Over-sized chairs
+and tables occupy one side of the room, positioned around a huge fireplace.
+The chairs are covered with plush fabric and bowls of fruit and large mugs
+rest atop one of the tables.  Two men could easily sit side by side in one
+of the chairs, all the furniture here seems to be sized for a giant. On
+the other side of the chamber are a few book shelves and a stone work table.
+A few books have been left open on the table next to some alchemy equipment.
+A fifteen foot diameter hole has been cut in the ceiling, leading up to another
+chamber.
+~
+69 8 1 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3448
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 3593
+S
+#3565
+Tip of a Spire~
+You stand atop a tall, round tower protruding from the castle's roof.  A
+small, waist-high wall surrounds this circular landing.  You can see the
+vast, majestic lands of Medievia in all directions from here.  A light
+breeze blows through your hair as you stare a few moments in awe at the
+inspiring landscape.  A few hundred feet to the west, at the corner of the
+castle, are two spires, reaching even farther into the sky than this one.
+A large, circular hole leads down inside this tower.
+~
+69 0 1 0
+0 0 0 0
+0 0 0
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 3593
+S
+#3593
+In a Spire~
+This is a large, open chamber inside the hollow spire.  Several windows,
+large enough for a human to stand upright in, are placed symetrically
+around the walls.  A large pile of multi-colored feathers sits against
+the southern wall, under one of the windows.  To the north is a large
+table made of dull, black wood with a matching padded chair; both appear
+to belong to a giant.  Many torch sconces are bolted into the walls about
+ten feet off the ground, glowing with a warm blaze.  A large hole in the
+center of the floor leads down to the main living chamber while a matching
+hole in the ceiling leads up to the roof.
+~
+69 8 1 0
+0 0 0 0
+0 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 3565
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 3456
+S
+#4465
+A Mage's Workshop~
+All the walls of this chamber are made of stone.  A massive table of
+black granite sits in the center of the room, neatly arranged on its
+surface are vials and alchemy equipment of all kinds.  Small shelves
+line the walls, stacked with books used in magical research.  No dust
+litters this room and a soft glow seems to emminate from the all around
+you.
+~
+69 1032 0 0
+0 0 0 0
+0 0 0
+D0
+A heavy stone door, engraved with magical runes.
+~
+door stone~
+ ~
+ ~
+1 -1 2449
+S
+#4471
+A Dark Cavern~
+The walls of this cavern are rough and jagged, causing you to stoop over and
+move slowly. The floor is sloped and covered with loose gravel and rubble.
+Stumbling along, you can barely see more than a few paces ahead of yourself.
+~
+69 9 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4473
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1629
+S
+#4473
+A Dark Cavern~
+The walls of this cavern are rough and jagged, causing you to stoop over and
+move slowly. The floor is sloped and covered with loose gravel and rubble.
+Stumbling along, you can barely see more than a few paces ahead of yourself.
+~
+69 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4497
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4475
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4471
+S
+#4474
+A Dark Cavern~
+The walls of this cavern are rough and jagged, causing you to stoop over and
+move slowly. The floor is sloped and covered with loose gravel and rubble.
+Stumbling along, you can barely see more than a few paces ahead of yourself.
+~
+69 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4475
+S
+#4475
+A Dark Cavern~
+The walls of this cavern are rough and jagged, causing you to stoop over and
+move slowly. The floor is sloped and covered with loose gravel and rubble.
+Stumbling along, you can barely see more than a few paces ahead of yourself.
+~
+69 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4473
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4494
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4474
+S
+#4494
+A Dark Cavern~
+The walls of this cavern are rough and jagged, causing you to stoop over and
+move slowly. The floor is sloped and covered with loose gravel and rubble.
+Stumbling along, you can barely see more than a few paces ahead of yourself.
+~
+69 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4495
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4475
+S
+#4495
+A Dark Cavern~
+The walls of this cavern are rough and jagged, causing you to stoop over and
+move slowly. The floor is sloped and covered with loose gravel and rubble.
+Stumbling along, you can barely see more than a few paces ahead of yourself.
+~
+69 9 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4496
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4494
+S
+#4496
+A Dark Cavern~
+The walls of this cavern are rough and jagged, causing you to stoop over and
+move slowly. The floor is sloped and covered with loose gravel and rubble.
+Stumbling along, you can barely see more than a few paces ahead of yourself.
+~
+69 9 0 0
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4495
+S
+#4497
+A Dark Cavern~
+The walls of this cavern are rough and jagged, causing you to stoop over and
+move slowly. The floor is sloped and covered with loose gravel and rubble.
+Stumbling along, you can barely see more than a few paces ahead of yourself.
+~
+69 9 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4498
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4473
+S
+#4498
+A Dark Cavern~
+The walls of this cavern are rough and jagged, causing you to stoop over and
+move slowly. The floor is sloped and covered with loose gravel and rubble.
+Stumbling along, you can barely see more than a few paces ahead of yourself.
+~
+69 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4963
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4497
+S
+#4837
+A Dark Cavern~
+The walls of this cavern are rough and jagged, causing you to stoop over and
+move slowly. The floor is sloped and covered with loose gravel and rubble.
+Stumbling along, you can barely see more than a few paces ahead of yourself.
+~
+69 9 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4850
+S
+#4850
+A Dark Cavern~
+The walls of this cavern are rough and jagged, causing you to stoop over and
+move slowly. The floor is sloped and covered with loose gravel and rubble.
+Stumbling along, you can barely see more than a few paces ahead of yourself.
+~
+69 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4837
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4963
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 5607
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 4964
+S
+#4963
+A Dark Cavern~
+The walls of this cavern are rough and jagged, causing you to stoop over and
+move slowly. The floor is sloped and covered with loose gravel and rubble.
+Stumbling along, you can barely see more than a few paces ahead of yourself.
+~
+69 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4850
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4498
+S
+#4964
+A Dark Cavern~
+The walls of this cavern are rough and jagged, causing you to stoop over and
+move slowly. The floor is sloped and covered with loose gravel and rubble.
+Stumbling along, you can barely see more than a few paces ahead of yourself.
+~
+69 9 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5595
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 4850
+S
+#5595
+A Dark Cavern~
+The walls of this cavern are rough and jagged, causing you to stoop over and
+move slowly. The floor is sloped and covered with loose gravel and rubble.
+Stumbling along, you can barely see more than a few paces ahead of yourself.
+~
+69 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6111
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4964
+S
+#5607
+A Dark Cavern~
+The walls of this cavern are rough and jagged, causing you to stoop over and
+move slowly. The floor is sloped and covered with loose gravel and rubble.
+Stumbling along, you can barely see more than a few paces ahead of yourself.
+~
+69 9 0 0
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5737
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 4850
+S
+#5737
+A Dark Cavern~
+The walls of this cavern are rough and jagged, causing you to stoop over and
+move slowly. The floor is sloped and covered with loose gravel and rubble.
+Stumbling along, you can barely see more than a few paces ahead of yourself.
+~
+69 9 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5607
+S
+#6111
+A Dark Cavern~
+The walls of this cavern are rough and jagged, causing you to stoop over and
+move slowly. The floor is sloped and covered with loose gravel and rubble.
+Stumbling along, you can barely see more than a few paces ahead of yourself.
+~
+69 9 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5595
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6152
+S
+#6112
+A Dark Cavern~
+The walls of this cavern are rough and jagged, causing you to stoop over and
+move slowly. The floor is sloped and covered with loose gravel and rubble.
+Stumbling along, you can barely see more than a few paces ahead of yourself.
+~
+69 9 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6152
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 6154
+S
+#6152
+A Dark Cavern~
+The walls of this cavern are rough and jagged, causing you to stoop over and
+move slowly. The floor is sloped and covered with loose gravel and rubble.
+Stumbling along, you can barely see more than a few paces ahead of yourself.
+~
+69 9 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6111
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6112
+S
+#6154
+A Dark Cavern~
+The walls of this cavern are rough and jagged, causing you to stoop over and
+move slowly. The floor is sloped and covered with loose gravel and rubble.
+Stumbling along, you can barely see more than a few paces ahead of yourself.
+~
+69 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6160
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6159
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 6112
+S
+#6159
+A Dark Cavern~
+The walls of this cavern are rough and jagged, causing you to stoop over and
+move slowly. The floor is sloped and covered with loose gravel and rubble.
+Stumbling along, you can barely see more than a few paces ahead of yourself.
+~
+69 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6154
+S
+#6160
+A Dark Cavern~
+The walls of this cavern are rough and jagged, causing you to stoop over and
+move slowly. The floor is sloped and covered with loose gravel and rubble.
+Stumbling along, you can barely see more than a few paces ahead of yourself.
+~
+69 9 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6154
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6172
+S
+#6167
+A Dark Cavern~
+The walls of this cavern are rough and jagged, causing you to stoop over and
+move slowly. The floor is sloped and covered with loose gravel and rubble.
+Stumbling along, you can barely see more than a few paces ahead of yourself.
+~
+69 9 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6172
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6173
+S
+#6172
+A Dark Cavern~
+The walls of this cavern are rough and jagged, causing you to stoop over and
+move slowly. The floor is sloped and covered with loose gravel and rubble.
+Stumbling along, you can barely see more than a few paces ahead of yourself.
+~
+69 9 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6160
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6167
+S
+#6173
+A Dark Cavern~
+The walls of this cavern are rough and jagged, causing you to stoop over and
+move slowly. The floor is sloped and covered with loose gravel and rubble.
+Stumbling along, you can barely see more than a few paces ahead of yourself.
+~
+69 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6167
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6193
+S
+#6180
+A Dark Cavern~
+The walls of this cavern are rough and jagged, causing you to stoop over and
+move slowly. The floor is sloped and covered with loose gravel and rubble.
+Stumbling along, you can barely see more than a few paces ahead of yourself.
+~
+69 9 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6193
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6208
+S
+#6193
+A Dark Cavern~
+The walls of this cavern are rough and jagged, causing you to stoop over and
+move slowly. The floor is sloped and covered with loose gravel and rubble.
+Stumbling along, you can barely see more than a few paces ahead of yourself.
+~
+69 9 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6173
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6180
+S
+#6194
+A Dark Cavern~
+The walls of this cavern are rough and jagged, causing you to stoop over and
+move slowly. The floor is sloped and covered with loose gravel and rubble.
+Stumbling along, you can barely see more than a few paces ahead of yourself.
+~
+69 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6208
+S
+#6208
+A Dark Cavern~
+The walls of this cavern are rough and jagged, causing you to stoop over and
+move slowly. The floor is sloped and covered with loose gravel and rubble.
+Stumbling along, you can barely see more than a few paces ahead of yourself.
+~
+69 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6180
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6194
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6242
+S
+#6242
+A Dark Cavern~
+The walls of this cavern are rough and jagged, causing you to stoop over and
+move slowly. The floor is sloped and covered with loose gravel and rubble.
+Stumbling along, you can barely see more than a few paces ahead of yourself.
+~
+69 9 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6208
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6244
+S
+#6243
+A Dark Cavern~
+The walls of this cavern are rough and jagged, causing you to stoop over and
+move slowly. The floor is sloped and covered with loose gravel and rubble.
+Stumbling along, you can barely see more than a few paces ahead of yourself.
+~
+69 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6244
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6245
+S
+#6244
+A Dark Cavern~
+The walls of this cavern are rough and jagged, causing you to stoop over and
+move slowly. The floor is sloped and covered with loose gravel and rubble.
+Stumbling along, you can barely see more than a few paces ahead of yourself.
+~
+69 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6242
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6243
+S
+#6245
+A Dark Cavern~
+The walls of this cavern are rough and jagged, causing you to stoop over and
+move slowly. The floor is sloped and covered with loose gravel and rubble.
+Stumbling along, you can barely see more than a few paces ahead of yourself.
+~
+69 9 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6246
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6243
+S
+#6246
+A Dark Cavern~
+The walls of this cavern are rough and jagged, causing you to stoop over and
+move slowly. The floor is sloped and covered with loose gravel and rubble.
+Stumbling along, you can barely see more than a few paces ahead of yourself.
+~
+69 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6245
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6248
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6247
+S
+#6247
+A Dark Cavern~
+The walls of this cavern are rough and jagged, causing you to stoop over and
+move slowly. The floor is sloped and covered with loose gravel and rubble.
+Stumbling along, you can barely see more than a few paces ahead of yourself.
+~
+69 9 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6246
+S
+#6248
+A Dark Cavern~
+The walls of this cavern are rough and jagged, causing you to stoop over and
+move slowly. The floor is sloped and covered with loose gravel and rubble.
+Stumbling along, you can barely see more than a few paces ahead of yourself.
+~
+69 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6249
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6246
+S
+#6249
+A Dark Cavern~
+The walls of this cavern are rough and jagged, causing you to stoop over and
+move slowly. The floor is sloped and covered with loose gravel and rubble.
+Stumbling along, you can barely see more than a few paces ahead of yourself.
+~
+69 9 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6248
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 6250
+S
+#6250
+A Dark Cavern~
+The walls of this cavern are rough and jagged, causing you to stoop over and
+move slowly. The floor is sloped and covered with loose gravel and rubble.
+Stumbling along, you can barely see more than a few paces ahead of yourself.
+~
+69 9 0 0
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6251
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 6249
+S
+#6251
+A Dark Cavern~
+The walls of this cavern are rough and jagged, causing you to stoop over and
+move slowly. The floor is sloped and covered with loose gravel and rubble.
+Stumbling along, you can barely see more than a few paces ahead of yourself.
+~
+69 9 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6250
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6252
+S
+#6252
+A Dark Cavern~
+The walls of this cavern are rough and jagged, causing you to stoop over and
+move slowly. The floor is sloped and covered with loose gravel and rubble.
+Stumbling along, you can barely see more than a few paces ahead of yourself.
+~
+69 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6251
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6253
+S
+#6253
+A Dark Cavern~
+The walls of this cavern are rough and jagged, causing you to stoop over and
+move slowly. The floor is sloped and covered with loose gravel and rubble.
+Stumbling along, you can barely see more than a few paces ahead of yourself.
+~
+69 9 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6254
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6252
+S
+#6254
+A Dark Cavern~
+The walls of this cavern are rough and jagged, causing you to stoop over and
+move slowly. The floor is sloped and covered with loose gravel and rubble.
+Stumbling along, you can barely see more than a few paces ahead of yourself.
+~
+69 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6253
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6255
+S
+#6255
+A Dark Cavern~
+The walls of this cavern are rough and jagged, causing you to stoop over and
+move slowly. The floor is sloped and covered with loose gravel and rubble.
+Stumbling along, you can barely see more than a few paces ahead of yourself.
+~
+69 9 0 0
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6254
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 6257
+S
+#6257
+A Dark Cavern~
+The walls of this cavern are rough and jagged, causing you to stoop over and
+move slowly. The floor is sloped and covered with loose gravel and rubble.
+Stumbling along, you can barely see more than a few paces ahead of yourself.
+~
+69 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6258
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 6255
+S
+#6258
+A Dark Cavern~
+The walls of this cavern are rough and jagged, causing you to stoop over and
+move slowly. The floor is sloped and covered with loose gravel and rubble.
+Stumbling along, you can barely see more than a few paces ahead of yourself.
+~
+69 9 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6259
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6257
+S
+#6259
+A Dark Cavern~
+The walls of this cavern are rough and jagged, causing you to stoop over and
+move slowly. The floor is sloped and covered with loose gravel and rubble.
+Stumbling along, you can barely see more than a few paces ahead of yourself.
+~
+69 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3000
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6258
+S
+#19017
+The Castle Stairs~
+You are on a grand staircase made of white marble. There is no railing, just
+steps spiraling upward towards an island of land. A huge chunk of earth
+looks as if it were torn from the ground and now floats above the City of
+Medievia. Below you can see the city square and far above you the stairs
+end at the entrance to a majestic castle on the island.
+~
+69 0 1 7
+0 0 0 0
+0 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 261
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 1
+S
+#19999
+$~

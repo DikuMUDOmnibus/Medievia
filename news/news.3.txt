@@ -1,0 +1,40 @@
+                   . .. ... The Medievia ... .. .
+ 
+            _|         _|  _|_|_|_  _|       _|  _|_|_|_|_|
+           _| _|      _|  _|       _|       _|  _|
+          _|   _|    _|  _|_|_|   _|       _|  _|_|_|_|_|   
+         _|     _|  _|  _|       _|  _    _|          _|    
+        _|       _|_|  _|       _| _| _| _|          _|       
+       _|         _|  _|_|_|_| _|_|    _|   _|_|_|_|_|              
+                                             Updated January 13, 1996
+------------------------------------------------------------------------------
+CHANGES:  Mounts now save.  Type help mounts.  
+
+FIXES:  To many to mention at this point.
+
+COMING SOON:  Flying mounts will only be dragons.  A far off island is full
+of dragons that have been here for ages.  They have HOARDES of gold.  The
+evil ones get the gold by pilliging and stealing... YOU WILL MEET THESE SOON
+:)   The good ones get the gold by bartering FLIGHT for gold.  You will have
+the ability to CALL a good dragon and for the right price you may mount it. 
+If you WALK (dragons dont walk well) the moves go down REAL FAST.  If you
+fly they go down as usual.  When the moves run out..the dragon leaves.  You
+can increase his moves while mounted by giving him more gold.  It will be
+expensive.  If you are flying and the moves runs out he lands, pops you off
+and flies away to count his gold.  If you are attacked by a bad evil dragon
+you MAY call a good one (IF YOUR GOOD) and for a price it will attempt to
+scare the evil one off.  All of medievia is haunted by these attacks.  It is
+rumored the newly opened catacombs may be the source of the new founded
+dragon population.  Trading will become important.  The good dragons are
+said to be under Vryce's influence.  Vryce, trying desperately to prop up
+the struggling economy has asked the good dragons to do these deeds for
+gold, thereby forcing citizens to get goods moved across the dangerous lands
+and securing medievia's prosperity.  Trading can get you a lot of gold  and
+you may need it!   BTW: The above whole dragon proposal is not finalized. 
+It was dreamed up by Vryce and has not gone through debate channels yet.  If
+you approve let the gods know.  Point is we want people to trade.  Trading
+over time as we balance things and get mobs all over the wilderness will
+become very important and fun.  Tracking the REAL player driven supply and
+demand economy will be as fun as talking about stats.  SOON the mudslinger
+will have a REALTIME trading section saying what area needs what goods the
+most, therefor paying much more for them.

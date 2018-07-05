@@ -1,0 +1,7507 @@
+#237
+A forest glade~
+The glade continues here right up to the side of a volcano. From here at its
+base you can tell it is no longer active like the other volcano on this island.
+You wonder why only one of the two volcanoes would die, since they are so close
+together. The steep stone slope of the volcano blocks any further progress to
+the north.  A large boulder has fallen down the side of the volcano and now
+rests against the slope to the north.
+~
+66 0 3 1
+0 0 0 0
+0 0 0
+D0
+A large boulder has fallen down the side of the volcano.
+~
+passage~
+ ~
+ ~
+3 6606 246
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3368
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 238
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5961
+E
+boulder~
+The boulder is emmense, much too large to move.  The path is ripped from
+volcano's side when it fell is still evident.  On the side of the rock
+near the sloped side of the mountain, you see an ancient locking mechanism
+built into the stone.
+~
+S
+#238
+A forest glade~
+The dried bones of some forest game lay on the ground here, telling you that
+something in this part of the forest has a taste for flesh. Lets just hope it
+doesn't like human flesh...
+~
+66 0 3 1
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 237
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 239
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4383
+S
+#239
+A forest glade~
+The dried bones of some forest game lay on the ground here, telling you that
+something in this part of the forest has a taste for flesh. Lets just hope it
+doesn't like human flesh...
+~
+66 0 3 1
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 244
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 238
+S
+#244
+An ocean harbor~
+This island had shown no sigh of advanced civilization until now. A
+magnificent dock made of stone stands here on the ocean, and the remains of
+buildings can be found testifying that this place was used as some sort of
+harbor at one time, however that must have been a long time ago. The only
+thing left is the stone dock jutting out into the ocean.
+~
+66 4 1 1
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 239
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3398
+S
+#246
+A secret passage~
+The air here has a musty smell to it, as if no one has been here in a LONG
+time. It seems to lead slightly up towards the bowl of the volcano at its
+center. You hope this volcano doesn't suddenly decide to become active because
+if it does, you're toast, literally!
+~
+66 13 4 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 271
+D2
+A heavy stone door carved from what appears to be the natural rockface.
+~
+door rock boulder~
+ ~
+ ~
+1 6606 237
+S
+#271
+A lava tube~
+This dark tunnel is actually an ancient path that the lava would travel on its
+route to the surface from the depths of the earth below. It seems to have been
+inactive for some time though judging by the tracks left by former users of
+this tunnel in the dust and dirt.
+~
+66 13 5 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 272
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 246
+S
+#272
+A lava tube~
+This dark tunnel is actually an ancient path that the lava would travel on its
+route to the surface from the depths of the earth below. It seems to have been
+inactive for some time though judging by the tracks left by former users of
+this tunnel in the dust and dirt.
+~
+66 13 5 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 275
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 271
+S
+#275
+Intersection of South street and Wall street~
+You are at the intersection of South street and Wall street.  You might have
+noticed that you're in the poorer section of town. The buildings are starting
+to show their age and are crumbling down. The "people" here look poorer
+than others your have seen, several of which seem to be crumbling before
+your very eyes.
+~
+66 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1246
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2593
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 272
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2594
+S
+#477
+On the ocean~
+You are on a beautiful blue ocean. Small waves roll past you towards
+shore. Looking down you can see the smooth white sandy floor, a few
+shells lay scattered about, reflecting the suns light. The waves become
+choppy and tretcherous to the west.  A small, forested island is to the
+east. It meets the ocean in a steep cliff, preventing your access at this
+point.
+~
+66 0 7 0
+0 0 0 0
+20 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3396
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3395
+D3
+~
+~
+~
+~
+0 0 63454
+S
+#1237
+The Axe in the Groin~
+Needless to say this isn't the nicest tavern you've ever been in, but then
+again it's not the worst either I'm sure. This isn't the place to order some
+fancy drink with a little umbrella, This is a place for those of us who want
+to get stone cold drunk fast and cheap.
+~
+66 1036 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1260
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1250
+S
+#1245
+South street~
+This street is constructed very differently from the other streets of the city.
+Awnings jut out from several of the buildings, and doorways are set back
+slightly from the street, effectivly covering the street in shadows. Small
+alleyways and nooks in the buildings could allow a person to hide or elude a
+persuit. It almost feels as if the shadows are watching you. You had better
+keep an eye on your money.
+~
+66 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1250
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1246
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1257
+S
+#1246
+South street~
+This street is constructed very differently from the other streets of the city.
+Awnings jut out from several of the buildings, and doorways are set back
+slightly from the street, effectivly covering the street in shadows. Small
+alleyways and nooks in the buildings could allow a person to hide or elude a
+persuit. It almost feels as if the shadows are watching you. You had better
+keep an eye on your money.
+~
+66 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1245
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1252
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 275
+S
+#1249
+Town square~
+This is the center of, perhaps, the strangest town you have ever visited.
+First there are no 'normal' citizens. They have all been turned into living
+statues, apparently so they can live for all eternity. And the city itself
+represents the perfect balance these people are striving for. Everything is in
+reflected by its opposite. And to top it all off, A huge castle is suspended
+directly above you, supported by stone bridges connected to the city wall.
+~
+66 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1261
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1260
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1250
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1262
+D5
+A small metal grate.
+~
+grate~
+ ~
+ ~
+2 6601 1259
+E
+castle~
+A magnificant piece of architecture! Magic must have been used in its
+construction, for it seems to hang in the sky with only two small stone
+bridges connecting it to the ground.
+~
+E
+bridge bridges stone~
+The bridges connect to the city walls to the east and west of here. Perhaps
+there is some way to reach them from there.
+~
+S
+#1250
+South street~
+This street is constructed very differently from the other streets of the city.
+Awnings jut out from several of the buildings, and doorways are set back
+slightly from the street, effectivly covering the street in shadows. Small
+alleyways and nooks in the buildings could allow a person to hide or elude a
+persuit. It almost feels as if the shadows are watching you. You had better
+keep an eye on your money.
+~
+66 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1249
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1237
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1245
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2572
+S
+#1252
+Next to a cart~
+You are standing next to a large wooden cart, something like a wagon.  The
+side open down and lay flat like tables, about waist high.  Small stands
+are set up on these shelves containing various keys.  Inside the cart you
+can see equipment used for doing light metalsmithing, and most precisely,
+key making.
+~
+66 1024 1 7
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1246
+S
+#1253
+The Shrine of Shadows~
+Its been said that Thieves in general don't tend to be a religious bunch. But
+every thief knows a god to pray to when he's about to be caught (or been
+caught for that matter). This is a shrine to all thoes dark gods that thieves
+pray to when in need. Intrigue, Mischief, Deceit, Treachery are all
+represented in these shadows, the shadows that hide a thief.
+~
+66 13 6 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1257
+S
+#1256
+Ye Olde Bakery~
+The smell of fresh baked bread and pastery is overwhelming in this shop. Rows
+upon rows of bread, cakes, and cookies line the shelves in a wonderful
+display of the bakers skill and expertise.  A large sign hangs over the hearth
+where he bakes his creations.
+~
+66 1036 0 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1260
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1261
+S
+#1257
+Entrance to the Hall of Shadows~
+You stand in the foyer of a small, dark building. The shadows are deep here,
+and several times you catch a glimpse of movement out of the corner of your
+eye. Perhaps the thieves that you suspect occupied this building have not all
+suffered the same fate as the townspeople and are still here guarding their
+building.
+~
+66 13 0 7
+14 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1245
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1253
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1258
+S
+#1258
+The Den of Thieves~
+This is where the master thieves practice their natural talents, refineing
+them to a perfection. The room is equiped with hundreds of different types of
+locks for you to practice on, dummies to backstab, floortypes to practice
+sneaking on different surfaces, etc.
+~
+66 13 0 7
+14 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1257
+S
+#1259
+Below the city~
+You decend to the lowest level, deep below the city proper. Long, winding
+tunnels have led you here, looking back you have no idea how to get to the
+surface again. Its almost as if the rock moved to block your escape.
+~
+66 516 1 7
+0 0 0 0
+150 0 0
+S
+#1260
+Blade Lane~
+This street looks as if it's ready to go to war. The houses are all made of
+stone construction with bars and heavy shutters covering the windows. Coats of
+Arms decorate every building on the street and the theme is even carried over
+into the cobblestones in the street. This street obviously represents the
+combative instinct in men.
+~
+66 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1256
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1263
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1237
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1249
+S
+#1261
+North street~
+This street is a mix of beautiful greenery and the stain glass windows of
+several different beliefs. The flowers are planted so no matter what time of
+year there are at least a few in bloom, represtenting the beauty in life. The
+atmosphere is calm and peaceful allowing anyone to relax and meditate on their
+life, or the meaning of life in general.
+~
+66 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1273
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1256
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1249
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3380
+S
+#1262
+Shield street~
+This street is covered in many strange magical lights. The street lamps
+radiate a continual light, ornamentation on the houses glow in strange hues,
+even some of the cobblestones radiate light. This street definatly looks like
+the work of mages with too much time on their hands.
+~
+66 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3380
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1249
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2572
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1276
+S
+#1263
+Blade Lane~
+This street looks as if it's ready to go to war. The houses are all made of
+stone construction with bars and heavy shutters covering the windows. Coats of
+Arms decorate every building on the street and the theme is even carried over
+into the cobblestones in the street. This street obviously represents the
+combative instinct in men.
+~
+66 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3403
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1264
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1269
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1260
+S
+#1264
+Blade Lane~
+This street looks as if it's ready to go to war. The houses are all made of
+stone construction with bars and heavy shutters covering the windows. Coats of
+Arms decorate every building on the street and the theme is even carried over
+into the cobblestones in the street. This street obviously represents the
+combative instinct in men.
+~
+66 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1266
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1265
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1263
+S
+#1265
+Intersection of Blade Lane and Wall street~
+You leave the war minded Blade Lane behind only to find that the theme
+carries over into this section of Wall street. The houses look like mini
+fortresses ready to withstand a siege. From here you can see the large wall
+that surrounds the city proper. More importantly you notice a strange device
+used to carry items (people included) up to the castle above the city, that
+lies to the east of here.
+~
+66 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2781
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2792
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2583
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1264
+S
+#1266
+The House of the Brightblade~
+Swords, swords, and more swords line the walls of this fine shop. You have
+never seen so many different types of swords in one place before. Long swords,
+short swords, kopesh, scimitars, bastard, and even a fabled claymore or two.
+All the swords are in perfect condition and look as if they were made just
+yesterday.
+~
+66 1024 0 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1264
+E
+claymore~
+A VERY heavy blade, only useable by the greatest of all warriors, this blade
+resembles the claymores that the heros of ancient ledgend were rumored to
+wield.
+~
+E
+swords sword long scimitar short kopesh~
+The swords look worthy for even the mightest of warriors. If you'd like to see
+what swords the shopkeeper is willing to sell you, type 'list'. If you'd like
+to try your luck at steeling one, well, lets just say its not a good idea.
+~
+S
+#1269
+Entrance to the House of War~
+Waging war is considered by some to be an art form. The proper move could mean
+victory, while the wrong move could me sudden disastor. This place has been
+dedicated to the study and analysis of thoes moves. Just about every major
+conflict is saved somewhere in this room, either on a map or in a book.
+Guessing from the size of the collection there must have been a lot of
+conflicts in history.
+~
+66 12 0 7
+7 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1263
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1270
+D2
+You see a training area to the south.
+~
+ ~
+ ~
+ ~
+1 -1 1271
+E
+books book maps map~
+The writing begins to give you a headache as soon as you look at it.
+Someone says "That is only for someone who already has knowlage in the ways of
+war."
+~
+S
+#1270
+The Hall of Heros~
+This building is dedicated as a memorial to the greatest heros of the world.
+Only the best of the best are worthy enough to have a statue errected here for
+them. It's a place to honor and pay tribute to the warriors of old, and a
+place to reflect on how good you could be.
+~
+66 12 6 0
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1269
+E
+statues statue~
+The statues are of fierce fighting men who usually died fighting for what they
+believed in. Some of the readable inscriptions are Drizzt Do'Urden, Axam
+Moonstriker, Veldren Jabbuck, and Zaknafien.
+~
+S
+#1271
+The House of War~
+The must be where the famous warriors of old learned their trade. Drawings of
+several different types of creatures point out weaknesses in their natural
+defences. Target dummies line the walls for warriors to practice on and
+strange machanical devices litter the room apparently for warriors to hone
+their skills. Perhaps the guildmaster could've helped you to practice.
+~
+66 12 0 7
+7 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1269
+S
+#1272
+North street~
+This street is a mix of beautiful greenery and the stain glass windows of
+several different beliefs. The flowers are planted so no matter what time of
+year there are at least a few in bloom, represtenting the beauty in life. The
+atmosphere is calm and peaceful allowing anyone to relax and meditate on their
+life, or the meaning of life in general.
+~
+66 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2776
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1273
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1274
+S
+#1273
+North street~
+This street is a mix of beautiful greenery and the stain glass windows of
+several different beliefs. The flowers are planted so no matter what time of
+year there are at least a few in bloom, represtenting the beauty in life. The
+atmosphere is calm and peaceful allowing anyone to relax and meditate on their
+life, or the meaning of life in general.
+~
+66 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1272
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2468
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1261
+S
+#1274
+The Nature Company~
+This store features the finest in 'all natural' goods. No nasty metal armor or
+weapons here, nope, just good old wood and fabrics. Featuring some of the
+finest blugening weapons around. Nothing here to offend some of the more
+demanding gods.
+~
+66 1036 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1272
+S
+#1275
+Shield street~
+This street is covered in many strange magical lights. The street lamps
+radiate a continual light, ornamentation on the houses glow in strange hues,
+even some of the cobblestones radiate light. This street definatly looks like
+the work of mages with too much time on their hands.
+~
+66 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2464
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1276
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2465
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2769
+S
+#1276
+Shield street~
+This street is covered in many strange magical lights. The street lamps
+radiate a continual light, ornamentation on the houses glow in strange hues,
+even some of the cobblestones radiate light. This street definatly looks like
+the work of mages with too much time on their hands.
+~
+66 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2460
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1262
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1275
+S
+#2459
+A small collapsing landing~
+You are ona small landing at the top of a collapsing staircase.  The wooden
+planks under your feet feel as though they could give way at any moment.  The
+remains of the rotting and broken railing offer little comfort to your racing
+heart. The are a few pigeons perched ont he railing, watching the streets below
+for food.
+~
+66 4 0 7
+0 0 0 0
+0 0 0
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 3380
+E
+pigeon pigeons bird birds~
+Upon closer inspection, you notice that a few have small pieces of paper
+tied to their legs.
+~
+S
+#2460
+The House of the Arcane~
+This is a house of great knowlage, not only magical, but the mundane as well.
+The walls of this great room are covered in bookshelves from floor to ceiling.
+Mages have always been the type to write everything down and that certainly
+seems to be the case here. Spellbooks, globes, encyclopedias, etc. could be
+found here if the sages would allow you to look that is.
+~
+66 12 0 7
+13 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2462
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1276
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2461
+E
+books book globe globes spellbooks spellbook encyclopedia~
+A voice says, "I am truly sorry, but that is for members only!"
+~
+S
+#2461
+A quiet mages' study~
+This is a small cozy room with many chairs and small tables placed about.
+A warm firm burns quiety in a corner fireplace.  Piled on many of the tables
+are large, leather bound books, some left open and the page marked.  On the
+walls are staves and other magical devices both for study and decoration.
+~
+66 12 6 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2460
+S
+#2462
+A spellcasting chamber~
+This is the room where all mages must sooner or later go to learn a new spell.
+It is perhaps the 'safest' way for a mage to learn a spell, a controled
+environment and a ten foot lead wall to protect the rest of the world from the
+impending explosion of the apprentice's spell!
+~
+66 12 0 7
+13 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2460
+S
+#2464
+A dimly lit mages shop~
+This shop contains everything the begining (or advanced for that matter) mage
+might ever need in his adventuring career. Well maybe not quite EVERYTHING,
+but most of it. Robes, wands, staffs, daggers everything that a mage could
+carry without sacrificing his/her beliefs. It's quite a wierd shop, but then
+again mages are kinda strange in general.
+A glowing sign hangs on the wall.
+~
+66 1036 0 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1275
+E
+sign glowing small~
+Everything a mage could ever want Just type
+'list' to see what i have on hand. 'Buy' <item>
+to buy something on that list. And if you type
+'value' <item> I'll give you a price on something
+you want to 'sell' to me!
+~
+S
+#2465
+A small alchemist's shop~
+This shop is littered with alchemy equipment. Bottles, beakers, testtubes, and
+many other strange items are used in the potion making process. This shop is
+dedicated to the production of fine potions, be them clerical or wizardly.
+There is a small sign attached to the counter.
+~
+66 1032 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1275
+E
+sign small~
+Due to the instability in the potion market please type
+'list' to see what I have avaible to 'buy'. Remember all
+sales are final! And no refunds under any circumstances!
+~
+S
+#2466
+Inside the north-west tower~
+You are inside a round tower.  Cots and bunk beds are lined up around the
+walls and chests sit at the foot of each bed.  The room is fairly clean except
+for some dust in the corners.  A circular staircase leads upward through the
+ceiling.
+~
+66 12 0 7
+0 0 0 0
+0 0 0
+D2
+ ~
+door~
+ ~
+ ~
+1 2001 2770
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 3404
+S
+#2467
+The altar room~
+This is the room where the clerics take their vows and make their holiest
+prayers to the gods they serve. The smooth marble floor has been worn down
+from centuries of use by priest kneeling to the gods in the heavens above. The
+soft candle light and the chanting of monks in the distance make you feel at
+peace with yourself and causes you to forget the troubles of the outside world.
+~
+66 524288 1 7
+11 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2468
+S
+#2468
+The Cathedral of All Gods~
+This cathedral has apparently been dedicated to be representitive of all
+faiths, for each seems to be depicted in the architure. The beautiful marble
+walls are covered with pictures of different gods, from different eras. The
+light comming through the stain glass windows and the light from the candles
+makes this an ideal room for medition.
+~
+66 12 6 7
+11 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2467
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1273
+S
+#2572
+The Hotel Lobby~
+You enter a large, spacious room.  The walls are covered in stone
+and look very much like a nature surrounding.  Plants and even small
+trees grow in various places around the room.  A large fireplace is
+built into the west wall and small chairs are placed about the floor.
+A mage, dressed in red robes, stands in the corner.
+~
+66 12 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1262
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1250
+D4
+Above you is the hotel reception area.
+~
+ ~
+ ~
+ ~
+1 -1 2574
+E
+mage~
+The mage is a young man, and very handsome.  He wears a long red robe
+and is leaning heavily on a wooden staff.  Atop the staff is a carved
+dragon's claw clutching a crystal.  He was holding a cup of herbal tea
+which he has put down on a nearby table as you approach.
+The mage says, 'Greeting adventurers.  I see you possess many fine and
+wonderful items.  Would be a shame to spend so much for a innkeeper to
+protect your items for you, when I can do it for much less...'
+He pauses and makes a motion with his hand, an extradimensional space
+appears, a few cubic feet in size.
+The man continues, 'I can keep your treasures in here, where they will
+be very well protected.'
+~
+S
+#2574
+The Main Desk~
+Judging by the number of keys hanging on the wall behind the receptionist this
+hotel must be HUGE! On the outside however, it looked no different from the
+other buildings. Perhaps they use some sort of extra-dimensional space for
+their rooms, because all those rooms could not possibly fit into a building
+this small. You wonder if the deteriating magic used to keep the citizens
+alive is the same magic they used on the rooms...
+~
+66 12 0 7
+0 0 0 0
+0 0 0
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 2572
+S
+#2583
+Wall street~
+The wall in this part of town has been kept in pristine condition, someone
+can even be seen strengthening it in certain places. The houses in this part
+of town look studier and more fortified than in the other sections of town.
+Perhaps the warriors of old liked to have their house in this part of town
+because of its proximity to the Hall of Heros, because these certainly look
+like the homes of warriors.
+~
+66 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1265
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2590
+S
+#2588
+The south-east corner of town~
+A very large tower stands at the corner of the city wall. Apparently the tower
+is used to house city guards who walk the walls in a constant vigil over the
+town. There must be some way to reach the top of the walls from inside the
+tower, but there doesn't seem to be any way to get in to the tower from ground
+level.
+~
+66 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2589
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2591
+S
+#2589
+Wall street~
+The wall in this part of town has been kept in pristine condition, someone
+can even be seen strengthening it in certain places. The houses in this part
+of town look studier and more fortified than in the other sections of town.
+Perhaps the warriors of old liked to have their house in this part of town
+because of its proximity to the Hall of Heros, because these certainly look
+like the homes of warriors.
+~
+66 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2590
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2588
+S
+#2590
+Wall street~
+This street follows the huge city wall around the town. The city vaguely
+resembles a square, with the businesses and guilds towards the center and the
+residentual areas closer to the outer wall. In fact it looks as if most, if
+not all, the houses for the general citizens are located on Wall Street. Looks
+like a nice place for a retired adventurer to make a home too.
+~
+66 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2583
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2589
+S
+#2591
+Wall street~
+This street follows the huge city wall around the town. The city vaguely
+resembles a square, with the businesses and guilds towards the center and the
+residentual areas closer to the outer wall. In fact it looks as if most, if
+not all, the houses for the general citizens are located on Wall Street. Looks
+like a nice place for a retired adventurer to make a home too.
+~
+66 0 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2588
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2592
+S
+#2592
+Wall street~
+This street in the south part of town is named because it follows along the
+city wall. This is the poorer part of town, small shacks have been proped up
+against the wall in several places and the entire street looks like a fire
+hazard. City patrols are almost non-existant in this part of town, perhaps due
+to the proximity to the thieves guild.
+~
+66 0 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2591
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2593
+S
+#2593
+Wall street~
+This street follows the huge city wall around the town. The city vaguely
+resembles a square, with the businesses and guilds towards the center and the
+residentual areas closer to the outer wall. In fact it looks as if most, if
+not all, the houses for the general citizens are located on Wall Street. Looks
+like a nice place for a retired adventurer to make a home too.
+~
+66 0 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2592
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 275
+S
+#2594
+Wall street~
+This street in the south part of town is named because it follows along the
+city wall. This is the poorer part of town, small shacks have been proped up
+against the wall in several places and the entire street looks like a fire
+hazard. City patrols are almost non-existant in this part of town, perhaps due
+to the proximity to the thieves guild.
+~
+66 0 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 275
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2597
+S
+#2595
+The south-west corner of town~
+A very large tower stands at the corner of the city wall. Apparently the tower
+is used to house city guards who walk the walls in a constant vigil over the
+town. There must be some way to reach the top of the walls from inside the
+tower, but there doesn't seem to be any way to get in to the tower from ground
+level.
+~
+66 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2598
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2596
+S
+#2596
+Wall street~
+This street follows the huge city wall around the town. The city vaguely
+resembles a square, with the businesses and guilds towards the center and the
+residentual areas closer to the outer wall. In fact it looks as if most, if
+not all, the houses for the general citizens are located on Wall Street. Looks
+like a nice place for a retired adventurer to make a home too.
+~
+66 0 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2597
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2595
+S
+#2597
+Wall street~
+This street follows the huge city wall around the town. The city vaguely
+resembles a square, with the businesses and guilds towards the center and the
+residentual areas closer to the outer wall. In fact it looks as if most, if
+not all, the houses for the general citizens are located on Wall Street. Looks
+like a nice place for a retired adventurer to make a home too.
+~
+66 0 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2594
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2596
+S
+#2598
+Wall street~
+This street is apparently the residental district of town. While the city wall
+lines one side of the street, various types of houses line the other. In this
+part of town several of the houses resemble minature towers. Judging by the
+fondness mages have for towers, it would be a good bet to say this is where
+most of the mages in the city live, perhaps because of its proximity to the
+libraries on Shield street.
+~
+66 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2706
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2595
+S
+#2599
+Wall street~
+This street follows the huge city wall around the city. The city vaguely
+resembles a square, with the businesses and guilds towards the center and the
+residentual areas closer to the outer wall. In fact it looks as if most, if
+not all, the houses for the general citizens are located on Wall Street. Looks
+like a nice place for a retired adventurer to make a home too.
+~
+66 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2769
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2706
+S
+#2706
+Wall street~
+This street is apparently the residental district of town. While the city wall
+lines one side of the street, various types of houses line the other. In this
+part of town several of the houses resemble minature towers. Judging by the
+fondness mages have for towers, it would be a good bet to say this is where
+most of the mages in the city live, perhaps because of its proximity to the
+libraries on Shield street.
+~
+66 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2599
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2598
+S
+#2768
+Wall street~
+This street follows the huge city wall around the city. The city vaguely
+resembles a square, with the businesses and guilds towards the center and the
+residentual areas closer to the outer wall. In fact it looks as if most, if
+not all, the houses for the general citizens are located on Wall Street. Looks
+like a nice place for a retired adventurer to make a home too.
+~
+66 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2772
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2769
+S
+#2769
+Intersection of Shield and Wall street~
+This street follows the huge city wall around the city. The city vaguely
+resembles a square, with the businesses and guilds towards the center and the
+residentual areas closer to the outer wall. In fact it looks as if most, if
+not all, the houses for the general citizens are located on Wall Street. Looks
+like a nice place for a retired adventurer to make a home too.
+~
+66 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2768
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1275
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2599
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2962
+S
+#2770
+The north-west corner of town~
+A very large tower stands at the corner of the city wall. Apparently the tower
+is used to house city guards who walk the walls in a constant vigil over the
+town. There must be some way to reach the top of the walls from inside the
+tower, but there doesn't seem to be any way to get in to the tower from ground
+level.
+~
+66 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+door~
+ ~
+ ~
+1 2001 2466
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2773
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2771
+S
+#2771
+Wall street~
+This street follows the huge city wall around the city. The city vaguely
+resembles a square, with the businesses and guilds towards the center and the
+residentual areas closer to the outer wall. In fact it looks as if most, if
+not all, the houses for the general citizens are located on Wall Street. Looks
+like a nice place for a retired adventurer to make a home too.
+~
+66 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2770
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2772
+S
+#2772
+Wall street~
+This street is apparently the residental district of town. While the city wall
+lines one side of the street, various types of houses line the other. In this
+part of town several of the houses resemble minature towers. Judging by the
+fondness mages have for towers, it would be a good bet to say this is where
+most of the mages in the city live, perhaps because of its proximity to the
+libraries on Shield street.
+~
+66 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2771
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2768
+S
+#2773
+Wall street~
+This street follows the huge city wall around the city. The city vaguely
+resembles a square, with the businesses and guilds towards the center and the
+residentual areas closer to the outer wall. In fact it looks as if most, if
+not all, the houses for the general citizens are located on Wall Street. Looks
+like a nice place for a retired adventurer to make a home too.
+~
+66 0 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2774
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2770
+S
+#2774
+Wall street~
+This street follows the huge city wall around the city. The city vaguely
+resembles a square, with the businesses and guilds towards the center and the
+residentual areas closer to the outer wall. In fact it looks as if most, if
+not all, the houses for the general citizens are located on Wall Street. Looks
+like a nice place for a retired adventurer to make a home too.
+~
+66 0 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2775
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2773
+S
+#2775
+Wall street~
+This street follows the huge city wall around the city. The city vaguely
+resembles a square, with the businesses and guilds towards the center and the
+residentual areas closer to the outer wall. In fact it looks as if most, if
+not all, the houses for the general citizens are located on Wall Street. Looks
+like a nice place for a retired adventurer to make a home too.
+~
+66 0 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2776
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2774
+S
+#2776
+Intersection of North and Wall street~
+You are standing at the corner of North street and Wall street. There is an old
+gate to the north. Several beautiful churches and cathedrals line the street
+to your south. The people in this part of town look to be holding up well,
+especially compared to some others that you've seen, perhaps the magical
+nature of this part of town helps keep them alive.
+~
+66 0 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2777
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1272
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2775
+S
+#2777
+Wall street~
+This street follows the huge city wall around the city. The city vaguely
+resembles a square, with the businesses and guilds towards the center and the
+residentual areas closer to the outer wall. In fact it looks as if most, if
+not all, the houses for the general citizens are located on Wall Street. Looks
+like a nice place for a retired adventurer to make a home too.
+~
+66 0 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2778
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2776
+S
+#2778
+Wall street~
+This street follows the huge city wall around the city. The city vaguely
+resembles a square, with the businesses and guilds towards the center and the
+residentual areas closer to the outer wall. In fact it looks as if most, if
+not all, the houses for the general citizens are located on Wall Street. Looks
+like a nice place for a retired adventurer to make a home too.
+~
+66 0 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2779
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2777
+S
+#2779
+Wall street~
+This street follows the huge city wall around the city. The city vaguely
+resembles a square, with the businesses and guilds towards the center and the
+residentual areas closer to the outer wall. In fact it looks as if most, if
+not all, the houses for the general citizens are located on Wall Street. Looks
+like a nice place for a retired adventurer to make a home too.
+~
+66 0 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2780
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2778
+S
+#2780
+The north-east corner of town~
+A very large tower stands at the corner of the city wall. Apparently the tower
+is used to house city guards who walk the walls in a constant vigil over the
+town. There must be some way to reach the top of the walls from inside the
+tower, but there doesn't seem to be any way to get in to the tower from ground
+level.
+~
+66 0 1 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2783
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2779
+S
+#2781
+Wall street~
+The wall in this part of town has been kept in pristine condition, someone
+can even be seen strengthening it in certain places. The houses in this part
+of town look studier and more fortified than in the other sections of town.
+Perhaps the warriors of old liked to have their house in this part of town
+because of its proximity to the Hall of Heros, because these certainly look
+like the homes of warriors.
+~
+66 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2782
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1265
+S
+#2782
+Wall street~
+The wall in this part of town has been kept in pristine condition, someone
+can even be seen strengthening it in certain places. The houses in this part
+of town look studier and more fortified than in the other sections of town.
+Perhaps the warriors of old liked to have their house in this part of town
+because of its proximity to the Hall of Heros, because these certainly look
+like the homes of warriors.
+~
+66 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2783
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2781
+S
+#2783
+Wall street~
+This street follows the huge city wall around the city. The city vaguely
+resembles a square, with the businesses and guilds towards the center and the
+residentual areas closer to the outer wall. In fact it looks as if most, if
+not all, the houses for the general citizens are located on Wall Street. Looks
+like a nice place for a retired adventurer to make a home too.
+~
+66 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2780
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2782
+S
+#2786
+On the bridge~
+This bridge is apparently the only means of support for the buildings that
+seem to float over the city. The buildings off to your west vaguely resemble
+a castle in the clouds. The buildings and bridge are made of granite and look
+to be in excellent condition so you aren't too worried about falling, but
+still, it is a long way down.
+~
+66 0 1 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2787
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2838
+S
+#2787
+On the bridge~
+This bridge is apparently the only means of support for the buildings that
+seem to float over the city. The buildings off to your west vaguely resemble
+a castle in the clouds. The buildings and bridge are made of granite and look
+to be in excellent condition so you aren't too worried about falling, but
+still, it is a long way down.
+~
+66 0 1 7
+0 1 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2792
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2786
+S
+#2792
+On the bridge~
+This bridge is apparently the only means of support for the buildings that
+seem to float over the city. The buildings off to your west vaguely resemble
+a castle in the clouds. The buildings and bridge are made of granite and look
+to be in excellent condition so you aren't too worried about falling, but
+still, it is a long way down.
+~
+66 4 1 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1265
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2787
+S
+#2799
+Above the Town Square~
+This is a large courtyard in the center of the castle. The castle is really
+made up of two towers, one north and one south. The north looks like a royal
+citadel, while the southern tower looks more like a tall skinny pyramid, an
+obelisk. Through a hazy, half-formed portal above you, you can see a
+mystical temple of some sort.
+~
+66 4 1 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2970
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2838
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2965
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2886
+D4
+You can see the faint outline of a strange magical rift in the sky.
+~
+rift~
+ ~
+ ~
+2 6670 2976
+S
+#2838
+On the bridge~
+This bridge is apparently the only means of support for the buildings that
+seem to float over the city. The buildings off to your west vaguely resemble
+a castle in the clouds. The buildings and bridge are made of granite and look
+to be in excellent condition so you aren't too worried about falling, but
+still, it is a long way down.
+~
+66 0 1 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2786
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2799
+S
+#2886
+On the bridge~
+This bridge is apparently the only means of support for the buildings that
+seem to float over the city. The buildings off to your west vaguely resemble
+a castle in the clouds. The buildings and bridge are made of granite and look
+to be in excellent condition so you aren't too worried about falling, but
+still, it is a long way down.
+~
+66 0 1 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2799
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2964
+S
+#2962
+On the bridge~
+This bridge is apparently the only means of support for the buildings that
+seem to float over the city. The buildings off to your west vaguely resemble
+a castle in the clouds. The buildings and bridge are made of granite and look
+to be in excellent condition so you aren't too worried about falling, but
+still, it is a long way down.
+~
+66 4 1 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2963
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2769
+S
+#2963
+On the bridge~
+This bridge is apparently the only means of support for the buildings that
+seem to float over the city. The buildings off to your west vaguely resemble
+a castle in the clouds. The buildings and bridge are made of granite and look
+to be in excellent condition so you aren't too worried about falling, but
+still, it is a long way down.
+~
+66 0 1 7
+0 1 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2964
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2962
+S
+#2964
+On the bridge~
+This bridge is apparently the only means of support for the buildings that
+seem to float over the city. The buildings off to your west vaguely resemble
+a castle in the clouds. The buildings and bridge are made of granite and look
+to be in excellent condition so you aren't too worried about falling, but
+still, it is a long way down.
+~
+66 0 1 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2886
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2963
+S
+#2965
+The lobby of City Hall~
+The entire room is made of smooth gray marble, giving it a cold and impersonal
+feel. This is the entrance to the democratic part of the government that
+controls the city. A large open room is to the south.
+~
+66 8 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2799
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2966
+S
+#2966
+The center of the obelisk~
+The center of the obelisk a large circular hall surrounded with statues of
+former leaders.  A very large spiral staircase leading upward makes this place
+look quite stunning.  Several chambers exit from this hall, apparently housing
+the various branches of a democratic government.
+~
+66 8 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2965
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2967
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2969
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2968
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 2971
+S
+#2967
+The house of Lords~
+This is a meeting room for the elected representatives of rich merchants
+and citizens with high ranking social stature.
+~
+66 8 0 7
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2966
+S
+#2968
+The house of Commoners~
+This is a meeting room for the elected representatives of the common people.
+~
+66 8 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2966
+S
+#2969
+The court of Justice~
+A large bench is the dominate piece of furniture in the room. This place
+appears to be where legal disputes are argued and settled. Benches have been
+set up to watch the procedings, which you've heard can be quite violent at
+times.
+~
+66 8 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2966
+S
+#2970
+Entrance to the royal castle~
+The entrance to this castle looks like something right out of the story books.
+A plush red carpet covers the floor and shining suits of armor line the walls
+for as far as the eye can see. The carpet leads up a few steps and finally to
+a throne in the north.
+~
+66 8 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2975
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2799
+S
+#2971
+A spiral staircase~
+You are on a large spiral staircase made of polished marble.  The stairs
+extend very far above you and below you can see a large open room.
+~
+66 9 0 7
+0 0 0 0
+0 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 2973
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 2966
+S
+#2972
+A spiral staircase~
+You are on a large spiral staircase made of polished marble.  The stairs
+extend far below you into the darkness.  Above you, you can see a small
+landing.
+~
+66 13 0 7
+0 0 0 0
+0 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 2974
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 2973
+S
+#2973
+A spiral staircase~
+You are on a large spiral staircase made of polished marble.  The stairs
+extend very far up and down, you lose them in the darkness.
+~
+66 9 0 7
+0 0 0 0
+0 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 2972
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 2971
+S
+#2974
+Top of the obelisk~
+You have climbed up to a small room at the top of the obelisk.  Little
+windows are carved out of the walls allowing you to look down on the
+city far below you.  A large stone pedestal, apparently grey marble,
+stands in the center of the room.  It is very wide and rises about 2 feet
+off the floor.
+~
+66 131592 0 7
+1 0 0 0
+0 0 0
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 2972
+S
+#2975
+The throne room~
+To say this king has money would be an understatement judging from the way
+this place is decorated.  Everything has gold and platinum inlays and is
+decorated in the most ornate fashion.  The throne could even challenge Zeus'
+for being the most magnificent.
+~
+66 1032 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2977
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2970
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2978
+S
+#2976
+The Hall of Neutrality~
+An errie red glow illuminates this room, the color of blood. This room
+symbolizes all that this culture hopes and dreams of achieving, ABSOLUTE
+nutrality. No good or evil, not light or dark, not right or wrong...
+~
+66 520 0 0
+0 1 0 0
+0 0 0
+D0
+A plain light shines from the glass hall to the north.
+~
+ ~
+ ~
+ ~
+1 -1 3382
+D1
+A bright white light prevents you from seeing the hall to the east.
+~
+ ~
+ ~
+ ~
+1 -1 3381
+D2
+To the south is a grey swirling mist.
+~
+ ~
+ ~
+ ~
+1 -1 3383
+D3
+To the west you see only darkness.
+~
+ ~
+ ~
+ ~
+1 -1 3384
+D5
+A strange magical rift in space can be seen below you.
+~
+rift~
+ ~
+ ~
+2 6670 2799
+S
+#2977
+The war room~
+Here is where the king must plan the city's defence if it were ever attacked.
+Maps cover the walls and small tables are covered with papers and plans.  A
+perfect replica of the city has been created here, you better be carful where
+you step or you might crush a building and ruin the entire thing.
+~
+66 8 0 7
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2975
+S
+#2978
+The king's private chamber~
+The king's bedroom is also a testement to his overwhelming wealth and power.
+Silk sheets cover the canopy bed and a thick fur carpet covers the floor.
+A chest of drawers sits in the corner and pictures by very famous artists
+hang on every wall. Its almost as if this guy has money to burn.  Don't look
+now but he is using money for the fire in the fireplace.  In another corner
+~
+66 8 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2975
+E
+fireplace money~
+*sigh* none of the money is usable anymore, all burnt to a crisp.
+~
+E
+statue sculpture pedestal~
+This is a small statue of a green dragon carved from emerald.
+~
+E
+picture pictures~
+You can hardly see how a painting of dogs playing poker
+can be considered fine art.
+~
+E
+chest drawers~
+It's a beautiful chest of drawers made of polished
+valenwood. There are small trinkets on top collecting
+dust.
+~
+E
+trinket trinkets~
+Nothing much of interest, some small carvings made of
+wood, collections from the king's travels and a small
+jewelry box.
+~
+E
+carving carvings wood wooden~
+A small arangement of animals carved out of wood.  Many are of fantastic
+creatures, such as griffons and chimera.  You notice a small line carved
+around one of the animal's necks... Perhaps just a slip of the knife.
+~
+E
+collections collection~
+There are many nicnacs here.  Small momentos of the king's journeys.
+A small cerimonial knife, a dragon's tooth, and a bracelet with the
+name, "Vryce", inscribed upon are just a few of the more prominent
+pieces.
+~
+E
+box jewelry~
+It's a small box, inlaid with jewels.  It appears to be empty.
+~
+S
+#3368
+A forest path~
+Some of the smaller plants have been trampled here making a path through this
+thick forest. The lower branches and leaves of several trees look as though
+they have been chewed and gnawed on.  Cute forest creatures scurry at the
+sight of you, rustling through the underbrush.
+~
+66 0 3 1
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3376
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 237
+S
+#3369
+The edge of the forest~
+You are leaving the beauty of the mystical forest behind.  The trees and
+shrubs have become scarce and a flat, rocky landscape reaches out in front
+of you.  You can see the heat rising off the sun baked rocks in the
+distance.
+~
+66 4 2 1
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3370
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3373
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6098
+S
+#3370
+A rocky trail~
+The land on both sides of the trail is hard and rocky.  Jagged boulders and
+sharp stones litter the ground.  The trail remains smooth, however, and you
+have no trouble walking along it.  A swift-flowing river crosses your trail
+to the east far below with steep cliffed banks.  An arch made of dull
+gray stone stands at the edge of the cliff.  Odd runes are carved into the
+arch, written in an ancient language.  Beyond the river the trail leads
+into a small stand of trees, which blocks your view of the terrain beyond.
+~
+66 0 2 1
+0 0 0 0
+0 0 0
+D1
+A large stone archway is standing here at the top of the river bank.
+There seems to be a faint shimmering field of energy stretching across
+the interior of the arch.
+~
+energyfield field energy~
+ ~
+ ~
+2 6667 6170
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3372
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3369
+E
+trail path ground~
+You notice a small indentation in the ground, almost as if
+someone pressed their thumb into the dirt.
+~
+S
+#3371
+A rocky trail~
+The land on both sides of the trail is hard and rocky.  Jagged boulders and
+sharp stones litter the ground.  The trail remains smooth, however, and you
+have no trouble walking along it.  A swift-flowing river crosses your trail
+to the east far below with steep cliffed banks.  Beyond the river the path
+leads into a small stand of trees, which blocks your view of the terrain
+beyond.
+~
+66 0 2 1
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3372
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3374
+S
+#3372
+A rocky trail~
+The land on both sides of the trail is hard and rocky.  Jagged boulders and
+sharp stones litter the ground.  The trail remains smooth, however, and you
+have no trouble walking along it.  A swift-flowing river crosses your trail
+to the east far below with steep cliffed banks.  Beyond the river the path
+leads into a small stand of trees, which blocks your view of the terrain
+beyond.
+~
+66 0 2 1
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3370
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3371
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3373
+S
+#3373
+On the flatlands~
+As you travel deeper into the flatlands, a hot wind rises.  You sweat
+in your armor surveying this rough, harsh land of jagged rocks and
+hot sand, so unlike the forest.  Your sight is blurred by the heat
+rising from the ground, and by your own sweat.
+~
+66 0 8 1
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3369
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3372
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3374
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4381
+S
+#3374
+On the flatlands~
+As you travel deeper into the flatlands, a hot wind rises.  You sweat
+in your armor surveying this rough, harsh land of jagged rocks and
+hot sand, so unlike the forest.  Your sight is blurred by the heat
+rising from the ground, and by your own sweat.
+~
+66 0 8 1
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3373
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3371
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3375
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4380
+S
+#3375
+The edge of the forest~
+You are leaving the beauty of the mystical forest behind.  The trees and
+shrubs have become scarce and a flat, rocky landscape reaches out in front
+of you.  You can see the heat rising off the sun baked rocks in the
+distance.
+~
+66 4 2 1
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3374
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3378
+S
+#3376
+A large clearing in the forest~
+The trail is about ten feet wide.  Overhanging trees block out most
+of the bright blue sky.  The sun is still hidden by the tall trees,
+and only the bright sky lights up the forest.  Rabbits, squirrels,
+and other small animals run among the trees, bushes and scrub.  A
+few deer show their faces for a moment, then turn and run until their
+white tails vanish in the thick forest.  The trail seems to be
+opening up just ahead.  You come to a clearing with bright green
+grass and some patches of fragrant wild roses.
+~
+66 0 3 1
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3377
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3368
+S
+#3377
+A forest path~
+Some of the smaller plants have been trampled here making a path through this
+thick forest. The lower branches and leaves of several trees look as though
+they have been chewed and gnawed on.  Cute forest creatures scurry at the
+sight of you, rustling through the underbrush.
+~
+66 0 3 1
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3378
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3376
+S
+#3378
+A forest path~
+Some of the smaller plants have been trampled here making a path through this
+thick forest. The lower branches and leaves of several trees look as though
+they have been chewed and gnawed on.  Cute forest creatures scurry at the
+sight of you, rustling through the underbrush.
+~
+66 0 3 1
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3375
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3377
+S
+#3380
+A shadowy corner of town~
+You stand in a shadowy corner of the town's streets.  To the north and west
+are tall, stone walls of the buildings.  The walls block out the sun and
+create this shadowy alcove.  The city streets are to the south and east.
+A rickety wooden staircase leads up the side of the north building's wall.
+A shady looking man stands in the shadows here, watching you.
+~
+66 4 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1261
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1262
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 2459
+E
+man thief elgg dostann~
+You see a thin man, dressed in loose fitting grey clothing and soft leather
+boots. He has a dagger kept in a jewelled sheath at his side.  A long
+flowing cloak hangs from around his neck and down his back.  He approaches
+you and asks if you'd like to store your money under the protection of his
+guild.
+Elgg Dostann is in an excellent condition.
+~
+S
+#3381
+The Hall of Good Intent~
+You stand in the middle of a white plane. Everything is pure white, as pure as
+the driven snow. So white that you can't tell if there are walls or a ceiling
+because they blend in with the white of the floor.
+~
+66 520 0 0
+0 1 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2976
+S
+#3382
+The Hall of Law and Order~
+This is where all beings must come to be judged and where, sooner or later,
+justice will be served. This is the place where people believe that Law must
+be preserved in all things and that Law and Order is more important than good
+and evil. You can be good or you can be evil, as long as you don't break any
+laws in doing so.
+~
+66 512 0 0
+0 1 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2976
+S
+#3383
+The Hall of Chaos~
+This is just a place of mist. Constantly swirling, constantly changing. It
+symbolizes change, nothing here is ever the same from one moment to the next!
+Colors change, everything changes with no pattern whatsoever.
+~
+66 520 0 0
+0 1 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2976
+S
+#3384
+The Hall of Evil Intent~
+It is pitch black...
+~
+66 520 0 0
+0 1 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2976
+S
+#3385
+Base of the tower~
+You enter a dark tower with a think, musty smell in the air.  Dust and
+cobwebs cling to the walls and floor.  A large circular staircase leads
+upward into the darkness, following the wall.
+~
+66 521 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+door~
+ ~
+ ~
+2 6602 5808
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 3388
+S
+#3386
+A small landing~
+The staircase ends in a small landing here at the top of the tower.  It
+is a narrow platform and if you were to walk too far in any direction, you
+would plummet to your death at the bottom of the tower.
+~
+66 520 0 7
+13 0 0 0
+0 0 0
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 3387
+S
+#3387
+A staircase~
+You are climbing a huge staircase which follows the outter wall of the tower.
+No light sources are here to aid you and the stairs lead up and down as far
+as you can see, disappearing into the darkness.
+~
+66 525 0 7
+0 0 0 0
+0 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 3386
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 3388
+S
+#3388
+A staircase~
+You are climbing a huge staircase which follows the outter wall of the tower.
+No light sources are here to aid you and the stairs lead up and down as far
+as you can see, disappearing into the darkness.
+~
+66 521 0 7
+0 0 0 0
+0 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 3387
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 3385
+S
+#3389
+On the ocean~
+You are on a beautiful blue ocean.  Small waves roll past you towards
+shore.  Looking down you can see the smooth white sandy floor, a few
+shells lay scattered about, reflecting the suns light.
+~
+66 0 7 0
+0 0 0 0
+5 0 0
+D0
+~
+~
+~
+~
+0 0 63463
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3391
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 19010
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3394
+S
+#3390
+On the ocean~
+You are on a beautiful blue ocean.  Small waves roll past you towards
+shore.  Looking down you can see the smooth white sandy floor, a few
+shells lay scattered about, reflecting the suns light.  The waves become
+choppy and tretcherous to the north and east.
+~
+66 0 7 0
+0 0 0 0
+20 0 0
+D0
+~
+~
+~
+~
+0 0 63461
+D1
+~
+~
+~
+~
+0 0 63459
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3983
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3391
+S
+#3391
+On the ocean~
+You are on a beautiful blue ocean.  Small waves roll past you towards
+shore.  Looking down you can see the smooth white sandy floor, a few
+shells lay scattered about, reflecting the suns light.
+~
+66 0 7 0
+0 0 0 0
+5 0 0
+D0
+~
+~
+~
+~
+0 0 63462
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3390
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5806
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3389
+S
+#3392
+On the ocean~
+You are on a beautiful blue ocean. Small waves roll past you towards
+shore. Looking down you can see the smooth white sandy floor, a few
+shells lay scattered about, reflecting the suns light. The waves become
+choppy and tretcherous to the north and west.
+~
+66 0 7 0
+0 0 0 0
+20 0 0
+D0
+~
+~
+~
+~
+0 0 63466
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3393
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3397
+D3
+~
+~
+~
+~
+0 0 63460
+S
+#3393
+On the ocean~
+You are on a beautiful blue ocean.  Small waves roll past you towards
+shore.  Looking down you can see the smooth white sandy floor, a few
+shells lay scattered about, reflecting the suns light.  A large black tower
+can be seen on the beach to the south.
+~
+66 0 7 0
+0 0 0 0
+5 0 0
+D0
+~
+~
+~
+~
+0 0 63465
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3394
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5808
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3392
+S
+#3394
+On the ocean~
+You are on a beautiful blue ocean.  Small waves roll past you towards
+shore.  Looking down you can see the smooth white sandy floor, a few
+shells lay scattered about, reflecting the suns light.
+~
+66 0 7 0
+0 0 0 0
+5 0 0
+D0
+~
+~
+~
+~
+0 0 63464
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3389
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5807
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3393
+S
+#3395
+On the ocean~
+You are on a beautiful blue ocean. Small waves roll past you towards
+shore. Looking down you can see the smooth white sandy floor, a few
+shells lay scattered about, reflecting the suns light. The waves become
+choppy and tretcherous to the south and west.
+~
+66 0 7 0
+0 0 0 0
+20 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 477
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3399
+D2
+~
+~
+~
+~
+0 0 63450
+D3
+~
+~
+~
+~
+0 0 63452
+S
+#3396
+On the ocean~
+You are on a beautiful blue ocean. Small waves roll past you towards
+shore. Looking down you can see the smooth white sandy floor, a few
+shells lay scattered about, reflecting the suns light. The waves become
+choppy and tretcherous to the west.  A small, forested island is to the
+east. It meets the ocean in a steep cliff, preventing your access at this
+point.
+~
+66 0 7 0
+0 0 0 0
+20 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3397
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 477
+D3
+~
+~
+~
+~
+0 0 63456
+S
+#3397
+On the ocean~
+You are on a beautiful blue ocean. Small waves roll past you towards
+shore. Looking down you can see the smooth white sandy floor, a few
+shells lay scattered about, reflecting the suns light. The waves become
+choppy and tretcherous to the west.  A small, forested island is to the
+east. It meets the ocean in a steep cliff, preventing your access at this
+point.
+~
+66 0 7 0
+0 0 0 0
+20 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3392
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3396
+D3
+~
+~
+~
+~
+0 0 63458
+S
+#3398
+On the ocean~
+You are on a beautiful blue ocean. Small waves roll past you towards
+shore. Looking down you can see the smooth white sandy floor, a few
+shells lay scattered about, reflecting the suns light. The waves become
+choppy and tretcherous to the south.
+~
+66 0 7 0
+0 0 0 0
+10 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 244
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3402
+D2
+~
+~
+~
+~
+0 0 63448
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3399
+S
+#3399
+On the ocean~
+You are on a beautiful blue ocean. Small waves roll past you towards
+shore. Looking down you can see the smooth white sandy floor, a few
+shells lay scattered about, reflecting the suns light. The waves become
+choppy and tretcherous to the south.
+~
+66 0 7 0
+0 0 0 0
+20 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3398
+D2
+~
+~
+~
+~
+0 0 63449
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3395
+S
+#3400
+On the ocean~
+You are on a beautiful blue ocean.  Small waves roll past you towards
+shore.  Looking down you can see the smooth white sandy floor, a few
+shells lay scattered about, reflecting the suns light.  The waves become
+choppy and tretcherous to the east and south.
+~
+66 0 7 0
+0 0 0 0
+20 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3981
+D1
+~
+~
+~
+~
+0 0 63451
+D2
+~
+~
+~
+~
+0 0 63445
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3401
+S
+#3401
+On the ocean~
+You are on a beautiful blue ocean. Small waves roll past you towards
+shore. Looking down you can see the smooth white sandy floor, a few
+shells lay scattered about, reflecting the suns light. The waves become
+choppy and tretcherous to the south.
+~
+66 0 7 0
+0 0 0 0
+20 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3984
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3400
+D2
+~
+~
+~
+~
+0 0 63446
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3402
+S
+#3402
+On the ocean~
+You are on a beautiful blue ocean. Small waves roll past you towards
+shore. Looking down you can see the smooth white sandy floor, a few
+shells lay scattered about, reflecting the suns light. The waves become
+choppy and tretcherous to the south.
+~
+66 0 7 0
+0 0 0 0
+10 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3401
+D2
+~
+~
+~
+~
+0 0 63447
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3398
+S
+#3403
+The Cracked Anvil~
+The name of this fine shop obviously refers solely to the anvil and not to the
+fine armor that it produces. Having hundreds of years to work on his products
+the armorer has obviously reached the top of his profession. Every piece of
+armor in this shop rivals that which you have ever seen, gleeming in the
+firelight of the forge. A sign glows brightly over the forge.
+~
+66 1036 0 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1263
+E
+anvil cracked~
+The anvil apparently has been used for centuries. And judging by the strength
+of the armorer, he must have gotten a little carried away and hit the thing
+just a bit too hard one day. Oh well, these things happen.
+~
+E
+sign~
+              The Cracked Anvil
+Here you will find the finest armor in all the world.
+However, I won't sell it to just anyone! So ask
+nicely and type 'list' to see what Im willing to sell
+to 'ya.
+~
+S
+#3404
+The corner of the battlement~
+You stand at the corner of the battlement, high above the city streets.
+Looking down, you can see all the people walking around going about
+their business.  This is an opportune place to watch for crime.
+~
+66 0 1 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3415
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3405
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 2466
+S
+#3405
+On the battlement~
+You stand atop the battlement which runs around the top of the city
+wall, high above the town's streets.  Looking down, you can see all
+the people walking around going about their business.  This is an
+opportune place to watch for crime.
+~
+66 0 1 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3404
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3406
+S
+#3406
+On the battlement~
+You stand atop the battlement which runs around the top of the city
+wall, high above the town's streets.  Looking down, you can see all
+the people walking around going about their business.  This is an
+opportune place to watch for crime.
+~
+66 0 1 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3405
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3407
+S
+#3407
+On the battlement~
+You stand atop the battlement which runs around the top of the city
+wall, high above the town's streets.  Looking down, you can see all
+the people walking around going about their business.  This is an
+opportune place to watch for crime.
+~
+66 0 1 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3406
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3408
+S
+#3408
+On the battlement~
+You stand atop the battlement which runs around the top of the city
+wall, high above the town's streets.  Looking down, you can see all
+the people walking around going about their business.  This is an
+opportune place to watch for crime.
+~
+66 0 1 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3407
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3409
+S
+#3409
+On the battlement~
+You stand atop the battlement which runs around the top of the city
+wall, high above the town's streets.  Looking down, you can see all
+the people walking around going about their business.  This is an
+opportune place to watch for crime.
+~
+66 0 1 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3408
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3410
+S
+#3410
+On the battlement~
+You stand atop the battlement which runs around the top of the city
+wall, high above the town's streets.  Looking down, you can see all
+the people walking around going about their business.  This is an
+opportune place to watch for crime.
+~
+66 0 1 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3409
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3411
+S
+#3411
+On the battlement~
+You stand atop the battlement which runs around the top of the city
+wall, high above the town's streets.  Looking down, you can see all
+the people walking around going about their business.  This is an
+opportune place to watch for crime.
+~
+66 0 1 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3410
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3412
+S
+#3412
+On the battlement~
+You stand atop the battlement which runs around the top of the city
+wall, high above the town's streets.  Looking down, you can see all
+the people walking around going about their business.  This is an
+opportune place to watch for crime.
+~
+66 0 1 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3411
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3413
+S
+#3413
+On the battlement~
+You stand atop the battlement which runs around the top of the city
+wall, high above the town's streets.  Looking down, you can see all
+the people walking around going about their business.  This is an
+opportune place to watch for crime.
+~
+66 0 1 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3412
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3414
+S
+#3414
+The corner of the battlement~
+You stand at the corner of the battlement, high above the city streets.
+Looking down, you can see all the people walking around going about
+their business.  This is an opportune place to watch for crime.
+~
+66 0 1 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3413
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3626
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 3978
+S
+#3415
+On the battlement~
+You stand atop the battlement which runs around the top of the city
+wall, high above the town's streets.  Looking down, you can see all
+the people walking around going about their business.  This is an
+opportune place to watch for crime.
+~
+66 0 1 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3416
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3404
+S
+#3416
+On the battlement~
+You stand atop the battlement which runs around the top of the city
+wall, high above the town's streets.  Looking down, you can see all
+the people walking around going about their business.  This is an
+opportune place to watch for crime.
+~
+66 0 1 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3417
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3415
+S
+#3417
+On the battlement~
+You stand atop the battlement which runs around the top of the city
+wall, high above the town's streets.  Looking down, you can see all
+the people walking around going about their business.  This is an
+opportune place to watch for crime.
+~
+66 0 1 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3418
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3416
+S
+#3418
+On the battlement~
+You stand atop the battlement which runs around the top of the city
+wall, high above the town's streets.  Looking down, you can see all
+the people walking around going about their business.  This is an
+opportune place to watch for crime.
+~
+66 0 1 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3419
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3417
+S
+#3419
+On the battlement~
+You stand atop the battlement which runs around the top of the city
+wall, high above the town's streets.  Looking down, you can see all
+the people walking around going about their business.  This is an
+opportune place to watch for crime.
+~
+66 0 1 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3424
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3418
+S
+#3424
+On the battlement~
+You stand atop the battlement which runs around the top of the city
+wall, high above the town's streets.  Looking down, you can see all
+the people walking around going about their business.  This is an
+opportune place to watch for crime.
+~
+66 0 1 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3425
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3419
+S
+#3425
+On the battlement~
+You stand atop the battlement which runs around the top of the city
+wall, high above the town's streets.  Looking down, you can see all
+the people walking around going about their business.  This is an
+opportune place to watch for crime.
+~
+66 0 1 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3426
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3424
+S
+#3426
+On the battlement~
+You stand atop the battlement which runs around the top of the city
+wall, high above the town's streets.  Looking down, you can see all
+the people walking around going about their business.  This is an
+opportune place to watch for crime.
+~
+66 0 1 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3427
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3425
+S
+#3427
+On the battlement~
+You stand atop the battlement which runs around the top of the city
+wall, high above the town's streets.  Looking down, you can see all
+the people walking around going about their business.  This is an
+opportune place to watch for crime.
+~
+66 0 1 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3428
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3426
+S
+#3428
+The corner of the battlement~
+You stand at the corner of the battlement, high above the city streets.
+Looking down, you can see all the people walking around going about
+their business.  This is an opportune place to watch for crime.
+~
+66 0 1 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3977
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3427
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 3980
+S
+#3626
+On the battlement~
+You stand atop the battlement which runs around the top of the city
+wall, high above the town's streets.  Looking down, you can see all
+the people walking around going about their business.  This is an
+opportune place to watch for crime.
+~
+66 0 1 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3627
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3414
+S
+#3627
+On the battlement~
+You stand atop the battlement which runs around the top of the city
+wall, high above the town's streets.  Looking down, you can see all
+the people walking around going about their business.  This is an
+opportune place to watch for crime.
+~
+66 0 1 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3951
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3626
+S
+#3951
+On the battlement~
+You stand atop the battlement which runs around the top of the city
+wall, high above the town's streets.  Looking down, you can see all
+the people walking around going about their business.  This is an
+opportune place to watch for crime.
+~
+66 0 1 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3952
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3627
+S
+#3952
+On the battlement~
+You stand atop the battlement which runs around the top of the city
+wall, high above the town's streets.  Looking down, you can see all
+the people walking around going about their business.  This is an
+opportune place to watch for crime.
+~
+66 0 1 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3953
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3951
+S
+#3953
+On the battlement~
+You stand atop the battlement which runs around the top of the city
+wall, high above the town's streets.  Looking down, you can see all
+the people walking around going about their business.  This is an
+opportune place to watch for crime.
+~
+66 0 1 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3954
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3952
+S
+#3954
+On the battlement~
+You stand atop the battlement which runs around the top of the city
+wall, high above the town's streets.  Looking down, you can see all
+the people walking around going about their business.  This is an
+opportune place to watch for crime.
+~
+66 0 1 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3955
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3953
+S
+#3955
+On the battlement~
+You stand atop the battlement which runs around the top of the city
+wall, high above the town's streets.  Looking down, you can see all
+the people walking around going about their business.  This is an
+opportune place to watch for crime.
+~
+66 0 1 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3956
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3954
+S
+#3956
+On the battlement~
+You stand atop the battlement which runs around the top of the city
+wall, high above the town's streets.  Looking down, you can see all
+the people walking around going about their business.  This is an
+opportune place to watch for crime.
+~
+66 0 1 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3957
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3955
+S
+#3957
+On the battlement~
+You stand atop the battlement which runs around the top of the city
+wall, high above the town's streets.  Looking down, you can see all
+the people walking around going about their business.  This is an
+opportune place to watch for crime.
+~
+66 0 1 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3958
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3956
+S
+#3958
+The corner of the battlement~
+You stand at the corner of the battlement, high above the city streets.
+Looking down, you can see all the people walking around going about
+their business.  This is an opportune place to watch for crime.
+~
+66 0 1 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3959
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3957
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 3979
+S
+#3959
+On the battlement~
+You stand atop the battlement which runs around the top of the city
+wall, high above the town's streets.  Looking down, you can see all
+the people walking around going about their business.  This is an
+opportune place to watch for crime.
+~
+66 0 1 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3960
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3958
+S
+#3960
+On the battlement~
+You stand atop the battlement which runs around the top of the city
+wall, high above the town's streets.  Looking down, you can see all
+the people walking around going about their business.  This is an
+opportune place to watch for crime.
+~
+66 0 1 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3961
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3959
+S
+#3961
+On the battlement~
+You stand atop the battlement which runs around the top of the city
+wall, high above the town's streets.  Looking down, you can see all
+the people walking around going about their business.  This is an
+opportune place to watch for crime.
+~
+66 0 1 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3962
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3960
+S
+#3962
+On the battlement~
+You stand atop the battlement which runs around the top of the city
+wall, high above the town's streets.  Looking down, you can see all
+the people walking around going about their business.  This is an
+opportune place to watch for crime.
+~
+66 0 1 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3963
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3961
+S
+#3963
+On the battlement~
+You stand atop the battlement which runs around the top of the city
+wall, high above the town's streets.  Looking down, you can see all
+the people walking around going about their business.  This is an
+opportune place to watch for crime.
+~
+66 0 1 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3974
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3962
+S
+#3974
+On the battlement~
+You stand atop the battlement which runs around the top of the city
+wall, high above the town's streets.  Looking down, you can see all
+the people walking around going about their business.  This is an
+opportune place to watch for crime.
+~
+66 0 1 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3975
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3963
+S
+#3975
+On the battlement~
+You stand atop the battlement which runs around the top of the city
+wall, high above the town's streets.  Looking down, you can see all
+the people walking around going about their business.  This is an
+opportune place to watch for crime.
+~
+66 0 1 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3976
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3974
+S
+#3976
+On the battlement~
+You stand atop the battlement which runs around the top of the city
+wall, high above the town's streets.  Looking down, you can see all
+the people walking around going about their business.  This is an
+opportune place to watch for crime.
+~
+66 0 1 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3977
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3975
+S
+#3977
+On the battlement~
+You stand atop the battlement which runs around the top of the city
+wall, high above the town's streets.  Looking down, you can see all
+the people walking around going about their business.  This is an
+opportune place to watch for crime.
+~
+66 0 1 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3428
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3976
+S
+#3978
+Inside a round tower~
+You are inside a round tower.  Cots and bunk beds are lined up around the
+walls and chests sit at the foot of each bed.  The room is fairly clean except
+for some dust in the corners.  A circular staircase leads upward through the
+ceiling.
+~
+66 12 0 7
+0 0 0 0
+0 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 3414
+S
+#3979
+Inside a round tower~
+You are inside a round tower.  Cots and bunk beds are lined up around the
+walls and chests sit at the foot of each bed.  The room is fairly clean except
+for some dust in the corners.  A circular staircase leads upward through the
+ceiling.
+~
+66 12 0 7
+0 0 0 0
+0 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 3958
+S
+#3980
+Inside a round tower~
+You are inside a round tower.  Cots and bunk beds are lined up around the
+walls and chests sit at the foot of each bed.  The room is fairly clean except
+for some dust in the corners.  A circular staircase leads upward through the
+ceiling.
+~
+66 12 0 7
+0 0 0 0
+0 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 3428
+S
+#3981
+On the ocean~
+You are on a beautiful blue ocean.  Small waves roll past you towards
+shore.  Looking down you can see the smooth white sandy floor, a few
+shells lay scattered about, reflecting the suns light.  The waves become
+choppy and tretcherous to the east.
+~
+66 0 7 0
+0 0 0 0
+20 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3982
+D1
+~
+~
+~
+~
+0 0 63453
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3400
+S
+#3982
+On the ocean~
+You are on a beautiful blue ocean.  Small waves roll past you towards
+shore.  Looking down you can see the smooth white sandy floor, a few
+shells lay scattered about, reflecting the suns light.  The waves become
+choppy and tretcherous to the east.
+~
+66 0 7 0
+0 0 0 0
+20 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3983
+D1
+~
+~
+~
+~
+0 0 63455
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3981
+S
+#3983
+On the ocean~
+You are on a beautiful blue ocean.  Small waves roll past you towards
+shore.  Looking down you can see the smooth white sandy floor, a few
+shells lay scattered about, reflecting the suns light.  The waves become
+choppy and tretcherous to the east.
+~
+66 0 7 0
+0 0 0 0
+20 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3390
+D1
+~
+~
+~
+~
+0 0 63457
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3982
+S
+#3984
+The mouth of a river~
+A river is to the north that separates the main island with a much smaller
+island. This is the connection between the river and the ocean. A small
+waterfall allows the water from the river to join with the ocean and keeps the
+ocean from polluting the freshwater of the river.
+~
+66 0 7 0
+0 0 0 0
+5 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3987
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3401
+S
+#3985
+The river~
+The river is small and fast moving. Steep cliffs rise to either side of you
+that prevent you from reaching either island. Effectively keeping you trapped
+on the river. Below you dark shapes can be seen in the water, LARGE dark
+shapes....
+~
+66 0 7 0
+0 0 0 0
+5 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3988
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3986
+S
+#3986
+The river~
+The river is small and fast moving. Steep cliffs rise to either side of you
+that prevent you from reaching either island. Effectively keeping you trapped
+on the river. Below you dark shapes can be seen in the water, LARGE dark
+shapes....
+~
+66 0 7 0
+0 0 0 0
+5 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3985
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3987
+S
+#3987
+The river~
+The river is small and fast moving. Steep cliffs rise to either side of you
+that prevent you from reaching either island. Effectively keeping you trapped
+on the river. Below you dark shapes can be seen in the water, LARGE dark
+shapes....
+~
+66 0 7 0
+0 0 0 0
+5 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3986
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3984
+S
+#3988
+Source of the river~
+The source of this river is apparently an underground spring, because the
+water bubbles up from below. It is also a hot spring judging by the air
+temperature and the steam rising off the water.
+~
+66 0 7 0
+0 0 0 0
+5 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3985
+S
+#3989
+A mob shoot~
+This room is a mob shoot for the northern part of The Mystical Forest.
+~
+66 516 6 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5784
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5787
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5723
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5789
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 5785
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 5793
+S
+#3990
+A mob shoot~
+This room is a mob shoot for the northern-middle part of the Mystical
+Forest.
+~
+66 512 3 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5950
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5944
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6091
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6088
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 6096
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 6095
+S
+#4380
+On the flatlands~
+As you travel deeper into the flatlands, a hot wind rises.  You sweat
+in your armor surveying this rough, harsh land of jagged rocks and
+hot sand, so unlike the forest.  Your sight is blurred by the heat
+rising from the ground, and by your own sweat.
+~
+66 0 8 1
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4381
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3374
+S
+#4381
+On the flatlands~
+As you travel deeper into the flatlands, a hot wind rises.  You sweat
+in your armor surveying this rough, harsh land of jagged rocks and
+hot sand, so unlike the forest.  Your sight is blurred by the heat
+rising from the ground, and by your own sweat.
+~
+66 0 8 1
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3373
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4380
+S
+#4382
+A forest path~
+Some of the smaller plants have been trampled here making a path through this
+thick forest. The lower branches and leaves of several trees look as though
+they have been chewed and gnawed on.  Cute forest creatures scurry at the
+sight of you, rustling through the underbrush.
+~
+66 0 3 1
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4383
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4385
+S
+#4383
+A forest path~
+Some of the smaller plants have been trampled here making a path through this
+thick forest. The lower branches and leaves of several trees look as though
+they have been chewed and gnawed on.  Cute forest creatures scurry at the
+sight of you, rustling through the underbrush.
+~
+66 0 3 1
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 238
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4827
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4382
+S
+#4384
+A forest path~
+Some of the smaller plants have been trampled here making a path through this
+thick forest. The lower branches and leaves of several trees look as though
+they have been chewed and gnawed on.  Cute forest creatures scurry at the
+sight of you, rustling through the underbrush.
+~
+66 0 3 1
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4385
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4660
+S
+#4385
+A forest path~
+Some of the smaller plants have been trampled here making a path through this
+thick forest. The lower branches and leaves of several trees look as though
+they have been chewed and gnawed on.  Cute forest creatures scurry at the
+sight of you, rustling through the underbrush.
+~
+66 0 3 1
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4382
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4384
+S
+#4499
+In a whirlpool~
+You are trapped inside a spinning whirlpool.  The swirling water forms
+a wall on all sides of you and the current is pulling you under.
+~
+66 4 9 0
+0 0 0 0
+0 0 0
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 3389
+S
+#4500
+On the ocean~
+You are on a great, magestic ocean. The water is clean and the air fresh.
+A few strands of seaweed float near the surface along with a piece of
+drift wood.  The waters become too choppy and tretcherous to continue to
+the north.
+~
+66 0 7 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4510
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4503
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4511
+S
+#4501
+On the ocean~
+You are on a great, magestic ocean.  The water is clean and the air fresh.
+A few strands of seaweed float near the surface along with a piece of
+drift wood.
+~
+66 0 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4504
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4505
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4502
+S
+#4502
+On the ocean~
+You are on a great, magestic ocean.  The water is clean and the air fresh.
+A few strands of seaweed float near the surface along with a piece of
+drift wood.
+~
+66 0 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4510
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4501
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4507
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4503
+S
+#4503
+On the ocean~
+You are on a great, magestic ocean.  The water is clean and the air fresh.
+A few strands of seaweed float near the surface along with a piece of
+drift wood.  A strong current is pulling you westward.
+~
+66 0 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4500
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4502
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4508
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4499
+S
+#4504
+On the ocean~
+You are on a great, magestic ocean.  The water is clean and the air fresh.
+A few strands of seaweed float near the surface along with a piece of
+drift wood.  The waves crash against a tall cliff to your east, you have
+fight to keep from being thrown against it.  The waters become too choppy
+and tretcherous to continue to the north.
+~
+66 0 7 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4501
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4510
+S
+#4505
+On the ocean~
+You are on a great, magestic ocean. The water is clean and the air fresh.
+A few strands of seaweed float near the surface along with a piece of
+drift wood. The waves crash against a tall cliff to your east, you have
+fight to keep from being thrown against it. The waters become too choppy
+and tretcherous to continue to the south.
+~
+66 0 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4501
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4507
+S
+#4507
+On the ocean~
+You are on a great, magestic ocean. The water is clean and the air fresh.
+A few strands of seaweed float near the surface along with a piece of
+drift wood.  The waters become too choppy and tretcherous to continue to
+the south.
+~
+66 0 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4502
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4505
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4508
+S
+#4508
+On the ocean~
+You are on a great, magestic ocean. The water is clean and the air fresh.
+A few strands of seaweed float near the surface along with a piece of
+drift wood.  The waters become too choppy and tretcherous to continue to
+the south.
+~
+66 0 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4503
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4507
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4509
+S
+#4509
+On the ocean~
+You are on a great, magestic ocean. The water is clean and the air fresh.
+A few strands of seaweed float near the surface along with a piece of
+drift wood.  The waters become too choppy and tretcherous to continue to
+the south or west.  A strong current is pulling you north.
+~
+66 0 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4499
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4508
+S
+#4510
+On the ocean~
+You are on a great, magestic ocean. The water is clean and the air fresh.
+A few strands of seaweed float near the surface along with a piece of
+drift wood.  The waters become too choppy and tretcherous to continue to
+the north.
+~
+66 0 7 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4504
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4502
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4500
+S
+#4511
+On the ocean~
+You are on a great, magestic ocean. The water is clean and the air fresh.
+A few strands of seaweed float near the surface along with a piece of
+drift wood.  The waters become too choppy and tretcherous to continue to
+the north or west.  A strong current is pulling you south.
+~
+66 0 7 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4500
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4499
+S
+#4660
+A forest path~
+Some of the smaller plants have been trampled here making a path through this
+thick forest. The lower branches and leaves of several trees look as though
+they have been chewed and gnawed on.  Cute forest creatures scurry at the
+sight of you, rustling through the underbrush.
+~
+66 0 3 1
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4827
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4384
+S
+#4827
+A forest path~
+Some of the smaller plants have been trampled here making a path through this
+thick forest. The lower branches and leaves of several trees look as though
+they have been chewed and gnawed on.  Cute forest creatures scurry at the
+sight of you, rustling through the underbrush.
+~
+66 0 3 1
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4383
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4660
+S
+#5708
+In a whirlpool~
+You are trapped inside a spinning whirlpool.  The swirling water forms
+a wall on all sides of you and the current is pulling you under.
+~
+66 4 9 0
+0 0 0 0
+10 0 0
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 4502
+S
+#5722
+Entering the forest~
+The forest and the mist seem to close in around you. You leave the beach
+behind and enter this strange forest. The trees are larger than any you have
+ever seen before, they rival even those of the forest of Han-dor. Animals you
+have, until now, only seen in books seem to be commonplace here.
+~
+66 0 3 1
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 19010
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5723
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5782
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5785
+S
+#5723
+The mystical forest~
+You are in the middle of a mystical forest on a forgotten island. Strange
+creatures hide in the shadows just out of eyesight. Huge beasts lurk just off
+in the distance leading you to wonder if they are staying away out of fear or
+because they are waiting for an opportune time to strike.
+~
+66 0 3 1
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5760
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5777
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5722
+S
+#5760
+A trail between the cliffs~
+A small trail begins here. You leave the forest behind for this rocky path
+which is cluttered with rubble and a few weeds.  It snakes through cliffs
+and looks as if it continues up the valley walls further on.
+~
+66 4 4 1
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5761
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5723
+S
+#5761
+A small valley~
+The path leads you up the walls of this small valley to a point high above the
+treetops. There are footprints in the dirt which are obviously recent and made
+by a human. The valley is curved, like a crescent moon, and the path follows
+the north-eastern wall, leading to what appears to be several caves in the
+distance.
+~
+66 0 4 1
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5762
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5760
+S
+#5762
+A mountain path~
+The small path continues here. You have to hug the wall and travel very
+slowly to avoid falling in several places. This is one of those places you
+don't want to look down. A fall would be certain death, perhaps you should
+have taken those mountain climbing classes back in town, eh?
+~
+66 0 4 1
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5763
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5765
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5761
+S
+#5763
+A cave~
+You are in a cave that appears to be used as a home. The cave is not entirely
+natural, some of the walls have obviously been chipped away with some sort of
+tool, and strange pictures have been drawn on the walls in several places.
+There is a pit in the floor for building a fire and niches have been carved
+in several places for storage. Necessity, not comfort, dictates the layout of
+this home.
+~
+66 8 4 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5762
+S
+#5764
+A turn in the path~
+The path gets wider here and has apparently seen much more use. The path
+follows the valley as it takes a sharp turn to the south. There are caves
+to the north and east. Several buckets are here filled with water leading you
+to believe that this is some sort of gathering place for the inhabitants of
+this prehistoric village.
+~
+66 0 4 1
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5767
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5768
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5769
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5765
+S
+#5765
+A mountain path~
+The small path continues here. You have to hug the wall and travel very
+slowly to avoid falling in several places. This is one of those places you
+don't want to look down. A fall would mean a long and painful slide down the
+side of the cliff, and who knows what waits for you at the bottom. All the
+same you'd rather not think about it.
+~
+66 0 4 1
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5766
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5764
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5762
+S
+#5766
+A cave~
+You are in a cave that appears to be used as a home. The cave is not entirely
+natural, some of the walls have obviously been chipped away with some sort of
+tool, and strange pictures have been drawn on the walls in several places.
+There is a pit in the floor for building a fire and niches have been carved
+in several places for storage. Necessity, not comfort, dictates the layout of
+this home.
+~
+66 8 4 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5765
+S
+#5767
+A cave~
+You are in a cave that appears to be used as a home. The cave is not entirely
+natural, some of the walls have obviously been chipped away with some sort of
+tool, and strange pictures have been drawn on the walls in several places.
+There is a pit in the floor for building a fire and niches have been carved
+in several places for storage. Necessity, not comfort, dictates the layout of
+this home.
+~
+66 8 4 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5764
+S
+#5768
+A cave~
+You are in a cave that appears to be used as a home. The cave is not entirely
+natural, some of the walls have obviously been chipped away with some sort of
+tool, and strange pictures have been drawn on the walls in several places.
+There is a pit in the floor for building a fire and niches have been carved
+in several places for storage. Necessity, not comfort, dictates the layout of
+this home.
+~
+66 8 4 7
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5764
+S
+#5769
+A mountain path~
+The small path continues here. You have to hug the wall and travel very
+slowly to avoid falling in several places. This is one of those places you
+don't want to look down. A fall would mean a long and painful slide down the
+side of the cliff, and who knows what waits for you at the bottom. All the
+same you'd rather not think about it.
+~
+66 0 4 1
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5764
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5770
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5771
+S
+#5770
+A cave~
+You are in a cave that appears to be used as a home. The cave is not entirely
+natural, some of the walls have obviously been chipped away with some sort of
+tool, and strange pictures have been drawn on the walls in several places.
+There is a pit in the floor for building a fire and niches have been carved
+in several places for storage. Necessity, not comfort, dictates the layout of
+this home.
+~
+66 8 4 7
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5769
+S
+#5771
+End of the path~
+The end of the trail widens as you approach some very important looking caves.
+The cave to the east is surrounded by drawings of skulls, dragons, etc. all
+drawn in what appears to be blood. While the cave to the south is just the
+largest of all the caves you've seen so far, no doubt someone important lives
+there.
+~
+66 0 4 1
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5769
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5772
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5773
+S
+#5772
+The cave of the Shaman~
+This cave must belong to the shaman of the village. Skulls litter the floor,
+strange herbs hang from pouches from the ceiling, and pictures drawn in blood
+cover the walls. A large stone altar is in the center of the room, apparently
+so the patients have somewhere to die. Pictures of a huge dragon cover one
+wall and several sigils of warding have been scribed in blood around them.
+~
+66 12 4 7
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5771
+E
+pictures picture dragon~
+The pictures tell about this mighty dragon. Apparently it fed upon the
+people and animals of this forest. The villages finally decided to do
+something and lured the dragon onto a smaller island next to this one. Once
+the dragon was there, the villagers used some sort of ancient magic to force
+the beast into a slumber, forever ridding the forest of its presence.
+~
+E
+blood~
+Its type O-positive if you really need to know!
+~
+E
+altar stone~
+The alter is apparently used to conduct sacrifices to some evil being, It's
+covered in strange runes and is covered in blood.
+~
+E
+wall walls~
+The walls are covered in pictures.
+~
+S
+#5773
+The chief's cave~
+This cave is so large and richly decorated that it must be the chief's home.
+Furs from many different animals covering the floor, and a fire pit with a
+vent to the outside, keep this cave significantly warmer than other caves you
+have visited. Colorful pictures, made of plant dyes, tell the history of the
+tribe forever preserving it on the stone walls.  A large boulder blocks
+what appears to be more of the cave to the east.
+~
+66 12 4 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5771
+D1
+ ~
+door carved from the boulder~
+e~
+ ~
+4 6606 5776
+E
+pictures history colorful~
+Apparently the tribe did not always live here. The pictures show a huge,
+magnificent city, which the villagers leave (or are banished from?) before
+coming here. The pictures show the villagers turning their backs on some huge
+stone creature, several creatures in fact. The pictures then go on to hail
+their chief for defeating the dragon and saving the tribe with his great
+leadership.
+~
+E
+fur furs~
+The furs are off strange animals that you have never seen before. They make
+the room much more comfortable to be in. If you didn't know better you'd think
+they were being used as a rug.
+~
+E
+boulder~
+The boulder blocks part of the cave. It has a keyhole and a locking mechanism
+which doesn't make sense if these people are as primitive as you thought.
+Perhaps there is more than meets the eye in this village.
+~
+S
+#5776
+The village treasure room~
+This room is used to hide the treasures of the tribe. Paints made of plant
+dyes, grain, crude grain alcohol, and treasure, lie in clay containers on the
+floor. Dried meat hangs from the ceiling to make sure the tribe does not go
+hungry if a food shortage should occur. Not much here is worth anything to a
+civilized person, but you may be able to find something.
+~
+66 8 4 0
+0 0 0 0
+0 0 0
+D3
+A crude door carved from the natural stone.
+~
+door~
+ ~
+ ~
+2 6606 5773
+S
+#5777
+The mystical forest~
+You are in the middle of a mystical forest on a forgotten island. Strange
+creatures hide in the shadows just out of eyesight. Huge beasts lurk just off
+in the distance leading you to wonder if they are staying away out of fear or
+because they are waiting for an opportune time to strike.
+~
+66 0 3 1
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5723
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5778
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5782
+S
+#5778
+A trail near the volcano~
+The trail becomes rockier as it slowly ascends the slope of a huge volcano.
+The path is devoid of all plant life due to previous lava flows. A slight
+rumble and a pillar of smoke escape the top of the volcano, warning you
+that this is an active volcano.
+~
+66 4 4 1
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5777
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5779
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5781
+S
+#5779
+At the mouth of the volcano~
+You are standing at the rim of a huge volcano. The steam that rises from below
+is almost hot enough to melt the steel in your weapons, not to mention your
+flesh.  Below you, you can see the lava that, you assume, makes this strange
+world so hot, furnishing it with lush forests and exotic creatures.
+~
+66 0 5 1
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5778
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5780
+S
+#5780
+A trail near the volcano~
+The trail becomes rockier as it slowly ascends the slope of a huge volcano.
+The path is devoid of all plant life due to previous lava flows. A slight
+rumble and a pillar of smoke escape the top of the volcano, warning you
+that this is an active volcano.
+~
+66 4 4 1
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5781
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5779
+S
+#5781
+A forest path~
+There are some narrow trails through this thick forest. The lower branches and
+leaves of several trees look as though they have been chewed and gnawed on.
+Grass and moss cover most of the trails and you can see hoof prints in the
+dirt.  Some of the branches and shrubs appear to have been trampled and
+crushed.
+~
+66 0 3 1
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5782
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5778
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5780
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5784
+S
+#5782
+A forest path~
+There are some narrow trails through this thick forest. The lower branches and
+leaves of several trees look as though they have been chewed and gnawed on.
+Grass and moss cover most of the trails and you can see hoof prints in the
+dirt.  Some of the branches and shrubs appear to have been trampled and
+crushed.
+~
+66 0 3 1
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5722
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5777
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5781
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5783
+S
+#5783
+A forest path~
+There are some narrow trails through this thick forest. The lower branches and
+leaves of several trees look as though they have been chewed and gnawed on.
+Grass and moss cover most of the trails and you can see hoof prints in the
+dirt.  Some of the branches and shrubs appear to have been trampled and
+crushed.
+~
+66 0 3 1
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5782
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5784
+S
+#5784
+A forest path~
+There are some narrow trails through this thick forest. The lower branches and
+leaves of several trees look as though they have been chewed and gnawed on.
+Grass and moss cover most of the trails and you can see hoof prints in the
+dirt.  Some of the branches and shrubs appear to have been trampled and
+crushed.
+~
+66 0 3 1
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5783
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5781
+S
+#5785
+Entering the forest~
+The forest and the mist seem to close in around you. You leave the beach
+behind and enter this strange forest. The trees are larger than any you have
+ever seen before, they rival even those of the forest of Han-dor. Animals you
+have, until now, only seen in books seem to be commonplace here.
+~
+66 0 3 1
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5807
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5722
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5786
+S
+#5786
+The forgotten forest~
+You are in the middle of a mystical forest on a forgotten island. Strange
+creatures hide in the shadows just out of eyesight. Huge beasts lurk off in
+the distance leading you to wonder if they are staying away out of fear or
+because they are waiting for an opportune time to strike.
+~
+66 0 3 1
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5785
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5787
+S
+#5787
+The forgotten forest~
+You are in the middle of a mystical forest on a forgotten island. Strange
+creatures hide in the shadows just out of eyesight. Huge beasts lurk off in
+the distance leading you to wonder if they are staying away out of fear or
+because they are waiting for an opportune time to strike.
+~
+66 0 3 1
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5786
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5788
+S
+#5788
+Deep in the forest~
+The forest surrounds you as you travel deeper into its depths. Moving shadows
+and sounds from within them keep your nerves on edge. Your never sure when
+you're going to run into some strange creature that makes this forest its
+home.
+~
+66 0 3 1
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5787
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5791
+S
+#5789
+A forest clearing~
+The clearing allows you to once again see the bright light of day. Its large
+enough for even the mightiest dragon to fit in and you're not sure if it's
+wise to leave yourself so exposed and visible, you can't help but feel you're
+being watched from the shadows.
+~
+66 0 3 1
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5790
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5796
+S
+#5790
+Deep in the forest~
+The forest surrounds you as you travel deeper into its depths. Moving shadows
+and sounds from within them keep your nerves on edge. Your never sure when
+you're going to run into some strange creature that makes this forest its
+home.
+~
+66 0 3 1
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5791
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5789
+S
+#5791
+Deep in the forest~
+The forest surrounds you as you travel deeper into its depths. Moving shadows
+and sounds from within them keep your nerves on edge. Your never sure when
+you're going to run into some strange creature that makes this forest its
+home.
+~
+66 0 3 1
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5788
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5790
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5792
+S
+#5792
+Deep in the forest~
+The forest surrounds you as you travel deeper into its depths. Moving shadows
+and sounds from within them keep your nerves on edge. Your never sure when
+you're going to run into some strange creature that makes this forest its
+home.
+~
+66 0 3 1
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5791
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5793
+S
+#5793
+Deep within the mystical forest~
+The trees reach far into the sky, as if to try and touch it.  A warm mist
+surrounds you as you walk along the moist forest trail.  The forest is never
+quiet, there is always some creature calling out to its group for protection,
+or screaming out in terror as it is attacked and dies.  Such is the way in
+nature, only the strong survive.
+~
+66 0 3 1
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5792
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5794
+S
+#5794
+Deep within the mystical forest~
+The trees reach far into the sky, as if to try and touch it.  A warm mist
+surrounds you as you walk along the moist forest trail.  The forest is never
+quiet, there is always some creature calling out to its group for protection,
+or screaming out in terror as it is attacked and dies.  Such is the way in
+nature, only the strong survive.
+~
+66 0 3 1
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5793
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5795
+S
+#5795
+Deep within the mystical forest~
+The trees reach far into the sky, as if to try and touch it.  A warm mist
+surrounds you as you walk along the moist forest trail.  The forest is never
+quiet, there is always some creature calling out to its group for protection,
+or screaming out in terror as it is attacked and dies.  Such is the way in
+nature, only the strong survive.
+~
+66 0 3 1
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5794
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5796
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5943
+S
+#5796
+Deep within the mystical forest~
+The trees reach far into the sky, as if to try and touch it.  A warm mist
+surrounds you as you walk along the moist forest trail.  The forest is never
+quiet, there is always some creature calling out to its group for protection,
+or screaming out in terror as it is attacked and dies.  Such is the way in
+nature, only the strong survive.
+~
+66 0 3 1
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5789
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5795
+S
+#5806
+A forgotten beach~
+The sea has eroded the cliff to the south to provide the island with a small
+beach here. The saltwater laps the shore in a rhythmic pattern and you have no
+doubt that at high tide there would be no beach at all here.
+~
+66 4 6 1
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3391
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 19010
+S
+#5807
+A forgotten beach~
+You stand on the beach of some long forgotten land. A light mist surrounds you
+and you feel as if you had taken a step back in time. A volcano, a rarity
+these days, can be seen in the distance, past a very thick forest. You can
+hear the sounds of magnificent terrible beasts echo from the forest
+to the south.
+~
+66 4 6 1
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3394
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 19010
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5785
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5808
+S
+#5808
+A forgotten beach~
+The sea has eroded the cliff to the south to provide the island with a small
+beach here. The saltwater laps the shore in a rhythmic pattern and you have no
+doubt that at high tide there would be no beach at all here.  You can see a
+tall black tower reaching up to the sky to your west.
+~
+66 4 6 1
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3393
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5807
+D3
+ ~
+door~
+ ~
+ ~
+2 6602 3385
+S
+#5943
+Deep within the forest~
+The forest trees surround you on all sides.  The warm mist moistens your skin
+and some long vines hang down on the path.  The trail is covered with a soft
+moss and strange bird calls fill your ears.
+~
+66 0 3 1
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5795
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5945
+S
+#5944
+A forest clearing~
+The clearing allows you to once again see the bright light of day. Its large
+enough for even the mightiest dragon to fit in and you're not sure if it's
+wise to leave yourself so exposed and visible, you can't help but feel you're
+being watched from the shadows.
+~
+66 0 3 1
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5945
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6087
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5946
+S
+#5945
+Deep within the forest~
+The forest trees surround you on all sides.  The warm mist moistens your skin
+and some long vines hang down on the path.  The trail is covered with a soft
+moss and strange bird calls fill your ears.
+~
+66 0 3 1
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5943
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5944
+S
+#5946
+A forest path~
+Some of the smaller plants have been trampled here making a path through this
+thick forest. The lower branches and leaves of several trees look as though
+they have been chewed and gnawed on.  Cute forest creatures scurry at the
+sight of you, rustling through the underbrush.
+~
+66 0 3 1
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5944
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5947
+S
+#5947
+Near a volcano~
+Another volcano extends to the south-east of here. Unlike the other one
+however this one appears to be inactive for some time. Not that you'd rather
+it be active! One volcano threatening to blow you to bits is enough to deal
+with. It is curious, however, that only one of the volcanoes is active. Wonder
+why?
+~
+66 0 3 1
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5946
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5949
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5948
+S
+#5948
+A dead end in the forest~
+Large rocks and mounds of dirt rise up around you forming a small niche.
+Thick vines and underbrush cover the stones and a blanket of moss coats the
+forest floor.
+~
+66 0 3 1
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5947
+S
+#5949
+A forest path~
+Some of the smaller plants have been trampled here making a path through this
+thick forest. The lower branches and leaves of several trees look as though
+they have been chewed and gnawed on.  Cute forest creatures scurry at the
+sight of you, rustling through the underbrush.
+~
+66 0 3 1
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5947
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5950
+S
+#5950
+A turn in the path~
+The trail continues through the lush forest, you can feel a breeze from the
+west and can smell the fresh ocean air.  A large rock lays just off the path
+to the south, forcing the trail to turn to the west.
+~
+66 0 3 1
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5949
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5951
+S
+#5951
+End of the forest~
+The forest ends and to the south you can see the beginning of a large, foul
+smelling swamp.  Traversing the swamp will be difficult, but possible if you
+travel slowly and carefully. A reminder for swamps however, watch out for
+quicksand.  That could end your trip real quick.
+~
+66 4 3 1
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5950
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5952
+S
+#5952
+The edge of a swamp~
+Traveling is not as difficult as you feared and, so far, you haven't run into
+any quicksand.  Strange creatures dwell in this swamp, making it scarier than
+any you have ever been in before.  The swamp gas is so strong you feel as if
+you might be overcome by it. If you did pass out from it some creature would
+surely kill you instantly.
+~
+66 0 6 1
+0 0 0 0
+5 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5951
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5959
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5953
+S
+#5953
+A foul smelling swamp~
+A foul smelling gas erupts from the ground in the swamp.  The gas is so
+strong you feel as though you might be overcome by the fumes. How anything
+could live in this place, you really don't know. By the looks of things
+however, some creatures actually prefer this environment.
+~
+66 0 6 3
+0 0 0 0
+10 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5952
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5957
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5954
+S
+#5954
+A foul smelling swamp~
+A foul smelling gas erupts from the ground in the swamp.  The gas is so
+strong you feel as though you might be overcome by the fumes. How anything
+could live in this place, you really don't know. By the looks of things
+however, some creatures actually prefer this environment.
+~
+66 0 6 3
+0 0 0 0
+10 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5953
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5955
+S
+#5955
+A foul smelling swamp~
+A foul smelling gas erupts from the ground in the swamp.  The gas is so
+strong you feel as though you might be overcome by the fumes. How anything
+could live in this place, you really don't know. By the looks of things
+however, some creatures actually prefer this environment.
+~
+66 0 6 3
+0 0 0 0
+10 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5954
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5957
+S
+#5956
+A foul smelling swamp~
+A foul smelling gas erupts from the ground in the swamp.  The gas is so
+strong you feel as though you might be overcome by the fumes. How anything
+could live in this place, you really don't know. By the looks of things
+however, some creatures actually prefer this environment.
+~
+66 0 6 3
+0 0 0 0
+10 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5958
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5957
+S
+#5957
+A foul smelling swamp~
+Traveling is not as difficult as you feared and, so far, you haven't run into
+any quicksand.  Strange creatures dwell in this swamp, making it scarier than
+any you have ever been in before.  The swamp gas is so strong you feel as if
+you might be overcome by it. If you did pass out from it some creature would
+surely kill you instantly.
+~
+66 0 6 3
+0 0 0 0
+10 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5953
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5956
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5955
+S
+#5958
+A foul smelling swamp~
+Traveling is not as difficult as you feared and, so far, you haven't run into
+any quicksand.  Strange creatures dwell in this swamp, making it scarier than
+any you have ever been in before.  The swamp gas is so strong you feel as if
+you might be overcome by it. If you did pass out from it some creature would
+surely kill you instantly.
+~
+66 0 6 3
+0 0 0 0
+20 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5959
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5960
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5956
+S
+#5959
+A foul smelling swamp~
+Traveling is not as difficult as you feared and, so far, you haven't run into
+any quicksand.  Strange creatures dwell in this swamp, making it scarier than
+any you have ever been in before.  The swamp gas is so strong you feel as if
+you might be overcome by it. If you did pass out from it some creature would
+surely kill you instantly.
+~
+66 0 6 3
+0 0 0 0
+10 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5958
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5952
+S
+#5960
+The edge of a swamp~
+The swamp ends at a small forest glade. The glade to the south looks peaceful
+and calm, you can actually hear the call of birds that you recognize. Perhaps
+it will be a refuge in this horrible world. First, however, you must get to it
+through the muck that makes up this place, no small task indeed.
+~
+66 4 6 1
+0 0 0 0
+10 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5961
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5958
+S
+#5961
+A forest glade~
+What trees there are in this forest are small compared to those you saw on the
+other side of the island.  These are more closely related to those found on
+the mainland.  There's a mossy clearing here, surrounding by small shrubs
+and underbrush.
+~
+66 0 3 1
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5960
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 237
+S
+#5989
+In a lush forest~
+You are in a think, lush forest, surrounded by huge trees.  There is no
+path to follow but the underbrush is thin enough to walk through with ease.
+The sounds of the jungle's animals fills your ears, it is very relaxing
+and peaceful here.  Some branches and vines hang low and the moist, misty
+air surrounds you and obscures your vision slightly.
+~
+66 512 3 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5991
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6170
+S
+#5990
+In a lush forest~
+You are in a think, lush forest, surrounded by huge trees.  There is no
+path to follow but the underbrush is thin enough to walk through with ease.
+The sounds of the jungle's animals fills your ears, it is very relaxing
+and peaceful here.  Some branches and vines hang low and the moist, misty
+air surrounds you and obscures your vision slightly.
+~
+66 512 3 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5992
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5991
+S
+#5991
+In a lush forest~
+You are in a think, lush forest, surrounded by huge trees.  There is no
+path to follow but the underbrush is thin enough to walk through with ease.
+The sounds of the jungle's animals fills your ears, it is very relaxing
+and peaceful here.  Some branches and vines hang low and the moist, misty
+air surrounds you and obscures your vision slightly.
+~
+66 512 3 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5990
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5993
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5989
+S
+#5992
+In a lush forest~
+You are in a think, lush forest, surrounded by huge trees.  There is no
+path to follow but the underbrush is thin enough to walk through with ease.
+The sounds of the jungle's animals fills your ears, it is very relaxing
+and peaceful here.  Some branches and vines hang low and the moist, misty
+air surrounds you and obscures your vision slightly.
+~
+66 512 3 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5990
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5993
+S
+#5993
+In a lush forest~
+You are in a think, lush forest, surrounded by huge trees.  There is no
+path to follow but the underbrush is thin enough to walk through with ease.
+The sounds of the jungle's animals fills your ears, it is very relaxing
+and peaceful here.  Some branches and vines hang low and the moist, misty
+air surrounds you and obscures your vision slightly.
+~
+66 512 3 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5991
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5992
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5994
+S
+#5994
+A large clearing in the jungle~
+The trees reach far into the sky, as if to try and touch it.  A warm mist
+surrounds you as you walk through the dampt forest.  The forest trees surround
+you on all sides and the misty air moistens your skin, some long vines hang
+down on the path.  You come to a large clearing carpeted with a soft moss,
+you can once again see the sky above you.  Looking to the edge of the clearing
+~
+66 512 3 0
+0 1 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5993
+E
+hole holes~
+The holes are about 4 inches deep, whatever the creature
+was looking for appears to be gone now.
+~
+E
+dirt patches patch~
+The dirt patches are actually little holes in the ground,
+probably made by some creature looking for food.
+~
+E
+ground~
+The moss looks like it's been torn up in places, leaving
+small dirt patches.
+~
+E
+clearing moss~
+The moss that covers the ground is thick and lush, making
+a carpet soft enough to sleep on.
+~
+E
+tree rotten~
+It's was once a huge tree, perhaps hundreds of years, now it lays
+rotting and forgotten.
+~
+S
+#6087
+A forest path~
+Some of the smaller plants have been trampled here making a path through this
+thick forest. The lower branches and leaves of several trees look as though
+they have been chewed and gnawed on.  Cute forest creatures scurry at the
+sight of you, rustling through the underbrush.
+~
+66 0 3 1
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6089
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5944
+S
+#6088
+A large clearing in the forest~
+The clearing allows you to once again see the bright light of day. Its large
+enough for even the mightiest dragon to fit in and you're not sure if it's
+wise to leave yourself so exposed and visible, you can't help but feel you're
+being watched from the shadows.
+~
+66 0 3 1
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6090
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6089
+S
+#6089
+A forest path~
+Some of the smaller plants have been trampled here making a path through this
+thick forest. The lower branches and leaves of several trees look as though
+they have been chewed and gnawed on.  Cute forest creatures scurry at the
+sight of you, rustling through the underbrush.
+~
+66 0 3 1
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6088
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6087
+S
+#6090
+The mystical forest~
+You are in the middle of a mystical forest on a forgotten island. Strange
+creatures hide in the shadows just out of eyesight. Huge beasts lurk just off
+in the distance leading you to wonder if they are staying away out of fear or
+because they are waiting for an opportune time to strike.
+~
+66 0 3 1
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6088
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6093
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6091
+S
+#6091
+A small pool~
+Large rocks and mounds of dirt rise up around you forming a small nitch.
+Thick vines and underbrush cover the stones and a blanket of moss coats the
+forest floor.  In the center of the stoney clearing sits a deep pool of
+clear, fresh water.
+~
+66 262144 3 1
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6090
+S
+#6092
+A small clearing~
+The trail is about ten feet wide.  Overhanging trees block out most
+of the bright blue sky.  The sun is still hidden by the tall trees,
+and only the bright sky lights up the forest.  Rabbits, squirrels,
+and other small animals run among the trees, bushes and scrub.  A
+few deer show their faces for a moment, then turn and run until their
+white tails vanish in the thick forest.  The trail seems to be
+opening up just ahead.  You come to a clearing with bright green
+grass and some patches of fragrant wild roses.
+~
+66 0 3 1
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6095
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6093
+S
+#6093
+Deep in the forest~
+The forest surrounds you as you travel deeper into its depths. Moving shadows
+and sounds from within them keep your nerves on edge. Your never sure when
+you're going to run into some strange creature that makes this forest its
+home.
+~
+66 0 3 1
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6092
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6094
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6090
+S
+#6094
+The forgotten forest~
+You are in the middle of a mystical forest on a forgotten island. Strange
+creatures hide in the shadows just out of eyesight. Huge beasts lurk just off
+in the distance leading you to wonder if they are staying away out of fear or
+because they are waiting for an opportune time to strike.
+~
+66 0 3 1
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6093
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6095
+S
+#6095
+A forest path~
+Some of the smaller plants have been trampled here making a path through this
+thick forest. The lower branches and leaves of several trees look as though
+they have been chewed and gnawed on.  Cute forest creatures scurry at the
+sight of you, rustling through the underbrush.
+~
+66 0 3 1
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6092
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6097
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6094
+S
+#6096
+A dead end in the forest path~
+Large rocks and mounds of dirt rise up around you forming a small nitch.
+Thick vines and underbrush cover the stones and a blanket of moss coats the
+forest floor.
+~
+66 0 3 1
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6097
+S
+#6097
+Deep within the forest~
+You begin to feel lost as you wander through this emense jungle.  Paths and
+trails twist and wind themselves all over.  The huge trees seem to shift
+and move as you pass them and the mist obscures your vision to a few yards.
+~
+66 0 3 1
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6096
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6098
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6095
+S
+#6098
+A turn in the path~
+The trail continues through the lush forest, you can feel a breeze from the
+east and can smell the fresh ocean air.  A large rock lays just off the path
+to the south, forcing the trail to turn to the east.
+~
+66 0 3 1
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6097
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3369
+S
+#6170
+On the Moon Bridge~
+You are hovering over a river, far below you.  Suspended on an almost
+invisible bridge of shimmering energy.  You can see far in all directions.
+To the north is a smoldering volcano, surrounded on all sides by a thick,
+green forest.  Perched upon it's ledge is a beautiful white, winged horse.
+To the east, the bridge slopes down to a small island, completely covered
+by a dense, lush wood.  The river runs south to a deep blue ocean which
+stretches out as far as you can see.  On the west, the bridge ends at a great,
+desert flatland.  Beyond that is the lush forest and a dormant volcano.
+~
+66 516 2 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5989
+D3
+A large stone archway is standing at the foot of the bridge.  There seems
+to be a shimmering field of energy stretching across the interior of
+the arch.
+~
+energyfield field energy~
+ ~
+ ~
+2 6667 3370
+S
+#19010
+A forgotten beach~
+You stand on the beach of some long forgotten land. A light mist surrounds you
+and you feel as if you had taken a step back in time. A volcano, a rarity
+these days, can be seen in the distance, past a very thick forest. You can
+hear the sounds of magnificent terrible beasts echo from the forest
+to the south.
+~
+66 4 6 1
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3389
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5806
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5722
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5807
+E
+sand beach~
+You see something written in the sand...
+This zone created, in it's entirety, by Kat
+~
+S
+#19999
+$~

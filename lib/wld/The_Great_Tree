@@ -1,0 +1,1202 @@
+#2500
+Center of the Base of the Great Tree~
+There is a rope here, going up the center of the tree.
+~
+11 0 2 0
+0 0 0 0
+0 0 0
+D0
+ ~
+door~
+ ~
+ ~
+1 -1 2517
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2513
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2510
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2514
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 2501
+S
+#2501
+Up the Tree (Level 1)~
+You are in the center of the Great Tree, from this point, you can swing across
+to the east, west, north or south, to a branch of the tree.
+~
+11 0 2 0
+0 0 0 0
+0 0 0
+D0
+ ~
+door~
+ ~
+ ~
+1 -1 2534
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2530
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2527
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2531
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 2502
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 2500
+S
+#2502
+Up the Great Tree! (Level 2)~
+You are at the second set of holes in the trunk of the tree, from here, you
+can once again swing off in any direction, or go up or down the rope.
+~
+11 0 2 0
+0 0 0 0
+0 0 0
+D0
+ ~
+door~
+ ~
+ ~
+1 -1 2546
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2544
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2540
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2545
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 2503
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 2501
+S
+#2503
+The Center of the Great Tree~
+You have reached the summit of the great tree, four small branches lead out
+from here to the east, west, north and south.
+~
+11 0 2 0
+0 0 0 0
+0 0 0
+D0
+ ~
+door~
+ ~
+ ~
+1 -1 2550
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2548
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2547
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2549
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 2502
+S
+#2504
+Base of the Great Tree~
+You are inside of the base of the Great Tree.
+~
+11 0 2 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2509
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2505
+S
+#2505
+Base of the Great Tree~
+You are inside of the base of the great tree.
+~
+11 0 2 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2504
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2506
+S
+#2506
+Base of the Great Tree~
+You are at the base of the great tree, a rope hangs down the center of the
+trunk of the tree, which appears to be hollowed out, you can see openings up
+above where you can exit out onto the limbs of the tree. The tree's base
+inside here is huge, you can head in any direction, the tree is as large at
+it's base as 20 single room houses, the tree seems to have four supports
+running down it in the shape of the four dots on a die. You can see a rope up
+ahead of you where you could climb up to the holes in the tree.
+~
+11 0 2 0
+0 0 0 0
+0 0 0
+D0
+ ~
+door~
+ ~
+ ~
+1 -1 2510
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2505
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2507
+S
+#2507
+Base of the Great Tree~
+You are inside the Base of the Great Tree.
+~
+11 0 2 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2506
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2508
+S
+#2508
+Base of the Great Tree~
+You are inside the Base of the Great Tree.
+~
+11 0 2 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2511
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2507
+S
+#2509
+Base of the Great Tree~
+You are inside of the Base of the Great Tree
+~
+11 0 2 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2512
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2504
+S
+#2510
+Base of the Great Tree~
+You are at the base of the great tree, to the north is a rope, which you could
+climb up the center of the tree with.
+~
+11 0 2 0
+0 0 0 0
+0 0 0
+D0
+ ~
+door~
+ ~
+ ~
+1 -1 2500
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2506
+S
+#2511
+Base of the Great Tree~
+You are inside the Base of the Great Tree.
+~
+11 0 2 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2515
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2508
+S
+#2512
+Base of the Great Tree~
+You are at the base of the great tree, a rope hangs down the center of the
+trunk of the tree, which appears to be hollowed out, you can see openings up
+above where you can exit out onto the limbs of the tree. The tree's base
+inside here is huge, you can head in any direction, the tree is as large at
+it's base as 20 single room houses, the tree seems to have four supports
+running down it in the shape of the four dots on a die. You can see a rope up
+ahead of you where you could climb up to the holes in the tree.
+~
+11 0 2 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2516
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2509
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2513
+S
+#2513
+Base of the Great Tree~
+You are at the base of the great tree, to the west is a rope, which you could
+climb up the center of the tree with.
+~
+11 0 2 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2512
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2500
+S
+#2514
+Base of the Great Tree~
+You are at the base of the great tree, to the east is a rope, which you could
+climb up the center of the tree with.
+~
+11 0 2 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2500
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2515
+S
+#2515
+Base of the Great Tree~
+You are at the base of the great tree, a rope hangs down the center of the
+trunk of the tree, which appears to be hollowed out, you can see openings up
+above where you can exit out onto the limbs of the tree. The tree's base
+inside here is huge, you can head in any direction, the tree is as large at
+it's base as 20 single room houses, the tree seems to have four supports
+running down it in the shape of the four dots on a die. You can see a rope up
+ahead of you where you could climb up to the holes in the tree.
+~
+11 0 2 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2518
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2514
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2511
+S
+#2516
+Base of the Great Tree~
+You are inside the Base of the Great Tree.
+~
+11 0 2 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2519
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2512
+S
+#2517
+Base of the Great Tree~
+You are at the base of the great tree, to the south you can see a rope, going
+up the center of the tree.
+~
+11 0 2 0
+0 0 0 0
+0 0 0
+D0
+ ~
+door~
+ ~
+ ~
+1 -1 2521
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2500
+S
+#2518
+Base of the Great Tree~
+You are inside the Base of the Great Tree.
+~
+11 0 2 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2523
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2515
+S
+#2519
+Base of the Great Tree~
+You are inside the Base of the Great Tree.
+~
+11 0 2 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2516
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2520
+S
+#2520
+Base of the Great Tree~
+You are inside the Base of the Great Tree.
+~
+11 0 2 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2519
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2521
+S
+#2521
+The Great Tree~
+You are at the base of the great tree, a rope hangs down the center of the
+trunk of the tree, which appears to be hollowed out, you can see openings up
+above where you can exit out onto the limbs of the tree. The tree's base
+inside here is huge, you can head in any direction, the tree is as large at
+it's base as 20 single room houses, the tree seems to have four supports
+running down it in the shape of the four dots on a die. You can see a rope up
+ahead of you where you could climb up to the holes in the tree.
+~
+11 0 2 0
+0 0 0 0
+0 0 0
+D1
+ ~
+door~
+ ~
+ ~
+1 -1 2520
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2517
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2522
+S
+#2522
+Base of the Great Tree~
+You are inside the Base of the Great Tree.
+~
+11 0 2 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2521
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2523
+S
+#2523
+Base of the Great Tree~
+You are inside the Base of the Great Tree.
+~
+11 0 2 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2522
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2518
+S
+#2524
+Out on a Limb~
+You stand on the limb of the Great Tree. There is a gigantic nest here.
+~
+11 0 2 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2527
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2525
+S
+#2525
+Out on a Limb~
+You stand on the limb of the Great Tree. There is a gigantic nest here.
+~
+11 0 2 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2524
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2526
+S
+#2526
+Out on a Limb~
+You stand on the limb of the Great Tree. There is a gigantic nest here.
+~
+11 0 2 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2528
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2525
+S
+#2527
+Out on a Limb~
+You stand on the limb of the Great Tree. There is a gigantic nest here.
+~
+11 0 2 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2501
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2524
+S
+#2528
+Out on a Limb~
+You stand on the limb of the Great Tree.
+~
+11 0 2 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2532
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2526
+S
+#2529
+Out on a Limb~
+You stand on the limb of the Great Tree.
+~
+11 0 2 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2533
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2530
+S
+#2530
+Out on a Limb~
+You stand on the limb of the Great Tree.
+~
+11 0 2 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2529
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2501
+S
+#2531
+Out on a Limb~
+You stand on the limb of the Great Tree.
+~
+11 0 2 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2501
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2532
+S
+#2532
+Out on a Limb~
+You stand on the limb of the Great Tree.
+~
+11 0 2 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2531
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2528
+S
+#2533
+Out on a Limb~
+You stand on the limb of the Great Tree.
+~
+11 0 2 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2535
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2529
+S
+#2534
+Out on a Limb~
+You stand on the limb of the Great Tree.
+~
+11 0 2 0
+0 0 0 0
+0 0 0
+D0
+ ~
+door~
+ ~
+ ~
+1 -1 2537
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2501
+S
+#2535
+Out on a Limb~
+You stand on the limb of the Great Tree.
+~
+11 0 2 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2533
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2536
+S
+#2536
+Out on a Limb~
+You stand on the limb of the Great Tree.
+~
+11 0 2 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2535
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2537
+S
+#2537
+Out on a Limb~
+You stand on the limb of the Great Tree.
+~
+11 0 2 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2536
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2534
+S
+#2538
+Out on a Limb~
+You stand on the limb of the Great Tree. The tree seems scorched here, charred
+and black in many areas, and devoid of foliage.
+~
+11 0 2 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2541
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2539
+S
+#2539
+Out on a Limb~
+You stand on the limb of the Great Tree.
+~
+11 0 2 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2538
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2540
+S
+#2540
+Out on a Limb~
+You stand on the limb of the Great Tree.
+~
+11 0 2 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2502
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2539
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2542
+S
+#2541
+Out on a Limb~
+You stand on the limb of the Great Tree.
+~
+11 0 2 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2543
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2538
+S
+#2542
+Out on a Limb~
+You stand on the limb of the Great Tree.
+~
+11 0 2 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2545
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2540
+S
+#2543
+Out on a Limb~
+You stand on the limb of the Great Tree.
+~
+11 0 2 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2541
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2544
+S
+#2544
+Out on a Limb~
+You stand on the limb of the Great Tree.
+~
+11 0 2 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2543
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2502
+S
+#2545
+Out on a Limb~
+You stand on the limb of the Great Tree.
+~
+11 0 2 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2502
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2542
+S
+#2546
+Out on a Limb~
+You stand on the limb of the Great Tree.
+~
+11 0 2 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2502
+S
+#2547
+Out on a Limb~
+You stand on the limb of the Great Tree.
+~
+11 0 2 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2503
+S
+#2548
+Out on a Limb~
+You stand on the limb of the Great Tree.
+~
+11 0 2 0
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2503
+S
+#2549
+Out on a Limb~
+You stand on the limb of the Great Tree. You can see a great puffy white cloud
+here, it glows with a soft pink and gold luminescence, it seems almost solid
+enough to step up onto.
+~
+11 0 2 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2503
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 2551
+S
+#2550
+Out on a Limb~
+You stand on the limb of the Great Tree.
+~
+11 0 2 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2503
+S
+#2551
+The Magic Cloud~
+You stand on the magic cloud, from here you can jump off in any direction, and
+land in one of six different areas. There appear to be puffs of clouds writing
+out the possible destinations from this area.
+Items you can look at: Clouds.
+~
+11 4 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+$n steps northward and disappears into the Cloud.~
+The Magic Cloud swoops down for a moment and $n steps off.~
+5 -1 300
+D1
+ ~
+ ~
+$n steps eastward and disappears into the Cloud.~
+The Magic Cloud swoops down for a moment and $n steps off.~
+5 -1 5159
+D2
+ ~
+ ~
+$n steps southward and disappears into the Cloud.~
+The Magic Cloud swoops down for a moment and $n steps off.~
+5 -1 1007
+D3
+ ~
+ ~
+$n steps westward and disappears into the Cloud.~
+The Magic Cloud swoops down for a moment and $n steps off.~
+5 -1 1
+D4
+ ~
+ ~
+$n floats upward into the Cloud and disappears from sight.~
+$n appears in a dazzling puff of white and gold smoke.~
+5 -1 4465
+D5
+You can see a large branch stretching out from the Great Tree.
+~
+ ~
+$n climbs down onto an outstretched limb of the Great Tree.~
+ ~
+1 -1 2549
+E
+clouds cloud~
+East  - Outside the Village Gate
+West  - Castle Square at Medievia
+North - The Entrance to the Labyrinth
+South - The Center of the Graveyard of Medievia
+Up    - A Mage's Workshop
+~
+S
+#19999
+$~

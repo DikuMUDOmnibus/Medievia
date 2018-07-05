@@ -1,0 +1,1 @@
+**Columnus[18]: NEWS shows up as unread when you are a corpse, ie you read them as a mort, you die and NEWS shows up like you never read them

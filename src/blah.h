@@ -1,0 +1,1 @@
+    byte type_flag;

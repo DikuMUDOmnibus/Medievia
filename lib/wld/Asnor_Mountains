@@ -1,0 +1,5467 @@
+#1391
+Golden Archway~
+You enter a archway at the entrance to the Cathedral. It has been have crafted
+layered in gold and silver. Several paintings hang on the walls honoring
+numerous gods. Peering further in the Cathedral you catch the glimpse of the
+temple's beautiful stained glass windows.
+~
+62 556 1 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1630
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1642
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5716
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 1647
+E
+paintings painting~
+The paintings are very old (and no doubt very valuable). One of them that
+catches your eye depicts a bloody warrior god surrounded by great dragons.
+~
+S
+#1630
+Rows of Pews~
+Aisles of polished pews lay before you. Several of them are full of people
+down on their knees in pray. Looking up you see the temples splendid stained
+glass windows, each one was crafted with the greatest of care to honor the
+victory of Breedan over evil.
+~
+62 552 1 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1631
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1635
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1391
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1633
+S
+#1631
+Rows of Pews~
+You enter a archway at the entrance to the Cathedral. It has been have crafted
+layered in gold and silver. Several paintings hang on the walls honoring
+numerous gods. Peering further in the Cathedral you catch the glimpse of the
+temple's beautiful stained glass windows.
+~
+62 552 1 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1632
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1637
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1630
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1639
+S
+#1632
+Entrance to the Altar Room~
+You enter a archway at the entrance to the Cathedral. It has been have crafted
+layered in gold and silver. Several paintings hang on the walls honoring
+numerous gods. Peering further in the Cathedral you catch the glimpse of the
+temple's beautiful stained glass windows.
+~
+62 552 1 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1667
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1631
+S
+#1633
+Pew Aisle~
+Walking thru the pews you eye a number of people kneeling in prayer, most
+appear to have tears in their eyes, trying to cope with the grief of losing
+their loved ones.
+~
+62 552 1 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1639
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1630
+S
+#1635
+Pew Aisle~
+Walking thru the pews you eye a number of people kneeling in prayer, most
+appear to have tears in their eyes, trying to cope with the grief of losing
+their loved ones.
+~
+62 552 1 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1637
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1630
+S
+#1637
+Pew Aisle~
+Walking thru the pews you eye a number of people kneeling in prayer, most
+appear to have tears in their eyes, trying to cope with the grief of losing
+their loved ones.
+~
+62 552 1 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1635
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1631
+S
+#1639
+Pew Aisle~
+Walking thru the pews you eye a number of people kneeling in prayer, most
+appear to have tears in their eyes, trying to cope with the grief of losing
+their loved ones.
+~
+62 552 1 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1631
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1633
+S
+#1642
+Shrine Honoring the Dead~
+Rows of lit candles are here honoring those that have lost their lives in the
+assault. A monk is here making room for even more candles.
+~
+62 552 1 7
+0 0 0 0
+0 0 0
+D1
+ ~
+door~
+$n enters the confessional to own up to his sins.~
+$n emerges from the confessional a better person.~
+1 -1 1645
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1391
+S
+#1645
+Confessional Booth~
+The booth is rather small and simple but serves the purpose for which it was
+designed for. A small stool is here for those who have trouble kneeling.
+~
+62 552 1 7
+0 0 0 0
+0 0 0
+D2
+ ~
+curtain~
+ ~
+ ~
+1 -1 1646
+D3
+ ~
+door~
+$n feels spiritually uplifted.~
+$n comes to confess his sins.~
+1 -1 1642
+S
+#1646
+Confessional Chamber~
+This is where the temple's Priest here the confessions of people. It's
+design is humble consisting of a wooden chair and a small table, a opened
+bible sits on the table.
+~
+62 552 1 7
+0 0 0 0
+0 0 0
+D0
+ ~
+curtain~
+ ~
+ ~
+1 -1 1645
+S
+#1647
+Music Chamber~
+You enter the Cathedral's music chamber. A huge brass pipe organ sits here
+waiting for the next service to begin when it will again fill the Cathedral
+with spiritual uplifting music.
+~
+62 544 1 7
+0 0 0 0
+0 0 0
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 1391
+S
+#1667
+Altar of Skye~
+Sitting in the center of the room is a large altar made of pure gold. It shines
+brightly amoung the many candles lighting the room. Large tapestries hang
+behind the altar depicting the High Cleric Breedan and his love Marissa.
+~
+62 556 1 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1632
+D4
+ ~
+ceiling~
+ ~
+ ~
+2 6267 1668
+S
+#1668
+Entrance to the Crypt~
+You reach the entrance to the crypt where Breedan has been laid to rest. From
+the looks of it the crypt has been sealed for many years...dust lays
+thru out the chamber, as well as cobwebs hanging from the ceiling.A strange
+green light emits from the north.
+~
+62 552 1 7
+0 0 0 0
+0 0 0
+D0
+ ~
+seal~
+ ~
+ ~
+2 6267 1669
+D5
+ ~
+floor~
+ ~
+ ~
+2 6267 1667
+S
+#1669
+Entrance to the Crypt~
+You reach the entrance to the crypt where Breedan has been laid to rest. From
+the looks of it the crypt has been sealed for many years...dust lays through out
+ the chamber, as well as cobwebs hanging from the ceiling. A small golden
+plaque hangs on one of the walls.
+~
+62 552 1 7
+0 1 0 0
+0 0 0
+D2
+ ~
+seal~
+'~
+ ~
+1 6267 1668
+E
+sign~
+Created by Lucifuge
+~
+E
+plaque~
+ The Diamond Amulet is but just the first of many keys to the obstacles
+protecting Caolabhuinn.
+~
+S
+#1699
+Small Clearing~
+You come across a small clearing in the mist. A strange silence sweeps over the
+area that cause a chill to run down the back of your spine. Looking up the
+cavern walls are slick from the humidty in the cavern making it somewhat
+difficult to breath.
+~
+62 556 6 7
+0 0 0 0
+20 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6066
+S
+#1700
+Blood Red Hall~
+You enter a long narrow hall way. Clear tubing runs along the ceiling carrying
+what appears to be blood...from where the blood is coming from or where it is
+going remains a mystery.
+~
+62 553 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1701
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4808
+S
+#1701
+Blood Red Hall~
+You enter a long narrow hall way. Clear tubing runs along the ceiling carrying
+what appears to be blood...from where the blood is coming from or where it is
+going remains a mystery.
+~
+62 553 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1702
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1703
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1700
+S
+#1702
+Pool of Blood~
+As you enter the room, a stench hits you in the face. Dug into the ground
+here is a large pool...full of human blood. You assume this is the fate of
+the captured Paladins...to be a pawn in some pervese game of evil.
+Large clear tubing runs along the walls and ceiling pumping the blood out
+of the pool.
+~
+62 553 0 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1701
+S
+#1703
+Blood Red Hall~
+You enter a long narrow hall way. Clear tubing runs along the ceiling carrying
+what appears to be blood...from where the blood is coming from or where it is
+going remains a mystery.
+~
+62 553 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1701
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1704
+S
+#1704
+Blood Red Hall~
+You enter a long narrow hall way. Clear tubing runs along the ceiling carrying
+what appears to be blood...from where the blood is coming from or where it is
+going remains a mystery.
+~
+62 553 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1703
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1705
+S
+#1705
+Small Quiet Room~
+This room is rather calm and peaceful compared to the rest of this evil
+mountain. The room is empty of any furnishings with the except of a canopy
+bed that sits in the center of the room.
+~
+62 553 0 7
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1704
+S
+#1708
+Rarely, rarely, comest thou ~
+I love snow, and all the forms of the radiant frost;
+I love waves, and winds, and storms, everything almost
+Which is Nature's, and may be untainted by man's misery.
+I love tranquil solitude, and such society as is quiet, wise, and good;
+Between thee and me what difference? but thou dost possess
+The things I seek, not love them less.
+I love Love--though he has wings, and like light can flee,
+But above all other things, Spirit, I love thee--thou art love and life!
+Oh come, make once more my heart thy home.
+~
+62 616 0 0
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5818
+S
+#2407
+Storage Area~
+You enter a small musty smelling storage room. A number of cartons stand
+piled up in the center of the room making it difficult to move. From the
+looks of things it seems the Trolls just pile their garbage in here rather
+then actually use it to store anything.
+~
+62 2601 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4951
+S
+#2411
+Troll Bathing Room~
+Imagine that? The trolls actually having a bathing room. In reality the area
+is basically just a puddle of water in the center of the room and not
+surprisingly the room is empty.
+~
+62 553 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4952
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2422
+S
+#2422
+Large Fountain~
+A crude statue carved out of rock of the dead Troll King Huniger sits in the
+middle of the fountain. Green slime infested water trickles out of the
+mouth of the statue in some obscene attempt at creating a "work of art".
+~
+62 553 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2411
+S
+#2423
+Paradise Lost - Gothic~
+As once I wept, if I could weep, my tears might well be shed,
+To think I was not near to keep one vigil o'er thy bed;
+To gaze, how fondly! on thy face, to fold thee in a faint embrace,
+Uphold thy drooping head; and show that love, however vain,
+Nor thou nor I can feel again.
+Yet how much less it were to gain, though thou hast left me free,
+The loveliest things that still remain, than thus remember thee!
+The all of thine that cannot die through dark and dread Eternity
+Returns again to me, And more thy buried love endears
+than aught except its living years.
+~
+62 609 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5818
+S
+#3948
+Mountain Trail~
+The trail beings to break up here. It doesn't look many people have ventured up
+this trail recently. Small rocks and boulders lay scattered about the trail
+making it very difficult to move.
+A weather beaten sign begs for your attention here.
+~
+62 544 4 3
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3950
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 19006
+E
+rock stones~
+Oh how pretty...too bad you outgrew rock collecting long ago as these
+would make a nice addition.
+~
+E
+sign notice~
++-------------------------------+
++  SKYE TEMPLE - 5 Miles North  +
++                               +
++     BEWARE of wild animals    +
++-------------------------------+
+~
+S
+#3950
+Mountain Trail~
+The trail comes to an abrupt halt here, a recent  rock slide seems to have
+blocked any further use of the trail. It does appear possible however to climb
+up and over the rock slid. Laying on the ground under some rumble appears t
+to be a spell book of some sort.
+~
+62 548 5 3
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3948
+D4
+The pile of rocks seem to be climbable.
+~
+ ~
+$n attempts to find his footing and leaves up.~
+$n climbs down from the rock slide.~
+1 -1 3967
+E
+book spellbook~
+It appears to have detailed instructions on how to cast the spell
+'Earthquake' which would explain the cause of the rock slide.
+~
+E
+rockslide avalance~
+You decide it's best to leave the rocks alone for fear of creating another
+rock slide.
+~
+S
+#3967
+Rock Slide~
+The ground here appears to be rather unstable. One wrong move could
+trigger another avalanche. Venturing further up is possible but, could be
+quite dangerous. A dim light from a small cave to the west catches
+your eye.
+~
+62 544 5 7
+0 0 0 0
+10 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3971
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 3972
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 3950
+E
+enclave light~
+A strange blue light can be seen from here.
+~
+S
+#3971
+Small Enclave~
+An overwhelming rotting smell  fills the air. Markings in the dirt
+seem to indicated something was dragged thru here recently, the
+markings come to a halt at the western wall of the cave.
+~
+62 557 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3967
+D3
+ ~
+passage~
+$n disappears into the darkness of the cave.~
+The cave's stale air sickens $n as you see $m enter.~
+2 -1 4121
+S
+#3972
+Climbing the Mountain~
+The air is rather thin up here making breathing diffcult also, the a cold
+wind begins to pick up from the east chilling your bones and making
+it even more perilous climbing this mountain.
+~
+62 544 5 7
+0 0 0 0
+10 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 4114
+D5
+Um...this high up I think it's best if you don't do that.
+~
+ ~
+$n almost slips and falls as he continues upwards.~
+$n looks a little blue in the face from lack of oxygen.~
+1 -1 3967
+S
+#4114
+Climbing the Mountain~
+It is simply freezing up here. High winds make it hard to even stand up
+let alone continue climbing. You notice an abandoned camp site a little
+to the west.
+~
+62 548 5 7
+0 0 0 0
+10 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4386
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 4115
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 3972
+S
+#4115
+Small Dirt Road~
+Finally after a long journey you come across a small dirt road. Your
+sense of relief however is quickly replaced with a sense of panic
+as you see dozens of dead Paladins laying here. What ever attacked
+them did so without mercy and with a sense of enjoyment. Few of
+the bodies are in one piece.
+~
+62 544 5 7
+0 0 0 0
+10 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4116
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 4114
+E
+corpse bodies paladins~
+The Paladins look like they where killed in some sort of bloodthirsty
+frenzy. If it wasn't for the fact you noticed their holy symbol on bits
+and pieces of armor you wouldn't have even begin to believe these where
+human corpses.
+There is blood everywhere.
+~
+S
+#4116
+Small Dirt Road~
+More evidence of a great battle is present here, still even more
+dead bodies, this time however, it looks as if the Paladins gained
+the upper hand. Most of the corpses here are that of dead orcs.
+~
+62 544 2 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4117
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4115
+E
+corpse~
+You can't help but give a grimly smile as you view the damage the Paladin
+Guards inflicted on the orcs. Their corpses lay all about but, unlike
+the orcs, the Paladins did not mutilate their foes bodies.
+~
+S
+#4117
+Small Dirt Road~
+It looks if the Paladins line of defense began to break here. The sheer
+number of corpses attest to the fact that the Paladins where simply
+overwhelmed by the sheer number of attackers.
+~
+62 544 2 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4118
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4116
+S
+#4118
+Small Dirt Road~
+Still even more dead bodies populate the grounds. The level of carnage here
+sickens you. Several circles were traced in the dirt here, no doubt attempts
+by the Temple's Clerics to cast defensive spells.
+~
+62 544 2 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4119
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4117
+E
+bodies corpse~
+The corpses here actually appear to be in better shape then the previously
+ones. Perhaps the attackers began to tire of their sadistic game.
+~
+S
+#4119
+Small Dirt Road~
+You come across a huge bonfire that still burns brightly. The smell of burnt
+flesh quickly fills the air. The orcs did more then just kill their victims
+they used their corpses for a huge feast. Anger swells deep in side of you at
+the sight of the burnt remains.
+~
+62 544 2 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4122
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4118
+E
+remains corpse bodies~
+Huge chunks of flesh were carved out of the dead bodies.
+~
+S
+#4121
+Entrance to a shadowy cave~
+The cave stinks of rotting flesh. Small bits of human remains lay scattered
+about the cave. The sight is sickening and you muscle up all your might to
+avoid passing out. Somehow this cave just doesn't feel "right"....something
+is very unnatural about it.
+~
+62 553 0 7
+0 1 0 0
+0 0 0
+D1
+ ~
+passage~
+ ~
+ ~
+2 -1 3971
+D5
+ ~
+rock~
+ ~
+ ~
+2 6244 4772
+S
+#4122
+Temple Gate~
+As you approach the gate you see what seems to have been the final battle. The
+Paladins clearly lost the battle, overwhelmed by the sheer number of attackers
+but, for some reason the Temple gate remains unbreached. Why would the orcs
+fight this hard only to stop short of their prize?
+A sign is here near the entrance.
+~
+62 556 4 7
+0 0 0 0
+0 0 0
+D0
+A huge steel gate is standing here. Scratches and dents in it indicated
+that something tried to get inside recently.
+~
+gate~
+ ~
+ ~
+2 6254 4123
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4119
+E
+sign~
+A sign here reads, 'Skye Temple - Founded in honor of the Great Cleric
+Breedan who slewed the evil Mage Caolabhuinn at this very site'.
+~
+E
+paladin knight corpse~
+You see a mangled corpse that looks as if something tried to shred it
+into pieces.
+~
+E
+gate~
+The gate still stands despite an obvious massive attack on it.
+~
+S
+#4123
+Temple Courtyard~
+The temple courtyard is bustling with activity as people try and pick
+the pieces from the barbaric attacks on the temple. Several monks are
+re-enforcing the temple walls in case of any further attacks by the
+trolls.
+~
+62 544 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4391
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4127
+D2
+ ~
+gate~
+$n leaves out into the cold.~
+$n finally made his way up the mountain~
+2 6254 4122
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4124
+E
+monks~
+The monks look exhausted from being overworked repairing the temple walls.
+You wonder what keeps them going.
+~
+S
+#4124
+Western Courtyard~
+A group of young squires are here digging a mass grave to dispose of some of
+the dead bodies. You do not envy their daunting task.
+~
+62 544 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4123
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4125
+S
+#4125
+Western Courtyard~
+The yard here has been converted into a graveyard of sort. A group of woman
+and children are here placing flowers on some of the graves.
+~
+62 544 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4124
+E
+flowers~
+The flowers have been careful arranged on each gravesite. Flowers types of
+all kinds fill the make shift graveyard.
+~
+S
+#4127
+Eastern Courtyard~
+A group of young squires are here digging a mass grave to dispose of some of
+the dead bodies. You do not envy their daunting task.
+~
+62 544 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4128
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4123
+S
+#4128
+Eastern Courtyard~
+The yard here has been converted into a graveyard of sort. A group of woman
+and children are here placing flowers on some of the graves.
+~
+62 544 0 7
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4127
+S
+#4386
+Climbing the Mountain~
+You will have to find shelter soon or risk freezing to death. The wind
+is almost to the point of blowing you off the side of the mountain.
+A campsite is directly to the west.
+~
+62 544 4 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4114
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4387
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 5798
+S
+#4387
+A Deserted Camp Site~
+You come across a small clearing here enclosed by two large boulders
+that help keep out the cold wind out. A campfire burns brightly here
+and helps warm you up a bit. Some supplies lay about on the ground.
+~
+62 544 4 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4386
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 4452
+E
+journal~
+ The journal reads: After scouting out the underground caverns I have
+discovered grave news. The trolls are mounting an army to attack the temple. I
+managed to squeeze some information out of a rather friendly troll (ha! who
+would believe such a thing would exist) who glady sold me the information for
+some fine wine. It seems some group of Dark Mages have an aggreement with the
+Trolls, they provide magical weapons/spells for an all out assault on the
+temple in return for the corpses of all their slain victims. The troll was
+rather unsure what purpose the Mages had for these dead bodies but it said he
+believed it had something to do with human blood. If what he says is true...the
+temple is at risk. I pray to the gods that I am able to evade the troll patrols
+and return to the temple with this news.
+~
+E
+campfire~
+The campfire while barely ablaze still manages to warm you up. You wonder who
+set up this camp and more importantly where are they now.
+~
+E
+supplies~
+Standard mountain climbing supplies lay scattered about.
+A old journal lies by the campfire...the end of it burnt by the fire.
+~
+S
+#4391
+Temple Courtyard~
+The courtyard is full of people moving about but, they are strangely silent
+and solemn no doubt still recovering from the shock of the assault.
+~
+62 548 1 7
+0 0 0 0
+0 0 0
+D0
+You see a golden tower of incredible beauty.
+~
+gate~
+$n ventures forth into the great tower.~
+$n emerges from the tower.~
+2 -1 4394
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4393
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4123
+S
+#4393
+Guard Barracks~
+As you enter the barracks the smell of human decay fills your nose making
+you feel sick. The room is full of dead bodies. It has obviously been
+turned into a make-shift morgue until the corpses  can be properly disposed
+of.
+~
+62 552 0 7
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4391
+D5
+A secret door seems to have been covered up here.
+~
+door~
+$n descends into a dark room.~
+$n climbs down the stairs from above.~
+2 6246 4395
+E
+bodies corpse ~
+These poor souls were spared the butchery that their brothers suffered
+outside the gates. Still it is a sad sight to see such death.
+~
+S
+#4394
+Entrance to the Tower~
+Despite the fierce battles the tower has managed to keep it's wonderous
+splendor. Religious items decorate the walls here. A feeling of peace fills
+your body and soul as you see several clerics kneeling here in pray.
+~
+62 552 1 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4540
+D2
+Glancing out into the courtyard you people rushing around tending to
+the defense of the temple.
+~
+gate~
+$n leaves the comfort of the tower and enters the cold harsh world.~
+$n arrives from the horrors outside.~
+2 -1 4391
+E
+walls~
+The walls are tastefully decorated with several golden crosses as well as
+a some fine tapestry.
+~
+E
+cross religious ~
+The crosses are solid gold with a single gem embedded into it's base. If
+it wasn't for the fact that you are an honorable person you would tempted
+to steal one of the crosses, it would surely fetch a great price.
+~
+S
+#4395
+Armory~
+The armory is mostly empty now. The Paladins look like they tried everything
+in their arsenal to beat back the attackers. Several broken swords like in the
+corner along with some beaten up chainmail.
+~
+62 553 0 7
+0 0 0 0
+0 0 0
+D4
+From here you can barely make out anything in the Barracks the smell,
+however is quite evident.
+~
+door~
+$n pockets a few items and leaves.~
+$n enters from below.~
+2 6246 4393
+E
+swords armor chainmail~
+I told you...they are broken!
+~
+S
+#4452
+Mountain Ridge~
+Climbing up on to the ridge provides a spectacular view of the mountain.
+The snowcovered peak is simply breath taking and fills you with a sense
+of awe as you realize how small you are compared to this huge mass of
+rock.
+A small trail of blood as well as tracks lead off into the west.
+~
+62 544 4 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5798
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6143
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 4387
+E
+peak~
+I told you it's breath taking...what more do you want?
+~
+S
+#4487
+Climbing a sheer cliff face~
+You are clinging to the side of a mountain.  The swift, cold wind
+blows against you, threatening to make you fall.  The cliff extends
+far above and below you, up above, you think you can see the top of
+the cliff.
+~
+62 544 4 0
+0 0 0 0
+0 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 4512
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 4488
+S
+#4488
+Climbing a sheer cliff face~
+You are clinging to the side of a mountain. The swift, chilly wind
+blows against you, threatening to make you fall. The cliff extends
+far above and below you, lost from your sight.
+~
+62 544 4 0
+0 0 0 0
+0 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 4487
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 4489
+S
+#4489
+Climbing a sheer cliff face~
+You are clinging to the side of a sheer cliff face. The wind has become
+much colder, and still strong and treacherous. The mountain reaches far
+above you, below you the vast mountain chain reaches out as far as the
+eye can see.
+~
+62 544 4 0
+0 0 0 0
+0 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 4488
+S
+#4512
+Mountain Trail~
+You come across an area of the mountain that is far too dangerous to attempt
+to climb without risking injury.
+~
+62 544 4 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4764
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 4487
+S
+#4540
+Majestic Hallway~
+You are overtaken with the detail in which this hall was craft. The walls glow
+softly with magical energy making a light source unnecessary.
+~
+62 552 1 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4541
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4394
+S
+#4541
+Majestic Hallway~
+You are overtaken with the detail in which this hall was craft. The walls glow
+softly with magical energy making a light source unnecessary. Several religious
+artifacts hang from the walls.
+~
+62 552 1 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4542
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4540
+E
+artifacts religious~
+Two simple gold crosses decorate the walls here.
+~
+S
+#4542
+Majestic Hallway~
+You are overtaken with the detail in which this hall was craft. The walls glow
+softly with magical energy making a light source unnecessary.
+A large portrait covering the western wall is here.
+~
+62 552 1 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4543
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5715
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4541
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5714
+E
+portrait picture wall~
+Portraits here show a stunning woman. A plaque under the picture say her name
+is Myrshia. Apparently she was the lover of Breedan who Caolabhuinn kidnapped
+in a fit of jealous rage. What became of her is unknown.
+~
+S
+#4543
+Majestic Hallway~
+You are overtaken with the detail in which this hall was craft. The walls glow
+softly with magical energy making a light source unnecessary. Several pictures
+hang on the walls here.
+~
+62 552 1 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4544
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4542
+E
+picture~
+The pictures depict the final battle between Breedan and Caolabhuinn.
+~
+S
+#4544
+Long Stairwell~
+You come across a small well worn staircase leading up. Several guards are here
+keeping watch.
+~
+62 552 1 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4543
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 4697
+E
+stairs staircase stairwell~
+The staircase looks well travelled. It has seen much use recently and looks like
+it could use a repair job.
+~
+E
+guard~
+The guards peer at you wondering what you are doing.
+~
+S
+#4697
+Grand Foyer~
+The foyer appears to be the only well lit area of the second level. It
+is practically bare in order to allow easy access for moving the wounded
+around.
+~
+62 556 0 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4698
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 4544
+S
+#4698
+Small Hall~
+The hall here is poorly lit. Supplies of kerosene seem to have run low so only
+areas necessary to the temple's survival are being kept lit.
+~
+62 552 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4697
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4699
+S
+#4699
+Small Hall~
+The hall here is poorly lit. Supplies of kerosene seem to have run low so only
+areas necessary to the temple's survival are being kept lit.
+~
+62 556 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4698
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4705
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4702
+D3
+The room is too dimly lit for you to see.
+~
+door~
+$n skips happily away.~
+$n comes stumbling into the room.~
+1 -1 4700
+S
+#4700
+Clerical Sleeping Chambers~
+The room is design to house clerical students who have just joined the order.
+Several small cots are lined up here. A soft light shines from the north
+where a number of hard working students are at work.
+~
+62 552 1 7
+0 0 0 0
+0 0 0
+D0
+ ~
+door~
+ ~
+ ~
+1 -1 4701
+D1
+You see a brightly lite hallway.
+~
+door~
+$n slips out of the room quietly.~
+$n walks quietly in, careful not to disturb those asleep.~
+1 -1 4699
+S
+#4701
+Small Study~
+The room is dimly lit with a small table and several chars. Several young
+clerics are here catching up on their magic studies.
+~
+62 552 1 7
+0 0 0 0
+0 0 0
+D2
+ ~
+door~
+$n crawls out of the room.~
+$n sneaks in life a thief.~
+1 -1 4700
+S
+#4702
+Small Hall~
+The hall here is poorly lit. Supplies of kerosene seem to have run low so only
+areas necessary to the temple's survival are being kept lit.
+~
+62 552 1 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4699
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4862
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4703
+S
+#4703
+Small Hall~
+The hall here is poorly lit. Supplies of kerosene seem to have run low so only
+areas necessary to the temple's survival are being kept lit.
+~
+62 552 1 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4702
+D1
+ ~
+door~
+ ~
+ ~
+1 -1 5065
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4704
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4769
+S
+#4704
+Polished Staircase~
+A long flight of stairs here leading up into the heart of the temple. The
+slight murmur of chanting can be heard from above.
+~
+62 552 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4703
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 5716
+S
+#4705
+Library~
+Not suprisingly the room is full with hundreds of books, mostly ancient text
+dealing with the use of magic. A small stack of books are laying on a table
+here dealing with history.
+~
+62 552 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+door~
+ ~
+ ~
+1 6247 4768
+D1
+ ~
+door~
+ ~
+ ~
+1 6247 4706
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4699
+E
+books~
+You browse a couple of books nothing really very interesting...wait a copy
+of Clive Barker's new novel is here. Hoping no one notices you slip the book
+into your backpack. Nothing like a good horror novel.
+~
+S
+#4706
+Gaerdal's Lab~
+You enter the lab of a very old elven cleric. Potions and magical reagents
+are scattered about on several large tables. Stacks of books are piled up
+everywhere making it difficult to move about.
+~
+62 552 0 7
+0 0 0 0
+0 0 0
+D3
+From here you can see a librarian putting books up on a shelf.
+~
+door~
+ ~
+ ~
+1 6247 4705
+E
+reagents~
+Your unsure what most of this stuff does. Best to leave well enough alone.~
+E
+books journal~
+One of the books appears to be an old journal of some sort. It contains a
+detailed account of how the evil Mage Caolabhuinn was corrupted by black magic
+as a student. And how his obession with death magic and controlling the dead
+forced his childhood friend Breedan to destroy him on the Asnor mountains.
+The last passage in the journal mentions Caolabhuinn final words, he vowed to
+return from the dead and unleash a reign of terror upon the world. Enslaving
+all with his evil magic.
+It also mentions how Breedan oversaw the construction of this great temple to
+keep watch in the event that Caolabhuinn was able to hold true to his vow.~
+S
+#4754
+Mountain Trail~
+A long weather beaten trail is here leading up into the mountains. A cold
+wind blows from the east freezing you to the bone.
+~
+62 544 4 3
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4755
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 19006
+S
+#4755
+Mountain Trail~
+A long weather beaten trail is here leading up into the mountains. A cold
+wind blows from the east freezing you to the bone.
+~
+62 544 4 3
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4754
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4756
+D3
+ ~
+boulder~
+ ~
+ ~
+1 -1 4856
+S
+#4756
+Mountain Trail~
+A long weather beaten trail is here leading up into the mountains. A cold
+wind blows from the east freezing you to the bone.
+~
+62 544 4 3
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4755
+D5
+ ~
+ ~
+d~
+ ~
+1 -1 4757
+S
+#4757
+Mountain Trail~
+A long weather beaten trail is here leading up into the mountains. A cold
+wind blows from the east freezing you to the bone.
+~
+62 544 4 3
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4758
+D4
+Your neck begins to hurt as you try and peer up at the mountain top.
+~
+ ~
+$n loses $s fotting and almost falls before regaining $s balance.~
+$n climbs up the cliff from below.~
+1 -1 4756
+S
+#4758
+Mountain Trail~
+The trail here pretty much ceases to exist, making it difficult to gauge
+which direction to go in. Taking a minute to catch your breath you look up
+examining the large mountain before you...the view is spectacular. The
+large snow covered mountain tops against a crystal blue skies background
+creates a simply breath taking sight.
+~
+62 544 4 3
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4757
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4759
+S
+#4759
+Mountain Trail~
+Further wear and tear on the trail is evident here, making it somewhat
+difficult to travel. A large boulder that looks to have fallen from the
+mountain top itself forces you to do a bit of climbing if you wish to
+continue upwards. A cold wind begins to pick up from the east, luckily the
+mountain still provides shelter against it.
+~
+62 548 4 1
+0 0 0 0
+10 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4758
+D1
+It looks like some rocks were put here in order to hide something.
+~
+rock~
+$n disappears into a small cave to the east.~
+$n staggers into the sunlight, emerging from a dark cave.~
+2 -1 4765
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4760
+S
+#4760
+Mountain Trail~
+The trail here is broken up a bit due the harsh mountain winds, strange that
+no one has bother to repair it. You notice several large tracks that appear
+to have been made from some wild animal...what ever it was it was quite large.
+~
+62 544 4 1
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4759
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4761
+S
+#4761
+Mountain Trail~
+A long weather beaten trail is here leading up into the mountains. A cold
+wind blows from the east freezing you to the bone.
+~
+62 544 4 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+The wind blows thru $n hair as they climb upwards.~
+ ~
+1 -1 4760
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4763
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 4762
+S
+#4762
+Clearing Before the Mountain~
+ You are standing before a great snow-covered mountain. From this distance you
+can barely make out what appears to be a tower of some sort way up in the
+mountain. You dread the long trek it will take to reach the top.
+~
+62 512 2 0
+0 0 0 0
+0 0 0
+D4
+The vast snow covered mountain looms above you.
+~
+ ~
+$n begins the long trek up the mountain.~
+$n comes down from the mountain exhausted.~
+1 -1 4761
+S
+#4763
+Mountain Trail~
+The trail here becomes quite hazardous. Rocks and boulders cover the ground
+here as if a there was a recent avalanche.
+~
+62 544 4 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4761
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4764
+E
+rock boulders~
+The rocks are rather large...and would have surely crushed you to
+death had you been standing under them when they fell.
+~
+S
+#4764
+Mountain Trail~
+You come across an area of the mountain that is far too dangerous to attempt
+to climb without risking injury.
+~
+62 544 4 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4512
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4763
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4770
+S
+#4765
+Barren Caven~
+ You come across a small dark cavern. You notice the slight flicking of light
+from torches further up ahead.
+~
+62 557 0 1
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4766
+D3
+ ~
+rock~
+ ~
+ ~
+2 -1 4759
+S
+#4766
+Hill Giant's Lair~
+You stumble across the home of several rather large hill giants. Animal skins
+lay about thru the cave. A small burning campfire is here cooking the meat of
+some animal (at least you HOPE it is an animal).
+~
+62 553 0 1
+0 0 0 0
+0 0 0
+D1
+A blinding light shines from the east.
+~
+gate~
+$n flees in terror at the sight of the giants.~
+$n comes in from the cold.~
+1 -1 4767
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4765
+E
+campfire animal~
+You breath a sigh of relief...it is indeed a dead animal the giants are cooking.
+~
+S
+#4767
+Hill Giant's Lair~
+ A head of a mountain lion hangs from one of the cavern walls here. Several
+rugs made out of their hide decorate the floor. The Hill Giants are not exactly
+big on cleaning, trash is scattered about the rest of the room.
+~
+62 553 0 1
+0 0 0 0
+0 0 0
+D0
+Eeew...several rather large women are chopping up a lion.
+~
+door~
+$n leaves north knee deep in blood.~
+$n enters looking for some grub.~
+1 -1 4858
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4859
+D3
+You can barely see into the next room due to lack of light.
+~
+gate~
+ ~
+ ~
+1 -1 4766
+E
+jewels gems treasure ~
+They would surely fetch a good price...if only you could make it past some
+rather large giants with them.
+~
+S
+#4768
+Library's Records Room~
+Everything here smells of mildew. The office looks like it hasn't seen a dust
+rage in years. Boxes of books await to be catalogued and put away. A desk sits
+in the corner covered with papers.
+~
+62 552 0 7
+0 0 0 0
+0 0 0
+D2
+You several people checking out books...amazing considering the recent siege that
+anyone would have time to read.
+~
+door~
+$n makes his way thru a mountain of papers and leaves.~
+$n staggers over a box full of papers near the door.~
+1 6247 4705
+S
+#4769
+Mediation Room~
+The room is full with a solemn silence except for the slight murmur from
+a group of chanting monks. A small marble altar sits in the center of
+the room.
+~
+62 552 1 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5010
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4703
+E
+books~
+Of Man's first disobedience, and the fruit
+Of that forbidden tree whose mortal taste
+Brought death into the World, and all our woe,
+With loss of Eden, till one greater Man
+Restore us, and regain the blissful seat,
+Sing, Heavenly Muse, that, on the secret top
+Of Oreb, or of Sinai, didst inspire
+That shepherd who first taught the chosen seed
+In the beginning how the heavens and earth
+Rose out of Chaos: or, if Sion hill
+Delight thee more, and Siloa's brook that flowed
+Fast by the oracle of God
+~
+E
+writing~
+Made in Japan.
+~
+E
+monks~
+The monks are well entranced with their mediation and do not notice you.
+~
+E
+altar~
+The altar is a very modest one. Crafter out of white marble it looks like it
+weighs a ton. You notice some writing on it.
+~
+S
+#4770
+Narrow Ridge~
+Now you are really pushing it. The ridge here is so small it takes all your
+might to keep your balance and avoid falling towards certain death.
+It is suicide to even THINK about going any further.
+~
+62 544 4 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4764
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4771
+S
+#4771
+Floating in Mid-Air~
+NOT..you really didn't think you could do that did you? You make a sound not
+unlike that of the Wilde E Coyote as plunge thousands of feet to a rather messy
+death. To add insult to injury just as you fade into that everlasting sleep you
+here a BEEP-BEEP sound.
+~
+62 550 4 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4770
+S
+#4772
+Mouth of the Cave~
+A hint of sunlight shines from the entrance above casting strange shadows on
+the cavern walls. A small dripping sound can be heard echoing through out
+the cave. Further in the cave you hear a faint roar.
+~
+62 557 0 7
+0 0 4 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4773
+D4
+ ~
+rock~
+ ~
+ ~
+2 6244 4121
+E
+shadows~
+The shadows are distorted into images of strange creatures that send a shiver
+down your spine.
+~
+S
+#4773
+A long winding cavern~
+This far into the cave virtually no light creeps in from the outside making the
+cave pitch black. Strange sounds echo loudly through out the cave making it
+difficult to get your bearing.
+~
+62 553 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4772
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4774
+S
+#4774
+A long winding cavern~
+A rotting smell is quite evident here. From the far north you hear a grinding
+sound and what sounds like cries of agony. Further along to the west a eerie
+moan can be heard.
+~
+62 553 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4943
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4773
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4775
+S
+#4775
+A long winding cavern~
+The cave stinks of rotting flesh. Small bits of human remains lay scattered
+about the cave. The sight is sickening and you muscle up all your might to
+avoid passing out. Somehow this cave just doesn't feel "right"....something
+is very unnatural about it.
+~
+62 553 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4774
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4785
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4776
+S
+#4776
+A long winding cavern~
+The cave stinks of rotting flesh. Small bits of human remains lay scattered
+about the cave. The sight is sickening and you muscle up all your might to
+avoid passing out. Somehow this cave just doesn't feel "right"....something
+is very unnatural about it.
+~
+62 553 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4775
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4777
+S
+#4777
+A long winding cavern~
+The cave stinks of rotting flesh. Small bits of human remains lay scattered
+about the cave. The sight is sickening and you muscle up all your might to
+avoid passing out. Somehow this cave just doesn't feel "right"....something
+is very unnatural about it.
+~
+62 553 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4776
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4778
+S
+#4778
+A long winding cavern~
+The cave stinks of rotting flesh. Small bits of human remains lay scattered
+about the cave. The sight is sickening and you muscle up all your might to
+avoid passing out. Somehow this cave just doesn't feel "right"....something
+is very unnatural about it.
+~
+62 553 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4777
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4779
+S
+#4779
+A long winding cavern~
+The cave stinks of rotting flesh. Small bits of human remains lay scattered
+about the cave. The sight is sickening and you muscle up all your might to
+avoid passing out. Somehow this cave just doesn't feel "right"....something
+is very unnatural about it.
+~
+62 553 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4778
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4780
+S
+#4780
+A long winding cavern~
+The cave stinks of rotting flesh. Small bits of human remains lay scattered
+about the cave. The sight is sickening and you muscle up all your might to
+avoid passing out. Somehow this cave just doesn't feel "right"....something
+is very unnatural about it.
+~
+62 553 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4779
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4781
+S
+#4781
+A long winding cavern~
+The cave stinks of rotting flesh. Small bits of human remains lay scattered
+about the cave. The sight is sickening and you muscle up all your might to
+avoid passing out. Somehow this cave just doesn't feel "right"....something
+is very unnatural about it.
+~
+62 553 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4780
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4782
+S
+#4782
+A long winding cavern~
+The cave stinks of rotting flesh. Small bits of human remains lay scattered
+about the cave. The sight is sickening and you muscle up all your might to
+avoid passing out. Somehow this cave just doesn't feel "right"....something
+is very unnatural about it.
+~
+62 553 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4781
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4809
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4783
+S
+#4783
+A long winding cavern~
+The cave stinks of rotting flesh. Small bits of human remains lay scattered
+about the cave. The sight is sickening and you muscle up all your might to
+avoid passing out. Somehow this cave just doesn't feel "right"....something
+is very unnatural about it.
+~
+62 552 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4803
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4782
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4784
+S
+#4784
+A long winding cavern~
+The cave stinks of rotting flesh. Small bits of human remains lay scattered
+about the cave. The sight is sickening and you muscle up all your might to
+avoid passing out. Somehow this cave just doesn't feel "right"....something
+is very unnatural about it.
+~
+62 553 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4783
+S
+#4785
+Foul Smelling Cave~
+Water drips from the cavern wall causing a rather annoying dripping
+sound. The rumbling of marching soldiers echoes from the distance.
+~
+62 553 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4775
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4786
+S
+#4786
+Foul Smelling Cave~
+Several large crystal-like stalactites hang from the cavern ceiling here.
+Light reflecting off them casts strange looking shadows on the rest of the
+cavern walls. The sound of marching soldiers appear to be a bit closer
+here.
+~
+62 553 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4785
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4787
+S
+#4787
+Foul Smelling Cave~
+The cavern's ceiling is much lower here then in the rest of the cave making
+it somewhat difficult to move about. Several small statues have been carved
+out of rock here honoring some long dead king.
+~
+62 553 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4786
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4788
+E
+statue~
+The statue was carved a very long time again. The writing on the plaque
+has long been gone due to water damage.
+~
+S
+#4788
+Foul Smelling Cave~
+Some crude cave paintings decorate the walls in this room. They depict the
+coming of a great and powerful wizard who will lead all creatures of the
+night in a war against good.
+~
+62 553 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4787
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4789
+S
+#4789
+Rocky Crossroad~
+A huge stone statue carved out of rock stands here. It's head contains
+two glowing green gems for eyes. The life-like appearance of the statue
+casts an eerie feeling down the back of your spine.
+~
+62 553 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4788
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4790
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4793
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4797
+S
+#4790
+Dank Cavern Hall~
+You come across a long musty cavern hall. Several small puddles of water soak
+your boots as you make your way thru them. The cavern walls are especially
+jagged here.
+~
+62 553 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4791
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4789
+S
+#4791
+Dank Cavern Hall~
+You come across a long musty cavern hall. Several small puddles of water soak
+your boots as you make your way thru them. The cavern walls are especially
+jagged here.
+~
+62 553 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4792
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4790
+S
+#4792
+Dank Cavern Hall~
+You come across a long musty cavern hall. Several small puddles of water soak
+your boots as you make your way thru them. The cavern walls are especially
+jagged here.
+~
+62 553 0 7
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4791
+S
+#4793
+Foul Smelling Cave~
+The cave stinks of rotting flesh. Small bits of human remains lay scattered
+about the cave. The sight is sickening and you muscle up all your might to
+avoid passing out. Somehow this cave just doesn't feel "right"....something
+is very unnatural about it.
+~
+62 553 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4789
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4794
+S
+#4794
+Foul Smelling Cave~
+The cave stinks of rotting flesh. Small bits of human remains lay scattered
+about the cave. The sight is sickening and you muscle up all your might to
+avoid passing out. Somehow this cave just doesn't feel "right"....something
+is very unnatural about it.
+~
+62 553 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4793
+D1
+The cavern wall feels a bit hollow.
+~
+wall~
+ ~
+ ~
+2 6292 5035
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4795
+S
+#4795
+Foul Smelling Cave~
+The cave stinks of rotting flesh. Small bits of human remains lay scattered
+about the cave. The sight is sickening and you muscle up all your might to
+avoid passing out. Somehow this cave just doesn't feel "right"....something
+is very unnatural about it.
+~
+62 553 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4794
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4796
+S
+#4796
+Foul Smelling Cave~
+The cave stinks of rotting flesh. Small bits of human remains lay scattered
+about the cave. The sight is sickening and you muscle up all your might to
+avoid passing out. Somehow this cave just doesn't feel "right"....something
+is very unnatural about it.
+~
+62 553 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4795
+S
+#4797
+Dank Cavern Hall~
+You come across a long musty cavern hall. Several small puddles of water soak
+your boots as you make your way thru them. The cavern walls are especially
+jagged here.
+~
+62 553 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4789
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4798
+S
+#4798
+Dank Cavern Hall~
+You come across a long musty cavern hall. Several small puddles of water soak
+your boots as you make your way thru them. The cavern walls are especially
+jagged here.
+~
+62 553 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4797
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4799
+S
+#4799
+Dank Cavern Hall~
+Eeew...the stinking smell of Troll fecal fills your nostrils as you enter
+the room. Carved out in one of the cavern walls is a small niche used to
+dispose of waste. Why the Trolls would choose there own home as a place
+to dump is baffling.
+~
+62 553 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+$n exits the room rather quickly.~
+ ~
+1 -1 4798
+D3
+ ~
+ ~
+$n rums out of the room as fast as possible.~
+ ~
+1 -1 4800
+E
+waste fecal~
+Your not serious??
+~
+S
+#4800
+Cavern Archway~
+You come across a massive chamber forged out of rock. The ceiling has been
+carved into a large archway that is smooth to the touch  From the north you
+hear shouting and the clash of steel.
+~
+62 557 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4802
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4799
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4801
+S
+#4801
+Dank Cavern Hall~
+The cavern hall comes to a stop here. Except for the sound of dripping water
+from above it is strangly quiet here.
+~
+62 553 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4800
+S
+#4802
+Dank Cavern Hall~
+You come across a long musty cavern hall. Several small puddles of water soak
+your boots as you make your way thru them. The cavern walls are especially
+jagged here.
+~
+62 557 0 7
+0 0 0 0
+0 0 0
+D0
+A rusty metal gate is built into the stone cavern wall.
+~
+gate rusty metal~
+ ~
+ ~
+2 6259 6010
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4800
+S
+#4803
+Foul Smelling Cave~
+The cave stinks of rotting flesh. Small bits of human remains lay scattered
+about the cave. The sight is sickening and you muscle up all your might to
+avoid passing out. Somehow this cave just doesn't feel "right"....something
+is very unnatural about it.
+~
+62 557 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4804
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4783
+S
+#4804
+Gates of Horror~
+An ominous laughter fills the room as you enter. The sights in this room
+sickens you. Four steel pikes are stuck into the ground...impaled on the
+top of them are the heads of four dead Paladins. A gate blocking the
+northern entrance appears to be made out of human bones.
+~
+62 553 0 7
+0 0 0 0
+0 0 0
+D0
+Some type of protective spell blocks your attempts to see into the next room.~
+gate~
+ ~
+ ~
+2 6282 4805
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4821
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4803
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4822
+E
+gate gates~
+The gate glows a deadly looking red color. Being this close to it makes you
+shiver with fear.
+~
+S
+#4805
+A Blackened Room~
+A strange black substances coats the walls here. It appears to be draining the
+very life of anyone who dares enter the room. Staying in this room for too long
+could prove to be fatal.
+~
+62 553 0 7
+0 0 0 0
+0 0 0
+D0
+A shimmering gate, formed from magical energy.
+~
+gate~
+ ~
+ ~
+2 6236 4806
+D1
+ ~
+door~
+ ~
+ ~
+1 -1 4808
+D2
+ ~
+gate~
+$n is disturbed by this room and leaves.~
+$n emerges from a field of darkness.~
+2 6282 4804
+S
+#4806
+Altar of Madness~
+You are filled with a sense of dread as you reach a massive black marble
+altar. A large pool of blood slowly drips from the top of the altar down
+onto the floor, what ever God these mages worship obviously require human
+sacrifices. A loud crackling laughter can be heard through out the chamber
+overshadow by the equally loud screams of some poor soul.
+~
+62 554 0 7
+0 0 0 0
+0 0 0
+D2
+A shimmering gate, formed from magical energy.
+~
+gate~
+ ~
+ ~
+2 6236 4805
+D5
+ ~
+ ~
+$n descends into a pit of flames.~
+$n emerges from the flames.~
+1 -1 5711
+E
+altar altars ~
+Several shackles are attached to the altar no doubt meant to hold fast
+what ever poor victim they choose to sacrifice.
+~
+E
+wall~
+Cool, a copy of Danzig's Danzig 2 : Lucifuge is on a small shelf.
+~
+E
+pit~
+The fire from the pit is a strange blue-green flame. Suprisingly you feel
+very little heat from the pit. At the bottom of the pit you see several dead
+corpses no doubt the result of some type of sacrifice.
+~
+S
+#4808
+Blood Red Hall~
+You enter a long narrow hall way. Clear tubing runs along the ceiling carrying
+what appears to be blood...from where the blood is coming from or where it is
+going remains a mystery.
+~
+62 553 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1700
+D3
+ ~
+door~
+ ~
+ ~
+1 -1 4805
+S
+#4809
+Foul Smelling Cave~
+The cave stinks of rotting flesh. Small bits of human remains lay scattered
+about the cave. The sight is sickening and you muscle up all your might to
+avoid passing out. Somehow this cave just doesn't feel "right"....something
+is very unnatural about it.
+~
+62 553 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4782
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4810
+S
+#4810
+Foul Smelling Cave~
+The cave stinks of rotting flesh. Small bits of human remains lay scattered
+about the cave. The sight is sickening and you muscle up all your might to
+avoid passing out. Somehow this cave just doesn't feel "right"....something
+is very unnatural about it.
+~
+62 553 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4809
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4812
+S
+#4812
+Foul Smelling Cave~
+The cave here is poorly lit and for some reason any light source you are using
+doesn't seem to help much,it's as if the room is feeding off any source of lit.
+~
+62 553 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4810
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4953
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4813
+S
+#4813
+Foul Smelling Cave~
+The cave stinks of rotting flesh. Small bits of human remains lay scattered
+about the cave. The sight is sickening and you muscle up all your might to
+avoid passing out. Somehow this cave just doesn't feel "right"....something
+is very unnatural about it.
+~
+62 553 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4812
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4814
+S
+#4814
+Damp Cavern Hall~
+A long corridor has been carved out of stone here. Surprisingly the walls are
+smooth to the touch, who ever built this hall was obviously a master craftsman.
+Small markings have been carved into the stone walls.
+~
+62 553 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4813
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4815
+S
+#4815
+Damp Cavern Hall~
+A long corridor has been carved out of stone here. Surprisingly the walls are
+smooth to the touch, who ever built this hall was obviously a master craftsman.
+Small markings have been carved into the stone walls.
+~
+62 553 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4814
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4817
+S
+#4817
+Damp Cavern Hall~
+A long corridor has been carved out of stone here. Surprisingly the walls are
+smooth to the touch, who ever built this hall was obviously a master craftsman.
+Small markings have been carved into the stone walls.
+~
+62 553 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4815
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4819
+S
+#4819
+Damp Cavern Hall~
+A long corridor has been carved out of stone here. Surprisingly the walls are
+smooth to the touch, who ever built this hall was obviously a master craftsman.
+Small markings have been carved into the stone walls.
+~
+62 553 0 7
+0 0 0 0
+0 0 0
+D0
+The wall here is studded with gems and jewels, they appear to form an
+ancient or barbaric symbol.
+~
+wall~
+ ~
+ ~
+2 6260 4820
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4817
+S
+#4820
+Tribal War Room~
+You enter the office of the supreme Troll Commander Kilnor. Maps of the
+mountain are spread out on a desk that has been carved out of stone. A large
+painting of General Meknor, Kilnor's father who was slain in a great battle
+with humans years ago hangs behind the crude desk.
+~
+62 553 0 7
+0 0 0 0
+0 0 0
+D2
+You see the outline of a secret passage in the wall.
+~
+passage door wall secret~
+$n struggles with sliding the wall open and leaves.~
+$n pushes open the wall and enters.~
+2 6260 4819
+D3
+ ~
+door~
+ ~
+ ~
+1 -1 4962
+E
+journal notebook~
+Sun 3rd,249 Day of Thunder -
+I have been approached by a hu-man mage named Anntoin. He has offered to bring
+me the hu-man who is responsible for the death of my father provided my army
+assist him in a task of his. Something about the revival of his mentor and
+needing the blood of fresh dead hu-mans. This betrayl of his own kind does
+not surprise me considering the foul nature of hu-mans. I will help this
+Anntoin...the more dead hu-mans the better until I have the one responsible for
+my father's death...then I will feast on his heart.
+~
+E
+desk stone~
+A open journal sits on the desk.
+~
+S
+#4821
+Guard Outpost~
+You enter a grimly looking guard barracks. Small cots are lined up against
+the wall, the bedding on them look like they haven't be changed in years.
+A shelf on one of the walls contain what looks like skulls of victims who
+had the misfortune of coming across the guards.
+~
+62 553 0 7
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4804
+E
+skull skulls shelf~
+You see the grim remains of what appears to have been a human.
+~
+S
+#4822
+Guard Outpost~
+You enter a grimly looking guard barracks. Small cots are lined up against
+the wall, the bedding on them look like they haven't be changed in years.
+A shelf on one of the walls contain what looks like skulls of victims who
+had the misfortune of coming across the guards.
+~
+62 553 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4804
+E
+skull skulls shelf~
+You see the grim remains of what appears to have been a human.
+~
+S
+#4856
+Hidden Enclave~
+You bump your head as you hunch down to explore the enclave. The room
+is full of mining equipment. Several axes and picks lay scattered about. You
+notice a map on one of the cavern walls.
+~
+62 45 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+boulder~
+ ~
+ ~
+1 -1 4755
+D3
+ ~
+door~
+ ~
+ ~
+1 -1 4857
+S
+#4857
+Old Miser's Shack~
+You enter the old miser's secret lair where his store of treasure is. A locked
+chest is sitting near a wall. The room is sparsely decorated. A small table with
+a lantern on it sits in the middle of the room.
+~
+62 40 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+door~
+$n grabs some gold and runs.~
+$n arrives looking to pocket some of the Miner's treasure.~
+1 -1 4856
+D3
+ ~
+door~
+ ~
+ ~
+1 -1 5800
+S
+#4858
+Slaughter House~
+ The stench of rotting meat fills your nostrils. Several large lion carcasses
+like on the ground stripped of its hide. Several female giants (well atleast
+they look female) are here skinning the remainder of the dead animals.
+~
+62 41 0 7
+0 0 0 0
+0 0 0
+D2
+ ~
+door~
+ ~
+ ~
+1 -1 4767
+S
+#4859
+Garlik's Lair~
+You enter the lair the leader of the Hill Giants. It is alot cleaner then most
+of the other rooms which isn't exactly saying too much. A small fire burns
+in the center of the room to keep out the cold. The walls are decorated with
+the heads of many creatures no doubt icons to attest to the greatest of their
+leader.
+~
+62 41 0 3
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4767
+D5
+ ~
+floor~
+ ~
+ ~
+2 6297 4860
+S
+#4860
+Garlik's Treasure Room~
+The glare from the jewels and gems almost blinds you. Mountains of treasure are
+scattered about the room. It looks as if the giants have been busy ambushing
+anyone unfortunate to come close to their lair.
+~
+62 41 0 7
+0 0 0 0
+0 0 0
+D4
+ ~
+floor~
+ ~
+ ~
+2 6297 4859
+S
+#4862
+Sleeping Chambers~
+The room is tastefully decorated. A small oak nightstand sits next to a
+comfortable looking brass bed. From one of the windows you can see the temple
+courtyard and several small children tossing a ball around.
+~
+62 40 3 7
+0 0 0 0
+0 0 0
+D3
+ ~
+door~
+ ~
+ ~
+1 -1 4702
+E
+bed~
+The bed has been stripped of all it's bedding and brought downstairs to help
+keep the wounded soldiers warm.
+~
+S
+#4896
+Dusty Library~
+Stacks upon stacks of books lie scattered upon the floor as if someone was
+looking for something and simply tossed them about. A trail of dried blood
+leads off towards the south here.
+~
+62 556 6 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6061
+E
+journal book books journals~
+I fear that I have brought upon the world an evil that so vile that the devil
+himself would be shriek in disgust. Several months ago I was approached by
+a young man seeking the to be my apprentice, he had claimed to be interested
+in healing magic to help in fighting a dreaded disease that was spreading
+in his small home town of Masliar. What a fool I must have been to believe
+his tale. Several weeks ago I caught him searching my library, he had found
+my hidden lab where I had been performing experiments of dealing with the
+nature of the dead, I had sought to somehow wrench away the power of the
+Necromancers and their control over the dead. I attempted to question my
+young apprentice when he chanted the spell of Changing and transformed to
+reveal his true self....he was not even human, but instead some horribly
+disfigured winged creature. He looked at me and laughed, his bright red
+eyes peering down at me, tho I have seen many things in my life time, I must
+admit that I myself felt the twinge of fear creeping up along my spine.
+Quickly I attempted to hurl a spell of fireball at him which struck him
+square in the chest, but he simply laughed before drawing up his huge
+razor-life hand slashing me in the chest...even now as I lay here in a
+pool of my own blood I feel my life slipping away. It is my hope that by
+writing this that someone...somehow will see this and heed it's warning.
+The creature must be stopped...the magic I had been working on was to
+perform good works, but in the hands of a foul creature such as this much
+destruction can be wrought. I fear that the creature may try and use this
+magic to bring back to life Caolabhuinn, to whom this this creature race
+once served.I can only hope that the dragon I have animated can guard well
+it's treasure...a amulet which would unseal Caolabhuinn's crypt.
+Ashler
+~
+S
+#4943
+A damp cavern hall~
+The lighting in the cave is horrible. Your torch sets off strange looking
+shadows on the cavern walls making the place seem even scarier...if that is
+possible. A dripping sound can be heard from within the cave.
+~
+62 553 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4944
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4774
+S
+#4944
+A damp cavern hall~
+The cave stinks of rotting flesh. Small bits of human remains lay scattered
+about the cave. The sight is sickening and you muscle up all your might to
+avoid passing out. Somehow this cave just doesn't feel "right"....something
+is very unnatural about it.
+~
+62 553 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4945
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4946
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4943
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4949
+S
+#4945
+A damp cavern hall~
+The grinding sound is much louder here to almost to the point of a slight
+banging. Cries of pain are much more evident here as well.
+~
+62 553 0 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4944
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5011
+S
+#4946
+Foul Smelling Cave~
+The cave stinks of rotting flesh. Small bits of human remains lay scattered
+about the cave. The sight is sickening and you muscle up all your might to
+avoid passing out. Somehow this cave just doesn't feel "right"....something
+is very unnatural about it.
+~
+62 553 0 7
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4944
+S
+#4949
+Foul Smelling Cave~
+The cave stinks of rotting flesh. Small bits of human remains lay scattered
+about the cave. The sight is sickening and you muscle up all your might to
+avoid passing out. Somehow this cave just doesn't feel "right"....something
+is very unnatural about it.
+~
+62 553 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4944
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4950
+S
+#4950
+Foul Smelling Cave~
+The cave stinks of rotting flesh. Small bits of human remains lay scattered
+about the cave. The sight is sickening and you muscle up all your might to
+avoid passing out. Somehow this cave just doesn't feel "right"....something
+is very unnatural about it.
+~
+62 553 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4951
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4949
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4952
+S
+#4951
+Foul Smelling Cave~
+The cave stinks of rotting flesh. Small bits of human remains lay scattered
+about the cave. The sight is sickening and you muscle up all your might to
+avoid passing out. Somehow this cave just doesn't feel "right"....something
+is very unnatural about it.
+~
+62 557 0 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4950
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2407
+S
+#4952
+Foul Smelling Cave~
+The cave stinks of rotting flesh. Small bits of human remains lay scattered
+about the cave. The sight is sickening and you muscle up all your might to
+avoid passing out. Somehow this cave just doesn't feel "right"....something
+is very unnatural about it.
+~
+62 553 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4950
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2411
+S
+#4953
+Foul Smelling Cave~
+The cave stinks of rotting flesh. Small bits of human remains lay scattered
+about the cave. The sight is sickening and you muscle up all your might to
+avoid passing out. Somehow this cave just doesn't feel "right"....something
+is very unnatural about it.
+~
+62 553 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4954
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4812
+S
+#4954
+Foul Smelling Cave~
+The cave stinks of rotting flesh. Small bits of human remains lay scattered
+about the cave. The sight is sickening and you muscle up all your might to
+avoid passing out. Somehow this cave just doesn't feel "right"....something
+is very unnatural about it.
+~
+62 553 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4955
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4959
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4953
+S
+#4955
+Foul Smelling Cave~
+The cave stinks of rotting flesh. Small bits of human remains lay scattered
+about the cave. The sight is sickening and you muscle up all your might to
+avoid passing out. Somehow this cave just doesn't feel "right"....something
+is very unnatural about it.
+~
+62 553 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5698
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4954
+S
+#4959
+Foul Smelling Cave~
+The cave stinks of rotting flesh. Small bits of human remains lay scattered
+about the cave. The sight is sickening and you muscle up all your might to
+avoid passing out. Somehow this cave just doesn't feel "right"....something
+is very unnatural about it.
+~
+62 545 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4954
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4960
+S
+#4960
+Foul Smelling Cave~
+The cave stinks of rotting flesh. Small bits of human remains lay scattered
+about the cave. The sight is sickening and you muscle up all your might to
+avoid passing out. Somehow this cave just doesn't feel "right"....something
+is very unnatural about it.
+~
+62 545 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4959
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4961
+S
+#4961
+Foul Smelling Cave~
+The cave stinks of rotting flesh. Small bits of human remains lay scattered
+about the cave. The sight is sickening and you muscle up all your might to
+avoid passing out. Somehow this cave just doesn't feel "right"....something
+is very unnatural about it.
+~
+62 545 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4960
+S
+#4962
+High Council Meeting Room~
+This war room hardly looks like the place where one would plan a great military
+campaign. Plans for the assault are scratched out on several pieces that lay
+scattered thru out the room. You wonder how the Trolls could have carried out
+such a vicsous assault with such obviously imcompetent leadership. Despite
+their overwhelming numbers the Paladins should have beaten back the attack.
+~
+62 553 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+door~
+ ~
+ ~
+1 -1 4820
+E
+plans~
+The plans are simple enough. They call for a simple frontal assault until
+the temple falls. It seems that the thought of the plan failing hasn't
+even crossed the war council's mind.
+~
+S
+#5010
+Room of the Eternal Flame~
+A bright flame burns in the center of the room. Legend has it that once the
+flame turns from it's original pure white color to pitch black it will
+signal the return of Caolabhuinn to this plane of existence where he will
+seek the destruction of the temple and all who inhabit it.
+~
+62 40 1 7
+0 0 0 0
+0 0 0
+D2
+You can see a group of monks chanting in the next room.
+~
+door~
+ ~
+$n enters seeking enlightment.~
+1 -1 4769
+E
+flame flames fire fires~
+The flame flickers the brightest of whites....suddenly a cold window blows
+thru one of the open windows. The flame slowly begins to grow darker until it
+turns to a dark grey color. A chill finds it's way down your spine.
+~
+S
+#5011
+A damp cavern hall~
+Screams of some tortured soul fill your ears...a menacing laught sends a
+chill down your spine.
+~
+62 553 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4945
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5012
+S
+#5012
+A damp cavern hall~
+Strange sounds of small creatures running about the cavern room fill you ears
+but are overshadowed by the screams of pain coming from the western part of
+the cave.
+~
+62 553 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5011
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5013
+S
+#5013
+Dead-End~
+The cavern hall comes to an abrupt halt here. Sounds of torture are at
+a nerve racking volume. Cries for mercy fill the room answered only
+by a unyielding laughter that instills fear in your heart.
+~
+62 553 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5012
+D5
+ ~
+grating~
+1~
+1~
+2 6247 5014
+S
+#5014
+Entrance to Prison Cells~
+At first you are actually suprised that they Orcs would even bother taking
+prisoners considering the carnage they inflicted on the Temple. From the
+distance you hear the cries of some tortured souls.
+~
+62 553 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5017
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5016
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5015
+D4
+ ~
+grating~
+ ~
+ ~
+2 6247 5013
+S
+#5015
+Guard Outpost~
+You come across a small outpost. Several racks of weapons hang from the
+walls ready to be put to use at the first sign of trouble from the
+prisoners. A painting hangs on one of the walls in honor of some of the
+great Orc heroes who lost their lives in battle.
+~
+62 553 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5014
+E
+picture painting~
+It's a picture of a dozen or so of the ugliest creatures you have ever seen.
+~
+S
+#5016
+Guard Outpost~
+You come across a small outpost. Several racks of weapons hang from the
+walls ready to be put to use at the first sign of trouble from the
+prisoners. A painting hangs on one of the walls in honor of some of the
+great Orc heroes who lost their lives in battle.
+~
+62 553 0 7
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5014
+E
+picture painting~
+A bunch of ugly orcs...what did you expect to see?
+~
+S
+#5017
+Prison Hall~
+You footsteps echo through out the hall as you step on the hard stone
+floor. Several small torches light the passage way here giving you a
+clear view inside the prison cells. The cries of someone being tortured
+is quite loud here.
+~
+62 553 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5018
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5014
+S
+#5018
+Prison Hall~
+You footsteps echo through out the hall as you step on the hard stone
+floor. Several small torches light the passage way here giving you a
+clear view inside the prison cells. The cries of someone being tortured
+is quite loud here.
+~
+62 553 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5019
+D1
+ ~
+cell~
+ ~
+ ~
+1 16901 5023
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5017
+D3
+ ~
+cell~
+ ~
+ ~
+1 16901 5022
+S
+#5019
+Prison Hall~
+You footsteps echo through out the hall as you step on the hard stone
+floor. Several small torches light the passage way here giving you a
+clear view inside the prison cells. The cries of someone being tortured
+is quite loud here.
+~
+62 553 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+cell~
+ ~
+ ~
+1 16901 5025
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5018
+D3
+ ~
+cell~
+ ~
+ ~
+1 16901 5024
+S
+#5022
+Cold Prison Cell~
+Prison Cell is hardly an appropriate name for this room. Human (at least you
+think) waste covers the walls and floors here. In the corner lay the remains
+of some strange looking creature.
+~
+62 553 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+cell~
+ ~
+ ~
+1 16901 5018
+S
+#5023
+Cold Prison Cell~
+Prison Cell is hardly an appropriate name for this room. Human (at least you
+think) waste covers the walls and floors here. In the corner lay the remains
+of some strange looking creature.
+~
+62 553 0 7
+0 0 0 0
+0 0 0
+D3
+ ~
+cell~
+ ~
+ ~
+1 16901 5018
+S
+#5024
+Cold Prison Cell~
+Prison Cell is hardly an appropriate name for this room. Human (at least you
+think) waste covers the walls and floors here. In the corner lay the remains
+of an old cot.
+~
+62 553 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+cell~
+ ~
+ ~
+1 16901 5019
+D3
+ ~
+stone~
+ ~
+ ~
+4 6247 5028
+E
+cot bed~
+The cot looks really uncomfortable. A torn mattress lays crumbled up on
+the cot.  Behind the cot you notice a loose stone in the west wall.
+~
+S
+#5025
+Cold Prison Cell~
+Prison Cell is hardly an appropriate name for this room. Human (at least you
+think) waste covers the walls and floors here. In the corner lay the remains
+of some strange looking creature.
+~
+62 553 0 7
+0 0 0 0
+0 0 0
+D3
+ ~
+cell~
+ ~
+ ~
+1 16901 5019
+E
+cot bed~
+The cot looks really uncomfortable. A torn mattress lays crumbled up on
+the cot.
+~
+S
+#5028
+Hidden Cavern~
+It looks as if someone attempted to brake out of the cell by digging
+their way out. They didn't get very far...the rotted remains of what
+appears to have been a cleric lie in the corner.
+~
+62 553 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+wall~
+ ~
+ ~
+4 6247 5024
+E
+paper letter journal~
+It is with my last bit of strength that I write this letter in hopes that
+it will somehow reach the proper people. I was sent by my mentor Breedan
+to spy on Caolabhuinn in the hopes of learning what foul deed the evil
+mage has in the works. Alas my magic has failed me and I was captured by
+the mages evil henchman. Using what magic I had left I have attempted to
+escape by use of the earthquake...all of naught for I not have the
+strength to continue the work. Being a captive here has brought some good
+news...I have learned of the depraved mages plans...he has mastered the
+dark magics and with it the secret to immortality. He is attempting to use
+this foul knowledge to make himself and Mirada immortal, and together with
+the other dreadful dark magic raise an army of the undead to conquer the
+world, making himself king and Mirada his queen. I must somehow inform
+Breedan of this foul plot...if only I had the strength to conti....
+~
+E
+corpse remains body~
+The body is almost completely decomposed. Little bits of clothing lay about the corpse ripped to shreads by rats. A old and yellow brittle piece of paper lays
+~
+S
+#5035
+Slick Passage~
+The passage way here is full of icy cold water that makes you shiver as you
+attempt to make your way through it. Your torch reveals some strange
+looking creatures swimming about the cavern floor.
+~
+62 557 6 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5036
+D3
+ ~
+wall~
+ ~
+ ~
+2 6292 4794
+S
+#5036
+Slick Passage~
+The passage way here is full of icy cold water that makes you shiver as you
+attempt to make your way through it. Your torch reveals some strange
+looking creatures swimming about the cavern floor.
+~
+62 553 6 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5037
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5037
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5035
+S
+#5037
+Slick Passage~
+The water here is much deeper making it very difficult to move through
+the cavern. You get a sense that you aren't alone wading in the water.
+~
+62 553 6 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5038
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5038
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5036
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5036
+S
+#5038
+Slick Passage~
+The water here is much deeper making it very difficult to move through
+the cavern. You get a sense that you aren't alone wading in the water.
+~
+62 553 7 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5039
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5039
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5037
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5037
+S
+#5039
+Slick Passage~
+A strange vortex spins violently around the room creating a strong
+current that pulls you underneath the water.....
+~
+62 553 7 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5038
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5038
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 6050
+S
+#5065
+Musty Storage Room~
+The air is very stale in here, doesn't look like anyone has been in this
+room in a long time. Several boxes are stacked up in the corner filled
+with junk. One box in particular that catches your eye contains a number
+of books.
+~
+62 40 1 7
+0 0 0 0
+0 0 0
+D3
+ ~
+door~
+ ~
+ ~
+1 -1 4703
+E
+box~
+The box mainly contains old history books. One journal catches your eye with the
+name Breedan scrawled onto it's cover.
+~
+E
+journal~
+The books is a journal written by Breedan, how it managed to be
+misplaced up here seems rather strange.
+The journal reads :
+I fear that I may have destroyed my friendship with Caolabhuinn in
+professing my love to Marisa despite knowing full well of his feelings
+for her. It is with more then a little ashamed that I admit I have
+betray my dear friend...but my heart could not bare to lose my lovely
+Marisa. Caolabhuinn has sworn that he would not rest until Marisa was
+his once again and vowed to seek revenge against my betrayal. I must
+take care for in his state of mind I do not know what he may do.
+~
+S
+#5698
+Mess Hall~
+Mess hall...a well suited name for this area. Tables lie overturned and broken,
+food lay scattered about the floor and on the walls (and even some on the
+ceiling). Trolls are not know for there cleanliness.
+~
+62 557 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5704
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4955
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5700
+D5
+ ~
+trapdoor~
+ ~
+ ~
+1 -1 5699
+E
+food~
+Well it LOOKS like food despite the horrible smell.
+~
+S
+#5699
+Storage Room~
+The room is pitch black except for some tiny red eyes peering up at you.
+~
+62 553 0 7
+0 0 0 0
+0 0 0
+D4
+ ~
+trapdoor~
+ ~
+ ~
+1 -1 5698
+S
+#5700
+Short Hallway~
+The hall is rather poorly lit even so you notice a trail of blood leading west.
+~
+62 553 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5703
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5698
+S
+#5703
+Slaughter House~
+The stench simply overwhelms you as you enter the room. A huge table sits in the
+middle of the room with some bloody corpse on to. Blood pours down from the
+table onto the floor...mixing with the already dried up blood stains.
+~
+62 553 0 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5700
+S
+#5704
+Blazing Fire Pit~
+A huge pit has been dug into the ground here...flames shoot up from it as
+several trolls throw slabs of meat into it in a crude attempt at cooking it.
+~
+62 553 0 7
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5698
+S
+#5711
+In the middle of a Blazing Pit~
+The sheer evil of this place instills fear into you heart. Your knees quiver
+with uncertainty with the task at hand. Standing in the center of the room
+is an ominous figure bathing in a shower of what appears to be blood that
+is pouring down from a pipe in the ceiling.
+~
+62 556 0 7
+0 1 0 0
+0 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 4806
+S
+#5714
+Chamber of Silence~
+You enter a dimly lit room set aside for those in need of spiritual
+enlightenment. Several people are down on their knees in prayer of their
+lost love ones.
+~
+62 40 5 7
+0 0 0 0
+-4 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4542
+S
+#5715
+Temple Healer~
+The shop is basically deserted of any potions or elixirs. It looks as if any
+thing of any use has already been taken.
+~
+62 40 1 7
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4542
+S
+#5716
+Glowing Foyer~
+As you enter the grand foyer a sense of peace overcomes up as you near the
+Cathedral itself. The slight murmur of prayers can be heard to the north.
+~
+62 40 1 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1391
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 4704
+S
+#5798
+Climbing the Mountain~
+You will have to find shelter soon or risk freezing to death. The wind
+is almost to the point of blowing you off the side of the mountain.
+A campsite is directly to the west.
+~
+62 32 4 7
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4452
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 4386
+S
+#5800
+Smelly Bedroom~
+A musty smell hits you in the face as you enter the bedroom of the old miser.
+A small lantern hangs from the ceiling burning dimly providing very little
+light. A tattered old mattress with several large holes seems to be the "bed"
+in this room. You wonder how anyone could live in such filth.
+~
+62 44 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+door~
+ ~
+ ~
+1 -1 4857
+D5
+ ~
+floorboard~
+ ~
+ ~
+2 6249 5801
+E
+journal book books ~
+ ~
+S
+#5801
+Small Treasure Horde~
+After digging up the floorboards you discover the old miser's treasure lair.
+Several small chest sit in the corner full of gold and precious gems. A map
+hangs on the wall detailing a path to the Mountain's mother load.
+~
+62 40 0 7
+0 0 0 0
+0 0 0
+D4
+ ~
+floorboard~
+ ~
+ ~
+2 6249 5800
+E
+maps~
+You can't make heads or tails of it...too bad your knowledge of cartography
+isn't quite what it should be.
+~
+S
+#5817
+Paradise Lost - Icon~
+And shivering scrap'd with their cold skeleton hands
+The feeble ashes, and their feeble breath
+Blew for a little life, and made a flame
+Which was a mockery; then they lifted up
+Their eyes as it grew lighter, and beheld
+Each other's aspects saw, and shriek'd, and died
+Even of their mutual hideousness they died,
+Unknowing who he was upon whose brow
+Famine had written Fiend. The world was void,
+The populous and the powerful was a lump,
+Seasonless, herbless, treeless, manless, lifeless
+A lump of death a chaos of hard clay.
+The rivers, lakes and ocean all stood still,
+And nothing stirr'd within their silent depths;
+Ships sailorless lay rotting on the sea,
+And their masts fell down piecemeal as they dropp'd
+They slept on the abyss without a surge
+The waves were dead the tides were in their grave,
+The moon, their mistress, had expir'd before;
+he winds were wither'd in the stagnant air,
+And the clouds perish'd Darkness had no need
+Of aid from them--She was the Universe.
+~
+62 97 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5818
+S
+#5818
+Paradise Lost - Shades of God~
+She walks in beauty, like the night of cloudless climes and starry skies;
+@And all that's best of dark and bright meet in her aspect and her eyes:
+Thus mellow'd to that tender light which heaven to gaudy day denies.
+One shade the more, one ray the less, had half impair'd the nameless grace
+Which waves in every raven tress, or softly lightens o'er her face;
+Where thoughts serenely sweet express how pure, how dear their welling-place.
+And on that cheek, and o'er that brow, so soft, so calm, yet eloquent,
+The smiles that win, the tints that glow,but tell of days in goodness spent,
+A mind at peace with all below, a heart whose love is innocent!
+~
+62 104 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5817
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1708
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2423
+S
+#6010
+Training Room~
+You enter a part of the cave that has been cleared out for the training of
+new warriors. Several large racks hang from the cavern walls full of all
+types of weapons from axes to swords to crossbows.
+~
+62 553 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6011
+D2
+A rusty metal gate is built into the stone cavern wall.
+~
+gate rusty metal~
+ ~
+ ~
+2 6259 4802
+D3
+ ~
+door~
+ ~
+ ~
+1 -1 6013
+S
+#6011
+Training Room~
+You enter a part of the cave that has been cleared out for the training of
+new warriors. A loud roaring sound is evident from here.
+~
+62 557 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+door~
+ ~
+ ~
+1 -1 6016
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6010
+D5
+ ~
+gate~
+$n sure must like wild animals.~
+$n emerges from the animal with only a few life threatening wounds.~
+1 -1 6012
+S
+#6012
+Animal Pit~
+The stench of animal fecal fills your nose as you enter the pit. A number
+of large cages fill the room each containing some type of wild beast.
+Evidently the trolls use the animals as part of their traning "program".
+~
+62 553 0 7
+0 0 0 0
+0 0 0
+D4
+ ~
+gate~
+A mountain lion attempts to bite $n .~
+$n barely dodges a swipe from one of the caged animals.~
+1 -1 6011
+E
+cage cages~
+Most of the animals look quite dangerous but one in particular catches your
+eye. It is the largest mountain lion you have ever seen weighing at least
+several thousand pounds. It glares at yo hungrily.
+~
+S
+#6013
+Master-at-Arms Office~
+You enter a moldy cavern that is the dwelling of the Supreme Troll general.
+He is the troll's finest soldier. Numerous "trophies" decorate the damp
+cavern, including the mounted heads of several dwaves and humans. A set of
+antique weapons are secured on one of the cavern walls.
+~
+62 553 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+stone-door~
+ ~
+ ~
+1 -1 6014
+D1
+ ~
+door~
+ ~
+ ~
+1 -1 6010
+S
+#6014
+Adamantite Vault~
+This is were the trolls store their major weapons of war at. A large vault made
+out of adamantite has been carefully place into the western wall of the cave.
+Suprisingly the armory is empty.
+~
+62 553 0 7
+0 0 0 0
+0 0 0
+D2
+ ~
+stone-door~
+ ~
+ ~
+1 -1 6013
+D3
+ ~
+vault~
+ ~
+ ~
+1 -1 6015
+S
+#6015
+Weapon's Vault~
+This is were the orcs store their major weapons of war at. A large vault made
+out of adamantite has been carefully place into the western wall of the cave.
+~
+62 553 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+vault~
+ ~
+ ~
+1 -1 6014
+S
+#6016
+Weapon's Master~
+You enter the office of the Troll's weapons master. Numerous trophies
+marking the expertise of the master hang on the walls. One disturbing
+trophy is the stuffed head of a Cleric mounted on the wall here.
+~
+62 553 0 7
+0 0 0 0
+0 0 0
+D3
+ ~
+door~
+ ~
+ ~
+1 -1 6011
+S
+#6050
+Large Underground Waterfall~
+Water pours in from the ceiling of the cavern room from above creating a raging
+underground waterfall.  The water is rather murky with a greenish color. An
+awful stench emits from the water that turns your stomach.
+~
+62 556 6 7
+0 0 0 0
+20 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6054
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 5039
+S
+#6054
+Underground Stream~
+You come across a murky stream that runs thru out the cave. Several large
+rocks sit by the stream keeping the water from flooding the whole cavern.
+A rather loud dripping sound echoes in the distances.
+~
+62 552 6 7
+0 0 0 0
+20 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6050
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6056
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6055
+S
+#6055
+Underground Stream~
+You come across a murky stream that runs thru out the cave. Several large
+rocks sit by the stream keeping the water from flooding the whole cavern.
+A rather loud dripping sound echoes in the distances.
+~
+62 552 6 0
+0 0 0 0
+20 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6054
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6058
+S
+#6056
+Underground Stream~
+You come across a murky stream that runs thru out the cave. Several large
+rocks sit by the stream keeping the water from flooding the whole cavern.
+A rather loud dripping sound echoes in the distances.
+~
+62 552 6 7
+0 0 0 0
+20 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6054
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6057
+S
+#6057
+Underground Stream~
+The river comes to and end here, running off into a large hole in the
+eastern wall. The current of the river is rather strong here sweeping small
+stones and rocks into the hole.A strong acidly smell catches your nose from
+the north.
+~
+62 552 6 7
+0 0 0 0
+20 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6060
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6056
+S
+#6058
+Underground Stream~
+You come across a murky stream that runs thru out the cave. Several large
+rocks sit by the stream keeping the water from flooding the whole cavern.
+A rather loud dripping sound echoes in the distances.
+~
+62 552 6 0
+0 0 0 0
+20 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6055
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6059
+S
+#6059
+Underground Stream~
+You come across a murky stream that runs thru out the cave. Several large
+rocks sit by the stream keeping the water from flooding the whole cavern.
+A rather loud dripping sound echoes in the distances.
+~
+62 552 6 0
+0 0 0 0
+20 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6058
+S
+#6060
+Small Abandoned Hut~
+Surprisingly you come across a small little hut. How or why someone would
+built such a structure here is puzzles you. The terrain here is almost
+swamp like, strange looking plant life has begun to grow up the side of the
+small hut almost to the point of covering it.
+~
+62 556 7 7
+0 0 0 0
+0 0 0
+D0
+From here looks like some red liquid has been spilled all over the place.
+~
+door~
+ ~
+ ~
+1 -1 6061
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6063
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6057
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6062
+S
+#6061
+Blood Stained Room~
+Entering the small hut you are over taken by the sight of the small blood
+splattered room. Several bones from human-looking victims sit in the corner
+piled up neatly. A small trail of a green oozing substance leads to the west.
+~
+62 556 6 7
+0 0 0 0
+20 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4896
+D1
+ ~
+closet~
+ ~
+ ~
+1 -1 6069
+D2
+A swirling mist begins to form outside.~
+door~
+ ~
+ ~
+1 -1 6060
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6070
+S
+#6062
+Misty Swamp~
+A swirling misty has formed here making it very difficult for you to see more
+then a few inches in front of you. You are startled by a rustling sound and
+quickly look around, the misty prevents you from seeing who (or what) made
+the sound.
+~
+62 552 7 7
+0 0 0 0
+20 0 0
+D1
+ ~
+ ~
+$n manages to find an exit.~
+$n stumbles into the misty trying to find his bearing.~
+1 -1 6060
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6063
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6064
+S
+#6063
+Misty Swamp~
+A swirling misty has formed here making it very difficult for you to see more
+then a few inches in front of you. You are startled by a rustling sound and
+quickly look around, the misty prevents you from seeing who (or what) made
+the sound.
+~
+62 552 7 7
+0 0 0 0
+20 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6062
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6064
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6060
+S
+#6064
+Misty Swamp~
+A swirling misty has formed here making it very difficult for you to see more
+then a few inches in front of you. You are startled by a rustling sound and
+quickly look around, the misty prevents you from seeing who (or what) made
+the sound.
+~
+62 552 7 7
+0 0 0 0
+20 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6065
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6062
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6063
+S
+#6065
+Misty Swamp~
+A swirling misty has formed here making it very difficult for you to see more
+then a few inches in front of you. You are startled by a rustling sound and
+quickly look around, the misty prevents you from seeing who (or what) made
+the sound.
+~
+62 552 7 7
+0 0 0 0
+20 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6067
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6066
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6064
+S
+#6066
+Misty Swamp~
+A swirling misty has formed here making it very difficult for you to see more
+then a few inches in front of you. You are startled by a rustling sound and
+quickly look around, the misty prevents you from seeing who (or what) made
+the sound.
+~
+62 552 7 7
+0 0 0 0
+20 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1699
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6068
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6068
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6065
+S
+#6067
+Misty Swamp~
+A swirling misty has formed here making it very difficult for you to see more
+then a few inches in front of you. You are startled by a rustling sound and
+quickly look around, the misty prevents you from seeing who (or what) made
+the sound.
+~
+62 552 7 7
+0 0 0 0
+20 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6065
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6068
+S
+#6068
+Misty Swamp~
+A swirling misty has formed here making it very difficult for you to see more
+then a few inches in front of you. You are startled by a rustling sound and
+quickly look around, the misty prevents you from seeing who (or what) made
+the sound.
+~
+62 552 7 7
+0 0 0 0
+20 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6066
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6067
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6066
+S
+#6069
+Garbage Filled Closet~
+Trash lay scattered about the closet. Several small boxes full of junk are
+stacked up here.  A small carton full of empty potion bottles sits here as
+well as an old spell book that has been damaged beyond repair by water.
+~
+62 556 6 0
+0 0 0 0
+0 0 0
+D3
+ ~
+closet~
+ ~
+ ~
+1 -1 6061
+S
+#6070
+A small bedroom cluttered with trash.~
+Several pools of a green acid like substances decorate the floor here slowly
+eating it's way thru the wood. A broken bed lays smashed against one of the
+walls. A small box of old books sits in the corner of the room.
+~
+62 556 6 7
+0 0 0 0
+20 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6061
+S
+#6143
+Mountain Ridge~
+The trail of blood stops here.Lying on the ground is the partially consumed
+remains of someone. The air up is so cold that the corpse appears to
+have already be frozen solid.
+~
+62 32 4 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4452
+S
+#19006
+Mountain Trail~
+You are at the beginning of a long winding trail leading up into the mountains.
+Even this far down from the mountains peak you feel the hint of a chilling cold
+that awaits you at the top.
+Some strange looking rocks are laying here in a circle.
+~
+62 36 4 3
+0 0 0 0
+0 0 0
+D0
+You see a rocky trail leading up the side of the mountian.
+~
+ ~
+$n beings the long trek up into the mountain.~
+$n arrives from the rocky trail looking weary from the journey.~
+1 -1 3948
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 4754
+E
+writing~
+The writing appears to have been engraved long ago..nature has not been
+kind as the writing is barely readable. You manage to make out the word
+Breandan.
+~
+E
+rocks stones~
+You see some finely chiseled rocks here. Some sort of writing appears to have been scratched into the surface of one.
+~
+S
+#19999
+$~

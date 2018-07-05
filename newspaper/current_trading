@@ -1,0 +1,111 @@
+                     MEDIEVIA TRADING SECTION
+      Representing all local markets and economies since 383
+------------------------------------------------------------------------
+       TRADESHOP                    ITEM      INSTOCK    BUY     SELL
+           Minotaur Trading Outpost          ale   0      180   151600
+           Minotaur Trading Outpost   adamantite   0     4200  4018224
+           Minotaur Trading Outpost      bananas   0      250   395056
+           Minotaur Trading Outpost      candles   0       45    55744
+           Minotaur Trading Outpost         coal   0      200   191344
+           Minotaur Trading Outpost        sugar   0      230   193712
+           Minotaur Trading Outpost      crystal   0      670   744944
+           Minotaur Trading Outpost         figs   0      200   222368
+           Minotaur Trading Outpost         seed   0      180   284448
+           Minotaur Trading Outpost         corn   0      180   284448
+           Minotaur Trading Outpost        beans   0      180   284448
+           Minotaur Trading Outpost        herbs   0      130   161040
+           Minotaur Trading Outpost         hemp   0      140   173440
+             Tar Valon Trading Shop     silicate   0      290   219568
+             Tar Valon Trading Shop       jewels   0     1850  1400768
+             Tar Valon Trading Shop        nails   0      110    83280
+             Tar Valon Trading Shop       copper   0      420   318000
+             Tar Valon Trading Shop       silver   0      680   514880
+   Trading Post of the City of Tear      bananas   0      250   395216
+   Trading Post of the City of Tear         seed   0      180   284544
+   Trading Post of the City of Tear         corn   0      180   284544
+   Trading Post of the City of Tear        beans   0      180   284544
+   Trading Post of the City of Tear          tin   0      450   711392
+   Trading Post of the City of Tear         rice   0      180   284544
+   Trading Post of the City of Tear      tobacco   0      180   284544
+            A Small Trading Outpost        armor   0     2000  2477760
+            A Small Trading Outpost         beer   0      280   277760
+            A Small Trading Outpost        books   0      860   853152
+            A Small Trading Outpost       chains   0      470   582272
+            A Small Trading Outpost        cloth   0      340   337280
+            A Small Trading Outpost        dates   0      240   238080
+            A Small Trading Outpost     silicate   0      290   216432
+            A Small Trading Outpost          ink   0       80    81728
+            A Small Trading Outpost      incense   0      310   316704
+            A Small Trading Outpost       jewels   0     1850  1380768
+            A Small Trading Outpost        meade   0      230   284928
+            A Small Trading Outpost        nails   0      110    82096
+            A Small Trading Outpost         oils   0      480   490368
+             Tar Valon Trading Shop         oils   3      480   466128
+             Tar Valon Trading Shop         wine   3      320   310752
+             Tar Valon Trading Shop      bananas   4      250   364176
+             Tar Valon Trading Shop        beans   4      180   262208
+             Tar Valon Trading Shop          ink   4       80    77680
+             Tar Valon Trading Shop         seed   5      180   229432
+             Tar Valon Trading Shop      incense   5      310   263410
+             Tar Valon Trading Shop        pelts   5      130   126462
+       Trading Shop of Trellor City         figs   8      200   169932
+       Trading Shop of Trellor City        beans   8      180   214676
+       Trading Shop of Trellor City      bananas  10      250   298158
+       Trading Shop of Trellor City      crystal  10      670   569310
+       Trading Shop of Trellor City         corn  10      180   214676
+       Trading Shop of Trellor City          tin  10      450   536690
+       Trading Shop of Trellor City         rice  11      180   214676
+       Trading Shop of Trellor City        silks  11      540   458850
+       Trading Shop of Trellor City         seed  12      180   214676
+       Trading Shop of Trellor City     molasses  12      195   165690
+       Trading Shop of Trellor City          rum  12      330   280406
+   Trading Post of the City of Tear   adamantite  13     4200  2932104
+   Trading Post of the City of Tear         coal  13      200   139622
+       Trading Shop of Trellor City      tobacco  13      180   214676
+   Trading Post of the City of Tear         iron  14      360   251314
+       Trading Shop of Trellor City        herbs  14      130   116200
+   Trading Post of the City of Tear         nuts  15      150   130200
+   Trading Post of the City of Tear        opium  15      960   670194
+      Trading Post of the Dark Army       spices  16      150   104706
+   Trading Post of the City of Tear        tools  16      480   335090
+      Trading Post of the Dark Army         beer  17      280   167544
+      Trading Post of the Dark Army       chains  17      470   337236
+      Trading Post of the Dark Army        cloth  17      340   203448
+      Trading Post of the Dark Army        books  19      860   514608
+      Trading Post of the Dark Army        dates  19      240   143604
+      Trading Post of the Dark Army        armor  20     2000  1435080
+      Trading Post of the Dark Army        meade  20      230   165024
+      Trading Post of the Dark Army      weapons  20      680   487920
+      Trading Post of the Dark Army        pelts  22      130    93276
+              Medievia Trading Shop      bananas  23      250   215760
+              Medievia Trading Shop      tobacco  23      180   155352
+            New Ashton Trading Post        beans  23      180   158112
+      Trading Post of the Dark Army      incense  23      310   170424
+              Medievia Trading Shop         seed  24      180   155352
+              Medievia Trading Shop         rice  24      180   155352
+            New Ashton Trading Post         corn  24      180   158112
+            New Ashton Trading Post          tin  24      450   395292
+              Medievia Trading Shop         corn  25      180   155352
+              Medievia Trading Shop        beans  25      180   155352
+              Medievia Trading Shop          tin  25      450   388380
+            New Ashton Trading Post      bananas  25      250   219612
+            New Ashton Trading Post         seed  25      180   158112
+            New Ashton Trading Post         rice  25      180   158112
+            New Ashton Trading Post      tobacco  26      180   158112
+      Trading Post of the Dark Army          ink  26       80    43980
+      Trading Post of the Dark Army         oils  26      480   263880
+            New Ashton Trading Post         figs  29      200    94640
+            New Ashton Trading Post        silks  29      540   255540
+              Medievia Trading Shop       chains  30      470   247420
+              Medievia Trading Shop        pelts  30      130    68430
+            New Ashton Trading Post      crystal  30      670   317060
+              Medievia Trading Shop        armor  31     2000  1052860
+              Medievia Trading Shop        meade  31      230   121070
+            New Ashton Trading Post          rum  31      330   156160
+At most 12 top needs from market listed.
+INSTOCK is how many this shop has of ITEM in stock.
+BUY is how much it costs to but the ITEM.
+SELL is how much you can sell the ITEM for at this TRADESHOP.
+We do not post where the items are produced.
+Prices as of the 18th Day of the Month of Dark Sorcery, Year 384.
+~

@@ -1,0 +1,327 @@
+#6195
+The Castle Loft~
+As you enter Rasters Sky Loft, You are amazed at how high up you are. You 
+look
+out the HUGE window which covers the entire east wall of the room, you see
+the entire land of Medievia beneath you. In the distance you can see the
+peak of Mt Vryce where poor souls go to ask pity from gods. This is truely
+a special place.  As you look around the huge room, you see the ceiling
+strenches very high and the top is very blurry as if the room extended
+into the heavens. On one side of the room is a very expensive Persian
+carpet with a Oak desk. As you peer at the desk you gasp at the sight of
+the Compact version of the Connection Machine V.  On the other side of the
+room is a MEGA blasting stereo and CD player, next to the stereo is a HUGE
+100 inch TV and a very confortable leather couch where Raster relaxs from
+the constant stress of an adventurers life.
+~
+90 69128 6 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+$n flies down from Raster's Sky Loft and Office~
+1 -1 81
+D1
+ ~
+ ~
+$n leaves to the Post Office.~
+The ground opens up and $n climbs out in order to read his mail.~
+1 -1 80
+D3
+ ~
+door~
+ ~
+ ~
+2 5142 4619
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 5695
+S
+#4619
+A private conference room~
+You stand in a private conference room. There is a large mahogany table
+in the center of the room with very comfortable chairs around it. All the
+walls of room are made from solid glass. You can see the mountains, swamps
+and forrest's of the great world of Medievia. Beams of light shine through
+the sky lights on the roof causing the room to be very well lit.
+~
+90 2572 6 0
+0 0 0 0
+0 0 0
+D1
+ ~
+door~
+ ~
+ ~
+2 5142 6195
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6210
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 74
+E
+statue~
+You see a statue of Stoler here.
+Underneath the statue there is a little sign which reads.
+------------------------------------------------------
+Here lies the ultimate loser of ALL time and beware
+if you look at the statue to long, you might turn
+into a jessie. So take heed of these warnings and
+pray to the allmighty loser for forgivnes.. STO
+~
+S
+#4620
+The Pit of Hell~
+You stand in a large pit dug miles deep into the ground. You are standing
+on a circular piece of rock and are surrorounded by a lake of boiling blood.
+The bones and corpses of the fools who challanged the inhabitents of
+this mighty stronghold are scattered on the ground and some heads have
+been nailed into the rock.  This cavern is very deep into the ground and
+the only light source is the dark glow emitted from the lake.
+~
+90 2626 5 0
+0 0 0 0
+0 0 0
+D4
+ ~
+tunnel~
+ ~
+ ~
+2 5142 4618
+E
+Graffiti~
+Gothic was here
+~
+S
+#196
+The Castle of Shadows~
+You stand within the castle of shadows. The room is filled with old
+relics and  artifacts. There are gates leading out of the castle to the
+west. The castle looks like a vast complex of many rooms and passageways.
+~
+90 68108 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+gate~
+ ~
+ ~
+2 5142 6411
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6213
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 5695
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 4618
+E
+notice~
+PUBLIC NOTICE:
+There has been a owners meeting and we're kicking mostly everyone out
+and stuff anymore here. OK.. here is who can stay...........
+Groups: Demonz Memeber, Anymember of Lucys Clan, Hai's Clan(can't spell it)
+Senoir house memebers, They are basicly your gods.
+Me,Qwerty,TheSeer,Hai,(all seperte room owners),Strison, Adam.
+If your not ones of these people, go find another place to live. this joint
+ain't not nudist colony, people need their god damn privacy. If you have
+any questions about your staying or leaving, ask qwerty, i delligate him
+full responsibility..............
+-Raster, God of Something Or Another
+~
+E
+hai playpen~
+You see Hai crawling around in his playpen sucking on his pacifer and playing
+with his toys
+~
+E
+rampage cup donation~
+Rampages Donation Cup looks like no one has donated in awhile.
+why don't you donate some today and help a fellow mudder.
+~
+S
+#4618
+A cellar built under the castle~
+You stand in a small cellar underneath the castle.  This room is filled
+with many artifacts from the past. There is a elegant wine rack on the
+left wall filled with many great old vintages.  There is also a
+coldstorage to store food for the castle in summer months. Behind some
+boxs you see a small tunnel leading downwards.
+~
+90 2572 6 0
+0 0 0 0
+0 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 196
+D5
+ ~
+tunnel~
+ ~
+ ~
+2 5142 4620
+S
+#6411
+Standing Before the Castle Gates~
+ ~
+90 68108 0 0
+0 0 0 0
+0 0 0
+D1
+~
+~
+~
+~
+0 0 63366
+D3
+ ~
+gate~
+$n leaves into the Castle.~
+$n arrives at the Majestic Castle.~
+2 5142 196
+S
+#6213
+A small open air courtyard~
+You stand in a small courtyard in the castle. This room seems to be
+a entranceway to the private homes built in this castle. There is a small
+pond with small multicolored fish swimming through it and beautifal
+flowers built in each side of the pebble pathway leading leading to
+each of the individual homes. In the center of the fountain there is
+a statue of a great mage named Hai, the sun reflects on the adamantite
+statue in such a special way giving it a uncanny brilliance that would
+put anyone into a trance. You also notice a small grey kitten playing
+near the flowers.
+~
+90 264704 2 0
+0 1 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 196
+D2
+ ~
+gate~
+ ~
+ ~
+2 5142 4622
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 80
+E
+sign~
+The sign reads:
+The ROOM to the east is a *PRIVATE* conference room. That means if I
+am in there and you walk in.. Your dead. If I am at home and the door is
+unlocked.. That does NOT mean you can walk in... If you walk in uninvited,
+am in there and you walk in.. Your dead. If I am at home and the door is
+unlocked.. That does NOT mean you can walk in... If you walk in uninvited,
+your dead also.. If you want to hold meeting etc in the conference room
+that is fine just as long as I am not online. If I am online, ask me first.
+I added my office to the house so people could come and talk to me easier.
+~
+S
+#4622
+Qwerty's Entertainment Central~
+This room has so much crap and electrial equiptment in it, there is not
+much room to walk. There is a HUGE screen television on the far wall and
+20 feet speakers to either side. He has a entire wall full of cd's and on
+the other is a super computer with a shelf containing disks and yet more
+cd's. The other side of the room has various weapons Qwerty has collected
+from around the world. Friends are welcome. Enemy's will be put to death
+in the Pit of Hell.
+Item: Qwerty's MASSIVE Stereo System
+~
+90 68108 6 0
+0 0 0 0
+0 0 0
+D0
+ ~
+gate~
+ ~
+ ~
+2 5142 6213
+E
+stereo~
+You see qwertys MASSIVE stero system sitting next to the wall.
+~
+S
+#5695
+A Large Bedchamber~
+~
+90 68108 1 0
+0 0 0 0
+0 0 0
+D0
+~
+~
+~
+~
+0 -1 6195
+E
+painting picture~
+You see a painting of Raistlin slaying Takhisis in a mighty battle of magic.
+~
+S
+#6210
+The Outer Plane of Elysium~
+You stand on the twelth out plane of Elysium. The winds of neutrality
+and good flow strong here. A slow moving blue river flows here in
+space, it's banks are invisible and there seems to be nothing
+through which the river is flowing. In the center there is a massive
+clear onyx chamber. The chamber seems to float on thin air and within the
+chamber is very different from the outside.
+The contexts of the chamber seem to be inside the prime material plane
+while everything else outside of it is sitting within the plane of
+Elysium. There seems to be some type of magic portal that created this
+pocket of space, within the box there is a soft sofa and a fire place. A
+small cat wanders about within the box.
+~
+90 68104 0 0
+0 0 0 0
+-2 20 30
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4619
+D5
+ ~
+floor~
+ ~
+ ~
+2 -1 1661
+S
+

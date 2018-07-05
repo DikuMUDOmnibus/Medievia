@@ -1,0 +1,6 @@
+echo [Setting up MudSlinger directory for printing..]
+echo Note: Be sure all files have a ~ at the end of them
+echo Changing group permissions to the "Medievia" group...
+chgrp medievia *
+echo Changing read and write permissions...
+chmod g+rw *

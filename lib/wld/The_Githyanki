@@ -1,0 +1,3541 @@
+#286
+An old path.~
+You walk along a path that leads north and south through dense undergrowth.
+It does not look as though this path has been used in some time and you are
+not sure if you feel safe in this area. To the south you see a Graveyard.
+~
+98 8 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 287
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 9800
+S
+#287
+An old path.~
+You walk along a path that leads north and south through dense undergrowth.
+It does not look as though this path has been used in some time and you are
+not sure if you feel safe in this area. To the south you see a Graveyard.
+~
+98 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 288
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 286
+S
+#288
+An old path.~
+You walk along a path that leads north and south through dense undergrowth.
+It does not look as though this path has been used in some time and you are
+not sure if you feel safe in this area. To the south you see a Graveyard.
+~
+98 8 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 287
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 289
+S
+#289
+An old path.~
+You walk along a path that leads north and south through dense undergrowth.
+It does not look as though this path has been used in some time and you are
+not sure if you feel safe in this area. To the south you see a Graveyard.
+~
+98 8 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 288
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 290
+S
+#290
+An old path.~
+You walk along an old path. To the north you can barely make out the outline
+of a medium sized structure. To the south you see nothing but heavy brush.
+~
+98 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 9801
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 289
+S
+#1150
+The Wine Cellar.~
+You are standing in the castle wine cellar. All around you are racks
+full of very old wine bottles. The guards are not allowed to touch these but
+there are several large kegs of beer around the room. You can tell they
+are used often from the puddles of spilled beer under each spout.
+~
+98 8 0 7
+0 0 0 0
+0 0 0
+D4
+You see a wooden trapdoor with a large iron pull ring.
+~
+trapdoor wooden~
+$n leaves through the trapdoor...~
+$n climbs up from the wine celler...~
+1 -1 9839
+E
+keg kegs beer~
+The several kegs here seem to have once contained much beer, but the soldiers
+seem to have broken into all of them.
+~
+E
+wine wines rack bottle bottles racks~
+These wine bottles are delicately laid on the racks here.
+~
+S
+#9800
+An old path.~
+You walk along a path that leads north and south through dense undergrowth.
+It does not look as though this path has been used in some time and you are
+not sure if you feel safe in this area. To the south you see a Graveyard.
+~
+98 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 286
+E
+path~
+It does not seem to have been used in quite a long time.
+~
+S
+#9801
+An old path.~
+You walk along an old path. To the north you can barely make out the outline
+of a medium sized structure. To the south you see nothing but heavy brush.
+~
+98 8 0 0
+0 0 0 0
+0 0 0
+D2
+You can not see much due to the thick undergrowth.
+~
+ ~
+ ~
+ ~
+1 -1 290
+E
+undergrowth~
+It is primarily made up of vines and overgrown weeds.
+~
+S
+#9802
+Before The Temple of Gith.~
+You stand before a old and decaying stone building. The only thing that seems
+to have withstood the test of time are two ornate stone statues. They act as
+columns supporting the entrance into this strange place.
+~
+98 8 0 0
+0 0 0 0
+0 0 0
+D0
+You see nothing but darkness.
+~
+entrance~
+ ~
+ ~
+1 -1 9803
+E
+building structure~
+The building appears to be of ancient origin.
+~
+E
+entrance~
+You catch a glimpse of something moving in the darkness beyond the entrance.
+~
+S
+#9803
+The Antechamber.~
+A dank, musty odor fills this room and you can hardly breath. In the middle
+of the room stands a tall statue and all around the base are red blobs of some
+sort. You also see what looks like kneeling mats placed around the statue so
+as to kneel and pray. It appears that this building is not quite deserted and
+you feel a shiver of fear run the length of your spine. There is an archway
+leading north and you can exit the temple to the south.
+~
+98 9 0 7
+0 0 0 0
+0 0 0
+D0
+Through the archway you can see a blood-stained altar.
+~
+arch archway~
+ ~
+ ~
+1 -1 9804
+D2
+You see sunlight which seems to stop exactly at the door as though it does not
+dare enter into this unholy place.
+~
+ ~
+ ~
+ ~
+1 -1 9802
+E
+statue gith~
+You see a solid stone representation of Gith the High Lord of the Githyanki.
+He is wearing a large belt and is wielding a very ornate sword in his hand.
+The statue appears to be well kept and cleaned. You notice that it is bathed
+in a faint red glow.
+~
+E
+red blob blobs~
+The red blobs are ritual candles that are placed around the statue during
+prayer. These have melted down to nothing more than waxy spots on the floor.
+~
+S
+#9804
+The Blood-Stained Altar.~
+You see in front of you a sacrificial altar where the spiritial followers
+of Gith offer sacrifices to their High Lord.  There seem to be small red
+grooves in the floor that run from the sides and head of the altar to a
+small hole in the floor at the foot of it.
+~
+98 524297 0 7
+0 0 0 0
+0 0 0
+D0
+You see nothing but darkness to the north.
+~
+ ~
+ ~
+ ~
+1 -1 9805
+D2
+You can see a statue through the archway.
+~
+archway arch~
+ ~
+ ~
+1 -1 9803
+E
+hole~
+You peer into the hole but see only darkness. A foul odor wafts up from within.
+~
+E
+groove~
+The grooves are red from blood flowing through them. They appear to be designed
+to carry blood from a sacrifice to a hole at the foot of the altar.
+~
+E
+altar sacrificial~
+The altar is about eight feet long by five feet wide, ornately carved with
+holy symbols of the Githyanki. It has a deep impression of a human figure in
+the otherwise flat surface that is the top of the altar. It has slits carved
+at the head and sides so as to allow blood from the sacrifice to drain off into
+the grooves in the floor.
+~
+E
+carvings symbols~
+These are of the Githyanki and you do not understand their meaning.
+~
+S
+#9805
+The Priest's Chamber.~
+You have just entered the High Priest's private chamber. You feel a great
+evil surround you as you stand here. A huge black and red rug covers the floor
+and in the center of the room you see a large black book resting on a pedestal.
+Shelves line the east and west walls. On these are several scrolls and other
+objects of little interest. A mural covers most of the northern wall. The
+feeling of evil seems to consume you. You wonder if you should stay here for
+much longer.
+~
+98 9 0 7
+0 0 0 0
+0 0 0
+D2
+You see an altar surrounded by darkness.
+~
+altar~
+ ~
+ ~
+1 -1 9804
+D5
+A huge black and red rug spreads out across the floor beneath your feet.
+~
+hatch under the rug~
+ ~
+ ~
+4 -1 9806
+E
+rug floor~
+A huge black and red rug of fine quality. It seems to be covering something.
+~
+E
+book black~
+It appears to be a book of Githyanki spells. It seems to be attached to the
+pedestal by some magical means.
+~
+E
+pedestal~
+It is made of smokey black marble. It is about four feet tall and there is a
+large black book resting upon it.
+~
+E
+shelves shelf~
+They are cluttered with books and scrolls. They are very dusty and you wonder
+why they have not been touched in such a long time.
+~
+E
+mural painting~
+It is a beautiful painting of a Huge Red Dragon resting in a meadow amidst
+several tall trees. The dragon looks very old and you notice it has a strange
+golden amulet around it's neck.
+~
+S
+#9806
+A Dark Stairway.~
+You stand at the top of a stairway that leads down into the unknown. A cold
+breeze comes from the darkness below making you shiver. There is a hatch above
+you with a large metal ring fastened to it. You hear a faint squeaking sound
+coming from somewhere.
+~
+98 9 0 7
+0 0 0 0
+0 0 0
+D4
+There is a hatch with a large metal pull ring in the ceiling here.
+~
+hatch ring pull~
+ ~
+ ~
+1 -1 9805
+D5
+You can see nothing as you peer down into the darkness of the stairway.
+~
+ ~
+ ~
+ ~
+1 -1 9807
+S
+#9807
+A Dark Stairway.~
+You are on a long winding stairway. Above and below you is nothing but pure
+darkness. You hear a squeaking coming from somewhere.
+~
+98 9 5 7
+0 0 0 0
+0 0 0
+D4
+Darkness.
+~
+ ~
+ ~
+ ~
+1 -1 9806
+D5
+Darkness.
+~
+ ~
+ ~
+ ~
+1 -1 9808
+S
+#9808
+A Dark Stairway.~
+You are in a small tunnel passage at the base of a stairway that leads up into
+darkness. The tunnel leads off to the north where you can see a faint glow.
+~
+98 9 0 7
+0 0 0 0
+0 0 0
+D0
+You see a faint glow coming from that direction.
+~
+ ~
+ ~
+ ~
+1 -1 9809
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 9807
+S
+#9809
+A Dark Tunnel.~
+You walk along a north-south passage that has been carved through the solid
+rock. There is a cool breeze coming from the north.
+~
+98 9 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 9810
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 9808
+S
+#9810
+A Dark Tunnel.~
+You walk along a north-south passage. It is getting lighter and you don't need
+a light any longer.
+~
+98 8 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 9811
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 9809
+S
+#9811
+The Tunnel Opening.~
+Here the tunnel opens into a enormous cavern. Most of this cavern is filled
+with a Huge Castle that lies directly north from here. A passage leads south
+into darkness.
+~
+98 8 0 7
+0 0 0 0
+0 0 0
+D0
+You see a HUGE Castle in that direction.
+~
+ ~
+ ~
+ ~
+1 -1 9812
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 9810
+S
+#9812
+The Gates of The Adamantite Castle.~
+You Stand before a HUGE Castle that completely fills this enormous cavern. It
+has twin towers reaching all the way to the top of the cavern about seventy
+feet above you. The walls of the castle are constructed of large slabs of a
+green stone that give off a bright glow illuminating the entire cavern. To the
+north is a huge gate made of fine silver blocking the arched entrance to the
+castle. You look upon it in awe and wonder who could have constructed such a
+large underground building. There is also a path that leads east-west in front
+of the castle here.
+~
+98 8 0 7
+0 0 0 0
+0 0 0
+D0
+A large gate made of pure silver. It does not appear to be locked.
+~
+gate gates silver~
+ ~
+ ~
+1 -1 9824
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 9816
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 9811
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 9813
+S
+#9813
+A Path.~
+You are on a well worn path that leads east-west along the front of this huge
+castle. The path looks as though someone has been pacing back and forth here.
+~
+98 8 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 9812
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 9814
+S
+#9814
+A Path.~
+You are on a well worn path that leads east-west along the front of this huge
+castle. The path looks as though someone has been pacing back and forth here.
+~
+98 8 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 9813
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 9815
+S
+#9815
+A Cavern Wall.~
+Here the path ends as the castle wall meets the cavern wall and are somehow
+joined as if the castle continues into the solid rock wall of the cavern.
+The path leads back to the east from here.
+~
+98 8 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 9814
+S
+#9816
+A Path.~
+You are on a well worn path that leads east-west along the front of this huge
+castle. The path looks as though someone has been pacing back and forth here.
+~
+98 8 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 9817
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 9812
+S
+#9817
+A Path.~
+You are on a well worn path that leads east-west along the front of this huge
+castle. The path looks as though someone has been pacing back and forth here.
+~
+98 8 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 9818
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 9816
+S
+#9818
+A Cavern Wall.~
+Here the path ends as the castle wall meets the cavern wall and are somehow
+joined as if the castle continues into the solid rock wall of the cavern.
+The path leads back to the west from here.
+~
+98 8 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+passage~
+ ~
+ ~
+3 -1 9819
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 9817
+E
+wall~
+The rock wall of the cavern here has a small crack in it that arches as if to
+outline a door of some kind.
+~
+S
+#9819
+A Secret Passage.~
+You have discovered a secret passage!
+The passage leads north into darkness. To the west there is a door made to look
+like part of the wall. You feel safe here, but you also feel a evil presence in
+the darkness north of here.
+~
+98 45 0 7
+0 0 0 0
+0 0 0
+D0
+You see nothing but darkness.
+~
+ ~
+ ~
+ ~
+1 -1 9820
+D3
+You see a door made of stone.
+~
+door stone wall~
+ ~
+ ~
+1 -1 9818
+S
+#9820
+A Secret Passage.~
+You are traveling through a small passage carved from the stone. Your light
+flickers casting your shadow on the wall beside you. The feeling of evil
+becomes stronger to the north and the passage leads back to the south.
+You wonder if you should not turn back now.
+~
+98 45 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 9821
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 9819
+S
+#9821
+A Secret Passage.~
+You are traveling through a small passage carved from the stone. Your light
+flickers casting your shadow on the wall beside you. The feeling of evil
+becomes stronger to the north and the passage leads back to the south.
+~
+98 45 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 9822
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 9820
+S
+#9822
+A Secret Passage.~
+You are traveling through a small passage carved from the stone. Your light
+flickers casting your shadow on the wall beside you. The feeling of evil
+becomes stronger to the north and the passage leads back to the south.
+~
+98 45 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 9823
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 9821
+S
+#9823
+A Secret Alcove.~
+You have stumbled upon a hidden alcove. The walls have been painted a blood
+red and there is a black velvet rug covering the floor of this small cave. In
+the middle of the rug someone has made a large circle of red ashes. The fairly
+low ceiling has a small hole about six inches in diameter in the middle of it.
+You feel a strong presence of evil that almost seems to ooze from the
+surrounding walls.
+~
+98 553 0 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 9822
+E
+wall walls~
+Upon closer inspection you realize that the red on the walls is not paint, but
+is indeed blood. You feel a shiver run the length of your spine.
+~
+E
+rug velvet black~
+It is a plush black velvet rug. It does not seem to be man made.
+~
+E
+ashes ash circle red~
+The ring of ashes seems to be used for some evil ritual.
+~
+E
+hole ceiling~
+You peer up at the hole in the ceiling and see nothing but darkness within.
+Yet you can see little red droplets of blood around the edges of the hole.
+~
+S
+#9824
+The Castle Entrance.~
+You stand just inside the entrance of this huge castle. The walls give off a
+green glow and you have no problem seeing. The floor is made of a white marble
+that shines in the green light. A hall runs to the east, west, and north from
+here. You can leave the castle through the gate to the south.
+~
+98 8 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 9825
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 9841
+D2
+A huge gate made of pure silver
+~
+gate gates~
+ ~
+ ~
+1 -1 9812
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 9831
+E
+floor marble white~
+The floor is made of large slabs of solid white marble bathed in a green glow.
+~
+E
+wall walls~
+The walls are made from huge blocks of adamantite. They give off a green glow.
+~
+S
+#9825
+A Large Hall.~
+You are in a large north-south hallway. The walls give off a green glow and you
+have no problem seeing. To the west there is a door with a sign on it.
+~
+98 8 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 9826
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 9824
+D3
+You see a large door with a sign made of silver attached to it.
+~
+door~
+ ~
+ ~
+1 -1 9861
+E
+sign~
+The sign reads:
+                        ** Training Room **
+             ** Do not enter without proper equipment **
+~
+E
+walls wall~
+The walls give off a soft, warm green glow that almost makes you feel
+comfortable here... almost.
+~
+S
+#9826
+A Large Hall.~
+You are in a large north-south hallway. The walls give off a green glow and you
+have no problem seeing.
+~
+98 8 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 9827
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 9825
+E
+walls wall~
+The walls give off a soft, warm green glow that almost makes you feel comfortable here... almost.
+~
+S
+#9827
+A Large Hall.~
+You are in a large north-south hallway. The walls give off a green glow and you
+have no problem seeing.
+~
+98 8 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 9828
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 9826
+E
+walls wall~
+The walls give off a soft, warm green glow that almost makes you feel
+comfortable here... almost.
+~
+S
+#9828
+A Large Hall.~
+You are in a large north-south hallway. The walls give off a green glow and you
+have no problem seeing.
+~
+98 8 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 9829
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 9827
+E
+walls wall~
+The walls give off a soft, warm green glow that almost makes you feel
+comfortable here... almost.
+~
+S
+#9829
+A Large Hall.~
+You are in a large north-south hallway. The walls give off a green glow and you
+have no problem seeing.
+~
+98 8 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 9830
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 9828
+E
+walls wall~
+The walls give off a soft, warm green glow that almost makes you feel
+comfortable here... almost.
+~
+S
+#9830
+A Large Hall.~
+Here the large hallway ends at two doors. One to the east, and one to the west.
+The hall also continues to the south.
+~
+98 12 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+door~
+ ~
+ ~
+1 -1 9872
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 9829
+D3
+ ~
+door~
+ ~
+ ~
+1 -1 9871
+S
+#9831
+A Hallway.~
+You are walking through a east-west hallway. The floor is made of white marble
+bathed in a green light.
+~
+98 8 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 9824
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 9832
+E
+walls wall floor~
+There is a soft, warm green glow emanating from the walls and floor here.
+~
+S
+#9832
+A Hallway.~
+You are walking through a east-west hallway. The floor is made of white marble
+bathed in a green light.
+~
+98 8 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 9831
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 9833
+E
+floor wall walls~
+There is a soft, warm green glow emanating from the walls and floor here.
+~
+S
+#9833
+A Turn In The Hallway.~
+You come to a turn in the hallway. From here the hallway leads east and north.
+~
+98 8 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 9834
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 9832
+S
+#9834
+A Large Hall.~
+You are in a large north-south hallway. The walls give off a green glow.
+~
+98 8 0 7
+0 0 0 0
+0 0 0
+D0
+The hallway continues to the north.
+~
+ ~
+$n continues to the north.~
+$n enters from the south.~
+1 -1 9835
+D2
+There is a turn in the hallway south.
+~
+ ~
+$n continues to the south.~
+$n enters from the north.~
+1 -1 9833
+E
+wall walls~
+The walls give off a soft, warm green glow that almost makes you feel
+comfortable here... almost.
+~
+S
+#9835
+A Large Hall.~
+You are in a large north-south hallway. The walls give off a green glow.
+~
+98 8 0 7
+0 0 0 0
+0 0 0
+D0
+The hallway continues to the north.
+~
+ ~
+$n continues to the north.~
+$n enters from the south.~
+1 -1 9836
+D2
+The hallway continues to the south.
+~
+ ~
+$n continues to the south.~
+$n enters from the north.~
+1 -1 9834
+E
+wall walls~
+The walls give off a soft, warm green glow that almost makes you feel
+comfortable here... almost.
+~
+S
+#9836
+A Large Hall.~
+You are in a large north-south hallway. The walls give off a green glow.
+~
+98 8 0 7
+0 0 0 0
+0 0 0
+D0
+The hallway continues to the north.
+~
+ ~
+$n continues to the north.~
+$n enters from the south.~
+1 -1 9837
+D2
+The hallway continues to the south.
+~
+ ~
+$n leaves down the hallway south.~
+$n enters from the north.~
+1 -1 9835
+E
+walls wall~
+The walls give off a soft, warm green glow that almost makes you feel
+comfortable here... almost.
+~
+S
+#9837
+A Large Hall.~
+You are in a large north-south hallway. The walls give off a green glow. You
+can hear what sounds like laughter coming from the north.
+~
+98 8 0 7
+0 0 0 0
+0 0 0
+D0
+The hallways continues to the north.
+~
+ ~
+$n continues to the north.~
+$n enters from the south.~
+1 -1 9838
+D2
+The hallway continues to the south.
+~
+ ~
+$n leaves down the hallway south.~
+$n enters from the north.~
+1 -1 9836
+E
+walls wall~
+The walls give off a soft, warm green glow that almost makes you feel
+comfortable here... almost.
+~
+S
+#9838
+A Large Hall.~
+The hallway ends here at two doors. There is a sign on the door to the north
+and the other door leads east. The hallway continues south from here.
+The sound of laughter is coming from the door to the north.
+~
+98 12 0 7
+0 0 0 0
+0 0 0
+D0
+To the north lies the captain's lounge.
+~
+door~
+$n leaves toward the captain's lounge.~
+$n comes in from the south.~
+1 -1 9839
+D1
+The east exit files into the soldier sparring grounds.
+~
+door~
+$n leaves into the soldier sparring grounds.~
+$n enters from the hallway.~
+1 -1 9866
+D2
+The hallway continues to the south.
+~
+ ~
+$n leaves down the hall south.~
+$n comes down the hall from the north.~
+1 -1 9837
+E
+sign~
+The sign reads:
+                          ---------------------
+                      -=}{] Captains Quarters [}{=-
+                      -=}{]   Do Not Enter!   [}{=-
+                          ---------------------
+~
+E
+walls wall~
+The walls give off a soft, warm green glow that almost makes you feel
+comfortable here... almost.
+~
+S
+#9839
+Captains Lounge.~
+You find yourself in the Captains Lounge. There is a large round table in the
+middle of the room with several chairs placed around it. There are many swords
+and shields lining the walls of this room. You feel that you are not welcome
+here and think you should have read the sign on the door before entering.
+~
+98 8 0 7
+0 0 0 0
+0 0 0
+D1
+Through the door to the east is the captain's office.
+~
+ ~
+$n leaves toward the captains office.~
+$n walks in from the west.~
+1 -1 9840
+D2
+A doorway provides an exit from the lounge back to the hallway.
+~
+door~
+$n leaves the captain's lounge south.~
+$n walks out of the captain's lounge.~
+1 -1 9838
+D5
+There is a trapdoor under the table.
+~
+trapdoor~
+$n climbs down into the wine cellar...~
+You see $n climb down into the wine cellar with you.~
+4 -1 1150
+E
+table round~
+The table is made of the finest oak. There are a few beer mugs setting on it as
+well as a half eaten turkey. It looks very sturdy.
+~
+E
+sword swords~
+They are firmly attached with steel bars bolted and locked to the wall.
+~
+E
+shield shields~
+The shields are firmly mounted on locking hooks. You see no way to get them.
+~
+S
+#9840
+The Captain of the Guard.~
+As you walk into the Captain's Office, you realize this might not have been
+such a good idea. The Captain might not want any visitors. You see the captains
+desk and chair in front of you and there is a plant in each corner behind the
+desk. You can exit the office to the west. You think that might be a good idea.
+~
+98 8 0 7
+0 0 0 0
+0 0 0
+D3
+The captain's lounge is to the west.
+~
+ ~
+$n leaves toward the captain's office.~
+$n casually walks from the captain's office.~
+1 -1 9839
+E
+plant plants~
+A couple of huge plants sit in the corners of the room here.
+~
+E
+chair ~
+A beautiful oak chair sits slightly to the side of the desk.
+~
+E
+desk~
+It is made from the finest oak and looks very sturdy.
+~
+S
+#9841
+A Hallway.~
+You are walking through a east-west hallway. The floor is made of white marble
+bathed in a green light.
+~
+98 8 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 9842
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 9824
+E
+floor wall walls~
+There is a soft, warm green glow emanating from the walls and floor here.
+~
+S
+#9842
+A Hallway.~
+You are walking through a east-west hallway. The floor is made of white marble
+bathed in a green light.
+~
+98 8 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 9843
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 9841
+E
+floor wall walls~
+There is a soft, warm green light emanating from the walls and floor here.
+~
+S
+#9843
+A Turn In The Hallway.~
+You come to a turn in the hallway. From here the hallway leads west and north.
+~
+98 8 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 9844
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 9842
+S
+#9844
+A Large Hall.~
+You are in a large north-south hallway. The walls give off a green glow.
+~
+98 8 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 9845
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 9843
+E
+wall walls~
+The walls give off a soft, warm green glow that almost makes you feel
+comfortable here... almost.
+~
+S
+#9845
+A Large Hall.~
+You are in a large north-south hallway. The walls give off a green glow.
+~
+98 8 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 9846
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 9844
+E
+wall walls~
+The walls give off a soft, warm green glow that almost makes you feel
+comfortable here... almost.
+~
+S
+#9846
+A Large Hall.~
+You are in a large north-south hallway. The walls give off a green glow.
+~
+98 8 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 9847
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 9845
+E
+walls wall~
+The walls give off a soft, warm green glow that almost makes you feel
+comfortable here... almost.
+~
+S
+#9847
+A Large Hall.~
+You are in a large north-south hallway. The walls give off a green glow.
+~
+98 8 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 9848
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 9846
+E
+walls wall~
+The walls give off a soft, warm green glow that almost makes you feel
+comfortable here... almost.
+~
+S
+#9848
+A Large Hall.~
+You are in a large north-south hallway. The walls give off a green glow.
+~
+98 8 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 9849
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 9847
+E
+walls wall~
+The walls give off a warm, soft green glow that almost makes you feel
+comfortable here... almost.
+~
+S
+#9849
+A Turn In The Hallway.~
+You come to yet another turn in the hallway. From here the hallway continues
+south and west and it seems to be getting rather humid. You start to sweat.
+~
+98 8 0 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 9848
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 9850
+S
+#9850
+A Turn In The Hallway.~
+You are at a turn in the hallway. It is rather humid here and you can see
+steam rising through the cracks between the marble slabs in the floor. You
+can go east or south from here.
+~
+98 12 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 9849
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 9851
+S
+#9851
+A Turn In The Hallway.~
+You are at a turn in the hallway. It is rather humid here and you can see
+steam rising through the cracks between the marble slabs in the floor. You
+can go north or west from here.
+~
+98 8 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 9850
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 9852
+S
+#9852
+A Turn In The Hallway.~
+You are at a turn in the hallway. It is rather humid here and you can see
+steam rising through the cracks between the marble slabs in the floor. You
+can go east or south from here.
+~
+98 12 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 9851
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 9853
+S
+#9853
+At An Intersection.~
+You come to an intersection. you can go north, south, or east. Steam continues
+to waft up from between the marble slabs in the floor. You feel a little sick.
+~
+98 8 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 9852
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 9860
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 9854
+S
+#9854
+A Steamy Hallway.~
+You walk along a hallway filled with steam that constantly pours from the
+cracks between the marble slabs in the floor. You can barely breath.
+~
+98 8 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 9853
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 9855
+S
+#9855
+A Steamy Hallway.~
+You walk along a hallway filled with steam that constantly pours from the
+cracks between the marble slabs in the floor. You can barely breath.
+~
+98 8 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 9854
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 9856
+S
+#9856
+A Turn In The Steamy Hallway.~
+You are at a turn in the steamy hallway. It is totally filled with steam.
+You can barely make out an exit to the east and one to the north.
+~
+98 8 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 9855
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 9857
+S
+#9857
+A Turn In The Steamy Hallway.~
+You are at a turn in the steamy hallway. It is totally filled with steam.
+You can barely make out an exit to the west and one to the north.
+~
+98 8 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 9858
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 9856
+S
+#9858
+A Steamy Hallway.~
+You walk along a hallway filled with steam that constantly pours from the
+cracks between the marble slabs in the floor. You can barely breath.
+~
+98 8 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 9859
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 9857
+S
+#9859
+A Steamy Hallway.~
+You walk along a hallway filled with steam that constantly pours from the
+cracks between the marble slabs in the floor. You can barely breath.
+~
+98 8 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 9860
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 9858
+S
+#9860
+A Turn In The Steamy Hallway.~
+You are at a turn in the steamy hallway. It is totally filled with steam.
+You can barely make out an exit to the west and one to the south.
+~
+98 8 0 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 9859
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 9853
+S
+#9861
+Inside The Training Room.~
+You stand in a rather large but empty room. This is the training room where the
+Githyanki soldiers train and prepare for battle.
+There is a wooden door in the eastern wall.
+~
+98 8 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 9862
+D1
+ ~
+door~
+ ~
+ ~
+1 -1 9825
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 9870
+S
+#9862
+Inside The Training Room.~
+You stand in a rather large but empty room. This is the training room where the
+Githyanki soldiers train and prepare for battle.
+~
+98 8 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 9863
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 9861
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 9869
+S
+#9863
+Inside The Training Room.~
+You stand in a rather large but empty room. This is the training room where the
+Githyanki soldiers train and prepare for battle.
+~
+98 8 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 9864
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 9862
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 9868
+S
+#9864
+Inside The Training Room.~
+You stand in a rather large but empty room. This is the training room where the
+Githyanki soldiers train and prepare for battle.
+~
+98 8 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 9865
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 9863
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 9867
+S
+#9865
+Inside The Training Room.~
+You stand in a rather large but empty room. This is the training room where the
+Githyanki soldiers train and prepare for battle.
+~
+98 8 0 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 9864
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 9866
+S
+#9866
+Inside The Training Room.~
+You stand in a rather large but empty room. This is the training room where the
+Githyanki soldiers train and prepare for battle.
+~
+98 8 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 9865
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 9867
+D3
+ ~
+door~
+ ~
+ ~
+1 -1 9838
+S
+#9867
+Inside The Training Room.~
+You stand in a rather large but empty room. This is the training room where the
+Githyanki soldiers train and prepare for battle.
+~
+98 8 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 9866
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 9864
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 9868
+S
+#9868
+Inside The Training Room.~
+You stand in a rather large but empty room. This is the training room where the
+Githyanki soldiers train and prepare for battle.
+~
+98 8 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 9867
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 9863
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 9869
+S
+#9869
+Inside The Training Room.~
+You stand in a rather large but empty room. This is the training room where the
+Githyanki soldiers train and prepare for battle.
+~
+98 8 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 9868
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 9862
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 9870
+S
+#9870
+Inside The Training Room.~
+You stand in a rather large but empty room. This is the training room where the
+Githyanki soldiers train and prepare for battle.
+~
+98 8 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 9869
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 9861
+S
+#9871
+Sleeping Quarters.~
+You are standing in the soldiers sleeping quarters. Be sure not to wake up the
+sleeping soldiers. They can be pretty mean when they first wake up. You see
+bunks lining the walls of this room. The only exit is through the door
+to the east from here.
+~
+98 9 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+door~
+ ~
+ ~
+1 -1 9830
+E
+bed bunk beds bunks~
+The bunks are not very nice. They have old mattresses, rough blankets and lumpy
+pillows at the head of each.
+~
+S
+#9872
+Sergeants Bedroom.~
+You stand in the sergeants bedroom. There is a dresser against the north wall
+and a nice four-poster bed against the east wall. Next to the dresser is a full
+length oval mirror. The floor is covered in an ornate brown and black rug made
+up of pelts from the al-mi'raj. The Sergeant might not like you snooping around
+in his room. Maybe you should leave, while you still can.
+~
+98 8 0 7
+0 0 0 0
+0 0 0
+D0
+You see a full length mirror. As you look closer you notice the mirror has
+hinges on the left side mounting it to the wall.
+~
+doorway behind the mirror~
+ ~
+ ~
+4 -1 9873
+D3
+ ~
+door~
+ ~
+ ~
+1 -1 9830
+E
+dresser~
+It is made from solid walnut and has six drawers. But you can not seem to get
+any of them open.
+~
+E
+bed~
+Its is made from solid oak. It has four posts rising from each corner that are
+ornately carved with Githyanki symbols.
+~
+E
+mirror~
+Upon closer inspection you realize the mirror is hung on hinges!
+~
+E
+Floor pelts rug pelt~
+There is a horrible stink coming from these hideous pelts covering the
+floor. You try not to vomit as you run for the door.
+~
+S
+#9873
+Spiral Staircase.~
+You have found a spiral staircase that obviously leads up to the second level
+of the castle. It is rather dark here.
+~
+98 9 0 7
+0 0 0 0
+0 0 0
+D2
+You see the backside of the hinged mirror.
+~
+mirror door~
+ ~
+ ~
+1 -1 9872
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 9874
+S
+#9874
+Spiral Staircase.~
+You stand at the top of a spiral staircase leading down. Looking down you see
+nothing but darkness below. A passage leads towards the south from here.
+The walls of this staircase are made from ancient stone, and the mortor has
+begun to crumble.
+~
+98 9 0 7
+0 0 0 0
+0 0 0
+D1
+Some of the mortor between the bricks has been chipped away,
+making an outline large enough to be a door.
+~
+passage~
+ ~
+ ~
+4 -1 9875
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 9877
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 9873
+E
+wall walls stone mortor~
+Some of the mortor between the bricks along the east wall has been
+chipped away, making an outline large enough to be a door.
+~
+S
+#9875
+Inside A Hidden Room.~
+You find a small room hidden behind the bricks. A few old rags have been left
+in one corner of the room and in another corner you see the remains of some
+poor soul. There is a closet to the east and you can leave this room by
+going west from here.
+~
+98 9 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+closet door~
+ ~
+ ~
+1 -1 9876
+D3
+ ~
+bricks~
+ ~
+ ~
+1 -1 9874
+E
+rag rags old~
+Some old clothing lies here, all torn to shreds.
+~
+E
+remains poor soul corpse~
+The remains of some lost adventurer. The maggots have eaten away almost all
+tissue leaving nothing but bones behind. There is a dagger wedged in between
+two ribs of the rib cage and you are not able to pull it free of the corpse.
+~
+S
+#9876
+A Closet.~
+You stand in a small closet. Several items of clothing hang here but there is
+nothing of value. You look up and notice something up on a shelf. You could
+reach whatever it is if you were to climb up on the shelf.
+~
+98 9 0 7
+0 0 0 0
+0 0 0
+D3
+ ~
+closet door~
+ ~
+ ~
+1 -1 9875
+D4
+You see something resting upon a shelf just out of reach.
+~
+shelf~
+$n climbs upon the shelf above you...~
+ ~
+1 -1 9913
+E
+clothes clothing~
+They are all worn out have very little value.
+~
+S
+#9877
+A Dark Hall.~
+You are walking along a dark hallway. Unlike the lower level of this castle,
+this section is totally void of all light. There is a room east of here and
+the hallway continues to the north and south.
+~
+98 41 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 9874
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 9883
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 9878
+S
+#9878
+A Dark Hall.~
+You are walking along a dark hallway. Unlike the lower level of this castle,
+this section is totally void of all light. There is a room east of here and
+the hallway continues to the north and south.
+~
+98 41 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 9877
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 9884
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 9879
+S
+#9879
+A Dark Hall.~
+You are walking along a dark hallway. Unlike the lower level of this castle,
+this section is totally void of all light. There is a room east of here and
+the hallway continues to the north and south.
+~
+98 41 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 9878
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 9885
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 9880
+S
+#9880
+A Dark Hall.~
+You are walking along a dark hallway. Unlike the lower level of this castle,
+this section is totally void of all light. There is a room east of here and
+the hallway continues to the north and south.
+~
+98 41 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 9879
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 9886
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 9881
+S
+#9881
+A Dark Hall.~
+You are walking along a dark hallway. Unlike the lower level of this castle,
+this section is totally void of all light. There is a room east of here and
+the hallway continues to the north and south.
+~
+98 41 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 9880
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 9887
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 9882
+S
+#9882
+A Turn In The Dark Hall.~
+You come to a turn in the dark hallway. You can go west or north from here, and
+there is a room is to the east.
+~
+98 41 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 9881
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 9888
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 9895
+S
+#9883
+A Sergeant's Bedroom.~
+This is a fairly well furnished bedroom. It has a large, comfortable looking
+bed against the eastern wall. A small nightstand sits on one side of the bed
+and a large velvet chair on the other. You also see a solid oak dresser
+against the western wall.
+~
+98 41 0 7
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 9877
+E
+chair velvet ~
+This beautiful chair sits slightly to the side of the bed. It is covered
+in a soft velvety cloth that makes it a pleasure to relax on.
+~
+E
+bed~
+This huge king-sized bed sits in the middle of the huge room. It is decorated
+by ornate carvings on the backboard depicting two armies clashing in battle.
+~
+E
+oak dresser~
+This dresser seems to be bolted to the western wall and looks to be just
+a decoration since you can't open any of the drawers.
+~
+E
+Nightstand~
+The nightstand on this side of the bed is very plain. There are no decorations
+on it, and none of the drawers seem to want to open.
+~
+S
+#9884
+A Sergeant's Bedroom.~
+This is a fairly well furnished bedroom. It has a large, comfortable looking
+bed against the eastern wall. A small nightstand sits on one side of the bed
+and a large velvet chair on the other. You also see a solid oak dresser
+against the western wall.
+~
+98 41 0 7
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 9878
+E
+nightstand~
+The nightstand on this side of the bed is very plain. There are no decorations
+on it, and none of the drawers seem to want to open.
+~
+E
+dresser oak~
+This dresser seems to be bolted to the western wall and looks to be just
+a decoration since you can't open any of the drawers.
+~
+E
+chair velvet~
+This beautiful chair sits slightly to the side of the bed. It is covered
+in a soft velvety cloth that makes it a pleasure to relax on.
+~
+E
+bed ~
+This huge king-sized bed sits in the middle of the huge room. It is decorated
+by ornate carvings on the backboard depicting two armies clashing in battle.
+~
+S
+#9885
+A Sergeant's Bedroom.~
+This is a fairly well furnished bedroom. It has a large, comfortable looking
+bed against the eastern wall. A small nightstand sits on one side of the bed
+and a large velvet chair on the other. You also see a solid oak dresser
+against the western wall.
+~
+98 41 0 7
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 9879
+E
+nightstand~
+The nightstand on this side of the bed is very plain. There are no decorations
+on it, and none of the drawers seem to want to open.
+~
+E
+dresser oak~
+This dresser seems to be bolted to the western wall and looks to be just
+a decoration since you can't open any of the drawers.
+~
+E
+chair velvet~
+This beautiful chair sits slightly to the side of the bed. It is covered
+in a soft velvety cloth that makes it a pleasure to relax on.
+~
+E
+bed ~
+This huge king-sized bed sits in the middle of the huge room. It is decorated
+by ornate carvings on the backboard depicting two armies clashing in battle.
+~
+S
+#9886
+A Sergeant's Bedroom.~
+This is a fairly well furnished bedroom. It has a large, comfortable looking
+bed against the eastern wall. A small nightstand sits on one side of the bed
+and a large velvet chair on the other. You also see a solid oak dresser
+against the western wall.
+~
+98 41 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+headboard~
+ ~
+ ~
+4 -1 9892
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 9880
+E
+bed~
+Upon closer inspection you notice the headboard of this bed is rather loose
+and if you try hard enough you might be able to pull it out away from the wall.
+~
+E
+nightstand~
+The nightstand on this side of the bed is very plain. There are no decorations
+on it, and none of the drawers seem to want to open.
+~
+E
+dresser oak~
+This dresser seems to be bolted to the western wall and looks to be just
+a decoration since you can't open any of the drawers.
+~
+E
+chair velvet~
+This beautiful chair sits slightly to the side of the bed. It is covered
+in a soft velvety cloth that makes it a pleasure to relax on.
+~
+S
+#9887
+A Sergeant's Bedroom.~
+This is a fairly well furnished bedroom. It has a large, comfortable looking
+bed against the eastern wall. A small nightstand sits on one side of the bed
+and a large velvet chair on the other. You also see a solid oak dresser
+against the western wall.
+~
+98 41 0 7
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 9881
+E
+bed~
+This huge king-sized bed sits in the middle of the huge room. It is decorated
+by ornate carvings on the backboard depicting two armies clashing in battle.
+~
+E
+Chair velvet~
+This beautiful chair sits slightly to the side of the bed. It is covered
+in a soft velvety cloth that makes it a pleasure to relax on.
+~
+E
+dresser oak~
+This dresser seems to be bolted to the western wall and looks to be just
+a decorations since you can't open any of the drawers.
+~
+E
+nightstand~
+The nightstand on this side of the bed is very plain. There are no decorations
+on it, and none of the drawers seem to want to open.
+~
+S
+#9888
+A Sergeant's Bedroom.~
+This is a fairly well furnished bedroom. It has a large, comfortable looking
+bed against the eastern wall. A small nightstand sits on one side of the bed
+and a large velvet chair on the other. You also see a solid oak dresser
+against the western wall.
+~
+98 41 0 7
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 9882
+E
+bed~
+This huge king-sized bed sits in the middle of the huge room. It is covered
+by ornate carvings on the backboard depicting two armies clashing in battle.
+~
+E
+chair velvet~
+This beautiful chair sits slightly to the side of the bed. It is covered
+in a soft velvety cloth that makes it a pleasure to relax on.
+~
+E
+dresser oak~
+This dresser seems to be bolted to the western wall and looks to be just
+a decoration since you can't open any of the drawers.
+~
+E
+nightstand~
+The nightstand on this side of the bed is very plain. There are no decorations
+on it, and none of the drawers seem to want to open.
+~
+S
+#9889
+Behind The Wall.~
+You are in a hidden passage. It is dark and dusty here.
+~
+98 41 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 9894
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 9890
+S
+#9890
+Behind The Wall.~
+You are in a hidden passage. It is dark and dusty here.
+~
+98 41 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 9889
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 9891
+S
+#9891
+Behind The Wall.~
+You are in a hidden passage. It is dark and dusty here.
+~
+98 41 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 9890
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 9892
+S
+#9892
+Behind The Wall.~
+You are in a hidden passage. It is dark and dusty here.
+~
+98 41 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 9891
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 9893
+D3
+You see a wooden hatch covering a hole in the wall.
+~
+hatch wooden~
+ ~
+ ~
+1 -1 9886
+S
+#9893
+Behind The Wall.~
+You are in a hidden passage. It is dark and dusty here.
+~
+98 41 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 9892
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 9894
+S
+#9894
+Behind The Wall.~
+You are in a hidden passage. It is dark and dusty here.
+~
+98 41 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 9893
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 9889
+S
+#9895
+A Dark Hall.~
+You are walking along a dark hallway. Unlike the lower level of this castle,
+this section is totally void of all light. The hallway continues to the west
+from here and you see a turn in the hall to the east.
+~
+98 41 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 9882
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 9896
+S
+#9896
+A Dark Hall.~
+You are walking along a dark hallway. Unlike the lower level of this castle,
+this section is totally void of all light. The hallway continues to the east
+and west from here. You see a large door made of solid silver to the north.
+~
+98 41 0 7
+0 0 0 0
+0 0 0
+D0
+The door is made of solid silver and looks sturdy enough to keep even the
+strongest of man from entering within.
+~
+door silver solid~
+ ~
+ ~
+1 13100 9908
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 9895
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 9897
+S
+#9897
+A Dark Hall.~
+You are walking along a dark hallway. Unlike the lower level of this castle,
+this section is totally void of all light. The hallway continues to the east
+from here and you see a turn in the hall to the west.
+~
+98 41 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 9896
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 9898
+S
+#9898
+A Turn In The Dark Hall.~
+You come to a turn in the dark hallway. You can go north and east from here.
+~
+98 41 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 9899
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 9897
+S
+#9899
+A Dark Hall.~
+You stand in a dark north-south Hallway. You can here a faint hum coming from
+the north.
+~
+98 41 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 9900
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 9898
+S
+#9900
+A Dark Hall.~
+You stand in a dark north-south Hallway. You can here a faint hum coming from
+the north.
+~
+98 41 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 9901
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 9899
+S
+#9901
+A Dark Hall.~
+You stand in a dark north-south Hallway. You can here a faint hum coming from
+the north.
+~
+98 41 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 9902
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 9900
+S
+#9902
+A Dark Hall.~
+You stand in a dark north-south Hallway. You can here a faint hum coming from
+the north.
+~
+98 41 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 9903
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 9901
+S
+#9903
+A Dark Hall.~
+You stand in a dark north-south Hallway. You can here a faint hum coming from
+the north.
+~
+98 41 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 9904
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 9902
+S
+#9904
+A Turn In The Dark Hall.~
+You come to a turn in the dark hallway. You can go south and east from here.
+The humming sound is comming from the east and is much louder here.
+~
+98 41 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 9905
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 9903
+S
+#9905
+A Dark Hall.~
+You stand in a dark east-west hallway. You can here a loud hum coming from
+the east.
+~
+98 41 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 9906
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 9904
+S
+#9906
+A Dark Hall.~
+You stand in a dark east-west hallway. You can here a loud hum coming from
+the east.
+~
+98 41 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 9907
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 9905
+S
+#9907
+Before A Magic Portal.~
+As you come to the end of the dark hall you see a bright blue glowing column of
+light that hums loudly with magical energy. As you stare at it you almost feel
+mesmorized by the swirling blue and white clouds within. You wonder where such
+a Magic Portal could lead. You can enter the Magic Portal to the north and the
+hallway continues to the west.
+~
+98 40 0 7
+0 0 0 0
+0 0 0
+D0
+You see nothing but blue and white clouds swirling within the Magic Portal.
+~
+ ~
+ ~
+ ~
+5 -1 9914
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 9906
+E
+portal light column magic blue energy magical~
+You gaze into the Magic Portal and see nothing more than swirling blue and
+white clouds. The portal hums with energy.
+~
+S
+#9908
+Entrance To The Throne Room.~
+You gaze in wide wonder at the splendor of this room. The walls and floor are
+made from pure silver. There is a huge diamond chandelier hanging from the
+ceiling at least fifty feet above your head. Crystal sconces hold glowing orbs
+of light spaced evenly upon each wall and there are two small figurines on
+either side of the huge silver door to the south. A black velvet rug lined with
+red tassles covers the floor and leads off to the north. You can hear heavy
+breathing coming from that direction.
+~
+98 556 0 7
+0 0 0 0
+0 0 0
+D0
+There is a magical haze distorting your view in that direction.
+~
+ ~
+ ~
+ ~
+1 -1 9909
+D2
+You see a huge door made of solid silver. It looks very strong.
+~
+door huge silver~
+ ~
+ ~
+1 13100 9896
+E
+wall walls floor~
+It is made of pure silver.
+~
+E
+diamond chandelier ceiling~
+The diamond chandelier is hand made from silver with large shimmering diamonds
+hanging from every point. They make a soft tinkling sound as they tap together
+in the light breeze. It must be worth a fortune in gold. It is far to high for
+you to reach.
+~
+E
+crystal sconce sconces orb orbs light~
+The sconces are carved from solid adamantite crystal and are firmly attached
+to the walls. Each has a small glowing orb that levitates an inch above the
+rim of the sconce. The orbs give off a soft white glow that lights the room.
+~
+E
+figurine figurines~
+These two figurines are very detailed replicas of a Huge Red Dragon sitting
+upon a mountain top with mighty wings spread and tail wound around the peak of
+the mountain. The figurines are also made of solid silver.
+~
+E
+rug~
+It is a very fine rug made of black velvet trimmed with small red tassles. In
+the center of the rug, A picture of a Huge Dragon has been ornately sewn into
+the fabric.
+~
+S
+#9909
+The Guardian's Lair.~
+
+You have just entered the Guardian's Lair!
+This is where Shool-An-Jyvan, The Guardian of Gith stands guard keeping a
+watchful eye out for intruders wishing to harm his master. In the center of
+the floor is a huge round indention. Obviously where Shool rests in waiting to
+do his masters bidding. A black velvet rug with red tassles covers the floor
+here and divides into two separate walkways leading around the indentation.
+The black velvet rug continues to the north and south.
+~
+98 552 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 9910
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 9908
+E
+indention~
+It is a large indention obviouslyy made by something very heavy. There are claw
+marks all around the edges of this circular indention.
+~
+E
+rug~
+The black velvet rug has red tassles at the edges and covers the entire floor.
+~
+S
+#9910
+At The Base Of The Great Steps.~
+You stand at the base of a set of enormous silver steps leading up to the
+throne room. There are two silver columns with, a figurine resting between
+them, supporting the ceiling on both side of the steps. A black velvet rug
+covers the floor here and leads up the center of the steps as well as to the
+south.
+~
+98 40 0 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 9909
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 9911
+E
+figurine figurines~
+These two figurines are very detailed replicas of a Huge Red Dragon sitting
+upon a mountain top with mighty wings spread and tail wound around the peak of
+the mountain. The figurines are also made of solid silver.
+~
+S
+#9911
+Upon The Great Steps.~
+You stand halfway up a set of steps of enormous size. The steps are made of
+silver and there is a black velvet rug running up the middle of them.
+~
+98 40 0 7
+0 0 0 0
+0 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 9912
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 9910
+E
+rug velvet~
+An intricately sewn rug with red tassels on the edge goes up the stairs here.
+~
+E
+steps silver~
+These steps seem to be made out of pure silver.
+~
+S
+#9912
+The Throne Room Of Gith The High Lord Of The Githyanki.~
+As you enter the throne room you realize you are an unwelcome guest in this
+castle. You see the Throne of Gith in all its majestic splendor. There are
+crystal sconces spaced evenly upon the east and west walls and a diamond
+chandelier hangs from the ceiling. The floor is covered by a black rug with
+red tassles all along the edges and there are two figurines on either side
+of the throne. The only exit you see are steps leading down.
+~
+98 552 0 7
+0 0 0 0
+0 0 0
+D0
+The wall here has almost a transparent look to it.
+~
+wall~
+ ~
+ ~
+1 -1 9920
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 9911
+E
+throne~
+The Throne of Gith the High Lord of the Githyanki is crafted from fine silver
+and is studded with emeralds and diamonds. The seat and back are lined with
+black crushed velvet. It almost seems to glow with an aura of power.
+~
+E
+wall walls floor~
+It is made of pure silver.
+~
+E
+diamond chandelier ceiling~
+The diamond chandelier is hand made from silver with large shimmering diamonds
+hanging from every point. They make a soft tinkling sound as they tap together
+in the light breeze. It must be worth a fortune in gold. It is far to high for
+you to reach.
+~
+E
+crystal sconce sconces orb orbs light~
+The sconces are carved from solid adamantite crystal and are firmly attached
+to the walls. Each has a small glowing orb that levitates an inch above the
+rim of the sconce. The orbs give off a soft white glow that lights the room.
+~
+E
+figurine figurines~
+These two figurines are very detailed replicas of a Huge Red Dragon sitting
+upon a mountain top with mighty wings spread and tail wound around the peak of
+the mountain. The figurines are also made of solid silver.
+~
+E
+rug~
+It is a very fine rug made of black velvet trimmed with small red tassles. In
+the center of the rug, A picture of a Huge Dragon has been ornately sewn into
+the fabric.
+~
+S
+#9913
+Upon A Shelf.~
+You are standing on a shelf in the top of a small closet.
+~
+98 9 0 7
+0 0 0 0
+0 0 0
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 9876
+S
+#9914
+At The Base Of Tower I.~
+You are in the base of a tall tower. There is a spiraling staircase leading
+up from here. You get dizzy trying to stare up through the darkness. There is
+a bright blue glowing portal here that hums softly. You also notice a round
+hole about five feet wide in the west wall.
+You can enter the portal to the north.
+~
+98 40 0 7
+0 0 0 0
+0 0 0
+D0
+You see nothing but blue and white clouds swirling within the Magic Portal.
+~
+ ~
+ ~
+ ~
+5 -1 9907
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 9915
+E
+hole wall round~
+The hole leads up at an angle is to steep for you to climb. It is very dark
+and you can not tell where it might lead.
+~
+E
+portal light column magic blue~
+You gaze into the Magic Portal and see nothing more than swirling blue and
+white clouds. The portal hums with energy.
+~
+S
+#9915
+Tower I.~
+It is very dark here and a cold breeze swirls through the tower. There is a
+spiral staircase here leading up and down.
+~
+98 41 0 7
+0 0 0 0
+0 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 9916
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 9914
+S
+#9916
+Tower I.~
+It is very dark here and a cold breeze swirls through the tower. There is a
+spiral staircase here leading up and down.
+~
+98 41 0 7
+0 0 0 0
+0 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 9917
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 9915
+S
+#9917
+Tower I.~
+It is very dark here and a cold breeze swirls through the tower. There is a
+spiral staircase here leading up and down.
+~
+98 41 0 7
+0 0 0 0
+0 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 9918
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 9916
+S
+#9918
+Tower I.~
+It is very dark here and a cold breeze swirls through the tower. There is a
+spiral staircase here leading up and down.
+~
+98 41 0 7
+0 0 0 0
+0 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 9919
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 9917
+S
+#9919
+In The Top Of Tower I.~
+As you enter the room, a slab of stone slides shut sealing this room off from
+the stairs below. It is very dark here and you notice a set of chains running
+from the wall to a pair of shackles. Obviously the Githyanki wanted to prevent
+someone from leaving this tower. There are no exits from this room although
+you do see a round hole in the floor.
+~
+98 557 0 7
+0 0 0 0
+0 0 0
+D5
+You see a round hole about five feet wide leading down into darkness.
+~
+ ~
+ ~
+ ~
+1 -1 9914
+E
+shackel shackles~
+The shackles look quite sturdy and you do not think you could free yourself
+if you were locked in them. You notice a strange red glow coming from them.
+~
+E
+chain chains~
+They are made of iron and are attached to huge iron rings bolted permanently to
+the tower walls. You notice a strange red glow coming from them.
+~
+S
+#9920
+At The Base Of Tower II.~
+You pass through the wall as if it were not even there!
+You find yourself standing at the bottom of a tall tower. There are torches
+mounted on the walls here and you have no trouble seeing. Someone has erected
+a ladder here as the staircase is all broken and decayed, surely unclimbable.
+You smell a strange odor wafting down from above.
+~
+98 40 0 7
+0 0 0 0
+0 0 0
+D2
+The wall almost has a transparent look to it.
+~
+wall~
+ ~
+ ~
+1 -1 9912
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 9921
+S
+#9921
+Tower II.~
+You stand in a well lit tower. There is a staircase leading up from here
+and a ladder leads to the base of the tower below. A strange odor wafts down
+from above.
+~
+98 40 0 7
+0 0 0 0
+0 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 9922
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 9926
+S
+#9922
+Tower II.~
+You stand in a well lit tower. There is a staircase leading up and down.
+~
+98 40 0 7
+0 0 0 0
+0 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 9923
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 9921
+S
+#9923
+Tower II.~
+You stand in a well lit tower. There is a staircase leading up and down.
+~
+98 40 0 7
+0 0 0 0
+0 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 9924
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 9922
+S
+#9924
+Tower II.~
+You stand in a well lit tower. There is a staircase leading up and down.
+The strange odor is especially strong here and it makes your stomach turn.
+~
+98 40 0 7
+0 0 0 0
+0 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 9925
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 9923
+S
+#9925
+Tip Top Of The Tower.~
+You stand in the top of the tower. You see where there foul odor is coming
+from. Dead bodies are strewn all around you and it makes you feel a little
+uneasy. Blood covers the floor here and is splattered on the walls as well.
+In the center of the room is a large block of wood with a basket resting in
+front of it. The smell makes you want to puke, but you think you should
+leave before taking the time to do so.
+~
+98 40 0 7
+0 0 0 0
+0 0 0
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 9924
+E
+bloody bodies~
+Strangely enough, all of the bodies here have had there heads lopped off.
+~
+E
+blood~
+It has dried partially yet still gives of a rank odor.
+~
+E
+block wood~
+The wooden block is stained with blood and has several cut marks in the top.
+~
+E
+basket~
+It is a woven wicker basket and you see it still has some unfortunate person's
+head lodged inside of it.
+~
+S
+#9926
+At The Base Of Tower II.~
+You find yourself standing at the bottom of a tall tower. There are torches
+mounted on the walls here and you have no trouble seeing. Someone has erected
+a ladder here as the staircase is all broken and decayed, surely unclimbable.
+You smell a strange odor wafting down from above.
+~
+98 40 0 0
+0 0 0 0
+0 0 0
+D2
+The wall almost has a transparent look to it.
+~
+wall~
+ ~
+ ~
+1 -1 9912
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 9921
+S
+#19999
+$~

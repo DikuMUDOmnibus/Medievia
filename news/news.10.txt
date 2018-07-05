@@ -1,0 +1,26 @@
+                   . .. ... The Medievia ... .. .
+ 
+            _|         _|  _|_|_|_  _|       _|  _|_|_|_|_|
+           _| _|      _|  _|       _|       _|  _|
+          _|   _|    _|  _|_|_|   _|       _|  _|_|_|_|_|   
+         _|     _|  _|  _|       _|  _    _|          _|    
+        _|       _|_|  _|       _| _| _| _|          _|       
+       _|         _|  _|_|_|_| _|_|    _|   _|_|_|_|_|              
+                                             Updated January 17, 1996
+------------------------------------------------------------------------------
+FIXES:
+    -Area affect spells like earthquake will no longer make you start
+        fighting your mount or anothers mount.
+    -Mounts will no longer get messed up while going to and from MEDLINK
+    -NEWS prompt will now also work in MEDLINK
+    -Quiting in a campground while mounting and coming back before a
+        restart will no longer DUP your mount in the room.
+    -Farsight will no longer try and take your freight along for the
+        ride.
+    -You can no longer fly off during combat.
+CHANGES:
+    -When you die and quit you no longer come back at the graveyard but
+        you come back near the beginning of the zone your in or wherever 
+        you were in the wilderness.
+NEW:
+    -Examine blah.freight should now work: example-> examine 2.wagon.

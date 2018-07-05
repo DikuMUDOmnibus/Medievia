@@ -1,0 +1,2150 @@
+#5500
+Before the Entrance to the Swamp~
+     The ground underneath your feet has been getting softer and wetter.
+A few feet ahead of you there is a large stone archway, and beyond that
+you see a marsh.
+~
+55 32 2 3
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+$n steps forward into the Swamp...will $e return alive?~
+$n plunges into the muck.~
+1 -1 5501
+D2
+~
+~
+~
+~
+0 0 63413
+S
+#5501
+Entrance to Thanos, Swamp of the Dead~
+     Your feet sink a few inches down as you enter into the muck of Thanos.
+You must walk carefully since it is not possible to tell where the mud ends
+and the water begins.  The swamp appears desolate, but is actually brimming
+with life...or is it death?  The ground to the south has sunk several feet
+and you find yourself unable to move in that direction.
+~
+55 32 2 3
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5510
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5502
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5514
+S
+#5502
+East of the Swamp Entrance~
+     You feel you feet getting more and more wet as you go deeper into the
+swamp. It is much harder for you to see as the sunlight begins to fall behind
+the increasingly thickening foliage.
+~
+55 32 4 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5509
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5503
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5501
+S
+#5503
+In the Swamp~
+     The swamp gas and the insects must be getting to you...it is almost
+impossible to tell where you are in relation to the entrance.  There is
+almost no light coming through the canopy over the swamp.
+~
+55 32 4 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5540
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5504
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5502
+S
+#5504
+On the Path~
+     The swamp is still dense, but here a definite path is worn into some
+of the little solid ground in the entire swamp.  You see various bones and
+the gnawed flesh of human and animal alike lying about you.
+~
+55 32 4 3
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5505
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5503
+S
+#5505
+South of the Pit Entrance~
+     The ground here is well beaten and there are numerous claw marks in the
+soft soil.  There are many more bones and carcasses strewn around here.  You
+feel the presence of something extremely powerful nearby.
+~
+55 32 4 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5506
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5504
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5540
+S
+#5506
+Entrance to the Alligator Pit~
+     You see a tunnel leading down and then dropping off.  You can hear the
+screams of pain and fear coming from the pit below.  You sense death lurking
+in the air.  Pressing on will require tremendous courage!
+~
+55 32 4 3
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5507
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5505
+S
+#5507
+Alligator Pit~
+     You see the pit of the carnivorous alligators that ransack the camp and
+destroy all life.  This is where they kill and eat the 'catch' of the day.
+To the north you see a large den with a glowing aura emitting from it.
+~
+55 32 4 3
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5508
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5506
+S
+#5508
+Den of the Crocodillian Lord~
+     You see the temple of the Crocodillian Lord.  All the different species
+of alligators and crocodiles come here to worship their master.  You see
+several shrines dedicated to the deity which the crocodillians have erected
+in his honor.  To the north you see a small but ornate room.
+~
+55 32 4 3
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5537
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5507
+S
+#5509
+Very deep in the Swamp~
+     You can hardly see your hand in front of your face due to the extreme
+thickness of the plant life surrounding you.  You have sores and bites all
+over your body from the plentiful but irritating insects.  The swamp gas makes
+you worry and wonder if leaving the safe haven of the town was such a good
+idea.
+~
+55 33 4 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5540
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5502
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5510
+S
+#5510
+Quicksand~
+     A quick look around tells you that any sudden moves will sink you to a
+slow and torturous death.  Luckily, your extensive survival training and a
+lot of luck saves your life.
+~
+55 32 6 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5511
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5509
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5501
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5539
+S
+#5511
+The Heavy Foliage~
+     You see a large glade abundant with plant life, but something seems to
+be missing...could it be that there are no animals around?  Your spine tingles
+as you feel the vines beneath your feet shift slowly.
+~
+55 32 4 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5512
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5510
+S
+#5512
+Near the Nest~
+     You notice an increase in the number of insects around you.  The stings
+and bites become frequent and more irritating as large swarms of dragonflies
+and other insects are visible all about you.
+~
+55 32 6 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5513
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5511
+S
+#5513
+In the Nest~
+     You are in a huge nest of swarming, stinging insects.  Just trying to see
+a few feet in front of your face is difficult, let alone trying to communicate
+with your party.
+~
+55 32 6 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5512
+S
+#5514
+A Well Beaten Path~
+     You feel the ominous presence of hidden life all about you, all of which
+seems to be watching your every movement.  The unmistakable stench of rotten
+flesh envelopes your nostrils.
+~
+55 33 4 3
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5539
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5501
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5524
+S
+#5515
+Cemetery of the Undead~
+     You are in a cemetery which looks astoundingly normal, yet gives you an
+eerie feeling.  Most of the gravestones have been overturned...seemingly from
+beneath.  You can smell the stench of decaying flesh and you sense an almost
+hidden aura of evil about this place.
+~
+55 33 2 3
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5516
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5539
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5541
+S
+#5516
+Outside the Shack~
+     You are outside a run-down, rotten hideaway.  Things seem to have lost
+life and nothing thrives except insects and overgrown plant refuse.  Death's
+vice-like grip has an even stronger grasp in this deeper part of the swamp.
+~
+55 32 2 3
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5515
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5517
+S
+#5517
+Inside the Shack~
+     You have a feeling that you have violated someone's privacy.  A faint
+wailing rings in your ears, like a ghost arising from a sweet, deathless sleep.
+~
+55 33 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5516
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5518
+S
+#5518
+Behind the Shack~
+     You see nothing very interesting here.  An old stump is in the middle of
+the yard, the cuts of a large axe deeply scarring its pithy center.
+~
+55 32 4 3
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5517
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5519
+S
+#5519
+Farther into the Forest~
+     The low-lying trees and brush hinder your way as you venture further into
+the murky woodland.  Ahead, you hear the powerful rumbling of a churning
+river.
+~
+55 32 2 3
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5518
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5520
+S
+#5520
+By the Silver River~
+     Legends say that the King of this river is very kind to those who travel
+its watery ways.  You see its sparkling clear water catch the light, giving it
+a soft, metallic tone.  Woodland creatures scurry away at your encroachment
+upon their territory...you cannot help but smile.
+~
+55 262180 4 3
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5519
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5531
+S
+#5521
+A Clearing in the Swamp~
+     You are still in sight of the river, and you feel as if you have just
+gone through hell and back.  The number of insects here is much fewer, and you
+finally get a chance to breathe some fresh air.  To the south, though, your
+sixth sense screams as you see a large pit, from which a loud hissing sound
+emerges...
+~
+55 32 2 3
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5524
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5523
+S
+#5523
+Lair of the Death Adder~
+     The egg shells of young snakes lay strewn about, blood and flesh hanging
+loosely from their jagged edges.  A low, hissing sound eminates from the
+far corner...your instincts scream an unheeded warning...
+~
+55 32 4 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5521
+S
+#5524
+A Break in the Swamp~
+     For the first time in a long while, you are free from the darkness of the
+foliage and the odor of the swamp gas.  You see a river up ahead, but you
+aren't sure which one.  The banks of this river may prove to be safe haven...
+but then again, it might not...
+~
+55 32 2 3
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5514
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5521
+S
+#5525
+On the Silver River~
+     The view is much clearer on the river, the vast panorama of the swamp and
+the surrounding lands lies along this expansive waterway.  It stretches
+farther ahead, the way looks clear and easy to negotiate.
+~
+55 262176 7 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5531
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5526
+S
+#5526
+The Southern Fork of the Silver River~
+     The river seems to be losing its vibrance and color.  Life has nearly
+come to a standstill, the once plush vegetation giving way to barren, black
+earth.  The river itself has a dull, grayish look to it, almost as if
+...it were poisoned.
+~
+55 262176 7 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5525
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5527
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5532
+S
+#5527
+Near Blackness on the River~
+     Utter darkness now envelopes you.  You can definitely see the cause of
+pollution farther south...a tall well of some sorts.  It spews foul
+chemicals into the river, sapping of its beauty and the life in it.
+~
+55 262181 7 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5526
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5528
+S
+#5528
+The Well~
+     Not only does the pollution look terrible, but its acrid smell turns your
+stomach.  The only thing that can be seen from here is a deep ravine to the
+west.
+~
+55 262177 7 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5527
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5529
+S
+#5529
+The Mogda Dor~
+Deep within the bowels of the ravine you hear the drone of some sort of
+cultist gathering. Smoke and dense fog obscure your vision, but you can
+discern that there are a great number of people in the pit. They seem to be
+revelling in the destruction of the river life, thriving on its suffering.
+You are compelled to go deeper into the the pit... the odds favor you not.
+~
+55 33 2 3
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5528
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5530
+S
+#5530
+The Altar Place~
+     Your premonitions were right; the voices were those of a fanatic cult.
+There is blood and gore recklessly tossed about the ground.  In the center
+of the huge ravine stands an altar, stained with the slain remains of the
+most recent sacrifice.
+~
+55 33 2 3
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5529
+S
+#5531
+The Bank of the River~
+     You are on the banks of the Silver River.  The waters here seem to be
+much clearer than those to the south.  Moonlight dances upon the mirror-like
+surface of the river.  You sense a feeling of protection in this place.
+~
+55 262176 7 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5520
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5525
+S
+#5532
+Eastern Overflow of the River~
+     The river seems to have overflown its banks, as it has swelled beyond
+capacity.  Still, the river exudes an aura of purity and holiness.  However,
+the feeling of protection is growing weaker as you progress to the east.
+~
+55 262176 7 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5526
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5533
+S
+#5533
+Along the Eastern Branch of the River~
+     Now the change in the water of the river is quite evident.  It seems less
+vibrant and not nearly as clear.  It's purging waters have starved the land
+of its life-giving nutrients.  You notice a lack of animal life on the
+northern and southern banks.
+~
+55 262176 7 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5532
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5534
+S
+#5534
+Further along the River~
+     Where it once was grey, the river now runs black.  There is no life
+whatsoever on either bank or in the water.  Discolored shrub vainly attempts
+to maintain sustenance upon the shore.  The fear you hide manifests itself as
+the grey mist forming to the east.
+~
+55 262176 7 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5533
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5535
+S
+#5535
+A Bend in the Mist~
+     The only exit other than where you entered is to the north.
+~
+55 262176 7 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5536
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5534
+S
+#5536
+An End to the River~
+     You can see where the river ends at the bank to the far north.  You are
+surrounded by swirling mists which makes you feel nauseous and dizzy.  Could
+it be that their noxious effects are for some purpose?  The mist, combined
+with your weariness severely limits your range of sight.
+~
+55 262176 7 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5543
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5535
+S
+#5537
+A Small Ornate Room~
+     You are in a small, but tidily kept room.  It seems to be bare except for
+a few giant leaves flattened upon the ground.  You feel a moment of safety,
+but then you realize that you are still in danger...
+~
+55 32 2 3
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5508
+S
+#5539
+A Turn in the Well Beaten Path~
+     You feel the ominous presence of hidden life all about you, all of which
+seems to be watching your every movement.  The unmistakable stench of rotten
+flesh envelopes your nostrils.
+~
+55 33 4 3
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5510
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5514
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5515
+S
+#5540
+Deep in the Swamp~
+     You can hardly see your hand in front of your face due to the extreme
+thickness of the plant life surrounding you.  You have sores and bites all
+over your body from the plentiful but irritating insects.  The swamp gas makes
+you worry and wonder if leaving the safe haven of the city was such a good
+idea.
+~
+55 33 2 3
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5505
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5503
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5509
+S
+#5541
+Cemetery of the Undead~
+     You are in a cemetery which looks astoundingly normal, yet gives you an
+eerie feeling.  Most of the gravestones have been overturned...seemingly from
+beneath.  You can smell the stench of decaying flesh and you sense an almost
+hidden aura of evil about this place.
+~
+55 33 2 3
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5515
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5542
+S
+#5542
+Cemetery of the Undead~
+     You are in a cemetery which looks astoundingly normal, yet gives you an
+eerie feeling.  Most of the gravestones have been overturned...seemingly from
+beneath.  You can smell the stench of decaying flesh and you sense an almost
+hidden aura of evil about this place.
+~
+55 33 2 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5541
+S
+#5543
+At the River Bank~
+     You are at the river bank and you notice a forest beyond.  For the first
+time, you see a glimmer of sunlight once more.  With this cheerful thought
+in mind, you feel a little better.
+~
+55 262180 6 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5544
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5536
+S
+#5544
+Beginning of a Forest~
+     The ground is still fairly damp and wet because the river is in close
+proximity. Yet, you feel heartier because you see more sunlight.
+~
+55 32 2 3
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5560
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5545
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 5551
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5543
+S
+#5545
+Eastern End of the Forest~
+    Over the tall, massive trees you see a great mountain chain that
+stretches north and south to the east.  You begin to hear those familiar
+howls and feel an urge to hunt wolves like in the old days.
+~
+55 32 2 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5561
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5552
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5544
+S
+#5546
+In the Cave~
+     Your noise senses a massive odor of burnt flesh and gore.  As your eyes
+adjust to lack of light in this room, you make out some skeletons, most of
+which appear humanoid. You have a bad feeling about this...
+~
+55 41 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5548
+S
+#5547
+Sparse Area of the Forest~
+     You see a clearing in the forest ahead of you.  The earth seems scorched
+and charred, as if the setting of a battle.  The air about this place is
+menacing...you should not stay long.
+~
+55 32 2 3
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5549
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5548
+S
+#5548
+Sparse Area of the Forest~
+     The trees have been brutally cleared away here...the roots have been
+mangled mercilessly.  The earth has been thoroughly blasted, leaving a
+landscape of carnage.
+~
+55 32 2 3
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5550
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5546
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5547
+S
+#5549
+Sparse Area of the Forest~
+     The flora and fauna here are non-existent...totally removed from this
+area.  Life seems to have been rooted out of here and placed elsewhere.  Your
+own life here seems out of place...
+~
+55 32 2 3
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5550
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5547
+S
+#5550
+Sparse Area of the Forest~
+     You enter a world of bleakness and desolation...the world around seems
+quiet and still, too quiet for the living.  Insanity closes around,
+encroaching and threatening.
+~
+55 32 2 3
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5553
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5548
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5549
+S
+#5551
+The Beginning of the Forest~
+     The darkness ahead belongs to the forest that stretches before you.
+Everything seems normal...the trees are full and green, the animals scurry
+about in the search for food.  Enter for adventure...
+~
+55 32 3 3
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5544
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5552
+S
+#5552
+Further into the Forest~
+     Darkness prevades here, permeating throughout.  Bits of light shine
+through the dense foliage, aiding minimally to your progress.  Roots, huge
+and mangled, entwine your feet slowing you down.
+~
+55 33 3 3
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5545
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5551
+S
+#5553
+A Narrow Trail~
+     The trail is thin and not easy to discern.  The forest closes in from all
+sides...urging you forward, toward a clearing ahead.  Light slowly fills this
+area, giving you greater field of view.
+~
+55 32 3 3
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5558
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5550
+S
+#5554
+A Wide Cave~
+     The sides of this cave are blasted into blackness.  The charred remains
+of many an adventurers lay here as a reminder for those who would challenge
+the powers that be.  Tread carefully...danger is the least of you problems,
+death is the first.
+~
+55 33 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+wall~
+ ~
+ ~
+1 -1 5562
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5555
+S
+#5555
+Entrance to A Cave~
+     Ahead lies a path into darkness...stench bluntly wrenches the hairs from
+your nose.  You stagger under its impact and slowly steady yourself.  Enter
+if you dare...flee if you must.
+~
+55 32 2 3
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5563
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5556
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5554
+S
+#5556
+A Ravaged Clearing~
+     Scorched earth surrounds you...the smell of blasted earth is easily
+discernible over the odor of forest.  You see that young plants are already
+growing in the blackened soil.
+~
+55 32 2 3
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5564
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5557
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5555
+S
+#5557
+A Narrow Trail~
+     A narrow trail leads west towards a clearing that seems to have been the
+site of a great battle.  The environment gives evidence of huge stress...
+something is afoot.
+~
+55 32 3 3
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5558
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5556
+S
+#5558
+Intersection in the Dense Forest~
+     The number of trees and shrubs around you seems to be increasing as you
+enter the denser portion of the forest.  You will probably need a light
+if you decide to venture further...
+~
+55 33 3 3
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5565
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5559
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5553
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5557
+S
+#5559
+Inside the Dense Forest~
+     You are surrounded by trees and shrubs of various shapes and sizes.
+Moving through this portion of the forest is much more exhausting than before
+and you have to keep checking the ground in front of your feet for pitfalls.
+To the north you see smoke and smell something cooking.
+~
+55 33 3 3
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5566
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5560
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5558
+S
+#5560
+Inside the Dense Forest~
+     You are surrounded by trees and shrubs of various shapes and sizes.
+Moving through this portion of the forest is much more exhausting than before
+and you have to keep checking the ground in front of your feet for pitfalls.
+To the north you see the beginnings of a trail.
+~
+55 33 3 3
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5567
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5561
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5544
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5559
+S
+#5561
+Inside the Dense Forest~
+     You are surrounded by trees and shrubs of various shapes and sizes.
+Moving through this portion of the forest is much more exhausting than before
+and you have to keep checking the ground in front of your feet for pitfalls.
+To the north you hear a loud thundering sound, startling most of the animals
+near you.
+~
+55 33 3 3
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5568
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5545
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5560
+S
+#5562
+The Back of the Cave~
+     You have reached the end of the cave.  Glancing about furtively, you
+notice an abundance of corpses and skeletons...perhaps now would be a good
+time to leave?
+~
+55 33 0 7
+0 0 0 0
+0 0 0
+D2
+ ~
+wall~
+ ~
+ ~
+1 -1 5554
+S
+#5563
+A Ravaged Clearing~
+     Scorched earth surrounds you...the smell of blasted earth is easily
+discernible over the odor of forest.  You see that young plants are already
+growing in the blackened soil.  What could have caused such mass destruction?
+Looking to the south, you see the a large entrance to a cave.
+~
+55 32 2 3
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5564
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5555
+S
+#5564
+A Ravaged Clearing~
+     Scorched earth surrounds you...the smell of blasted earth is easily
+discernible over the odor of forest.  You see that young plants are already
+growing in the blackened soil.
+~
+55 32 2 3
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5556
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5563
+S
+#5565
+Inside the Dense Forest~
+     You are surrounded by trees and shrubs of various shapes and sizes.
+Moving through this portion of the forest is much more exhausting than before
+and you have to keep checking the ground in front of your feet for pitfalls.
+~
+55 33 3 3
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5569
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5566
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5558
+S
+#5566
+Inside the Dense Forest~
+     You are surrounded by trees and shrubs of various shapes and sizes.
+Moving through this portion of the forest is much more exhausting than before
+and you have to keep checking the ground in front of your feet for pitfalls.
+~
+55 33 3 3
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5570
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5559
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5565
+S
+#5567
+Beginnings of a Path~
+     Looking carefully at the forest floor, you see a well-worn path
+beginning, and leading to the north.  It could warrant further investigation.
+~
+55 33 2 3
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5571
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5560
+S
+#5568
+Orc Campground~
+     The ground about you has been cleared of all shrubs and plantlife, and
+a bonfire has been erected in the center.  A huge cauldron filled with
+boiling water has been placed over the fire and there are slabs of raw meat
+and bones lying around.
+~
+55 32 2 3
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5561
+S
+#5569
+Inside the Dense Forest~
+     You are surrounded by trees and shrubs of various shapes and sizes.
+Moving through this portion of the forest is much more exhausting than before
+and you have to keep checking the ground in front of your feet for pitfalls.
+~
+55 33 3 3
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5573
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5570
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5565
+S
+#5570
+Edge of the Dense Forest~
+     You are surrounded by trees and shrubs of various shapes and sizes.
+Moving through this portion of the forest is much more exhausting than before
+and you have to keep checking the ground in front of your feet for pitfalls.
+There is no possible way you can move through the plantlife to your north
+and to your east.
+~
+55 33 3 3
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5566
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5569
+S
+#5571
+Bend in the Trail~
+     The trail veers off the east, and your path is blocked by heavy trees
+and shrubs to your north and your west.  There are large bones scattered
+about along the path.  Upon examination, you notice generous portions of meat
+still clinging to them.  Whomever or whatever had eaten them was not very
+thorough or meticulous in his eating habits.
+~
+55 33 3 3
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5572
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5567
+S
+#5572
+Bend in the Trail~
+     The trail veers off the north, and your path is blocked by heavy trees
+and shrubs to your east and your south.  There are large bones scattered
+about along the path.  Upon examination, you notice generous portions of meat
+still clinging to them.  Whomever or whatever had eaten them was not very
+thorough or meticulous in his eating habits.  To the north, you see the
+entrance to a small cave.
+~
+55 33 3 3
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5574
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5571
+S
+#5573
+A Narrow Trail~
+     The trail is thin and not easy to discern.  The forest closes in from all
+sides...urging you forward, toward a clearing ahead.  Light slowly fills this
+area, giving you greater field of view.
+~
+55 32 3 3
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5576
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5569
+S
+#5574
+Entrance to a Cave~
+     The cave before you seems quite small, but looks could be decieving.
+There are signs of inhabitance, but you can hear nothing, save the everyday
+sounds of the animals around you.
+~
+55 40 3 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5579
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5572
+S
+#5575
+Inside the Forest~
+     The plant and animal life around you seems quite normal at first glance,
+but looking around carefully, you notice the marked decline in the abundance
+of both.  The trees seem almost dead, with very few animals living in and
+about them.
+~
+55 32 3 3
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5580
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5576
+S
+#5576
+Inside the Forest~
+     The plant and animal life around you seems quite normal at first glance,
+but looking around carefully, you notice the marked decline in the abundance
+of both.  The trees seem almost dead, with very few animals living in and
+about them.  To the south you see a narrow path.
+~
+55 32 3 3
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5581
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5577
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5573
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5575
+S
+#5577
+Inside the Forest~
+     The plant and animal life around you seems quite normal at first glance,
+but looking around carefully, you notice the marked decline in the abundance
+of both.  The trees seem almost dead, with very few animals living in and
+about them.
+~
+55 32 3 3
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5582
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5578
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5576
+S
+#5578
+Inside the Forest~
+     The plant and animal life around you seems quite normal at first glance,
+but looking around carefully, you notice the marked decline in the abundance
+of both.  The trees seem almost dead, with very few animals living in and
+about them.
+~
+55 32 3 3
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5583
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5577
+S
+#5579
+The Lair of the Ettin~
+     You glance around the small cave, and your eyes light upon a large
+supply of food in the corner.  Looking carefully at the rest of the room
+you see a stack of animal furs and some old bones lying about.
+~
+55 37 3 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5574
+S
+#5580
+Inside the Forest~
+     The forest seems noticeably quieter now, and you can clearly see that
+everything is not quite right.  Far to the north, you see a flat rock face,
+with a huge cave opening into it.
+~
+55 32 3 3
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5584
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5581
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5575
+S
+#5581
+Inside the Forest~
+     The forest seems noticeably quieter now, and you can clearly see that
+everything is not quite right.  Any of the animals that are left scurry away
+when they hear the sound of you approaching.  The trees this far north have
+all died, and are slowly rotting away.  To the north you see some fire and
+smoke.
+~
+55 32 3 3
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5585
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5582
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5576
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5580
+S
+#5582
+In the Forest~
+     The forest seems noticeably quieter now, and you can clearly see that
+everything is not quite right.  Any of the animals that are left scurry away
+when they hear the sound of you approaching.  The trees this far north have
+all died, and are slowly rotting away.
+~
+55 32 3 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5583
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5577
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5581
+S
+#5583
+In the Forest~
+     The forest seems noticeably quieter now, and you can clearly see that
+everything is not quite right.  Any of the animals that are left scurry away
+when they hear the sound of you approaching.  The trees this far north have
+all died, and are slowly rotting away.
+~
+55 32 3 3
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5586
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5578
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5582
+S
+#5584
+Entrance to a Cave~
+     The cave before you looks quite large, and carved straight out of the
+rock.  There are signs of inhabitance, but you can hear nothing, not even the
+everyday sounds of the animals around you.  You can feel the hair on the
+back of your neck rising.  The sound of raw power crackles through the air.
+~
+55 32 3 3
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5587
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5580
+S
+#5585
+Orc Campground~
+     The ground about you has been cleared of all shrubs and plantlife, and
+a bonfire has been erected in the center.  A huge cauldron filled with
+boiling water has been placed over the fire and there are slabs of raw meat
+and bones lying around.
+~
+55 32 2 3
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5581
+S
+#5586
+Clearing in the Woods~
+     In the center of this clearing there is a massive circular stone
+slab.  Carved out of the very rock is a staircase leading downwards.  The
+ground surrounding the rock has been completely eradicated, and there is
+no sign of anything growing on the barren soil.
+~
+55 32 2 3
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5583
+S
+#5587
+Inside the Cave~
+     The insides of this cave have been hollowed out, and quite smoothly.
+It is hard for you to imagine what kind of work was necessary to finish such
+a tedious job.  The floors have been immaculately swept and torches light
+the cave quite well.
+~
+55 32 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5588
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5584
+S
+#5588
+Bend Inside the Cave~
+     You reach a bend in the cave, with exits only to the east and to the
+south.  Upon the northern face is an inscription, which you cannot seem to
+be able to decipher.  Animal hides cover the ground from here on further
+into the cave.
+~
+55 32 0 7
+0 0 0 0
+0 0 0
+D1
+A set of porticullis guards the eastern portion of this cave.  A waist
+high stone pillar stands next to them.
+~
+porticullis~
+ ~
+ ~
+2 -1 5589
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5587
+S
+#5589
+The Lich's Cauldron~
+     A huge cauldron filled with some foul smelling substance takes up
+nearly half of the cave's width.  There are jars, vials, and books piled
+about the room, but perusing is not something you have time for...
+~
+55 32 0 7
+0 0 0 0
+0 0 0
+D3
+A set of porticullis blocks the way out of this cave.  A waist high
+cast stone pillar stands next to the bars.
+~
+porticullis~
+ ~
+ ~
+2 -1 5588
+E
+jar jars~
+Looking carefully inside of the jars, you see what seems to be the remains
+of some poor sap's head.  It has been preserved in some sort of liquid, but
+the deterioration of the skin is clearly visible.
+~
+E
+vial vials~
+You are careful not to get too close to these vials, for they are frothing
+and bubbling quite explosively.  There are liquids of various different
+colors, but the predominant one seems to be a dark crimson...
+~
+E
+book books~
+Due to the fact that you don't really have time to browse through these
+books at your leisure, since you can already feel the cold clammy hands
+of the lich carressing your back, you decide to just read some titles:
+Human Anatomy and Physiology, 1,001 Uses for Leftover Skin Tissue,
+How to Extract Internal Organs without killing the Host, but making sure
+to cause him gut wrenching pain.
+You stop reading after that...
+~
+S
+#19999
+$~

@@ -1,0 +1,24 @@
+
+
+TYP  Object type
+EXT  Extra Flags
+WEA  Wear Flags
+VAL NUM NUM NUM NUM  MUST be like the folowing
+   VAL 6 1 9 0    in other words one tag VAL then 4 numbers...
+WGT  Weight
+COS  Cost to buy
+CPD  Cost Per Day
+LOO  Look At followed by namelist and extras des,,, example:
+
+LOO Roses FLowers~
+A dozen roses
+~
+
+AFF NUM NUM
+Example: 
+AFF 8 26 AFF 13 20
+AFF 8 26
+etc.. they can be together ot on seperate lines..
+
+
+

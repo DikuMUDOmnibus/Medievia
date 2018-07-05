@@ -1,0 +1,84 @@
+#6228
+The Cottage by the Ocean~
+You stand in a small secluded cottage by the ocean. You can hear the waves
+from the Ocean rolling in on to the beach and the seagulls roaming the
+sky. This small cottage seems to be a very humble place. There is a
+hammock in the corner attached to the bamboo and straw walls of this
+little house.  There is a small table with a book resting on it and a fire
+stove in the corner. You feel a sense of peace here.
+~
+90 2060 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6234
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 6233
+S
+#6233
+Upstairs Loft Overlooking the Ocean~
+You stand in a cozy loft overlooking the ocean. There are doors
+in every direction but only two catch you eye. Too the west you see
+a beautifal Terrace would could only belong to a Goddess and to your
+east you see the study of a busy god.
+~
+90 2060 6 0
+0 0 0 0
+0 0 0
+D1
+ ~
+door~
+ ~
+ ~
+2 5658 6235
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 6228
+S
+#6234
+Patio on the Beach~
+You stand on a small patio right outside the cottage. The patio is
+built right on the beach. You can see the waves rolling into the beach
+and back out on to the water. You can see a beautiful sunset from here.
+The sky is a colorful orange and the sun is in between the ocean and the
+sky. In the distance you can see a huge boat will it's sails full of
+wind riding the ocean waves.
+~
+90 10252 6 0
+0 0 0 0
+0 0 0
+D0
+ ~
+windows~
+stat r~
+ ~
+5 5658 6228
+S
+#6235
+The Study~
+You stand in Raster's study. This room looks nothing like the rest of
+this cottage. It is very buisness like and modern. There is a beutifal oak
+desk with a computer and phone sitting on it. There is a beutifal persian
+carpet on the floor and a huge sky light.
+~
+90 10252 6 0
+0 0 0 0
+0 0 0
+D3
+ ~
+door~
+ ~
+ ~
+2 5658 6233
+S

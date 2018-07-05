@@ -1,0 +1,27 @@
+MEDIEVIA IV TODO LIST BEFORE GRAND OPENING
+------------------------------------------
+
+DATA
+----
+(DAVE)More places to buy newspapers
+More surveys that cover most of the area
+(DAVE)More churches to become alive at
+	DONE (DAVE)!Backstab and other flags put back in
+medlink completed
+(DAVE)more wilderness mobs?
+all help in iiitoiv.txt completed
+
+CODE
+----
+catacomb code(MIKE MUST DO THIS)
+	DONE mudsling code(MIKE MUST DO THIS)
+hide code
+	DONE dragon code
+weather code
+login menu items completed
+auction coded to however we decide
+mount loading stability code(MIKE)
+bartering module
+
+EVERYONE PLEASE go over bug.txt and typo.txt regularly.  REMOVE items you
+fix or items that are stupid or useless

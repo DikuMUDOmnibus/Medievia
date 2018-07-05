@@ -1,0 +1,1424 @@
+#2200
+The dark woods~
+You are traveling through woods that are as dark as night. The trees above
+block all light and wind. The air is stagnant and smells of death and decay.
+The lack of sounds and other signs of life make your skin crawl and you feel
+very much like turning back and heading for safer areas. The path leads north
+into more open lands while it also leads south into the darkness of the forest.
+~
+21 64 3 1
+0 0 0 0
+0 0 0
+D0
+~
+~
+~
+~
+0 0 63398
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2201
+S
+#2201
+The dark woods~
+You wearily travel through the darkness of the forest. Huge skeletal trees
+line the edges of the path and tower above you. Errant rays of light spear
+down through the gaps in the canopy above and provide small spots of light
+that seem to attract what little foliage can grow on the dark forest floor.
+The path winds north and south into darkness.
+~
+21 65 3 1
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2200
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2202
+S
+#2202
+The small intersection in the forest~
+The forest path splits here in three directions. Small paths lead to the east,
+north, and south. The trees above leave a gap which allows light to fill the
+intersection. It is almost as though you are in a circle of light that
+provides sanctuary in this land of darkness.
+Something has been scrawled in the dirt in blood here.
+~
+21 64 3 1
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 2201
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 2204
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 2203
+E
+blood dirt scrawl~
+BeWAre tHe SwAmP oGreS......
+~
+S
+#2203
+The edge of the forest and hills~
+You stand at the edge of a dark forest. A path leads north into the forest and
+its deadly darkness and silence. Looking west, you see a path that leads up
+into a foothills region. Standing here on the boundary between light and
+darkness, you feel very vulnerable and alone.
+~
+21 64 4 1
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2202
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2209
+S
+#2204
+In the dense forest~
+You walk along a small path leading through a dark forest. No sounds can be
+heard and little light penetrates the canopy of trees above you. The air here
+smells musty and you long for a fresh breath. You see an intersection of paths
+to the west. The path you are on leads south into the darkening woods.
+~
+21 65 3 1
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 2205
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 2202
+S
+#2205
+The dark forest path~
+You continue on through darkness and gloom. The path below you has become a
+wet quagmire. It is difficult to walk and you make squishing sounds as you
+move on. Looking east, you see a swampy path. The main path leads north and
+south into darkness.
+~
+21 65 3 1
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 2204
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2227
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 2206
+S
+#2206
+A turn in the path~
+The forest path turns here towards the north and west. To the north, you see
+that the ground has become dank and swampy. While, the western path appears
+to be entering a hilly area. You hear sounds of swamp creatures to the north
+east.
+~
+21 65 3 1
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 2205
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 2207
+S
+#2207
+The bloody intersection~
+This is a small intersection. Paths lead east, west, and south. You are struck
+by the carnage here when you enter the clearing. There appears to have been a
+great battle here. Blood is everywhere and the ground is all torn up. Pieces
+of beaten armour and broken blades lie all around. Examining the tracks here
+lead you to believe that the dead and wounded were draggged off in two
+directions, south and east.
+~
+21 65 4 1
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 2206
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 2210
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 2208
+S
+#2208
+The rocky path~
+The path here winds among the low rocky hills. The long trek up and down the
+hills begins to tire you greatly. Looking east, you see a small clearing. More
+hills are to the north of here.
+~
+21 64 4 1
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 2209
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 2207
+S
+#2209
+The rocky path~
+The path here is very rocky and treacherous. The traveling is rough and you
+slip and fall often. Looking north, you see that the path continues into the
+hills. Smoother ground is to the east, but the path seems to lead into a dark
+forest in that direction.
+~
+21 64 4 1
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 2203
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 2208
+S
+#2210
+Up the rocky hillside~
+You are climbing on a rocky hillside. As you scramble about, loose rocks and
+small boulders bounce and fall down below you. Looking to the east and west,
+you see more stable ground. The hillside itself goes on higher to the south
+and it drops away to the north.
+~
+21 64 5 1
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 2207
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 2212
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 2214
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 2211
+S
+#2211
+The sparse foothills~
+You are in foothills that are sparsely covered by scraggy bushes and weather
+beaten trees. There are little signs of life here. Only bare rock and dry dirt
+can be seen. Looking east, you see a small pass that will allow you to leave
+the foothills. The foothills themselves extend to the south.
+~
+21 64 4 1
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 2210
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 2213
+S
+#2212
+Standing on level ground~
+You are standing at the edge of a steep set of foothills. Looking down, you
+see what appears to be a marshy, dark forest. It reeks of death and decay.
+Even here, you catch its scent on the winds. From here, you can travel south
+deeper into the foothills or to the west where a small pass will allow you to
+climb down.
+~
+21 64 4 1
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 2215
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 2210
+S
+#2213
+In the foothills~
+You are in a barren set of foothills. Looking around, all you see are dead
+plants and boulders. From the south, you get a whiff of salty air. Barren paths
+lead east, north, and south into more barren hills.
+~
+21 64 4 1
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 2211
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 2214
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 2217
+S
+#2214
+Before the huge tree~
+You enter a large ring of boulders. Sheltered by this wall of stones, a small
+cluster of plants have sprung up. In the center of this group of trees and
+bushes, is a huge gnarled tree. It appears to have been twisted and torn by
+the forces of nature. It sways and moans as a strong wind from the south tears
+through its old feeble branches. The hills themselves lead in all directions.
+~
+21 64 4 1
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 2210
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 2215
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 2218
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 2213
+S
+#2215
+Before the dark cave~
+You stand directly before a huge dark cave. The rocks and boulders outside the
+cave are covered with blood stains and all types of broken and shattered bones
+lie around. An unbearable stench comes from within the cave itself. The dark
+cave entrance looms to the east. The hills themselves lead towards the
+north, south, and west.
+~
+21 64 4 1
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 2212
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 2216
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 2219
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 2214
+S
+#2216
+Inside the horrid cave~
+The stench is overwhelming. You can hardly breathe as you enter the cave.
+Looking around, you realize that some bizarre and horrible creature uses this
+cave as a home. Skeletal remains lie all over. Several half-eaten corpses are
+rotting away slowly in the gloomy darkness. In the back of the cave, you see a
+large pile of rotting cloth, fur, and plant matter. Light and safety is
+towards the west.
+~
+21 77 0 7
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 2215
+E
+pile~
+It appears to be some sort of nest......
+~
+S
+#2217
+The hills overlooking the shore~
+Standing at the edge of the foothills, you are able to look down upon a rocky
+shoreline. It appears as though a vast ocean is to the south. Sea birds have
+made their nests here in the rocks and you are heartened by the presence of
+life here. It is possible to climb down to the shore here. The hills
+themselves are to the north. The edge of the hills leads to the east along the
+shoreline.
+~
+21 64 4 1
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 2213
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 2218
+D5
+ ~
+ ~
+ ~
+ ~
+1 0 2220
+S
+#2218
+The hills overlooking the shoreline~
+You stand on a barren section of hills that overlook a rocky shoreline. The
+stiff ocean wind has blown the rocks smooth here and you have to lean forward
+a bit to keep your balance. The salty sea air fills your nostrils and you
+notice signs of life in the rocky crags here. You can climb down towards the
+shore or head north into the hills themselves. The rocky summit you are
+standing leads east and west along the shoreline.
+~
+21 64 4 1
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 2214
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 2219
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 2217
+D5
+ ~
+ ~
+ ~
+ ~
+1 0 2221
+S
+#2219
+The hills above the shoreline~
+You stand on a rocky summit overlooking a rough shoreline below. The sea wind
+blows hard across the rocks here and they have been worn smooth with time.
+Looking around, you notice that you can safely climb down towards the shore.
+The hills themselves stretch towards the north. The rough summit you stand
+upon leads west along the shoreline.
+~
+21 64 4 1
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 2215
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 2218
+D5
+ ~
+ ~
+ ~
+ ~
+1 0 2222
+S
+#2220
+The rocky shore~
+You are at the base of the rocky hills. Stretching to the south and east, you
+see a rocky shore. To the southeast, you see a small altar of some sorts that
+glows with an eerie blue light. It is possible to climb up into the hills here.
+~
+21 64 0 1
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 2221
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 2223
+D3
+~
+~
+~
+~
+0 0 63467
+D4
+ ~
+ ~
+ ~
+ ~
+1 0 2217
+S
+#2221
+The rocky shoreline~
+You are on a rocky shore that borders a vast sea. A stiff wind blows here and
+whistles among the rocks. You see an altar of some sort built on the shore to
+the south. The shore itself leads east and west. Looking up, you see foothills
+and rocky crags.
+~
+21 64 0 1
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 2222
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 2224
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 2220
+D4
+ ~
+ ~
+ ~
+ ~
+1 0 2218
+S
+#2222
+The rocky shore~
+You stand at the base of some rocky hills, where they meet a rocky shore. A
+vast sea is to your south. Looking to the southwest, you see a small altar
+that glows with a eerie blue light. The shore stretches out to the south and
+west. It is possible to climb up into the hills here.
+~
+21 64 0 1
+0 0 0 0
+0 0 0
+D1
+~
+~
+~
+~
+0 0 63465
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 2225
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 2221
+D4
+ ~
+ ~
+ ~
+ ~
+1 0 2219
+S
+#2223
+The edge of the sea~
+You walk along the water's edge. The vastness of the ocean is staggering as
+you look out across it. You notice a small altar that glows with blue light
+to the east. The shore itself extends north away from the water's edge.
+~
+21 64 0 1
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 2220
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 2224
+D3
+~
+~
+~
+~
+0 0 63466
+S
+#2224
+The Blood Sea Portal~
+You stand on a small pedestal like altar that has been built on the shore here.
+Standing here, you can look out across the sea. You can almost imagine that
+you see a far away island. Dominating the altar is a small blue portal of
+light. It is possible to walk south into the portal. The shore itself extends
+to the north, east, and west.
+There are small inscriptions on the rock at the base of the portal.
+~
+21 192 0 1
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 2221
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 2225
+D2
+An oval portal, glowing with a soft blue light, floats atop the altar.
+~
+ ~
+$n steps up onto the altar and enters the portal... disappearing.~
+$n drifts slowly through the blue light.~
+5 0 2226
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 2223
+E
+portal blue~
+You see a swirling blue portal of light. You think you can see glimpses of
+something moving on the "other side".
+~
+E
+small inscriptions inscription~
+"Enter all ye who wish to join the Brotherhood!"
+~
+S
+#2225
+The edge of the sea~
+You walk along the water's edge. The tide appears to have risen. Very little
+debris is washed up on shore. You slip and slide as you tread across the
+slippery rocks that make up the shore. To the west you see a small altar that
+radiates blue light. The shore extends north away from the water's edge.
+~
+21 64 0 1
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 2222
+D1
+~
+~
+~
+~
+0 0 63464
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 2224
+S
+#2226
+Floating in blue light~
+You seem to be floating in blue weightlessness. You tumble head over heels and
+finally right yourself. Gaining your bearings, you notice that there are two
+"windows" in the sea of blue here. One to the south shows an image of a snowy
+plain. Another window to the north shows an image of a rocky shore.
+~
+21 204 0 1
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 2224
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2253
+S
+#2227
+The swampy path~
+This damp path seems to lead into a deep, dark swamp. The trees above block
+out all light and stifle the wind. You smell swamp gas and hear damp squashing
+sounds all around you. The path leads east deeper into the swamp. You also see
+a dark forest to the west.
+~
+21 73 3 1
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 2228
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 2205
+S
+#2228
+The swampy path~
+You tread lightly in a wet, swampy path. All around you, you see pools of
+quicksand and rotting vegetation. Unlike the forest to the west, the swamp is
+teeming with life. Some of it is harmless, some is not. The path leads east
+and west into more swamp.
+~
+21 73 3 1
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 2229
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 2227
+S
+#2229
+The swampy path~
+You weave your way through the treacherous swamp. Gas rises all around you and
+a damp mist covers the ground, making it impossible to travel safely, without
+carefully picking your way around obstacles. Large, gnarled trees rise above
+you. Their moss covered branches block out all traces of the sun. The path
+here leads east and west.
+~
+21 73 3 1
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2230
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 2228
+S
+#2230
+The turn in the swampy path~
+You come upon a bend in the swampy path. The ground here is fairly sturdy,
+as this place is elevated above the rest of the swamp. Looking around, you see
+a dark, mist filled swamp. Small paths lead south and west into the mist.
+~
+21 201 3 1
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 2231
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 2229
+S
+#2231
+The swampy path~
+You tread lightly through the mirky water and sludge that makes up the path
+you follow. To the south, there is a thick wall of mist. You can see nothing
+within it. Harder ground rises to the north.
+~
+21 201 3 3
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 2230
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 2233
+S
+#2232
+Lost in the Mist~
+You wander, hopelessly lost. Swirling mist obscures your vision and clouds
+your mind. You lose all concept of direction. Small, silent giggles can be
+heard all around. You can wander in any direction.
+~
+21 201 4 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 2236
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 2233
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 2235
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 2233
+S
+#2233
+Lost in the Mist~
+You are in a thick misty area. The mist swirls around you, seeming to taunt
+you and dare you to escape. You feel a slight electric charge in the mist. It
+almost caresses your body as it floats about you. You can wander in any
+direction.......
+~
+21 201 3 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2233
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 2233
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2236
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 2232
+S
+#2234
+Lost in the Mist~
+You try to peer through the mist.. You see nothing. It swirls about you,
+covering you in a damp sheen. There is no sound, all light is eagerly devoured
+by the mist. You feel totally and hopelessly lost.
+~
+21 201 4 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 2235
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 2238
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 2237
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 2233
+S
+#2235
+Lost in the Mist~
+You stumble through the marsh here. The swamp seems to have swallowed you up
+and denied you exit. This mist is your jailor. You cannot tell where you are.
+You hear quiet laughter all about you.
+~
+21 201 4 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 2236
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 2232
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 2231
+S
+#2236
+Lost in the Mist~
+You wander, lost hopelessly. The mist swirls all about you. You can discern no
+direction. You stumble blindly through the mist, oblivious to your
+surroundings.
+~
+21 201 4 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2233
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 2237
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 2232
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 2235
+S
+#2237
+Lost in the Mist~
+You wander through the thick mist. It swirls all about you and makes it hard
+to breathe. The ground below you makes a soft squishing sound as you trudge
+on, but this noise is absorbed by the mist and does not travel. You can wander
+in any direction.
+~
+21 201 4 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 2234
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 2235
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 2236
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 2233
+S
+#2238
+Lost in the Mist~
+You wander, lost, for what seems an eternity.  Then... from nowhere... You see
+what appears to be trees and hills to the east.  The mist itself thickens to
+the west, while it grows thin to the east.
+~
+21 201 3 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 2239
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 2234
+S
+#2239
+The solid path~
+A solid path rises out of the misty swamp. It leads north, into what appears
+to be a forested area. The trees, above, allow light and air to penetrate and
+you can see the sky above. A thick bank of mist is to your west.
+~
+21 32 4 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 2240
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 2238
+S
+#2240
+A forested path~
+The path here leads north through a thick forest. High bushes and forest
+undergrowth line both sides of the trail. Looking north, you see a thin line
+of smoke rising up above the tree line. You also notice a crude wooden gate
+farther north on the trail. The trail itself leads south into murky territory.
+~
+21 36 3 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 2241
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 2239
+S
+#2241
+The gate before the Ogre Village~
+You stand before a huge pair of crude, wooden gates. They are thrown open.
+Looking inside the gates, you see a crude village. Large humanoid creatures
+are milling to and fro ... Ogres! You can head north through the gate or
+south into the forest.
+~
+21 32 3 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 2243
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 2240
+S
+#2242
+Among the crude huts~
+You walk among the huts of the ogre village. The village appears to be cut
+from the heart of the forest itself. The swamp, nearby, provides the ogres
+with a prime hunting ground. Small paths lead north and east.
+~
+21 32 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 2245
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 2243
+S
+#2243
+Inside the gates~
+You stand just north of the gates to the village. Looking around, you see many
+crude huts and cooking fires. To the north, you see a huge fire pit. Behind it
+there appears to be a hut of sorts. Small paths lead east and west among the
+crude huts. The gates to the south provide an exit from the village.
+~
+21 32 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 2246
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 2244
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 2241
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 2242
+S
+#2244
+Among the crude huts~
+You walk through the crude village. Small huts made of wood and thatch
+surround you. Every so often, you can hear grunts and snarls inside the huts.
+The smell here is unbearable. You wonder what type of creature could possibly
+live in such squalor. Small paths lead west and north here.
+~
+21 32 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 2247
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 2243
+S
+#2245
+The gathering place~
+This appears to be the clearing the ogres use to assemble. It is quite large
+and has a raised mound in the center that contains a crude throne. The ground
+in front of the throne is quite worn, as if it is sat on quite often. You get
+the impression that this place is a crude sort of auditorium. Small paths lead
+east and south.
+~
+21 32 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 2246
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 2242
+S
+#2246
+The firepit before the lodge~
+You stand at the edge of a huge firepit. The heat from the burning embers
+makes you sweat as you stand here. Large spits above the pit are empty but
+they appear to be quite large enough to hold hapless adventurers. A large
+lodge is towards the north, while paths lead east, west, and south into the
+village itself.
+~
+21 32 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+door~
+ ~
+ ~
+1 -1 2248
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 2247
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 2243
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 2245
+S
+#2247
+The village dump~
+The smell here overpowers you. All around you are the rotting remains of the
+village's refuse. Partially eaten corpses, rotting food, and other truly
+disgusting things have been discarded here. Paths lead south and west towards
+fresher air.
+~
+21 32 1 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 2244
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 2246
+S
+#2248
+The entryway to the lodge~
+You are at the entry hall to a large lodge. Animal pelts and other trophies
+line the walls here. Large chests on either side of the door appear to be
+locked. The lodge stretches north, while the doors to the south provide an
+exit into the village.
+~
+21 40 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2249
+D2
+ ~
+door~
+ ~
+ ~
+1 -1 2246
+S
+#2249
+The throne room~
+You stand in a large, crudely decorated throne room. A huge throne adorned
+with humanoid skulls sits against the west wall. A crude, blood stained altar
+is against the east wall. A doorway is directly to the north, long strands of
+beads block the view of the other side. Crude torches light the hall and smoke
+clings to the ceiling.
+~
+21 40 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 2250
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 2248
+S
+#2250
+The chieftain's room~
+This appears to be the ogre chieftain's private quarters. A huge pile of furs
+is in the far corner. Large chests fill the room. All of them have heavy pad
+locks. The room is filled with trophies of dead enemies. It is quite lavishly
+decorated for such a crude inhabitant as an ogre. A beaded doorway is to the
+south.
+~
+21 40 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 2249
+S
+#19999
+$~

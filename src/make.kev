@@ -1,0 +1,13 @@
+gcc -c -g -O -Wall -DOLDLIB -DHASHTABLE -DMEMDEBUG tweak.c
+tweak.c: In function `tweak':
+tweak.c:104: `NULL' undeclared (first use this function)
+tweak.c:104: (Each undeclared identifier is reported only once
+tweak.c:104: for each function it appears in.)
+tweak.c:108: warning: implicit declaration of function `number'
+tweak.c:134: warning: array subscript has type `char'
+tweak.c:138: warning: array subscript has type `char'
+tweak.c:153: warning: array subscript has type `char'
+tweak.c:157: warning: array subscript has type `char'
+tweak.c:102: warning: unused variable `i'
+*** Error code 1
+make: Fatal error: Command failed for target `tweak.o'

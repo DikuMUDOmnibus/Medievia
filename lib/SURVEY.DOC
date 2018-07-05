@@ -1,0 +1,18 @@
+Survey File Format
+------------------
+
+#
+DSC (Description)~
+XVAL (XCord) YVAL (YCord) DIST (MAX distance to see)
+#
+<another entry etc.>
+#
+<another entry etc.>
+$
+
+DSC - Description of the SURVEY OBJECT
+XVAL - X Cord at which the object is.
+YVAL - X Cord at which the object is.
+DIST - the maximum distance at which you can see the object.
+
+Flags to come.

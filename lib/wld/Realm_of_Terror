@@ -1,0 +1,29 @@
+#6669
+ROOM NAME- rename me~
+OK here is your new zone! Take your time, make me proud. Most of all Have Fun!
+The commands are basic.  Makeroom makes rooms. Saveroom will save whole zone,
+or use saveroom <zonenumber>. Use ll or listzone to find out the zone
+number.  makeroom e  will make a room east, a DIRECT copy of this one.
+makeroom e 10  will make 10 rooms east DIRECT copy, like a Fast hallway
+editroom is the MAIN command.  Type editroom(ENTER) for a list of options.
+makeexit n 1234  will connect this room north to room 1234.  All doors must 
+be edited on both sides.  Please be VERY careful when making rooms as they 
+are a bitch to delete.  The MOST IMPORTANT time saving thing is to set the
+first room up(this one) with all the proper sector type, flags, restrictions,
+etc.  Because all rooms will be copied from this one, it will save you a 
+lotta time later.  PLEASE make sure all rooms that are inside have a sector 
+type of inside and a flag of inside (Vryce hates when it rains indoors).
+ALSO DO THIS, restrict this room to level 32.  THE WHOLE zone will be 
+restricted to level 32 until it is opened to the public, when I use a command 
+to unrestrict the whole zone in one shot.  Any questions, ask any level 35.  
+Have a blast, work when in the mood, think it out, make a lotta hidden rooms, 
+look ats and custom entrance/exit text when it will add UMPH to the room. 
+HUGS
+-Vryce-
+~
+170 0 0 0
+0 0 0 0
+0 0 0
+S
+#19999
+$~

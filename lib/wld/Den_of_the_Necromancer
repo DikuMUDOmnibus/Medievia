@@ -1,0 +1,5325 @@
+#13400
+The iron staircase~
+You gingerly descend the old, rusty, circular iron starcase. Some steps have
+completely rusted through, and the whole structure sways dangerously with every
+step you take. There's no railing, and your heart pounds as you think about
+what may be waiting in the darkness below to feed on your shattered body.
+~
+134 28 1 0
+0 0 0 0
+0 0 0
+D4
+ ~
+ ~
+$n has second thoughts and leaves.~
+$n climbs quickly up the staircase, looking a little scared.~
+1 0 5586
+D5
+ ~
+ ~
+ ~
+ ~
+1 0 13401
+S
+#13401
+Base of the iron staircase~
+You breathe a sigh of relief as you step off of the old staircase. You're in a
+small passage that's dimly illuminated by beams of light coming from the forest
+above. The passage widens to the north, and narrows to the south. Although it's
+too dark to see down, you have a sense that the north passage goes for a very
+long distance. You also feel that something is moving out there in the
+darkness...
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13405
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13403
+D4
+ ~
+ ~
+Looking panicked, $n begins to mount the iron staircase.~
+$n falls from above to provide another course in the crabs' meal.~
+1 0 13402
+S
+#13402
+The iron staircase~
+Your desperation to escape the tunnel system makes you careless. Halfway up the
+staircase, you forget to test a step before putting your weight on it. The
+rusty step collapses, and with nothing to grab onto, you plummet off of the
+edge of the staircase and into the blackness. The hard rock below smashes your
+bones to fragments. As you pass out from the pain, you see grey crablike
+creatures emerging from the shadows of the tunnel, ready to give proper welcome
+to this unexpected meal.
+~
+134 24 1 0
+0 0 0 0
+0 0 0
+S
+#13403
+A dead end~
+It looks like this tunnel once went further south, but it has collapsed. A
+solid wall of rock and dirt blocks all progress in that direction. The only
+exit is north.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13404
+S
+#13404
+Base of the iron staircase~
+You're in a small passage that's dimly illuminated by beams of light coming
+from the forest above. The passage widens to the north, and narrows to the
+south. Although it's too dark to see down, you have a sense that the north
+passage goes for a very long distance. You also feel that something is moving
+out there in the darkness...
+~
+134 29 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13405
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13403
+D4
+ ~
+ ~
+Looking panicked, $n begins to mount the iron staircase.~
+$n falls from above to provide another course in the crabs' meal.~
+1 0 13402
+S
+#13405
+The long dark passage of terror~
+You are consumed by fear as you enter this passage. The air around you is
+thick, heavy, clutching at you. Your light seems dim and weak, as if it was
+fighting the atmosphere of this place. The iron staircase to the south is like
+a godsend, promising escape from this horrible place, and it takes all your
+willpower not to run back to it immediately.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13406
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13404
+S
+#13406
+The long dark passage of terror~
+Clicking noises are all around you. Sometimes they seem to come from near the
+walls, other times from right next to your ear. You look around quickly, but
+see nothing...
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13407
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13405
+S
+#13407
+The long dark passage of terror~
+The clicking noises increase in volume and frequency. It's as if there was a
+legion of horrible creatures all around you, yet still you see nothing...
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13408
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13406
+S
+#13408
+The long dark passage of terror~
+The air around you clutches tighter, and you feel your heartbeat pounding in
+your ears...
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13409
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13407
+S
+#13409
+The long dark passage of terror~
+The noise around you is deafening! Where is it coming from? Where??
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13410
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13408
+S
+#13410
+The long dark passage of terror~
+What was that? Something moved off to your right, just out of the range of your
+light! It's gone now, but you just saw something to the left..... You spin
+madly, but catch only shadows...
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13411
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13409
+S
+#13411
+The long dark passage of terror~
+The sweat drips freely from your body as you stare wild-eyed down the
+passage...
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13412
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13410
+S
+#13412
+The long dark passage of terror~
+You can't take any more of this! You have to get out of here, now,
+before...before...
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13413
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13411
+S
+#13413
+The long dark passage of terror~
+Near panic, you stumble farther down the tunnel. It can't be much farther, it
+can't be..... A small sound of fear escapes your lips...
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13414
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13412
+S
+#13414
+The long dark passage of terror~
+The clicking noises, the air..... You clutch at your head, eyes closed, slowly
+going mad from the waking nightmare around you...
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13415
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13413
+S
+#13415
+End of the passage~
+You stumble out of the long passage, into air that isn't quite so oppressive
+and noises that don't seem quite so overwhelming. As your head clears, your
+panic subsides, you realize that you've run the gauntlet and survived. So
+far...
+~
+134 29 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13416
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13414
+S
+#13416
+An intersection~
+The tunnel splits here, heading off in all directions. To the east and west
+the passages take on a damp, mossy look. To the north the tunnel is dry and
+smooth, and to the south is the fearsome passage of terror.
+~
+134 29 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13417
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 13447
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13415
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 13431
+S
+#13417
+A smooth passage~
+The walls of this passage are perfectly smooth to the touch, unnaturally so. It
+continues to the north, and there is an intersection to the south.
+~
+134 29 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13418
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13416
+S
+#13418
+A smooth passage~
+The walls of this passage are perfectly smooth to the touch, unnaturally so. It
+continues to the north, and to the south leads back to the intersection.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13419
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13417
+S
+#13419
+A smooth passage~
+The walls of this passage are perfectly smooth to the touch, unnaturally so.
+There is a curve to the north, and the intersection is far to the south.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13420
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13418
+S
+#13420
+A curve in the passage~
+The passage turns here, leading off in a more or less westerly direction.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13419
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 13421
+S
+#13421
+A smooth passage~
+The walls of this passage are perfectly smooth to the touch, unnaturally so.
+There is a curve to the east, and the passage continues west.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 13420
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 13422
+S
+#13422
+A smooth passage~
+You puzzle over how the passage could have been formed. Even water would not
+shape the walls so regularly; there would still be gaps and cracks somewhere,
+and you notice now that the floor is as smooth as the walls. Could the denizens
+of these tunnels have some strange magic, capable of shaping rock itself? You
+shiver at the thought.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 13421
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 13423
+S
+#13423
+A smooth passage~
+The walls and floor of this passage are perfectly smooth to the touch,
+unnaturally so. There is a curve to the west, and the passage goes off to the
+east.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 13422
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 13424
+S
+#13424
+A curve in the passage~
+The passage turns here, continuing to the south.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 13423
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13425
+S
+#13425
+A smooth passage~
+The walls and floor of this passage are perfectly smooth to the touch,
+unnaturally so. There is a bend to the north, and the passage continues to the
+south.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13424
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13426
+S
+#13426
+A smooth passage~
+You notice that the passage around you is becoming very round, almost circular.
+You feel that there is some significance to that, but don't know what it is.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13425
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13427
+S
+#13427
+A smooth passage~
+You notice that the walls have a slight sheen to them. Touching them, you
+realize it's due to a sticky substance covering them. The stuff feels like it's
+burning your fingers, and you scrape it away with your weapon. Even then, your
+fingers still tingle slightly.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13426
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13428
+S
+#13428
+A smooth passage~
+There is a slight acrid smell in the air here. On the ground you see a small
+pile of flesh. It looks like it was alive at one time, but you can't tell what
+it was. You remember your burning fingers and wonder...
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13427
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13429
+S
+#13429
+A smooth passage~
+The acrid smell is stronger, and you see several dead things lying around the
+room. The corpses look strange, almost melted, and the sticky fluid is all
+over them.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13428
+D2
+ ~
+ ~
+ ~
+$n arrives to join you in death.~
+1 0 13430
+S
+#13430
+Inside the great worm~
+You step into a small, hot room with moist walls. A sticky fluid comes up to
+your ankles, burning your feet as it seeps into your boots. Below the surface o
+the fluid you can see the decayed remains of many creatures - even what looks
+like a human skeleton! Suddenly afraid, you turn for the exit, when the room
+around you heaves and a rock wall slides into place over the opening! You
+realize, too late, that it was not the wall that moved, but the room. You've
+stepped into the gut of some great creature, one that is now aware of you. The
+walls contract, the "room" growing smaller. You scream horribly as they press
+around you, crushing you, forcing you down into the burning digestive fluid...
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+S
+#13431
+A damp passage~
+Beads of moisture are on the walls of this passage, shining as they reflect the
+glow from your light source. The passage continues to the west, and heads back
+to the intersection to the east.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 13416
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 13432
+S
+#13432
+A damp passage~
+Beads of moisture are on the walls of this passage, shining as they reflect the
+glow from your light source. The passage continues to the east and west.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 13431
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 13433
+S
+#13433
+A damp passage~
+Beads of moisture are on the walls of this passage, shining as they reflect the
+glow from your light source. To the west is a turn, and the intersection lies
+far to the east.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 13432
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 13434
+S
+#13434
+A turn in the damp passage~
+Beads of moisture are on the walls of this passage, shining as they reflect the
+glow from your light source. The passage curves here, and leads off to the
+north and east.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13435
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 13433
+S
+#13435
+A damp passage~
+Beads of moisture are on the walls of this passage, shining as they reflect the
+glow from your light source. The passage leads off to the north, and a curve in
+the passage is to the south.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13436
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13434
+S
+#13436
+A damp passage~
+Beads of moisture are on the walls of this passage, shining as they reflect the
+glow from your light source. To the north, the passage turns to the east.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13437
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13435
+S
+#13437
+A turn in the damp passage~
+Beads of moisture are on the walls of this passage, shining as they reflect the
+glow from your light source. The passage curves here, leading off to the east
+and south.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 13438
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13436
+S
+#13438
+A damp passage~
+You notice that the amount of water on the walls has increased. Looking
+carefully, you see that it is seeping through tiny cracks in the ceiling,
+collecting and running in thin rivulets down the walls. The passage bends to
+the west, and continues to the east.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 13439
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 13437
+S
+#13439
+A damp passage~
+You notice that the amount of water on the walls has increased. Looking
+carefully, you see that it is seeping through tiny cracks in the ceiling,
+collecting and running in thin rivulets down the walls. The passage bends to
+the east, and goes back to the west.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 13440
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 13438
+S
+#13440
+A bend in the damp passage~
+You notice that the amount of water on the walls has increased. Looking
+carefully, you see that it is seeping through tiny cracks in the ceiling,
+collecting and running in thin rivulets down the walls. Exits lead to the west
+and south.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13441
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 13439
+S
+#13441
+A dank passage~
+There's a strange odor in the air, a sort of tang that you can taste as well as
+smell. There are bends in the passage to both the north and south of you.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13440
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13442
+S
+#13442
+A turn in the dank passage~
+There's a strange odor in the air, a sort of tang that you can taste as well as
+smell. Exits lead to the north and west.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13441
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 13443
+S
+#13443
+A dank passage~
+The odor has grown stronger, and is now mixed with the smell of carrion. The
+smell is stronger to the west, where the passage turns yet again.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 13442
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 13444
+S
+#13444
+A turn in the dank passage~
+The odor has grown stronger, and is now mixed with the smell of carrion. The
+smell seems to be coming from some distance to the north of you.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13445
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 13443
+S
+#13445
+A pit of slime~
+The tunnel comes to an abrupt end here. The room is dominated by a pit, perhaps
+five feet across, covered with thick, almost solid, yellowish slime. Strange
+vines grow from the floor and walls here. They are a very pale green, almost
+translucent. Within the vines you can see the skeletal remains of many small
+creatures. The vines seem to be wrapped about the remains, as if feeding on
+them in some way. You notice that the vines, although thick in most parts of
+the room, never come very close to the slime pit. You wonder if there is any
+importance to this.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13444
+D5
+ ~
+slime~
+Suddenly a pale tentacle grabs $n, pulling $m beneath the slime!~
+You are dimly aware that $n, too, has fallen victim to the slime pit.~
+1 -1 13446
+E
+slime~
+The pit is like something out of a nightmare, crawling with little wriggly
+things. Every so often the slime vibrates slightly, as if something below the
+surface was moving. Or, perhaps the slime itself is alive somehow...
+~
+S
+#13446
+Inside the slime pit~
+You blithely jump into the slime pit, unconcerned about any possible dangers.
+Immediately your body is seized by agony. You lift your hand out of the muck,
+and stare in horror as the flesh seems to melt away. The "slime" is a powerful
+acid, used by the creature who lives in the pit to predigest its food. As you
+struggle, a pale tentacle with blood-red capillaries rises up from the slime,
+wrapping around you and dragging you down to meet your doom. It was so nice of
+you to stop by for dinner...
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+S
+#13447
+A damp passage~
+Beads of moisture are on the walls of this passage, shining as they reflect the
+glow from your light source. The passage continues to the east, and heads back
+to the intersection to the west.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 13448
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 13416
+S
+#13448
+A damp passage~
+Beads of moisture are on the walls of this passage, shining as they reflect the
+glow from your light source. The passage continues to the east, and far to the
+west is the intersection.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 13449
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 13447
+S
+#13449
+A damp passage~
+Beads of moisture are on the walls of this passage, shining as they reflect the
+glow from your light source. To the east is a turn in the passage.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 13450
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 13448
+S
+#13450
+A turn in the damp passage~
+Beads of moisture are on the walls of this passage, shining as they reflect the
+glow from your light source. Exits lead to the north and west.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13451
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 13449
+S
+#13451
+A damp passage~
+Beads of moisture are on the walls of this passage, shining as they reflect the
+glow from your light source. The passage seems to get wetter to the north, and
+to the south is a bend.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13452
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13450
+S
+#13452
+A damp passage~
+You notice that the amount of water on the walls has increased. Looking
+carefully, you see that it is seeping through tiny cracks in the ceiling,
+collecting and running in thin rivulets down the walls. The passage continues
+to the north and south.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13453
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13451
+S
+#13453
+A damp passage~
+You notice that the amount of water on the walls has increased. Looking
+carefully, you see that it is seeping through tiny cracks in the ceiling,
+collecting and running in thin rivulets down the walls. The passage continues
+to the north and south.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13454
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13452
+S
+#13454
+A wet passage~
+Streams of water run down the walls of the passage. There is an inch of water
+on the floor, and you walk carefully to avoid slipping. Patches of green fungus
+have begun to appear on the wall.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13455
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13453
+S
+#13455
+A wet passage~
+Streams of water run down the walls of the passage. There is an inch of water
+on the floor, and you walk carefully to avoid slipping. Patches of green fungus
+have begun to appear on the wall.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13456
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13454
+S
+#13456
+A wet passage~
+Streams of water run down the walls of the passage. There is an inch of water
+on the floor, and you walk carefully to avoid slipping. The walls are thick
+with green fungus, and a foul smell wafts from the tunnel ahead.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13457
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13455
+S
+#13457
+Under the swamp of Thanos~
+The walls are wet with running water, which collects on the ground in wide
+pools that you slosh through. Swamp water drips freely from the ceiling, making
+soft plopping noises as it hits the pools. Patches of green and brown fungus
+grow on the walls. You avert your eyes from the water, which is an unhealthy
+shade of brown, and wrinkle your nose.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13458
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 13495
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13456
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 13482
+S
+#13458
+Under the swamp of Thanos~
+Both walls are wet with running water, which collects on the ground in wide
+pools that you slosh through. Swamp water drips freely from the ceiling, making
+soft plopping noises as it hits the pools. Patches of green and brown fungus
+grow on the walls. You avert your eyes from the water, which is an unhealthy
+shade of brown, and wrinkle your nose.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13460
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13457
+S
+#13459
+Beneath the swamp of Thanos~
+This is a relatively dry passage, with only a few inches of water. It is a
+blessed relief to hear the dripping sounds lessen, to feel cold swamp water run
+down your arms less frequently. It does cross your mind, though, that there
+might be some other creatures down here who also prefer this type of
+environment...
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13465
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 13460
+S
+#13460
+Under the swamp of Thanos~
+Both walls are wet with running water, which collects on the ground in wide
+pools that you slosh through. Swamp water drips freely from the ceiling, making
+soft plopping noises as it hits the pools. Patches of green and brown fungus
+grow on the walls. You avert your eyes from the water, which is an unhealthy
+shade of brown, and wrinkle your nose.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13461
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13458
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 13459
+S
+#13461
+Under the swamp of Thanos~
+There's much more water here. It rises up to your ankles, soaking your feet
+inside their boots. The floor of the passage is barely visible beneath the
+murky haze of swamp water. To the north is a loud watery roaring sound, not
+unlike a waterfall.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13462
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13460
+S
+#13462
+A hole in the ceiling~
+The water is up to your knees, and you shiver from its coldness. Above you is a
+small hole in the ceiling, perhaps a foot wide. Water cascades down from the
+hole with great force, splashing down, soaking you to the skin when you try to
+pass it, and forming a fine mist. The swamp muck floating around in the mist
+makes you want to sneeze. Through the hole above you can see the thick roots of
+the mutated trees in the swamp. Above that, you think that you can see a faint
+glow of light from the surface. The thought reminds you of just how far away
+you are from the sunlight, and from other human beings.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13463
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13461
+S
+#13463
+Under the swamp of Thanos~
+There's much more water here. It rises up to your ankles, soaking your feet
+inside their boots. The floor of the passage is barely visible beneath the
+murky haze of swamp water. To the south is a loud watery roaring sound, not
+unlike a waterfall.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13464
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13462
+S
+#13464
+Under the swamp of Thanos~
+Both walls are wet with running water, which collects on the ground in wide
+pools that you slosh through. Swamp water drips freely from the ceiling, making
+soft plopping noises as it hits the pools. Patches of green and brown fungus
+grow on the walls. You avert your eyes from the water, which is an unhealthy
+shade of brown, and wrinkle your nose.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13466
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 13496
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13463
+S
+#13465
+Beneath the swamp of Thanos~
+This is a relatively dry passage, with only a few inches of water. It is a
+blessed relief to hear the dripping sounds lessen, to feel cold swamp water run
+down your arms less frequently. It does cross your mind, though, that there
+might be some other creatures down here who also prefer this type of
+environment...
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13459
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 13472
+S
+#13466
+Under the swamp of Thanos~
+Both walls are wet with running water, which collects on the ground in wide
+pools that you slosh through. Swamp water drips freely from the ceiling, making
+soft plopping noises as it hits the pools. Patches of green and brown fungus
+grow on the walls. You avert your eyes from the water, which is an unhealthy
+shade of brown, and wrinkle your nose.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13467
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13464
+S
+#13467
+Under the swamp of Thanos~
+The walls are wet with running water, which collects on the ground in wide
+pools that you slosh through. Swamp water drips freely from the ceiling, making
+soft plopping noises as it hits the pools. The north wall is covered with thick
+moss, entirely hiding the rock wall of the passage.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 13483
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13466
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 13468
+S
+#13468
+Under the swamp of Thanos~
+The walls are wet with running water, which collects on the ground in wide
+pools that you slosh through. Swamp water drips freely from the ceiling, making
+soft plopping noises as it hits the pools. The north wall is covered with thick
+moss, entirely hiding the rock wall of the passage.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 13467
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 13469
+S
+#13469
+Under the swamp of Thanos~
+The walls are wet with running water, which collects on the ground in wide
+pools that you slosh through. Swamp water drips freely from the ceiling, making
+soft plopping noises as it hits the pools. The north wall is covered with thick
+moss, entirely hiding the rock wall of the passage.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+moss~
+ ~
+ ~
+3 -1 13501
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 13468
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 13470
+E
+moss~
+Upon closer inspection, you see that the moss has grown over an opening in the
+north wall.
+~
+S
+#13470
+Under the swamp of Thanos~
+The walls are wet with running water, which collects on the ground in wide
+pools that you slosh through. Swamp water drips freely from the ceiling, making
+soft plopping noises as it hits the pools. The north wall is covered with thick
+moss, entirely hiding the rock wall of the passage.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 13469
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13471
+S
+#13471
+Under the swamp of Thanos~
+Both walls are wet with running water, which collects on the ground in wide
+pools that you slosh through. Swamp water drips freely from the ceiling, making
+soft plopping noises as it hits the pools. Patches of green and brown fungus
+grow on the walls. You avert your eyes from the water, which is an unhealthy
+shade of brown, and wrinkle your nose.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13470
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13473
+S
+#13472
+Beneath the swamp of Thanos~
+This is a relatively dry passage, with only a few inches of water. It is a
+blessed relief to hear the dripping sounds lessen, to feel cold swamp water run
+down your arms less frequently. It does cross your mind, though, that there
+might be some other creatures down here who also prefer this type of
+environment...
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13478
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 13465
+S
+#13473
+Under the swamp of Thanos~
+Both walls are wet with running water, which collects on the ground in wide
+pools that you slosh through. Swamp water drips freely from the ceiling, making
+soft plopping noises as it hits the pools. Patches of green and brown fungus
+grow on the walls. You avert your eyes from the water, which is an unhealthy
+shade of brown, and wrinkle your nose.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13471
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 13478
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13474
+S
+#13474
+Under the swamp of Thanos~
+Both walls are wet with running water, which collects on the ground in wide
+pools that you slosh through. Swamp water drips freely from the ceiling, making
+soft plopping noises as it hits the pools. Patches of green and brown fungus
+grow on the walls. You avert your eyes from the water, which is an unhealthy
+shade of brown, and wrinkle your nose.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13473
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13475
+S
+#13475
+Under the swamp of Thanos~
+Both walls are wet with running water, which collects on the ground in wide
+pools that you slosh through. Swamp water drips freely from the ceiling, making
+soft plopping noises as it hits the pools. Patches of green and brown fungus
+grow on the walls. You avert your eyes from the water, which is an unhealthy
+shade of brown, and wrinkle your nose.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13474
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13476
+S
+#13476
+Under the swamp of Thanos~
+Both walls are wet with running water, which collects on the ground in wide
+pools that you slosh through. Swamp water drips freely from the ceiling, making
+soft plopping noises as it hits the pools. Patches of green and brown fungus
+grow on the walls. You avert your eyes from the water, which is an unhealthy
+shade of brown, and wrinkle your nose.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13475
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13477
+S
+#13477
+Under the swamp of Thanos~
+Both walls are wet with running water, which collects on the ground in wide
+pools that you slosh through. Swamp water drips freely from the ceiling, making
+soft plopping noises as it hits the pools. Patches of green and brown fungus
+grow on the walls. You avert your eyes from the water, which is an unhealthy
+shade of brown, and wrinkle your nose.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13476
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13479
+S
+#13478
+Beneath the swamp of Thanos~
+This is a relatively dry passage, with only a few inches of water. It is a
+blessed relief to hear the dripping sounds lessen, to feel cold swamp water run
+down your arms less frequently. It does cross your mind, though, that there
+might be some other creatures down here who also prefer this type of
+environment...
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13472
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 13473
+S
+#13479
+Under the swamp of Thanos~
+Both walls are wet with running water, which collects on the ground in wide
+pools that you slosh through. Swamp water drips freely from the ceiling, making
+soft plopping noises as it hits the pools. Patches of green and brown fungus
+grow on the walls. You avert your eyes from the water, which is an unhealthy
+shade of brown, and wrinkle your nose.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13477
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13480
+S
+#13480
+Under the swamp of Thanos~
+The walls are wet with running water, which collects on the ground in wide
+pools that you slosh through. Swamp water drips freely from the ceiling, making
+soft plopping noises as it hits the pools. Patches of green and brown fungus
+grow on the walls. You avert your eyes from the water, which is an unhealthy
+shade of brown, and wrinkle your nose.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13479
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 13481
+S
+#13481
+Under the swamp of Thanos~
+Both walls are wet with running water, which collects on the ground in wide
+pools that you slosh through. Swamp water drips freely from the ceiling, making
+soft plopping noises as it hits the pools. Patches of green and brown fungus
+grow on the walls. You avert your eyes from the water, which is an unhealthy
+shade of brown, and wrinkle your nose.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 13482
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 13480
+S
+#13482
+Under the swamp of Thanos~
+Both walls are wet with running water, which collects on the ground in wide
+pools that you slosh through. Swamp water drips freely from the ceiling, making
+soft plopping noises as it hits the pools. Patches of green and brown fungus
+grow on the walls. You avert your eyes from the water, which is an unhealthy
+shade of brown, and wrinkle your nose.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 13457
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 13481
+S
+#13483
+Under the swamp of Thanos~
+The walls are wet with running water, which collects on the ground in wide
+pools that you slosh through. Swamp water drips freely from the ceiling, making
+soft plopping noises as it hits the pools. The north wall is covered with thick
+moss, entirely hiding the rock wall of the passage.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 13484
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 13467
+S
+#13484
+Under the swamp of Thanos~
+The walls are wet with running water, which collects on the ground in wide
+pools that you slosh through. Swamp water drips freely from the ceiling, making
+soft plopping noises as it hits the pools. The north wall is covered with thick
+moss, entirely hiding the rock wall of the passage.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 13485
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 13483
+S
+#13485
+Under the swamp of Thanos~
+The walls are wet with running water, which collects on the ground in wide
+pools that you slosh through. Swamp water drips freely from the ceiling, making
+soft plopping noises as it hits the pools. The north wall is covered with thick
+moss, entirely hiding the rock wall of the passage.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13486
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 13484
+S
+#13486
+Under the swamp of Thanos~
+Both walls are wet with running water, which collects on the ground in wide
+pools that you slosh through. Swamp water drips freely from the ceiling, making
+soft plopping noises as it hits the pools. Patches of green and brown fungus
+grow on the walls. You avert your eyes from the water, which is an unhealthy
+shade of brown, and wrinkle your nose.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13485
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13487
+S
+#13487
+Under the swamp of Thanos~
+Both walls are wet with running water, which collects on the ground in wide
+pools that you slosh through. Swamp water drips freely from the ceiling, making
+soft plopping noises as it hits the pools. Patches of green and brown fungus
+grow on the walls. You avert your eyes from the water, which is an unhealthy
+shade of brown, and wrinkle your nose.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13486
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13488
+S
+#13488
+Under the swamp of Thanos~
+Both walls are wet with running water, which collects on the ground in wide
+pools that you slosh through. Swamp water drips freely from the ceiling, making
+soft plopping noises as it hits the pools. Patches of green and brown fungus
+grow on the walls. You avert your eyes from the water, which is an unhealthy
+shade of brown, and wrinkle your nose.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13487
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13489
+S
+#13489
+Under the swamp of Thanos~
+Both walls are wet with running water, which collects on the ground in wide
+pools that you slosh through. Swamp water drips freely from the ceiling, making
+soft plopping noises as it hits the pools. Patches of green and brown fungus
+grow on the walls. You avert your eyes from the water, which is an unhealthy
+shade of brown, and wrinkle your nose.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13488
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13490
+S
+#13490
+Under the swamp of Thanos~
+Both walls are wet with running water, which collects on the ground in wide
+pools that you slosh through. Swamp water drips freely from the ceiling, making
+soft plopping noises as it hits the pools. Patches of green and brown fungus
+grow on the walls. You avert your eyes from the water, which is an unhealthy
+shade of brown, and wrinkle your nose.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13489
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13491
+S
+#13491
+Under the swamp of Thanos~
+Both walls are wet with running water, which collects on the ground in wide
+pools that you slosh through. Swamp water drips freely from the ceiling, making
+soft plopping noises as it hits the pools. Patches of green and brown fungus
+grow on the walls. You avert your eyes from the water, which is an unhealthy
+shade of brown, and wrinkle your nose.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13490
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13492
+S
+#13492
+Under the swamp of Thanos~
+Both walls are wet with running water, which collects on the ground in wide
+pools that you slosh through. Swamp water drips freely from the ceiling, making
+soft plopping noises as it hits the pools. Patches of green and brown fungus
+grow on the walls. You avert your eyes from the water, which is an unhealthy
+shade of brown, and wrinkle your nose.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13491
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13493
+S
+#13493
+Under the swamp of Thanos~
+Both walls are wet with running water, which collects on the ground in wide
+pools that you slosh through. Swamp water drips freely from the ceiling, making
+soft plopping noises as it hits the pools. Patches of green and brown fungus
+grow on the walls. You avert your eyes from the water, which is an unhealthy
+shade of brown, and wrinkle your nose.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13492
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 13494
+S
+#13494
+Under the swamp of Thanos~
+Both walls are wet with running water, which collects on the ground in wide
+pools that you slosh through. Swamp water drips freely from the ceiling, making
+soft plopping noises as it hits the pools. Patches of green and brown fungus
+grow on the walls. You avert your eyes from the water, which is an unhealthy
+shade of brown, and wrinkle your nose.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13500
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 13493
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 13495
+S
+#13495
+Under the swamp of Thanos~
+Both walls are wet with running water, which collects on the ground in wide
+pools that you slosh through. Swamp water drips freely from the ceiling, making
+soft plopping noises as it hits the pools. Patches of green and brown fungus
+grow on the walls. You avert your eyes from the water, which is an unhealthy
+shade of brown, and wrinkle your nose.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 13494
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 13457
+S
+#13496
+Beneath the swamp of Thanos~
+This passage appears to be the low point of the local tunnel system. The water
+rises high around you, at some points coming almost to your waist, and you feel
+like you're swimming as much as walking. You sweep your weapon through the
+water in front of you, wary of what may be lurking in it.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13497
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 13464
+S
+#13497
+Beneath the swamp of Thanos~
+This passage appears to be the low point of the local tunnel system. The water
+rises high around you, at some points coming almost to your waist, and you feel
+like you're swimming as much as walking. You sweep your weapon through the
+water in front of you, wary of what may be lurking in it.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13496
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 13498
+S
+#13498
+Beneath the swamp of Thanos~
+This passage appears to be the low point of the local tunnel system. The water
+rises high around you, at some points coming almost to your waist, and you feel
+like you're swimming as much as walking. You sweep your weapon through the
+water in front of you, wary of what may be lurking in it.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13499
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 13497
+S
+#13499
+Beneath the swamp of Thanos~
+This passage appears to be the low point of the local tunnel system. The water
+rises high around you, at some points coming almost to your waist, and you feel
+like you're swimming as much as walking. You sweep your weapon through the
+water in front of you, wary of what may be lurking in it.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13498
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 13500
+S
+#13500
+Beneath the swamp of Thanos~
+This passage appears to be the low point of the local tunnel system. The water
+rises high around you, at some points coming almost to your waist, and you feel
+like you're swimming as much as walking. You sweep your weapon through the
+water in front of you, wary of what may be lurking in it.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13494
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 13499
+S
+#13502
+A clean passage~
+You pull yourself up through the hole and find yourself in a passage leading
+north. The walls are bare, in stark contrast to the room below you. The moss
+looks almost...well, sheared off, at the edge of the hole. You wonder if there
+is any significance to this.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13503
+D5
+ ~
+ ~
+ ~
+ ~
+1 0 13621
+S
+#13503
+A clean passage~
+The walls and floor of this tunnel are completely clean, with no trace of moss,
+fungi, or lichen. There is also no dirt and no loose pieces of rock. To the
+north of you the tunnel bends to the west, to the south it leads back down into
+the moss room.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13504
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13502
+S
+#13504
+A clean passage~
+The walls and floor of this tunnel are completely clean, with no trace of moss,
+fungi, or lichen. There is also no dirt and no loose pieces of rock. Exits
+lead to the west and south.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13503
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 13505
+S
+#13505
+A clean passage~
+The walls and floor of this tunnel are completely clean, with no trace of moss,
+fungi, or lichen. There is also no dirt and no loose pieces of rock. It has
+occurred to you by now to wonder why this is so.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 13504
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 13506
+S
+#13506
+A clean passage~
+Directly to the west is a frightening sight. A skeleton seems to be suspended
+in the air, immobile. Around it, also hanging in the air, are other things - a
+sword, a chunk of rock, what looks like a bracer, and some objects that are too
+small to see clearly. Your instincts warn you to turn back, right now. Dare you
+go on?
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 13505
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 13507
+S
+#13507
+A clean passage~
+You've just found out why this passage is so spotless...
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 13506
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 13508
+S
+#13508
+A clean passage~
+This section of the tunnel is as clean as the one before it. To the west, the
+passage appears to come to an end.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 13507
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 13509
+S
+#13509
+A refuse heap~
+This seems to be where the gelatinous cube dropped everything that it couldn't
+digest. Some armor and weapons from previous luckless adventurers are here, but
+the cube has turned them into junk. It doesn't look like there's anything of
+value in this room. The only obvious exit is east.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+door~
+ ~
+ ~
+3 13403 13510
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 13508
+E
+wall door~
+After searching carefully, you discover that part of the rock on the north wall
+is actually a door, cleverly concealed.
+~
+S
+#13510
+A downward sloping tunnel~
+A passage starts here, angling downward to the north. Water trickles from the
+ceiling, running down the passage and out of sight. The floor is covered with
+scum and looks slippery. You think you could keep your balance going down, but
+you're not sure if you could get back up here again.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+$n loses $s balance and slides down the tunnel with a scream!~
+There is a cry from above and $n falls out of the metal chute.~
+1 0 13511
+D2
+ ~
+door~
+ ~
+ ~
+2 13403 13509
+S
+#13511
+Below a metal chute~
+The angle of the tunnel grows steeper, your descent more precarious, and you
+struggle to keep your balance. Suddenly you step on a particularly slippery
+patch of scum and your foot slides out from beneath you! You flail your arms
+wildly, but it's a lost cause, and you're soon careening helplessly down the
+tunnel, picking up speed, like a rider on a giant waterslide. The rock abruptly
+changes to metal and you realize you're inside a metal chute, descending into
+the unknown at frightening speed. A moment later the chute is gone from beneath
+you, and you fall through the air to land on the ground in a heap. Picking
+yourself up, you realize that you're in the center of a huge cavern. The lower
+end of the chute is on the ceiling far above you, barely visible, and
+completely out of reach. You stare out into the darkness, and you hear things
+waiting for you...
+~
+134 25 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13519
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 13525
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13529
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 13523
+S
+#13512
+Northwest corner of the genesis pit~
+You feel like a bird in a cage, hiding in a corner while the cat slinks closer.
+You hear noises out in the darkness, of monsters closing in on you, sealing off
+your escape, thirsting for your warm blood.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 13513
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13517
+S
+#13513
+North wall of the genesis pit~
+You should feel reassured by having your back to a wall. Instead you feel
+trapped, cornered, closed in. You stare out into the blackness and shiver.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 13514
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13518
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 13512
+S
+#13514
+North wall of the genesis pit~
+You should feel reassured by having your back to a wall. Instead you feel
+trapped, cornered, closed in. You stare out into the blackness and shiver.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+wall door~
+ ~
+ ~
+2 13401 13537
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 13515
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13519
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 13513
+E
+wall door~
+Upon closer examination, you realize that part of the wall has been cut into a
+door. It's very heavy, though, and you're unable to get enough leverage to open
+it. If only you had something to pry at it with...
+~
+S
+#13515
+North wall of the genesis pit~
+You should feel reassured by having your back to a wall. Instead you feel
+trapped, cornered, closed in. You stare out into the blackness and shiver.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 13516
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13520
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 13514
+S
+#13516
+Northeast corner of the genesis pit~
+You feel like a bird in a cage, hiding in a corner while the cat slinks closer.
+You hear noises out in the darkness, of monsters closing in on you, sealing off
+your escape, thirsting for your warm blood.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13521
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 13515
+S
+#13517
+West wall of the genesis pit~
+You should feel reassured by having your back to a wall. Instead you feel
+trapped, cornered, closed in. You stare out into the blackness and shiver.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13512
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 13518
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13522
+S
+#13518
+The genesis pit~
+You stand in the genesis pit, the place where Neifirst tests her vile, mutated
+monsters in combat. The experiments that die here are considered failures and
+are abandoned, while those that survive are bred and mutated further. After
+years of this natural selection, the creatures in the pit have become quite
+deadly indeed...
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13513
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 13519
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13523
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 13517
+S
+#13519
+The genesis pit~
+You stand in the genesis pit, the place where Neifirst tests her vile, mutated
+monsters in combat. The experiments that die here are considered failures and
+are abandoned, while those that survive are bred and mutated further. After
+years of this natural selection, the creatures in the pit have become quite
+deadly indeed...
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13514
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 13520
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13524
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 13518
+S
+#13520
+The genesis pit~
+You stand in the genesis pit, the place where Neifirst tests her vile, mutated
+monsters in combat. The experiments that die here are considered failures and
+are abandoned, while those that survive are bred and mutated further. After
+years of this natural selection, the creatures in the pit have become quite
+deadly indeed...
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13515
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 13521
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13525
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 13519
+S
+#13521
+East wall of the genesis pit~
+You should feel reassured by having your back to a wall. Instead you feel
+trapped, cornered, closed in. You stare out into the blackness and shiver.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13516
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13526
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 13520
+S
+#13522
+West wall of the genesis pit~
+You should feel reassured by having your back to a wall. Instead you feel
+trapped, cornered, closed in. You stare out into the blackness and shiver.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13517
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 13523
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13527
+S
+#13523
+The genesis pit~
+You stand in the genesis pit, the place where Neifirst tests her vile, mutated
+monsters in combat. The experiments that die here are considered failures and
+are abandoned, while those that survive are bred and mutated further. After
+years of this natural selection, the creatures in the pit have become quite
+deadly indeed...
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13518
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 13524
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13528
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 13522
+S
+#13524
+Below a metal chute~
+You stand below the metal chute that brought you here, now frustratingly out of
+reach. It occurs to you that you're at the exact center of the genesis pit.
+Nowhere else in the pit would you be more exposed, more vulnerable, than
+where you are right now...
+~
+134 25 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13519
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 13525
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13529
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 13523
+S
+#13525
+The genesis pit~
+You stand in the genesis pit, the place where Neifirst tests her vile, mutated
+monsters in combat. The experiments that die here are considered failures and
+are abandoned, while those that survive are bred and mutated further. After
+years of this natural selection, the creatures in the pit have become quite
+deadly indeed...
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13520
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 13526
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13530
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 13524
+S
+#13526
+East wall of the genesis pit~
+You should feel reassured by having your back to a wall. Instead you feel
+trapped, cornered, closed in. You stare out into the blackness and shiver.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13521
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13531
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 13525
+S
+#13527
+West wall of the genesis pit~
+You should feel reassured by having your back to a wall. Instead you feel
+trapped, cornered, closed in. You stare out into the blackness and shiver.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13522
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 13528
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13532
+S
+#13528
+The genesis pit~
+You stand in the genesis pit, the place where Neifirst tests her vile, mutated
+monsters in combat. The experiments that die here are considered failures and
+are abandoned, while those that survive are bred and mutated further. After
+years of this natural selection, the creatures in the pit have become quite
+deadly indeed...
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13523
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 13529
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13533
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 13527
+S
+#13529
+The genesis pit~
+You stand in the genesis pit, the place where Neifirst tests her vile, mutated
+monsters in combat. The experiments that die here are considered failures and
+are abandoned, while those that survive are bred and mutated further. After
+years of this natural selection, the creatures in the pit have become quite
+deadly indeed...
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13524
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 13530
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13534
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 13528
+S
+#13530
+The genesis pit~
+You stand in the genesis pit, the place where Neifirst tests her vile, mutated
+monsters in combat. The experiments that die here are considered failures and
+are abandoned, while those that survive are bred and mutated further. After
+years of this natural selection, the creatures in the pit have become quite
+deadly indeed...
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13525
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 13531
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13535
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 13529
+S
+#13531
+East wall of the genesis pit~
+You should feel reassured by having your back to a wall. Instead you feel
+trapped, cornered, closed in. You stare out into the blackness and shiver.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13526
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13536
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 13530
+S
+#13532
+Southwest corner of the genesis pit~
+You feel like a bird in a cage, hiding in a corner while the cat slinks closer.
+You hear noises out in the darkness, of monsters closing in on you, sealing off
+your escape, thirsting for your warm blood.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13527
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 13533
+S
+#13533
+South wall of the genesis pit~
+You should feel reassured by having your back to a wall. Instead you feel
+trapped, cornered, closed in. You stare out into the blackness and shiver.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13528
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 13534
+D2
+ ~
+wall door~
+ ~
+ ~
+3 13401 13540
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 13532
+E
+wall door~
+Upon closer examination, you realize that part of the wall has been cut into a
+door. It's very heavy, though, and you're unable to get enough leverage to open
+it. If only you had something to pry at it with...
+~
+S
+#13534
+South wall of the genesis pit~
+You should feel reassured by having your back to a wall. Instead you feel
+trapped, cornered, closed in. You stare out into the blackness and shiver.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13529
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 13535
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 13533
+S
+#13535
+South wall of the genesis pit~
+You should feel reassured by having your back to a wall. Instead you feel
+trapped, cornered, closed in. You stare out into the blackness and shiver.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13530
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 13536
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 13534
+S
+#13536
+Southeast corner of the genesis pit~
+You feel like a bird in a cage, hiding in a corner while the cat slinks closer.
+You hear noises out in the darkness, of monsters closing in on you, sealing off
+your escape, thirsting for your warm blood.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13531
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 13535
+S
+#13537
+Behind the wall~
+You have the feeling that no one has used this tunnel in a very long time.
+Dust and fallen rocks are everywhere, with no signs of any passage by another
+being.
+~
+134 29 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13538
+D2
+ ~
+wall door~
+ ~
+ ~
+1 -1 13514
+S
+#13538
+The Temple of Power~
+You have arrived at a large room with a high domed ceiling. A large bright
+globe, hovering a foot below the ceiling, illuminates the entire room. Directly
+below the globe, set into the floor, is a perfect circular portal, as wide as a
+man is tall. Thick mist comes out of the portal, rising in a plume to surround
+the globe, which seems to draw it in and feed off of it. Cloaked, hooded
+figures pace slowly around the portal, chanting in a forgotten tongue. The
+chanting resonates with the rock walls, and the air about you hums with energy.
+Occasionally there is a noise from the portal, a low rumbling groan, and the
+ground seems to tense. But, always, the figures raise their voices for a moment
+and the tension subsides. The scene is beyond your comprehension, and more than
+a little disturbing. The figures ignore you as they continue their ritual.
+~
+134 24 1 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13537
+D5
+ ~
+ ~
+ ~
+ ~
+1 0 13539
+E
+portal~
+Ancient golden runes are etched around its outer perimeter, symbols of power
+discovered and forgotten long ago. Within the portal is only a yawning
+blackness, a pool of nothingness that seems to stretch down into infinity.
+~
+S
+#13539
+Inside the portal~
+This room is a stub, existing so that its title will appear if the exits
+command is used in the room above. No one (except for gods) should be able to
+enter this room.
+~
+134 24 1 0
+15 0 0 0
+0 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 0 13538
+S
+#13540
+Behind the wall~
+You leave the genesis pit behind, and enter a strange new area of the tunnel
+system. There is a faint smell of smoke in the air, and you see brightness off
+to the south.
+~
+134 29 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+wall door~
+ ~
+ ~
+1 -1 13533
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13541
+S
+#13541
+A smoky passage~
+The air here is smoky, and the ground under your feet is warm. The smoke is
+coming from further to the south, where fires are burning brightly in the
+tunnel.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13540
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13542
+S
+#13542
+The passage of fire~
+The floor is cracked in places, and from some of the cracks rise thin
+candle-flames of fire. The flames are widespread enough to dimly illuminate
+most of the tunnel.
+~
+134 24 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13541
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 13543
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 13548
+S
+#13543
+The passage of fire~
+The floor is cracked in places, and from some of the cracks rise thin
+candle-flames of fire. The flames are widespread enough to dimly illuminate
+most of the tunnel.
+~
+134 24 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 13544
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 13542
+S
+#13544
+The passage of fire~
+The floor is cracked in places, and from some of the cracks rise thin
+candle-flames of fire. The flames are widespread enough to dimly illuminate
+most of the tunnel.
+~
+134 24 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 13545
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 13543
+S
+#13545
+A bend in the passage~
+The floor is cracked in places, and from some of the cracks rise thin
+candle-flames of fire. The flames are widespread enough to dimly illuminate
+most of the tunnel.
+~
+134 24 1 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13546
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 13544
+S
+#13546
+The passage of fire~
+The floor is cracked in places, and from some of the cracks rise thin
+candle-flames of fire. The flames are widespread enough to dimly illuminate
+most of the tunnel. To the south the passage opens up into a brightly lit room.
+~
+134 24 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13545
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13547
+S
+#13547
+A shrine to Thanos~
+The tunnel ends here at a large circular room. The center of the room has been
+hollowed out, and a huge blazing fire burns in the depression. Crude drawings
+are on all the walls. The most prominent one shows hundreds of harginn kneeling
+before a huge flaming humanoid figure. Several other drawings catch your eye as
+well: a tangle of flaming vines...a handsome man...a towering column of flame.
+It appears that this is a place of worship.
+~
+134 24 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13546
+D5
+ ~
+ ~
+$n quickly ducks through the flames and into the secret door.~
+$n crawls down slowly from above.~
+3 13412 13584
+E
+fire flame~
+Upon closer examination, you realize that there is a small door just inside the
+rim of the fire pit. You think you could get to it, and through it, without
+being burned too badly.
+~
+S
+#13548
+The passage of fire~
+The floor is cracked in places, and from some of the cracks rise thin
+candle-flames of fire. The flames are widespread enough to dimly illuminate
+most of the tunnel.
+~
+134 24 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 13542
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 13549
+S
+#13549
+The passage of fire~
+The floor is cracked in places, and from some of the cracks rise thin
+candle-flames of fire. The flames are widespread enough to dimly illuminate
+most of the tunnel.
+~
+134 24 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 13548
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 13550
+S
+#13550
+A bend in the passage~
+The floor is cracked in places, and from some of the cracks rise thin
+candle-flames of fire. The flames are widespread enough to dimly illuminate
+most of the tunnel.
+~
+134 24 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 13549
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13551
+S
+#13551
+The passage of fire~
+The floor is cracked in places, and from some of the cracks rise thin
+candle-flames of fire. The flames are widespread enough to dimly illuminate
+most of the tunnel.
+~
+134 24 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13550
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13552
+S
+#13552
+The passage of fire~
+Lines of fire, a foot tall, rise from the many cracks in the floor. The ground
+is uncomfortably warm beneath your feet.
+~
+134 24 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13551
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 13558
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 13553
+S
+#13553
+The passage of fire~
+Lines of fire, a foot tall, rise from the many cracks in the floor. The ground
+is uncomfortably warm beneath your feet.
+~
+134 24 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 13552
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 13554
+S
+#13554
+The passage of fire~
+Lines of fire, a foot tall, rise from the many cracks in the floor. The ground
+is uncomfortably warm beneath your feet.
+~
+134 24 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 13553
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 13555
+S
+#13555
+A bend in the passage~
+Lines of fire, a foot tall, rise from the many cracks in the floor. The ground
+is uncomfortably warm beneath your feet.
+~
+134 24 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 13554
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13556
+S
+#13556
+The passage of fire~
+Lines of fire, a foot tall, rise from the many cracks in the floor. The ground
+is uncomfortably warm beneath your feet. You notice cracks lining the ceiling,
+as if this section of the passage was less stable than the one before.
+~
+134 24 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13555
+D2
+ ~
+ ~
+As $n leaves south, you hear the rumble of falling rock!~
+$n arrives and sets off another rockfall.~
+1 0 13557
+S
+#13557
+Beneath a ton of rock~
+As you enter this section of the tunnel, the roof collapses onto you. The
+constant fires have heated the rock ceiling, weakening it, and the noise caused
+by your arrival is enough to set it loose. The falling rocks pound you down
+before you can react, covering you with stone, a cairn for a fallen hero.
+~
+134 29 1 0
+0 0 0 0
+0 0 0
+S
+#13558
+The passage of fire~
+Lines of fire, a foot tall, rise from the many cracks in the floor. The ground
+is uncomfortably warm beneath your feet.
+~
+134 24 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 13559
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 13552
+S
+#13559
+The passage of fire~
+Lines of fire, a foot tall, rise from the many cracks in the floor. The ground
+is uncomfortably warm beneath your feet.
+~
+134 24 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 13560
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 13558
+S
+#13560
+A bend in the passage~
+Lines of fire, a foot tall, rise from the many cracks in the floor. The ground
+is uncomfortably warm beneath your feet.
+~
+134 24 1 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13561
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 13559
+S
+#13561
+The passage of fire~
+Lines of fire, a foot tall, rise from the many cracks in the floor. The ground
+is uncomfortably warm beneath your feet.
+~
+134 24 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13560
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13562
+S
+#13562
+The passage of fire~
+The ground is very hot, and you are grateful for the protection of your boots.
+The cracks are widening, and in some places great gouts of flame leap up,
+forcing minor detours.
+~
+134 24 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13561
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 13563
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 13568
+S
+#13563
+The passage of fire~
+The ground is very hot, and you are grateful for the protection of your boots.
+The cracks are widening, and in some places great gouts of flame leap up,
+forcing minor detours.
+~
+134 24 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 13564
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 13562
+S
+#13564
+The passage of fire~
+The ground is very hot, and you are grateful for the protection of your boots.
+The cracks are widening, and in some places great gouts of flame leap up,
+forcing minor detours.
+~
+134 24 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 13565
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 13563
+S
+#13565
+A bend in the passage~
+The ground is very hot, and you are grateful for the protection of your boots.
+The cracks are widening, and in some places great gouts of flame leap up,
+forcing minor detours.
+~
+134 24 1 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13566
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 13564
+S
+#13566
+The passage of fire~
+The ground is very hot, and you are grateful for the protection of your boots.
+The cracks are widening, and in some places great gouts of flame leap up,
+forcing minor detours. To the south seems to be an open area, perhaps a room.
+~
+134 24 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13565
+D2
+~
+~
+~
+~
+0 -1 13567
+S
+#13567
+Falling into a pit of fire~
+As you enter this room, you feel the floor vibrate ominously under your weight.
+You dive for the wall, scrabbling for a handhold, but there are none to be
+found. As you turn your head back and forth in panic, you have brief glimpses
+of the thin floor collapsing, the deep pit revealed below, and the incredible
+fires, as hot as Hell, that burn at the bottom. Then gravity takes hold of you,
+and you plummet down into the inferno...
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D0
+~
+~
+~
+~
+0 -1 13566
+S
+#13568
+The passage of fire~
+The ground is very hot, and you are grateful for the protection of your boots.
+The cracks are widening, and in some places great gouts of flame leap up,
+forcing minor detours.
+~
+134 24 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 13562
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 13569
+S
+#13569
+The passage of fire~
+The ground is very hot, and you are grateful for the protection of your boots.
+The cracks are widening, and in some places great gouts of flame leap up,
+forcing minor detours.
+~
+134 24 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 13568
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 13570
+S
+#13570
+A bend in the passage~
+The ground is very hot, and you are grateful for the protection of your boots.
+The cracks are widening, and in some places great gouts of flame leap up,
+forcing minor detours.
+~
+134 24 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 13569
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13571
+S
+#13571
+The passage of fire~
+The ground is very hot, and you are grateful for the protection of your boots.
+The cracks are widening, and in some places great gouts of flame leap up,
+forcing minor detours.
+~
+134 24 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13570
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13572
+S
+#13572
+The passage of fire~
+The passage around you is ablaze, filled with hot smoke that chokes you when
+you breathe. The cracks have become crevices, as wide as your foot, and you
+stumble often as you make your way onward.
+~
+134 24 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13571
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 13573
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 13578
+S
+#13573
+The passage of fire~
+The passage around you is ablaze, filled with hot smoke that chokes you when
+you breathe. The cracks have become crevices, as wide as your foot, and you
+stumble often as you make your way onward.
+~
+134 24 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 13574
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 13572
+S
+#13574
+The passage of fire~
+The passage around you is ablaze, filled with hot smoke that chokes you when
+you breathe. The cracks have become crevices, as wide as your foot, and you
+stumble often as you make your way onward.
+~
+134 24 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 13575
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 13573
+S
+#13575
+A bend in the passage~
+The passage around you is ablaze, filled with hot smoke that chokes you when
+you breathe. The cracks have become crevices, as wide as your foot, and you
+stumble often as you make your way onward.
+~
+134 24 1 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13576
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 13574
+S
+#13576
+The passage of fire~
+The passage around you is ablaze, filled with hot smoke that chokes you when
+you breathe. The cracks have become crevices, as wide as your foot, and you
+stumble often as you make your way onward. To the south is a large room filled
+with bright flames.
+~
+134 24 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13575
+D2
+~
+~
+~
+~
+0 -1 13577
+S
+#13577
+A flaming room~
+The fires are everywhere, almost hiding the north exit from view. You can
+barely see with the bright light and smoke in your eyes. You walk farther into
+the room, scanning for anything of importance, and inadvertently step too close
+to one of the crevices. It lets loose a blast of flame, and suddenly you're on
+fire! You bat at the flames, running for the exit, but with the light, smoke,
+and your own panic, you miss it! You run madly about the room, the pain making
+you less and less rational, bouncing off walls, being cooked alive within your
+armor...
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D0
+~
+~
+~
+~
+0 -1 13576
+S
+#13578
+The passage of fire~
+The passage around you is ablaze, filled with hot smoke that chokes you when
+you breathe. The cracks have become crevices, as wide as your foot, and you
+stumble often as you make your way onward.
+~
+134 24 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 13572
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 13579
+S
+#13579
+The passage of fire~
+The passage around you is ablaze, filled with hot smoke that chokes you when
+you breathe. The cracks have become crevices, as wide as your foot, and you
+stumble often as you make your way onward.
+~
+134 24 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 13578
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 13580
+S
+#13580
+A bend in the passage~
+The passage around you is ablaze, filled with hot smoke that chokes you when
+you breathe. The cracks have become crevices, as wide as your foot, and you
+stumble often as you make your way onward.
+~
+134 24 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 13579
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13581
+S
+#13581
+The passage of fire~
+The passage around you is ablaze, filled with hot smoke that chokes you when
+you breathe. The cracks have become crevices, as wide as your foot, and you
+stumble often as you make your way onward.
+~
+134 24 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13580
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13582
+S
+#13582
+A flaming room~
+You have entered a wide room filled with leaping flames. The foul smell of
+sulphur, mixed with the smoke, makes you wrinkle your nose. Refuse and bones
+are scattered about the room; it appears that something lives (and eats) here.
+On the west wall is a magical portal displaying a hideous scene. It bears
+further examination.
+~
+134 24 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13581
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 13583
+E
+portal wall~
+You see a land of death and desolation, with a grey cracked plain spreading out
+to the limits of sight. There is no sun and no sunlight, only a sickly ambient
+light that fuzzes the outlines of everything. Literally thousands of humanoid
+creatures wander the plain, wretched things with bloated white skin, long
+claws, and sharp teeth. There seems to be an invisible barrier across the
+portal that prevents any passage, and you decide that this is a good thing.
+~
+S
+#13583
+The abyss~
+This room is a stub, existing so that its title will appear if the exits
+command is used in the room to the east. No one (except for gods) should be
+able to enter this room.
+~
+134 24 1 0
+15 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 13582
+S
+#13584
+Below the fire pit~
+You crawl through the secret door, nimbly avoiding the flames, and find
+yourself in a small vertical passage. Bracing feet against one wall and your
+back against the other, you make slow progress down. Finally, you see an end to
+the passage below you, and the floor a short distance farther. You doubt you
+could make it back up the passage, so there's only one way to go - down!
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D5
+ ~
+ ~
+$n drops down to the floor below.~
+$n drops down from the passage above and lands on $s feet.~
+1 0 13585
+S
+#13585
+The passage of smoke~
+You seem to have left the fires behind, but strangely there is more smoke.
+The smoke seems thickest to the north. To the west you see the glisten of a
+line of slime, and a faint breeze drifts from the east.
+~
+134 29 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13586
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 13595
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 13608
+S
+#13586
+The passage of smoke~
+Thin white smoke fills the air around you. It seems to be coming from far to
+the north. The passage leads north and south.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13587
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13585
+S
+#13587
+The passage of smoke~
+Thin white smoke fills the air around you. It seems to be coming from far to
+the north. The passage leads north and south.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+$n goes north and seems to fall through the floor!~
+A speck named $n appears far above you and starts falling.~
+1 0 13588
+D1
+ ~
+wall door~
+ ~
+ ~
+3 -1 13589
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13586
+E
+wall door~
+You notice that a door is cleverly concealed in the east wall.
+~
+S
+#13588
+A bottomless pit~
+You step onto a seemingly normal section of tunnel, and your foot lands on thin
+air! Off balance, and caught unaware, you topple forward and through the clever
+illusion. Almost before you know it, you're falling down a dark pit, so wide
+you cannot see the walls. The tunnel above recedes into the distance and is
+gone. You fall for a long time, alone with the darkness and your fears. As each
+second passes, you expect to hit bottom, but you never do. Days later, when you
+finally die from thirst, your body is still falling endlessly through space.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+S
+#13589
+A secret passage~
+You've discovered a secret passage through the wall. Where could it lead?
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13590
+D3
+ ~
+wall door~
+ ~
+ ~
+1 -1 13587
+S
+#13590
+A secret passage~
+You've discovered a secret passage through the wall. Where could it lead?
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13591
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13589
+S
+#13591
+A secret passage~
+You've discovered a secret passage through the wall. Where could it lead?
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13590
+D3
+ ~
+wall door~
+ ~
+ ~
+1 -1 13592
+S
+#13592
+The passage of smoke~
+Thin white smoke fills the air around you. It seems to be coming from far to
+the north. The passage leads north and south.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13593
+D1
+ ~
+wall door~
+ ~
+ ~
+3 -1 13591
+D2
+ ~
+ ~
+$n goes south and seems to fall through the floor!~
+A speck named $n appears far above you and starts falling.~
+1 0 13588
+E
+wall door~
+You notice that a door is cleverly concealed in the east wall.
+~
+S
+#13593
+The passage of smoke~
+Thin white smoke fills the air around you. It seems to be coming from far to
+the north. The passage leads north and south.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13594
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13592
+S
+#13594
+The passage of smoke~
+Thin white smoke fills the air around you. It seems to be coming from the
+north. To the west you can see light, and from the east drifts the smell of
+decaying flesh.
+~
+134 29 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13614
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 13604
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13593
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 13600
+S
+#13595
+A breeze in the air~
+A soft breeze is coming from the east, driving away the smoke. It seems clean
+and fresh, a welcome change from the musty tunnel.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 13596
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 13585
+S
+#13596
+A windy passage~
+The breeze has really picked up, and air is gushing through the tunnel
+here, blowing the hair back from your forehead.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 13597
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 13595
+S
+#13597
+A windy passage~
+The wind is very strong now. It takes a noticeable effort to move through it.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 13598
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 13596
+S
+#13598
+A junction between planes~
+You are surrounded by gale force winds. Miniature whirlwinds move through the
+room, picking up loose debris and swirling it about. On the north wall is a
+magical portal which seems to open on a cloudless sky. It is from this portal
+that the intense winds are coming. It may bear further examination.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13599
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 13597
+E
+portal wall~
+It's a strange and curious view. You seem to be looking out on a sky, but with
+no ground beneath it, just more sky. Far off in the distance, you can see an
+occasional cloud, and what looks to be a floating ball of rock! There seems to
+be an invisible barrier across the portal that prevents any physical passage,
+but lets the wind through just fine.
+~
+S
+#13599
+The plane of elemental air~
+This room is a stub, existing so that its title will appear if the exits
+command is used in the room to the south. No one (except for gods) should be
+able to enter this room.
+~
+134 24 1 0
+15 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13598
+S
+#13600
+A silver trace~
+The smoke tapers off here, replaced by the normal dark smell of the tunnels. On
+the wall is something odd, a silver circle as wide as your hand. A line of
+silver starts at the circle and leads off down the wall to the west.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 13594
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 13601
+S
+#13601
+A glowing passage~
+The trace meets up with other traces here, coming out of smaller silver
+circles. Sometimes the traces split, sometimes they join, other times they run
+across each other. The traces glow faintly with a white light. You try to touch
+one and immediately feel a powerful energy that makes your hand tingle.
+~
+134 24 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 13600
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 13602
+S
+#13602
+A glowing passage~
+The traces have grown smaller and more numerous, covering the walls with a maze
+of criss-crossing lines. The traces are more energized here, and glow brightly,
+lighting the entire passage. To the west you hear a faint humming sound.
+~
+134 24 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 13601
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 13603
+S
+#13603
+The center of the network~
+You stand in a perfect hemisphere, the walls seemingly made of solid silver.
+Only by looking very closely can you see that the silver is not solid, but is
+formed into a fine irregular mesh, miniature traces connecting to other traces
+with no recognizable pattern. In places on the wall are small black rectangles,
+attached to the traces by steel pins. The mesh glows brightly, filling the room
+with intense white light. A strange smell, almost like paper, is in the air.
+~
+134 24 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 13602
+S
+#13604
+A deep-sapphire tunnel~
+The walls and floor change here, shifting naturally from rock and dirt into
+dark sapphire crystal. The sapphire has been hand-carved into intersecting
+planes, giving you the feeling of walking on a gem that's been turned
+inside-out. The tunnel continues to the east, where the smell of decaying flesh
+becomes stronger.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 13605
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 13594
+S
+#13605
+A deep-sapphire tunnel~
+You have arrived at the source of the smell. Human corpses have been stacked
+neatly into piles tied up with electrum chains. On top of each pile rests a
+single mandrake leaf. The bodies have a trace green glow that you recognize
+from your own encounters with the necromancer. None of the bodies have been
+dead for long; evidently they arrive and depart at regular intervals.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 13606
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 13604
+S
+#13606
+A deep-sapphire tunnel~
+Wispy translucent shapes swirl around you, ghostly voices whisper warnings in
+your ears. Directly to the east is a huge door of sapphire, entrance to the
+legendary Vault of Souls. Many beings, dead and alive, have passed through this
+door. All have left as soulless husks, their vital essences captured by the
+evil Keeper and imprisoned within the Vault.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+door sapphire~
+ ~
+ ~
+1 -1 13607
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 13605
+E
+door sapphire~
+It is of precisely the same shade as the rest of the tunnel, and is attached to
+the sapphire frame with hinges of electrum.
+~
+S
+#13607
+The Vault of Souls~
+You stand in the final resting place of Medievia's citizens. Racks upon racks
+of sapphire bottles stretch off as far as the eye can see. Each bottle glows
+faintly, a silent reminder of the helpless spirit trapped within. Set into the
+floor near the entrance is a pentagram edged with electrum. It seems to be in
+use at the moment; a corpse has been stretched out within it, and an empty
+sapphire bottle lies nearby. Unfortunately for you, the Keeper prefers to work
+without spectators...
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D3
+ ~
+door sapphire~
+ ~
+ ~
+1 0 13606
+E
+door sapphire~
+It is of precisely the same shade as the rest of the tunnel, and is attached to
+the sapphire frame with hinges of electrum.
+~
+S
+#13608
+A slime trail~
+The smoke thins out here, providing a welcome relief for your lungs. A trail of
+slime starts here and leads off to the west, where it joins up with others.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 13585
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 13609
+S
+#13609
+A slimy passage~
+The smoke is gone, replaced by an awful smell that sends your head spinning.
+The smell may or may not be coming from the many trails of slime that
+criss-cross the floor here. It seems that whoever or whatever lives here uses
+this passage frequently.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 13608
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 13610
+S
+#13610
+Knee-deep in slime~
+You slosh through a thick pool of slime, not even daring to think of what would
+happen if you lost your balance. You wonder how long it took for the things
+that live here to make this much slime. Something brushes against your leg, and
+you turn your mind back to more important matters.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 13609
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 13611
+S
+#13611
+The laboratory~
+You have entered a well-equipped medieval laboratory, which uses magic to
+augment the often clumsy tools and devices. A whole wall of this room is filled
+with cages containing all manner of strange and frightening creatures. In one
+cage is a snapper with an extra pair of eyes. In another is a mosquito from the
+swamp, but its wings have been amputated. They may be the pair of wings that's
+on the lamia in the corner cage, but you're not sure. The monsters cry out as
+you enter, attracting the attention of a sinister, animal-like girl working at
+one of the tables.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 13610
+D4
+ ~
+trapdoor ceiling~
+$n hooks the ladder against the trapdoor and climbs up.~
+$n climbs up from below.~
+3 -1 13612
+E
+trapdoor ceiling~
+You notice that there is a trapdoor in the ceiling, and a narrow ladder with
+hooks set against one of the walls. There may be a connection between the two.
+~
+S
+#13612
+Above the laboratory~
+This appears to be a storage room. Boxes are stacked all around the room. A
+cursory inspection of them reveals cages, specimin jars, tools, and other items
+needed for the day-to-day operation of the laboratory. On the east wall is
+something that looks very much like a large dumbwaiter.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+$n gets on the dumbwaiter and is whisked up out of sight.~
+There is a cry from above and $n falls out of the metal chute.~
+1 0 13613
+D5
+ ~
+trapdoor floor~
+$n leaves through the trapdoor.~
+$n climbs down the ladder.~
+1 -1 13611
+E
+trapdoor floor~
+You can see Neifirst's laboratory through the trapdoor.
+~
+S
+#13613
+Below a metal chute~
+Apparently the dumbwaiter is enchanted. When you crawl into it, it begins to
+swiftly move upward on its own. You move up for what feels like several hundred
+feet, until a hole appears in the wall. Suddenly the dumbwaiter tilts
+violently, and you are thrown through the hole! You land on a steep metal
+surface and immediately begin sliding downwards. Moments later you are flying
+through thin air to land in a heap on the ground. A sinking feeling overtakes
+you as you realize where you are. Well, Neifirst had to have SOME way to get
+her monsters into the pit...
+~
+134 29 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 13519
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 13525
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13529
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 13523
+S
+#13614
+A door made of human bones~
+A gruesome barrier blocks your passage north - a "door" constructed entirely of
+human remains. Femurs have been lashed to radii with tendons. Finger bones hang
+limply from strands of cartilage. Dry, yellowed skin is stretched between
+cracked shoulder blades. Only one item is missing from the horrible assemblage:
+a human skull.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+door bones barrier~
+ ~
+ ~
+2 13413 13615
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 13594
+S
+#13615
+A door made of human bones~
+You make it through the skeletal barrier, and are confronted by another. You
+sense that the cost of passage here will be the same as before: one life...
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+door bones barrier~
+ ~
+ ~
+2 13413 13616
+D2
+ ~
+door bones barrier~
+ ~
+ ~
+2 13413 13614
+S
+#13616
+A door made of human bones~
+To the north of you is another door of bone. Surely the end of the passage is
+near. How many lives must you take before reaching it?
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+door bones barrier~
+ ~
+ ~
+2 13413 13617
+D2
+ ~
+door bones barrier~
+ ~
+ ~
+2 13413 13615
+S
+#13617
+A door made of human bones~
+Thick white smoke rolls out from the gaps in the door to the north. You sense
+that the final battle is before you...if you have the last key.
+~
+134 27 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+door bones barrier~
+$n heroically enters Thanos's lair.~
+$n arrives for the final battle.~
+2 13413 13618
+D2
+ ~
+door bones barrier~
+ ~
+ ~
+2 13413 13616
+S
+#13618
+Den of the Necromancer~
+At long last you stand before the master necromancer, Thanos. The room is a
+temple to death, with human remains scattered everywhere. The floor is of
+obsidian; the walls of dark malachite. A throne made of human skulls is in the
+center of the room, supported by a pedestal built from arm and leg bones. From
+this room Thanos controls his network of dark mages, drawing power from all the
+deaths in the lands of Medievia.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+3 -1 13619
+D2
+ ~
+door bones barrier~
+ ~
+ ~
+2 13413 13617
+S
+#13619
+The treasure room of Thanos~
+With the evil Thanos defeated, his treasures are yours for the taking. Although
+most of the items here are only useful to practitioners of necromancy, there is
+a fair amount of gold lying about, and you're sure you can find something to do
+with THAT. There is some writing on the wall directly in front of you, and a
+small silver plaque is on the east wall.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+2 -1 13618
+E
+writing song~
+It appears to be a work, titled "The Song of the Swords", that describes twelve
+Swords of Power created by the gods. It is written in an ancient script that
+you have great difficulty making out. You are only able to read two of the
+stanzas in full:
+'Farslayer howls across the world
+ For thy heart, for thy heart, who hast wronged me!
+ Vengeance is his who casts the blade
+ Yet he will in the end no triumph see.'
+'Whose flesh the Sword of Mercy hurts has drawn no breath;
+ Whose soul it heals has wandered in the night,
+ Has paid the summing of all debts in death
+ Has turned to see returning light.'
+Time has blurred the other stanzas, making only bits and pieces of them
+discernable.
+~
+E
+plaque silver~
+                            Den of the Necromancer
+                      Written by Restiana in October 1995
+            Are you brave enough to face the full power of Vecanti?
+                       Coming soon: The Keep of Darkness
+~
+S
+#13620
+The kludge room~
+Reset equipment loads in this room (before it loads in the rest of the zone) to
+prevent players from getting equipment more than once per reset. This is also a
+good place to stick the unused versions of Thanos so the resets file can be
+edited quickly and easily.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+S
+#13621
+Climbing the thick moss~
+You'd never have believed this was possible without trying it. The moss holds
+your weight firmly and easily, and you make rapid progress upwards.
+~
+134 25 1 0
+0 0 0 0
+0 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 0 13502
+D5
+ ~
+ ~
+ ~
+ ~
+1 0 13501
+S
+#19999
+$~

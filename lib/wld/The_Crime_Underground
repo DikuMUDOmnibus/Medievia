@@ -1,0 +1,1426 @@
+#13300
+Hidden Wall~
+You are standing inside a cramped room within the shack. The walls are lined
+with beds, but they all seem rather dusty to have been occupied recently.
+Judging by the thick layer of dust on the floor, it has been ages since anyone
+was in this room.
+~
+133 8 0 0
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 13304
+D5
+You can see the outline of a trapdoor, disguised to look like the floorboards.
+~
+trapdoor~
+ ~
+ ~
+4 -1 13301
+E
+bed~
+ Examining the bed closely, you notice a small clasp hidden between the bed
+and the eastern wall. You also notice that all the other beds all have
+Pillows and that this bed is Pillowless..
+~
+S
+#13301
+Hidden Ladder~
+This is an old, decaying wooden ladder which lies hidden inside the walls
+of the shack. A think blanket of dust lies on the rungs of the ladder
+making it slick and almost impossible to climb. You notice several
+scratching into the walls as you try and make your way through these hidden
+chambers.
+~
+133 9 0 7
+0 0 0 0
+0 0 0
+D4
+You can see the outline of a trapdoor.
+~
+trapdoor~
+ ~
+ ~
+1 -1 13300
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 13302
+E
+ladder~
+A large wooden ladder is your ownly route downward.  A few scratches
+shows that it has been used by people with armor and weapons.
+~
+E
+scartching scratchings wall walls~
+ There are several scratching which have been engraved into the decaying
+wood. You recognize part of the scratching and translate it out to read:
+ - Be weary, for you are entering the Abyss of Vonleige Master Thief
+~
+S
+#13302
+Hidden Room~
+ You are inside a large hidden room which is filled with cobwebs and dust.
+Hidden amongst the dust and cobwebs you see several sealed wooden boxes
+and crates. Small rodents scurry underneath your feet in search of food
+and shelter.
+~
+133 9 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+crate~
+ ~
+ ~
+4 13301 13303
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 13301
+E
+crate~
+ The crate seems to be quite sturdy and strong. It seems to be made from
+some type of solid oak and resists all your efforts in prying it open.
+Perhaps you should use the proper tool. Say a Crowbar?
+~
+S
+#13303
+Hidden Alley~
+This is a dimly lit corridor which lies beneath the decaying, old shack.
+The alleyway is littered with trash and debris, small rodents scurry
+away from the cats which pursue them.
+~
+133 8 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 13305
+D3
+ ~
+crate~
+ ~
+ ~
+1 13301 13302
+E
+crate~
+ The crate seems to be quite sturdy and strong. It seems to be made from
+some type of solid oak and resists all your efforts in prying it open.
+Perhaps you could use the proper tool, say a Crowbar?
+~
+S
+#13304
+Outside an Old Shack~
+You stand on the ricketty porch outside a crumbling shed.  A narrow
+door hangs open on its hinges, leading inside.  There are small holes
+in the walls where the wooden planks and warped and bent apart.  The roof
+is sagging downward, threatening to cave in.
+~
+133 8 0 0
+0 8 0 0
+0 0 0
+D0
+~
+~
+~
+~
+0 0 63412
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 13300
+D2
+~
+~
+~
+~
+0 0 63411
+D3
+~
+~
+~
+~
+0 0 63413
+S
+#13305
+Hidden Alley~
+ You are inside a very, dimly lit alleyway. You can hear the squeaking of
+rodents as they scurry across the alley in search of food. Large piles of
+garbage and debris are scattered about making movement nearly impossible.
+~
+133 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 13303
+D5
+ ~
+grate~
+ ~
+ ~
+1 -1 13306
+S
+#13306
+Hidden Passage~
+ You are in a large stone passageway, which is almost completely dark.
+Water trickles down the sides of the wall, feeding the now stagnant
+puddles of water which lie beneath your feet. The passageway veers off in
+four directions from here.
+~
+133 9 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 13313
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 13320
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 13307
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 13328
+D4
+ ~
+grate~
+ ~
+ ~
+1 -1 13305
+S
+#13307
+Hidden Passage (South)~
+ You are in a large stone passageway, which is almost completely dark.
+Water trickles down the sides of the wall, feeding the now stagnant
+puddles of water which lie beneath your feet.
+~
+133 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 13306
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 13310
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 13308
+S
+#13308
+Hidden Passage (South)~
+ You are in a large stone passageway, which is almost completely dark.
+Water trickles down the sides of the wall, feeding the now stagnant
+puddles of water which lie beneath your feet.
+~
+133 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 13307
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 13311
+S
+#13310
+Hidden Niche~
+ This is a hidden indentation in the southern passageway to allow sentrys
+or scouts to watch adventurers unnoticed. Since the indentation runs
+towards the north, many travelers could not spot you until you have
+already attacked or fled further.
+~
+133 9 0 7
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 13307
+S
+#13311
+Hidden Passage (South)~
+ You are in a large stone passageway, which is almost completely dark.
+Water trickles down the sides of the wall, feeding the now stagnant
+puddles of water which lie beneath your feet.
+~
+133 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 13308
+D1
+ ~
+door~
+ ~
+ ~
+1 -1 13312
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 13347
+S
+#13312
+Meeting Room~
+ This is a large stone room which is moderately lit. There is a large oaken
+table towards the center of the room which is lined with chairs. Scattered
+about the table are maps and plans of Medievia.
+~
+133 8 0 7
+0 0 0 0
+0 0 0
+D3
+ ~
+door~
+ ~
+ ~
+1 -1 13311
+E
+table~
+A large oaken table rests in the middle of this damp room.  Signs of
+life have been left, plans and other works of crime also.
+~
+E
+plan plans~
+You look at the plans and notice that the Medievian Bank has been circled
+in a dark red outline.
+Another piece of parchment depicts a magical portal with an arrow pointing
+north, and the word Trellor written in bold print.
+~
+S
+#13313
+Hidden Passage (North)~
+ You are in a large stone passageway, which is almost completely dark.
+Water trickles down the sides of the wall, feeding the now stagnant
+puddles of water which lie beneath your feet.
+~
+133 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 13314
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 13306
+S
+#13314
+Hidden Passage (North)~
+ You are in a large stone passageway, which is almost completely dark.
+Water trickles down the sides of the wall, feeding the now stagnant
+puddles of water which lie beneath your feet.
+~
+133 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 13315
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 13313
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 13332
+S
+#13315
+Empty Room~
+ This is a large empty room which is lit by several large torches which hang
+about the walls. The torches flicker and dance, emitting strange shadows and
+shapes which seem to spring forth.
+~
+133 8 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+stone wall~
+ ~
+ ~
+3 -1 13316
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 13314
+S
+#13316
+The Black Market~
+ You are inside a large room which is filled with many booths and vendors.
+Some of the booths contain enormous weapons, while others contain the most
+tiny vials. People slip in and out of the shadows here, being cautious not
+to be spotted.
+~
+133 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 13318
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 13319
+D2
+An old wooden door.
+~
+door~
+ ~
+ ~
+1 -1 13315
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 13317
+S
+#13317
+Black Market (Weaponsmith)~
+ You are inside a large room which is filled with many booths and vendors.
+Some of the booths contain enormous weapons, while others contain the most
+tiny vials. People slip in and out of the shadows here, being cautious not
+to be spotted.
+~
+133 8 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 13316
+S
+#13318
+Black Market (Armory)~
+ You are inside a large room which is filled with many booths and vendors.
+Some of the booths contain enormous weapons, while others contain the most
+tiny vials. People slip in and out of the shadows here, being cautious not
+to be spotted.
+~
+133 8 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 13316
+S
+#13319
+Black Market (Grocer)~
+ You are inside a large room which is filled with many booths and vendors.
+Some of the booths contain enormous weapons, while others contain the most
+tiny vials. People slip in and out of the shadows here, being cautious not
+to be spotted.
+~
+133 8 0 0
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 13316
+S
+#13320
+Hidden Passage (East)~
+ You are in a large stone passageway, which is almost completely dark.
+Water trickles down the sides of the wall, feeding the now stagnant
+puddles of water which lie beneath your feet.
+~
+133 9 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 13321
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 13306
+S
+#13321
+Hidden Passage (East)~
+ You are in a large stone passageway, which is almost completely dark.
+Water trickles down the sides of the wall, feeding the now stagnant
+puddles of water which lie beneath your feet.
+~
+133 9 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 13322
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 13320
+S
+#13322
+Hidden Passage (East)~
+ You are in a large stone passageway, which is almost completely dark.
+Water trickles down the sides of the wall, feeding the now stagnant
+puddles of water which lie beneath your feet.
+~
+133 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 13323
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 13352
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 13321
+S
+#13323
+Hidden Stairwell~
+ This is a stone stairwell which leads down into utter darkness. Water
+descends from the ceiling and drips into stagnant puddles on the stairs,
+leaving the ceiling free for the arachnids which crawl forth.
+~
+133 9 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 13322
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 13324
+S
+#13324
+Hidden Stairwell~
+ This is a stone stairwell which leads down into utter darkness. Water
+descends from the ceiling and drips into stagnant puddles on the stairs,
+leaving the ceiling free for the arachnids which crawl forth.
+~
+133 9 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+wooden door~
+ ~
+ ~
+1 -1 13325
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 13323
+S
+#13325
+Hidden Laboratory~
+ This is a large work area, which is filled with sleeves and cabinets. Lying
+amidst most of the cabinets and tables are vials filled with mysterious
+colored objects, some of which still move slowly. There is a large table
+along the western wall which has large straps with which to secure the
+victim.
+~
+133 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 13326
+D1
+You see a large cage which was once used to store lab animals.~
+cage~
+ ~
+ ~
+1 -1 13327
+D2
+ ~
+wooden door~
+ ~
+ ~
+1 -1 13324
+S
+#13326
+Hidden Study~
+ This is a large room, which has been converted into a study. A large oak
+desk lies in the center of the room, and beside the desk lies a heavy
+looking book stand which is filled with books. There are many notes and
+scratching littered about the desk.
+~
+133 8 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 13325
+E
+note notes~
+ Entry #10:
+ Must remember to use fresh parts, experimentation with older organs proves
+to be less responsive and dangerous. It also tends to make the organism
+less stable and unpredictable.
+~
+S
+#13327
+Hidden Cage~
+ This is a large wooden cage which stands about 10' high. It is made from
+sturdy oaken lumber and has a number of large sized scratches upon the
+sides. The straw which covers the ground here has began to rot and smells
+musty.
+~
+133 13 0 0
+0 0 0 0
+0 0 0
+D3
+ ~
+cage~
+ ~
+ ~
+1 -1 13325
+S
+#13328
+Hidden Passage (West)~
+ You are in a large stone passageway, which is almost completely dark.
+Water trickles down the sides of the wall, feeding the now stagnant
+puddles of water which lie beneath your feet.
+~
+133 9 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 13306
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 13329
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 13330
+S
+#13329
+Hidden Post~
+ This is a large stone room which has been converted into a makeshift guard
+post. There are many turned over tables and platforms here, which could be
+hiding the next set of Underworld guards, which could be waiting to spring
+out into you.
+~
+133 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 13328
+D3
+ ~
+door~
+ ~
+ ~
+1 13302 13331
+E
+tables table platform platforms~
+An array of tables and platforms scatter the room, but mainly in one
+area. Paper is tossed about the room's floor.  You wonder if a
+rescent fight has occured here.
+~
+S
+#13330
+Hidden Passage (West)~
+ You are in a large stone passageway, which is almost completely dark.
+Water trickles down the sides of the wall, feeding the now stagnant
+puddles of water which lie beneath your feet.
+~
+133 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 13350
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 13328
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 13336
+S
+#13331
+Hidden Barracks~
+ This is a large stone room which is filled with cots and beds. Cobwebs
+drape from the ceiling and dust lines the furniture and the floor.
+Obviously no-one has been sleeping or resting here recently.
+~
+133 9 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+door~
+ ~
+ ~
+1 13302 13329
+E
+bed beds~
+A small but comfortible bed lays solely on the ground.
+~
+E
+cot cots~
+A small white cot lays in the shadows near the left corner.  Rotten from age
+it might colapse if lain on.
+~
+S
+#13332
+Hidden Passage (North)~
+ You are in a large stone passageway, which is almost completely dark.
+Water trickles down the sides of the wall, feeding the now stagnant
+puddles of water which lie beneath your feet.
+~
+133 9 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 13314
+S
+#13336
+Hidden Passage (West)~
+ You are in a large stone passageway, which is almost completely dark.
+Water trickles down the sides of the wall, feeding the now stagnant
+puddles of water which lie beneath your feet.
+~
+133 9 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 13330
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 13337
+S
+#13337
+Hidden Passage (West)~
+You are in a large stone passageway, which is almost completely dark.
+Water trickles down the sides of the wall, feeding the now stagnant
+puddles of water which lie beneath your feet. The stone of the north
+wall is discolored, as if it weren't natural.
+~
+133 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+stone wall~
+ ~
+ ~
+3 13303 13339
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 13336
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 13338
+S
+#13338
+Hidden Passage (West)~
+ You are in a large stone passageway, which is almost completely dark.
+Water trickles down the sides of the wall, feeding the now stagnant
+puddles of water which lie beneath your feet.
+~
+133 9 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+t~
+ ~
+ ~
+1 3300 13337
+S
+#13339
+Recruiting Station~
+ This is a large room which contain a large oaken desk towards the center
+of the room. Oaken chairs have been lined up against the southern wall, with
+which new entries can rest until they are called upon.
+~
+133 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 13340
+D2
+ ~
+door~
+ ~
+ ~
+1 13303 13337
+S
+#13340
+Thieves' Trial Hall~
+ This is a long arched hallway which contains a large room towards the
+center of it. There are many rune shaped enscriptions etched into the wall
+here. An eerie mist seems to float about the center of the room.
+~
+133 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+door~
+ ~
+ ~
+1 13304 13342
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 13339
+S
+#13342
+Thieves' Trial Hall~
+ This is a long arched hallway which contains a large room towards the
+center of it. There are many rune shaped enscriptions etched into the wall
+here. An eerie mist seems to float about the center of the room.
+~
+133 8 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+door~
+ ~
+ ~
+1 13304 13343
+D2
+ ~
+door~
+ ~
+ ~
+1 13304 13340
+E
+runes etchings etching~
+A large oval etching apears carved into the wall.  Near the center of
+the oval is a line and two 'Vs'.  Very odd indeed!
+~
+S
+#13343
+Thieves' Trial Hall (3/4)~
+This is a long arched hallway which contains a large room towards the
+center of it. There are many rune shaped enscriptions etched into the wall
+here. An eerie mist seems to float about the center of the room.
+The runes here are glowing with a soft, green light.
+~
+133 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+door~
+ ~
+ ~
+1 13304 13344
+D2
+ ~
+door~
+ ~
+ ~
+1 13304 13342
+D3
+ ~
+wall~
+ ~
+ ~
+3 13305 13346
+S
+#13344
+Thieves' Final Trial~
+ This is a long arched hallway which contains a large room towards the
+center of it. There are many rune shaped enscriptions etched into the wall
+here. An eerie mist seems to float about the center of the room, beyond
+the mist you see a white light.
+~
+133 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 13345
+D2
+ ~
+door~
+ ~
+ ~
+1 13304 13343
+S
+#13345
+Magical Passage~
+ This is a large wizard constructed passage which voids all meaning of time
+and space. It seems to construct a bridge of magical swirling light, and on
+the other side lies the center square of Medievia.
+~
+133 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6169
+S
+#13346
+Hidden Treasury~
+ This is a small room which has been hollowed out on the eastern side. It
+was probably constructed as a makeshift shelter for a thief to store his
+goods in case he couldn't survive the trials.
+~
+133 9 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+wall~
+ ~
+ ~
+4 13305 13343
+S
+#13347
+Hidden Passage (South)~
+ You are in a large stone passageway, which is almost completely dark.
+Water trickles down the sides of the wall, feeding the now stagnant
+puddles of water which lie beneath your feet.
+~
+133 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 13311
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 13348
+S
+#13348
+Hidden Passage (South)~
+ You are in a large stone passageway, which is almost completely dark.
+Water trickles down the sides of the wall, feeding the now stagnant
+puddles of water which lie beneath your feet.
+~
+133 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 13347
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 13349
+S
+#13349
+Vonleige's Study~
+This is a large study which is filled with books and scrolls of thievory
+and trickery. There are several trinkets which are mounted upon the walls,
+no doubt his successful stolen property mounted for display.
+~
+133 8 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 13348
+E
+dagger daggers blade blades dirk dirks~
+Two beautiful platinum blue dirks lay crossing each other.  Jewels
+encrust its outer blades and a blue moonstone stands on the hilt.
+A marvelous peice of work indeed!
+~
+S
+#13350
+Hidden Barracks~
+ This is a large stone room which is filled with cots and bunks. There are
+many piles of crates and sacks here, obviously dragged in here by their
+owners so that their property could be closer to them.
+~
+133 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 13351
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 13330
+E
+crate crates sack sacks~
+A few crates and sacks are piled up in a disorganized fashion.  Small
+amounts of booty can be seen jammed in the baggage.
+~
+E
+cots cot bunk bunks~
+A few cots and bunks line the area.  Now old and unsturdy it is not
+safe to rest upon these ones comfortible sleeping areas.
+~
+S
+#13351
+Hidden Barracks~
+ This is a large stone room which is filled with cots and bunks. There are
+many piles of crates and sacks here, obviously dragged in here by their
+owners so that their property could be closer to them.
+~
+133 8 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 13350
+S
+#13352
+Entrance to The Hidden Training Grounds~
+ This is a very large room which is divided into larger sections, all of
+which have practice dummies or some other method of training upon them. The
+ground here is worn from casual usage, and blood stains have been
+splattered among the walls and floors.
+~
+133 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 13322
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 13353
+S
+#13353
+Hidden Training Grounds~
+ This is a very large room which is divided into larger sections, all of
+which have practice dummies or some other method of training upon them. The
+ground here is worn from casual usage, and blood stains have been
+splattered among the walls and floors.
+~
+133 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 13352
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 13356
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 13355
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 13354
+S
+#13354
+Hidden Training Grounds~
+ This is a very large room which is divided into larger sections, all of
+which have practice dummies or some other method of training upon them. The
+ground here is worn from casual usage, and blood stains have been
+splattered among the walls and floors.
+~
+133 8 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 13353
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 13357
+S
+#13355
+Center of The Hidden Training Grounds~
+ This is a very large room which is divided into larger sections, all of
+which have practice dummies or some other method of training upon them. The
+ground here is worn from casual usage, and blood stains have been
+splattered among the walls and floors.
+~
+133 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 13353
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 13358
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 13360
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 13357
+S
+#13356
+Hidden Training Grounds~
+ This is a very large room which is divided into larger sections, all of
+which have practice dummies or some other method of training upon them. The
+ground here is worn from casual usage, and blood stains have been
+splattered among the walls and floors.
+~
+133 8 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 13358
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 13353
+S
+#13357
+Hidden Training Grounds~
+ This is a very large room which is divided into larger sections, all of
+which have practice dummies or some other method of training upon them. The
+ground here is worn from casual usage, and blood stains have been
+splattered among the walls and floors.
+~
+133 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 13354
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 13355
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 13359
+S
+#13358
+Hidden Training Grounds~
+ This is a very large room which is divided into larger sections, all of
+which have practice dummies or some other method of training upon them. The
+ground here is worn from casual usage, and blood stains have been
+splattered among the walls and floors.
+~
+133 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 13356
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 13361
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 13355
+S
+#13359
+Hidden Training Grounds~
+ This is a very large room which is divided into larger sections, all of
+which have practice dummies or some other method of training upon them. The
+ground here is worn from casual usage, and blood stains have been
+splattered among the walls and floors.
+~
+133 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 13357
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 13360
+S
+#13360
+Hidden Training Grounds~
+ This is a very large room which is divided into larger sections, all of
+which have practice dummies or some other method of training upon them. The
+ground here is worn from casual usage, and blood stains have been
+splattered among the walls and floors.
+~
+133 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 13355
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 13361
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 13359
+S
+#13361
+Hidden Training Grounds~
+ This is a very large room which is divided into larger sections, all of
+which have practice dummies or some other method of training upon them. The
+ground here is worn from casual usage, and blood stains have been
+splattered among the walls and floors.
+~
+133 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 13358
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 13360
+S
+#19999
+$~

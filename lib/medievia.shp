@@ -1,0 +1,1922 @@
+#0~
+-1
+-1
+-1
+-1
+-1
+-1
+1.1
+1.0
+0
+0
+0
+0
+0
+%s Haven't got that on storage - try list!~
+%s I don't buy!~
+%s I don't buy!~
+%s I don't buy!~
+%s If you have no money, you'll have to go!~
+%s That'll be %d coins.~
+%s Oops - %d a minor bug - please report!~
+0
+0
+12
+0
+4482
+0
+28
+0
+0
+#1~
+-1
+-1
+3005
+3003
+3000
+3001
+1.1
+1.0
+0
+0
+0
+0
+0
+%s It's very noisy in here, what did you say you wanted to buy?~
+%s I don't buy!~
+%s I don't buy!~
+%s I don't buy!~
+%s Are you drunk or what ?? - NO CREDIT!~
+%s That'll be %d coins.~
+%s Oops - %d a minor bug - please report!~
+0
+0
+3040
+0
+75
+0
+28
+0
+0
+#1~
+-1
+-1
+-1
+-1
+-1
+-1
+1.1
+1.0
+0
+0
+0
+0
+0
+%s Excuse me, what did you say you wanted to buy?~
+%s I don't buy!~
+%s I don't buy!~
+%s I don't buy!~
+%s Are you deaf or what ?? - NO CREDIT!~
+%s That'll be %d coins, have a nice day.~
+%s Oops - %d a minor bug - please report!~
+0
+0
+1555
+0
+6021
+0
+28
+0
+0
+#1~
+-1
+-1
+-1
+-1
+-1
+-1
+1.1
+1.0
+0
+0
+0
+0
+0
+%s It's very noisy in here, what did you say you wanted to order?~
+%s I don't buy, this is a restaurant!~
+%s I don't buy, this is a restaurant!~
+%s I don't buy, this is a restaurant!~
+%s I'm sorry, you just can't afford that.~
+%s That'll be %d coins, please.~
+%s Oops - %d a minor bug - please report!~
+0
+0
+1556
+0
+6022
+0
+28
+0
+0
+#2~
+-1
+-1
+-1
+-1
+-1
+-1
+1.3
+0.8
+5
+6
+7
+0
+0
+%s I haven't got that kind of a weapon.~
+%s You don't carry that weapon.~
+%s I only buy weapons.~
+%s I can't afford such a great weapon.~
+%s sorry, but NO CREDIT~
+%s That just costs %d coins.~
+%s Here you have %d coins for that.~
+0
+0
+3003
+0
+64
+0
+28
+0
+0
+#3~
+3030
+3031
+3032
+3138
+3034
+3035
+1.7
+0.6
+1
+15
+19
+13
+12
+%s Haven't got that on storage - try list!~
+%s You don't seem to have that.~
+%s I don't buy THAT,... Try another shop.~
+%s I can't afford such a treasure.~
+%s You can't afford it!~
+%s That'll be %d coins, please.~
+%s You'll get %d coins for it!~
+0
+0
+3002
+0
+66
+0
+28
+0
+0
+#4~
+3078
+3079
+3080
+3081
+3082
+3083
+1.0
+0.7
+9
+11
+0
+0
+0
+%s Haven't got that on storage - try list!~
+%s You don't seem to have that.~
+%s I only buy armours.. Go away!~
+%s That is too expensive for me - Try a wizard!~
+%s You can't afford it!~
+%s That'll be %d coins, please.~
+%s You'll get %d coins for it!~
+0
+0
+3004
+0
+65
+0
+28
+0
+0
+#6~
+-1
+-1
+-1
+-1
+-1
+-1
+1.0
+1.0
+8
+0
+0
+0
+0
+%s Haven't got that on storage - try list!~
+%s You don't seem to have that.~
+%s I only buy fine jewelry and precious metals.~
+%s That is such an expensive item that I dare not possess it!~
+%s Don't waste my time, you can't afford that!~
+%s That'll be %d coins, please.~
+%s You'll get %d coins for it!~
+0
+0
+3009
+0
+85
+5
+12
+13
+26 
+#7~
+3065
+3064
+3063
+3060
+3061
+3062
+1.1
+.8
+11
+0
+0
+0
+0
+%s Haven't got that on storage - try list!~
+%s I don't buy!~
+%s I don't buy!~
+%s I don't buy!~
+%s If you have no money, you'll have to go!~
+%s That'll be %d coins.~
+%s Hrmm, maybe I could use it for rags.. here's %d gold for it.~
+0
+0
+3010
+0
+86
+0
+28
+0
+0
+#8~
+-1
+-1
+-1
+-1
+-1
+-1
+1.1
+1.0
+0
+0
+0
+0
+0
+%s Haven't got that on storage - try list!~
+%s I don't buy!~
+%s I don't buy!~
+%s I don't buy!~
+%s If you have no money, you'll have to go!~
+%s That'll be %d coins.~
+%s Oops - %d a minor bug - please report!~
+0
+0
+3047
+0
+389
+0
+28
+0
+0
+#9~
+-1
+-1
+-1
+-1
+-1
+-1
+1.1
+1.0
+0
+0
+0
+0
+0
+%s Haven't got that on storage - try list!~
+%s I don't buy!~
+%s I don't buy!~
+%s I don't buy!~
+%s If you have no money, you'll have to go!~
+%s That'll be %d coins.~
+%s Oops - %d a minor bug - please report!~
+0
+0
+3048
+0
+390
+0
+28
+0
+0
+#10~
+-1
+-1
+-1
+-1
+-1
+-1
+1.3
+1.0
+0
+0
+0
+0
+0
+%s Haven't got that on storage - try list!~
+%s I don't buy!~
+%s I don't buy!~
+%s I don't buy!~
+%s If you have no money, you'll have to go!~
+%s That'll be %d coins.~
+%s Oops - %d a minor bug - please report!~
+0
+0
+1336
+0
+388
+6
+21
+0
+0
+#11~
+-1
+-1
+-1
+-1
+-1
+-1
+1.1
+1.0
+0
+0
+0
+0
+0
+%s Haven't got that on storage - try list!~
+%s I don't buy!~
+%s I don't buy!~
+%s I don't buy!~
+%s If you have no money, you'll have to go!~
+%s That'll be %d coins.~
+%s Oops - %d a minor bug - please report!~
+0
+0
+3049
+0
+387
+0
+28
+0
+0
+#13~
+-1
+-1
+-1
+-1
+-1
+-1
+1.1
+1.0
+0
+0
+0
+0
+0
+%s Haven't got that on storage - try list!~
+%s I don't buy!~
+%s I don't buy!~
+%s I don't buy!~
+%s If you have no money, you'll have to go!~
+%s That'll be %d coins.~
+%s Oops - %d a minor bug - please report!~
+0
+0
+4725
+0
+2635
+0
+28
+0
+0
+#14~
+-1
+-1
+-1
+-1
+-1
+-1
+1.1
+1.0
+0
+0
+0
+0
+0
+%s Haven't got that on storage - try list!~
+%s I don't buy!~
+%s I don't buy!~
+%s I don't buy!~
+%s If you have no money, you'll have to go!~
+%s That'll be %d coins.~
+%s Oops - %d a minor bug - please report!~
+0
+0
+4723
+0
+2642
+0
+28
+0
+0
+#15~
+-1
+-1
+-1
+-1
+-1
+-1
+1.1
+1.0
+0
+0
+0
+0
+0
+%s Haven't got that on storage - try list!~
+%s I don't buy!~
+%s I don't buy!~
+%s I don't buy!~
+%s If you have no money, you'll have to go!~
+%s That'll be %d coins.~
+%s Oops - %d a minor bug - please report!~
+0
+0
+4727
+0
+2641
+0
+28
+0
+0
+#16~
+-1
+-1
+-1
+-1
+-1
+-1
+1.1
+1.0
+0
+0
+0
+0
+0
+%s Haven't got that on storage - try list!~
+%s I don't buy!~
+%s I don't buy!~
+%s I don't buy!~
+%s If you have no money, you'll have to go!~
+%s That'll be %d coins.~
+%s Oops - %d a minor bug - please report!~
+0
+0
+4726
+0
+2640
+0
+28
+0
+0
+#17~
+-1
+-1
+-1
+-1
+-1
+-1
+1.1
+1.0
+0
+0
+0
+0
+0
+%s Haven't got that on storage - try list!~
+%s I don't buy!~
+%s I don't buy!~
+%s I don't buy!~
+%s If you have no money, you'll have to go!~
+%s That'll be %d coins.~
+%s Oops - %d a minor bug - please report!~
+0
+0
+3006
+0
+3530
+0
+28
+0
+0
+#18~
+1352
+1306
+3009
+1304
+3309
+-1
+1.1
+1.0
+0
+0
+0
+0
+0
+%s Haven't got that on storage - try list!~
+%s I don't buy!~
+%s I don't buy!~
+%s I don't buy!~
+%s If you have no money, you'll have to go!~
+%s That'll be %d coins.~
+%s Oops - %d a minor bug - please report!~
+0
+0
+4724
+0
+2634
+0
+28
+0
+0
+#20~
+-1
+-1
+-1
+-1
+-1
+-1
+1.1
+1.0
+0
+0
+0
+0
+0
+%s It's very noisy in here, what did you say you wanted to buy?~
+%s I don't buy!~
+%s I don't buy!~
+%s I don't buy!~
+%s Are you drunk or what ?? - NO CREDIT!~
+%s That'll be - say %d coins.~
+%s Oops - %d a minor bug - please report!~
+0
+0
+308
+0
+2333
+0
+28
+0
+0
+#21~
+3030
+3031
+3032
+3138
+3034
+3035
+1.5
+0.4
+1
+15
+19
+13
+8
+%s Haven't got that on storage - try list!~
+%s You don't seem to have that.~
+%s I don't buy THAT,... Try another shop.~
+%s I can't afford such a treasure.~
+%s You can't afford it!~
+%s That'll be %d coins, please.~
+%s You'll get %d coins for it!~
+0
+0
+2999
+0
+2271
+0
+28
+0
+0
+#22~
+-1
+-1
+-1
+-1
+-1
+-1
+1.0
+1.0
+0
+0
+0
+0
+0
+%s Sorry, I don't sell that.~
+%s I don't buy!~
+%s I don't buy!~
+%s I don't buy!~
+%s You can't afford that, get out!~
+%s Give me %d gold coins for that.~
+%s I don't buy!~
+0
+0
+309
+0
+3562
+0
+28
+0
+0
+#23~
+-1
+-1
+-1
+-1
+-1
+-1
+1.0
+1.0
+0
+0
+0
+0
+0
+%s Sorry, I don't sell that.~
+%s I don't buy!~
+%s I don't buy!~
+%s I don't buy!~
+%s You can't afford that, get out!~
+%s Give me %d gold coins for that.~
+%s I don't buy!~
+0
+0
+11
+0
+3099
+0
+28
+0
+0
+#24~
+-1
+-1
+-1
+-1
+-1
+-1
+1.2
+0.9
+0
+0
+0
+0
+0
+%s I'm very sorry, I don't sell that particular food item.~
+%s I'm a grocer, I don't BUY food!~
+%s I'm a grocer, I don't BUY food!~
+%s I'm a grocer, I don't BUY food!~
+%s I'd like to sell this, but I just can't afford to lower my prices.~
+%s That will be %d coins, thank you for your service.~
+%s I'm a grocer, I don't BUY food!~
+0
+0
+5613
+0
+3710
+4
+27
+0
+0
+#25~
+-1
+-1
+-1
+-1
+-1
+-1
+1.3
+0.5
+9
+0
+0
+0
+0
+%s I don't sell that particular type of armor.~
+%s You don't seem to have that.~
+%s I only buy armor, try another shop.~
+%s Hmph, you think I would be fool enough to pay that much?~
+%s Fool, come back after you've stole some more money.~
+%s That'll be %d coins.~
+%s You'll get %d coins for that, and nothing more.~
+0
+0
+5635
+0
+3799
+0 
+28
+0
+0
+#26~
+-1
+-1
+-1
+-1
+-1
+-1
+1
+1
+8
+0
+0
+0
+0
+%s I don't seem to have that.~
+%s I don't see that on you.~
+%s I only buy gems, jewellery, and other treasure.~
+%s Er, I don't have that much on me at the moment.~
+%s You don't seem to have that much.~
+%s That'll be %d coins.~
+%s I'll give you %d for that!~
+0
+0
+5634
+0
+3924
+0
+28
+0
+0
+#27~
+-1
+-1
+-1
+-1
+-1
+-1
+1.2
+1.0
+0
+0
+0
+0
+0
+%s I don't seem to have that type of leather.~
+%s I don't buy!~
+%s I don't buy!~
+%s I don't buy!~
+%s You can't afford that, I'm sorry.~
+%s That'll be %d coins, please.~
+%s I don't buy!~
+0
+0
+5633
+0
+5880
+0
+28
+0
+0
+#28~
+-1
+-1
+-1
+-1
+-1
+-1
+1.3
+1.0
+0
+0
+0
+0
+0
+%s I'm sorry, but I don't sell that.~
+%s I don't buy!~
+%s I don't buy!~
+%s I don't buy!~
+%s You can't afford that, sorry.~
+%s That'll be %d coins, please.~
+%s I don't buy!~
+0
+0
+5632
+0
+5872
+7
+17
+0
+0
+#29~
+-1
+-1
+-1
+-1
+-1
+-1
+1.2
+1.0
+0
+0
+0
+0
+0
+%s I don't seem to have that in stock.~
+%s I don't buy!~
+%s I don't buy!~
+%s I don't buy!~
+%s You can't afford that.~
+%s That'll be %d coins.~
+%s I don't buy!~
+0
+0
+5637
+0
+5873
+9
+17
+0
+0
+#30~
+-1
+-1
+-1
+-1
+-1
+-1
+1.3
+1.0
+0
+0
+0
+0
+0
+%s I don't seem to have that in particular item in stock.~
+%s I don't buy wedding supplies, I only SELL them!~
+%s I don't buy wedding supplies, I only SELL them!~
+%s I don't buy wedding supplies, I only SELL them!~
+%s You don't seem to have that much gold.~
+%s That'll be %d coins, please.~
+%s I don't buy wedding supplies, I only SELL them!~
+0
+0
+1552
+0
+245
+9
+17
+0
+0
+#31~
+-1
+-1
+-1
+-1
+-1
+-1
+3.0
+0.1
+5
+8
+9
+10
+15
+%s I don't have that at the moment, perhaps if you return later...~
+%s You don't have that on you, do you think I'm blind?~
+%s I may be a pawn broker, but I can't buy just ANYTHING.~
+%s Come back later when I can afford that.~
+%s Come back later when YOU can afford that.~
+%s That'll be %d coins, have a nice day.~
+%s I'll give you %d coins for that, nothing more.~
+0
+0
+5631
+0
+243
+0
+28
+0
+0
+#32~
+-1
+-1
+-1
+-1
+-1
+-1
+1.2
+1.0
+0
+0
+0
+0
+0
+%s I only sell meat, meat, and more meat!~
+%s I don't buy, but I may make an exception if you part with a leg.~
+%s I don't buy, but I may make an exception if you part with a leg.~
+%s I don't buy, but I may make an exception if you part with a leg.~
+%s You don't have enough money, but we could always trade meat for meat.~
+%s That'll be %d coins, and a couple of your fingers, please.~
+%s I don't buy, but I may make an exception if you part with a leg.~
+0
+0
+5604
+0
+230
+0
+28
+0
+0
+#33~
+-1
+-1
+-1
+-1
+-1
+-1
+1.1
+1.0
+0
+0
+0
+0
+0
+%s I don't have that in my stock, perhaps if you come by later...~
+%s I don't buy, I sell!~
+%s I don't buy, I sell!~
+%s I don't buy, I sell!~
+%s You don't have enough money for that, peasant.~
+%s That'll be %d coins, carry on.~
+%s I don't buy, I sell!~
+0
+0
+5616
+0
+6035
+0
+28
+0
+0
+#34~
+-1
+-1
+-1
+-1
+-1
+-1
+1.1
+1.0
+0
+0
+0
+0
+0
+%s Could I get you something else?~
+%s I don't buy, this is a tavern!~
+%s I don't buy, this is a tavern!~
+%s I don't buy, this is a tavern!~
+%s Come back later with some more gold in your pockets.~
+%s That will be only %d coins, thank you sir.~
+%s I don't buy, this is a tavern!~
+0
+0
+5639
+0
+3943
+0
+28
+0
+0
+#35~
+-1
+-1
+-1
+-1
+-1
+-1
+1.3
+1.0
+0
+0
+0
+0
+0
+%s I don't have that item, if you leave an order...~
+%s I don't buy, I'm sorry.~
+%s I don't buy, I'm sorry.~
+%s I don't buy, I'm sorry.~
+%s You cannot afford that, please come back later.~
+%s That will be ONLY %d coins!~
+%s I don't buy, I'm sorry.~
+0
+0
+5630
+0
+3940
+5
+20
+0
+0
+#35~
+-1
+-1
+-1
+-1
+-1
+-1
+1.3
+1.0
+0
+0
+0
+0
+0
+%s I don't have that item, if you leave an order...~
+%s I don't buy, I'm sorry.~
+%s I don't buy, I'm sorry.~
+%s I don't buy, I'm sorry.~
+%s You cannot afford that, please come back later.~
+%s That will be ONLY %d coins!~
+%s I don't buy, I'm sorry.~
+0
+0
+1554
+0
+240
+5
+20
+0
+0
+#36~
+-1
+-1
+-1
+-1
+-1
+-1
+1.3
+1.0
+0
+0
+0
+0
+0
+%s I don't have that particular potion, but if you come back later...~
+%s I'm sorry, but I don't buy.~
+%s I'm sorry, but I don't buy.~
+%s I'm sorry, but I don't buy.~
+%s You cannot afford that, at the moment.~
+%s Thank you for your business, that will be %d coins.~
+%s I'm sorry, but I don't buy.~
+0
+0
+5629
+0
+3817
+5
+20
+0
+0
+#37~
+-1
+-1
+-1
+-1
+-1
+-1
+1.2
+0.5
+5
+0
+0
+0
+0
+%s I don't have that in stock, perhaps try the other rooms.~
+%s You don't have that.~
+%s I only buy weapons, get out.~
+%s Sorry, running on limited funds at the moment.~
+%s You can't afford that, get out.~
+%s That'll be only %d coins.~
+%s I'll give you %d coins for that, don't argue with me.~
+0
+0
+5636
+0
+3810
+7
+18
+0
+0
+#38~
+-1
+-1
+-1
+-1
+-1
+-1
+1.2
+0.5
+0
+0
+0
+0
+0
+%s I don't have that in stock, perhaps try the other shops.~
+%s You don't have that.~
+%s I don't buy, try the main room of the shop.~
+%s Sorry, running on limited funds at the moment.~
+%s You can't afford that, get out.~
+%s That'll be only %d coins.~
+%s I'm not supposed to sell, please tell a God.~
+0
+0
+5661
+0
+3818
+7
+18
+0
+0
+#39~
+-1
+-1
+-1
+-1
+-1
+-1
+1.2
+0.5
+21
+12
+15
+0
+0
+%s I don't have that in stock, perhaps try the other shops.~
+%s You don't have that.~
+%s I don't buy those, sorry.~
+%s Sorry, running on limited funds at the moment.~
+%s You can't afford that, get out.~
+%s That'll be only %d coins.~
+%s I'll give you %d coins for that.~
+0
+0
+5659
+0
+2114
+7
+18
+0
+0
+#40~
+-1
+-1
+-1
+-1
+-1
+-1
+1.2
+.5
+0
+0
+0
+0
+0
+%s I don't have that in stock, perhaps try the other shops.~
+%s You don't have that.~
+%s I don't buy those, sorry.~
+%s Sorry, running on limited funds at the moment.~
+%s You can't afford that, get out.~
+%s That'll be only %d coins.~
+%s I'm not supposed to buy, please tell a God.~
+0
+0
+3001
+0
+67
+0
+28
+0
+0
+#41~
+-1
+-1
+-1
+-1
+-1
+-1
+1.0
+1.0
+0
+0
+0
+0
+0
+%d I don't sell that, I'm sorry.~
+%d I don't buy, I am but a librarian.~
+%d I don't buy, I am but a librarian.~
+%d I don't buy, I am but a librarian.~
+%d You don't have enough money...~
+%d That will be %d coins, please.~
+%d I don't buy, I am but a librarian.~
+0
+0
+5653
+0
+1379
+0
+28
+0
+0
+#1~
+-1
+-1
+6607
+6608
+6609
+6610
+1
+.9
+19
+17
+0
+0
+0
+%s I'm sorry, but I don't have that item to sell.~
+%s Why don't you get one first, then I'll think about buying it.~
+%s Sorry, I only buy food and drink.~
+%s I couldn't afford that if I wanted it.~
+%s I don't sell on credit, get some gold and we'll talk.~
+%s That will cost you %d coins, thank you.~
+%s Thanks for the merchandise, here's your %d gold pieces.~
+0
+0
+6621
+0
+1256
+0
+28
+0
+0
+#2~
+-1
+-1
+-1
+6643
+6644
+6648
+1
+.6
+2
+3
+4
+0
+0
+%s Do you expect me to just "magic" it up out of thin air?~
+%s Try to sell me something you don't have again and I'll turn you into a frog.~
+%s I have no need for junk like that.~
+%s Maybe some other time, I need my money for more important things.~
+%s You can't afford that, but I can give you a fireball for free.~
+%s That will cost you %d coins, anything else?~
+%s Here is your %d gold pieces for that item.~
+0
+0
+6620
+0
+2464
+0
+28
+0
+0
+#3~
+-1
+-1
+10015
+6675
+6674
+6668
+1
+.9
+18
+21
+13
+0
+0
+%s I don't have that right now, but I'll try to make one for ye.~
+%s I am greatly sorry, but you do not own such an item.~
+%s I am a small business man, I don't deal in such items.~
+%s I can only pray that one day I could afford such a treasure.~
+%s Check yer purse again m'lord.~
+%s I'll need %d coins, here's your purchase.~
+%s Thank you, here is your %d gold coins.~
+0
+0
+6624
+0
+1252
+0
+28
+0
+0
+#4~
+-1
+-1
+6615
+6616
+6617
+6618
+1
+.9
+0
+0
+0
+0
+0
+%s Is that a drink? Sorry, I don't know of it.~
+%s I think someone pilfered it, check your packs again.~
+%s I don't buy, I just serve.~
+%s I can't afford that.~
+%s Sorry pal, I think you've had enough to drink already.~
+%s That'll be %d coins, ask when you want another.~
+%s Here's %d coins, but I really shouldn't buying this, tell a god.~
+0
+0
+6629
+0
+1237
+0
+28
+0
+0
+#5~
+6623
+6624
+6625
+6626
+6627
+6628
+1
+.7
+5
+0
+0
+0
+0
+%s All I have is what you see.~
+%s Perhaps ye lost it in battle, I don't see that item.~
+%s All I'll buy is weapons.~
+%s That is truely a weapon of the gods, I only wish I could afford it.~
+%s You can't afford my wares, go adventure some more.~
+%s That'll be %d gold pieces, may your weapon serve you valiantly.~
+%s Here's your %d gold, thanks for the sale.~
+0
+0
+6631
+0
+1266
+0
+28
+0
+0
+#6~
+-1
+-1
+6631
+6632
+6633
+6634
+1
+.7
+9
+11
+0
+0
+0
+%s All I have is what you see.~
+%s Perhaps ye lost it in battle, I don't see that item.~
+%s All I buy is armor, sorry.~
+%s What magnificent armor, if only I could afford it.~
+%s You can't afford my wares, go adventure some more.~
+%s That'll be %d gold pieces, may your armor serve you well.~
+%s Here's your %d gold, thanks for the sale.~
+0
+0
+6632
+0
+3403
+0
+28
+0
+0
+#7~
+-1
+6629
+6621
+6622
+6620
+6651
+1
+.8
+11
+12
+13
+22
+1
+%s Ummm.... nope, aint got it.~
+%s Bzzt, try again.~
+%s Sorry, I don't buy things like that.~
+%s I'd love to, but I'm broke.~
+%s You better check your pockets again friend.~
+%s That'll cost you %d gold.~
+%s Thanks for the new item, here's your %d gold.~
+0
+0
+6633
+0
+1274
+0
+28
+0
+0
+#8~
+6637
+6638
+6639
+6640
+6641
+6642
+1
+.7
+10 
+0
+0
+0
+0
+%s I haven't been able to brew that up yet, but I'll keep trying.~
+%s Ye doesn't have such an item.~
+%s Potions, potions, alls I buy is potions.~
+%s I can't afford such an elixir.~
+%s Perhaps a kender made off with yer purse lad.~
+%s That's %d gold, here's your potion, don't choke on it.~
+%s Why thank you, here's your %d gold as promised.~
+0 
+0
+6646
+0
+2465
+0
+28
+0
+0
+#9~
+-1
+-1
+-1
+-1
+-1
+-1
+1
+1
+1
+8
+0
+0
+0
+%s I'm not selling anything.~
+%s You do not possess that object.~
+%s I'm only interested in the magical gem to help my people.~
+%s I can not afford that, even if I wanted to buy it.~
+%s You don't have enough gold.~
+%s Here's your %d gold, now tell a god, I'm not supposed to sell things.~
+%s Thank you very much, perhaps this will help my people, here's your %d gold.~
+0
+0
+6623
+0
+2975
+0
+28
+0
+0
+#10~
+-1
+-1
+-1
+-1
+-1
+1552
+1
+.1
+0
+0
+0
+0
+0
+0
+%s I only sell canoes.~
+%s I don't buy, sorry.~
+%s I don't buy, sorry.~
+%s I couldn't afford that, even if I wanted to buy it.~
+%s I'd love to sell you my fine canoe, but alas, you can't afford one.~
+%s That'll be %d coins, here's your craft.~
+%s Here's your %d coins, now tell a god because I'm not supposed to buy.~
+0
+0
+1576
+0
+4838
+6
+11
+13
+19
+#11~
+-1
+-1
+-1
+-1
+26
+27
+1
+1
+12 
+0
+0
+0
+0
+%s What a remarkable idea, perhaps I'll get some in stock later.~
+%s Ye doesn't have such an item.~
+%s That's not odd enough for me to put in my shop.~
+%s I can't afford such an oddity.~
+%s Perhaps a kender made off with yer purse lad.~
+%s That's %d gold, here's your perchase.~
+%s Why thank you, here's your %d gold as promised.~
+0 
+0
+9510
+0
+3595
+0
+28
+0
+0
+#101~
+-1
+-1
+-1
+-1
+-1
+-1
+1
+1
+0 
+0
+0
+0
+0
+%s Please check the menu again.~
+%s This is a coffee house, we don't BUY anything here.~
+%s This is a coffee house, we don't BUY anything here.~
+%s I can't afford that even if I did want it.~
+%s Perhaps ye should check yer purse again.~
+%s That'll be %d cold coins, thank you.~
+%s Why thank you, here's your %d gold as promised.~
+0 
+0
+3100
+0
+598
+0
+28
+0
+0
+#103~
+-1
+-1
+-1
+-1
+-1
+-1
+1
+1
+0 
+0
+0
+0
+0
+%s Please check the shelves again.~
+%s I'm truely sorry young one, but I am not interested in purchasing.~
+%s I'm truely sorry young one, but I am not interested in purchasing.~
+%s I can't afford that even if I did want it.~
+%s Perhaps ye could magic up the rest of the gold?.~
+%s That'll be %d cold coins, thank you.~
+%s Why thank you, here's your %d gold as promised.~
+0 
+0
+13
+0
+880
+0
+28
+0
+0
+#18004~
+-1
+-1
+-1
+-1
+-1
+-1
+1
+1
+0 
+0
+0
+0
+0
+%s Please check the display shelves again.~
+%s I'm truely sorry cutie, but I am not interested in purchasing.~
+%s I'm truely sorry cutie, but I am not interested in purchasing.~
+%s I can't afford that even if I did want it.~
+%s Perhaps you could "earn" the rest of the gold?.~
+%s That'll be %d cold coins, thank you.~
+%s Why thank you, here's your %d gold as promised.~
+0 
+0
+15
+0
+577
+0
+28
+0
+0
+#6901~
+-1
+-1
+-1
+-1
+-1
+-1
+1.1
+.5
+0
+0
+0
+0
+0
+%s In all my years of research, I have never heard of such a thing.~
+%s Unless I am mistaken, you have not that item to sell me.~
+%s I wish not to offend, but nothing you have interests me.~
+%s My humble means would not permit me to purchase such an item.~
+%s Perhaps you should check your purse again young one.~
+%s Make good use of your purchase lad.~
+%s I'm not supposed to buy, please tell Shalafi.~
+0
+0
+6919
+0
+4465
+0
+24
+0
+0
+#7100~
+5600
+1383
+5111
+5108
+6911
+222
+1.3
+0.8
+9
+11
+0
+0
+0
+%s Sorry lad, I haven't got one of those.~
+%s Find one, then try to sell it to me.~
+%s I'm an armourer, this is an armoury, I only buy armors.~
+%s Sorry kid, I don't have that kind of gold.~
+%s I'm not sure where you're from, but in these parts we use gold pieces.~
+%s %d gold pieces and it's all yours.~
+%s Here's your %d gold pieces, as promised.~
+0
+0
+7101
+0
+7158
+0
+28
+0
+0
+#7101~
+7131
+7117
+7116
+7115
+7114
+7113
+1.3
+.8
+0
+0
+0
+0
+0
+%s I'm afraid I haven't got one to sell ya.~
+%s I can't afford to purchase someone elses wares, I have a business to run.~
+%s I can't afford to purchase someone elses wares, I have a business to run.~
+%s I can't afford to purchase someone elses wares, I have a business to run.~
+%s I'm not sure where you're from, but in these parts we use gold pieces.~
+%s %d gold pieces and it's all yours.~
+%s Here's your %d gold pieces, as promised.~
+0
+0
+7103
+0
+7117
+0
+28
+0
+0
+#7102~
+7118
+7119
+7120
+7121
+7122
+7123
+1.3
+0.8
+0
+0
+0
+0
+0
+%s Sorry dear, I haven't got one of those.~
+%s I'm terribly sorry, but I only sell my husbands baked goods.~
+%s I'm terribly sorry, but I only sell my husbands baked goods.~
+%s I'm terribly sorry, but I only sell my husbands baked goods.~
+%s I'm not sure where you're from, but in these parts we use gold pieces.~
+%s %d gold pieces and it's all yours.~
+%s Here's your %d gold pieces, as promised.~
+0
+0
+7105
+0
+7125
+0
+28
+0
+0
+#7103~
+7136
+7137
+7138
+7139
+7140
+-1
+1.3
+0.2
+0
+0
+0
+0
+0
+%s Eh Buddy, check da menu.~
+%s This is a tavern Pal, not a swap meet.~
+%s This is a tavern Pal, not a swap meet.~
+%s This is a tavern Pal, not a swap meet.~
+%s Lemme see some gold there Jerky, I don't give credit.~
+%s %d gold pieces and you can drink yourself stupid.~
+%s Here's your %d gold pieces, as promised.~
+0
+0
+7106
+0
+7157
+0
+28
+0
+0
+#7104~
+101
+5021
+4053
+4003
+706
+10103
+1.3
+0.8
+5
+0
+0
+0
+0
+%s Sorry lad, I haven't got one of those.~
+%s Find one, then try to sell it to me.~
+%s Hey, I only buy weapons friend.~
+%s Sorry kid, I don't have that kind of gold.~
+%s What do you think this is, a swap meet?  Get some gold.~
+%s %d gold pieces and it's all yours.~
+%s Here's your %d gold pieces, as promised.~
+0
+0
+7102
+0
+7159
+0
+28
+0
+0
+#7105~
+13325
+1506
+2289
+12013
+1337
+6737
+1.0
+1.0
+8
+12
+21
+22
+0
+%s I'm truely sorry Friend, I haven't got one of those.~
+%s Find one, then try to sell it to me.~
+%s I'm afraid even I wont buy that :)~
+%s In these hard times, I don't have that kind of gold.~
+%s During the Dark Army's Occupation, I can't afford to give credit.~
+%s %d gold pieces and it's all yours.~
+%s Here's your %d gold pieces, as promised.~
+0
+0
+7111
+0
+7168
+0
+28
+0
+0
+#7106~
+1568
+-1
+-1
+-1
+-1
+-1
+1.3
+.1
+0
+0
+0
+0
+0
+%s I'm truely sorry Friend, I haven't got one of those.~
+%s In these hard times, I have no money to buy curiosities~
+%s In these hard times, I have no money to buy curiosities~
+%s In these hard times, I don't have that kind of gold.~
+%s During the Dark Army's Occupation, I can't afford to give credit.~
+%s %d gold pieces and it's all yours.~
+%s I'm not supposed to buy, please tell a God.~
+0
+0
+7112
+0
+579
+0
+28
+0
+0
+$~

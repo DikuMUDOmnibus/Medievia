@@ -1,0 +1,2731 @@
+#473
+In the Shadows~
+ ~
+60 11 0 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6500
+S
+#549
+Chieftan's Abode~
+ ~
+60 0 0 0
+0 32 0 0
+0 0 0
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 3930
+S
+#1140
+Pier~
+This is what remains of a once huge pier and docks.  The wood has rotted
+beyond any realm of safety and you step lightly to avoid falling through.
+You look down into the water and see more than one wreckage of what used
+to be the grand fleet of Kippurnia.
+~
+60 0 0 0
+0 32 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3608
+S
+#2071
+Interior Hallway~
+You enter a richly decorated hall.  Large tapistries cover the walls, an
+ornately sewn carpet leads to the south.
+~
+60 9 0 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6296
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3147
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6303
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6302
+S
+#3147
+Servants Quarters~
+This room looks practically untouched, perhaps it was the servents who had
+fought and died in the outer hall rushing to their kings aid.
+~
+60 9 0 0
+0 32 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2071
+S
+#3212
+Tower of Knowledge~
+ ~
+60 0 0 0
+0 32 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4000
+S
+#3608
+Boardwalk~
+Why would a nation with such developed nautical systems come to this end?
+This was once a grand boardwalk where many people would wait in eager
+anticipation for the arriving ships and the goods they carried.
+~
+60 0 0 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3609
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3749
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1140
+S
+#3609
+Boardwalk~
+The wooden boards beneath your feet are still in good condition; considering
+the massive destruction to everything else it is an amazing feat.
+Whoever built these docks built them to last.
+~
+60 0 0 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3625
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3608
+S
+#3625
+Boardwalk~
+Here are where the once great Swan ships of the Kippurnian fleet set sail.
+Little is left other than the sign of wreckage on the ocean floor, and what
+looks like a huge shipyard to the east.
+~
+60 0 0 0
+0 32 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3709
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3609
+S
+#3709
+Shipyards~
+This is where the grand ships of Kippurnia were crafted.  Huge winches and
+pullies still hang here swinging in the breese.  It seems very empty almost
+too empty.  Where could everyone have gone?
+~
+60 0 0 0
+0 32 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3625
+S
+#3749
+Boardwalk~
+From here you can see what were the village gates to the capital of all
+Kippurnia.  It looks like nothing more than a small village from here, but
+farther back a grand spire raises to the east.
+~
+60 0 0 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3608
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3782
+S
+#3782
+Village Gates~
+These gates swing open easily now, there cannot be anything of value left
+for them to protect.  Strange footprints mark a path through the gates and
+into the town.  You bend down to inspect them and notice a couple large
+scales lying on the ground.
+~
+60 0 0 0
+0 32 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3789
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3749
+S
+#3789
+Inside the village of Kippurnia~
+This is a ghost town if you have ever seen one.  From here the silence seems
+even more eerie.  Farther to the east you can see a large tower rise into the
+sky, you wonder if that's where the royal family lived.
+~
+60 0 0 0
+0 32 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3800
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3782
+S
+#3800
+Marketplace Road~
+Your heart aches as you envision the once bustling crowds that must have
+filled these streets.  It seems like everyone just dissapeared.
+~
+60 0 0 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3802
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3804
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3803
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3789
+S
+#3802
+Cartographer's Shop~
+Large tables and strange instruments fill this rather small building.  No sign
+of any of the origonal inhabitants can be found, but there are many signs of
+a new owner.  Huge thick strands of webbing cover the back wall and the
+corners.  You look up just in time to see a huge spider-like form descend
+upon you.
+~
+60 0 0 0
+0 32 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3800
+S
+#3803
+The One-Eyed Dolphin~
+The huge oaken bar stretching from one side of the room to the other tells
+you that this must have been the town pub.  You think you can almost hear the
+laughter and singing from the crowds of sailors and townspeople that once
+gathered here.  Then you realize the laughter is real, and those sailors, or
+what's left of them, are still here, and they don't look happy at your
+intruding upon their reminiscence.
+~
+60 0 0 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3800
+S
+#3804
+Marketplace Road~
+ ~
+60 0 0 0
+0 32 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3811
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3800
+S
+#3811
+Town Square~
+ ~
+60 0 0 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3816
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3812
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3925
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3804
+S
+#3812
+Scholar Lane~
+ ~
+60 0 0 0
+0 32 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3813
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3811
+S
+#3813
+Scholar Lane~
+ ~
+60 0 0 0
+0 32 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4000
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3812
+S
+#3816
+Marketplace Road~
+ ~
+60 0 0 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3928
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3811
+S
+#3925
+Village Way~
+ ~
+60 0 0 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3811
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3926
+S
+#3926
+Village Way~
+ ~
+60 0 0 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3925
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3927
+S
+#3927
+Village Way~
+ ~
+60 0 0 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3926
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3992
+S
+#3928
+Marketplace Road~
+ ~
+60 0 0 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3929
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3816
+S
+#3929
+Before the Mayor's Residence~
+ ~
+60 0 0 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3930
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3928
+S
+#3930
+The Mayor's House~
+This was once a grand house here in this peacefull town, now the walls are
+covered in seaweeds and strange bones.  Unusual tribal markings cover the
+floors and black candles illuminate the stairway to the second floor.  As you
+look towards the stairs you notice for the first time the wierd lisping chant
+comming from that direction.  It begins to get louder, and you wonder just how
+wise it was coming here.
+~
+60 0 0 0
+0 32 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3929
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 549
+S
+#3992
+The Southern Gates~
+ ~
+60 0 0 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3927
+S
+#4000
+On The University Grounds~
+ ~
+60 0 0 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3212
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3813
+S
+#5692
+Drawbridge~
+As you step onto the creaking timbers you begin to wonder just how old this
+drawbridge is.  You cringe as something moves the thick layer of scum covering
+the moat below you.  You glance at the rotted boards between you and whatever
+that was and hope you will not be finding out any time soon.  Another step
+brings you through the darkness, an eerie greyish light casts it's glow down
+from a tower window illuminating a once grand castle.
+~
+60 9 0 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5693
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 19016
+E
+moat water~
+This moat is not a place you want to be in your lifetime.  A powerfull
+stench rises up from the scum and decay on the surface.  Something is
+definately moving in there.
+~
+E
+tower light~
+You strain to look up at the tower casting a strange light upon you.
+It seems to be little more than rubble, but you can clearly see the source
+of the light is from what remains of the north-east tower.
+~
+S
+#5693
+Before the Portcullis~
+A massive iron portcullis is lowered here.  The bars look just a little too
+close to squeese through.  In the darkness ahead you hear a soft creaking.
+You tell yourself it is just the wind, but something feels.....wrong.
+~
+60 9 0 0
+0 32 0 0
+0 0 0
+D0
+This iron gate looks as if it has not been raised in centuries.
+~
+portcullis gate~
+$n bravely enters the castle keep.~
+$n steps forward into the keep.~
+2 -1 5694
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5692
+E
+portcullis gate iron~
+This huge iron gate looks as if it has not been raised in centuries.
+~
+S
+#5694
+Castle Keep~
+Your light casts long shadows before you, maybe a little too long.  Two large
+iron-bound doors lead east and west out of this open area, along with a
+second portcullis leading further inside to an open courtyard.  Empty arrow
+slits face inward here like the empty eye sockets of the dead.  They are
+making those exits look pretty good right now.  The creaking grows louder but
+the wind is still.
+~
+60 9 0 0
+0 32 0 0
+0 0 0
+D0
+This heavy portcullis seems like it is frozen in place.  It is not until
+you practically kill yourself trying to open it that you realize it is
+chained closed from inside.
+~
+portcullis gate~
+ ~
+ ~
+1 -1 5701
+D1
+Much of the stone around this thick iron-bound door has cracked and crumbled.
+~
+door iron~
+$n seems to not mind the fact that the stones above the door look awful loose.~
+$n enters ducking the falling rubble from above the door.~
+1 -1 5702
+D2
+You hope to have enough strength left to open the huge portcullis behind you.
+~
+portcullis gate~
+$n thankfully leaves the castle keep alive.~
+$n runs screaming from the castle keep.~
+2 -1 5693
+D3
+A strong iron-bound door.  It looks as if time has only made it stronger.
+~
+door iron~
+ ~
+ ~
+1 -1 5738
+S
+#5701
+Courtyard~
+This open courtyard is the scene of some of the most gruesome carnage you h
+have ever seen.  The creaking you have been hearing becomes clear as you see
+dozens of corpses swinging from old, worn gallows some of the ropes have worn
+through the timbers leaving the bodies crumpled up on the ground.  The wind
+is calm yet the corpses continue to sway as if still alive.  As you leave you
+wonder,  "Why have the bodies been untouched by animals, or at least insects?"
+You shudder and move on.
+~
+60 9 0 0
+0 32 0 0
+0 0 0
+D2
+This portcullis is chained shut.  A huge lock holds the chains to one side.
+~
+portcullis gate~
+ ~
+ ~
+1 -1 5694
+D5
+A faint rectangular outline is in the dust here.
+~
+cellar trapdoor~
+$n causiously enters the hidden cellar.~
+$n enters to witness the destruction.~
+3 -1 5739
+S
+#5702
+Eastern Entryway~
+This large entryway leads east to a spiral staircase leading up.  Rubble and
+debris litter the floor here, large pieces of stone lying across the hallway
+to the north.  Beneath the dust and rocks you see an ornate mosaic floor.
+~
+60 9 0 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5876
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5814
+D3
+The stone framework of this door looks really unstable.
+~
+door iron~
+$n bravely steps through the crumbled doorway.~
+Crumbling pieces of rock mortar fall about as $n enters the room.~
+1 -1 5694
+E
+floor mosaic~
+You clear away as much of the debris you can to reveal a very detailed
+mosaic of the university.  Grand spires reach to the sky, ornate brick
+walkways, and serene grassy areas provide a home for many people richly
+dressed walking from place to place.  This city must have been a great
+center for learning in the years past.
+~
+S
+#5738
+Western Entryway~
+The ornate tile floors have faded a dull grey.  Beneath the thick layer of
+dust it appears this portion of the castle remains intact.  Ahead you see
+the beginning of a large marble staircase, to the north the hallway continues
+into the darkness.
+~
+60 9 0 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5810
+D1
+A sturdy iron-bound door stands here.
+~
+door iron~
+ ~
+ ~
+1 -1 5694
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5799
+E
+floor tile~
+This intricate tile work makes up the most detailed and beautiful floor you
+have ever seen.  It depicts the shipyards and the huge ships that were once
+built there.  By the looks of this mosaic this city must have been a great
+center of trade and commerce.
+~
+S
+#5739
+Cellar of Last Hope~
+If the horror of what occured could be worsened, it is in this place.  Here
+there are many decayed corpses of what appear to be mostly children, many
+huddled together in a far corner.  You realize they must have been sent here
+to avoid the destruction above, never to leave.
+~
+60 79 0 0
+0 32 0 0
+0 0 0
+D4
+A small wooden ladder leads back into the courtyard.
+~
+trapdoor door~
+$n leaves this horrible place.~
+$n leaves the cellar, a strange shade of green.~
+2 -1 5701
+S
+#5799
+Marble Staircase~
+As you near this grand staircase you notice the fine carvings throughout the
+marble.  This staircase alone must have taken many master craftsmen years to
+complete.  Moonlight shines through a door or window from above, illuminating
+as if by design a silver highlighted carving of what must be the royal family
+set into the wall beside the staricase.
+~
+60 9 0 0
+0 32 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5738
+D3
+ ~
+wall~
+$n pushes the carving and fades into the wall.~
+$n enters the secret passageway.~
+3 -1 5879
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 5813
+E
+wall carving family~
+You look at the beautiful carving covering most of the wall next to the
+marble staircase.  It seems almost real in its depiction of the royal
+family.  You reach out to brush away some dust and notice your hand never
+comes in contact.  As a matter of fact the entire wall here is just an
+illusion.  Should you go through?
+~
+S
+#5810
+Darkened Hallway~
+Your light flickers and sputters, as if in fear of the darkness around you.
+Turning around looks like a good idea, to the north you see what looks like
+an old guard post.
+~
+60 9 0 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6236
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5738
+S
+#5813
+Marble Staircase~
+As you near this grand staircase you notice the fine carvings throughout the
+marble.  This staircase alone must have taken many master craftsmen years to
+complete.  Moonlight shines through a door or window from above, illuminating
+as if by design a silver highlighted carving of what must be the royal family
+set into the wall beside the staricase.
+~
+60 9 0 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6293
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6297
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 5799
+S
+#5814
+Spiral Staircase~
+You stand before a giant spiral staircase, six men in full armor could stand
+side by side here easily.  As you get closer you see the many bones and
+skeletons of more than just six brave men that must have spent their last
+living moments standing here.  You wonder were they trying to keep something
+from getting up these stairs...or down?
+~
+60 9 0 0
+0 32 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5702
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 5877
+S
+#5876
+Collapsed Hallway~
+Carefully stepping over the rubble you notice a skeleton crushed beneath a
+large stone block.  You look at the ceiling and hope it is a little more
+stable than it appears.
+~
+60 9 0 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6260
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5702
+S
+#5877
+Spiral Staircase~
+OK here is your new zone! Take your time, make me proud. Most of all Have Fun!
+The commands are basic.  Makeroom makes rooms. Saveroom will save whole zone,
+or use saveroom <zonenumber>. Use ll or listzone to find out the zone
+number.  makeroom e  will make a room east, a DIRECT copy of this one.
+makeroom e 10  will make 10 rooms east DIRECT copy, like a Fast hallway
+editroom is the MAIN command.  Type editroom(ENTER) for a list of options.
+makeexit n 1234  will connect this room north to room 1234.  All doors must
+be edited on both sides.  Please be VERY careful when making rooms as they
+are a bitch to delete.  The MOST IMPORTANT time saving thing is to set the
+first room up(this one) with all the proper sector type, flags, restrictions,
+etc.  Because all rooms will be copied from this one, it will save you a
+lotta time later.  PLEASE make sure all rooms that are inside have a sector
+type of inside and a flag of inside (Vryce hates when it rains indoors).
+ALSO DO THIS, restrict this room to level 32.  THE WHOLE zone will be
+restricted to level 32 until it is opened to the public, when I use a command
+to unrestrict the whole zone in one shot.  Any questions, ask any level 35.
+Have a blast, work when in the mood, think it out, make a lotta hidden rooms,
+look ats and custom entrance/exit text when it will add UMPH to the room.
+HUGS
+-Vryce-
+~
+60 9 0 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6299
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6298
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 5814
+S
+#5879
+Secret Passageway~
+You have stepped through the wall to enter this secret passageway.  Now
+that you are here you wonder how will you get back.  Forward seems the only
+way now.  The hallway continues into the darkness slowly sloping down.
+~
+60 265 0 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6024
+S
+#6024
+Secret Passageway~
+The passageway continues to slope downward here.  It looks like the stone
+around you gives way to earthen tunnels soon.
+~
+60 265 0 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6034
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5879
+S
+#6034
+Secret Passageway~
+You must be below the level of the castle.  The ceiling looks secure, but
+then again you are no miner.  It has held for centuries you hope it will
+hold another few minutes to get out.
+~
+60 265 0 0
+0 32 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6036
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6024
+S
+#6036
+Secret Passageway~
+The tunnel gets MUCH smaller, if you were not claustrophobic you are now.
+The air is very moist here and some strange fungus grows along one wall.
+~
+60 265 0 0
+0 32 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6039
+D2
+A strange fungus covered door is here.
+~
+door secret fungus~
+$n reaches in the fungus to open the hidden door and steps through.~
+$n steps out from behind a wall of wine bottles.~
+3 -1 6271
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6034
+E
+fungus wall~
+This fungus looks like any other fungus you have ever seen, but the way it
+is growing in a strange rectangular pattern seems odd.
+~
+S
+#6039
+Secret Passageway~
+At last it looks like a way out of here.  A very slick looking ladder leads
+up into the darkness, but a little climbing is better then being crushed
+under tons of solid earth.
+~
+60 265 0 0
+0 32 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6036
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 6044
+S
+#6044
+Secret Passageway~
+This climb seems like forever.  The handholds are getting dryer as you
+get higher on the ladder.  There is a hole about the size of a small child
+between the rungs in the earth in front of you.  It's dark but there could
+be something inside.
+~
+60 265 0 0
+0 32 0 0
+0 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 6047
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 6039
+S
+#6047
+Secret Passageway~
+ ~
+60 265 0 0
+0 32 0 0
+0 0 0
+D1
+ ~
+secret door~
+ ~
+ ~
+3 -1 6048
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 6044
+S
+#6048
+Closet~
+You feel around in the darkness of this small closet.  As you look for
+anything of value your knuckles rap against the far side.  It sounds
+hollow, or perhaps just poorly constructed.
+~
+60 9 0 0
+0 32 0 0
+0 0 0
+D1
+ ~
+door closet~
+$n comes out of the closet.~
+$n comes out of the closet.~
+1 -1 6315
+D3
+ ~
+door secret~
+ ~
+ ~
+3 -1 6047
+S
+#6236
+Guard Post~
+Four armed and armored skeletons lie here.  They had erected some sort of
+barracade, now little more than some rotted boards.  You see that these men
+unlike so many in the rest of the castle had time to prepare.  It is only
+then that you realize there is no sign of an enemy.  No weapons, no bodies
+nothing.
+~
+60 9 0 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6272
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5810
+D3
+Above this rather plain door is a sign marked: Kitchen Staff Only.
+~
+door kitchen~
+ ~
+ ~
+1 -1 6269
+S
+#6260
+Collapsed Hallway~
+The rubble is especially heavy here.  Amongst the rocks and dust you see
+a glint of metal shining.  It could be a weapon or armor, wither way it
+did the man who was using it little good.  A destroyed room is to the east,
+it seems to open to the outside.  The hallway ahead looks as if it deadends
+as the destruction becomes complete.
+~
+60 9 0 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6278
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6277
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5876
+E
+metal sword ~
+Buried beneath half a ton of stone this sword looks like it is still intact.
+If only you could get to it.
+~
+S
+#6269
+Kitchen~
+This large and servicable kitchen seems untouched by the mayhem that occured
+throughout the rest of the castle.  With the exception of a lot of dust and
+a couple pots and pans out of place, this entire room probably looks as it
+did years ago.
+~
+60 9 0 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6270
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6236
+S
+#6270
+Castle Storeroom~
+Shelves of what used to be food line the walls here.  Along one wall a whole
+shelf of spices seems intact.  Maybe some of them are still usable.
+In the far corner a small door leads down into what must be a wine cellar.
+~
+60 9 0 0
+0 32 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6269
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 6271
+S
+#6271
+Wine Cellar~
+ ~
+60 9 0 0
+0 32 0 0
+0 0 0
+D0
+An odd hinge is on this wall of wine shelves.
+~
+secret wall door~
+$n steps behind a wall of wine bottles.~
+A door covered in fungus opens and $n steps forward.~
+3 -1 6036
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 6270
+S
+#6272
+Turn in the Hallway~
+The light illuminates this section of the hallway well.  Unlike alot of this
+hallway this corner has little signs of battle or damage to the stonework.
+Again you marvel at the beautiful mosaic floors, hardly touched by time or
+the massive destruction that occured here so long ago.
+~
+60 9 0 0
+0 32 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6273
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6236
+E
+mosaic floor tile~
+This mosaic is in three parts.  The first part shows the king sitting at his
+throne with what looks like a council of some sort sitting to either side of
+him.  The next section is of a large room with dozens of men they appear to
+be casting ballots as one of them stands at a podium in front.  The last
+scene is that of six men and one woman dressed in black robes.  They sit
+behind a long table as they listen to a little boy standing by his mother.
+You can not understand all of the images but you being to wonder if these
+all have something to do with governmental methods.
+~
+S
+#6273
+Before the Armory~
+The rubble gets a little worse here, as you look down the hallway you see
+that it may be totally impassible up ahead.  A heavy oaken door stands off
+its hinges to the north.
+~
+60 9 0 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6274
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6275
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6272
+S
+#6274
+Castle Armory~
+Strange weapons and armor line the walls of this room.  Considering the
+destruction throughout the castle there is a surprising amount of equipment
+here, mostly aged beyond use.
+~
+60 9 0 0
+0 32 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6273
+E
+armor scale~
+Armor unlike any you have ever seen is here.  It seems to be made from some
+sort of silvery metal.  The armor is composed of large scale-like pieces.
+It reminds you of the scales of a large fish or reptile.
+~
+E
+weapons sword~
+What is left of the weapons that lie here seem to be of a style you have
+never seen before.  The swords seem to be curved and differently balanced
+from any sword you have seen before.  Light bows line a far back wall;
+they seem much smaller and almost fragile compared to the bows you are
+familiar with.
+~
+S
+#6275
+Collapsed Hallway~
+There is a literal wall of debris here.  The rocks and stonework are piled
+to the ceiling.  However, you can see what looks like a door to the north.
+Maybe you could move enough rubble to open it.
+~
+60 9 0 0
+0 32 0 0
+0 0 0
+D0
+A pile of rubble stands infront of this door.
+~
+door rubble~
+ ~
+ ~
+1 -1 6276
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6273
+S
+#6276
+Barracks~
+This is what used to be the castle barracks.  Dried blood and gore stain the
+walls, broken weapons lie about, the skeletons lie back to back as if
+protecting each other even in death.  Whatever caused the destruction of the
+castle walls did not kill these men.  They died fighting.
+~
+60 9 0 0
+0 32 0 0
+0 0 0
+D2
+ ~
+door~
+ ~
+ ~
+1 -1 6275
+S
+#6277
+Ruins~
+This room is little more than one wall.  The ceiling has completely fallen in
+the outer wall is just a pile of stone.  You can look out into the forest
+surrounding the castle from here.  The moat sloshes up against the stone
+floor here as something moves by.
+~
+60 9 0 0
+0 32 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6279
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6260
+S
+#6278
+Rubble~
+A large pile of stone blocks the way here.  It seems like it must be from
+this area that the force that did this came.
+~
+60 9 0 0
+0 32 0 0
+0 0 0
+D0
+ ~
+hole rubble~
+$n finds a way to squeeze through the rubble to the north.~
+$n pushes a large rock aside and steps through the rubble.~
+3 -1 6280
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6260
+S
+#6279
+Moat~
+You wade chest-deep into the thick slime-covered moat.  It seems rather
+shallow here but then again you have not gone far.  Something just brushed
+by your leg...something big.
+~
+60 9 6 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6281
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6287
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6277
+S
+#6280
+Staircase~
+Unbelievably a fragile looking wooden staircase is intact here.  Stone and
+mortar fill the room all around but thestaircase seems clear of debris.
+From here you can see a way to squeeze through to the south by moving a few
+stone blocks.
+~
+60 9 0 0
+0 32 0 0
+0 0 0
+D2
+A small hole just big enough can be opened here by moving just a few stones.
+~
+hole rubble~
+ ~
+ ~
+2 -1 6278
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 6291
+E
+stairs staircase~
+These seemingly fragile wooden stairs look to be in good shape.  Considering
+the total destruction of this area you find that almost impossible.
+Nevertheless there they are.
+~
+S
+#6281
+Moat~
+You still wade along the castle bank of this discusting moat.  The scum comes
+up to about your neck and you wonder if it gets any deeper.
+~
+60 9 6 0
+0 32 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6279
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6282
+S
+#6282
+Moat~
+You can still keep your head above the surface along the edge of the moat.
+Towards the middle of this section you notice a gap in the sludge.  Maybe
+that's where thing that keeps swimming by is.
+~
+60 9 6 0
+0 32 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6281
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6283
+D5
+ ~
+hole~
+$n swims down into a layer of thick sludge.~
+$n swims through a layer of thick sludge.~
+3 -1 6289
+S
+#6283
+Moat~
+You are about sick of being in this cold slimy water.  You regret not
+bringing your hip-waders, but by now they would not be much help you are
+barely keeping your chin above the water as the moats edge drops off.
+~
+60 9 6 0
+0 32 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6282
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6284
+S
+#6284
+Moat~
+Something is down there. The scum sloshes against you as you struggle to keep
+your footing in the slimy, muddy bottom of the shallows near the edge.
+~
+60 9 6 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6283
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6285
+S
+#6285
+Moat~
+Here at the corner there's a little break as the moat gets rather shallow
+close to the castle.  You actually can step without sinking a foot into the
+sludge.
+~
+60 9 6 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6284
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6286
+S
+#6286
+Under the Drawbridge~
+It is rather dark as you try to keep your footing in the sludge and find your
+way under the drawbridge above you.  You can clearly see all the holes and
+broken boards of the drawbridge from here and you thank the gods you did not
+fall through.  Then you remember, you are standing in the moat, what would
+it have mattered.
+~
+60 9 6 0
+0 32 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6288
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6285
+S
+#6287
+Moat~
+You still see that strange movement from beneath the slime.  Maybe you should
+get out of here while you can.
+~
+60 9 6 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6279
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6288
+S
+#6288
+Moat~
+The moat is very deep here. At places you have to swim to keep your head
+above the slime.  To the west is the drawbridge but it does not look like you
+can climb up from here.
+~
+60 9 6 0
+0 32 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6287
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6286
+S
+#6289
+Underwater Tunnel~
+You swim beneath the thick liquid of the moat and find a small overhang it
+looks like a cave of some sort.  You swim down to it and enter a large air
+pocket a damp cavern opens to the north.
+~
+60 9 9 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6290
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 6282
+S
+#6290
+Cavern of The Serpents~
+You stand ankle deep in a horrible sludge, this cavern opens up into a rather
+large area.  A source of oxygen must be somewhere but you see no other way out
+other than the way you came.  A strange hissing sound calls your attention to
+a darkened corner and you notice many large shells that have broken open in
+some sort of huge nest.
+~
+60 9 6 0
+0 32 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6289
+S
+#6291
+Tower Staircase~
+You begin to climb what's left of a old wooden staircase.  Considering the
+massive destruction all around this quarter of the castle, it's amazing how
+sturdy it seemes.
+A large piece of mortor falls right by your head and you wonder if it really
+is safe.
+~
+60 9 0 0
+0 32 0 0
+0 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 6292
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 6280
+S
+#6292
+Mages Tower~
+You have entered what was once the workshop and home of the greatest of the
+mages of Kippurnia.  Now much of the room stands in ruins, books everywhere
+all but rotted away, old glassware some still intact have fallen all around
+the room.  Your eyes take in all the destruction, for it was here that the
+explosion that destroyed most of the castle came from.
+It is just then that you see what must have caused this explosion, hovering
+in the center of the room above what looks like the remains of a large alter
+is a huge swirling mist.  It pulsates and throbs like a dying heart as you
+approach.  You can feel the evil seep into your bones as it's grey light falls
+upon you; perhaps you should leave.
+~
+60 9 0 0
+0 32 0 0
+0 0 0
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 6291
+S
+#6293
+Hallway~
+Aside from the ages old skeletons and alot of dust this hallway seems
+untouched by the horror that wrecked the other side of this once grand
+castle.
+~
+60 9 0 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6294
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5813
+S
+#6294
+Turn in the Hallway~
+Here the hallway turns, to the east the destruction seems almost complete.
+You can see in the darkness a grand staircase down the hall to the south.
+~
+60 9 0 0
+0 32 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6295
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6293
+S
+#6295
+Hallway~
+Long decayed corpses, and broken weapons line the hall here.  This appears to
+have been yet another of the battle lines hastely errected when the castle
+was attacked.
+~
+60 9 0 0
+0 32 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6296
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6294
+S
+#6296
+Hallway~
+The hallway ends here, in a huge pile of rubble.  A large wooden door stands
+here to the south.  You think you may be able to open it by moving some of
+the smaller rocks and debris.
+~
+60 9 0 0
+0 32 0 0
+0 0 0
+D2
+An ornately carved wooden door is here upon it is carved the royal swan crest.
+~
+door swan~
+ ~
+ ~
+1 -1 2071
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6295
+E
+door~
+An ornately carveswooden door is here, upon its surface is the royal
+swan crest.
+~
+E
+door~
+ ~
+S
+#6297
+Hallway~
+This section of the hallway is much more intact.  To the north is a large
+wooden door.  To the west the staircase leads back down to the ground floor.
+~
+60 9 0 0
+0 32 0 0
+0 0 0
+D0
+A large door is here.  The swan crest is carved on its surface.
+~
+door north~
+ ~
+ ~
+1 -1 6312
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6298
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5813
+E
+door~
+A large door is here. The royal swan crest is carved on its surface.
+~
+S
+#6298
+Hallway~
+This stoneworked hall that was once beautifully carved and designed is now
+little more than a tunnel of rubble.
+~
+60 9 0 0
+0 32 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5877
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6297
+S
+#6299
+Hallway~
+ ~
+60 9 0 0
+0 32 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5877
+S
+#6302
+Guest Room~
+Here is where the visiting dignitaries would stay when they came to do
+business.  This room seems to be fit for a king, and perhaps was.
+~
+60 9 0 0
+0 32 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2071
+S
+#6303
+Interior Hallway~
+Plush blue carpeting leads south to a corner in the hallway.  You take
+notice of all the bloodstains and destruction, made more horrible by their
+location in such a beautiful place.
+~
+60 9 0 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2071
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6304
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6306
+D3
+ ~
+ ~
+ ~
+ ~
+2 -1 6305
+S
+#6304
+Captain of The Guard's Room~
+Even after what must be hundreds of years, it is clear that a fierce battle
+was held here.  One skeletal form lies broken in the cernter of the room, a
+strangely curved blade grasped in his hand.  It is clear by the wreckage that
+this man fought to the end with bravery and honour, taking many of his
+enemies with him.  A large portrait hangs from the far wall over what seem to
+be mounts for some sort of weapon, perhaps the curved blade grasped in the
+dead mans hand.
+~
+60 9 0 0
+0 32 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6303
+E
+painting portrait picture~
+You brush away a thick layer of dust from a large portrait hanging on the far
+wall.  it is of a beautiful young woman, long blonde hair falls to her
+shoulders and frames one of the most endearing faces you have ever seen.
+This must be the princess of Kippurnia, for only a princess could look so
+perfect.
+~
+S
+#6305
+War Room~
+This is Drakoth's personal room in the castle.  He has fortified this place
+to stay and explore the ruins of this once great empire.
+Unlike the rest of the castle this room is emaculate, it appears Drakoth has
+spent some time making this room safe for himself and those he deems worthy
+of the protection his abode can offer.
+~
+60 67080 0 0
+0 32 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+2 -1 6303
+S
+#6306
+Turn in an Interior Hallway~
+the hallway turns off to the west here, a richly sewn red carpet crosses the
+hallway in that direction.  To the east a heavy oaken door stands ajar, upon
+its surface is the now familar royal swan crest, but in this case it seems
+somehow different, the swan is flanked by two crescent moons.
+~
+60 9 0 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6303
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6307
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6310
+S
+#6307
+Princess' Chambers~
+You feel the overpowering sadness hit you like a solid wall as you enter this
+room.  The body draped across the bed must have been the beloved princess.
+As if the entire room stands witness to what happened here, it emits a sense
+of great sorrow.  Staying in here makes you want to destroy what ever did this
+to such a beautiful and loving young woman.
+~
+60 9 0 0
+0 32 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6308
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6309
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6306
+S
+#6308
+Aluirial's Chambers~
+Arranged like a small shrine, this room is clearly the room of a cleric.
+A small alter stands broken in two against the far wall.  Horrible markings
+have been scrawled all across the room as if to defile this once holy place.
+Only then do you notice the skeletal remainds of what must have been the
+cleric who resided here.  The bones themselves have been pierced by some sort
+of hooks that fasten the skeleton to the sealing.  The richly embroidered
+robes hanging in such a way that it seems like the body is still thrashing
+as a breese blows them.
+Whoever, or whatever did this must have had an inhuman capacity for hatred
+and violence.
+~
+60 9 0 0
+0 32 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6307
+S
+#6309
+Royal Baths~
+A horrible stench permiates this entire room.  The baths still seem in
+working condition but are filled with a thick brownish-red liquid.  As you
+step into the room you realize, its blood.  Your mind races...how...so much
+...so many...
+Perhaps you should leave.
+~
+60 9 0 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6307
+S
+#6310
+Red Carpeted Hallway~
+Bones stand in piles here, you notice that the carpet was not made red by
+the seamstress but by the blood that has soaked from the brave men that died
+here protecting their king, and his councel.
+~
+60 9 0 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6311
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6306
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6312
+S
+#6311
+Throne Room~
+This once grand throne room is now little more than rubble.  What was a large
+marble throne is now just a pile of crumbled rocks and dust.  A large 
+staircase leads down into a dark passage below.  Above the staircase on the
+stone wall is scrawled some sort of message.
+~
+60 9 0 0
+0 32 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6310
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 6483
+E
+message wall staircase~
+Enter to your doom.
+~
+S
+#6312
+Turn in the hall.~
+This once grand hallway turns north here.  To the south a large hardwood
+door stands closed to the rest of the castle.
+A simple wooden door is to the west leading to the royal map room.
+~
+60 9 0 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6314
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6310
+D2
+A large door stands here.  The royal swan crest carved into it.
+~
+door swan~
+ ~
+ ~
+1 -1 6297
+D3
+A rather simple door stands here.  Above is a sign reading: Royal Map Room
+~
+door~
+ ~
+ ~
+2 -1 6313
+S
+#6313
+Map Room~
+Tattered parchment coveres the walls here.  What seem to have been large
+oceanagraphic maps lie strewn across a large table dominating the center
+of the room.  An old decrepit desk sits in the corner.
+~
+60 9 0 0
+0 32 0 0
+0 0 0
+D1
+ ~
+door~
+ ~
+ ~
+2 -1 6312
+E
+desk~
+This desk looks like it's seen better days.  The top drawer has a small
+strangely shaped keyhole.
+~
+E
+maps map~
+All the maps in this room have rotted beyond use. You cannot make out
+anything of use.
+~
+S
+#6314
+Royal Hall~
+This is the hallway containing all the royal compartments.  The royal
+bedroom lies to the west, the queens sitting room to the east and
+the kings private study to the north. The walls are richly decorated
+with now very old tapistries and murals.
+~
+60 9 0 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6315
+D1
+This rather simple door has a gold inlay of the royal swan crest.
+~
+door~
+ ~
+ ~
+1 -1 6317
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6312
+D3
+A large door covered in red leather is here, it bears the royal swan crest.
+~
+door~
+ ~
+ ~
+1 -1 6316
+S
+#6315
+King Thoril's Private Study~
+This was a rather modest room where the king went to collect his thoughts
+or just catch up on some paperwork with a good cup of tea.  Despite the
+thick layers of dust, you can clearly see that this room was once kept
+immaculately clean.  A small closet door is to the west.
+~
+60 9 0 0
+0 32 0 0
+0 0 0
+D2
+Large double doors lead into the hallway.
+~
+door double doors~
+ ~
+With a grand flourish $n steps from the Royal Chambers.~
+1 -1 6314
+D3
+A closet door.
+~
+door closet~
+ ~
+ ~
+1 -1 6048
+S
+#6316
+Royal Chambers~
+This is where the king and queen of this once great nation called home.
+They must have not been in here when the destruction hit, because the beds
+are made and other than dust, it looks as if they could walk in at any
+moment.
+~
+60 9 0 0
+0 32 0 0
+0 0 0
+D1
+A large door covered in red leather is here, it bears the royal swan crest.
+~
+door~
+ ~
+ ~
+1 -1 6314
+S
+#6317
+Queen Elemyr's Sitting Room~
+This is where the beloved queen of Kippurnia spends her free time.
+A large loom stands in the corner, surrounded by plush chairs and carpets.
+In the corner you see a skeleton clad in a richly embroidered dress, on the
+wall is something scrawled in blood.  It looks as if the queen died here
+trying to pass on one last message to her subjects.
+~
+60 9 0 0
+0 32 0 0
+0 0 0
+D3
+This rather simple door has a gold inlay of the royal swan over a silver lake.
+~
+door~
+ ~
+ ~
+1 -1 6314
+E
+wall blood message~
+B e .. a r ..
+       N i .. h .. s .. a d ..
+~
+S
+#6483
+Stairs of Honor~
+ ~
+60 9 0 0
+0 32 0 0
+0 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 6311
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 6486
+S
+#6486
+Preperation Chamber~
+ ~
+60 9 0 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6487
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 6483
+S
+#6487
+Room of Choices~
+ ~
+60 9 0 0
+0 32 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6488
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6486
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6489
+S
+#6488
+Way of Wisdom~
+ ~
+60 9 0 0
+0 32 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6487
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 6491
+S
+#6489
+Way of Courage~
+ ~
+60 9 0 0
+0 32 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6487
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 6490
+S
+#6490
+Path of Strength~
+ ~
+60 9 0 0
+0 32 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6492
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6494
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 6489
+S
+#6491
+Path of Knowledge~
+ ~
+60 9 0 0
+9 32 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6496
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6492
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 6488
+S
+#6492
+Entry to The Tombs~
+ ~
+60 9 0 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6493
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6491
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6490
+S
+#6493
+Tombs~
+ ~
+60 9 0 0
+0 32 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6492
+S
+#6494
+The Gauntlet~
+ ~
+60 9 0 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6490
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6495
+S
+#6495
+The Gauntlet~
+ ~
+60 9 0 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6494
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6498
+S
+#6496
+The Gauntlet~
+ ~
+60 9 0 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6491
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6497
+S
+#6497
+The Gauntlet~
+ ~
+60 9 0 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6496
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6499
+S
+#6498
+Before the Great Council Chamber~
+ ~
+60 9 0 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6495
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6500
+S
+#6499
+Before the Great Council Chamber~
+ ~
+60 9 0 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6497
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6500
+S
+#6500
+The Great Council Chamber~
+ ~
+60 11 0 0
+0 32 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6499
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 473
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6498
+S
+#19016
+Drakoth's Campsite~
+Here is where all of Drakoth's adventures begin.  His small tent sits here
+near a cleanly kept campfire.  It looks like he is out once again searching
+new lands.
+~
+60 0 0 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5692
+S
+#19999
+$~

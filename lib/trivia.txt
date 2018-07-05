@@ -1,0 +1,47 @@
+Hint: Take blue & white recall potions along for a fast exit to the last town you were in.  ~
+Hint: Most commands can be abreviated to make things easier.  ~
+Hint: Grouping with other players allows for better experience.  ~
+Hint: Misty potions enable you to see invisible equipment or players.  ~
+Hint: Don't drop your containers.  You might not be able to pick them up.  ~
+Hint: Never just quit anywhere.  Rent at the hotel or in your home.  ~
+Law: Don't gossip or chat on auction if you like your head where it is.  ~
+Law: Don't loot other player's kills.  ~
+Reminder: Don't mud when you are supposed to be studying or working.  ~
+Hint: Find out the directions to the high place before you become an undead.  ~
+Hint: Set your wimpy to about 251200000000f your hit points.  ~
+Hint: Buy or sell bars at the jewellers.  ~
+Info: Type HELP NEWBIE for a bunch of good information for new players.  ~
+Info: No matter where you go....There you are.  ~
+Info: Type HELP USTOREIT for information about lockers.  ~
+Hint: Check out the donation room for some starter equipment.  ~
+Hint: Ask a god for help only if you cannot get that help from a fellow player.  ~
+Hint: Lightning bolt spells cause more damage in the rain.  ~
+Hint: Fireballs spell damage is not as effective in the rain.  ~
+Info: Type HELP CLAN for more information about clans.  ~
+Info: Daddy O's Bar and Grille...Food, fun and 30 brands of beer on tap!! ~
+Info: Type HELP CITY for a map of Medievia, HELP WORLD for a map of the world.  ~
+Hint: Dragon crystals will get you more practice sessions...if you're lucky.  ~
+Info: Type HELP SETCOMM for more information about Medievian communication.  ~
+Info: Type HELP ATM for more information about the Medievian banking system.  ~
+Hint: The higher your intelligence is, the less you'll have to practice.  ~
+Hint: The higher your wisdom is, the more practice sessions you'll get.  ~
+Hint: The higher your constitution is, the more hit points you'll get.  ~
+Info: Take a ride on the Mighty Cutter Mystara, visit it's casinos and explore Trellor.  ~
+Info: Read the MOTD when you log on, so that you can keep up with the changes.  ~
+Info: Buy your baked goods at Incredible Edibles.  Wednesday is double coupon day.  ~
+Hint: Sleeping is a good thing to do when poisoned.  ~
+Hint: Type AUTOEXIT to automatically display the exits from a room when you walk in.  ~
+Info: Check out the Medievia home page at http://medievia.netaxs.com:8080 ~
+Hint: You can hurt yourself if you run while carrying scissors.  ~
+Hint: If you can't find your equipment, look in your locker.  ~
+Hint: Buy a boat from the Captain on Dock Number Three in the City of Medievia.  ~
+Hint: Read the Handbook for the Recently Deceased when you become Undead.  ~
+Hint: A monster will Remember you if you backstab it ~
+Hint: A group of similiar level people will gain more experience ~
+Hint: Catacombs is a dangerous place, level 15+ ~
+Catacomb Hint: When you hear wind coming , SIT, so it won't hurt you ~
+Catacomb Hint: Caverays may move and you will drop down a level ~
+Catacomb Hint: Whirlwinds may suck you up a level.  ~
+Catacomb Hint: If everyone sleeps in room with dream girl, you are moved to a new area in the catacombs by her trance ~
+Catacomb Hint: Repaerdnim root protects you against Thought Slugs and Cave Correl ~
+~~

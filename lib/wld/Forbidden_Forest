@@ -1,0 +1,5867 @@
+#1145
+Floating in Mid Air~
+Looking up and down you can see nothing but empty sky, occupied only by white
+wisps of clouds. Far out of your reach, perhaps several miles away, you can
+see darker storm clouds, and an occasional flash of lightning. The breeze
+picks up and blows through your hair, creating a brief panic as you feel
+a falling sensation. One glace over at the black tiled path snaps you back
+to reality. This is where the Plane of Air meets our world, if it were not
+for the magical protection of this castle, you would float off into the vast
+nothingness.
+~
+59 0 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1123
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 987
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1146
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1147
+S
+#1146
+Floating in Mid Air~
+Looking up and down you can see nothing but empty sky, occupied only by white
+wisps of clouds. Far out of your reach, perhaps several miles away, you can
+see darker storm clouds, and an occasional flash of lightning. The breeze
+picks up and blows through your hair, creating a brief panic as you feel
+a falling sensation. One glance over at the black tiled path snaps you back
+to reality. This is where the Plane of Air meets our world, if it were not
+for the magical protection of this castle, you would float off into the vast
+nothingness. A tall gray stone wall blocks your way south.
+~
+59 0 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1145
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 986
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1148
+S
+#1147
+Floating in Mid Air~
+Looking up and down you can see nothing but empty sky, occupied only by white
+wisps of clouds. Far out of your reach, perhaps several miles away, you can
+see darker storm clouds, and an occasional flash of lightning. The breeze
+picks up and blows through your hair, creating a brief panic as you feel
+a falling sensation. One glance over at the black tiled path snaps you back
+to reality. This is where the Plane of Air meets our world, if it were not
+for the magical protection of this castle, you would float off into the vast
+nothingness. A tall gray stone wall blocks your way west.
+~
+59 0 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1125
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1145
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1148
+S
+#1148
+Floating in Mid Air~
+Looking up and down you can see nothing but empty sky, occupied only by white
+wisps of clouds. Far out of your reach, perhaps several miles away, you can
+see darker storm clouds, and an occasional flash of lightning. The breeze
+picks up and blows through your hair, creating a brief panic as you feel
+a falling sensation. One glance over at the black tiled path snaps you back
+to reality. This is where the Plane of Air meets our world, if it were not
+for the magical protection of this castle, you would float off into the vast
+nothingness. Tall gray stone walls block your way south and west.
+~
+59 0 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1147
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1146
+S
+#1155
+An Indoor Forest~
+You are on a narrow worn down dirt path through the forest. Small trees of
+all kinds surround you and a few larger old trees sit farther back off the
+path. The terrain is slightly hilly with various sized rocks jutting up
+from the ground, one even has a vibrant purple flower growing from a small
+pocket of dirt in its side. A few of the rocks are worn smooth and low to the
+ground, providing a comfortable place to sit.
+~
+59 8 3 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1122
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1156
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1157
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 987
+S
+#1156
+An Indoor Forest~
+You are on a narrow worn down dirt path through the forest. Small trees of
+all kinds surround you and a few larger old trees sit farther back off the
+path. The terrain is slightly hilly with various sized rocks jutting up
+from the ground, one even has a vibrant purple flower growing from a small
+pocket of dirt in its side. A few of the rocks are worn smooth and low to the
+ground, providing a comfortable place to sit. The tall, gray stone wall of
+the chamber blocks your way to the east.
+~
+59 8 3 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1124
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1158
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1155
+S
+#1157
+An Indoor Forest~
+You are on a narrow worn down dirt path through the forest. Small trees of
+all kinds surround you and a few larger old trees sit farther back off the
+path. The terrain is slightly hilly with various sized rocks jutting up
+from the ground, one even has a vibrant purple flower growing from a small
+pocket of dirt in its side. A few of the rocks are worn smooth and low to the
+ground, providing a comfortable place to sit. The tall, gray stone wall of
+the chamber blocks your way to the south.
+~
+59 8 3 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1155
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1158
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 986
+S
+#1158
+An Indoor Forest~
+You are on a narrow worn down dirt path through the forest. Small trees of
+all kinds surround you and a few larger old trees sit farther back off the
+path. The terrain is slightly hilly with various sized rocks jutting up
+from the ground, one even has a vibrant purple flower growing from a small
+pocket of dirt in its side. A few of the rocks are worn smooth and low to the
+ground, providing a comfortable place to sit. The tall, gray stone walls of
+the chamber block your way to the south and east.
+~
+59 8 3 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1156
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1157
+D5
+A moss-covered boulder rests heavily on the forest floor, providing a
+nice seat.
+~
+boulder rock stone~
+A large boulder seems to magically move aside and $n enters a dark shaft
+below.~
+The rickety old steps creak loudly as $n arrives from above.~
+1 -1 2113
+S
+#1168
+On a Lake of Fire~
+Your feet hover mere inches above the surface of the lake. Below you
+is a violently shifting and bubbling pool of lava. You can feel the heat
+rising up, making you sweat and causing your skin to crawl at the threat
+of being charred from the bone. This is where the Plane of Fire meets our
+world, thankfully, you are protected by the magic of this castle.
+~
+59 8 8 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1170
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1120
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1123
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1169
+S
+#1169
+On a Lake of Fire~
+Your feet hover mere inches above the surface of the lake. Below you
+is a violently shifting and bubbling pool of lava. You can feel the heat
+rising up, making you sweat and causing your skin to crawl at the threat
+of being charred from the bone. This is where the Plane of Fire meets our
+world; thankfully, you are protected by the magic of this castle. A tall
+wall of gray stone blocks the way west.
+~
+59 8 8 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1171
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1168
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1125
+S
+#1170
+On a Lake of Fire~
+Your feet hover mere inches above the surface of the lake. Below you
+is a violently shifting and bubbling pool of lava. You can feel the heat
+rising up, making you sweat and causing your skin to crawl at the threat
+of being charred from the bone. This is where the Plane of Fire meets our
+world; thankfully, you are protected by the magic of this castle. A tall
+wall of gray stone blocks the way north.
+~
+59 8 8 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 988
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1168
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1171
+S
+#1171
+On a Lake of Fire~
+Your feet hover mere inches above the surface of the lake. Below you
+is a violently shifting and bubbling pool of lava. You can feel the heat
+rising up, making you sweat and causing your skin to crawl at the threat
+of being charred from the bone. This is where the Plane of Fire meets our
+world; thankfully, you are protected by the magic of this castle. Tall
+stone walls of gray brick block the way north and west.
+~
+59 8 8 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1170
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1169
+S
+#1201
+A Sparkling Blue Lake~
+You are on an expanse of a sparkling blue lake. The water is calm for
+the most part, but occasionally a wave springs up spontaneously and rolls
+past you, breaking up and dissipating in the distance. Waterfalls pour
+down from the sky and geysers shoot up into the air then disappear as
+suddenly as they began. Small whirlpools twist and move about sporadically
+before closing up and leaving no trace. A tall, gray stone wall blocks your
+way to the east.
+~
+59 8 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1202
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1124
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1203
+S
+#1202
+A Sparkling Blue Lake~
+You are on an expanse of a sparkling blue lake. The water is calm for
+the most part, but occasionally a wave springs up spontaneously and rolls
+past you, breaking up and dissipating in the distance. Waterfalls pour
+down from the sky and geysers shoot up into the air then disappear as
+suddenly as they began. Small whirlpools twist and move about sporadically
+before closing up and leaving no trace. Tall gray stone walls bar your
+way to the north and east.
+~
+59 8 7 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1201
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1204
+S
+#1203
+A Sparkling Blue Lake~
+You are on an expanse of a sparkling blue lake. The water is calm for
+the most part, but occasionally a wave springs up spontaneously and rolls
+past you, breaking up and dissipating in the distance. Waterfalls pour
+down from the sky and geysers shoot up into the air then disappear as
+suddenly as they began. Small whirlpools twist and move about sporadically
+before closing up and leaving no trace.
+~
+59 8 7 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1204
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1201
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1122
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1120
+S
+#1204
+A Sparkling Blue Lake~
+You are on an expanse of a sparkling blue lake. The water is calm for
+the most part, but occasionally a wave springs up spontaneously and rolls
+past you, breaking up and dissipating in the distance. Waterfalls pour
+down from the sky and geysers shoot up into the air then disappear as
+suddenly as they began. Small whirlpools twist and move about sporadically
+before closing up and leaving no trace. A tall, gray stone wall blocks your
+way to the north.
+~
+59 8 7 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1202
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1203
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 988
+S
+#3730
+Alotta's Den~
+This is Alotta's Den.
+~
+59 2060 0 0
+0 0 0 0
+0 0 0
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 4861
+S
+#3735
+A small shack with notes on the Forbidden Forest~
+This is a small shack, kept in what appears to be a total disaster. Dust
+and mold cover the floor.  A table which will no doubt crumble into ashes
+as soon as you touch it is in front of you, with a sheet of paper in
+hastily written scrawl upon it.  Perhaps you should look at it.
+~
+59 12 3 7
+0 0 0 0
+-2 0 0
+D1
+ ~
+ ~
+$n leaves, after gaining valuable information.~
+$n enters, looking informed about the area.~
+1 -1 19003
+E
+note poster notice paper~
+Greetings Adventurers!
+Welcome to the Forbidden Forest! We are very happy to see your faces
+in this corner of the world.  The zone is suitable for levels 1-20, with
+secrets and details lurking behind every rock and tree.  Look out for the
+locals, who are friendly (hopefully) and desire to invite you to dinner.
+This area will be under changes and revisions, so expect the unexpected.
+Brandii, Elder Druid of the
+Forbidden Forest
+~
+S
+#3859
+Path to Forbidden Forest~
+The path leads in a north-south direction to a huge forest. Trees can
+be seen, rising up to the sky.  A small number of wooden boards are here,
+and they look manmade.
+~
+59 0 3 1
+0 0 0 0
+-2 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3860
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 19003
+E
+cage boards broken wooden~
+This appears to be the remains of a small wooden cage, probably large enough
+to hold a cat or a small dog.  What was in the cage? It's hard to say, but a
+few telltale feathers make you suspect it was a bird.
+~
+E
+tree trees forest~
+Yes, they certainly are trees.
+~
+S
+#3860
+Path to Forbidden Forest~
+The path leads in a north-south direction to a huge forest. Trees can
+be seen, rising up to the sky.
+A twisted wheel lies on the ground here, strangely abandoned.
+~
+59 0 3 1
+0 0 0 0
+-2 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3861
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3859
+E
+wheel wooden round~
+This wheel is in rather poor condition, having been exposed to the elements
+for apparently a long time.  Whoever left it here was certainly in a hurry.
+~
+E
+tree trees forest~
+The trees blow in the wind. It seems to be rather dense in the forest,
+since the trees block out a lot of the sunlight.
+~
+S
+#3861
+Path to Forbidden Forest~
+The path leads in a north-south direction. The edge of the forest is directly
+north.  A small path leads south, away from the forest.  You can get a pretty
+good look at the ground here, due to the lack of undergrowth.
+~
+59 0 3 1
+0 0 0 0
+-2 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3862
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3860
+E
+path ground floor~
+The ground here has very sparse, weedy grass.  While a great deal of traffic
+appears to have once taken place here, it appears to be the exception
+nowadays.
+~
+E
+tree trees forest~
+The trees sway and drop leaves as the cool wind blows.
+~
+S
+#3862
+Edge of Forbidden Forest~
+You stand at the edge of the forest. The chilly breeze makes your hands and
+feet cold. There is a faint path leading north, while to the east and west, you
+can travel along the edge of the forest.  The air here is a bit funny, with
+water vapor strangely floating in the air right in front of you.
+~
+59 4 3 1
+0 0 0 0
+-2 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3964
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5044
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3861
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3863
+E
+forest~
+There is way too much to tell you, search through it yourself!
+~
+E
+tree trees~
+The trees tower over you. Their bark is old, and seems to be loose.
+~
+E
+wind vapor air winds elemental~
+The air here is strange, being somewhat visible and rotating in a cylindrical
+pattern, with jutting spikes outward.  This apparition appears to be hazy and
+fading, leaving you befuddled.
+~
+S
+#3863
+Edge of Forbidden Forest~
+Your on a path somewhere in the forest. You hear animal life close by.
+The trees thin out to the south, while to the north, east and west is
+more trees, but it is passable.
+~
+59 4 3 1
+0 0 0 0
+-2 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5043
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3862
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3869
+E
+tree trees~
+They seem to be rather dry, and brittle. For your sake, you hope the
+trees don't callapse on you.
+~
+S
+#3869
+Edge of Forbidden Forest~
+The trees are sparse in this area, letting you view a great deal of the
+land northward. You can see a large lake to your northwest, which is rather
+calm. The marshy ground prevents further travel westward. There is a faint
+path northward which moves along the lake. To the east is the edge of the
+forest.
+~
+59 4 3 1
+0 0 0 0
+-2 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3870
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3863
+E
+lake water~
+You may want to get closer, but from here the lake is calm. It may be
+calm enough to enter.
+~
+S
+#3870
+Beside Lake~
+The crystal blue waters lap at the shoreline gently to the west. There is
+a path along the lake heading north. The edge of the forest is south, and
+eastward heads deeper into the trees.
+~
+59 4 3 1
+0 0 0 0
+-2 0 0
+D0
+The water looks deeper, but you think it's manageable. Or is it?
+s
+~
+ ~
+asgas~
+ ~
+1 -1 4038
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5043
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3869
+E
+water lake~
+It looks quite refreshing. You may want to take a dip in it.
+~
+S
+#3949
+In a Whirlpool~
+The water swirls around in one huge circle. You are whipped around by the
+strong current. A funnel is created in the middle of the whirlpool. The
+icy water begins to take hold on your strength.
+~
+59 4 6 7
+0 0 0 0
+-2 0 0
+D2
+ ~
+ ~
+$n leaves the whirlpool!~
+$n swims to you, with head spinning.~
+1 -1 4050
+D5
+All you can see is blue water.
+~
+ ~
+$n is sucked underneath the water!~
+$n is sucked down here, and looks a little queasy.~
+1 -1 5393
+E
+whirlpool water lake~
+You can't see much of anything specific, as it's whirling around so fast!
+The water's splashing in your face, you're spinning around... how are you
+supposed to take anything?
+~
+S
+#3964
+Path in Forbidden Forest~
+You are on a path somewhere in the forest.  Grass quietly crunches nearby.
+The trees thin out to the south, while to the north, east and west is
+more trees, but it is passable.  A tree to the left of you has something
+written on its bark.
+~
+59 0 3 1
+0 0 0 0
+-2 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3965
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5080
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3862
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5043
+E
+path road dirt~
+The vegetation has worn away here, leaving a small path.
+~
+E
+note carving bark writings~
+Carved into the rough, flaky bark of the tree are the words 'Kilroy was
+here'.  Who is this Kilroy?  And why did he bother to write his name here?
+~
+S
+#3965
+Path in Forbidden Forest~
+Your on a path somewhere in the forest. You hear animal life close by.
+Every direction seems passable, but the forest path leads in a north-
+south direction.  A small pile of rocks is on the ground here.
+~
+59 0 3 1
+0 0 0 0
+-2 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3966
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5081
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3964
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5042
+E
+rock rocks stone stones pile~
+You search among the rocks here, and find a nest of slithering, slimy newts!
+They are vividly orange, and are smooth to the touch, although a bit slimy.
+You pick one up, and are a bit displeased when it relieves itself on your hand.
+You immediately drop it, deciding that all newts in the future should just be
+ignored.
+~
+S
+#3966
+Path in Forbidden Forest~
+Your on a path somewhere in the forest. You hear animal life close by.
+Every direction seems passable, but the forest path leads in a north-
+south direction.  A pretty patch of flowers is nestled among the trees here.
+~
+59 0 3 1
+0 0 0 0
+-2 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3968
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5084
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3965
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5041
+E
+patch field ground flower flowers~
+The flowers here are all of a variety of colors.  They all face you, and you
+hear whispering in your voice, telling you 'Don't pick us, don't pick us...'
+Their voices are hypnotic...
+~
+S
+#3968
+Path in Forbidden Forest~
+Your on a path somewhere in the forest. You hear animal life close by.
+Every direction seems passable, but the forest path leads in a north-
+south direction.  You can see a HUGE footprint in the ground here.
+~
+59 0 3 1
+0 0 0 0
+-2 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3969
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5085
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3966
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5040
+E
+ground footprint track~
+A single, deeply imbedded indentation of a HUGE foot is here.  There's only
+one, and it appears to be very recent.  Is this real, or is it only a ploy?
+After all, if you were to move away, you'd leave prints, right?
+~
+S
+#3969
+Path in Forbidden Forest~
+You're on a path somewhere in the forest.  To the north and the west, you hear
+some human laughter.  There are tents set up all around, and smoke rises
+in the air. The path you are on, leads east and south.
+~
+59 4 3 1
+0 0 0 0
+-2 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5009
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5087
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3968
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3970
+E
+tents tent~
+They seem to be made of leather. Rips and holes tell you they are well
+used.
+~
+E
+smoke~
+The smoke sits on the air, not really going anywhere.  It smells like
+something not made of normal wood, to a degree.  You avoid coughing
+in order to evade attention.
+~
+S
+#3970
+Campsite~
+You are in a campsite, surrounded by tents. You hear chatter all around you.
+The lake can be seen to the west, but it doesn't look inviting. The campsite
+continues to the north, while a forest path is east and dense forest is south.
+~
+59 0 3 1
+0 0 0 0
+-2 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4068
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3969
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5040
+E
+campsite tents~
+There are many hide skin tents here, most of which are occupied, but do you
+dare to look inside them?
+~
+S
+#4038
+Beside Lake~
+Water surrounds you on three sides. It seems possible to enter the water
+to the west. There is also a path heading south.
+~
+59 4 3 1
+0 0 0 0
+-2 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3870
+D3
+ ~
+ ~
+$n heads for the water!~
+$n comes splashing in, shivering a bit.~
+1 -1 4039
+E
+water lake~
+The water looks safe enough for a short swim. You see no sharks present.
+~
+S
+#4039
+Knee-Deep in Lake~
+The cold water caresses your body, making you grit your teeth. Your brain
+tells you to return to the shore by going east, but you sense something
+of importance ahead. The lake gets deeper to the west.  A strange, yellow
+mass of some rubbery material is at your feet, submerged in the shallow waters
+of the lake.
+~
+59 4 6 7
+0 0 0 0
+-2 0 0
+D1
+ ~
+ ~
+$n heads for the shore.~
+$n enters, dripping with water.~
+1 -1 4038
+D3
+ ~
+ ~
+$n heads for deeper water.~
+$n enters, trying to keep afloat.~
+1 -1 4048
+E
+rubber mass boot~
+Hah! It appears to be a small boot made of some strange, magical fabric,
+which appears to be rather flexible yet not tearable.  It's slimy smooth
+to the touch, and it smells rather strangely, like torch wrappings.  However
+it appears to be the only one of a pair, and so you leave it.
+~
+E
+water lake~
+Yep, it's water for sure!
+~
+E
+water lake~
+ ~
+S
+#4048
+Neck-Deep in Lake~
+You are having thoughts of giving up and heading back to shore. The water
+is getting colder, so you bounce around, trying to increase your body
+temperature. The water begins to stir to the north and seems to become
+deeper.
+~
+59 0 6 7
+0 0 0 0
+-2 0 0
+D0
+ ~
+ ~
+$n heads deeper into the lake.~
+$n doggy paddles to you, and floats around in circles.~
+1 -1 4050
+D1
+ ~
+ ~
+$n heads for shallow water.~
+$n enters, a little out of breath.~
+1 -1 4039
+E
+water lake~
+It's FREEZING!
+~
+S
+#4050
+Swimming in Lake~
+Your extremities begin to feel numb as the cold water surrounds your body.
+The cold water saps your energy and your strokes become more difficult. A
+small whirlpool can be seen northward. The lake depth decreases to the
+south.  Your stomach turns as a strange piece of copper plating lies floating
+on the surface of the water.
+~
+59 0 6 7
+0 0 0 0
+-2 0 0
+D0
+ ~
+ ~
+$n enters the whirlpool!~
+$n enters the whirlpool and is tossed violently.~
+1 -1 3949
+D2
+ ~
+ ~
+$n shivers uncontrollably, and heads for safer water.~
+$n swims next to you, panting heavily.~
+1 -1 4048
+E
+strange copper plating plate armor~
+This is what appears to have been a piece of copper armor, lying on the
+lake surface.  Small brownish ooze that looks vaguely familiar is on the
+top side.  Why is this here? It's just out of arm's reach, so the mystery
+will just have to wait.
+~
+E
+whirlpool pool~
+It looks dangerous, but it also may be rewarding to enter it.
+~
+S
+#4068
+Campsite~
+Tents and laughter surround you from the north, south and east. There seems
+to be quite a bit of smoke rising from the northeast. The lake is to your
+west, and is calm. All other directions will take you around the campsite.
+~
+59 0 3 1
+0 0 0 0
+-2 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4658
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5009
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3970
+E
+tent tents campsite~
+Laughter is heard inside most tents. One tent has a tear and you can see
+two men splitting coins.
+~
+E
+lake water~
+The sky reflects clearly off the waters of the calm, clear lake.  The lake
+is probably where the bandits bathe (IF they bathe), but you have no time
+to keep observing.
+~
+S
+#4658
+Campsite~
+It is a bit quieter here, there is more noise to the east and south. There
+are a few tents here, which are worn and have gaping rips. The smell of
+smoke is present to the east. The lake is west, and there is thick forest
+to the north which is impassable.
+~
+59 0 3 1
+0 0 0 0
+-2 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4659
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4068
+E
+tent tents campsite~
+Your curious eyes peek into a small tent rip and you see two people close
+together. You also hear some moaning. What could be happening?
+~
+S
+#4659
+Campsite~
+It is quiet here. Trees block your way north, but more campsite can be found
+in all other directions. Some tents appearing to be vacant are here.  There
+is smoke rising lazily to the east.
+~
+59 0 3 1
+0 0 0 0
+-2 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4864
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5009
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4658
+E
+tent tents campsite~
+The tents here appear to be empty, with no inhabitants inside.  Apparently
+they're somewhere else, but when will they be coming back?  You probably
+don't want to be on their visitor's list, neh?
+~
+S
+#4861
+Alotta's Office~
+This is Alotta's office.
+~
+59 8 0 0
+0 0 0 0
+-2 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 3730
+S
+#4864
+Campsite~
+There is a few small fires here still buring brightly. Grey smoke rises into
+the sky. Other than that, very little interesting is present. To the north,
+you see a large tent through the foliage. The campsite continues in all
+other directions.
+~
+59 4 3 1
+0 0 0 0
+-2 0 0
+D0
+ ~
+ ~
+$n crawls into the tent.~
+$n enters the tent.~
+1 -1 4869
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4868
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4865
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4659
+E
+campsite~
+It's rather calm now, but I wouldn't stay very long.
+~
+E
+tent tents~
+There are very few tents here. The tent to the north seems inviting.
+~
+E
+fire fires~
+This looks dangerous. You yell, "Fire, fire!".
+~
+E
+smoke~
+You sniff the air, then begin choking violently.
+~
+S
+#4865
+Campsite~
+You are at the edge of a campsite. You see smoke rising from the north. There
+is a forest path to the south, while all other directions lead you to another
+area of the campsite.
+~
+59 0 3 1
+0 0 0 0
+-2 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4864
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4866
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5087
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5009
+E
+campsite~
+It seems tranquil.
+~
+E
+smoke~
+It seems to be coming from the north.
+~
+S
+#4866
+Campsite~
+There are a few tents here, and they seem to be unoccupied. There is a forest
+path to the south. The campsite continues to the north and west, while your
+path east is blocked by huge trees. You smell smoke in the distance.
+~
+59 0 3 1
+0 0 0 0
+-2 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4868
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4865
+E
+tent tents~
+Nobody home!
+~
+E
+campsite~
+Yep, it's a campsite.
+~
+E
+tree trees~
+The trees are tremendous, and their roots and branches block your path.
+~
+S
+#4868
+Campsite~
+You are at the edge of the campsite. Smoke rises to the west. Trees block
+your way north and east. The campsite continues south and west.
+~
+59 0 3 1
+0 0 0 0
+-1 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4866
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4864
+E
+campsite~
+There is not much here, but you see a few tents to the south.
+~
+E
+smoke~
+It looks thick.
+~
+S
+#4869
+In a Large Tent~
+The tent contains many luxury items, such as a coal furnace and a fluffy
+mattress. It seems like the person who lives here is very important to this
+campsite. The only obvious exit is to the south, into the campsite.
+~
+59 8 3 7
+0 0 0 0
+-2 0 0
+D2
+ ~
+ ~
+$n heads out into the cold.~
+$n enters, all warm from the heat.~
+1 -1 4864
+E
+coal furnace~
+It makes the inside of the tent very warm.
+~
+E
+mattress~
+It looks rather comfy and durable, although a not-so-inviting smell projects
+from it.
+~
+S
+#5009
+Outside A Campsite~
+Tents and laughter surround you from the north, south and east. There seems
+to be quite a bit of smoke rising from the northeast. To the south is a
+forest path, while all other directions lead you around the camp.
+~
+59 0 3 1
+0 0 0 0
+-2 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4659
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4865
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3969
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4068
+S
+#5040
+Deep in Forbidden Forest~
+Trees close in around you making visibility poor. There seems to be a lake to
+the west, a path to the east and deep forest to the south.
+~
+59 4 3 1
+0 0 0 0
+-2 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3970
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3968
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5041
+E
+tree trees~
+They tower above you, scaring you greatly.
+~
+E
+lake water~
+You cannot pass through the trees to examine the lake carefully. Maybe you
+can find a way to get closer.
+~
+S
+#5041
+Deep in Forbidden Forest~
+Trees close in around you making visibility poor. There seems to be a lake to
+the west, a path to the east and deep forest to the south.
+~
+59 0 3 1
+0 0 0 0
+-2 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5040
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3966
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5042
+S
+#5042
+Deep in Forbidden Forest~
+The trees become thinner to the south and a path seems to be toward the
+east.  There appears to be some brown, smelly matter on the ground here.
+~
+59 0 3 3
+0 0 0 0
+-2 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5041
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3965
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5043
+E
+brown smelly matter dung bear~
+Judging from the tracks surrounding this pile of matter, you figure that a
+bear left this here.  This brings a great deal of surety to your life.
+~
+E
+tree trees~
+They all have brown bark and leaves.
+~
+S
+#5043
+Inside the Forbidden Forest~
+You are just inside the forest. The trees become more numerous to the north,
+and thin out to the south. A worn out path in the forest is eastward. It is
+possible to squeeze through the trees to the west.
+~
+59 4 3 1
+0 0 0 0
+-2 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5042
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3964
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3863
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3870
+E
+tree trees~
+You walk up to a tree and study it closely.
+~
+S
+#5044
+Edge of Forbidden Forest~
+You are on the outside of the forest. The path around the outside of the
+forest continues east and west. To the north the trees become more numerous.
+Far above your head you notice a handsome blue bird.
+~
+59 4 3 1
+0 0 0 0
+-2 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5080
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5047
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3862
+E
+parrot norweigan blue bird~
+This lively parrot perches on a branch a full twenty meters above your head.
+It sings a sad, mournful song in some sort of human language which you can't
+understand.  It has remarkably brilliant blue and yellow plumage.  Unlike
+most birds, this parrot is leaning on its side.  Apparently it's resting.
+~
+S
+#5047
+Edge of Forbidden Forest~
+You are on the outside of the forest. The path around the outside of the
+forest continues east and west. To the north the trees become more numerous.
+~
+59 4 3 1
+0 0 0 0
+-1 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5064
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5048
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5044
+S
+#5048
+Edge of Forbidden Forest~
+The grass and dirt seems to be getting softer here. Your feet begin to sink
+into the moist earth. The forest edge continues east and west. To the north
+and also to the east, the ground becomes more unstable.
+~
+59 4 3 1
+0 0 0 0
+-2 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5063
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5057
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5047
+E
+grass dirt~
+You are standing on it!
+~
+S
+#5057
+Edge of Forbidden Forest~
+The most noticeable feature you see is a big pool of mud to the east. The
+mud seems to extend quite a ways to the northeast. The edge of the forest
+is west, while to the north the ground becomes even softer. You had better
+move soon, before you're stuck in the mushy ground.
+~
+59 0 3 1
+0 0 0 0
+-2 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5062
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5048
+E
+mud pool~
+It is a huge pool of mud which cannot be entered.
+~
+E
+mushy ground~
+You can't see your feet, they are engulfed in the earth.
+~
+S
+#5062
+Edge of Mud Pool~
+Your feet sink deep into the saturated ground. Mud stretches as far as the
+eye could see to the northeast. The ground becomes drier to the south, while
+more saturated ground is westward. Move quickly, before you're stuck in the
+earth.
+~
+59 0 3 7
+0 0 0 0
+-2 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5057
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5063
+E
+mud pool~
+If you enter it, you won't come out alive.
+~
+S
+#5063
+Edge of Mud Pool~
+Your feet sink deep into the muddy ground. There is more mud to the east.
+The edge of forest is south, while west brings you inside the forest. Your
+way north is blocked by the mud pool. You had better move quick, your likely
+to sink in.
+~
+59 4 3 7
+0 0 0 0
+-2 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5062
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5048
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5064
+E
+mud pool~
+It's thick, brown and you don't want to step in it.
+~
+S
+#5064
+Inside the Forbidden Forest~
+The trees begin to become more numerous here. North leads you deeper into
+the forest, while to the south the forest thins out. More forest can be seen
+to the west, and the ground becomes softer as you go east.
+Soft green ferns cover the lush, verdant ground here.
+~
+59 0 3 1
+0 0 0 0
+-2 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5082
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5063
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5047
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5080
+E
+fern ferns ground plants~
+l
+see a glowing path of light following you.  The ferns magically stand up again
+to be renewed whole.  Can these ferns actually die?  It might be hazardous to
+actually try ripping one out, so you pass on this potential adventure.
+~
+E
+tree trees~
+All you see are leaves, branches and bark.
+~
+S
+#5080
+Inside the Forbidden Forest~
+The forest continues to the north, east and south. The trees become more
+numerous to the north and fewer to the south. A forest path is west.
+A patch of flowers, daisies, apparently, covers the forest ground here.
+~
+59 0 3 1
+0 0 0 0
+-2 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5081
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5064
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5044
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3964
+E
+flower flowers patch daisy daisies~
+These daisies are enchanted! Each has a face, with fanged teeth.  One slowly
+whispers, 'You shall perish! Pain shall be your fate! Mothers shall whisper
+your name to frighten their newborn!  Blood is in your future! Blood! BLOOD!
+BL(urg)... You quickly step on the daisy, having no desire to hear any more
+of its cruel, sick thoughts.
+~
+E
+tree trees~
+You walk up to a tree and knock your head against it. It's solid!
+~
+S
+#5081
+Deep in Forbidden Forest~
+The thick trees swarm around you. Deep forest is north and east, while the
+trees thin out southward. To the west is a path of some type.
+~
+59 0 3 1
+0 0 0 0
+-2 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5084
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5082
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5080
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3965
+E
+tree trees~
+You notice one tree infested with caterpillars. Yuck!
+~
+S
+#5082
+Deep in Forbidden Forest~
+The thick trees swarm around you. Deep forest is north and west, while the
+trees thin out towards the south. Dense trees block your way east.
+You recoil in disgust as swarms of tiny ants cover your feet, turning your
+stomach.
+~
+59 0 3 1
+0 0 0 0
+-2 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5083
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5064
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5081
+E
+ant ants swarm ground~
+This appears to be a war between two groups of ants, one red, one black.
+The two have apparently built homes too close to each other.  You wonder what
+it would be like if the ants were larger.  Certainly dangerous, you think. But
+fortunately everyone knows that there are no giant ants in Medevia.
+~
+E
+tree trees~
+They are extremely tall, and unclimbable.
+~
+S
+#5083
+Deep in Forbidden Forest~
+The thick trees swarm around you. Deep forest can be seen to the north,
+south and west. Dense trees block your way east.  Greenish, musty mold covers
+the ground here, coming up to your heels.
+~
+59 0 3 1
+0 0 0 0
+-2 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5086
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5082
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5084
+E
+mold ground green greenish dusty mould~
+This greenish, filmy mold covers the ground here.  Strangely, there are no
+grasses, leaves, or insects on the ground here... but they seem alive on the
+trees.  What is this mold exactly?
+~
+E
+tree trees~
+There is nothing of interest.
+~
+S
+#5084
+Deep in Forbidden Forest~
+The thick trees swarm around you. There is a small path to the west, while
+all other directions lead you into deep forest.  A pair of moose antlers lie
+on the ground here.
+~
+59 0 3 1
+0 0 0 0
+-2 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5085
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5083
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5081
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3966
+E
+moose antlers~
+These long, pointy antlers have been sitting here for a while, judging from
+their appearance.  These probably belonged to a large buck.
+~
+E
+tree trees~
+There is nothing of interest.
+~
+S
+#5085
+Deep in Forbidden Forest~
+The thick trees swarm around you. Deep forest can be seen to the south
+and east, while small paths can be seen to the north and west.
+A tiny hole is in the middle of the ground here... some sounds come from it.
+~
+59 0 3 1
+0 0 0 0
+-2 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5087
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5086
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5084
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3968
+E
+hole ground~
+This appears to be a small, fist-sized hole in the ground.  You can hear small,
+nibbling sounds faintly from the hole.  You peek inside, and see a small,
+vaguely anthropomorphic rabbit inside, munching on a root.  The rabbit turns,
+looks at you with a grin on its face, and asks, 'What's up, doc?'  Dumbfound,
+you walk away.
+~
+E
+tree trees~
+There is nothing of interest.
+~
+S
+#5086
+Deep in Forbidden Forest~
+The thick trees swarm around you. Deep forest can be seen to the south
+and east, while small paths can be seen to the north and west.
+~
+59 0 3 1
+0 0 0 0
+-2 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5088
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5083
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5085
+E
+tree trees~
+There is nothing of interest.
+~
+S
+#5087
+Path in Forbidden Forest~
+The path continues to the east and west, through the trees. Deeper forest
+is to the south and a type of camp area is north.
+~
+59 4 3 1
+0 0 0 0
+-2 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4865
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5088
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5085
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3969
+E
+tree trees~
+They are tall.
+~
+E
+camp campsite~
+You can't make out many details.
+~
+S
+#5088
+Path in Forbidden Forest~
+The path continues to the east and west, through the trees. Deeper forest is
+to the south. Dense trees block your way north.  A small spring of water is on
+the ground here, resting quietly.
+~
+59 262148 3 1
+0 0 0 0
+-2 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5089
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5086
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5087
+E
+water spring ground~
+This is a small, naturally appearing spring, with fresh water.  It is clean-
+smelling, although a bit rusty-tasting.  You think that this is a pretty nice
+and quiet part of the woods, pleasant enough for a picnic, although you
+probably wouldn't want to be disturbed by any wild bears or the like.
+~
+E
+bird~
+It's just a baby, leave it alone.
+~
+E
+tree trees~
+You see a little bird, tweeting proudly.
+~
+S
+#5089
+Path in Forbidden Forest~
+The path continues to the north and west, through the trees. Deeper forest
+is east, while to the south there are massive trees, making it impossible
+to continue in that direction.
+~
+59 0 3 1
+0 0 0 0
+-2 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5152
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5090
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5088
+E
+tree trees~
+There is nothing of interest.
+~
+S
+#5090
+Deep in Forbidden Forest~
+The thick trees swarm around you. The deep forest continues to the north
+and east. A forest path can be seen to the west. Large trees block your
+way south.
+~
+59 0 3 1
+0 0 0 0
+-2 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5471
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5091
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5089
+E
+tree trees~
+There is nothing of interest.
+~
+S
+#5091
+Deep in Forbidden Forest~
+The thick trees swarm around you. Huge trees surround you to the north and
+south, making it impossible to pass through. To the west is a deep forest
+and to the east, it seems possible to penetrate the foliage.
+~
+59 4 3 1
+0 0 0 0
+-2 0 0
+D1
+The trees are too dense to look that way.
+~
+ ~
+$n heads into the trees to the east.~
+$n scrambles out of the trees to the west, a little scratched.~
+1 -1 5092
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5090
+S
+#5092
+Deep in Forbidden Forest~
+The thick trees swarm around you. Huge trees surround you to the north and
+south, making it impossible to pass through. To the west is a deep forest
+and to the east, it seems possible to penetrate the foliage.
+~
+59 4 3 1
+0 0 0 0
+-2 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5093
+D3
+The trees are too dense to look that way.
+~
+ ~
+$n heads into the trees to the west.~
+$n comes out of the trees to the east, with a few cuts.~
+1 -1 5091
+E
+tree trees~
+You may be able to pass through the trees to the east.
+~
+S
+#5093
+Edge of Mud Pool~
+You are standing at the edge of a mud pool. It extends as far as you can see
+to the east. Trees block your way to the north. The edge of the mud pool is
+west, while south places you in deeper mud.
+~
+59 0 3 7
+0 0 0 0
+-2 0 0
+D2
+ ~
+ ~
+$n heads into the mud pool!~
+$n enters, and sinks into the mud.~
+1 -1 5094
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5092
+E
+mud pool~
+Standing in the mud seems unsafe.
+~
+E
+tree trees~
+You may be able to pass through the trees to the west.
+~
+S
+#5094
+Inside the Mud Pool~
+You are trying to stand in the mud. Your feet begin to sink in, so you had
+better move quickly. Safer ground is to the north, while southward is deeper
+mud. To the west and east, the mud is very watery, making it impossible to
+enter.
+~
+59 0 4 3
+0 0 0 0
+-2 0 0
+D0
+ ~
+ ~
+$n heads for safer ground.~
+$n enters, with mud all over.~
+1 -1 5093
+D2
+ ~
+ ~
+$n heads for deeper mud.~
+$n enters, struggling through the thick mud.~
+1 -1 5095
+E
+feet boot boots~
+Your feet are covered in mud.
+~
+E
+mud pool~
+There is mud all around.
+~
+S
+#5095
+Inside Deep Mud Pool~
+You are trying to stand in the mud. You sink deeper into the mud here. It
+is safer to the north, while southward is deeper mud. To the west and east,
+the mud is very watery, making it impossible to enter.
+~
+59 0 4 7
+0 0 0 0
+-2 0 0
+D0
+ ~
+ ~
+$n heads north, struggling through the mud.~
+$n enters, covered in mud.~
+1 -1 5094
+D2
+ ~
+ ~
+$n heads for deeper mud.~
+$n enters, struggling through the deep mud.~
+1 -1 5096
+E
+ankle ankles~
+It's covered in thick mud.
+~
+E
+feet boot boots~
+Your feet, as well as your ankles, are covered in thick mud.
+~
+E
+mud pool~
+There is mud all around.
+~
+S
+#5096
+Inside Very Deep Mud Pool~
+You are trying to stand in the mud. You sink deeper into the mud here. It is
+safer to the north, while eastward seems to be some sort of clear area, free
+from mud! To the south and west, the mud is very watery, making it
+impossible to enter.
+~
+59 4 4 7
+0 0 0 0
+-2 0 0
+D0
+ ~
+ ~
+$n heads north, struggling through the mud.~
+$n enters, covered in thick mud.~
+1 -1 5095
+D1
+ ~
+ ~
+$n happily heads for a clearing.~
+$n enters, covered in mud, and sighs happily.~
+1 -1 5097
+E
+knee knees ankle ankles~
+It's covered in thick mud.
+~
+E
+feet boot boots~
+Your feet are covered in mud, as well as your ankles and knees.
+~
+E
+mud pool~
+There is mud all around, but to the east, you see a small area void of mud.
+~
+S
+#5097
+Clearing~
+You are in a small clearing, void of mud. This seems to be a natural
+phenomenon, but you are not sure. The only way out seems to be west, since
+all other directions contain very watery mud.
+~
+59 0 3 7
+0 0 0 0
+-2 0 0
+D3
+ ~
+ ~
+$n heads into the thick mud.~
+$n for some strange reason returns into the disgusting brown ooze.~
+1 -1 5096
+E
+clearing~
+It is clear of mud here.
+~
+S
+#5152
+Path in Forbidden Forest~
+You are standing on a path which leads in a north-south direction. Trees,
+which block your way, stand on your east and west.
+~
+59 0 3 1
+0 0 0 0
+-2 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5153
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5089
+E
+tree trees~
+The trees here seem incredibly tall, and you wonder why they stand out.
+Perhaps these trees are the oldest in the forest, but do you have the
+time to stop and attempt to cut them down? Besides, nice animals
+use trees as living space, and you have to think of them too, right?
+~
+S
+#5153
+Path in Forbidden Forest~
+You are standing on a path which leads in a north-south direction. Trees block
+your way to the west, but it's possible to pass through the trees to the east.
+~
+59 0 3 1
+0 0 0 0
+-2 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5154
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5717
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5152
+S
+#5154
+Path in Forbidden Forest~
+You are standing on a path which leads both west and south. Trees block your
+way to the north and east.
+~
+59 0 3 1
+0 0 0 0
+-2 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5153
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5155
+S
+#5155
+Path in Forbidden Forest~
+You are standing on a path which leads both north and east. Trees block
+your way to the south and west.
+~
+59 0 3 1
+0 0 0 0
+-2 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5156
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5154
+S
+#5156
+Path in Forbidden Forest~
+You are traveling on a path which leads in an east-west direction. Trees
+block your way north and east.
+~
+59 0 3 1
+0 0 0 0
+-2 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5155
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5158
+S
+#5157
+Small Clearing~
+There is a few sparse trees here. Huge trees surround you to the north,
+south and west.  Exits appear to the be east or west, deeper into
+the forest.
+~
+59 0 3 1
+0 0 0 0
+-2 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5158
+E
+tree trees~
+You look at a tree so closely, you smash your nose into it.
+~
+S
+#5158
+Path in Forbidden Forest~
+You are traveling on a path which leads both north and east. To the north,
+in the distance, you see a large metal gate, possibly guarding a village.
+You can pass through the trees to the west, into a clearing. Trees block
+your way to the south.
+~
+59 0 3 1
+0 0 0 0
+-2 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5159
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5156
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5157
+E
+metal gate~
+It is very high, but you can't make out many details.
+~
+S
+#5159
+Outside the Village Gate~
+You are just outside a large metal gate. The gate is open now, but you don't
+know for how long. There are paths to the north and south. You see nothing of
+interest to the east or west, just a few sparse trees.
+~
+59 4 3 0
+0 0 0 0
+-2 0 0
+D0
+ ~
+ ~
+$n walks north, and passes through the gate.~
+$n enters, looking in all directions.~
+1 -1 5161
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5158
+E
+tree trees~
+There is nothing of interest.
+~
+E
+large metal gate~
+Large dents mar the surface of this solid metal gate, but it appears to be
+very strong and resilent.  Rust can be found on the surface in small brown
+patches, a telltale sign that this gate is rather old.
+~
+S
+#5161
+Inside the Village Gate~
+You are on a path, just inside the village gate. There is a square to the
+north, probably the meeting place for the villagers. To the west you see
+a small shop, and to the east you see a booth with a sign. The village gate
+is southward.  A large pole stands on the path, a human skull impaled on the
+top.
+~
+59 4 1 0
+0 0 0 0
+-2 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5166
+D1
+ ~
+ ~
+$n enters the booth.~
+$n enters the booth, searching for information.~
+1 -1 5163
+D2
+ ~
+ ~
+$n heads south, out of the village.~
+$n enters, with a few souvenirs.~
+1 -1 5159
+D3
+ ~
+ ~
+$n enters the market.~
+$n enters the market.~
+1 -1 5162
+E
+pole head skull~
+Eww! This skull is rather grim and grotesque, although it is bleached
+white and has few blemishes.  Aside from the BIG one with the pole sticking
+through.  The locals seem to give this head a WIDE berth.
+~
+E
+sign~
+You squint your eyes, but you can't read it from here.
+~
+E
+booth~
+Why not investigate it further?
+~
+E
+shop~
+Why not go in?
+~
+S
+#5162
+Market~
+A small market, which has many different types of edible food for sale.
+Warm breezes enter the slightly dry room from the door to the east.
+The manager points to a sign, which fortunately has some Common writing on it.
+While not in such a clean or presentable form as that of your home, you
+can clearly see piles of juicy, freshcut meat, wheat, potatoes, other grains,
+and other foodstuffs.  These people eat well, apparently.
+~
+59 8 1 0
+0 0 0 0
+-2 0 0
+D1
+ ~
+ ~
+$n leaves the market.~
+$n enters, out of the market shop.~
+1 -1 5161
+E
+sign~
+The sign reads:
+Ulkomalaiset eivat voi ostaa ruokaa tassa. Se on vain
+ruokaa tapiolan kaupunkille. Ymmaratko? Hyvaa.
+     To all english speaking visitors-
+         Visitors are not allowed to buy food here.
+         This market is only open to villagers.
+                          Thank you,
+                             Market Manager
+~
+E
+wheat corn potato potatoes~
+It's in the corner, in a huge pile.
+~
+E
+meat~
+All the meat looks rather juicy.
+~
+E
+food~
+There are many types of meat displayed here. There is also wheat, corn and
+potatoes too.
+~
+S
+#5163
+Village Information Booth~
+There is a booth set up here to welcome visitors. The exit is west.
+There is a SIGN here.
+~
+59 8 1 0
+0 0 0 0
+-2 0 0
+D3
+ ~
+ ~
+$n leaves the booth, after getting some information.~
+$n comes out of the booth and waits here.~
+1 -1 5161
+E
+booth~
+It's a booth, what else do you want to know?
+~
+E
+sign~
+Da plara reopi:
+     Mugu po dars, unt arn varaya.
+     (If you speak english, look at the english version)
+                        Villagers of Ungiri
+~
+E
+unt arn varaya~
+Da plara reopi:
+     Da kow aln oveg rift kok larde goofu. Ungiri wan
+     helf eny pasade ef pasade nedy helf.
+~
+E
+english version~
+The english sign reads:
+We welcome you to the village of Ungiri. Our village
+is not wealthy, but we manage through hard work. You
+are free to walk around the village. Homes can be
+found eastward. Leaders' homes and our temple can be
+found westward. The leaders are often extremely busy
+and do not want to be bothered. Our forest is to the
+north, as well as our butchering shop.
+We wish you an enjoyable stay here at the Ungiri
+Village.
+Ungiri High Council
+~
+S
+#5166
+Village Square~
+There is a stone statue here of a man with a spear. Benches surround the
+statue, for people to rest on and chat with fellow villagers. There is a
+brick path to the west, a worn-out path to the north and a dirt path to
+the east. To the south is a gate.
+~
+59 0 1 0
+0 0 0 0
+-2 0 0
+D0
+ ~
+ ~
+$n walks north, on the worn-out path.~
+$n enters, and surveys the area.~
+1 -1 5186
+D1
+ ~
+ ~
+$n walks east, on the dirt path.~
+$n enters, then stops here to survey the area.~
+1 -1 5167
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5161
+D3
+ ~
+ ~
+$n walks west, onto the stone path.~
+$n enters, and surveys the surrounding area.~
+1 -1 5290
+E
+statue~
+It is extremely detailed and very lifelike. It must have been created by
+a real craftsman.
+~
+E
+bench benches~
+They are all made out of stone, and don't look very comfortable.
+~
+S
+#5167
+Dirt Path~
+You are on a dirt path. The dirt path continues east. The village square
+is to the west. There are weeds to the north, and the outside wall of a
+booth can be seen to the south. There is no entrance to the booth here.
+~
+59 0 1 0
+0 0 0 0
+-2 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5173
+D3
+ ~
+ ~
+$n heads for the village square.~
+$n enters, from the dirt path to the east.~
+1 -1 5166
+E
+weed weeds~
+Yep, just what you thought!
+~
+E
+wall~
+It's solid.
+~
+S
+#5173
+Dirt Path~
+You are on a dirt path. The dirt path continues in an east-west direction.
+There is a small home to the north, and weeds are to the south.
+~
+59 0 1 0
+0 0 0 0
+-2 0 0
+D0
+ ~
+ ~
+$n enters the home.~
+$n enters the home, and searches around.~
+1 -1 5177
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5178
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5167
+E
+weed weeds~
+Yep, just what you thought!
+~
+S
+#5177
+Village Home~
+This is a small house made out of chopped tree wood. There is nothing here
+except straw on the floor. The exit is south.
+~
+59 0 1 0
+0 0 0 0
+-2 0 0
+D2
+ ~
+ ~
+$n leaves the home.~
+$n walks out of the home, onto the dirt path.~
+1 -1 5173
+E
+chopped tree wood~
+It looks like it holds out the weather.
+~
+E
+straw floor~
+The straw on the floor is probably used to sleep on.
+~
+S
+#5178
+Dirt Path~
+You are on a dirt path. There are homes to the north and south. There is dense
+forest to the east.
+There is a sign here, attached to a tree.
+~
+59 0 1 0
+0 0 0 0
+-2 0 0
+D0
+ ~
+ ~
+$n enters a home.~
+$n enters the home, and searches feverishly.~
+1 -1 5179
+D2
+ ~
+ ~
+$n enters a home.~
+$n enters the home, and searches for clues.~
+1 -1 5184
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5173
+E
+sign~
+While the top is in Ungiri and you can't make heads or tails of it,
+there is a small note in English you can make out.
+The sign reads:
+     To all english speaking visitors-
+        Homes in the forest to the east are NOT
+        accessible to visitors.
+                           Ungiri High Council
+~
+S
+#5179
+Village Home~
+This is a small home made out of chopped tree wood. There is nothing here
+except straw on the floor. The exit is south.
+~
+59 0 1 0
+0 0 0 0
+-2 0 0
+D2
+ ~
+ ~
+$n leaves the home.~
+$n walks out of a home, onto the dirt path.~
+1 -1 5178
+E
+chopped tree wood~
+It looks pretty strong.
+~
+E
+straw floor~
+The straw on the floor is used to sleep on.
+~
+S
+#5184
+Village Home~
+This is a small home made out of chopped tree wood. There is nothing here
+except straw on the floor. The exit is north.
+~
+59 0 1 0
+0 0 0 0
+-2 0 0
+D0
+ ~
+ ~
+$n leaves the home.~
+$n walks out of a home, onto the dirt path.~
+1 -1 5178
+E
+chopped tree wood~
+You touch the wood, and it breaks apart. The wood seems to be water logged.
+~
+E
+straw floor~
+The straw on the floor may be used to sleep on.
+~
+S
+#5186
+Worn-Out Path~
+You are on a worn-out path. The worn-out path continues to the north. The
+village square is to the south. Weeds block your way to the east and west.
+~
+59 0 1 0
+0 0 0 0
+-2 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5188
+D2
+ ~
+ ~
+$n heads toward the village square.~
+$n enters, from the worn-out path.~
+1 -1 5166
+E
+weed weeds~
+Yep, just as you thought!
+~
+S
+#5188
+Worn-Out Path~
+You are on a worn-out path. The path continues in a north-south direction.
+There is a shop to the east, which you can enter. There is dense weeds
+to the west.  A rank smell emerges from the shop.  The beaten path has some
+unusual stains on it.
+~
+59 0 1 0
+0 0 0 0
+-2 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5364
+D1
+ ~
+ ~
+$n enters the shop.~
+$n enters the shop, while gagging from the stench.~
+1 -1 5194
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5186
+E
+weed weeds~
+Yep, just as you thought!
+~
+E
+smell stain~
+A small trickle of brown dried material is on the ground, leading into
+the shop.
+~
+S
+#5194
+Butchering Shop~
+This is a small, foul smelling butcher shop. This is where the animals
+caught by the Unigiri hunters and huntresses is brought. There is blood
+all over the shop. The exit is west.
+~
+59 8 1 0
+0 0 0 0
+-2 0 0
+D3
+ ~
+ ~
+$n leaves the shop.~
+$n walks out of the shop, onto the worn-out path.~
+1 -1 5188
+E
+smell stench floor~
+This room smells HORRIBLE! Blood stains of Vryce knows what kind of animals
+cover the floor, the brown spots of dust nauseating you.  How in the world
+could you presume that all that making meat was easy? You swear never to
+kill another cow again.
+~
+E
+table block chopping cleaver~
+A large wooden block as tall as your waist stands here, with various forms
+of organic matter covering the surface.  You're not sure you feel that
+fantastic.
+~
+S
+#5274
+Ungiri Forest~
+Trees tower above you here. It is awful quiet. The way south is cut off by
+dense weeds. You also cannot go to the west, since dense foliage blocks your
+path. The forest continues to the north and east.
+~
+59 0 3 1
+0 0 0 0
+-2 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5276
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5366
+S
+#5276
+Ungiri Forest~
+Trees tower above you here. It is awful quiet. The forest is too dense to
+continue to the north or west. The forest continues to the south and east.
+~
+59 0 3 1
+0 0 0 0
+-2 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5277
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5274
+E
+tree trees~
+There is nothing of interest.
+~
+S
+#5277
+Ungiri Forest~
+Trees tower above you here. It is awful quiet. The forest is too dense to
+continue northward. To the south, east and west the forest continues.
+Several trees bear interesting markings, the like of which you have
+seen before.
+~
+59 0 3 1
+0 0 0 0
+-2 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5279
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5366
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5276
+E
+tree trees~
+There is nothing of interest.
+~
+E
+markings carving note~
+A small star and moon is etched on a fir tree here.  This probably denotes
+an Elven icon.  Strange, since you passed through the settlement and saw
+no elves.  Perhaps they cooperate with the natives to hunt.  That could
+be the cause of the Ungiri's prosperity.
+~
+S
+#5279
+Ungiri Forest~
+Trees tower above you here. It is awful quiet. The forest continues in all
+directions.
+~
+59 0 3 1
+0 0 0 0
+-2 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5280
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5282
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5288
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5277
+E
+tree trees~
+There is nothing of interest.
+~
+S
+#5280
+Ungiri Forest~
+Trees tower above you here. It is awful quiet. Dense, unpassable forest is to
+the north and west. The forest contuinues south and east.
+Some trees are marked here in a strange fashion.  The cuts look as if made in
+a great deal of a hurry.
+~
+59 0 3 0
+0 0 0 0
+-2 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5281
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5279
+E
+cut cuts~
+They seem to be made by a sharp device, maybe a type of weapon the Ungiri
+use for hunting.
+~
+E
+tree trees~
+There are cuts in one of the trees.
+~
+S
+#5281
+Ungiri Forest~
+Trees tower above you here. It is awful quiet. Dense trees block your way to
+the north and east. It is possible to go south and west from here.
+~
+59 0 3 1
+0 0 0 0
+-2 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5282
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5280
+E
+tree trees~
+There is nothing of interest.
+~
+S
+#5282
+Ungiri Forest~
+Trees tower above you here. It is awful quiet. The trees and foliage are
+too dense to continue east. The forest continues to the north, south and
+west.
+~
+59 0 3 1
+0 0 0 0
+-2 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5281
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5283
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5279
+E
+tree trees~
+There is nothing of interest.
+~
+S
+#5283
+Ungiri Forest~
+Trees tower above you here. It is awful quiet. The way east is blocked by
+trees. Dense weeds cut off your way to the south. The forest continues to the
+north and west.
+~
+59 0 3 1
+0 0 0 0
+-2 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5282
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5288
+E
+weed weeds~
+Yep, just as you thought!
+~
+E
+tree trees~
+There is nothing of interest.
+~
+S
+#5288
+Ungiri Forest~
+Trees tower above you here. It is awful quiet. There is dense weeds to your
+south, blocking your way. The forest continues to the north, east and west.
+~
+59 0 3 1
+0 0 0 0
+-2 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5279
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5283
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5366
+E
+weed weeds~
+Yep, just as you thought!
+~
+E
+tree trees~
+There is nothing of interest.
+~
+S
+#5290
+Stone Path~
+You are on a stone path. The stone path continues to the west. The village
+square is off to the east. There are dense weeds to the north, and a wall to
+a shop is to the south.
+~
+59 0 1 0
+0 0 0 0
+-2 0 0
+D1
+ ~
+ ~
+$n heads for the village square.~
+$n enters, from the stone path.~
+1 -1 5166
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5293
+E
+wall~
+It's solid.
+~
+E
+weed weeds~
+Yup, just as you thought!
+~
+S
+#5293
+Stone Path~
+You are on a stone path. The stone path continues to the south, east and west.
+There is a small, wooden building to the north. It has the word "Templara"
+carved into a wood board above the entrance.
+There is a SIGN here, attached to a wooden board, to the left of the entrance.
+~
+59 4 1 0
+0 0 0 0
+-2 0 0
+D0
+ ~
+ ~
+$n enters the building to the north.~
+$n enters the temple, and utters a short prayer.~
+1 -1 5294
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5290
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5296
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5295
+E
+sign board~
+While a lot of Ungiri writing appears at the top of the page, part of it
+is in English. (Why is it called English, anyway?)
+The sign reads:
+     To all english speaking visitors-
+        This temple is open for business to people
+        of the warrior and thief classes.
+                          Temple Preacher
+~
+E
+building~
+It looks like you may be able to enter it.
+~
+S
+#5294
+Ungiri Temple of Faith~
+This is a small and very plain temple. There is an altar against the north
+wall. This seems to be the place where villagers come to pray. The exit is
+south.
+~
+59 8 1 0
+6 0 0 0
+-2 0 0
+D2
+ ~
+ ~
+$n leaves the temple, after offering some prayers.~
+$n walks out of the temple, fullfilled.~
+1 -1 5293
+E
+altar~
+Large and made of stone, this altar has a strange, bloody colored stain
+covering it.  It gives you the creeps!
+~
+E
+temple~
+There is nothing here of interest, except for the altar.
+~
+S
+#5295
+Stone Path~
+You are on a stone path. The stone path continues in an east-west direction.
+There are dense weeds to the north. To the south, you see a home made of
+wooden boards. The entrance to the home is not here though.
+~
+59 0 1 0
+0 0 0 0
+-2 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5293
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5381
+E
+home~
+It looks like a medium-sized home.
+~
+E
+wood board boards~
+It's solid.
+~
+E
+weed weeds~
+Yup, just as you thought!
+~
+S
+#5296
+Stone Path~
+You are on a stone path. The stone path continues to the north. To the west,
+you see an entrance to a medium-sized home. To the east you see a wall of a
+shop, while southward is a high metal gate.
+~
+59 4 1 0
+0 0 0 0
+-2 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5293
+D3
+ ~
+ ~
+$n walks into the home.~
+$n enters the home, and bows.~
+1 -1 5380
+E
+metal gate~
+It is unclimbable.
+~
+E
+wall~
+It's solid.
+~
+E
+home~
+It is made out of wood.
+~
+S
+#5364
+Worn-Out Path~
+You are on a worn-out path. The path continues in a north-south direction.
+Weeds are to the east and west.
+~
+59 0 1 0
+0 0 0 0
+-2 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5365
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5188
+E
+weed weeds~
+Yep, just as you thought!
+~
+S
+#5365
+Worn-Out Path~
+You are on a worn-out path. There is quite a few trees to the north. The
+worn-out path leads south. Dense weeds are to the east and west.
+~
+59 4 1 0
+0 0 0 0
+-2 0 0
+D0
+ ~
+ ~
+$n heads into the forest.~
+$n passes through the trees, and stands next to you.~
+1 -1 5366
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5364
+E
+weed weeds~
+Yep, just as you thought!
+~
+S
+#5366
+Ungiri Forest~
+Some trees tower above you here. It is awfully quiet. The forest continues to
+the north, east and west. A path can be seen to the south.
+A few well-worn, yet jagged rocks lie on the ground here.
+~
+59 0 3 1
+0 0 0 0
+-2 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5277
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5288
+D2
+ ~
+ ~
+$n walks south, to the worn-out path.~
+$n walks out of the forest, and waits here.~
+1 -1 5365
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5274
+E
+stone rock jagged whetstone rocks stones~
+These are probably whetstones, a primitive technique used by the natives to
+sharpen their weapons.  Most of the Ungiri use these to keep their hunting
+weapons in good shape; those who don't probably don't end up eating.
+~
+E
+tree trees~
+There is nothing of interest.
+~
+E
+tree trees~
+Yep, it's a tree!
+~
+S
+#5380
+Home of Ungiri Council Member~
+This is a home of a council member. The entire home is made out of wood.
+There is a wooden table and chair in the center of the room. There is woven
+foliage in the corner of the room, which serves as a bed. The exit is east.
+~
+59 8 1 0
+0 0 0 0
+-2 0 0
+D1
+ ~
+ ~
+$n leaves the home quietly.~
+$n walks onto the brick path, from the home.~
+1 -1 5296
+E
+paper~
+Ga laden:
+     Da placa fo vilea estfa wal ena tre dorda
+     wank da sarta gama dard.
+                         Metu ka bladeklu
+~
+E
+woven foliage~
+It looks like it was done by a professional. It serves well as a bed.
+~
+E
+chair~
+It doesn't look very comfortable, or sturdy.
+~
+E
+table~
+There is a paper on top of it.
+~
+S
+#5381
+Stone Path~
+You are on a stone path. The stone path continues to the north, east and west.
+The entrance to a medium-sized home is to the south.
+~
+59 4 1 0
+0 0 0 0
+-2 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5383
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5295
+D2
+ ~
+ ~
+$n enters the home.~
+$n enters the home, and bows.~
+1 -1 5382
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5384
+E
+home~
+It seems to keep out the weather well.
+~
+S
+#5382
+Home of Ungiri Council Member~
+This is a home of a council member. The entire home is made out of wood.
+There is a wooden table and chair in one corner. In the opposite corner is
+woven foliage, which is most likely used as a bed. The exit is north.
+~
+59 8 1 0
+0 0 0 0
+-2 0 0
+D0
+ ~
+ ~
+$n leaves the home quietly.~
+$n walks onto the brick path, from the home.~
+1 -1 5381
+E
+woven foliage~
+It is most likely used as a crude bed.
+~
+E
+table chair roof~
+While crudely formed, they have a strong, attractive, primitive look
+to them.  Strong and durable, yet clumsy.
+~
+S
+#5383
+Stone Path~
+You are on a stone path. The stone path continues to the south. The entrance
+to a large wooden home is to your north. Weeds cover your way east and west.
+~
+59 4 1 0
+0 0 0 0
+-2 0 0
+D0
+ ~
+door~
+$n enters the home.~
+$n enters the home, and bows deeply.~
+1 -1 5860
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5381
+E
+home~
+It is made out of wood.
+~
+E
+weed weeds~
+Yep, just as you thought!
+~
+S
+#5384
+Stone Path~
+You are on a stone path. The stone path continues to the east. The entrance to
+a small, wooden building is to the west. It has the word "Templara" carved
+into the wooden boards above the entrance.
+There is a SIGN here, attached to a wooden board, to the left of the entrance.
+~
+59 4 1 0
+0 0 0 0
+-2 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5381
+D3
+ ~
+ ~
+$n enters the building to the west.~
+$n enters the temple, and utters a small prayer.~
+1 -1 5387
+E
+sign~
+The sign reads:
+     To all english speaking visitors-
+        This temple is open for business to people
+        of the mage and cleric classes.
+                        Temple Preacher
+~
+E
+building~
+It looks like you may be able to enter it.
+~
+S
+#5387
+Ungiri Temple of Magic~
+This is a small and very plain temple. There is an altar against the north
+wall. This seems to be the place where villagers come to pray. The exit is
+east.
+~
+59 8 1 0
+9 0 0 0
+-2 0 0
+D1
+ ~
+ ~
+$n leaves the temple, after offering some prayers.~
+$n walks out of the temple, fullfilled.~
+1 -1 5384
+E
+blank~
+ ~
+E
+altar pulpit~
+Large and hewn of rough stone, this altar is covered with wreaths of flowers
+and herbs.  Pungent smells come from under the altar, but is it wise for one
+to despoil a place of the Gods, even if they worship another one?
+~
+E
+temple~
+All that comes to your attention is the altar.
+~
+S
+#5393
+Under the Whirlpool~
+You are under the crystal blue waters of the lake. Your extremities begin
+to freeze up, so you had better get to shore soon. The only exit appears
+to be up, into the whirlpool.
+~
+59 0 6 7
+0 0 0 0
+-2 0 0
+D4
+You see a whirlpool spinning violently.
+~
+ ~
+$n is out of breath, and swims up quickly, into the whirlpool.~
+$n pops up above the water, and starts spinning in the whirlpool.~
+1 -1 3949
+E
+water waters~
+Yep, it's water!
+~
+E
+whirlpool pool~
+It is above you. Watch out, you don't want to get caught up in it.
+~
+S
+#5471
+Deep in Forbidden Forest~
+Trees close in around you making visibility poor. Dense, but passable forest
+continues in a north-south direction. The trees are too dense to walk through
+to the east or west.
+~
+59 0 3 1
+0 0 0 0
+-2 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5717
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5090
+E
+tree trees~
+There is nothing of interest.
+~
+S
+#5717
+Deep in Forbidden Forest~
+Trees close in around you making visibility poor. There is a path to the west,
+while dense, but passable forest can be seen to the south and east. Unpassable
+trees and foliage are northward.
+~
+59 0 3 1
+0 0 0 0
+-2 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5719
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5471
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5153
+E
+tree trees~
+There is nothing of interest.
+~
+S
+#5718
+Dense Forbidden Forest~
+The trees surround you. You lose your sense of direction for the moment. You
+are not sure where your going.
+~
+59 0 3 0
+0 0 0 0
+-2 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5749
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5721
+E
+tree trees~
+The forest is extremely dense.
+~
+S
+#5719
+Deep in Forbidden Forest~
+Trees close in around you making visibility poor. Deep forest is to the
+north, east and west and is passable. To the south, the trees are too dense
+to pass through.
+~
+59 4 3 0
+0 0 0 0
+-2 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5740
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5720
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5717
+E
+tree trees~
+There is nothing of interest.
+~
+S
+#5720
+Deep in Forbidden Forest~
+Trees close in around you making visibility poor. Dense, but passable forest
+leads in an east-west direction. Unpassable forest is to the north and south.
+~
+59 4 3 0
+0 0 0 0
+-2 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5721
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5719
+E
+tree trees~
+There is nothing of interest.
+~
+S
+#5721
+Deep in Forbidden Forest~
+Trees close in around you making visibility poor. Dense, but passable forest
+leads in an east-west direction. Unpassable forest is to the north and south.
+~
+59 0 3 0
+0 0 0 0
+-2 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5718
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5720
+E
+tree trees~
+There is nothing of interest.
+~
+S
+#5740
+Deep in Forbidden Forest~
+Trees close in around you making visibility poor. Deep, but passable forest
+leads in a north-south direction. The forest becomes too dense to the east
+and west.
+~
+59 0 3 0
+0 0 0 0
+-2 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5741
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5719
+E
+tree trees~
+There is nothing of interest.
+~
+S
+#5741
+Deep in Forbidden Forest~
+Trees close in around you making visibility poor. Dense, but passable forest
+is to the south. There is a field to the north. Unpassable forest is to the
+east and west.
+~
+59 0 3 0
+0 0 0 0
+-2 0 0
+D0
+ ~
+ ~
+$n walks onto the field.~
+$n walks onto the field, and then looks around cautiously.~
+1 -1 5742
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5740
+E
+field~
+It looks like tall grass and foliage.
+~
+E
+tree trees~
+There is nothing of interest.
+~
+S
+#5742
+Grazing Field~
+You are standing on a grazing field for animals, most probably. The field
+continues to the east. The forest is to the south, and it is possible to enter.
+To the north and west you find impassable forest.
+~
+59 0 3 0
+0 0 0 0
+-2 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5743
+D2
+ ~
+ ~
+$n heads into the forest.~
+$n steps into the forest, from the field.~
+1 -1 5741
+E
+field~
+The ground here is lush and fertile, with many tall grasses, ferns, and weeds
+standing up to your waist.  The weather here is more humid, misty, and cas far
+as you can tell more 'southern'.  Why is this warm pocket up here in the middle
+of nowhere?  This looks like a great place to hunt; you resolve not to reveal
+the location, in case you are in need of nourishment later.
+~
+S
+#5743
+Grazing Field~
+You are standing on a grazing field for animals, most probably. The field
+continues to the south, east and west. Unpassable forest is to the north.
+~
+59 0 3 0
+0 0 0 0
+-2 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5744
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5748
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5742
+E
+field~
+There is nothing of interest.
+~
+S
+#5744
+Grazing Field~
+You are staning on a grazing field for animals, most probably. The field
+continues to the south and west. Unpassable forest is to the north and
+east.
+~
+59 0 3 0
+0 0 0 0
+-2 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5745
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5743
+E
+field~
+There is nothing of interest.
+~
+S
+#5745
+Grazing Field~
+You are standing on a grazing field for animals, most probably. The field
+continues to the north, south and west. Unpassable forest is to the east.
+A large, circular hole is in the ground here, with small pebbles surrounding
+it.
+~
+59 0 3 0
+0 0 0 0
+-2 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5744
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5746
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5748
+E
+hole crater holes rock pebbles~
+This appears to be the remains of a large rock which fell from the heavens.
+You've seen stars streak in the heavens... perhaps this came from there?
+Anyway, the rock is a teal-blue with veins of vivid coral throughout... it's
+like no rock you've ever seen before.  Small pebbles of the same kind of rock
+scatter the ground here.  Oddly, they are incredibly hot to the touch, and
+you have no desire to be carrying these around in your pockets.
+~
+E
+field~
+The grass and foliage looks nutritional.
+~
+S
+#5746
+Grazing Field~
+You are standing on a grazing field for animals, most probably. The field
+continues to the north and west. Unpassable forest is to the south and east.
+~
+59 0 3 0
+0 0 0 0
+-2 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5745
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5747
+E
+field~
+There is nothing of interest.
+~
+S
+#5747
+Grazing Field~
+You are standing on a grazing field for animals, most probably. The field
+continues to the north and east. Unpassable forest is to the south and west.
+~
+59 0 3 0
+0 0 0 0
+-2 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5748
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5746
+E
+field~
+There is nothing of interest.
+~
+S
+#5748
+Grazing Field~
+You are standing on a grazing field for animals, most probably. The field
+continues to the north, south and east. Unpassable forest is to the west.
+~
+59 0 3 0
+0 0 0 0
+-2 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5743
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5745
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5747
+E
+field~
+There is nothing of interest.
+~
+S
+#5749
+Dense Forbidden Forest~
+The trees surround you. You lose your sense of direction for the moment. You
+are not sure where your going.
+~
+59 0 3 0
+0 0 0 0
+-2 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5750
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5718
+E
+tree trees~
+The forest is extremely dense.
+~
+S
+#5750
+Dark Forbidden Forest~
+The trees surround you. You lose your sense of direction for the moment. You
+are not sure where your going.
+~
+59 1 3 0
+0 0 0 0
+-2 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5751
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5749
+E
+tree trees~
+There is nothing of interest.
+~
+S
+#5751
+Dark Forbidden Forest~
+The trees surround you. You lose your sense of direction for the moment. You
+are not sure where your going.
+~
+59 1 3 0
+0 0 0 0
+-2 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5752
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5750
+E
+tree trees~
+There are no distinguishing features to this part of the woods.  You are
+starting to wonder where the hell you are.
+~
+S
+#5752
+Dark Forbidden Forest~
+The trees surround you. You lose your sense of direction for the moment. You
+are not sure where your going.
+~
+59 1 3 0
+0 0 0 0
+-2 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5753
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5751
+E
+tree trees~
+There is nothing of interest.
+~
+S
+#5753
+Dark Forbidden Forest~
+The trees surround you. You lose your sense of direction for the moment. You
+are not sure where your going.
+~
+59 1 3 0
+0 0 0 0
+-2 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5755
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5752
+E
+tree trees~
+There is nothing of interest.
+~
+S
+#5755
+Dark Forbidden Forest~
+The trees surround you. Your sense of direction still seems lost, but to
+the east you see a shining portal. There is forest to the north and south,
+but it doesn't interest you much. Some interesting forest can be found to
+the west.
+~
+59 5 3 0
+0 0 0 0
+-2 0 0
+D1
+You see a white portal.
+~
+portal~
+$n steps into the portal.~
+$n materializes here.~
+1 -1 5756
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5753
+E
+portal portals gateway~
+This is a shimmering half-circle pulsating with energy, the sheer stuff of
+the planes.  Mana crackles at the edges, although it appears not to be
+harming the ground which it lies upon.  A small, hardly distinct flux of energy
+ripples in the air in the middle of the halo of energy. Do you dare enter it?
+~
+E
+tree trees~
+There is nothing of interest.
+~
+S
+#5756
+In Limbo~
+Your body floats between worlds. White, shining portals can be seen in all
+directions.
+~
+59 4 5 0
+0 0 0 0
+-2 0 0
+D1
+You see a white portal.
+~
+portal~
+ ~
+ ~
+1 -1 5757
+D3
+You see a white portal.
+~
+portal~
+$n floats away, and disappears.~
+$n materializes here.~
+1 -1 5755
+E
+north south~
+You examine the portal closely and notice it's a white wall!
+~
+E
+portal portals~
+You may want to try entering one of them?
+~
+S
+#5757
+Elven Woods~
+You are in dark woods. Your head spins violently as the woods close around
+you. You believe you see a portal to the west.
+~
+59 5 3 0
+0 0 0 0
+-2 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5822
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5823
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5824
+D3
+You see a white portal.
+~
+portal~
+ ~
+ ~
+1 -1 5756
+E
+wood woods~
+There is nothing of interest.
+~
+E
+portal~
+It looks like you can enter it!
+~
+S
+#5822
+Elven Woods~
+You are in dark woods. There is nothing of interest here. Your head spins
+violently as the woods close around you.
+~
+59 1 3 0
+0 0 0 0
+-2 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5757
+D1
+You see dark woods.
+~
+ ~
+ ~
+ ~
+1 -1 5825
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5757
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5826
+E
+wood woods~
+There is nothing of interest.
+~
+S
+#5823
+Elven Woods~
+You are in dark woods. Your head spins violently as the woods close around
+you. You believe you see a portal to the west.
+~
+59 1 3 0
+0 0 0 0
+-2 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5825
+D1
+You see dark woods.
+~
+ ~
+ ~
+ ~
+1 -1 5827
+D2
+You see dark woods.
+~
+ ~
+ ~
+ ~
+1 -1 5829
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5757
+E
+wood woods~
+There is nothing of interest.
+~
+S
+#5824
+Elven Woods~
+You are in dark woods. Your head spins violently as the woods close around
+you. You believe you see a portal to the west.
+~
+59 1 3 0
+0 0 0 0
+-2 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5757
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5757
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5824
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5828
+E
+wood woods~
+There is nothing of interest.
+~
+S
+#5825
+Elven Woods~
+You are in dark woods. There is nothing of interest here. Your head spins
+violently as the woods close around you.
+~
+59 1 3 0
+0 0 0 0
+-2 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5822
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5826
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5823
+D3
+You see dark woods.
+~
+ ~
+ ~
+ ~
+1 -1 5822
+E
+wood woods~
+There is nothing of interest.
+~
+S
+#5826
+Elven Woods~
+You are in dark woods. There is nothing of interest here. Your head spins
+violently as the woods close around you.
+~
+59 1 3 0
+0 0 0 0
+-2 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5825
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5822
+D2
+You see dark woods.
+~
+ ~
+ ~
+ ~
+1 -1 5827
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5825
+E
+wood woods~
+There is nothing of interest.
+~
+S
+#5827
+Elven Woods~
+You are in dark woods. There is nothing of interest here. Your head spins
+violently as the woods close around you.
+~
+59 1 3 0
+0 0 0 0
+-2 0 0
+D0
+You see dark woods.
+~
+ ~
+ ~
+ ~
+1 -1 5826
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5826
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5828
+D3
+You see dark woods.
+~
+ ~
+ ~
+ ~
+1 -1 5823
+E
+wood woods~
+There is nothing of interest.
+~
+S
+#5828
+Elven Woods~
+You are in dark woods. There is nothing of interest here. Your head spins
+violently as the woods close around you.
+~
+59 1 3 0
+0 0 0 0
+-2 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5827
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5824
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5828
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5757
+E
+wood woods~
+There is nothing of interest.
+~
+S
+#5829
+Elven Woods~
+You are in dark woods. There seems to be a rope here, attached to a tree,
+leading down into a tunnel in the ground. Your head spins violently as the
+woods close around you.
+~
+59 1 3 0
+0 0 0 0
+-2 0 0
+D0
+You see dark woods.
+~
+ ~
+ ~
+ ~
+1 -1 5823
+D1
+You see dark woods.
+~
+ ~
+ ~
+ ~
+1 -1 5828
+D3
+You see dark woods.
+~
+ ~
+ ~
+ ~
+1 -1 5824
+D5
+You see darkness.
+~
+ ~
+$n climbs down the rope.~
+$n stops here and clings to the rope tightly.~
+1 -1 5830
+E
+wood woods~
+There is nothing of interest.
+~
+E
+rope~
+It is attached to a tree and hangs down into a dark passage.
+~
+S
+#5830
+Holding a Rope~
+You are grasping a woven vine rope. It seems like you can climb up or down
+from here.
+~
+59 5 5 0
+0 0 0 0
+-2 0 0
+D4
+You see darkness.
+~
+ ~
+$n climbs up the rope.~
+$n enters, climbing up a rope from the darkness.~
+1 -1 5829
+D5
+You see darkness.
+~
+ ~
+$n climbs down the rope.~
+$n stops here and clings to the rope tightly.~
+1 -1 5831
+E
+rope~
+It looks strong enough.
+~
+S
+#5831
+Holding a Rope~
+You are grasping a woven vine rope. It seems like you can climb up or down
+from here.
+~
+59 5 5 0
+0 0 0 0
+-2 0 0
+D4
+You see darkness.
+~
+ ~
+$n climbs up the rope.~
+$n stops here and clings to the rope tightly.~
+1 -1 5830
+D5
+You see darkness.
+~
+ ~
+$n climbs down the rope.~
+$n falls to the ground with a THUD.~
+1 -1 5832
+E
+rope~
+It looks strong enough.
+~
+S
+#5832
+Path to Elven Keep~
+You are on a path which leads to the west. Trees block your way to the north,
+south and east. There is a rope above you, which you think you can reach.
+~
+59 5 2 0
+0 0 0 0
+-2 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5833
+D4
+You see a rope wiggling in the darkness.
+~
+ ~
+$n jumps up, grabs the rope and climb upwards.~
+$n stops here and clings to the rope tightly.~
+1 -1 5831
+E
+rope~
+If you jump up, you can reach it!
+~
+E
+tree trees~
+There is nothing of interest.
+~
+S
+#5833
+Path to Elven Keep~
+You are on a path which leads to the south and east. In the distance, to the
+south, you see a large stone building. Trees block your way to the north and
+west.
+~
+59 1 2 0
+0 0 0 0
+-2 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5832
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5834
+E
+tree trees~
+There is nothing of interest.
+~
+E
+building~
+You need to get closer to get a better look.
+~
+S
+#5834
+Outside Elven Keep~
+You stand on a path outside a stone building. The entrance to the building
+is to the south. The path continues to the north, while trees block your
+way to the east and west.
+~
+59 1 2 0
+0 0 0 0
+-2 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5833
+D2
+ ~
+door~
+$n walks into the building to the south.~
+$n walks into the keep and looks around.~
+1 5950 5835
+E
+building~
+Made out of roughly cut grayish stone slabs, the building is wrapped in
+all sorts of vines and shrubbery.  Trees hug the ground as they cover up
+the blind spots in the camoflauge.  You can see several bird nests in the
+trees, and even some in the walls of the buildings.
+~
+E
+tree trees~
+There is nothing of interest.
+~
+S
+#5835
+Inside Elven Keep~
+You are standing inside the entrance to the keep. There are small hallways
+to the east and west. A larger hallway is seen to the south. Torches line
+the walls here.  Strangely, the flames don't consume the torches!
+~
+59 12 0 0
+0 0 0 0
+-2 0 0
+D0
+ ~
+door~
+$n leaves the keep.~
+$n walks onto the path, from the keep.~
+1 5950 5834
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5839
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5842
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5836
+E
+wall walls~
+All you notice are torches.
+~
+E
+torch torches~
+These torches are made of a kind of wood you don't recognize.  What kind
+of wood are they?  Perhaps it's some kind of fabled materiel conjured by the
+elves.  Elven magic is well renowned, as your parents told you.
+~
+S
+#5836
+Hallway in Elven Keep~
+You are standing in a hallway in the keep. Torches line the walls.
+~
+59 8 0 0
+0 0 0 0
+-2 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5835
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5837
+E
+wall walls~
+All you notice are torches.
+~
+E
+torch torches~
+They burn brightly.
+~
+S
+#5837
+Hallway in Elven Keep~
+You are standing in a hallway in the keep. Torches line the walls. The
+hallway ends here.
+~
+59 8 0 0
+0 0 0 0
+-2 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5836
+D2
+ ~
+door~
+$n enters a room.~
+$n enters the room, and peers about.~
+1 -1 5838
+E
+wall walls~
+All you notice are torches.
+~
+E
+torch torches~
+They burn brightly.
+~
+S
+#5838
+Guard Chambers~
+Many beds line the walls here. There is a table here, and some chairs but
+not much else is present. Torches line the walls. The exit is north.
+~
+59 8 0 0
+0 0 0 0
+-2 0 0
+D0
+ ~
+door~
+$n leaves the room.~
+$n walks out of a room and waits here.~
+1 -1 5837
+E
+wall walls~
+All you notice are torches.
+~
+E
+torch torches~
+They burn brightly.
+~
+E
+wooden chips chip~
+They may be used as markers for a game the guards play.
+~
+E
+chair chairs~
+They all look sturdy.
+~
+E
+table~
+There are wooden chips on the table.
+~
+E
+bed beds~
+They look pretty comfortable.
+~
+S
+#5839
+Hallway in Elven Keep~
+You are standing in a hallway in the keep. Torches line the walls.
+~
+59 8 0 0
+0 0 0 0
+-2 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5840
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5835
+E
+wall walls~
+All you notice are torches.
+~
+E
+torch torches~
+They burn brightly.
+~
+S
+#5840
+Hallway in Elven Keep~
+You are standing in a hallway in the keep. Torches line the walls. The
+hallway ends here.
+~
+59 8 0 0
+0 0 0 0
+-2 0 0
+D2
+ ~
+door~
+$n enters a room.~
+$n enters the room, and peers about.~
+1 -1 5841
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5839
+E
+wall walls~
+All you notice are torches.
+~
+E
+torch torches~
+They burn brightly.
+~
+S
+#5841
+Servant Chambers~
+Many beds line the walls here. There is a few wooden chests scattered about
+the room, but nothing else of importance is here. Torches line the walls.
+The exit is north.
+~
+59 8 0 0
+0 0 0 0
+-2 0 0
+D0
+ ~
+door~
+$n leaves the room.~
+$n walks out of a room and waits here.~
+1 -1 5840
+E
+wall walls~
+All you notice are torches.
+~
+E
+torch torches~
+They burn brightly.
+~
+E
+clothing~
+It's servant clothing!
+~
+E
+chest chests~
+They all contain servant clothing.
+~
+E
+bed beds~
+They are worn, and smell badly.
+~
+S
+#5842
+Main Hall of Elven Keep~
+You are standing in the main hall of the keep. Torches line the walls.
+Beautiful, magnificent tapestries hang on the wall, the skill with which they
+are crafted is astonishing.
+~
+59 8 0 0
+0 0 0 0
+-2 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5835
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5843
+E
+wall walls~
+All you notice are torches.
+~
+E
+torch torches~
+They light the hall.
+~
+E
+tapestry tapestries wall painting~
+These tapestries, among the most delicate and ornate you have ever seen,
+depict an idyllic sylvan paradise, unspoiled by foul crudeness or contrived
+mechanical unbalance.  This forest appears to be an ideal living place for
+these grugach elves.  If not for the fact that you might damage them in the
+process of transportation, you would certainly reclaim them for the entire
+kingdom of Medevia.
+~
+S
+#5843
+Main Hall of Elven Keep~
+You are standing in the main hall of the keep. Torches line the walls. There
+is a small room to the west, with delightful odors wafting into the hall.
+More marvelous tapestries line the walls to the east here.
+~
+59 12 0 0
+0 0 0 0
+-2 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5842
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5845
+D3
+ ~
+door~
+$n enters the kitchen.~
+$n enters the kitchen, in search of tasty delights.~
+1 -1 5844
+E
+wall walls~
+All you notice are torches.
+~
+E
+torch torches~
+They light the hall.
+~
+E
+tapestry tapestries ~
+This tapestry shows a small, lithe young woman with pointed ears holding a
+cherubic young child.  The image of the child is haloed in light, its pointy
+ears receiving great detail.  There is some text under in Elvish, but you
+can't make it out.
+~
+S
+#5844
+Kitchen~
+You are in the kitchen, where workers prepare meals for the elven leaders.
+It is extremely clean. Torches line the walls. The exit is to the east.
+There are all sorts of contraptions, wooden and metal, appearing to be
+either implements of mass destruction or cooking utensils.  Which is the
+case?
+~
+59 8 0 0
+0 0 0 0
+-2 0 0
+D1
+ ~
+door~
+$n leaves the kitchen.~
+$n walks out of the kitchen and waits here.~
+1 -1 5843
+E
+wall walls~
+All you notice are torches.
+~
+E
+torch torches~
+They light the kitchen nicely.
+~
+E
+kitchen room~
+There are all sorts of contraptions that you've never seen before, including
+what appears to be a small oven.  There are several eating daggers with
+multiple small spines, and rare, exotic pieces of wood that you think
+might be called 'spoon' in Orcish.  How are you supposed to know what all
+these things do? You're a bloody adventurer, not a cook, right?
+~
+S
+#5845
+Main Hall of Elven Keep~
+You are standing in the main hall of the keep. Torches line the walls.
+Lining the hall are even more tapestries, these embroidered with accents
+of gold thread.  You are amazed at them.
+~
+59 8 0 0
+0 0 0 0
+-2 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5843
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5846
+E
+wall walls~
+All you notice are torches.
+~
+E
+torch torches~
+They light the hall.
+~
+E
+tapestry tapestries~
+These tapestries tell the story of a proud, slim young elven warrior whose
+story is apparently enscribed in Elvish in fine, flowery, script.  The hero
+has many adventures in the tapestry, and uses wisdom and speed to prevail.
+This is opposed to the more common human tradition of might making right.
+Grugach elven culture has similarities, but many differences to that of
+humans.
+~
+S
+#5846
+Main Hall of Elven Keep~
+You are standing in the main hall of the keep. There is a chamber to the
+east, and looks to be highly decorated. There is a dark hall to the west.
+The main hall contunues northward. Torches line the walls.
+A tapestry lies against the wall here; however, it is not well illuminated
+by the torches for some reason.
+~
+59 12 0 0
+0 0 0 0
+-2 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5845
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5849
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5847
+E
+tapestry weaving tapestries painting~
+Depicted in this dramatic tapestry is the visage of a tall, proud, haughty
+elf with dark skin and ivory white locks of hair.  She has a smirk that tells
+of wickedness and pride.  She is apparently the 'Dark God of the Elves',
+She Who Is Not to Be Named.  This portrait is starkly gothic and brutal
+in application of the colorful indigo and black threading.
+~
+E
+wall walls~
+All you notice are torches.
+~
+E
+torch torches~
+They light the hall.
+~
+S
+#5847
+Dark Hallway~
+This is a tight, dark hallway in the keep. The hallway ends here.
+Lining the entire opposite wall is a long, ornate tapestry.  This one has
+several panels.
+~
+59 9 0 0
+0 0 0 0
+-2 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5846
+D2
+ ~
+door~
+$n enters a room.~
+$n enters the room, and peers about.~
+1 -1 5848
+E
+tapestry panel tapestries painting~
+This tapestry is long and winding, having 3 distinct segments.  They all
+portray long, drawn out battles and sieges between the two races of elf,
+dark and grugach.  The Drow are portrayed with strange, fearsome cowls and
+dangerous masks; the Grugach are no less fearsome, although they are bathed
+in light.  Under each of the seperate battle sequences is a list of names in
+(what was it called again? Sperethiel?) the Elven tongue.  You could stand
+here all day looking at this formation, but you have other places to be.
+~
+E
+wall walls~
+You don't notice anything special.
+~
+E
+torch torches~
+You don't see any.
+~
+S
+#5848
+Guard Chambers~
+Many beds line the walls here. There is a table here, but not much else is
+present. Torches line the walls. The exit is to the north.
+~
+59 8 0 0
+0 0 0 0
+-2 0 0
+D0
+ ~
+door~
+$n leaves the room.~
+$n walks out of a room and waits here.~
+1 -1 5847
+E
+bed beds~
+There are roughly 10 beds in this small room.
+~
+E
+table~
+It is made of wood. The guards must have crafted this table since it
+wobbles and is not level.
+~
+E
+wall walls~
+All you notice are torches.
+~
+E
+torch torches~
+They light the room.
+~
+S
+#5849
+Vaulted Chamber~
+You are in a chamber with an extremely high ceiling. The walls contain
+drawings that have been chiseled into it. There is also many weapons that
+line the walls. The vaulted chamber continues to the south. A hallway can
+be seen to the west. Torches line the walls.
+~
+59 8 0 0
+0 0 0 0
+-2 0 0
+D1
+ ~
+door~
+$n enters a room.~
+$n enters the chamber quietly.~
+1 -1 5850
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5857
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5846
+E
+weapon weapons~
+They are all foreign to you, so you had better not fool with them.
+~
+E
+chiseled drawings drawing~
+Most of them seem to be pictorial descriptions of long-ago battles.
+~
+E
+wall walls~
+You see chiseled drawings, weapons and torches.
+~
+E
+torch torches~
+They light the chamber.
+~
+S
+#5850
+Elven Royal Chamber~
+There is elegantly crafted wooden furniture here. This seems to be the
+place where the elven king and queen eat their meals and talk about their
+kingdom's problems. Torches line the walls. The exit is to the west.
+~
+59 12 0 0
+0 0 0 0
+-2 0 0
+D3
+ ~
+door~
+$n leaves the chamber.~
+$n walks out of a room and waits here.~
+1 -1 5849
+E
+cup cups dish dishes~
+It's made out of wood.
+~
+E
+wall walls~
+All you notice are torches.
+~
+E
+torch torches~
+They light the chamber.
+~
+E
+cabinet cabinets~
+They all contain wooden items. Some look like cups, and some like dishes.
+~
+E
+chair chairs~
+They look comfortable.
+~
+E
+table~
+It is clear at the moment.
+~
+E
+wood wooden furniture~
+There is a large table, chairs and some cabinets here.
+~
+S
+#5857
+Vaulted Chamber~
+You are in a chamber with an extremely high ceiling. Torches line the walls.
+Another tall tapestry, rising to the very high ceiling, catches your eye here.
+~
+59 12 0 0
+0 0 0 0
+-2 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5849
+D1
+ ~
+door~
+$n enters a room.~
+$n enters the bedroom, and bows deeply.~
+2 5972 5858
+D2
+ ~
+door~
+$n enters a room.~
+$n enters the office, and bows deeply.~
+2 5973 5859
+E
+tapestry painting tapestries~
+Here is another tapestry.  This one is what appears to be a long, extensive
+family tree, with names of some sort and runes covering the surface.  The
+threading is made of several shiny metals, and appears to have taken quite
+a bit of time to complete.  The common icon appearing is that of a
+tightly notched bow, shining with golden light.
+~
+E
+wall walls~
+All you notice are torches.
+~
+E
+torch torches~
+They light the chamber.
+~
+S
+#5858
+Elven Royal Bedroom~
+This wide, open room is the royal bedroom of the elvish king and queen.  A desk
+is here, with many important-looking papers and decrees scattered all over.
+However, the room is dominated by a large four-poster bed with all sorts of
+sheets, blankets, and other objects strewn about.
+~
+59 8 0 0
+0 0 0 0
+-2 0 0
+D3
+ ~
+door~
+$n leaves the bedroom.~
+$n walks out of the room to the east and waits here.~
+1 5972 5857
+E
+bed~
+It was crafted by an expert. Many chiseled details span the wooden boards
+on the base of the bed.
+~
+E
+paper decree writ note papers~
+This paper appears to be a letter, written in flowing delicate script.
+It reads:
+To Silthas Venomblade, Master of the Underdark,
+We know that your city lies under the earth, and that you have raided our
+beloved forests and glades time and time over again this epoch.  However, we
+shall certainly retaliate with overwhelming force and destroy you and
+your heathenous, vile spider priest cohorts.  Lolth herself shall shudder and
+mourn over the loss of so many of her worthless followers.  Goodness and
+beauty MUST prevail over your debaucherous sacrifices and evil, and we SHALL
+succeed.  However, if you submit to our judgement and return to the fold, we
+shall be able to avert this strategy. So if you have ANY concern for your
+subjects, no matter how base they be, I tell you... heed my words.
+Baron Heathrow Goldenbow
+~
+E
+desk~
+There is a paper on top of the desk.
+~
+E
+wall walls~
+All you notice are torches.
+~
+E
+torch torches~
+They light the bedroom.
+~
+S
+#5859
+Elven King's Office~
+There is a large desk here, which stands in the center of the room. There
+is a chair next to it. On three walls are shelves, which contain papers and
+books. Torches line the walls.
+~
+59 12 0 0
+0 0 0 0
+-2 0 0
+D0
+ ~
+door~
+$n leaves the office quietly.~
+$n walks out of the room to the south and waits here.~
+1 5973 5857
+E
+book books~
+They are all written in all different languages, none of which you know.
+~
+E
+paper papers~
+These are maps of the Forbidden Forest and the outlying areas, with shaded
+areas to represent areas thought to be under Drowish control.  It appears
+that the Grugach elves lack manpower, but they certainly make up for it
+with willpower and determination.
+~
+E
+shelf shelves~
+Papers and books line each shelf.
+~
+E
+chair~
+It is made from the best elven wood.
+~
+E
+desk~
+It is well crafted.
+~
+E
+wall walls~
+There are shelves on three walls. Torches are also seen here.
+~
+E
+torch torches~
+They light the office.
+~
+S
+#5860
+Home of Ungiri Leader~
+This is the home of the village leader. The entire home is made out of wood.
+There is a wooden table and chair in one corner. In the opposite corner is
+a fancy bed. There is a shelf above the bed with a few books. The exit is
+south.
+~
+59 12 1 0
+0 0 0 0
+-2 0 0
+D2
+ ~
+door~
+$n leaves the home quietly.~
+$n walks onto the stone path, from the home.~
+1 -1 5383
+E
+book books~
+You open up a few books, but you don't understand the language.
+~
+E
+shelf~
+It holds a few books.
+~
+E
+bed~
+The base is made out of wooden boards. There is woven leaves in the center,
+to make sleeping more comfortable.
+~
+E
+table chair~
+It was made by a village craftsman.
+~
+S
+#19003
+Path to Forbidden Forest~
+The path leads in a northerly direction to a huge forest. Trees can be
+seen, rising up to the sky. You're not sure what you will find inside, but
+you're ready for a challenge. The path continues north.
+~
+59 0 3 1
+0 0 0 0
+-2 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3859
+D1
+A set of huge iron gates set into the wall are to the east.
+~
+gate gates~
+$n enters Medievia through the city gates.~
+$n arrives through the city gates from the forest.~
+1 -1 16
+D3
+ ~
+ ~
+$n goes west, in search of information.~
+$n enters, searching for information.~
+1 -1 3735
+E
+tree trees forest~
+They are massive, but you can't see much detail from this position.
+~
+S
+#19999
+$~

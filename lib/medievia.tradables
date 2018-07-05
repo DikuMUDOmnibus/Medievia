@@ -1,0 +1,325 @@
+#0
+NAM ale~
+DES You see a large barrel of ale.  The barrel itself looks expensive, made
+with patience you gather.  Stamped on the barrel is "Made in Medievia".
+~
+UNI barrel~
+SIZ 70 WGT 150 ORX 1001 ORY 1005 VAL 180
+#1
+NAM adamantite~
+DES A strong wooden crate, filled with black ore. From it's color and 
+apparent hardness, you judge this ore to be precious adamantite! 
+~
+UNI crate~
+SIZ 100 WGT 150 ORX 737 ORY 695 VAL 4200
+#3
+NAM armor~
+DES This is a large trunk packed with various and sundry armors. You see 
+breast plates, helmets, vambraces etc. The armor looks to be in good 
+condition, and well made if not magical.
+~
+UNI trunk~
+SIZ 80 WGT 90 ORX 1894 ORY 486 VAL 2000
+#4
+NAM bananas~
+DES A burlap sack filled with bright yellow fruits, which can only be 
+bananas. They smell quite good, sort of like...bananas.
+~
+UNI sack~
+SIZ 35 WGT 50 ORX 0 ORY 0 VAL 250
+#5
+NAM beer~
+DES A wooden keg with the word BEER burned into it, and below that the 
+letters XXX.
+~
+UNI keg~
+SIZ 70 WGT 150 ORX 1644 ORY 1060 VAL 280
+#6
+NAM books~
+DES A crate filled with leather bound volumes, whose titles range from the 
+mystic to the mundane. The crate is lined with oil skin, to protect the 
+books from the elements.
+~
+UNI crate~
+SIZ 30 WGT 60 ORX 1644 ORY 1060 VAL 860
+#7
+NAM candles~
+DES A large box filled with candles of all colors, sizes and shapes. A 
+myriad of spicy smells emanates from the box, as many of these candles 
+are scented.
+~
+UNI box~ 
+SIZ 30 WGT 20 ORX 431 ORY 929 VAL 45
+#8
+NAM chains~
+DES This is a fairly large, wooden, spool, entwined with sturdy looking 
+iron chain.
+~
+UNI spool~
+SIZ 50 WGT 230 ORX 1894 ORY 486 VAL 470
+#9
+NAM cloth~
+DES A long trunk, filled with bolts of cloth. Some of the cloth is 
+patterned with intricate designs, and colored with rare dye's, while 
+others are rather ordinary looking.
+~
+UNI trunk~
+SIZ 70 WGT 70 ORX 1644 ORY 1060 VAL 340
+#10
+NAM coal~
+DES A large sack filled with black coal.
+~
+UNI sack~
+SIZ 50 WGT 80 ORX 737 ORY 695 VAL 200
+#11
+NAM sugar~
+DES A large burlap sack, sewn tight at both ends, and with the word SUGAR 
+emblazend on it. 
+~
+UNI sack~
+SIZ 40 WGT 50 ORX 1001 ORY 1005 VAL 230
+#12
+NAM crystal~
+DES This crate is filled with fine crystal packed in dried grasses. It is 
+plastered with the word FRAGILE, on every available surface.
+~
+UNI crate~
+SIZ 40 WGT 25 ORX 983 ORY 1509 VAL 670
+#13
+NAM dates~
+DES A large, round, coursely woven basket, filled with small, brown, sweet 
+looking fruits.
+~
+UNI basket~
+SIZ 40 WGT 40 ORX 1644 ORY 1060 VAL 240
+#14
+NAM figs~
+DES A tall, vase shaped basket, containing small, round, green fruits.
+~
+UNI basket~
+SIZ 40 WGT 40 ORX 983 ORY 1509 VAL 200
+#15
+NAM seed~
+DES A large burlap sack, sewn tight at both ends, and with the word
+WHEAT on it.
+~
+UNI sack~
+SIZ 70 WGT 150 ORX 0 ORY 0 VAL 180
+#16
+NAM corn~
+DES A large burlap sack, sewn tight at both ends, and with the word CORN, 
+on it.
+~
+UNI sack~
+SIZ 70 WGT 150 ORX 0 ORY 0 VAL 180
+#17
+NAM beans~
+DES A large burlap sack, sewn tight at both ends, and with the word, BEAN
+on it.
+~
+UNI sack~
+SIZ 70 WGT 150 ORX 0 ORY 0 VAL 180
+#18
+NAM silicate~
+DES A sack filled with a course, crystaline powder, used in making glass.
+~
+UNI sack~
+SIZ 50 WGT 80 ORX 1296 ORY 637 VAL 290
+#19
+NAM herbs~
+DES A crate stuffed full of dried herbs, varrying type, and emitting a 
+powerful combination of aromas. 
+~
+UNI crate~
+SIZ 40 WGT 25 ORX 431 ORY 929 VAL 130
+#20
+NAM hemp~
+DES This is a spool of course, tough fiber. It looks like it would make 
+excellent rope, or some really tough fabric.
+~
+UNI spool~
+SIZ 50 WGT 50 ORX 431 ORY 929 VAL 140
+#21
+NAM ink~
+DES A cask containing a powder so dark it is almost blue. It has stained 
+the entire inside of the cask a midnight black color.
+~
+UNI cask~
+SIZ 25 WGT 20 ORX 1610 ORY 493 VAL 80
+#22
+NAM incense~
+DES A sack containing multi colored, oily crystals. It gives off such a 
+strong aroma, you can smell it from 50 feet away.
+~
+UNI sack~
+SIZ 20 WGT 30 ORX 1610 ORY 493 VAL 310
+#23
+NAM jewels~
+DES This is a medium sized wooden case, fitted with iron hinges and a tough 
+leather hasp.  It contains precious stones of all shapes and sizes, and your 
+eyes widen at the sight of them.
+~
+UNI case~
+SIZ 45 WGT 85 ORX 1296 ORY 637 VAL 1850
+#24
+NAM meade~
+DES A wooden keg filled with a golden liquor, which smells of honey. It 
+has the word MEADE burnt into it.
+~
+UNI keg~
+SIZ 70 WGT 150 ORX 1894 ORY 486 VAL 230
+#25
+NAM molasses~
+DES A barrel filled with a thick, dark brown molasses. 
+~
+UNI barrel~
+SIZ 75 WGT 150 ORX 983 ORY 1509 VAL 195
+#26
+NAM nails~
+DES This is a thick burlap sack filled with an assortment of iron nails.
+~
+UNI sack~
+SIZ 30 WGT 50 ORX 1296 ORY 637 VAL 110
+#27
+NAM nuts~
+DES A tall whicker basket filled with hard brown nuts.
+~
+UNI basket~
+SIZ 40 WGT 60 ORX 431 ORY 929 VAL 150
+#28
+NAM oils~
+DES This is a crate filled with glass jars containing precious oils.  The 
+jars are packed in dried grasses for protection.
+~
+UNI crate~
+SIZ 30 WGT 30 ORX 1610 ORY 493 VAL 480
+#29
+NAM opium~
+DES Small, black, tarry balls wrapped in waxed paper, and smelling 
+strongly of vinegar, fill this thick, wooden case.
+~
+UNI case~
+SIZ 10 WGT 5 ORX 737 ORY 695 VAL 960
+#30
+NAM pelts~
+A pile of animal hides, bound together with sinew and wrapped in an 
+oil-skin tarp.
+~
+UNI bundle~
+SIZ 60 WGT 30 ORX 1894 ORY 486 VAL 130
+#31
+NAM perfume~
+DES Delicate, carved glass phials filled with exotic perfumes, and packed 
+tenderly in soft mouflon wool, fill this mid sized case.
+~
+UNI case~
+SIZ 20 WGT 10 ORX 1610 ORY 493 VAL 300
+#32
+NAM iron~
+DES This is a large sack filled with crude iron ore.
+~
+UNI sack~
+SIZ 60 WGT 240 ORX 737 ORY 695 VAL 360
+#33
+NAM tin~
+DES Sheets of pressed tin are stacked up inside this large crate.
+~
+UNI crate~
+SIZ 50 WGT 100 ORX 0 ORY 0 VAL 450
+#34
+NAM copper~
+DES This is a sturdy burlap sack filled with raw copper ore.
+~
+UNI sack~
+SIZ 60 WGT 260 ORX 1296 ORY 637 VAL 420
+#35
+NAM raisins~
+DES A mid sized, finely woven whicker basket filled with small, dark, 
+sweet raisins.
+~
+UNI basket~
+SIZ 30 WGT 40 ORX 1001 ORY 1005 VAL 160
+#36
+NAM artifacts~
+DES Wrapped in cotton, various mummified body parts, as well as an 
+assortment of iconic contrivances fill this large oak case.
+~
+UNI case~
+SIZ 100 WGT 150 ORX 431 ORY 929 VAL 5180
+#37
+NAM rice~
+DES This is a large burlap sack, sewn tight on both ends, and with the 
+word RICE, embroidered on it.
+~
+UNI sack~
+SIZ 70 WGT 150 ORX 0 ORY 0 VAL 180
+#38
+NAM rum~
+DES A small barrel with iron fittings, and with the word RUM burnt into 
+it, and beneath that the letters XXX.
+~
+UNI barrel~
+SIZ 70 WGT 150 ORX 983 ORY 1509 VAL 330
+#39
+NAM salt~
+DES A medium sized, burlap sack filled with course rock salt. 
+~
+UNI sack~
+SIZ 30 WGT 20 ORX 1001 ORY 1005 VAL 80
+#40
+NAM silks~
+DES Filling this large trunk are bolts of fine silks, some are richly 
+patterned, and some posess beutiful solid colors, all look extremely 
+valuable, and rare.
+~
+UNI trunk~
+SIZ 70 WGT 60 ORX 983 ORY 1509 VAL 540
+#41
+NAM silver~
+DES This is a large chest with secure fastenings, and filled with small 
+silver bars.
+~
+UNI chest~
+SIZ 60 WGT 170 ORX 1296 ORY 637 VAL 680
+#42
+NAM spices~
+DES A crate packed with bundles of various, rare spices. It emits a broad 
+range of smells, some pleasing others rather disgusting.
+~
+UNI crate~
+SIZ 40 WGT 25 ORX 1644 ORY 1060 VAL 150
+#43
+NAM tar~
+DES This is a pine barrel, filled with a dark tar.
+~
+UNI barrel~
+SIZ 70 WGT 190 ORX 1001 ORY 1005 VAL 120
+#44
+NAM tobacco~
+DES Bundles of broad, golden brown tobacco leaves have been stuffed 
+carlessly into this large crate.  
+~
+UNI crate~
+SIZ 70 WGT 150 ORX 0 ORY 0 VAL 180
+#45
+NAM tools~
+DES A large assortment of tools have been carefully arranged inside of 
+this long, wide box. 
+~
+UNI box~
+SIZ 30 WGT 70 ORX 737 ORY 695 VAL 480
+#46
+NAM weapons~
+DES Competently crafted swords, daggers, and bows are inside of this huge 
+crate. You note that these weapons could provision a small army.
+~
+UNI crate~
+SIZ 50 WGT 130 ORX 1894 ORY 486 VAL 680
+#47
+NAM wine~
+DES This is a small keg, filled with a blood red, strong looking wine. It 
+looks like it would provide you with a good night.
+~
+UNI keg~
+SIZ 70 WGT 150 ORX 1610 ORY 493 VAL 320
+$

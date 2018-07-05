@@ -1,0 +1,4986 @@
+#908
+Base of a Plateau~
+You stand in a small clearing in the mountains at the base of a plateau.
+The steep, cliff-like side rises up to the south and a craggy path winds
+its way up.  All around you are the sharp peaks of snow-tipped mountains.
+~
+53 4 2 1
+0 0 0 0
+0 0 0
+D0
+~
+~
+~
+~
+0 0 63453
+D1
+~
+~
+~
+~
+0 0 63452
+D3
+~
+~
+~
+~
+0 0 63454
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 18001
+S
+#1929
+The Grass Path~
+You are on a new grass path. The path is freshly cut but looks like
+it was here before. There is a calm breeze swaying the tall grass.
+Far off to the south you see a huge cave. The grass path leads north
+and south of here.
+~
+53 0 2 1
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 18001
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1930
+S
+#1930
+The Grass Path~
+You are on a new grass path. The path is freshly cut but looks like
+it was here before. There is a calm breeze swaying the tall grass.
+Far off to the south you see a huge cave. The grass path leads north
+and south of here.
+~
+53 0 2 1
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1929
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1931
+S
+#1931
+The Grass Path~
+You are on a new grass path. The path is freshly cut but looks like
+it was here before. There is a calm breeze swaying the tall grass.
+Far off to the south you see a huge cave. The turn is south of here
+and the grass path is north of here.
+~
+53 0 2 1
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1930
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1932
+S
+#1932
+Turn In The Grass Path~
+You are at a turn in the grass path. A calm breeze is swaying the tall
+grass. You smell the sweet smell of freshly cut grass. To the east is
+a path that takes you to the Giant cave, you may also go back north.
+~
+53 0 2 1
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1931
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1933
+S
+#1933
+Before The Giant Cave~
+You are on the path before the Giant cave.  In the distance to the south
+you can make out a huge cave. The cave looks like it has been there for
+a very long time. A strange feeling starts to fill your body. To the
+south the path continues, to the west is the turn.
+~
+53 0 2 1
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1934
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1932
+S
+#1934
+Before The Giant Cave~
+You are on the path before the Giant cave. In the distance to the south
+you can make out a huge cave. The cave looks like it has been there for
+a very long time. A strange feeling starts to fill your body. To the
+north and south the path continues.
+~
+53 0 2 1
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1933
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1935
+S
+#1935
+Before The Giant Cave~
+You are on the path before the Giant cave. In the distance to the south
+you can make out a huge cave. The cave looks like it has been there for
+a very long time. A strange feeling starts to fill your body. To the
+north and south the path continues.
+~
+53 0 2 1
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1934
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1936
+S
+#1936
+Before The Giant Cave~
+You are on the path before the Giant cave. The cave stands before you,
+you are speechless at its magnitude. You can do nothing but stare at
+it. You see a nice bush here. To the east is the Giant cave and to
+the north is the path.
+~
+53 0 2 1
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1935
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1937
+D3
+A dense row of trees and bushes line the path to the west, overgrown
+with vines and weeds. There is a narrow opening in the row, partially
+concealed by a leafy bush.
+~
+ ~
+ ~
+ ~
+5 -1 1938
+E
+bush bushes tree trees row~
+A dense row of trees and bushes line the path to the west, overgrown
+with vines and weeds.  There is a narrow opening in the row, partially
+concealed by a leafy bush.
+~
+S
+#1937
+The Giant Cave~
+You are standing inside the Giant cave. The cave looks like it has been
+here for a 1000 years. You begin to wonder if you should be here as you
+start to hear strange sounds to the east. The cave continues to the east
+and to the west is before the cave.
+~
+53 73 0 7
+0 10 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1939
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1936
+E
+Plaque~
+On this plaque is a list of all the players that have died in this area.
+The list is very long, it makes you shiver.
+~
+S
+#1938
+The Hidden Path~
+You are on a small, worn down, hidden path. The path looks as though it
+has been here forever. To the west the hidden path continues, and
+east of here is before the Giant cave.
+~
+53 4 2 7
+0 0 0 0
+0 0 0
+D1
+A dense row of trees and bushes line the path to the west, overgrown
+with vines and weeds. There is a narrow opening in the row, partially
+concealed by a leafy bush.
+~
+ ~
+ ~
+ ~
+1 -1 1936
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2312
+E
+bush bushes tree trees row~
+A large leafy bush partially blocks an opening in the dense row of
+trees at the eastern end of the path.
+~
+S
+#1939
+The Giant Cave~
+You are standing inside the Giant cave. The cave looks like it has
+been here from a 1000 years. You begin to wonder if you should be
+here as you start to hear strange sounds to the east. The cave
+continues to the east, to the south is a hole in the wall, and to
+the west is the Giant cave.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1940
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1947
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1937
+S
+#1940
+The Giant Cave~
+You are standing inside the Giant cave. The cave looks like it has
+been here for a 1000 years. You begin to wonder if you should be
+here as you start to hear strange sounds to the east. The cave
+continues to the east, to the north is the hidden niche, and to
+the west is the Giant cave.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1942
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1941
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1939
+S
+#1941
+The Giant Cave~
+You are standing inside the Giant cave. The cave looks like it has
+been here for a 1000 years. You begin to wonder if you should be
+here as you start to hear strange sounds to the north. To the
+north is before the great door, and to the west is the Giant cave.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1951
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1940
+S
+#1942
+The Hidden Niche~
+You are in the hidden niche of the Giant cave. You are surrounded
+by solid gray rock. The hidden niche continues to the east and
+to the west. To the south is the Giant cave.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1943
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1940
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1945
+S
+#1943
+The Hidden Niche~
+You are in the hidden niche of the Giant cave. You are surrounded
+by solid gray rock. The hidden niche continues to the east and
+to the west.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1944
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1942
+S
+#1944
+The Hidden Niche~
+You are in the hidden niche of the Giant cave. You are surrounded
+buy solid gray rock. The Hidden niche continues to the west.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1943
+S
+#1945
+The Hidden Niche~
+You are in the hidden niche of the Giant cave. You are surrounded
+by solid gray rock. The hidden niche continues to the east and
+to the west.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1942
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1946
+S
+#1946
+The Hidden Niche~
+You are in the hidden niche of the Giant cave. You are surrounded
+by solid gray rock. to the east is the hidden niche.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1945
+S
+#1947
+A Hole In The Wall~
+You have found a small hole in the wall. You are surrounded by
+solid rock on all sides. It looks like the walls are closing in
+on you. Up from here is a cramped room, and to the north is
+the giant cave.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1939
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 1948
+S
+#1948
+Cramped Room~
+You are in a cramped room. You are surrounded by solid rock.
+You feel like the walls are closing in on you. To the east
+and the west are cramped rooms, down is a hole in the
+wall.
+~
+53 73 0 7
+0 0 0 0
+50 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1949
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1950
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 1947
+S
+#1949
+Cramped Room~
+You are in a cramped room. You are surrounded buy solid rock.
+You feel like the walls are closing in on you. To the west
+is the cramped room.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1948
+S
+#1950
+Cramped Room~
+You are in a cramped room. You are surrounded by solid rock.
+You feel like the walls are closing in on you. To the east
+is the cramped room.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1948
+S
+#1951
+Before The Great Door~
+You are standing inside the Giant cave. The cave looks like it has
+been here for a 1000 years. You begin to wonder if you should be
+here as you start to hear strange sounds to the north. To the
+north is the Great door, and to the south is the Giant cave.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1952
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1941
+S
+#1952
+The Great Door~
+You are at the great door of the Fire Giant' keep. The door is a huge
+steel door that has rusted over the many years of use. You wonder if
+you should open it or not because you fear what you might find on the
+other side. To the north is the Giant' keep and to the south is before
+the great door.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+door~
+ ~
+$n has decided to enter the Giants keep.~
+1 5301 1953
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1951
+E
+Door~
+You see a huge steel door. The door looks old from many years of hard
+use. The door is rusty, but still looks very sturdy.
+~
+S
+#1953
+Entrance to The Giant's Keep~
+You are standing on the Entrance to the Giant's keep. The whole place
+glows red. The huge stone cave looks very old and worn down. You feel
+very uneasy about being here. To the north is the Giant's keep, and
+to the south is the great door.
+Items: Sign
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+$n has arrived.~
+1 -1 1954
+D2
+ ~
+door~
+$n has decided to leave the Giants keep.~
+ ~
+1 5301 1952
+E
+Door~
+You see a huge steel door. The door looks very well used. It is rusted
+from many years of use, but still looks very sturdy.
+~
+E
+Sign~
+You are in the Giant's keep. This area has been officially banned.
+Turn back now while you are still alive.
+~
+S
+#1954
+The Giant's Keep~
+You are standing in the Giant's keep. The whole place glows red. The
+huge stone cave looks very worn from many years of use. You feel very
+uneasy about being here. To the north the Giant's keep continues and
+to the south is the entrance to the Giant's keep.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1955
+D2
+ ~
+ ~
+$n leaves south.~
+$n has arrived.~
+1 -1 1953
+E
+Keep~
+The Giant's keep stands before you, in all its glory. You gasp at the huge
+cave and what it holds inside. You look around and see strange creatures
+in every direction. The keep has a soft red glow. You feel very uneasy
+about being here.
+~
+S
+#1955
+The Giant's Keep~
+You are standing in the Giant's keep. The whole place glows red. You
+feel very uneasy about being here. To the north and south the Giant's
+keep continues. To the east is the room before the east guard wing,
+and to the west is the room before the west guard wing.
+Items: Monument
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1976
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1956
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1954
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1966
+E
+Monument~
+You see a great statue of a Giant Hero! The statue glows red.
+There are offerings here made to the statue.
+~
+S
+#1956
+The Room Before The East Guard Wing~
+You are standing in the room before the east guard wing. The whole
+place glows red. You feel very uneasy about being here. To the east
+is the east guard wing, and to the west is the Giant's keep.
+~
+53 77 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1957
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1955
+S
+#1957
+The East Guard Wing~
+You are standing in the east guard wing. The whole place glows red.
+You feel very uneasy about being here. To the north and south
+is the east guard wing, to the west is the room before the
+east guard wing.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1958
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1962
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1956
+S
+#1958
+The East Guard Wing~
+You are in the east guard wing. The room is filled with
+guards that don't want you to be here. The place glows red.
+You wonder if you should be here. To the north and the
+south the east guard wing continues.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1959
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1957
+S
+#1959
+The East Guard Wing~
+You are in the east guard wing. The room is filled with guards
+that don't want you to be here. The whole place glows red.
+You wonder if you should be here. To the south is the east
+guard wing, and to the east is the guard's sleeping quarters.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1960
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1958
+S
+#1960
+The Guard's Sleeping Quarters~
+You are standing in the guard's sleeping quarters. This is a
+very quiet room that you feel you shouldn't be in. The
+whole place glows red. To the east is the guard's sleeping
+quarters, to the west is the east guard wing.
+~
+53 73 3 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1961
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1959
+S
+#1961
+The Guard's Sleeping Quarters~
+You are standing in the guard's sleeping quarters. This is a
+very quiet room that you fell you shouldn't be in. The whole
+place glows red. To the west is the guard's sleeping quarters.
+~
+53 73 3 7
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1960
+S
+#1962
+The East Guard Wing~
+You are standing in the east guard wing. The whole place glows red.
+You feel very uneasy about being here. The room is filled with
+unhappy guards. To the north and south the east guard wing continues.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1957
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1963
+S
+#1963
+The East Guard Wing~
+You are standing in the east guard wing. The whole place glows red.
+You feel very uneasy about being here. The room is filled with
+unhappy guards. To the north and east the east guard wing continues.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1962
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1964
+S
+#1964
+The East Guard Wing~
+You are standing in the east guard wing. The whole place glows red.
+You feel very uneasy about being here. The room is filled with
+unhappy guards. To the west is the east guard wing, and up is
+the guard's office.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1963
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 1965
+S
+#1965
+The Guard's Office~
+You are standing in the Guard's office. The whole place glows red.
+You feel very uneasy about being here. The room is small with a
+desk in the middle. Down is the east guard wing.
+~
+53 73 0 7
+0 0 0 0
+30 0 0
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 1964
+S
+#1966
+The Room Before The West Guard Wing~
+You are standing in the room before the west guard wing. The whole
+place glows red. You feel very uneasy about being here. To the west
+is the west guard wing, and to the east is the Giant's keep.
+~
+53 77 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1955
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1967
+S
+#1967
+The West Guard Wing~
+You are standing in the west guard wing. The whole place glows red.
+You feel very uneasy about being here. To the north and south
+is the west guard wing, to the east is the room before the
+west guard wing.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1968
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1966
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1972
+S
+#1968
+The West Guard Wing~
+You are in the west guard wing. The room is filled with guards that
+don't want you to be here. The place glows red. You wonder if you
+should be here. To the north and the south the west guard wing
+continues.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1969
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1967
+S
+#1969
+The West Guard Wing~
+You are in the west guard wing. The room is filled with guards
+that don't want you to be here. The whole place glows red.
+You wonder if you should be here. To the south is the west
+guard wing, and to the west is the guard's sleeping quarters.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1968
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1970
+S
+#1970
+The Guard's Sleeping Quarters~
+You are standing in the guard's sleeping quarters. This is a
+very quiet room that you feel you shouldn't be in. The
+whole place glows red. To the west is the guard's sleeping
+quarters, to the east is the west guard wing.
+~
+53 73 3 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1969
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1971
+S
+#1971
+The Guard's Sleeping Quarters~
+You are standing in the guard's sleeping quarters. This is a
+very quiet room that you feel you shouldn't be in. The
+whole place glows red. To the east is the guard's sleeping
+quarters.
+~
+53 73 3 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1970
+S
+#1972
+The West Guard Wing~
+You are standing in the west guard wing. The whole place glows red.
+You feel very uneasy about being here. The room is filled with
+unhappy guards. To the north and south the west guard wing continues.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1967
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1973
+S
+#1973
+The West Guard Wing~
+You are standing in the west guard wing. The whole place glows red.
+You feel very uneasy about being here. The room is filled with
+unhappy guards. To the north and west the east guard wing continues.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1972
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1974
+S
+#1974
+The West Guard Wing~
+You are standing in the east guard wing. The whole place glows red.
+You feel very uneasy about being here. The room is filled with
+unhappy guards. To the east is the east guard wing, and up is
+the guard's office.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1973
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 1975
+S
+#1975
+The Guard's Office~
+You are standing in the Guard's office. The whole place glows red.
+You feel very uneasy about being here. The room is small with a
+desk in the middle. Down is the west guard wing.
+~
+53 73 0 7
+0 0 0 0
+30 0 0
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 1974
+S
+#1976
+The Giant's Keep~
+You are standing in the Giant's keep. The entire keep has a red glow.
+You feel very uneasy about being here. You see some strange markings
+on the wall to your left. To the north and south the Giant's keep
+continues.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1977
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1955
+S
+#1977
+The Giant's Keep~
+You are standing in the Giant's keep. The entire keep has a red glow.
+You feel very uneasy about being here. You see some strange markings
+on the wall to your left. To the north and south the Giant's keep
+continues.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1978
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1976
+E
+wall writing marking markings strange~
+You see the names of heros who have ventured this far into the
+cave, but have never been heard from again.  You wonder if being
+in here is a smart thing.
+~
+S
+#1978
+The Giant's Keep~
+You are standing in the Giant's keep. The entire keep has a red glow.
+You feel very uneasy about being here. You see some strange markings
+on the wall to your left. To the north and south the Giant's keep
+continues.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1979
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1977
+S
+#1979
+The Giant's Keep~
+You are standing in the Giant's keep. The entire keep has a red glow.
+You feel very uneasy about being here. You see some strange markings
+on the wall to your left. To the north and south the Giant's keep
+continues.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1980
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1978
+S
+#1980
+The Giant's Keep~
+You are standing in the Giant's keep. The entire keep has a red glow.
+You feel very uneasy about being here. You see some strange markings
+on the wall to your left. To the north and south the Giant's keep
+continues.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1981
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1979
+S
+#1981
+The Giant's Keep~
+You are standing in the Giant's keep. The entire keep has a red glow.
+You feel very uneasy about being here. You see some strange markings
+on the wall to your right. To the north and south the Giant's keep
+continues.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1982
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1980
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2146
+S
+#1982
+The Giant's Keep~
+You are standing in the Giant's keep. The entire keep has a red glow.
+You feel very uneasy about being here. You see some strange markings
+on the wall to your right. To the north and south the Giant's keep
+continues.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1983
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1981
+S
+#1983
+The Giant's Keep~
+You are standing in the Giant's keep. The entire keep has a red glow.
+You feel very uneasy about being here. You see some strange markings
+on the wall to your right. To the north and south the Giant's keep
+continues.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1984
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1982
+S
+#1984
+The Giant's Keep~
+You are standing in the Giant's keep. The entire keep has a red glow.
+You feel very uneasy about being here. You see some strange markings
+on the wall to your right. To the north and south the Giant's keep
+continues.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1985
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1983
+S
+#1985
+The Giant's Keep~
+You are standing in the Giant's keep. The entire keep has a red glow.
+You feel very uneasy about being here. You see some strange markings
+on the wall to your left. To the north and south the Giant's keep
+continues.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1986
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1991
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1984
+S
+#1986
+The Giant's Keep~
+You are standing in the Giant's keep. The entire keep has a red glow.
+You feel very uneasy about being here. You see some strange markings
+on the wall to your left. To the north and south the Giant's keep
+continues.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1987
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1985
+S
+#1987
+The Giant's Keep~
+You are standing in the Giant's keep. The entire keep has a red glow.
+You feel very uneasy about being here. You see some strange markings
+on the wall to your left. To the north and south the Giant's keep
+continues.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1988
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1986
+S
+#1988
+The Giant's Keep~
+You are standing in the Giant's keep. The entire keep has a red glow.
+You fell very uneasy about being here. You see some strange markings
+on the wall to your left. You see a loose tile on the floor. To the
+north and south the Giant's keep continues.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1989
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1987
+D5
+ ~
+tile~
+ ~
+ ~
+4 -1 3047
+E
+Tile~
+You see a loose piece of tile. Hmm... wonder why you didnt notice this
+before.
+~
+S
+#1989
+The Giant's Keep~
+You are standing in the Giant's keep. The entire keep has a red glow.
+You feel very uneasy about being here. You see some strange markings
+on the wall to your left. To the north and south the Giant's keep
+continues.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+picture~
+ ~
+ ~
+2 -1 1990
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1988
+E
+Picture~
+You see a huge picture of an old ugly fire Giant.
+~
+S
+#1990
+The Giant's Keep~
+You are standing in the Giant's keep. The entire keep has a red glow.
+You feel very uneasy about being here. To the north is the Fire
+Giantess bedroom, to the south is the Giant's keep, and to the east
+and west is a worn down path.
+~
+53 77 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+door~
+ ~
+ ~
+1 -1 2163
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2164
+D2
+ ~
+picture~
+ ~
+ ~
+2 -1 1989
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2301
+E
+Door~
+You see a huge door. The door seems to glow red.
+~
+S
+#1991
+A Hallway In The Giant's Keep~
+You are standing in a hallway in the Giant's keep. The hallway looks
+very worn from many years of use. The whole place glows red. To the
+east the hallway continues, and to the west is the Giant's keep.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1992
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1985
+S
+#1992
+A Hallway In The Giant's Keep~
+You are standing in a hallway in the Giant's keep. The hallway looks
+very worn from many years of use. The whole place glows red. To the
+east and west the hallway continues.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1993
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1991
+S
+#1993
+A Hallway In The Giant's Keep~
+You are standing in a hallway in the Giant's keep. The hallway looks
+very worn from many years of use. The whole place glows red. To the
+east and west the hallway continues.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1994
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1992
+S
+#1994
+A Hallway In The Giant's Keep~
+You are standing in a hallway in the Giant's keep. The hallway looks
+very well used. The whole place glows red. To the south and west the
+hallway continues, to the north is the sleeping quarters.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1995
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2139
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1993
+S
+#1995
+The Giant's Sleeping Quarters~
+You are standing in the Giant's sleeping quarters. You are surrounded
+with rooms full of sleeping giants. You hope none of them wake up.
+The whole place glows red. To the north is sleeping quarters, to the
+east is a bedroom, and to the south is a hallway.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1996
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2075
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1994
+S
+#1996
+The Giant's Sleeping Quarters~
+You are standing in the Giant's sleeping quarters. You are surrounded
+with rooms full of sleeping Giants. You hope none of the wake up,
+The whole place glows red. To the north and south are sleeping
+quarters.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1997
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2136
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1995
+S
+#1997
+The Giant's Sleeping Quarters~
+You are standing in the Giant's sleeping quarters. You are surrounded
+with rooms full of sleeping Giants. You hope none of them wake up. The
+whole place glows red. To the north and south are sleeping quarters.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1998
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1996
+S
+#1998
+The Giant's Sleeping Quarters~
+You are in the Giant's sleeping quarters. You are surrounded with
+rooms full of sleeping Giants. You hope none of them wake up. The
+whole place glows red. To the north and south are sleeping
+quarters and to the east is a bedroom.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1999
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2138
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1997
+S
+#1999
+The Giant's Sleeping Quarters~
+You are in the Giant's sleeping quarters. You are surrounded with
+rooms full of sleeping Giants. The whole place glows red. To the
+north is a bedroom, and to the south is more sleeping quarters.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2137
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1998
+S
+#2075
+A Bedroom~
+You are standing in a Giant's bedroom. The room looks very messy and
+well used. The room glows red. You hope the owner doesn't return while
+you are here. To the west is sleeping quarters.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1995
+S
+#2136
+A Bedroom~
+You are standing in a Giant's bedroom. The room looks well used and
+very messy. The room glows red. You hope the owner doesn't come back
+while you are here. To the west is the sleeping quarters.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1996
+S
+#2137
+A Bedroom~
+You are standing in a Giant's bedroom. The room looks well used and is
+very messy. The room glows red. You hope the owner doesn't come in when
+you are here. To the south is the sleeping quarters.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1999
+S
+#2138
+A Bedroom~
+You are standing in a Giant's bedroom. The room looks very messy and
+used. The room glows red. You hope the owner doesn't return while you
+are here. To the west is the sleeping quarters.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1998
+S
+#2139
+A Hallway In The Giant's Keep~
+You are standing in a hallway in the Giant's keep. The hallway looks
+very well used. The whole place glows red. To the north and south
+the hallway continues, and to the east is a storage room.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1994
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2145
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2140
+S
+#2140
+A Hallway In The Giant's Keep~
+You are standing in a hallway in the Giant's keep. The hallway looks
+very well used. The whole place glows red. To the north and south the
+hallway continues.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2139
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2141
+S
+#2141
+A Hallway In The Giant's Keep~
+You are standing in a hallway in the Giant's keep. The area look like
+it has been used hard. The whole place glows red. To the east is a
+office and to the north and south is the hallway.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2140
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2144
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2142
+S
+#2142
+A Hallway In The Giant's Keep~
+You are standing in a hallway in the Giant's keep. The area looks like
+it has been used hard. The whole place glows red. To the east is a
+office, and to the north is the hallway.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2141
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2143
+S
+#2143
+A Giant's Office~
+You are standing inside a Giant's office. The room has a large stone
+desk in the center. The room glows red. To the west is the hallway.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2142
+S
+#2144
+A Giant's Office~
+You are standing inside a Giant's office. The room is full of books
+and has a desk in the center. The room glows red. To the west is the
+hallway.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2141
+S
+#2145
+A Storage Room~
+You are standing in a storage room. The room is full of containers
+of strange objects. The room glows red. To the west is the hallway.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2139
+S
+#2146
+A Passageway In The Giant's Keep~
+You are in a passageway in the Giant's keep. The whole place glows
+red. You wonder if you should be here. You hear some strange noises
+to the west. To the west the passageway continues, and to the east
+is the Giant's keep.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1981
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2147
+S
+#2147
+A Passageway In The Giant's Keep~
+You are in a passageway in the Giant's keep. The whole place
+glows red. You wonder if you should be here. You hear some
+strange noises to the west. To the east and west the
+passage continues.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2146
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2148
+S
+#2148
+A Passageway In The Giant's Keep~
+You are in a passageway in the Giant's keep. The whole place
+glows red. You wonder if you should be here. You hear some
+strange noises to the west. To the east and west the
+passage continues.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2147
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2149
+S
+#2149
+A Passageway In The Giant's Keep~
+You are in a passageway in the Giant's keep. The whole place
+glows red. You wonder if you should be here. You hear some
+strange noises to the west. To the east and west the
+passage continues.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2148
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2150
+S
+#2150
+A Passageway In The Giant's Keep~
+You are in a passageway in the Giant's keep. The whole place glows red.
+You wonder if you should be here. You hear some strange noises to the
+north and south. To the north, south, and east the passageway continues.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2151
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2149
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2154
+S
+#2151
+A Passageway In The Giant's Keep~
+You are in a passageway in the Giant's keep. The whole place glows red.
+You wonder if you should be here. To the north and south the passage
+continues.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2152
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2150
+S
+#2152
+A Passageway In The Giant's Keep~
+You are in a passageway in the Giant's keep. The whole place glows red.
+You wonder if you should be here. To the north and south the passage
+continues. To the west it the Giant Armorer.
+~
+53 77 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2153
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2151
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2160
+S
+#2153
+A Passageway In The Giant's Keep~
+You are in a passageway in the Giant's keep. The whole place glows
+red. You wonder if you should be here. To the north and south the
+passageway continues.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2158
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2152
+S
+#2154
+A Passageway In The Giant's Keep~
+You are in a passageway in the Giant's keep. The whole place glows red.
+You wonder if you should be here. To the north and south the passage
+continues.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2150
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2155
+S
+#2155
+A Passageway In The Giant's Keep~
+You are standing in a passageway in the Giant's keep. The whole place
+glows red. You wonder if you should be here. To the north and south
+the passage continues, to the west is the Giant's cook.
+~
+53 77 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2154
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2156
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2161
+S
+#2156
+A Passageway In The Giant's Keep~
+You are in a passageway in the Giant's keep. The whole place glows red.
+You wonder if you should be here. To the north and south then passage
+continues.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2155
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2157
+S
+#2157
+A Passageway In The Giant's Keep~
+You are in a passageway in the Giant's keep. The whole place glows red.
+You wonder if you should be here. To the west is a storage room, and
+to the north is the passageway.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2156
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2162
+S
+#2158
+A Passageway In The Giant's Keep~
+You are in a passageway in the Giant's keep. The whole place glows red.
+You wonder if you should be here. To the west is the Giant's general
+store, and to the south is a passageway in the Giant's keep.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2153
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2159
+S
+#2159
+The Giant's Bare General Store~
+You are in the Giant's general store.  This place is full of good
+equipment for sale. The giant store owner stands here ready for
+business. The place glows red. The the east is the passageway.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2158
+S
+#2160
+The Giant's Weaponsmaster~
+You are standing in the Giant's weapon shop. The place looks very dangerous
+to be in. The room has a soft, red glow. The weaponsmaster standsy ready to
+help you out. To the east is the passageway.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2152
+S
+#2161
+The Giant's Cook~
+ You are standing in the Giant's kitchen. The room is full of many
+strange foods ready to eat. The room glows red. The cook looks like
+he wants you to go away. To the east is the passageway.
+~
+53 73 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2155
+S
+#2162
+A Storage Room~
+You are in a storage room in the Giant's keep. The room is filled with
+many containers full of strange objects. The room has a red glow. To
+the east is the passageway.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2157
+S
+#2163
+The Fire Giantess Bedroom~
+You are standing in the fire Giantess bedroom. The room looks well
+used. The room has a soft and feminine feel about it. There is a warm
+breeze blowing red bedcloth around the room. To the north, east, and
+west is the fire Giantess bedroom, to the south is the Giant's keep.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2311
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2309
+D2
+ ~
+door~
+ ~
+ ~
+2 -1 1990
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2310
+E
+Door~
+You see a huge door. The door seems to glow red.
+~
+S
+#2164
+A Worn Down Path In The Giants Keep~
+You are on a worn down path in the Giant's keep. The path through the
+rock looks like it has been here forever. There is a strange looking
+moss growing on the walls. To the east the path continues and to the
+west is the Giant's keep.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2165
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1990
+S
+#2165
+A Worn Down Path In The Giants Keep~
+You are on a worn down path in the Giant's keep. The path through the
+rock looks like it has been here forever. There is a strange looking
+moss growing on the walls. To the east and west the path continues.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2166
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2164
+S
+#2166
+A Worn Down Path In The Giants Keep~
+You are on a worn down path in the Giant's keep. The path through the
+rock looks like it has been here forever. There is a strange looking
+moss growing on the walls. To the east and west the path continues.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2167
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2165
+S
+#2167
+A Worn Down Path In The Giants Keep~
+You are on a worn down path in the Giant's keep. The path through the
+rock looks like it has been here forever. There is a strange looking
+moss growing on the walls. To the east and west the path continues.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2168
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2166
+S
+#2168
+A Worn Down Path In The Giants Keep~
+You are on a worn down path in the Giant's keep. The path through the
+rock looks like it has been here forever. There is a strange looking
+moss growing on the walls. To the east and west the path continues.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2169
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2167
+S
+#2169
+A Worn Down Path In The Giants Keep~
+You are on a worn down path in the Giant's keep. The path through the
+rock looks like it has been here forever. There is a strange looking
+moss growing on the walls. To the south and west the path continues.
+~
+53 73 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2181
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2168
+S
+#2170
+A Worn Down Path In the Giants Keep~
+You are on a worn down path in the Giant's keep. The path through the
+rock looks like it has been here forever. There is a strange looking
+moss growing on the walls. To the north and south the path continues.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2180
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2181
+S
+#2171
+A Worn Down Path In The Giants Keep~
+You are on a worn down path in the Giant's keep. The path through the
+rock looks like it has been here forever. There is a strange looking
+moss growing on the walls. To the north and south the path continues.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2182
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2172
+S
+#2172
+A Worn Down Path In The Giants Keep~
+You are on a worn down path in the Giant's keep. The path through the
+rock looks like it has been here forever. There is a strange looking
+moss growing on the walls. To the north and south the path continues.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2171
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2173
+S
+#2173
+A Worn Down Path In The Giants Keep~
+You are on a worn down path in the Giant's keep. The path through the
+rock looks like it has been here forever. There is a strange looking
+moss growing on the walls. To the north and south the path continues.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2172
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2174
+S
+#2174
+A Worn Down Path In The Giants Keep~
+You are on a worn down path in the Giant's keep. The path through the
+rock looks like it has been here forever. There is a strange looking
+moss growing on the walls. To the north and south the path continues.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2173
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2175
+S
+#2175
+A Worn Down Path In The Giants Keep~
+You are on a worn down path in the Giant's keep. The path through the
+rock looks like it has been here forever. There is a strange looking
+moss growing on the walls. To the north and south the path continues.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2174
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2176
+S
+#2176
+A Worn Down Path In The Giants Keep~
+You are on a worn down path in the Giant's keep. The path through the
+rock looks like it has been here forever. There is a strange looking
+moss growing on the walls. To the north and south the path continues.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2175
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2177
+S
+#2177
+A Worn Down Path In The Giants Keep~
+You are on a worn down path in the Giant's keep. The path through the
+rock looks like it has been here forever. There is a strange looking
+moss growing on the walls. To the north and south the path continues.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2176
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2178
+S
+#2178
+A Worn Down Path In The Giants Keep~
+You are on a worn down path in the Giant's keep. The path through the
+rock looks like it has been here forever. There is a strange looking
+moss growing on the walls. To the north and south the path continues.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2177
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2179
+S
+#2179
+A Worn Down Path In The Giants Keep~
+You are on a worn down path in the Giant's keep. The path through the
+rock looks like it has been here forever. There is a strange looking
+moss growing on the walls. To the north and south the path continues.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2178
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2180
+S
+#2180
+A Worn Down Path In The Giants Keep~
+You are on a worn down path in the Giant's keep. The path through the
+rock looks like it has been here forever. There is a strange looking
+moss growing on the walls. To the north and south the path continues.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2179
+D1
+ ~
+door~
+ ~
+ ~
+1 5301 2302
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2170
+E
+Door~
+You see a huge steel door. The door looks unbreakable.
+~
+S
+#2181
+A Worn Down Path In The Giants Keep~
+You are on a worn down path in the Giant's keep. The path through the
+rock looks like it has been here forever. There is a strange looking
+moss growing on the walls. To the west and north the path continues.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2170
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2169
+S
+#2182
+A Worn Down Path In The Giants Keep~
+You are on a worn down path in the Giant's keep. The path through the
+rock looks like it has been here forever. There is a strange looking
+moss growing on the walls. To the east and west the path continues.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2171
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2183
+S
+#2183
+A Worn Down Path In The Giants Keep~
+You are on a worn down path in the Giant's keep. The path through the
+rock looks like it has been here forever. There is a strange looking
+moss growing on the walls. To the east and west the path continues.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2182
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2184
+S
+#2184
+A Worn Down Path In The Giants Keep~
+You are on a worn down path in the Giant's keep. The path through the
+rock looks like it has been here forever. There is a strange looking
+moss growing on the walls. To the east and west the path continues.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2183
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2185
+S
+#2185
+A Worn Down Path In The Giants Keep~
+You are on a worn down path in the Giant's keep. The path through the
+rock looks like it has been here forever. There is a strange looking
+moss growing on the walls. To the east and west the path continues.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2184
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2186
+S
+#2186
+A Worn Down Path In The Giants Keep~
+You are on a worn down path in the Giant's keep. The path through the
+rock looks like it has been here forever. There is a strange looking
+moss growing on the walls. To the east and west the path continues.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2185
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2187
+S
+#2187
+A Worn Down Path In The Giants Keep~
+You are on a worn down path in the Giant's keep. The path through the
+rock looks like it has been here forever. There is a strange looking
+moss growing on the walls. To the east and west the path continues.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2186
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2188
+S
+#2188
+A Worn Down Path In The Giants Keep~
+You are on a worn down path in the Giant's keep. The path through the
+rock looks like it has been here forever. There is a strange looking
+moss growing on the walls. To the east and west the path continues.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2187
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2189
+S
+#2189
+A Worn Down Path In The Giants Keep~
+You are on a worn down path in the Giant's keep. The path through the
+rock looks like it has been here forever. There is a strange looking
+moss growing on the walls. To the east and west the path continues.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2188
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2190
+S
+#2190
+A Worn Down Path In The Giants Keep~
+You are on a worn down path in the Giant's keep. The path through the
+rock looks like it has been here forever. There is a strange looking
+moss growing on the walls. To the east and south the path continues.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+door~
+ ~
+ ~
+1 5301 2307
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2189
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2191
+E
+Door~
+You see a huge steel door. The door protects the Giant Queen.
+~
+S
+#2191
+A Worn Down Path In the Giants keep~
+You are on a worn down path in the Giant's keep. The path through the
+rock looks like it has been here forever. There is a strange looking
+moss growing on the walls. To the north and south the path continues.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2190
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2192
+S
+#2192
+A Worn Down Path In The Giants Keep~
+You are on a worn down path in the Giant's keep. The path through the
+rock looks like it has been here forever. There is a strange looking
+moss growing on the walls. To the north and south the path continues.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2191
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2193
+S
+#2193
+A Worn Down Path In The Giants Keep~
+You are on a worn down path in the Giant's keep. The path through the
+rock looks like it has been here forever. There is a strange looking
+moss growing on the walls. To the north and south the path continues.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2192
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2194
+S
+#2194
+A Worn Down Path In The Giants Keep~
+You are on a worn down path in the Giant's keep. The path through the
+rock looks like it has been here forever. There is a strange looking
+moss growing on the walls. To the north and south the path continues.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2193
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2195
+S
+#2195
+A Worn Down Path In The Giants keep~
+You are on a worn down path in the Giant's keep. The path through the
+rock looks like it has been here forever. There is a strange looking
+moss growing on the walls. To the north and south the path continues.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2194
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2196
+S
+#2196
+A Worn Down Path In The Giants keep~
+You are on a worn down path in the Giant's keep. The path through the
+rock looks like it has been here forever. There is a strange looking
+moss growing on the walls. To the north and south the path continues.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2195
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2197
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3572
+S
+#2197
+A Worn Down Path In The Giants Keep~
+You are on a worn down path in the Giant's keep. The path through the
+rock looks like it has been here forever. There is a strange looking
+moss growing on the walls. To the north and south the path continues.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2196
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2198
+S
+#2198
+A Worn Down Path In The Giants Keep~
+You are on a worn down path in the Giant's keep. The path through the
+rock looks like it has been here forever. There is a strange looking
+moss growing on the walls. To the north and south the path continues.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2197
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2199
+S
+#2199
+A Worn Down Path In The Giants Keep~
+You are on a worn down path in the Giant's keep. The path through the
+rock looks like it has been here forever. There is a strange looking
+moss growing on the walls. To the north and south the path continues.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2198
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2300
+S
+#2300
+A Worn Down Path In The Giants Keep~
+You are on a worn down path in the Giant's keep. The path through the
+rock looks like it has been here forever. There is a strange looking
+moss growing on the walls. To the north and south the path continues.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2199
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2301
+S
+#2301
+A Worn Down Path In The Giants Keep~
+You are on a worn down path in the Giants keep. The path through the
+rock look like it has been here forever. There is a strange looking
+moss growing on the walls. To the east is the Giant's keep and to
+the north is the path.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2300
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1990
+S
+#2302
+The Elite Guard Post~
+You are standing in the Elite guard post of the Giant King. The
+post is very organized and looks ready for any problem that
+might come up. All the guards look at you and growl. You gulp
+as you step back.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2303
+D3
+ ~
+door~
+ ~
+ ~
+1 5301 2180
+E
+Door~
+You see a huge steel door. The door looks unbreakable.
+~
+S
+#2303
+The Elite Guard Post~
+You are standing in the Elite guard post of the Giant King. The
+post is very organized and looks ready for any problem that
+might come up. All the guards look at you and growl. You gulp
+as you step back.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2302
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 2304
+S
+#2304
+The Stairway to The Giant King~
+You are on the Golden stairway to the Giant King. The Stairway is
+newly polished and looks great. You have second thoughts about
+being here. The guards here want you to die and you probably will.
+~
+53 73 0 7
+0 0 0 0
+30 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 2305
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 2303
+S
+#2305
+The Stairway to The Giant King~
+You are on the Golden stairway to the Giant King. The Stairway is
+newly polished and looks great. You begin to second guess yourself about
+being here. The guards here want you to die and you probably will.
+~
+53 73 0 7
+0 0 0 0
+30 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 2306
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 2304
+S
+#2306
+The Throne Room of The Giant King~
+You are standing in the Throne room of the Giant King. The room is filled
+with guards waiting to kill you. The room is made of solid gold that has
+a soft red glow. The Giant King is sitting on his Throne waiting for
+battle. You are not sure you want to be here. You better turn around
+right now while you are still alive.
+~
+53 73 0 7
+0 0 0 0
+30 0 0
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 2305
+E
+Throne~
+The throne of the Giant king. The throne is made out of solid gold.
+The throne looks very valuable, you wish you could sneak it out.
+~
+S
+#2307
+The Guard of The Fire Queen's Chamber~
+You are standing in the Guard of the Fire Queen's chamber. The room
+is full of guards ready to die to protect the Queen. You wish you
+hadn't come in here. The room is well decorated and look gleeful.
+Up is the Fire Queen's chamber and south is the path.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D2
+ ~
+door~
+ ~
+ ~
+1 5301 2190
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 2308
+E
+Door~
+You see a huge steel door. The door protects the Giant Queen.
+~
+S
+#2308
+The Fire Queen's Chamber~
+You are standing in the Fire Queen's Chamber. The room is decorated
+with many beautiful artworks and sculptures. The room glows red.
+The throne of the queen is here made of pure gold. The queen looks
+at you and growls. You know that you shouldn't be here, get out
+while you can!
+~
+53 73 0 7
+0 0 0 0
+30 0 0
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 2307
+E
+Throne~
+You see the throne of the Giant Queen. The throne is made of
+solid gold. It looks very valuable.
+~
+S
+#2309
+The Fire Giantess Bedroom~
+You are standing in the fire Giantess bedroom. The room looks well
+used. The room has a soft and feminine feel about it. There is a warm
+breeze blowing red bedcloth around the room. To the west is the fire
+Giantess bedroom.
+~
+53 73 3 7
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2163
+S
+#2310
+The Fire Giantess Bedroom~
+You are standing in the fire Giantess bedroom. The room looks well
+used. The room has a soft and feminine feel about it. There is a warm
+breeze blowing red bedcloth around the room. To the east is the Giant's
+keep.
+~
+53 73 3 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2163
+S
+#2311
+The Fire Giantess Bedroom~
+You are standing in the fire Giantess bedroom. The rooms looks well
+used. The room has a soft and feminine feel about it. There is a warm
+breeze blowing red bedcloth around the room. To the south is the
+fire Giantess bedroom.
+~
+53 73 3 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2163
+S
+#2312
+The Hidden Path~
+You are on a small, worn down, hidden path. The path looks as though it
+has been here forever. To the west the hidden path continues, you may
+also go back to the east.
+~
+53 0 2 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1938
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2313
+S
+#2313
+The Hidden Path~
+You are on a small, worn down, hidden path. The path looks as though it
+has been here forever. To the north the hidden path continues, you may
+also go back to the east.
+~
+53 0 2 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2314
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2312
+S
+#2314
+The Hidden Path~
+You are on a small, worn down, hidden path. The path looks as though it
+has been here forever. To the west is the path leading to the stream,
+and to the south is the hidden path.
+~
+53 0 2 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2313
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2315
+S
+#2315
+The Path Leading To The Stream~
+You are on the path leading to the stream. In the distance you hear
+the soft sounds of a running stream. To the west the path leading
+to the stream continues, to the east is the hidden path.
+~
+53 0 2 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2314
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2316
+S
+#2316
+The Path Leading To The Stream~
+You are on the path leading to the stream. In the distance you hear
+the soft sounds of a running stream. This path continues to the
+west, and back to the east.
+~
+53 0 2 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2315
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2317
+S
+#2317
+The Path Leading To The Stream~
+You are on the path leading to the stream. In the distance you hear
+the solf sounds of a running stream. This path continues to the
+west, and back to the east.
+~
+53 0 2 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2316
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2318
+S
+#2318
+The Path Leading To The Stream~
+You are on the path leading to the stream. In the distance you hear
+the soft sounds of a running stream. This path continues to the
+west, and back to the east.
+~
+53 0 2 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2317
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2319
+S
+#2319
+The Path Leading To The Stream~
+You are on the path leading to the stream. In the distance you hear
+the soft sounds of a running stream. To the north you see a clearing
+in the path, and to the east is the path leading to the stream.
+~
+53 0 2 7
+0 1 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2320
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2318
+S
+#2320
+A Clearing In The Path~
+You are at a clearing in the path. Your mind wonders why there is a clearing
+here. The clearing looks like it was made for a purpose, maybe for this huge
+tree that stands here... To the west the path leading to the stream
+continues, it also goes back to the south.
+~
+53 0 2 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2319
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2321
+S
+#2321
+The Path Leading To The Stream~
+You are on the path leading to the stream. In the distance you
+hear the soft sounds of a running stream. The path continues
+to the west, and back to the east.
+~
+53 0 2 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2320
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2322
+S
+#2322
+The Path Leading To The Stream~
+You are on the path leading to the stream. In the distance you
+hear the soft sounds of a running stream. To the west of
+here is the stream. The path goes back to the east.
+~
+53 0 2 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2321
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2323
+S
+#2323
+The Stream~
+You are standing in a small stream. The cool water feels good running over
+your feet. The wind gently sways the trees, you feel very peaceful about
+being here. The path leading to the stream is east of here.
+~
+53 262144 6 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5611
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2322
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5608
+E
+Stream~
+A small peaceful stream gently flows by. The stream contains fish and
+other life forms swimming around in it. You feel refreshed being here.
+~
+S
+#3047
+The Ladder~
+You are standing on a ladder down from the Giant's keep. The
+ladder is very old and looks like it might fall apart. The
+stones around you feel very loose.
+~
+53 73 0 7
+0 0 0 0
+50 0 0
+D4
+ ~
+tile~
+ ~
+ ~
+4 -1 1988
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 3049
+E
+WARNING NOTICE~
+You are entering the area at you own risk. There have been
+many unexplained deaths occuring here.
+~
+S
+#3049
+The Ladder~
+You are standing on a ladder down from the Giant's keep. The
+ladder is very old and looks like it might fall apart. The
+stones around you feel very loose.
+~
+53 73 0 7
+0 0 0 0
+50 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 3047
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 3050
+S
+#3050
+The Ladder~
+You are standing on a ladder down from the Giant's keep. The
+ladder is very old and looks like it might fall apart. The
+stones around you feel very loose.
+~
+53 73 0 7
+0 0 0 0
+50 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 3049
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 3051
+S
+#3051
+The Ladder~
+You are standing on a ladder down from the Giant's keep. The
+ladder is very old and looks like it might fall apart. The
+stones around you feel very loose.
+~
+53 73 0 7
+0 0 0 0
+50 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3052
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3054
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 3050
+S
+#3052
+A Dark Passageway~
+You are standing in a dark passageway. The passageway is covered
+with moss and glows red. The area looks like it might fall apart
+anytime.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3053
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3051
+S
+#3053
+End of the Passageway~
+You have an errie feeling as you reach the end of this passageway.
+Some of the floor seems to have crumbled, leaving a gaping hole
+into the earth below. You had better leave before you're its next
+victim.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3052
+E
+floor down hole~
+You see a crumbling floor that makes you wonder how much weight you
+are carrying and how much food you last ate, because you could be
+its next victim.
+~
+S
+#3054
+A Dark Passageway~
+You are standing in a dark passageway. The passageway is covered
+with moss and glows red. The area looks like it might fall apart
+anytime.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3567
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3058
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3051
+S
+#3058
+A Dark Passageway~
+You are standing in a dark passageway. The passageway is covered
+with moss and glows red. The area looks like it might fall apart
+anytime.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3059
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3054
+S
+#3059
+A Dark Passageway~
+You are standing in a dark passageway. The passageway is covered
+with moss and glows red. The area looks like it might fall apart
+anytime.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3060
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3058
+S
+#3060
+A Dark Passageway~
+You are standing in a dark passageway. The passageway is covered
+with moss and glows red. The area looks like it might fall apart
+anytime.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3061
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3569
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3059
+S
+#3061
+A Dark Passageway~
+You are standing in a dark passageway. The passageway is covered
+with moss and glows red. The area looks like it might fall apart
+anytime.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3062
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3060
+S
+#3062
+A Dark Passageway~
+You are standing in a dark passageway. The passageway is covered
+with moss and glows red. The area looks like it might fall apart
+anytime.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3063
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3061
+S
+#3063
+A Dark Passageway~
+You are standing in a dark passageway. The passageway is covered
+with moss and glows red. The area looks like it might fall apart
+anytime.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3064
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3062
+S
+#3064
+A Dark Passageway~
+You are standing in a dark passageway. The passageway is covered
+with moss and glows red. The area looks like it might fall apart
+anytime.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3063
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 3065
+S
+#3065
+A Dark Passageway~
+You are standing in a dark passageway. The passageway is covered
+with moss and glows red. The area looks like it might fall apart
+anytime.
+~
+53 73 0 7
+0 0 0 0
+30 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 3064
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 3066
+S
+#3066
+A Dark Passageway~
+You are standing in a dark passageway. The passageway is coverd with
+moss and glows red. The area looks like it might fall apart anytime.
+You suddenly feel like you must make a great decision ...hrm...
+wonder what it is..
+~
+53 73 0 7
+0 0 0 0
+30 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3071
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3067
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3074
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 3065
+S
+#3067
+A Dark Passageway~
+You are standing in a dark passageway. The passageway is covered
+with moss and glows red. The area looks like it might fall apart
+anytime.
+~
+53 73 0 7
+9 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3068
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3066
+S
+#3068
+A Dark Passageway~
+You are standing in a dark passageway. The passageway is covered
+with moss and glows red. The area looks like it might fall apart
+anytime.
+~
+53 73 0 7
+9 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3069
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3067
+S
+#3069
+A Dark Passageway~
+You are standing in a dark passageway. The passageway is covered
+with moss and glows red. The area looks like it might fall apart
+anytime.
+~
+53 73 0 7
+9 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3070
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3068
+S
+#3070
+A Dark Passageway~
+You are standing in a dark passageway. The passageway is covered
+with moss and glows red. The area looks like it might fall apart
+anytime.
+~
+53 77 0 7
+9 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3069
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 3079
+S
+#3071
+A Dark Passageway~
+You are standing in a dark passageway. The passageway is covered
+with moss and glows red. The area looks like it might fall apart
+anytime.
+~
+53 73 0 7
+14 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3072
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3066
+S
+#3072
+A Dark Passageway~
+You are standing in a dark passageway. The passageway is covered
+with moss and glows red. The area looks like it might fall apart
+anytime.
+~
+53 73 0 7
+14 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3073
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3071
+S
+#3073
+A Dark Passageway~
+You are standing in a dark passageway. The passageway is covered
+with moss and glows red. The area looks like it might fall apart
+anytime.
+~
+53 77 0 7
+14 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3072
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 3077
+S
+#3074
+A Dark Passageway~
+You are standing in a dark passageway. The passageway is covered
+with moss and glows red. The area looks like it might fall apart
+anytime.
+~
+53 73 0 7
+7 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3066
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3075
+S
+#3075
+A Dark Passageway~
+You are standing in a dark passageway. The passageway is covered
+with moss and glows red. The area looks like it might fall apart
+anytime.
+~
+53 73 0 7
+7 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3074
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3076
+S
+#3076
+A Dark Passageway~
+You are standing in a dark passageway. The passageway is covered
+with moss and glows red. The area looks like it might fall apart
+anytime.
+~
+53 77 0 7
+7 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3075
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 3078
+S
+#3077
+The Thief's Den~
+You are standing in the Thief's Den. The room is dark, you can't see
+anything. You feel someone watching you as you look around. You
+know you don't belong here. Escape while you can.
+~
+53 73 0 7
+14 0 0 0
+30 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 3073
+S
+#3078
+The Warrior's Den~
+You are standing in The Warrior's Den.  The Den is covered with
+cloaks of furr and battle equipment. There is a grand warrior
+here, the best you have ever seen. You might want to leave
+now while you are still alive.
+~
+53 73 0 7
+7 0 0 0
+30 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 3076
+S
+#3079
+The Magic Den~
+You are standing in the Magic Den. The den is full of old dusty
+books and charts. There are test tubes and equipment everywhere.
+There is a nasty looking man standing here, I don' think that
+you want to mess with him.
+~
+53 73 0 7
+9 0 0 0
+30 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 3070
+S
+#3302
+Bottom of the Pit~
+You find yourself in a large circular cavern, at the bottom of an extremely
+deep shaft.  The walls are far too steep to scale and initally there
+appears to be no way out.  You feel a slight draft blowing against your
+skin from the west.  Looking closer, you can see a dark and very narrow
+tunnel leading through the stone wall.
+~
+53 77 0 7
+0 0 0 0
+0 0 0
+D3
+The passage is completely dark and very narrow, your light does
+little to illuminate the tunnel.  From only a few paces away, you
+can hear the sounds of the wilderness echoing into the chamber and
+feel the breeze of the fresh air.
+~
+ ~
+$n crawls into the narrow passage in the western wall.~
+$n crawls out of a niche high on the cave's side and tumbles down to the ground.~
+5 -1 1933
+S
+#3567
+A Dark Passageway~
+You are standing in a dark passageway. The passageway is covered
+with moss and glows red. The area looks like it might fall apart
+anytime.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3568
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3054
+S
+#3568
+A Dark Passageway~
+You are standing in a dark passageway. The passageway is covered
+with moss and glows red. The area looks like it might fall apart
+anytime.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3567
+S
+#3569
+A Dark Passageway~
+You are standing in a dark passageway. The passageway is covered
+with moss and glows red. The area looks like it might fall apart
+anytime.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3060
+S
+#3572
+The Sloped Tunnel~
+You are in the sloped tunnel in the Giant's keep. The tunnel is made
+of solid rock that has a smooth, grey form. You fell a warm mist in
+the air. The walls look like they are closing in on you. The tunnel
+slopes down from here.
+~
+53 77 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2196
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3573
+S
+#3573
+The Sloped Tunnel~
+You are in the sloped tunnel in the Giant's keep. The tunnel is made
+of solid rock that has a smooth, grey form. You fell a warm mist in
+the air. The walls look like they are closing in on you. The tunnel
+slopes down from here.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3572
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3574
+S
+#3574
+The Sloped Tunnel~
+You are in the sloped tunnel in the Giant's keep. The tunnel is made
+of solid rock that has a smooth, grey form. You fell a warm mist in
+the air. The walls look like they are closing in on you. The tunnel
+slopes down from here.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3575
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3573
+S
+#3575
+The Sloped Tunnel~
+You are in the sloped tunnel in the Giant's keep. The tunnel is made
+of solid rock that has a smooth, grey form. You fell a warm mist in
+the air. The walls look like they are closing in on you. The tunnel
+slopes down from here.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3576
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3574
+S
+#3576
+The Sloped Tunnel~
+You are in the sloped tunnel in the Giant's keep. The tunnel is made
+of solid rock that has a smooth, grey form. You fell a warm mist in
+the air. The walls look like they are closing in on you. The tunnel
+slopes down from here.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3577
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3575
+S
+#3577
+The Base of the Sloped Tunnel~
+You are in the sloped tunnel in the Giant's keep. The tunnel is made
+of solid rock that has a smooth, grey form. You fell a warm mist in
+the air. The walls look like they are closing in on you. The tunnel
+slopes down from here.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3578
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3576
+S
+#3578
+Prison Hallway~
+You are in the prison hallway. This is where all criminals of the
+Fire Giant' come to serve their time. The hallway looks drab and
+it feels very warm here. The cellmates look out of their cells
+with hunger in their eyes.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3588
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3580
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3577
+S
+#3580
+Prison Hallway~
+You are in the prison hallway. This is where all criminals of the
+Fire Giant' come to serve their time. The hallway looks drab and
+it feels very warm here. The cellmates look out of their cells
+with hunger in their eyes.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3587
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3581
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3578
+S
+#3581
+Prison Hallway~
+You are in the prison hallway. This is where all criminals of the
+Fire Giant' come to serve their time. The hallway looks drab and
+it feels very warm here. The cellmates look out of their cells
+with hunger in their eyes.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3586
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3580
+S
+#3582
+DELETE ME~
+You are in the prison hallway. This is where all criminals of the
+Fire Giant' come to serve their time. The hallway looks drab and
+it feels very warm here. The cellmates look out of their cells
+with hunger in their eyes.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3583
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3589
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3581
+S
+#3583
+DELETE ME~
+You are in the prison hallway. This is where all crimanals of the
+Fire Giant's come to serve their time. The hallway looks drab and
+it feels very warm here. The cellmates look out of their cells
+with hunger in their eyes.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3584
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3590
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3582
+S
+#3584
+DELETE ME~
+You are in the prison hallway. This is where all crimanals of the
+Fire Giant's come to serve their time. The hallway looks drab and
+it feels very warm here. The cellmates look out of their cells
+with hunger in their eyes.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3585
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3583
+S
+#3585
+DELETE ME~
+You are standing in a cell in the Fire Giant's prison. The cell
+is dirty and smelly. There is little light and it seems to be
+very warm here. You feel sorry for anyone who lives here.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3584
+S
+#3586
+A Cell~
+You are standing in a cell in the Fire Giant's prison. This cell
+is dirty and smelly. There is little light and it seems to be
+very warm here. You fell sorry for anyone who lives here.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3581
+S
+#3587
+A Cell~
+You are standing in a cell in the Fire Giant's prison. The cell
+is dirty and smelly. There is little light and it seems to be
+very warm here. You feel sorry for anyone who lives here.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3580
+S
+#3588
+A Cell~
+You are standing in a cell in the Fire Giant's prison. The cell
+is dirty and smelly. There is little light and it seems to be
+very warm here. You feel sorry for anyone who lives here.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3578
+S
+#3589
+DELETE ME~
+You are standing in a cell in the Fire Giant's prison. The cell
+is dirty and smelly. There is little light and it seems to be
+very warm here. You feel sorry for anyone who lives here.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3582
+S
+#3590
+DELETE ME~
+You are standing in a cell in the Fire Giant's prison. The cell
+is dirty and smelly. There is little light and it seems to be
+very warm here. You feel sorry for anyone who lives here.
+~
+53 73 0 7
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3583
+S
+#5608
+The Stream~
+You are standing in a small stream. The cool water feels good running over
+your feet. The wind gently sways the trees, you feel very peaceful about
+being here.  The current has become more powerful here and you can see rapids
+to the south.  You conclude that it wouldn't be safe to continue any farther.
+~
+53 262148 6 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2323
+S
+#5609
+The Stream~
+You are standing in a small stream. The cool water feels good running over
+your feet. The wind gently sways the trees, you feel very peaceful about
+being here.  Just ahead, the stream plummets over the edge of the plateua.
+~
+53 262144 6 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5610
+S
+#5610
+The Stream~
+You are standing in a small stream. The cool water feels good running over
+your feet. The wind gently sways the trees, you feel very peaceful about
+being here.
+~
+53 262144 6 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5609
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5611
+S
+#5611
+The Stream~
+You are standing in a small stream. The cool water feels good running over
+your feet. The wind gently sways the trees, you feel very peaceful about
+being here.
+~
+53 262148 6 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5610
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2323
+S
+#18001
+The Grass Path~
+You are on a new grass path. The path is freshly cut but looks like
+it was here before. There is a calm breeze swaying the tall grass.
+Far off to the south you see a huge cave. The grass path leads south
+of here.
+~
+53 4 2 1
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1929
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 908
+S
+#19999
+$~

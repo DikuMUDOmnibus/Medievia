@@ -1,0 +1,5 @@
+/***************************************************************************
+*		 MEDIEVIA CyberSpace Code and Data files		   *
+*       Copyright (C) 1992, 1995 INTENSE Software(tm) and Mike Krause	   *
+*			   All rights reserved				   *
+***************************************************************************/

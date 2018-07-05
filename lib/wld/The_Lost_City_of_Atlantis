@@ -1,0 +1,6195 @@
+#618
+Ruined Home~
+You are standing in a ruined home. Walls lie shattered around you, and
+the roof has caved in and grown a heavy blanket of sea life. Old furniture,
+once used by two legged citizens, lies scattered and rotting across the
+floor. A small lawn is to the west, and to the east you can see more
+broken ruins.
+~
+67 13 9 0
+0 0 0 0
+0 0 0
+D1
+You see what must have been the old city, now lying broken at the bottom
+of the sea. It must not have survived the destruction of the city.
+~
+ ~
+$n climbs over a broken wall and enters the wild ruins.~
+$n enters the ruins from a small home.~
+1 -1 666
+D3
+You see a small lawn.
+~
+ ~
+$n walks out onto the small lawn.~
+$n enters the small lawn from the ruined home.~
+1 -1 1709
+S
+#619
+Marketplace~
+ ~
+67 9 9 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 622
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 620
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2488
+S
+#620
+Marketplace~
+ ~
+67 9 9 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 621
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 619
+S
+#621
+Marketplace~
+ ~
+67 9 9 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 624
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 620
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 622
+S
+#622
+Marketplace~
+ ~
+67 9 9 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 623
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 621
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 619
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2489
+S
+#623
+Marketplace~
+ ~
+67 9 9 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 624
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 622
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2490
+S
+#624
+Marketplace~
+ ~
+67 9 9 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 621
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 623
+S
+#625
+Small Lawn~
+ ~
+67 9 9 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 626
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2491
+S
+#626
+Ruined Home~
+ ~
+67 13 9 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1746
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 625
+S
+#627
+Small Lawn~
+You are on a small forgotten lawn. Weeds and sea creatures have taken over
+the area. A small broken statuette is lying on the ground. To the west there
+seems to be the house this once belonged to, and to the east you can enter
+the city streets.
+~
+67 9 9 7
+0 0 0 0
+0 0 0
+D1
+You see the busy street.
+~
+ ~
+$n leaves for the busy street.~
+$n enters the street from the lawn.~
+1 -1 2554
+D3
+You see a ruined home. It must not have survived the destruction of Atlantis.
+~
+ ~
+$n enters the broken home.~
+$n climbs over a wall into the broken house.~
+1 -1 628
+S
+#628
+Ruined Home~
+You are in a small house that fell to the sinking of the great city.
+The roof has caved in on one side, blocking all attempts to view the
+rest of the ruined home. A shattered dresser is here, still holding some
+rotting cloth. A small bed, probably that of a child's, is in the corner.
+~
+67 13 9 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 627
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 645
+S
+#629
+Arena~
+You are in the great arena of Atlantis. Banners hung on poles stream
+along in the current just as they would in a light wind. Seats frame the
+area in an outline of stone, and a few spectators have come to watch the
+daily practices and challenges. The arena continues to the north and west,
+and the safety of the streets is to the east.
+~
+67 41 9 0
+0 0 0 0
+0 0 0
+D0
+You see more of the arena.
+~
+ ~
+$n scrambles for another part of the arena.~
+$n enters this part of the arena cautiously.~
+1 -1 632
+D1
+You see the safety of the streets.
+~
+ ~
+$n leaves the arena proudly, having beaten his challengers and lived.~
+$n leaves the arena looking battered but defiant.~
+1 -1 2555
+D3
+You see more of the arena.
+~
+ ~
+$n scrambles into another part of the arena.~
+$n enters this part of the arena cautiously.~
+1 -1 630
+S
+#630
+Arena~
+ ~
+67 41 9 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 631
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 629
+S
+#631
+Arena~
+ ~
+67 41 9 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 634
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 632
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 630
+S
+#632
+Arena~
+ ~
+67 41 9 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 633
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2556
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 629
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 631
+S
+#633
+Arena~
+ ~
+67 41 9 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2557
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 632
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 634
+S
+#634
+Arena~
+ ~
+67 41 9 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 633
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 631
+S
+#635
+Small Lawn~
+You are in a small overgrown lawn, neglected by the citizens and attendants
+of the city. Small fish scurry about, trying to get out of your way. It seems
+there is a ruined house to the west, probably one that did not survive the
+cataclysm that was unleashed onto the city so long ago.
+~
+67 9 9 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2558
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 636
+S
+#636
+Ruined Home~
+You are in a ruined home, and the walls lie broken and crumbled around you.
+The roof has caved in in one spot. Paintings still cling, rotting, to
+what were once luxurious walls. Looking around, you even find what must have
+been the remains of a small bed, now disinigrated beyond use.
+~
+67 13 9 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 635
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 665
+S
+#637
+Ivory Tower, Second Floor Entrance~
+ ~
+67 9 9 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 638
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 640
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 641
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 2566
+S
+#638
+Ivory Tower, Bed Chambers~
+ ~
+67 9 9 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 639
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 637
+S
+#639
+Ivory Tower, Bed Chambers~
+ ~
+67 9 9 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 638
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 640
+S
+#640
+Ivory Tower, Bed Chambers~
+ ~
+67 9 9 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 637
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 639
+S
+#641
+Ivory Tower, Third Floor Entrance~
+You are standing in a plain hallway, adorned only with the majestic stairs
+that reach downward to the lower levels. This is the third and final floor
+of the tower. A library is to the east, and a training area is to the south.
+~
+67 9 9 7
+0 0 0 0
+0 0 0
+D1
+You see a library.
+~
+ ~
+$n walks into the shimmering library.~
+$n walks into the room and suddenly becomes dry by magic!~
+1 -1 642
+D2
+You see a training room.
+~
+ ~
+$n walks into the shimmering field that blocks the training room.~
+$n walks into the training room.~
+1 -1 644
+D5
+You see a tunnel of stairs leading the way down.
+~
+ ~
+$n walks up the stairs.~
+$n walks down the stairs.~
+1 -1 637
+S
+#642
+Ivory Tower, Library~
+You are in a huge room, somehow kept dry by magic. As soon as your
+body leaves the wall of water that blocks the doorway, you are strangely
+as dry as if you never set foot beneath water! This room is filled with
+tomes and books of all sizes, subjects, and conditions. Magical spellbooks
+covered in runes line one shelf, while another is overflowing with
+maps of ths city and those beyond. A great tapestry, picturing several
+unicorns dancing in a field of gold, is hung on the north wall.
+~
+67 9 9 7
+0 0 0 0
+0 0 0
+D2
+You see the main room of the tower.
+~
+ ~
+&n leaves for the main room of the tower.~
+$n enters the main room of the tower.~
+1 -1 643
+D3
+You see the entrance to the stairs.
+~
+ ~
+$n leaves for the stairs.~
+$n enters the stair room.~
+1 -1 641
+S
+#643
+Ivory Tower, Master Room~
+You are standing in the main room of the tower. Great stained glass
+windows, emblazened with magic, keep changing their multi-colored scenes
+over and over again. A great desk is here, made of stone and piled with
+waterproofed scrolls and books, no doubt the Master's own private spells.
+A marble plaque on one wall states the names of initiates that have
+graduated from the tower with the highest honors.
+~
+67 9 9 7
+0 0 0 0
+0 0 0
+D0
+You see a library untouched by the water.
+~
+ ~
+$n walks into the library.~
+$n walks into the room and is instantly dry!~
+1 -1 642
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 644
+S
+#644
+Ivory Tower, Training Area~
+You are in the main training area for the tower of mages. Though
+many come here to train, very few make it past the strenuous tests they
+are pushed against. Even then, only a few of Alexander's proud students
+make it to graduation with giving up first. A shimmering field is here to
+lessen the impact of practiced spells against the delicate library and
+master room.
+~
+67 9 9 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 641
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 643
+S
+#645
+The Ruins of the Old City~
+You are standing free of the main city proper. Surrounding you is nothing
+but ruin and decay. Lawlessness is the only rule followed here, and you
+shiver to think what creatures roam here, unwatched by a king's vigilant
+eye.
+~
+67 73 9 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 628
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 646
+S
+#646
+The Ruins of the Old City~
+You are walking along a path leading the way through the ruins of the
+old city, climbing over fallen beams and wading through seas of ocean plants.
+All around you is the desolate barrenness of the once beautiful city. No
+riches greet you here, only rotting wood and stone that still yearns for
+the warmth of a sun it will never see again.
+~
+67 73 9 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 645
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 647
+S
+#647
+Road Through the Ruins of the Old City~
+You have come across what seems to be a large road slicing through the
+ruins. Strangely, the road has been cleared of all obstructions by some
+mysterious force or being. The cobblestones can be seen, still retaining
+some of their original beauty. The road continues north, and a vastly
+overgrown path leads east towards the new city.
+~
+67 73 9 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 648
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 646
+S
+#648
+Road Through the Ruins of the Old City~
+You are standing at an old intersection. The road that crossed here
+west/east aruptly ends here, having sunk deep into the ground. Two houses
+frame both sides of the street ahead, and the intersecting road leads
+west.
+~
+67 73 9 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 650
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 647
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 649
+S
+#649
+The Ruins of the Old City~
+You are walking along a side road that winds along, carving a cobblestone
+path through the dismal ruins. Here and there you can see shapes moving
+in the shadows, a few of which look remotely merman shaped.
+~
+67 73 9 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 652
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 648
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 653
+S
+#650
+Road Through the Ruins of the Old City~
+You are walking down a large street. Shadows and rustles in the current
+tell you that you are not the only observer here. You glance about, catching
+only a glimpse of a scaly tail rushing into a building or the reddish flash
+of a spear skimming through the water.
+~
+67 73 9 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 657
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 651
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 648
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 652
+S
+#651
+Ruined Home in the Old City~
+You are in a small house, bare except for a few broken pieces of furniture.
+There seems to be no signs of anyone living here, except for a few
+scattered shells and a spear head.
+~
+67 73 9 0
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 650
+S
+#652
+Ruined Home in the Old City~
+You are in what is left of a small home. The east wall has crumbled
+away, opening a view to the street thats runs by.  Beds crafted from seaweed
+line the corners, and a small stone chest is topped with delicious looking
+clams and crabs.
+~
+67 73 9 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 650
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 649
+S
+#653
+The Ruins of the Old City~
+You are walking along a street which runs east/west through the ruins.
+To the west and east you see dilapidated houses slouching over the street.
+The road continues in both directions.
+~
+67 73 9 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 649
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 654
+S
+#654
+The Ruins of the Old City~
+You are walking along a road that runs east/west along the dark ruins.
+To the north is a house that somehow kept some of its walls together. The
+street heads in both directions.
+~
+67 73 9 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 655
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 653
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 656
+S
+#655
+Ruined Home in the Old City~
+You have entered the main room of a large home. More than half the house
+is collapsed in a pile of rubble, but this one room made it somehow.
+Lanterns still hang on the walls, and someone has replaced the worthless
+oil in them with flourescent sea fungi. The small light they offer sheds
+weirdly patterned shadows over the room, and a small stone desk stands
+underneath the pulsing lights.
+~
+67 73 9 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 654
+S
+#656
+The Ruins of the Old City~
+The street ends at a huge cliff here, overlooking a huge underwater
+valley. Small shapes move about in the gloom, and across from you is another
+cliff, in which you can see small houses built into it. Bending over to
+see if you can swim down, the air is suddenly ripped from your lungs. You
+stagger back, gasping for oxygen to fill your depeleted body. Choking on
+water that you haven't felt since you arrived here, you realize that the
+magical barrier which allows you to breathe ends at the border of the city.
+Visibly shaken, you back away from the edge and head back towards the ruins,
+safer in the arms of the dangers you know then in a mystery which could kill
+you.
+~
+67 73 9 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 654
+S
+#657
+The Ruins of the Old City~
+ ~
+67 73 9 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 658
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 650
+S
+#658
+The Ruins of the Old City~
+ ~
+67 73 9 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 659
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 664
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 657
+S
+#659
+The Ruins of the Old City~
+ ~
+67 73 9 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 660
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 658
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 661
+S
+#660
+The Ruins of the Old City~
+ ~
+67 73 9 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 659
+S
+#661
+The Ruins of the Old City~
+ ~
+67 73 9 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 659
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 662
+S
+#662
+The Ruins of the Old City~
+ ~
+67 73 9 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 663
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 661
+S
+#663
+The Ruins of the Old City~
+ ~
+67 73 9 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 662
+S
+#664
+The Ruins of the Old City~
+ ~
+67 73 9 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 665
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 658
+S
+#665
+The Ruins of the Old City~
+You have emerged from the city and find yourself on the border between
+two different worlds. To the west is the beauty and perfectness of Atlantis,
+while to the east lies a scene quite different. While still resembling
+a city, the ruins have cast away their pretty facade, leaving behind the
+dark and mysterious side of the realm.
+~
+67 73 9 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 636
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 664
+S
+#666
+The Ruins of the Old City~
+You have entered the ruins of the city. Great pillars, now broken
+and cracked, once held up a great arch over the street here. You can
+still make out strange runes long forgotten etched into the grey stone.
+~
+67 73 9 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 667
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 618
+S
+#667
+The Ruins of the Old City~
+ ~
+67 73 9 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1734
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1733
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1732
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 666
+S
+#1627
+Temple Tower, Second Floor Entrance~
+You are in a huge pearl stairway reaching both up and down to all floors
+of the tower. Great statues of dolphins and merpeople line the way as you
+make your way to the second floor of the great tower.
+~
+67 9 9 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1784
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1628
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 1785
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 2564
+S
+#1628
+Temple Tower, Bed Chambers~
+ ~
+67 9 9 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1627
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1783
+S
+#1692
+Derilaan's Gallery~
+This is Derilaan's gallery. Paintings from all worlds hang on the walls.
+A shelf is filled with books here, and a small enclave holds a small cage.
+~
+67 8 9 7
+0 0 0 0
+0 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 5974
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 1698
+E
+books shelf~
+There are many books here. A few titles include "Watership Down",
+"Hitchhikers Guide to the Galaxy", "Dragons of Autumn Twilight",
+"Journey to Sorrow's End", "A Wrinkle in Time", and "Shakespeare".
+Also there are a few Sandman comics stuck into the back.
+~
+E
+cage enclave indent~
+The cage contains two cats. One is white, with one green eye and one blue
+eye. The other is colored much like a tiger.
+~
+E
+cats~
+They are adorable, but not nameless.
+Both are stars, one new, one old...
+One graces the pages of recyclable pages,
+The other graces the silver screen.
+One is a beach queen,
+The other needs a washer to help him clean.
+One is flesh, of girlie looks...
+The other is stuffed, and lives in books...
+~
+E
+Gidget~
+Gidget is a beautiful white cat. Her different colored eyes beg for
+a friendly pat from you.
+~
+E
+Hobbes~
+Hobbes, the tiger colored cat, is Derilaan's favorite. He sleeps
+comfortably in the small cage, waiting for his puuuurfect mistress
+to return home and play with him.
+~
+S
+#1698
+Gallery of Souls~
+You are in Derilaan's Gallery of Souls. A collage of pictures and paintings
+line the walls. Most of them you don't recognize, but a few show the current
+gods and goddesses. The frames are all carved into little designs that
+portray an aspect of the god.
+There is a sign here hanging on the wall.
+~
+67 8 9 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1707
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1731
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1706
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 1692
+E
+plaque sign ~
+"Never forget what you once were,
+Help all, even those who don't deserve it,
+Don't help too much--experience is the greatest master,
+Never forget to dream and create,
+Follow laws,
+But make a few of your own,
+Forgive even the rudest guest,
+Be a good guest yourself,
+Enjoy having power, but don't become hungry,
+Don't belittle yourself, and take pride in your work,
+Love all, and everyone,
+Believe in unicorns and dragons,
+But most of all,
+Be Happy."
+-Derilaan Starshadow
+~
+S
+#1706
+Sleeping Quarters~
+You are in Derilaan's bedroom. A very comfy bed is in one corner, and
+a dresser is stuffed neatly by it, but other than that and the few chairs
+strewn about, there isn't much here. A picture frame holds a painting of
+Derilaan's loving family: Lunchinon, Lumpi, and Shrike. A couple figurines of
+wolves line some of the dressers.
+~
+67 2569 9 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1698
+S
+#1707
+Derilaan's Office!~
+You are in a office that looks like its about to collapse under all the
+paper piled about. Ideas and creative thoughts spill over the wooden desk.
+Poems and stories drown a poor file cabinet in the corner. Drawings of
+everything from cats to Poseidon hang on the walls. The only place, it
+seems, that is safe from the onslaught of paperwork is, of course, the
+wastebasket.
+~
+67 8 9 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1698
+S
+#1709
+Small Lawn~
+You are standing on a small lawn that has missed the reconstruction
+of Atlantis. It is filled with seaweed and other water plants. Beyond the
+obstruction of plant life you can make out a broken house. To the west
+is the beauty of Crystal Avenue.
+~
+67 9 9 0
+0 0 0 0
+0 0 0
+D1
+You see a ruined home which did not survive the destruction of Atlantis.
+~
+ ~
+$n scrambles over some overgrown weeds and enters the ruined home.~
+$n enters the ruined home, ducking under the collapsed roof.~
+1 -1 618
+D3
+You see the bustle of Crystal Avenue.
+~
+ ~
+$n leaves the street for the small lawn.~
+$n enters from the small lawn.~
+1 -1 2487
+S
+#1731
+Garden of Tears~
+The garden is so called because of the medium pool, shaped like a
+tear drop, in the center of this beautiful garden. Flowers cover the ground
+like a rainbow carpet, and silver maned unicorns munch at purple blossomed
+rose bushes. Two great silver dragons dance in the sky, their movements
+an answer to your beating heart as you long to be one with the sky.
+A small bench is placed near the pool, and looking into the pool, you
+see a world much different than this reflected in it. Ripples tear through
+the stillness, and there is nothing more but the bright sun mirrored in
+the water.
+~
+67 8 9 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2040
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1698
+S
+#1732
+The Ruins of the Old City~
+ ~
+67 73 9 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 667
+S
+#1733
+The Ruins of the Old City~
+ ~
+67 73 9 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1735
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 667
+S
+#1734
+The Ruins of the Old City~
+ ~
+67 73 9 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1742
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 667
+S
+#1735
+The Ruins of the Old City~
+ ~
+67 73 9 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1737
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1736
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1733
+S
+#1736
+The Ruins of the Old City~
+ ~
+67 73 9 0
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1735
+S
+#1737
+The Ruins of the Old City~
+ ~
+67 73 9 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1738
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1735
+S
+#1738
+The Ruins of the Old City~
+ ~
+67 73 9 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1741
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1739
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1737
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1740
+S
+#1739
+The Ruins of the Old City~
+ ~
+67 73 9 0
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1738
+S
+#1740
+The Ruins of the Old City~
+ ~
+67 73 9 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1738
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1742
+S
+#1741
+The Ruins of the Old City~
+ ~
+67 73 9 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1748
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1738
+S
+#1742
+The Ruins of the Old City~
+ ~
+67 73 9 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1743
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1740
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1734
+S
+#1743
+The Ruins of the Old City~
+ ~
+67 73 9 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1744
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1742
+S
+#1744
+The Ruins of the Old City~
+ ~
+67 73 9 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1747
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1745
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1743
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1746
+S
+#1745
+The Ruins of the Old City~
+ ~
+67 73 9 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1748
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1744
+S
+#1746
+The Ruins of the Old City~
+ ~
+67 73 9 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1744
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 626
+S
+#1747
+The Ruins of the Old City~
+ ~
+67 73 9 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1752
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1744
+S
+#1748
+The Ruins of the Old City~
+ ~
+67 73 9 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1749
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1741
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1745
+S
+#1749
+The Ruins of the Old City~
+ ~
+67 73 9 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1750
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1748
+S
+#1750
+The Ruins of the Old City~
+ ~
+67 73 9 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1749
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1751
+S
+#1751
+The Ruins of the Old City~
+ ~
+67 73 9 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1750
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1752
+S
+#1752
+The Ruins of the Old City~
+ ~
+67 73 9 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1753
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1751
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1747
+S
+#1753
+The Ruins of the Old City~
+ ~
+67 73 9 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1752
+S
+#1754
+The Ruins of the Old City~
+You have entered into the wild lands of the ruins of the old city. This
+area has not only been freed of the beauty that once held it, but
+Poseidon takes no action against the going-ons that occur here. You can
+even see a few large shapes swimming unheeded in the gloom, and shudder to
+think of the lawless realm you have just entered.
+~
+67 77 9 7
+0 0 0 0
+0 0 0
+D0
+You see more of the cold ruins.
+~
+ ~
+$n leaves deeper into the ruins.~
+$n enters from the south.~
+1 -1 1755
+D2
+You see the main city of Atlantis.
+~
+ ~
+$n leaves for the umblemished city proper.~
+$n enters from the ruins with a ragged look on their face.~
+1 -1 2497
+S
+#1755
+The Ruins of the Old City~
+You have entered into a small old square. A mosiac design was once set into
+the center here, but thieves, battles, and time have ravaged the scene and only
+a few tiles are left to deny the barrenness of the scene.
+~
+67 73 9 7
+0 0 0 0
+0 0 0
+D0
+You see a big run down road heading through the ruins.
+~
+ ~
+$n leaves north for the road.~
+$n walks onto the run down road.~
+1 -1 1758
+D1
+You see this small street continue until it hits a crumbled house.
+~
+ ~
+$n walks east down the tiny street.~
+$n walks down the tiny sidestreet.~
+1 -1 1756
+D2
+You see the beginning of the ruins.
+~
+ ~
+$n leaves south for the lesser ruined areas.~
+$n walks out from the ruins.~
+1 -1 1754
+D3
+You see an overgrown park.
+~
+ ~
+$n leaves for the overgrown park.~
+$n enters the overgrown park.~
+1 -1 1757
+S
+#1756
+The Ruins of the Old City~
+You are walking down a ruined road which stops aruptly at a crumbled house.
+Fish swim around, leery of their surroundings. You feel a tension in the air
+as you walk, and wonder at the mass destruction of this place.
+~
+67 73 9 7
+0 0 0 0
+0 0 0
+D0
+You see a road which runs parallel to this street.
+~
+ ~
+$n leaves for the big road.~
+$n walks onto the run down road.~
+1 -1 1759
+D3
+You see this small street continue through the ruins, parallel to a
+bigger road.
+~
+ ~
+$n walks down the tiny street.~
+$n walks up the tiny street from the east.~
+1 -1 1755
+S
+#1757
+The Ruins of the Old City~
+You are in a small overgrown park. Seaweed covers the area in a thick
+blanket, and small fishes swim everywhere. There seems to be a few pieces
+of some building that may have rested near here, perhaps a gazebo for
+people to relax from the sun that once beat down upon this land.
+~
+67 73 9 0
+0 0 0 0
+0 0 0
+D0
+You see a big, run-down road.
+~
+ ~
+$n leaves for the street.~
+$n walks out onto the street.~
+1 -1 1771
+D1
+You see a small square.
+~
+ ~
+$n leaves for the old square.~
+$n walks into the old square.~
+1 -1 1755
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1774
+S
+#1758
+Road Through the Ruins of the Old City~
+You are walking along what was at one time probably a very busy road.
+You can imagine the children playing, the citizens going about their
+business every day. Even now, the old beauty of the city shines through
+as you notice small fishes playing in the currents. This may have been
+lost to the citizens as a home, but it has given a new place for those
+who dwell here.
+~
+67 73 9 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1770
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1759
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1755
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1771
+S
+#1759
+Road Through the Ruins of the Old City~
+You are on a huge road, ravaged by the waves and time. A few houses,
+almost in tact, line the north side, though most of them have fallen
+away and are now unuseable.
+~
+67 73 9 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1760
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1756
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1758
+S
+#1760
+Road Through the Ruins of the Old City~
+You are on a road that must have served as one of the main ones for the
+city. It travels along, surrounded by ruined homes and structures. A
+complete oppisite to the beauty of Atlantis, the ruins hold the darker
+side of luxury and visual appreciation.
+~
+67 73 9 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1761
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1762
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1759
+S
+#1761
+Ruined Home in the Old City~
+You are in a small home that somehow survived the sinking of Atlantis.
+The walls are sagging and the roof looks about to collapse, but the
+residents here have done their best to save the rotting wood. A small area
+is lined with waterlogged cloth, probably a makeshift bed. A broken table
+lays in one corner, topped with small dead fish and clams.
+~
+67 73 9 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1760
+S
+#1762
+Road Through the Ruins of the Old City~
+You are walking along one of the nameless roads in the ruins, gazing
+at all the homes and places that succumbed to the destruction of the
+city. Lawns now covered in sand, their gardens forever buried, mark
+the passage of all land life from this place. A few shadows in the gloom
+hint at what may have taken over.
+~
+67 73 9 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1769
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1760
+S
+#1769
+Road Through the Ruins of the Old City~
+You are walking down a big run-down road. Small crabs scuttle everywhere,
+trying to get out of your way, and small shadows flitter through the
+area. The road ends at a huge ditch, the remainder of the ruins having
+sunken deep into the ground.
+~
+67 73 9 0
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1762
+S
+#1770
+Ruined Home in the Old City~
+You are in probably one of the largest houses to survive the destruction
+of the city. Unfortunately, all other rooms have been either blocked by
+fallen debris or have been securely blocked by the residents. A large
+stone table is all the furniture here, and a woven tablecloth of seaweed
+covers the top. A few bowls of edible shellfish also sit on the table.
+~
+67 73 9 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1758
+S
+#1771
+Road Through the Ruins of the Old City~
+You are walking along a old broken road, now covered in a deep carpet of
+sand and plants. Parts of houses line the road, and a few, while probably
+not the best of homes, have seemed to make it through the disater.
+~
+67 73 9 0
+0 0 0 0
+0 0 0
+D1
+The street continues to the east.
+~
+ ~
+$n walks east down the street.~
+$n walks up the street from the west.~
+1 -1 1758
+D2
+You see a small, overgown park.
+~
+ ~
+$n leaves for the overgrown park.~
+$n wades through the seaweed into the park.~
+1 -1 1757
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1772
+S
+#1772
+Road Through the Ruins of the Old City~
+ ~
+67 73 9 0
+0 0 0 0
+0 0 0
+D0
+You see a ruined house to the north.
+~
+ ~
+$n enters the house to the north.~
+$n enters the ruined house, ducking under a fallen support.~
+1 -1 1773
+D1
+You see that this street continues.
+~
+ ~
+$n walks east down the street.~
+$n walks up the street from the west.~
+1 -1 1771
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1774
+S
+#1773
+Ruined Home in the Old City~
+You are in a ruined home. Broken furniture lines the corners, pushed to
+the side by the new residents. A shattered chandelier hangs above you,
+still clinging to the roof in an attempt to salvage what is left of
+the room. A makeshift drawer is in one corner, filled with shells.
+~
+67 73 9 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1772
+S
+#1774
+The Ruins of the Old City~
+You see more of the small park. Weeds cover most of the area. A broken
+statue is here of a king. He holds in one hand a key and in the other
+one he holds a sword. The sword and other parts of the statue have been
+broken off and crumbled, but the noblility shines through.
+~
+67 73 9 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1772
+D1
+You see a small park.
+~
+ ~
+$n leaves east for the small park.~
+$n walks into this part of the park from the west.~
+1 -1 1757
+S
+#1775
+Onyx Tower, Second Floor Entrance~
+You are standing in the entrance to the second floor of the tower.
+A great twisted stairway leads the way to the bowels of the first level
+and the spires of the third floor. Exits lead to some gloomy bed chambers
+here.
+~
+67 9 9 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1776
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1777
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 1779
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 2576
+S
+#1776
+Onyx Tower, Bed Chambers~
+You are in a small room completely bare of any furnishings. There are
+holes cut into the black walls, some of which bear the sleeping slimy
+bodies of tired aboleths. Others of the strange fish swim about, glaring at
+you evilly. A large circle is painted into the floor, and it glows softly
+with a dark purple light.
+~
+67 9 9 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1775
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1778
+S
+#1777
+Onyx Tower, Bed Chambers~
+You are in a starnge room which is devoid of all furniture. Strange
+cubby holes line the walls, and a few have sleeping aboleths in them,
+their long tentacles drooping over the sides.  A sigil is printed into
+the black onyx floor.
+~
+67 9 9 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1778
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1775
+S
+#1778
+Onyx Tower, Bed Chambers~
+You are standing in a strange room devoid of all furniture. Strange
+cubby holes lines the walls, and some are filled by the sleeping bodies
+of slimy aboleths. A summoning circle is painted into the black floor.
+~
+67 9 9 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1776
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1777
+S
+#1779
+Onyx Tower, Third Floor Entrance~
+You are standing in a grotesque tunnel that winds vertically up the tower,
+carrying in its wake a stairway of the blackest onyx. Strange gargoyles
+with fins and webbed claws mark the passage from one floor to another.
+There are openings to other rooms from here, each bearing the resemblence
+of a huge maw filled with teeth. You sudder to think that the huge jaws
+might close upon you as you try to climb around the jagged edges of the
+monstrous entrance.
+~
+67 9 9 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1780
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1781
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 1775
+S
+#1780
+Onyx Tower, Map Room~
+This room is comepletely empty. The walls, floor and ceiling have been
+painted to show a complete map of the entire kingdom, including the
+ruins, probably a big hangout for the evil thieves.
+~
+67 9 9 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1779
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1782
+S
+#1781
+Onyx Tower, Training Room~
+This is the main training room where the few that have survived the
+tortures of the thief king Kraken come to gain in experience and learn new
+deadly skills to try out on the unsuspecting citizens of the great city.
+~
+67 9 9 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1782
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1779
+S
+#1782
+Onyx Tower, Master Room~
+A hundred candles line the walls here, each lit with a strange blue flame
+that burns even underwater. A large throne of black obsidian and amber
+stands against the wall. Aboleths, their slimy tentacles swaying in the
+current, rush around in fear, trying to do all they can to appease their
+evil master. A huge symbol is painted onto the floor with glowing amber
+dye.
+~
+67 9 9 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1780
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1781
+S
+#1783
+Temple Tower, Bed Chambers~
+ ~
+67 9 9 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1628
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1784
+S
+#1784
+Temple Tower, Bed Chambers~
+You are in a luxurious chamber filled with soft fluffy beds. A few tired
+sea elves curl up under the covers after a long night of vigilant
+guarding of the tower.
+~
+67 9 9 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1627
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1783
+S
+#1785
+Temple Tower, Third Floor Entrance~
+You are in the stairway that leads the way through  the tower. Here
+you are faced with a huge entranceway to the third floor of the structure.
+Great statues of heroes long forgotten and gods since remembered line
+your way.
+~
+67 9 9 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1788
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1786
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 1627
+S
+#1786
+Temple Tower, Training Room~
+You are in a room completely bare of furniture. All that is here is a
+strange silver circle etched into the ground. This is the place where
+the clerics come to train.  No challenges, no actual training is needed;
+the cleric steps inside the circle and is tested in their faith by their
+god.  Passing means the cleric can gain in experience; failure gives death
+as a reward.
+~
+67 9 9 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1785
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1787
+S
+#1787
+Temple Tower, Master Room~
+You are in a room which is smaller in size than any of the other rooms.
+A throne made of pearl is placed at the far wall. You shrink back
+from the brightness of the huge shining holy symbol which is etched into
+the oppisite wall, above the throne. It bothers you that looking straight
+at the symbol hurts your eyes though it doesn't seem to light up the room
+at all.
+~
+67 9 9 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1786
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1788
+S
+#1788
+Temple Tower, Main Altar~
+You are before a giant altar, covered in white satin. A few magical candles
+shine, spreading enough light for the disicples of Poseidon to see their
+prayer books. A huge statue of a dolphin is set into the wall.
+~
+67 9 9 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1785
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1787
+S
+#1789
+Crystal Tower, Second Floor Entrance~
+You are standing in the second story entrance to the tower. Great
+sculputures have been carved into the walls, making it hard to see the
+other rooms through the different angles. This floor holds the sleeping
+chambers for the attendants. Above you, the stairs end at the third floor.
+~
+67 9 9 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1790
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1792
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 1793
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 2573
+S
+#1790
+Crystal Tower, Bed Chambers~
+You are in a small room filled with little crystal cots. They don't look
+comforttable, but perhaps to tired elf folk they invite a place to rest.
+~
+67 9 9 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1789
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1791
+S
+#1791
+Crystal Tower, Bed Chambers~
+You are in a small chamber filled with small crystal cots. This is one
+of the chambers for the attendants to sleep in. The cots do not look
+extremely comfortable, but perhaps the sea elves who live here find
+them a restful spot to snooze after a hard day of training fighters and
+doing errands.
+~
+67 9 9 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1790
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1792
+S
+#1792
+Crystal Tower, Bed Chambers~
+You are in a chamber filled with small crystal cots. This is one of the
+bed chambers for the attendants. The beds do not look extremely
+comfortable, but perhaps the sea elves who live here find them a restful
+place to snooze after a hard day of training fighters and doing errands.
+~
+67 9 9 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1791
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1789
+S
+#1793
+Crystal Tower, Third Floor Entrance~
+ ~
+67 9 9 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1795
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1794
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 1789
+S
+#1794
+Crystal Tower, Training Room~
+ ~
+67 9 9 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1796
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1793
+S
+#1795
+Crystal Tower, Award Room~
+ ~
+67 9 9 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1793
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1796
+S
+#1796
+Crystal Tower, Master Room~
+ ~
+67 9 9 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1795
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1794
+S
+#2040
+The Cliffs of Despair~
+You are standing on a cliff which gives the perfect view of the plane.
+Bright Phoenixes streak across the sky, leaving traces of their holy
+fire. A unicorn is here, gazing comtemplatively out into the open sky.
+You feel as though your spirit would be free forever, if you could
+only jump and catch the wind with wings you do not have. You stare at the
+sky, and feel your heart ache in answer to the wingbeats of birds.
+~
+67 512 9 7
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1731
+S
+#2463
+Palace Grounds, Sand Garden~
+The sand here has been colored and shaped by the attendants to make
+patterns and paintings in the sand. A path leads through to avoid careless
+observers from stepping on the artwork. On such painting shows a brillant
+blue dolphin dancing in stormy waves. Another shows a sea nymph, one of the
+lovely Nerieds, sitting on a rock above the sea, watching a huge clipper
+ship take passengers to a new land.
+~
+67 9 9 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2481
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2480
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6077
+S
+#2480
+Palace Grounds, Map of the City~
+There is, etched into the wall with glowing ink, a map of the great
+empire of Atlantis. It does not include the ruins outside the city, nor
+does it include any of the insides to structures, but it does let you
+know where you are.
+~
+67 9 9 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5803
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2463
+S
+#2481
+Palace Grounds, Small Quiet Park~
+This area has been cleared of any structures or gardens, and is simply
+a flat area of soft sand. Nymphs lay on their backs, gazing upward to
+a world they will never know. Looking up, you feel the pressure of an
+entire sea upon your shoulders. You cannot even see the sun any longer, so
+deep is this lost city.
+~
+67 9 9 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2482
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2463
+S
+#2482
+Palace Grounds, Magic Pond~
+You are before a very strange scene. There is a pocket of air in the ground,
+shaped like a pond would be, surrounded by sea reeds and small plants.
+In the pond, a small red bird skips about, pulling at small underwater
+creatures for food. It flutters as if swimming in the pond of air.
+~
+67 9 9 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2483
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2484
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2481
+S
+#2483
+Palace Grounds, House of Shells~
+This is where the children of the palace come to play. A house is here,
+made completely of shells, with even some seaweed planted around it for a
+play garden. The house is too small for an adult to enter comfortably, but
+sounds of children playing inside can be heard.  Bubbles float happily
+out the play chimmney, and as the door opens a child mermaid laughs at your
+scrutiny.
+~
+67 9 9 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6086
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2482
+S
+#2484
+Palace Grounds, Rock Garden~
+You are standing in an area filled with rocks and stones of every color
+and size. A huge one has been shaped into the likeness of a dolphin, and
+tiny fishes swim underneath the stone tail. Little crabs walk about,
+carrying brightly colored stones on their backs to help escape predators.
+A nymph or two play tag among the nooks and crannies of the garden here,
+enjoying their youth and the sea.
+~
+67 9 9 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6086
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2482
+S
+#2485
+Ivory Road~
+You are walking down Ivory Road. From here you can see the carved entrance
+into the Crystal tower, and the main gates are down the road to the west.
+~
+67 9 9 0
+0 0 0 0
+0 0 0
+D1
+You see an intersection.
+~
+ ~
+$n walks east down the street toward the intersection.~
+$n walks up the street from the west.~
+1 -1 2486
+D3
+The road continues to the west, and far off you can see a tower of
+ivory.
+~
+ ~
+$n walks west down the street.~
+$n walks up the street from the east.~
+1 -1 5774
+E
+water sea around ocean~
+The water surrounds you, and it is strange that it is as easy to breathe as
+air.
+~
+S
+#2486
+Intersection, Crystal and Ivory~
+You are at the intersection of Ivory Road and Crystal Avenue. The huge
+carved entryway of the Crystal Tower is to the east, and the road runs
+back toward the west. From here you can see the beautiful palace of Atlantis
+towering over the walls that cradle the palace grounds.
+~
+67 13 9 7
+0 0 0 0
+0 0 0
+D0
+You see more of Crystal Avenue. Far ahead a black tower almost blends
+in with the surrounding gloom.
+~
+ ~
+$n walks north onto Crystal Avenue.~
+$n walks up the street from the south.~
+1 -1 2487
+D1
+You can see the main entrance to the tower of crystal; a huge door
+made completely of clear shining crystal.
+~
+ ~
+You can still see $n even after they enter the clear walls of the tower.~
+$n walks into the tower from the busy street of Atlantis.~
+1 -1 2569
+D3
+The road continues to the east, and far, far off you can see a white
+tower shining out of the gloom.
+~
+ ~
+$n walks west down the street.~
+$n walks up the street from the east.~
+1 -1 2485
+E
+water sea around ocean~
+The water surrounds you, and it is strange that you can breathe it as easily
+as air.
+~
+E
+tower crystal~
+The tower is made completely of a transparent crystal, and it almost
+seems invisible against the clear water. Tapestries cover walls within,
+allowing privacy to those who reside inside. The facets and depth of the
+crystal make it hard to get a good glimpse of anything else inside, and
+you assume the dark shapes seen through the walls are attendants or guild
+members. This is the tower of neutrality, and belongs to the fighters.
+~
+S
+#2487
+Crystal Avenue~
+You are walking along Crystal Avenue. To The south is Ivory Road and
+the gleaming tower of crystal. To the north this road continues, and to
+the east is a small lawn.
+~
+67 9 9 0
+0 0 0 0
+0 0 0
+D0
+You see more of Crystal Avenue. A large dark tower is at the end of this
+street.
+~
+ ~
+$n walks north down the street.~
+$n walks up the street from the south.~
+1 -1 2488
+D1
+You see a small lawn.
+~
+ ~
+$n leaves east for the small lawn.~
+$n comes from the busy street.~
+1 -1 1709
+D2
+You see an intersection, and a large tower made completely of crystal.
+~
+ ~
+$n walks south down the street.~
+$n walks up the street from the north.~
+1 -1 2486
+S
+#2488
+Crystal Avenue~
+You are walking along Crystal Avenue. To the south and north this road
+continues. To the east is the great marketplace.
+~
+67 9 9 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2489
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 619
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2487
+S
+#2489
+Crystal Avenue~
+You are walking along Crystal Avenue. To the south and north the street
+continues, and to the east is a great marketplace.
+~
+67 9 9 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2490
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 622
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2488
+S
+#2490
+Crystal Avenue~
+You are walking along Crystal Avenue. To the north and south the
+street continues, and to the east is the great marketplace. Ahead you can
+see a tower made completely of dark onyx.
+~
+67 9 9 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2491
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 623
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2489
+S
+#2491
+Crystal Avenue~
+You are walking along Crystal Avenue. The street continues to the
+north and south, and to the east is an overgrown lawn.
+Ahead you can see a black tower of onyx.
+~
+67 9 9 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2492
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 625
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2490
+S
+#2492
+Intersection of Crystal and Onyx~
+You are standing on the corner of Crystal Avenue and Onyx Street.
+Before you, to your east, is a dark tower made of black onyx. The tower
+seems to grab at your life force as you find yourself in a cold sweat.
+Strange creatures are carved into the walls, and some shimmer with an
+unknown power. You can follow Onyx Street to the west, and Crystal
+Avenue lies to the south.
+~
+67 13 9 0
+0 0 0 0
+0 0 0
+D1
+You see the entrance into the black Onyx Tower. A feeling of desperation
+washes over you.
+~
+ ~
+$n is seemingly swallowed by darkness as they enter the Onyx Tower.~
+$n walks shivering into the entrance hall of the Onyx Tower.~
+1 -1 2575
+D2
+You see more of Crystal Avenue. You see a tower at the end of the street.
+~
+ ~
+$n walks south down the street.~
+$n walks up the street from the north.~
+1 -1 2491
+D3
+You see more of Onyx Street. In the distance you can see a tower.
+~
+ ~
+$n walks west down the street.~
+$n walks up the street from the east.~
+1 -1 2493
+E
+water sea round ocean~
+The water surrounds you, and it is strange that you can breathe it as
+easily as air.
+~
+E
+tower creatures onyx~
+The tower seems to draw all life form around it, and the water
+surrounding it ripples with dark magic. Creatures of evil designs
+are carved into the walls. You find yourself wondering what manner
+of monsters lie in wait within the tower.
+~
+S
+#2493
+Onyx Street~
+You are walking along Onyx Street. To the east is a huge tower of
+black onyx. To the west this street continues toward another tower.
+~
+67 9 9 0
+0 0 0 0
+0 0 0
+D1
+You see an intersection.
+~
+ ~
+$n walks east toward the intersection.~
+$n walks up the street from the west.~
+1 -1 2492
+D3
+You see more of Onyx Street. A tower is at the end of the street.
+~
+ ~
+$n walks west down the street.~
+$n walks up the street from the east.~
+1 -1 2494
+E
+water sea around ocean~
+The water surrounds you, and it is strange that you can breathe it as
+easily as air.
+~
+S
+#2494
+Onyx Street~
+You are walking along Onyx Street. To the north is a bare area. To the east
+and west the street continues, and there are towers on both ends.
+~
+67 9 9 7
+0 0 0 0
+0 0 0
+D0
+You see a small park.
+~
+ ~
+$n leaves toward the quiet park.~
+$n enters the park from the busy street.~
+1 -1 2496
+D1
+You see more of Onyx Street. A tower is at the end of the street.
+~
+ ~
+$n walks east down the street.~
+$n walks up the street from the west.~
+1 -1 2493
+D3
+You see more of Onyx Street. A tower is at the end of the street.
+~
+ ~
+$n walks west down the street.~
+$n walks up the street from the east.~
+1 -1 2495
+E
+water sea ocean around~
+The water surrounds you, and it is strange that you can breathe it as easily
+as air.
+~
+S
+#2495
+Onyx Street~
+You are walking along Onyx Street. To the north are the common grounds
+used as parks by the citizens, and beyond that is a wall of seaweed.
+To the east and west this street continues.
+~
+67 9 9 7
+0 0 0 0
+0 0 0
+D0
+You see a small park.
+~
+ ~
+$n leaves for the small park.~
+$n enters the solitude of the quiet park.~
+1 -1 2497
+D1
+You see more of the street. A tower is at the end of the street.
+~
+ ~
+$n walks east down the street.~
+$n walks up the street from the west.~
+1 -1 2494
+D3
+You see more of the street. A tower is at the end of the street.
+~
+ ~
+$n walks west down the street.~
+$n walks up from the east.~
+1 -1 2498
+E
+water sea around ocean~
+The water surrounds you, and it is strange that you can breathe it as easily
+as air.
+~
+S
+#2496
+Common Grounds~
+You have entered the common grounds of Atlantis. Here there are
+small parks and little gardens for the citizens to enjoy. To the south
+is Onyx Street.
+~
+67 9 9 7
+0 0 0 0
+0 0 0
+D2
+You see the shell littered Onyx Street to the south.
+~
+ ~
+$n packs up their picnic and heads for Onyx Street.~
+$n leaves the park from the north.~
+1 -1 2494
+D3
+You see more of the park.
+~
+ ~
+$n leaves to find a quiet place in the park.~
+$n enters this area of the park.~
+1 -1 2497
+E
+water sea ocean around~
+The water surrounds you, and it is strange that you can breathe it as easily
+as air.
+~
+S
+#2497
+Common Grounds~
+You have entered the common grounds of Atlantis. There is a small park
+here used by the citizens as a place for play and relaxation. To the
+south is Onyx Street.
+~
+67 9 9 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1754
+D1
+You see more of the park.
+~
+ ~
+$n leaves to find a more quiet area in the park.~
+$n enters this area of the park.~
+1 -1 2496
+D2
+You see the busy shell littered Onyx Street.
+~
+ ~
+$n packs up their picnic and leaves for the busy street.~
+$n enters the busy street from the north.~
+1 -1 2495
+D3
+You see more of the park.
+~
+ ~
+$n leaves for a quieter area in the park.~
+$n enters this part of the small park.~
+1 -1 2499
+E
+water sea around ocean~
+The water surrounds you, and it is strange that you can breathe it as easily
+as air.
+~
+S
+#2498
+Onyx Street~
+You are walking along Onyx Street. To the west is a tower made of pearl,
+and to the west is a dark, twisted tower. To the north is an area used
+by the citizens as a park.
+~
+67 9 9 7
+0 0 0 0
+0 0 0
+D0
+You see a small park.
+~
+ ~
+$n leaves north for the small park.~
+$n enters the peaceful park.~
+1 -1 2499
+D1
+You see more of Onys Street. A tower is at the end of the road.
+~
+ ~
+$n walks east down the street.~
+$n walks up from the west.~
+1 -1 2495
+D3
+You see more of Onyx Street. A tower is at the end of the street.
+~
+ ~
+$n walks west down the street.~
+$n walks up the street from the east.~
+1 -1 2560
+E
+water sea around ocean~
+The water surrounds you, and it is stange that you can breathe it as easily
+as air.
+~
+S
+#2499
+Common Grounds~
+ ~
+67 9 9 7
+0 0 0 0
+0 0 0
+D1
+You see more of the park.
+~
+ ~
+$n leaves for a quieter area in the park.~
+$n enters this area of the small park.~
+1 -1 2497
+D2
+You see a shell littered street.
+~
+ ~
+$n leaves for the bustle of Onyx Street.~
+$n leaves the solitude of the small park.~
+1 -1 2498
+E
+water sea ocean around~
+The water surrounds you, and it is strange that you can breathe it as easily
+as air.
+~
+S
+#2552
+Ivory Road~
+You are walking down Ivory Road. To the west is the Ivory Tower, and
+far in the east you can see the Crystal Tower and the main gates.
+~
+67 9 9 7
+0 0 0 0
+0 0 0
+D1
+You see more of Ivory Road, and a tower of crystal is at the end.
+~
+ ~
+$n walks east down the street.~
+$n walks up the street from the west.~
+1 -1 5775
+D3
+You see more of this road, and a tower of ivory is at the end.
+~
+ ~
+$n walks west down the street.~
+$n walks up the street from the east.~
+1 -1 2553
+E
+water sea ocean around~
+The water surrounds you, and it is strange that you can breathe it as
+easily as air.
+~
+S
+#2553
+Intersection, Temple and Ivory~
+You are on an intersection bewteen Ivory Road and Temple Drive. Far off you
+can see two towers, one of crystal to the east and one of pearl to the north.
+You are before the great carved doorway of the Ivory Tower, the famed guild
+of mages for Atlantis.
+~
+67 13 9 7
+0 0 0 0
+0 0 0
+D0
+You see more of Temple Drive. A tall tower of pearl is in the distance.
+~
+ ~
+$n walks north down the street.~
+$n walks up the street from the south.~
+1 -1 2554
+D1
+You see more of this road, and a strange shape is at the end of the street.
+~
+ ~
+$n walks east down the street.~
+$n walks up the street from the east.~
+1 -1 2552
+D3
+You see the luxurious insides of the Ivory Tower.
+~
+ ~
+$n smiles as they enter the beautiful Ivory Tower.~
+$n walks into the main entrance of the tower.~
+1 -1 2565
+E
+water sea around ocean~
+The water surrounds you, and it is strange that you ca breathe it as easily
+as air.
+~
+S
+#2554
+Temple Drive~
+You are walking along Temple Drive. To the west is a small lawn, and
+to the north and south the street continues.
+~
+67 9 9 7
+0 0 0 0
+0 0 0
+D0
+You see more of Temple Drive, and a tower made completely of pearl at
+the end of the street.
+~
+ ~
+$n walks north down the street.~
+$n walks up the street from the south.~
+1 -1 2555
+D2
+You see more of Temple Drive, and a large tower made completely of
+ivory is at the end of the street.
+~
+ ~
+$n walks down the street to the south.~
+$n walks up the street from the north.~
+1 -1 2553
+D3
+You see a small lawn.
+~
+ ~
+$n leaves the busy street for the small lawn.~
+$n eneters the lawn from the busy street.~
+1 -1 627
+S
+#2555
+Temple Drive~
+You are walking down Temple Drive. To the north and south the street
+continues, and a tower is at each end. To the west can be heard sounds of
+combat, and the open area is probably an arena.
+~
+67 9 9 7
+0 0 0 0
+0 0 0
+D0
+You see more of Temple Drive, and a large tower of pearl is at the end of
+the street.
+~
+ ~
+$n walks north down the street.~
+$n walks up the street from the south.~
+1 -1 2556
+D2
+You see more of Temple Drive, and a large tower made completely of ivory
+is at the end.
+~
+ ~
+$n walks south down the street.~
+$n walks up the street from the north.~
+1 -1 2554
+D3
+You see a large open area framed by seats. It must be an arena of some sort.
+~
+ ~
+$n leaves into the arena seeking challenge.~
+$n struts into the arena.~
+1 -1 629
+S
+#2556
+Temple Drive~
+You are walking along Temple Drive. To the north and south the street
+continues, and a tower is at each end. To the west is what seems to be
+a large arena.
+~
+67 9 9 7
+0 0 0 0
+0 0 0
+D0
+You see more of Temple Drive, and a large tower of pearl is at the end of
+the street.
+~
+ ~
+$n walks north down the street.~
+$n walks up the street from the south.~
+1 -1 2557
+D2
+You see more of Temple Drive, and a tower of ivory is at the end of the
+street.
+~
+ ~
+$n walks south down the street.~
+$n walks up the street from the north.~
+1 -1 2555
+D3
+You see an open area framed by seats. It must be an arena of some sort.
+~
+ ~
+$n struts into the arena, looking for challengers.~
+$n struts proudly into the arena.~
+1 -1 632
+S
+#2557
+Temple Drive~
+You are walking along Temple Drive. To the west is a large area surrounded
+by stone benches. To the north and south the street continues.
+~
+67 9 9 7
+0 0 0 0
+0 0 0
+D0
+You see more of Temple Drive, and a tower of pearl is at the end.
+~
+ ~
+$n walks north down the street.~
+$n walks up the street from the south.~
+1 -1 2558
+D2
+You see more of Temple Drive. A tower of ivory is at the end.
+~
+ ~
+$n walks south down the street.~
+$n walks up the street from the north.~
+1 -1 2556
+D3
+You see an open area surrounded by stone seats. It must be an arena of
+some sort.
+~
+ ~
+$n struts into the arena.~
+$n walks into the arena from the streets, bellowing a chellenge.~
+1 -1 633
+S
+#2558
+Temple Drive~
+You are walking along Temple Drive. Ahead is the intersection between
+this road and Onyx Street, and a huge tower of pearl, Temple Tower, can
+be seen clearly from here, though you will have to get closer to enter.
+To the west is a small overgrown lawn.
+~
+67 9 9 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2559
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2557
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 635
+S
+#2559
+Intersection of Onyx and Temple~
+You are on an intersection between Onyx Street and Temple Drive. To the
+west is the entrance into the temple of Poseidon, Temple Tower. Its shining
+pearl walls glow even through the darkness of the water. Symbols and glyphs
+of great power line the windows and doors. You feel the presence of someone
+watching you, but turning you see only the palace behind you, looming up
+over protective walls. Temple Drive continues to the south, and Onyx Street
+continues to the east.
+~
+67 13 9 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2560
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2558
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2561
+E
+water sea ocean around~
+The water surrounds you, and it is strange that you can breathe it as easily
+as air.
+~
+S
+#2560
+Onyx Street~
+You are walking along Onyx Street. To the east the street continues,
+and far off you can see a tall dark shape looming from the gloom of
+the water. To the west is a beautiful tower of pearl, and the intersection
+of this street and Temple Drive.
+~
+67 9 9 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2498
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2559
+E
+water sea around ocean~
+The water surrounds you, and it is strange that you can breathe it as easily
+as air.
+~
+S
+#2561
+Temple Tower, Main Entrance~
+You are standing in the large entrance to the Temple Tower. The entire
+structure is made of the finest pearl. Designs of Poseidon, dolphins, and
+merpeople worshippers are set into the walls with bright silver and gold.
+A large statue is here, capturing the might and wisdom of the brave king of
+Atlantis. Sea elven worshippers scuttle to and fro, practicing their prayers
+or singing soft hymns to their lord. Those who pass you throw you a happy
+smile, and you feel welcome here.
+~
+67 9 9 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2564
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2559
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2562
+S
+#2562
+Temple Tower, Dining Room~
+You are standing in a large room, filled with a huge coral table. The table,
+carved into the likeness of a jellyfish, is surrounded by many small
+seats, all curved to hold slender fins. Each of the chairs has strange
+gold runes placed onto them. From your experience here you guess they spell
+out the different names of the disiciples that live here. At the head of
+the table is a seat larger and stranger than the rest. It is larger than you
+would expect would be useful, and has eight small indentures in a circle
+around the center.
+~
+67 9 9 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2563
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2561
+E
+seat seats~
+The regular seats are curved to make fins resting in them comfortable.
+The bigger seat, judging from the uses of the smaller ones, seems it would
+only be comfortable to one with eight legs....?
+~
+E
+water sea ocean around~
+The water surrounds you, and it is strange that you can breathe it as easily
+as air.
+~
+S
+#2563
+Temple Tower, Practice Area~
+You are standing in a room lined with a shimmering field. The clerics of
+Atlantis come here to practice their spells and combat skills against
+one another.
+~
+67 9 9 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2564
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2562
+S
+#2564
+Temple Tower, Stairway~
+There is a huge staircase here, leading upwards to the other floors. Its
+steps have been covered with small carvings that cover the entire thing.
+The banister is carved with tiny scales all along it, making the stairs
+look like a pearl colored dragon.
+~
+67 9 9 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2561
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2563
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 1627
+S
+#2565
+Ivory Tower, Main Entrance~
+You re standing in a room filled with carved staves, rods, rings and
+rugs, all which shine with a slight aura. Each has a small plaque
+underneath which states the ring's purpose and creator. You stand awed
+by the amount of magic in this room. Even without 'detect magic' you
+can feel the power run through your soul like a wild stallion.
+~
+67 9 9 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2553
+D2
+You see a huge dining room filled by a stone table.
+~
+ ~
+$n walks into the dining room.~
+$n walks in looking hungry.~
+1 -1 2568
+D3
+You see a big staircase.
+~
+ ~
+$n walks toward the ivory staircase.~
+$n walks up to the ivory staircase.~
+1 -1 2566
+S
+#2566
+Ivory Tower, Stairway~
+You are before a staircase that reaches for the next floor with arms
+of carved ivory. The entire structure is carved into the likeness of
+hundreds of unicorns, their manes flowing along the rails, their horns
+glittering towers carved into the white bone. Each eye is filled with
+a shimmering blue sapphire.
+~
+67 9 9 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2565
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2567
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 637
+S
+#2567
+Ivory Tower, Practice Area~
+You are standing within the area of a strange field. The doors and
+windows shimmer with weird lights. The mages of Atlantis come here to
+practice the intricate workings of their spells. Fantastic combat
+is practiced here as well, and the force field keeps the rest of the
+tower free from lightning bursts or searing magic missiles.
+~
+67 9 9 7
+0 0 0 0
+0 0 0
+D0
+You see a huge stairway made of ivory.
+~
+ ~
+$n leaves for the huge staircase.~
+$n walks up to the huge stairway.~
+1 -1 2566
+D1
+You see a huge dining room filled by a stone table.
+~
+ ~
+$n leaves for the dining room, looking for food.~
+$n walks in looking hungry.~
+1 -1 2568
+S
+#2568
+Ivory Tower, Dining Room~
+You are standing in front of a huge stone table, covered with seaweed
+munchies and snacks for the attendants. The chairs look comfortable
+even though they are carved to sit down those who bear fins.
+~
+67 9 9 7
+0 0 0 0
+0 0 0
+D0
+You see the main entrance to the tower.
+~
+ ~
+$n leaves for the main entrance.~
+$n walks in looking satisfied from the dining room.~
+1 -1 2565
+D3
+You see a shimmering field blocking the door.
+~
+ ~
+$n enters the shimmering field of energy.~
+$n walks in, dodging spells as mages practice.~
+1 -1 2567
+S
+#2569
+Crystal Tower, Main Entrance~
+You are inside the Crystal Tower. Crystal shines against outside waters
+all around you. Armor and weapons line the walls in a heavy but interesting
+blanket. Shields bearing every coat of arms imaginable cover the ceiling and
+upper walls of this chamber, and the entirety gives the impression of
+standing in a huge metal room. The Tower continues to the south and east.
+~
+67 9 9 7
+0 0 0 0
+0 0 0
+D1
+You see a huge dining hall.
+~
+ ~
+$n leaves for the dining hall, probably looking for food.~
+$n looks hungry as they enter the dining hall.~
+1 -1 2570
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2571
+D3
+You see an intersection.
+~
+ ~
+$n leaves the tower through the door leading out.~
+$n walks out of the tower and onto the busy streets.~
+1 -1 2486
+E
+water around sea ocean~
+The water surrounds you, and it is strange that you can breathe it as easily
+as air
+~
+E
+armor shields metal walls ceiling ~
+The shields and armor have been cleaned daily, so as to keep the rust that
+would otherwise destroy them at bay. Weapons of every kind, even those
+unusable underwater, are kept in immaculate condition.
+~
+S
+#2570
+Crystal Tower, Dining Room~
+This corner of the tower is where the fighters rest and eat. Great
+quartz tables topped with crystal gobblets and dishes cover much of the
+room. The chairs are slightly indented for the comfort of finned fighters.
+A stool sits at the head of the table, waiting for a storyteller to occupy
+it.
+~
+67 9 9 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2573
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2569
+E
+water sea around ocean~
+The water surrounds you, and it is strange that you can breathe it as easily
+as air.
+~
+E
+stool chairs~
+The chairs are made of quartz, and have rounded seats. The stool is made
+of a purple crystal, and has stories carved into the seat. A storyteller
+must sit here when he winds out his story of conquests and adventures.
+~
+E
+table~
+The table is extremely heavy, and has many nicks and cracks where
+hungry merwarriors must have pounded against it, demanding food.
+~
+S
+#2571
+Crystal Tower, Practice Area~
+This part of the tower is filled with small rings painted onto the floor.
+This is where those fighters of the guild practice their bouts and
+wrestling. Above you, you see a huge mat covering the floor of the level
+above you.
+~
+67 9 9 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2569
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2573
+E
+water sea ocean around~
+The water surrounds you, and it is strange that you can breathe it as easily
+as air.
+~
+E
+rings floor~
+The rings are made of painted sand, and are large enough to encompass
+two fighting warriors.
+~
+E
+mat ceiling above~
+The mat covers the whole ceiling, and it prevents you from seeing what
+lies above.
+~
+S
+#2573
+Crystal Tower, Stair Room~
+This room is filled by a giant crystal staircase that fills most of the room.
+The staircase leads up onto the second floor of the Tower. Though some of
+the crystal points and designs on the stairway were broken during the
+sinking of Atlantis, much of it has survived and taken care of by this
+Tower's attendants.
+~
+67 9 9 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2570
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2571
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 1789
+E
+water sea ocean around~
+The water surrounds you, and it is strange that you can breathe it as easily
+as air.
+~
+E
+stairway staircase~
+The staircase is huge, and once felt the feet of many of Atlantis's brave
+warriors. Now the merpeople simply swim to the floor above.
+~
+S
+#2575
+Onyx Tower, Main Entrance~
+You are standing in the black Onyx Tower. All around you are statues
+of twisted shapes and cruel designs. Tapestries done in bland colors
+depict the pain and suffering brought on by the sinking of the city.
+Carved into the walls is a strange sigil, and staring at it you feel
+something horrid clench at your soul.
+~
+67 9 9 7
+0 0 0 0
+0 0 0
+D0
+You see little due to the level of darkness, but assume more of the
+tower is north.
+~
+ ~
+$n leaves north into the darkness.~
+$n enters this room, their face drenched with fear.~
+1 -1 2577
+D1
+You see little, due to the darkness, but assume there is more of the tower.
+~
+ ~
+$n leaves into the darkness.~
+$n shakes visibly with fear as they enter this room.~
+1 -1 2576
+D3
+You see the streets of the city, and yearn to flee this place.
+~
+ ~
+$n scampers with relief out into the city.~
+$n flees from the blackness in terror out into the street.~
+1 -1 2492
+E
+sigil~
+The sigil looks like a strange eight leeged sea monster tearing
+apart several humanoid-like shapes. It sends a chill through your bones
+as you think of yourself being devoured by such a creature.
+~
+S
+#2576
+Onyx Tower, Stairway~
+You are standing before a twisted spiral staircase that reaches up
+onto the second floor of the tower. Designs of different sea monsters
+decorate the railings and steps.
+~
+67 9 9 7
+0 0 0 0
+0 0 0
+D0
+You see little due to the darkness, but assume there is more to the tower.
+~
+ ~
+$n melts into the darkness as they leave the room.~
+$n walks out of the darkness.~
+1 -1 2578
+D3
+You see little due to the darkness, but assume there is more of the
+tower.
+~
+ ~
+$n melts into the darkness as they head west.~
+$n walks shivering into the room, his face a pale white.~
+1 -1 2575
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 1775
+S
+#2577
+Onyx Tower, Practice Area~
+You are in a strange room that holds about a hundred different locks
+and a strange dummy lined with bells. This is where the thieves practice
+their lock-picking and pick-pocketing. The dummy looks strangely like the
+king, and the object is to steal from it without ringing the magic bells.
+A few tell-tale slash marks in the dummy's back show where some backstabbing
+was practiced as well.
+~
+67 9 9 7
+0 0 0 0
+0 0 0
+D1
+You see little due to the darkness, but assume there is more to the
+tower.
+~
+ ~
+$n melts into the darkness.~
+$n walks into the room, shivering visibly.~
+1 -1 2578
+D2
+You see little due to the darkness, but assume there is more to the tower.
+~
+ ~
+$n melts into the darkness.~
+$n melts out of the darkness as they enter the room.~
+1 -1 2575
+E
+water sea around ocean~
+The water surrounds you, and it is strange that you can breathe it as easily
+as air.
+~
+S
+#2578
+Onyx Tower, Dining Room~
+This room is slightly lit by small glowing red stones, but you still
+need your light to see much of anything. Here there is a rotting wooden
+table, stained with blood. The attendants of this tower must be meat
+eaters, for there are old bones and skulls lining the floor.
+~
+67 9 9 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2576
+D3
+You see little due to the darkness, but assume there is more to the tower.
+~
+ ~
+$n melts into the darkness as they leave the room.~
+$n walks into the room shuddering with fear.~
+1 -1 2577
+S
+#5705
+Path Leading to the Gates of Atlantis~
+You are underwater on a shell littered path. In the distance you can see
+the gates of Atlantis.
+~
+67 9 9 7
+0 0 0 0
+0 0 0
+D0
+The path continues to the north, and you can see the gates from here.
+~
+ ~
+$n leaves north, following the path.~
+$n walks up from the path south of here.~
+1 -1 19011
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4615
+E
+gates gate city Atlantis distance~
+You can see the city from here, but will need to get closer to see any
+details.
+~
+E
+fish fishes~
+There a a hundred kinds of fishes, all traveling in schools, turning this way
+and that at every flick of their sheer tails.
+~
+E
+water ocean sea around~
+The water surrounds you, and it is strange that you breathe it like air.
+Small fishes swim around you, nibbling at food.
+~
+E
+shell shells path ground~
+A myriad of shells lines the path, marking your way with a thousand colors.
+~
+S
+#5706
+Underwater, East of the Path~
+You are underwater, away from the safety of the path. To the west you
+can return to the trail, and to the north is the city wall of Atlantis.
+~
+67 9 9 7
+0 0 0 0
+0 0 0
+D0
+You see the beautiful walls of Atlantis.
+~
+ ~
+$n arrives from the area near the high walls of the city.~
+$n appears froma small area to the east of the path.~
+1 -1 5759
+D3
+The shell lined path is to the west.
+~
+ ~
+$n heads west for the path.~
+$n stumbles back onto the path from the east.~
+1 -1 19011
+E
+fish fishes~
+The fishes shiny scales flash all kinds of colors as they pass your
+light source.
+~
+E
+water sea ocean around~
+The water surrounds you, and it is strange that you can breathe it as
+easily as air. Schools of fish flash around in the currents.
+~
+E
+wall walls city Atlantis~
+The city of Atlantis can be seen from here, though you must get closer
+to make out details. The high city walls keep out unwanted guests and shine
+with an eerie light.~
+S
+#5707
+Underwater, West of the Path~
+You are underwater, away from the safety of the path. To the east, you can
+return to the trail, and to the north is the city wall of Atlantis.
+~
+67 9 9 7
+0 0 0 0
+0 0 0
+D0
+You see the beautiful walls of Atlantis.
+~
+ ~
+$n leaves toward to beautiful city walls.~
+$n arrives to stare at the beautiful carvings on the wall.~
+1 -1 5758
+D1
+The shell lined path is to the east.
+~
+ ~
+$n goes back toward the safety of the path.~
+$n stumbles onto the path from the west.~
+1 -1 19011
+E
+trail path~
+The shell lined path is nearby.
+~
+E
+fishes fish~
+Lots of fishes swim your way, scintillating in the light. At the last moment
+they turn away, swimming off in another direction.
+~
+E
+water sea ocean around~
+The water surrounds you, and it seems strange that you can breathe it as
+easily as air. Small fishes swim in schools all over.
+~
+E
+city walls wall atlantis~
+The city walls of Atlantis can be seen from here, though you must walk
+closer to make out the details. The high walls keep out unwanted guests
+and shine with an eerie light.
+~
+S
+#5710
+The Great Gates of Atlantis~
+You are standing before a city once thought lost forever. The walls
+stretching to the east and west are covered with beautiful carvings in a
+tribute to Poseidon. To the south you can follow a path littered with shells
+away from the city, and to the north you can enter Atlantis.
+~
+67 9 9 7
+0 0 0 0
+0 0 0
+D0
+The gates lead into the underwater city.
+~
+gate pearl white marble~
+$n enters the underwater city through the gates.~
+$n enters through the gates.~
+1 -1 5724
+D1
+You see the beautiful walls of Atlantis.
+~
+ ~
+$n leaves east to gaze at the beautiful carvings on the walls.~
+$n arrives to stare at the beautiful carvings on the wall.~
+1 -1 5759
+D2
+South is the shell littered path leading to the great city.
+~
+ ~
+$n leaves for the shell littered path.~
+$n arrives from the city gates.~
+1 -1 19011
+D3
+You see the beautiful walls of Atlantis.
+~
+ ~
+$n leaves west to stare at the baeutiful carvings.~
+$n walks up to stare at the beautiful carvings on the wall.~
+1 -1 5758
+E
+water sea ocean around~
+The water surrounds you, and it is strange that you can breathe it as easily
+as air.
+~
+E
+Atlantis~
+The city stands tall before you, and you feel the power behind these walls.
+~
+E
+gate marble white pearl opening entrance door~
+The gate is made up of a pearly white marble. Designs of sea creatues
+decorate the stone.
+~
+E
+walls wall city carvings~
+The carvings here depict the crowning of Poseidon. There are hymns of praise
+written in every language you can think of, and a lot that you have never
+seen before and can only guess at their origins. In one corner is a strange
+creature that seems to be the form of a king transforming into a dragon.
+~
+S
+#5724
+Ivory Road, Near the Gates~
+You have entered the lost city of Atlantis. Around you swim many strange
+creatures. Before you is the palace grounds, and you can see the palace
+above the stone walls that surround the area. You can continue on this road
+to the east and west, where in the distance you can see a tower on each end.
+~
+67 13 9 7
+0 0 0 0
+0 0 0
+D0
+You see the palace grounds through the small gate.
+~
+gate small palace~
+$n leaves north into the royal gardens.~
+You see $n arrive in the royal gardens.~
+1 -1 5797
+D1
+The street continues to the east. In the distance you can see a tower made
+completely of crystal.
+~
+ ~
+$n walks down the street toward the gates.~
+$n walks up the street from the gates.~
+1 -1 5774
+D2
+You see the marvelous gate of pearl white marble behind you. Past the
+gate is the path leading away from Atlantis.
+~
+gate pearl white marble~
+$n leaves the wonderous city through the pearl white gates.~
+$n arrives from the city through the gates.~
+1 -1 5710
+D3
+The street continues to the west. In the distance you can see a tower made
+completely of ivory.
+~
+ ~
+$n walks down the street toward the gates.~
+$n walks up the street from the gates.~
+1 -1 5775
+E
+creatures~
+The creatures range from small crabs to exotic horses with the body of fish.
+The citizens are merpeople, humans with the bottom half of sea animals.
+~
+E
+road street ground~
+The road beneath your feet (or fins) is made of a cobblestone material,
+worn smooth by the ocean waters.
+~
+E
+gate marble pearl white entance opening citygates~
+The gates leading out of the city have fewer carvings on this side than the
+other. A piece of stone has even fallen out of the back. Tiny cracks penetrate
+the silk beauty of the marble.
+~
+E
+palace gate~
+The gates that lead into the palace are made of a mixture of different
+materials, such as ivory, onyx, crystal and marble. A design of a dolphin
+is carved onto the face of the gate.
+~
+E
+tower ivory crystal~
+You will have to get closer in order to make out any details.
+~
+S
+#5758
+The City Walls~
+Here you are west of the main gate. The high city walls here are covered
+with beautiful carvings and bas reliefs. They depict an island being
+thrashed by huge tidal waves. A king sits in a multicolored throne,
+raising his hands as if to curse the gods. The citizens below him lie
+helpless on the ground of the sinking city, their legs replaced by
+shimmering fins. To the east of here you can enter the city, and to the
+south there is a small area away from the main path.
+~
+67 9 9 7
+0 0 0 0
+0 0 0
+D1
+You see the pearl white gates leading into the city.
+~
+    ~
+$n leaves toward the great city gates.~
+$n arrives from the carvings on the walls.~
+1 -1 5710
+D2
+You see a small area away from the path.
+~
+ ~
+$n leaves south away from the walls.~
+$n arrives from the beautiful walls of Atlantis.~
+1 -1 5707
+E
+water sea ocean around~
+The water surrounds you, and it seems strange that you can breathe it as
+easily as air. Small fishes dart this way and that in the current.
+~
+E
+gate gates~
+The gates to the east are made of a white marble.
+~
+E
+wall walls city carving carvings designs design pictures~
+The walls have been carved and painted with water-resistant dyes. They
+tell the story of Atlantis.
+~
+S
+#5759
+The City Walls~
+Here you are east of the gate. The high city walls are covered with beautiful
+carvings. They depict Poseidon sitting on a multicolored throne, watching
+over an underwater city. Below him in the dungeons of the palace is a noble
+looking dragon chained to a huge pillar. To the west you can enter the city.
+and to the south there is a small area off the main path.
+~
+67 9 9 7
+0 0 0 0
+0 0 0
+D2
+South is a small area away from the path.
+~
+ ~
+$n leaves the beauty of the walls behind.~
+$n arrives froma small area away from the path.~
+1 -1 5706
+D3
+You see the pearl white gates that lead into the city.
+~
+ ~
+$n leaves west toward the city gate.~
+$n arrives from the eastren walls.~
+1 -1 5710
+E
+water sea ocean around~
+The water surrounds you, and it is strange that you breathe it as easily as
+air. Little fishes swim about.
+~
+E
+gate gates~
+The gates to the west are made of a white marble.
+~
+E
+wall walls carvings designs city carving design~
+The walls are carved into thousands of baeutiful designs which togther
+tell a story. These particular designs here and to the east tell the
+story of Atlantis.
+~
+S
+#5774
+Ivory Road~
+You are walking along Ivory Road. To the west are the main gates and in the
+distance you see a tower of ivory. The crystal tower is down this road to
+the east.
+~
+67 9 9 7
+0 0 0 0
+0 0 0
+D1
+The road continues to the east, and you see a tower of crystal at the
+end.
+~
+ ~
+$n walks east down the street.~
+$n walks up the street from the west.~
+1 -1 2485
+D3
+The street continues to the west. You can see the main gates and a tower of
+ivory.
+~
+ ~
+$n walks toward the gates.~
+$n walks up to the gates.~
+1 -1 5724
+S
+#5775
+Ivory Road~
+You are walking along Ivory Road. To the east are the main gates and in the
+distance you see a tower of crystal. The ivory tower is down this road to the
+west.
+~
+67 9 9 7
+0 0 0 0
+0 0 0
+D1
+The street continues to the east. You can see the main gates and a tower of
+crystal.
+~
+ ~
+$n walks toward the gates.~
+$n walks up to the gates.~
+1 -1 5724
+D3
+You see more of Ivory Road, and a tower of ivory is at the end.
+~
+ ~
+$n walks west down the street.~
+$n walks up the street from the east.~
+1 -1 2552
+S
+#5797
+Palace Grounds, Entrance to Palace~
+You are in a beautiful park area. Gardens of seaweed and coral line pathways
+of marble, and small marine creatures scuttle over sculptures of dolphins
+and sea nymphs. Before you is the entrance to the palace of Atlantis. It
+towers above you, slightly cracked and broken here and there but beautiful
+nonetheless. To the east and west, the park continues.
+~
+67 9 9 7
+0 0 0 0
+0 0 0
+D0
+You can see the inside of the palace from here.
+~
+ ~
+$n quietly walks from the serenity of the gardens into the palac.~
+$n enters the waiting room of the palace.~
+1 -1 5804
+D1
+You see more of the royal gardens.
+~
+ ~
+$n roams off into another area of the royal gardens.~
+You see $n quietly enter this area of the royal gardens.~
+1 -1 5802
+D2
+You see the city gates through another pair of smaller gates.
+~
+gate small palace~
+$n leaves the palace grounds through a small gate.~
+$n arrives from the palace grounds.~
+1 -1 5724
+D3
+You see more of the gardens west.
+~
+ ~
+$n roams off into another area of the gardens.~
+You see $n quietly enter this area of the royal gardens.~
+1 -1 5803
+E
+water sea ocean around~
+The water surrounds you, and it seems strange that you can breathe it as
+easily as air.
+~
+E
+palace castle ~
+The palace stands before you, a shining sculpture of crystal, ivory, onyx and
+marble. Designs carved into the stone tell the story of this once-cursed
+city.
+~
+E
+design carvings symbols story~
+The king of the beautiful island of Atlantis had power over the most
+beautiful of empires in the world. People came from everwhere to trade in the
+marketplace; The Towers of Atlantis trained the best mages, clerics, thieves
+and fighters anywhere, and stood as a sign that everyone, no matter what
+alignment or occupation, had a welcome spot in Atlantis.
+The king, however, drew the conclusion that it was his might and power
+that brought the city to this glory. One day, in pride, he ordered the
+gods to take him up to them as one of their kind. In return, he
+threatned, he would not begin war on the other cities of the world
+who, in his opinion, could not compete against his might. The gods,
+angered beyond anger at this threat, decided to destroy the city.
+Because none of the deities wanted to be known as the destructor of
+such a paradise, they drew straws to see to whom the deed fell
+It was won by the sea god Poseidon. He did not want to see the
+loss of such a great kingdom, so he turned the people into mermen and
+sank the entire island, taking it with him underwater. The king was cursed
+and turned into the dragon Leviathan, who lies below the rooms of the
+palace, chained forever to a mighty pillar. He mourns the loss of his
+city and sometimes he can be heard growling deep underground. Currently,
+the people of Atlantis go about, still rebuilding the little that is left
+after that disaster so long ago. They honor and love their new king, who
+in every way tries to do the best for his city.
+~
+S
+#5802
+Palace Grounds, Stone Garden~
+This area of the gardens has rows upon rows of beauitful flowers cut from
+stone. Quartz roses, turquoise tulips, topaz marigolds and marble
+carnations, all with jade leaves and stems, sparkle in the altered light.
+The gardens continue east, west, and north.
+~
+67 9 9 7
+0 0 0 0
+0 0 0
+D0
+You can see some stone statues from here.
+~
+ ~
+$n leaves north toward some stone statues.~
+You see $n quietly enter this area of the place gardens.~
+1 -1 6079
+D1
+You can see a huge fountain to the east.
+~
+ ~
+$n leaves west toward a huge fountain.~
+You see $n quietly enter this area of the royal gardens.~
+1 -1 6076
+D3
+You see the palace entrance, and more of the royal gardens.
+~
+ ~
+$n roams off into another area of the royal gardens.~
+You see $n quietly enter this area of the royal gardens.~
+1 -1 5797
+E
+flowers garden~
+The flowers are made of the finest stone, and are so well carved they look
+almost real.
+~
+E
+water sea ocean around~
+The water surrounds you, and it seems strange that you can breathe it as
+easily as air.
+~
+S
+#5803
+Palace Grounds, Orchard~
+You are standing in a small stone orchard. Great onyx and marble trees reach
+up into the sunless sky. Some branches have sandstone apples hanging from
+them, while others have bright pink quartz blossoms. The leaves are made of
+jade, and they cast a wierd pattern of shadow on the ground.
+~
+67 9 9 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2480
+D1
+You see the palace entrance, and more of the gardens.
+~
+ ~
+$n roams off into another area of the gardens.~
+You see $n quietly enter this area of the royal gardens.~
+1 -1 5797
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6077
+S
+#5804
+The Palace of Atlantis~
+You have entered the great palace of Atlantis. This hallway is filled with
+seats and benches of pink marble. Cushions have been long since removed from
+them, but some citizens sit on them comfortably anyways, waiting for an
+audience with the king, Poseidon. The walls have designs and stories carved
+into them, and you have the suspicion that you could stay a few years before
+you finished looking over all of the details. To the south are  the palace
+grounds, and to the north the palace continues.
+~
+67 9 9 7
+0 0 0 0
+0 0 0
+D0
+You see a huge intersection up ahead.
+~
+ ~
+$n walks deeper into the palace.~
+$n enters from the waiting room.~
+1 -1 5805
+D2
+You can see some of the royal gardens from here.
+~
+ ~
+$n leaves to relax in the gardens.~
+$n walks from the entrance to the palace.~
+1 -1 5797
+E
+seats seat benches bench marble~
+Even though the cushions have been removed, the benches have a curve to them
+that would allow anyone with fins (or legs) to sit comfortably.
+~
+E
+wall walls carvings carving design designs story stories~
+You see many stories about Atlantis and Poseidon. One depicts the sea god
+creating the first water creature. Another is the story of the marriage
+between Poseidon and the beutiful sea nymph Amphritrite. Another tells
+of Poseidon's many adventures. They are all beautifully illustrated in
+the stone and you enjoy looking at them.
+~
+E
+water sea ocean around~
+The water surrounds you, and it is strange that it is as easy to breathe as
+air.
+~
+S
+#5805
+A Large Intersection~
+You are in the great palace of Atlantis. This is a huge intersection with
+exits in all directions. A stairway leads the way up to the throne room and
+top chambers, and a rusty metal grate is set into the ground. Strange
+markings are carved into the floor around the grate.
+~
+67 9 9 7
+0 0 0 0
+0 0 0
+D0
+The armor lined walls of the guards' room is to the north.
+~
+ ~
+$n confidently goes into the guard room.~
+$n cautiously pokes his head into this room.~
+1 -1 5861
+D1
+You see a large dining room to the east.
+~
+ ~
+$n rushes into the dining room looking for food.~
+$n comes in from the intersection.~
+1 -1 5862
+D2
+You see the waiting room of the palace south.
+~
+ ~
+$n leaves for the palace's waiting room.~
+$n arrives from the huge intersection.~
+1 -1 5804
+D3
+You see a beautiful ballroom to the west.
+~
+ ~
+$n waltzes into the ballroom.~
+$n waltzes into the ballroom.~
+1 -1 5863
+D4
+You see a golden emblazed door at the top of the stairs.
+~
+door golden top~
+$n walks through the door to the floor above.~
+$n walks in through a golden door from the ground floor.~
+1 6701 5963
+D5
+You see a rusted metal grate in the ground.
+~
+grate rusty metal~
+$n crawls down through a grate in the ground.~
+$n crawls in through the grate.~
+2 6727 5964
+E
+grate metal~
+The metal grate has rusted. Strange runes line the outside of the grate,
+and once in while you catch a strange noise from somewhere down below.
+It sounds like some large creature is moaning in grief.
+~
+E
+markings runes symbols ~
+The runes have been burnt into the stone, a strange feat for being
+underwater. You do not recognize the symbols, but feel the power within them.
+~
+E
+stairs stairway ~
+Being able to swim, the people here do not need the stairway. However, they
+did not allow it to fall into ruin. It is made of a coral like sustance,
+and a door with golden symbols is at the other end.
+~
+E
+water sea ocean around~
+The water surrounds you, and it is strange that it is as easy to breathe as
+air.
+~
+S
+#5861
+Guard Room~
+You are in the palace's main guard room. All around you hang gold and silver
+armor that has not rusted underwater. Bright swords and spears line one wall
+some which shine with an inner light of power. Here is where the guards
+sleep and rest between shifts, ready for any call from their mighty king.
+~
+67 9 9 7
+0 0 0 0
+0 0 0
+D2
+You see a large intersection.
+~
+ ~
+$n leaves for the intersection.~
+$n walks out of the guard barracks.~
+1 -1 5805
+E
+sword swords~
+The swords have been kept clean, and they hang on the wall as a reminder
+of past glories. The mermen guards have little use for  weapons such as these.
+They would rather use weapons more suited to their watery enviroment.
+~
+E
+weapons~
+Beautiful swords and spears line the walls.
+~
+E
+spear spears~
+The spears here have metal shafts, since the wooden spears have long ago
+rotted away. Some of the guards use spears, but these are not in use and
+are up simply for decoration.
+~
+E
+armor ~
+The guards have hung up these suits since, now having fins, they cannot
+fit into them. Most of them are simply ornamental and ceremonial, but
+a very few are battle types. All of them are kept clean by the guards.
+~
+E
+water sea ocean around~
+The water surrounds you, and it is strange that it is as easy to breathe as
+air.
+~
+S
+#5862
+Dining Hall~
+This is where Poseidon has his dinner celebrations and feasts. There is
+a huge table here, both long and wide, that covers much of the room.
+Unlit candlesticks sit on coral mantels. There is a small hole near the
+back of the room which leads to the kitchen, and there is an intersection
+to the west.
+~
+67 9 9 7
+0 0 0 0
+0 0 0
+D3
+You see a huge intersection.
+~
+ ~
+$n leaves for the huge intersection.~
+$n comes from the dining room looking full.~
+1 -1 5805
+D5
+You see a small dark hole.
+~
+ ~
+$n floats down into the hole.~
+$n floats down from above.~
+1 -1 5962
+E
+table~
+The table is huge and plain, usually covered with delicious food for the
+guests. Instead of chairs, small matts for fins to rest on are arranged
+around the table.
+~
+E
+water around sea ocean~
+The water surrounds you, and it is strange that it is as easy to breathe as
+air.
+~
+E
+candles mantle~
+The mantle holds several candlesticks with some candles in them. They are
+here simply for decoration since they cannot be lit.
+~
+E
+hole dark~
+It leads down, probably into the kitchen.
+~
+S
+#5863
+Ballroom~
+Before you is a bright spectacle of polished marble floor and crystal
+chandeliers. Windows of stained glass look out into the gardens. A ball
+of light is in the center of one of the chandeliers, throwing strange
+shadows of light onto the floor and walls.
+~
+67 8 9 7
+0 0 0 0
+0 0 0
+D1
+You see a huge intersection.
+~
+ ~
+$n dances out into the intersection.~
+$n waltzes out of the ballroom.~
+1 -1 5805
+E
+water sea ocean around~
+The water surrounds you, and it is strange that it is as easy to breathe as
+air.
+~
+E
+chandeliers light~
+The chandelier is made from a thousand or more sparkling crystals. Pearls
+create a bridge between its many small spires. A bright ball of light
+is suspended in the middle, seemingly by its own will.
+~
+E
+windows glass stained~
+The stained glass windows are dyed lightly enough that you can see out into
+the garden. They portray several Nerieds dancing in the waves of a moonlit
+beach.
+~
+S
+#5962
+Kitchen~
+This is the kitchen where yummy foods of all kinds are made. Most of the
+food prepared here is seafood, though red meat is served on special
+occasions. Cupboards filled with crystal and metal plates and silverware
+line the walls. One stand holds some glowing wine glasses. You can swim
+back to the dining room through a hole in the ceiling.
+~
+67 9 9 7
+0 0 0 0
+0 0 0
+D4
+You see a dark hole in the ceiling.
+~
+ ~
+$n swims up into the dining room.~
+$n swims out of the hole.~
+1 -1 5862
+E
+glasses wine cups~
+The glasses are strange indeed! You place your finger inside one, and feel
+that the inside is dry!
+~
+E
+cupboards~
+The cupboards are made of coral, though the remenants of some wooden ones
+are off to a side, having yet to be replaced. Inside are glasses, cups,
+plates, bowls and silverware.
+~
+E
+water sea ocean around~
+The water surrounds you, and it is strange that it is as easy to breathe as
+air.
+~
+E
+silverware forks knives spoons~
+The silverware has tiny designs of dolphins engraved on them. They lie neatly
+in a marble drawer.
+~
+E
+blank~
+BLANK
+~
+E
+plates metal~
+The plates in the cupboard are made of gold and silver. There are also a few
+delicate plates made of pearl.
+~
+E
+bowls dishes~
+The bowls are made of turtle shells. A giant tortoise shell is here, waiting
+to be filled with seaweed greens and vegetables. Dishes are fashioned from
+large clam and oyster shells.
+~
+S
+#5963
+Center Hall~
+You are standing in another intersection, with rooms everywhere but up.
+The throne room is to the west, the royal chambers are to the north and
+south, and the observatory is to the east. A golden door opens unto some
+stairs which lead down.
+~
+67 9 9 7
+0 0 0 0
+0 0 0
+D0
+You see the luxurious bedroom of Amphritrite, Poseidon's beautiful wife.
+~
+ ~
+$n grins as they enter the bedroom of Poseidon's wife.~
+$n sneaks into Amphritrite's room.~
+1 -1 6071
+D1
+You see an observatory.
+~
+ ~
+$n leaves towards the observatory.~
+$n walks into the observatory.~
+1 -1 6074
+D2
+You see the sea god's massive bedroom.
+~
+ ~
+$n enters the bedroom of Poseidon.~
+$n enters the bedroom of Poseidon.~
+1 -1 6073
+D3
+You see the splendor of the great throne room.
+~
+ ~
+$n quietly enters the throne room.~
+$n bows to the throne as $e enters.~
+1 -1 6075
+D5
+You see a gold emblazened door leading to the floor below.
+~
+door golden top~
+$n walks down the stairway through the open door.~
+You see $n walk through the door and descend the stairway.~
+1 6701 5805
+E
+water sea ocean around~
+The water surrounds you, and it is strange that it is as easy to breathe
+as air.
+~
+S
+#5964
+Ladder~
+You are on a ladder leading downward. The grate is above you, and the
+strange noises grow louder as you descend.
+~
+67 9 9 7
+0 0 0 0
+0 0 0
+D4
+You see the grate.
+~
+grate rusty metal~
+$n climb down onto the ladder.~
+$n climbs out of a grate in the ground.~
+2 6727 5805
+D5
+The ladder continues downward. Far, far down you can see a chamber.
+~
+ ~
+$n descends.~
+$n clambers down the ladder.~
+1 -1 5965
+E
+ladder~
+The ladder is made of crumbling metal.
+~
+E
+water sea ocean around~
+The water surrounds you, and it is strange that it is as easy to breathe as
+air.
+~
+S
+#5965
+Ladder~
+You are on a ladder leading downward. The ladder goes up and down from
+here, and the strange noises from below grow louder.
+~
+67 9 9 7
+0 0 0 0
+0 0 0
+D4
+The ladder continues upward.
+~
+ ~
+$n climbs up the ladder.~
+$n climbs up from below.~
+1 -1 5964
+D5
+The ladder continues downward. There is a chamber far below.
+~
+ ~
+$n clambers down the ladder.~
+$n clambers down the ladder.~
+1 -1 5966
+E
+ladder~
+The ladder is made from crumbling metal.
+~
+E
+water sea ocean around~
+The water surrounds you, and it is strange that it is as easy to breath as
+air.
+~
+S
+#5966
+Ladder~
+You are on a ladder leading downward. The ladder goes up and down from
+here, and the strange noises from below grow louder.
+~
+67 9 9 7
+0 0 0 0
+0 0 0
+D4
+The ladder continues upward.
+~
+ ~
+$n ascends.~
+$n climbs up the ladder.~
+1 -1 5965
+D5
+There is a chamber below you.
+~
+ ~
+$n climbs down to the chamber below.~
+$n climb off the ladder from above.~
+1 -1 5967
+E
+ladder~
+The ladder is made of crumbling metal.
+~
+E
+water sea ocean around~
+The water surrounds you, and it is strange that it is as easy to breathe as
+air.
+~
+S
+#5967
+Dungeons~
+You have entered the dark dungeons of the palace. Nothing here has been
+seen to in a long time. Rust covers what little metal was here, and
+the wooden doors and bars on the windows have all rotted away. It is
+extremely dirty. A hallway through the dungeons is to the north, and
+small cells are to the west and east. The strange growls and moans
+come from a very large chamber to the south.
+~
+67 9 9 7
+0 0 0 0
+0 0 0
+D0
+You see a long hallway.
+~
+ ~
+$n leaves down the hallway.~
+$n enters from the dungeon.~
+1 -1 5972
+D1
+You see an old cell. The door has long since rotted away.
+~
+ ~
+$n leaves east into the cell.~
+$n enters the cell.~
+1 -1 5969
+D2
+All you can see south is a large form lurking in the shadows.
+~
+ ~
+$n walks into the Lair of Leviathan. Wave goodbye to your friend.~
+You see $n walk in with wide eyed wonder.~
+1 -1 5968
+D3
+You see an old cell. The door has long since rotted away.
+~
+ ~
+$n enters west into the cell.~
+$n enters the cell.~
+1 -1 5970
+D4
+The ladder cen be reached from here, and it continues upward from there.
+~
+ ~
+$n climbs up onto the ladder.~
+$n climb onto the ladder from the room below.~
+1 -1 5966
+E
+water sea ocean around~
+The water surrounds you, and it is strange tha you breathe it as easily as
+air.
+~
+E
+sand ground dirt silt~
+The ground is covered with silt and dirt. There isn't anything under the
+sand.
+~
+S
+#5968
+Dark Lair~
+You stand in the lair of Leviathan. A gigantic pillar stands in the center
+of the room, made of no material you recognize. It glows with a power
+ancient and mighty. This room is free from the dungeon's filth, but
+the walls and floor are darker than pitch. You would be wise to leave
+quietly north before the wrath of the dragon who is chained here notices
+you. A thousand years can collect a lot of wrath.....
+~
+67 8 9 7
+0 0 0 0
+0 0 0
+D0
+You see the dirty yet safer dungeons ahead.
+~
+ ~
+$n quietly makes a good decision and leaves north.~
+$n thanks the gods for life as they return from Leviathan's lair.~
+1 -1 5967
+E
+water sea ocean around~
+The water surrounds you, and it is strange that you can breathe it as easily
+as air.
+~
+E
+chain shackle chains~
+Even though they have been underwater for many decades, the chains show no
+sign of rust or wear. They shine with a dark and powerful aura.
+~
+E
+pillar~
+The pillar throbs with power. A huge shackle is set into the base.
+~
+E
+wall walls floor ceiling~
+They are darker than the pitchest of blacks. They are unnaturally smooth,
+yet you cannot see your reflection in them. Touching them with your bare
+hand produces a sharp chill down your spine.
+~
+S
+#5969
+Cell~
+The cell has not been cleaned for awhile, and there are still remains
+of those who were imprisoned here before the fall of the city. Some
+are human while other look like they died halfway inbetween the change
+from person to mercreature, their legs starting to grow together and
+turn scaly.
+~
+67 9 9 7
+0 0 0 0
+0 0 0
+D3
+You see the main chamber of the dungeons.
+~
+ ~
+$n walks out of the cell.~
+$n walks out of the east cell.~
+1 -1 5967
+E
+bodies remains corpses~
+The corpses are mostly bare of flesh, but the water has managed to preserve
+some of the grisly remains. Rotted cloth hangs from the bodies.
+~
+E
+water sea ocean around~
+The water surrounds you, and it is strange that you can breathe it as easily
+as air.
+~
+S
+#5970
+Cell~
+The cell has not been cleaned for awhile, and there are still remains
+of prisoners from before the fall of the city here. Some are human, while
+others look like they died while transforming from person to mercreature
+as their legs show signs of growing together and turning into scales.
+~
+67 9 9 7
+0 0 0 0
+0 0 0
+D1
+You see the main chamber of the dungeons.
+~
+ ~
+$n walks out of the cell.~
+$n walks out of the west cell.~
+1 -1 5967
+E
+water sea ocean around~
+The water surrounds you, and it is strange that you can breathe it as easily
+as air.
+~
+E
+remains bodies corpses~
+The old corpses are bare of most of the flesh from being here so long,
+but the water has helped to preserve some of the grisly remains.
+Rotten cloth hangs from their bodies.
+~
+S
+#5972
+Hallway~
+You have entered a long hallway. Dirt covers the floor and small fishes
+rush around in the silt laden water. South is the intersection and north
+the hallway continues.
+~
+67 9 9 7
+0 0 0 0
+0 0 0
+D0
+The hallway continues on to the north.
+~
+ ~
+$n continues down the hallway.~
+$n enters from the south.~
+1 -1 5973
+D2
+You see the main chamber of the dungeons.
+~
+ ~
+$n enters the hallway.~
+$n enters the main room of the dungeons from the long hallway.~
+1 -1 5967
+D5
+You see the dirt laden ground.
+~
+keyhole tiny golden~
+*POOF* $n turns into a fish!~
+*POOF* $n appears!~
+2 6700 5974
+E
+water sea ocean around~
+The water surrounds you, and it is strange that you can breathe it as easily
+as air.
+~
+E
+silt dirt sand ground~
+The floor is covered with silt. You notice a tiny tiny keyhole under some
+sand.
+~
+E
+keyhole tiny~
+The tiny tiny keyhole has little golden runes carved all around it.
+Light shines through it.
+~
+E
+fishes~
+Little guppies and minnows swim around to catch some food.
+~
+E
+wall walls ~
+The walls are covered with seaweed and tiny sea creatues.
+~
+S
+#5973
+Hallway~
+The hallway continues. Up ahead you see what seems to be a dead-end,
+and behind the rest of the hallway looms.
+~
+67 9 9 7
+0 0 0 0
+0 0 0
+D0
+The hallway goes on a bit before stopping at a dead-end.
+~
+ ~
+$n walks toward the dead-end.~
+$n walks up from the south.~
+1 -1 6037
+D2
+You see the hallway behind you. An intersection is in the distance.
+~
+ ~
+$n leaves south.~
+$n arrives from the north hallway.~
+1 -1 5972
+E
+water sea ocean around~
+The water surrounds you, and it is strange that you can breathe it as easily
+as air.
+~
+E
+dirt silt sand ground~
+The floor is covered with silt and dirt. You don't see anything in the sand.
+~
+E
+deadend daed-end end hallway~
+The hallway aruptly ends down the hall.
+~
+S
+#5974
+The Balcony Overlooking E'liFera~
+You are standing on a tall balcony made of quartz that gives all who stand
+here a view of Derilaan's plane of E'liFera. Great silver dragons dance
+in the sky, and beautiful white unicorns play in the lush green meadows.
+Birds of all kinds sing in the trees, and the sight of all this brings
+tears to your eyes. Know that you stand in Derilaan's world, for this
+is the mirror of her soul.
+~
+67 8 9 7
+0 0 0 0
+0 0 0
+D4
+You see the entrance to the realm of Atlantis.
+~
+keyhole tiny golden~
+*POOF* $n leaves the balcony.~
+*POOF* You see a fish suddenly turn into $n.~
+2 6700 5972
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 1692
+S
+#6037
+Dead-End~
+You have come to what appears to be a dead-end. The floors and the walls
+are covered in dirt and silt. There is seaweed hanging from the ceiling,
+and some chains and shackles hung on the wall. This may have once been a
+torture chamber.
+~
+67 9 9 7
+0 0 0 0
+0 0 0
+D2
+The hallway continues behind you.
+~
+ ~
+$n leaves down the hall.~
+$n comes from the dead-end looking puzzled.~
+1 -1 5973
+E
+seaweed ceiling ~
+The seaweed hangs from what appears to the be a small straight crack in the
+ceiling. The seaweed is red.
+~
+E
+chains shackles chain~
+The chains are rusty, and would break easily if messed with. The shackles
+are not in  any better condition.
+~
+E
+water ocean sea around~
+The water surrounds you, and it is strange that you can breathe it as easily
+as air.
+~
+S
+#6071
+Amphritrite's Room~
+You are in the bedchambers of the lovely Amphritrite, wife of the sea god.
+The room is done in the blues and greens that the pretty sea nymph likes so
+much. Small planters filled with red seaweed are scattered throughout the
+room, and her bed is a huge seashell, lined with satin sheets. Soft sea
+anemones act as living pillows. A window looks out into the garden.
+~
+67 9 9 7
+0 0 0 0
+0 0 0
+D2
+You see the big intersection.
+~
+ ~
+$n sneaks out of the beutiful sea nymph's bedroom.~
+$n walks out of Amphritrite's room with an evil grin.~
+1 -1 5963
+E
+water sea ocean around~
+The water surrounds you, and it is strange that you can breathe it as easiy as
+air.
+~
+E
+window outside out windows~
+When you look out the  window you can see the beautiful gardens. Several
+sea nymphs play among the statues and seaweed.
+~
+E
+bed shell sheets~
+The huge shell is just the right size for a sea nymph. Satin sheets, though
+soaked from being underwater, are still nice and soft.
+~
+E
+pillows~
+They are living creatues, and are very soft to the touch.
+~
+S
+#6073
+Poseidon's Room~
+This is where the mighty sea god spends his nights. There is a huge bed of
+seaweed and satin sheets and pillows here, and a chest which at night
+holds the god's might trident. There is a window which looks out into the
+sea, and several small fish flutter around.
+~
+67 9 9 7
+0 0 0 0
+0 0 0
+D0
+You see the big intersection.
+~
+ ~
+$n leaves for the big intersection.~
+$n leaves Poseidon's bedroom.~
+1 -1 5963
+E
+water sea ocean around~
+The water surrounds you, and it is strange that you can breathe it as easily
+as air.
+~
+E
+bed seaweed~
+The bed is soft and squishy, probably comfortable for one with fins.
+~
+E
+window out outside~
+Outside you can see the city walls and the sea beyond. Dark shapes swim
+in far off coves.
+~
+E
+chest~
+The chest is made of wood, but does not seem to be affected by the water.
+You suspect that any box which would hold such a mighty weapon would
+be quite magical.
+~
+S
+#6074
+Observatory~
+This is the observatory. A strange telescope is here, covered with wierd
+runes and sigils. You wonder what such a contraption could look at underwater!
+There is a chart here, protected by the water through magic, and a window
+that looks out over the city.
+~
+67 9 9 7
+0 0 0 0
+0 0 0
+D3
+You see the intersection of the second floor of the palace.
+~
+ ~
+$n walks out toward the intersection.~
+$n walks out of the observatory.~
+1 -1 5963
+E
+telescope~
+You look through the telescope...and see the stars! You gaze in wonder as
+you view stars and galaxies. The telescope must be magical!
+~
+E
+window city~
+The city looks beautiful from this height. Mermaid citizens run about,
+buying food. Nerieds play in the waves. A few of yo9ur friends fight
+desperately for their lives. They call out to you. You wave happily.
+~
+E
+water sea ocean around~
+The water surrounds you, and it is strange that it is as easy to breathe as
+air.
+~
+S
+#6075
+Throne Room~
+This is the grand throne room of Poseidon, god of the sea. His throne is
+a mixture of pearl, onyx, coral, marble, crystal and ivory, and bright
+jewels shaped like dolphins decorate the arms and sides. The rooms is lined
+with bright tapestries, protected from the water by magic. There is a window
+here and the intersection is to the  east.
+~
+67 9 9 7
+0 0 0 0
+0 0 0
+D1
+You see a big intersection.
+~
+ ~
+$n leaves quietly for the intersection.~
+$n humbly exits the throne room.~
+1 -1 5963
+E
+window out~
+You see some of the palace grounds below you, and the great arena of
+Atlantis shead. From here, you have a great view of some of the battles
+that right now are taking place. You can also see through the gloom
+of the dark waters two towers, each on one end of Temple Drive, the street
+you face.
+~
+E
+tapestries~
+The tapestries are kept dry by magic, and glow with a slight aura. Many
+of them depict underwater scenes, but a few show the spelndor of what lies
+above the waves. White castles, red dragons, and forest hunts all
+cover the fine weavings.
+~
+E
+throne~
+The throne is made of several different precious materials, all of which
+are valuable to the people of Atlantis. Dolphin shaped gems line the arms
+and sides, and the back is emblazened with gold designs.
+~
+E
+water sea around ocean~
+The water surrounds you, and it is strange that you can breathe it as easily as air.
+~
+S
+#6076
+Palace Grounds, Fountain Area~
+You are in an area near the palace wall. There is a fountain here, no
+longer burbling out sweet water, cracked and broken. It is covered with
+designs of the land: long legged deer running through deep forests;
+hunters on swift horses following the howls of their hounds; birds of
+every color and size, their wings spread for flight, singing in glory
+to the gods.
+~
+67 9 9 7
+0 0 0 0
+0 0 0
+D0
+You see a coral garden to the north.
+~
+ ~
+$n leaves for the coral garden of animals.~
+$n enters the coral garden.~
+1 -1 6078
+D3
+You see a strange garden made of stone.
+~
+ ~
+$n leaves for the stone garden.~
+$n comes from the huge broken fountain.~
+1 -1 5802
+E
+water sea ocean around~
+The water surrounds you, and it is strange that it is as easy to breathe
+as air.
+~
+E
+fountain~
+The fountain, though beautiful, is a sad reminder that  this beautiful city
+once flourished above land.
+~
+S
+#6077
+Palace Grounds, Giant Stone Chessboard~
+There is a huge chessboard here made of stone. The pieces are almost
+lifelike, so well did the artist capture their features in stone. A
+strange glow enfolds the big statues in a soft light. You assume that they
+are magic, and that ordered the pieces will march forward to their appointed
+places, or fight an unwanted intruder to their square. One side is black,
+with silver highlights on their weapons and armor, and the other is white,
+with gold weapons and lines on their armor.
+~
+67 9 9 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2463
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5803
+S
+#6078
+Palace Grounds, Coral Garden~
+You are in a coral garden. Bright colors cover almost all of the area.
+Every kind of coral is here that you could imagine. Some are fuzzy to
+the touch, others are dead and hard. Little marine animals scurry throughout
+the garden, having made it their home.
+~
+67 9 9 7
+0 0 0 0
+0 0 0
+D0
+You see a mutitude of fish swimming about.
+~
+ ~
+$n leaves quietly for another area in the gardens.~
+You see $n quietly enter this area of the gardens.~
+1 -1 6080
+D2
+You see a broken fountain sitting in a corner of the palace grounds.
+~
+ ~
+$n quietly leaves for another area of the beautiful gardens.~
+You see $n quietly enter this area of the gardens.~
+1 -1 6076
+D3
+You see several tall statues.
+~
+ ~
+$n leaves quietly for another area in the gardens.~
+You see $n quietly enter this area of the gardens.~
+1 -1 6079
+E
+water sea ocean around~
+The water aurrounds you, and it is strange that you can breathe it as easily
+as air
+~
+E
+coral~
+The coral is bright and colorful.
+~
+S
+#6079
+Palace Grounds, Statues of the Gods~
+Here you can see several statues of stone that depict each of the gods.
+Their noble features are captured in the stone, and a symbol of power is set
+into each one. Poseidon's statue is decorated with garlands of seaweed,
+and his symbol, his mighty trident, is carved into the pedestal of the
+statue. It glows a bright gold when you touch it, and you feel the
+prescence of his power.
+~
+67 9 9 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6078
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5802
+E
+water sea ocean around~
+The water surrounds you, and it is strange that you can breathe it as easily
+as air.
+~
+S
+#6080
+Palace Grounds, Fish Garden~
+What a strange place! You have seen many fish since your arrival in Atlantis,
+but none so brightly colored or beautiful as these. It seems that a magical
+field is keeping the fishes in this area so that they don't escape to
+other parts of Atlantis or out of the kingdom.
+~
+67 9 9 7
+0 0 0 0
+0 0 0
+D0
+You see a small open area.
+~
+ ~
+$n leaves for the small open area.~
+$n dances into the ring area with happiness.~
+1 -1 6081
+D2
+You see an area filled with bright coral.
+~
+ ~
+$n leaves toward the coral gardens.~
+You see $n quietly enter this area of the palace grounds.~
+1 -1 6078
+E
+water sea ocean around~
+The water surrunds you, and it is strange that you can breathe it as easily
+as air.
+~
+E
+fish fishes~
+There are many strange fishes here, most of which are not native to this
+city.
+~
+S
+#6081
+Palace Grounds, Dancing Ring~
+This is a small area that is free of statues, flowers, or debris. There is
+a large ring composed of little shells in the center. This is the area
+where the beautiful nymphs of the sea, the Nerieds, dance their praise
+to Poseidon.
+~
+67 9 9 7
+0 0 0 0
+0 0 0
+D0
+You see a garden full of bright seaweed.
+~
+ ~
+$n leaves for the brightly colored seaweed garden.~
+$n enters the seaweed garden.~
+1 -1 6083
+D2
+You see a multitude of fish swimming about.
+~
+ ~
+$n heads north toward an empty area.~
+$n quietly enters this area of the gardens.~
+1 -1 6080
+D3
+You see a small area filled with sports equipment.
+~
+ ~
+$n walks toward the gaming area.~
+$n looks ready to play as they enter the game area.~
+1 -1 6082
+E
+water sea ocean around~
+The water surrounds you, and it is strange that you can breathe it as easily
+as air.
+~
+E
+ring dancing~
+The ring is large so that many of Poseidon's nymphs can dance at the same
+time. It is simply a ring made of little seashells.
+~
+S
+#6082
+Palace Grounds, Gaming Area~
+This area is filled with suspended rings of silver, blunt lances, and
+heavy metal balls. This must be an area to play games of dexterity and
+strength. You imagine happy nymphs racing through the rings, strong guards
+throwing the spears, and perhaps even Amphritrite herself playing a strange
+version of catch with the heavy ball.
+~
+67 9 9 7
+0 0 0 0
+0 0 0
+D0
+You see an area filled with crystal statues.
+~
+ ~
+$n, feeling much better after a good game, leaves north.~
+$n enters the garden of crystal animals from the south.~
+1 -1 6084
+D1
+You see an area free of plants or objects. There seems to be a ring
+of shells there.
+~
+ ~
+$n leaves for the dancing ring.~
+$n walks in from the games area, gazing at the dancing ring.~
+1 -1 6081
+E
+water around sea ocean~
+The water surrounds you, and it is strange that you can breathe it
+as easily as air.
+~
+E
+ball shotput ~
+The ball is heavy, probably so that it is possible to throw underwater.
+~
+E
+rings suspended~
+The rings are light, and try to float away to the safety of the upper
+world. They are tied to stakes in the ground by seaweed rope, prisoners
+of the currents.
+~
+E
+spears lances blunt~
+The lances are long, and look like they would glide easily through the
+water. Each is carved with the emblem of a dolphin.
+~
+S
+#6083
+Palace Grounds, Seaweed Garden~
+You are in a colorful seaweed garden. Seaweed of all kinds float in the
+current here, untouched by light for so long. The favorite seems to be a
+type of red seaweed. It is very pretty, and can often be seen worn in the
+hair of the attendants of the palace.
+~
+67 9 9 7
+0 0 0 0
+0 0 0
+D2
+There is an area of open space to the south.
+~
+ ~
+$n leaves south for the open area.~
+$n enters from the north.~
+1 -1 6081
+D3
+You see a garden filled with statues of crystal.
+~
+ ~
+$n queitly leaves this area of the garden.~
+You see $n enter this area of the gardens.~
+1 -1 6084
+E
+water sea ocean around~
+The water surrounds you, and it is strange that it is as easy to breathe
+as air.
+~
+E
+seaweed garden~
+The seaweed floats lazily in the soft ocean current.
+~
+S
+#6084
+Palace Grounds, Statues of Neutrality~
+This is a small area full of gorgeous crystal statues. They almost blend
+in with the surrounding water. As crystal is the symbol for neutrality,
+being neither one color nor another, these statues are the animals of the
+land above which are usually neutral in alignment. There are deer, wolves,
+birds, cats, dogs, horses, and just about any non-magical creature you can
+think of. They are all life size, and looking at them makes you slightly
+homesick.
+~
+67 9 9 7
+0 0 0 0
+0 0 0
+D1
+You see a garden of brightly colored seaweed.
+~
+ ~
+$n leaves for the garden of seaweed.~
+$n enters the seaweed garden from the east.~
+1 -1 6083
+D2
+You see an area filled with hoops and spears.
+~
+ ~
+$n leaves for the sports area.~
+$n leaves the garden of crystal statues.~
+1 -1 6082
+D3
+You see a garden of onyx statues.
+~
+ ~
+$n quietly leaves for the garden of onyx statues.~
+$n walks in from the garden of crystal statues.~
+1 -1 6085
+E
+water sea ocean around~
+The water surrounds you, and it is strange that you can breathe it as easily
+as air.
+~
+E
+crystal animals statues~
+The crystal animals shimmer when you hold your light source to them, and
+cast little rainbows everywhere.
+~
+S
+#6085
+Palace Grounds, Statues of Evil~
+These statues, being made from the stone onyx, symbolize those creatures
+whose inner soul is as dark as the black material they were carved from.
+There are undead, goblins, orcs, gnolls, lychanthropes, and even a small
+replica of a black dragon. The rest of the statues are life sized, and
+you tremble at the thought that there are creatures this evil in the
+dark depths of the ocean as well.
+~
+67 9 9 7
+0 0 0 0
+0 0 0
+D1
+You see a garden filled with statues of crystal.
+~
+ ~
+$n quietly exits toward the black statues.~
+$n quietly enters this area in the gardens.~
+1 -1 6084
+D3
+You see a garden filled with ivory statues.
+~
+ ~
+$n quickly leaves for the garden of ivory statues.~
+$n shudders as they leave the garden of onyx statues.~
+1 -1 6086
+E
+water sea ocean around~
+The water surrounds you, and it is strange that you can breathe it as easily
+as air.
+~
+E
+statues~
+These are the evil-aligned creatures. They are carved from dark onyx.
+~
+S
+#6086
+Palace Grounds, Statues of Good~
+This area is filled with statues of animals carved from ivory. They depict
+those animals of good hearts and pure souls. There are unicorns, satyrs,
+pegasi, nymphs, and what you presume to be a good dragon, all handcarved
+from the white material. A few newer statues have been added, carved into
+the resemblence of dolphins and narwhales, bright finned merpeople and
+beautiful sea dragons.
+~
+67 9 9 7
+0 0 0 0
+0 0 0
+D1
+You see a garden filled with onyx statues.
+~
+ ~
+$n quietly enters the garden of onyx statues.~
+You see $n enter from the garden of ivory statues.~
+1 -1 6085
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2484
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2483
+E
+water sea around ocean~
+The water surrounds you, and it is strange that you  can breathe it as
+easily as air.
+~
+E
+statues ivory animals~
+The animals are made of shining white ivory. They symbolize the creatures
+which bring light and hope to the world.
+~
+S
+#19011
+Path Leading to the Gates of Atlantis~
+You are underwater on a shell littered path that leads to the main gates
+of Atlantis.
+~
+67 9 9 7
+0 0 0 0
+0 0 0
+D0
+You see the mighty white marble gates of Atlantis ahead.
+~
+ ~
+$n comes from the huge city gates.~
+$n arrives from the shell littered path.~
+1 -1 5710
+D1
+East, you can see the blue of the ocean. There is an area away from the path
+there.
+~
+ ~
+$n wanders east off the path.~
+$n curiously wanders off the path.~
+1 -1 5706
+D2
+You see the path continue away from the city.
+~
+ ~
+$n leaves away from the path leading to the city gates.~
+$n comes from the path leading to the city gates.~
+1 -1 5705
+D3
+West, you can see the blue of the ocean. There is an area away from the path
+there.
+~
+ ~
+$n heads west off the path.~
+$n curiously wanders off the path.~
+1 -1 5707
+E
+carvings designs design~
+You can make out some shapes and general things, but to really enjoy them
+you should get closer.
+~
+E
+gates gate city Atlantis ahead~
+The gates are huge, made of a white marble. From here you can see that there
+are carvings all along them.
+~
+E
+fish fishes ~
+There are hundreds of fishes around. Their scales shine in the light.
+~
+E
+water sea ocean around~
+The water surrounds you, and it seems strange that you breathe it as easily
+as air. Small fishes swim around, nibbling at food.
+~
+E
+shell shells ground path~
+A myriad of shells line the path, marking your way with a thousand colors.
+~
+S
+#19999
+$~

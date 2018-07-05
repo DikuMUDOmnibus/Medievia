@@ -1,0 +1,2101 @@
+#400
+The Courtyard of the Goblin Castle~
+You stand just outside the Goblin Castle, in the Courtyard. The great doors to
+the castle loom just ahead of you. To your north and south are two guardhouses.
+~
+4 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 501
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 305
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 500
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 401
+S
+#401
+The path to the Castle Entrance.~
+You stand on a short path leading to the castle entrance, just ahead of you
+lies the drawbridge, which is open, and under the drawbridge, a thick black
+moat full of sludge, which stinks so badly it stings your nostrils.
+~
+4 4 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 400
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 402
+S
+#402
+On the Drawbridge~
+You stand on the drawbridge at the gates of the castle. The gates are closed,
+the stench of the sludge in the moat really makes you queasy. There is a
+signpost here. Normally the GATES are closed.
+Items: Signpost.
+~
+4 0 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 401
+D3
+ ~
+gates~
+ ~
+ ~
+1 -1 403
+E
+signpost~
+A warning, or if you prefer, a greeting...
+   Welcome to the Goblin Castle, if you have come to see the Goblin King,
+please be sure you've brought enough of an offering to please him, as he's in
+a particularly sour mood today.
+~
+S
+#403
+The entryway of the Goblin Castle~
+You're in the entryway of the Goblin Castle, a huge mechanism stands here, a
+sophisticated system of pullies, ropes and chains, to work the drawbridge. A
+strong looking goblin is asleep next to it. On the walls of the entryway there
+are some odd looking tapestries depicting battles, and magical scenes as well.
+A spear, shield and sword hang on another wall, it appears just for decoration.
+The GATES back out of the castle are to the east.
+~
+4 8 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+gates~
+ ~
+ ~
+1 -1 402
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 404
+S
+#404
+The Main Hallway of the Goblin Castle~
+This is apparently the main hallway, leading through the center of the Goblin
+Castle, ahead of you you can see doorways leading to the north and south, and
+in the distance you can see that the hallway makes a turn to the north. Also
+you can turn to the south from this position and head down another side
+hallway.
+~
+4 8 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 403
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 437
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 405
+S
+#405
+The Main Hallway of the Goblin Castle~
+You travel the east/west main hallway of the goblin castle, doors line both
+sides of the hall to the north and south here.
+~
+4 8 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+door~
+ ~
+ ~
+1 -1 527
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 404
+D2
+ ~
+door~
+ ~
+ ~
+1 -1 524
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 406
+S
+#406
+The Main Hallway of the Goblin Castle~
+You are traveling in the main hallway of the Goblin Castle, doors line the
+north and south of this hallway.
+~
+4 8 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+door~
+ ~
+ ~
+1 -1 528
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 405
+D2
+ ~
+door~
+ ~
+ ~
+1 -1 525
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 407
+S
+#407
+The Main Hallway of the Goblin Castle~
+You are traveling in the main hallway of the Goblin Castle, doors line the
+north and south of this hallway.
+~
+4 8 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+door~
+ ~
+ ~
+1 -1 529
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 406
+D2
+ ~
+door~
+ ~
+ ~
+1 -1 526
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 408
+S
+#408
+A Turn in the Hallway~
+The hallway turns here, to the south of here you can smell the odor of
+something cooking, you're not sure what. There's a door to the south here,
+which is apparently where the smell is coming from.
+~
+4 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+door~
+ ~
+ ~
+1 -1 410
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 407
+D2
+ ~
+door~
+ ~
+ ~
+1 -1 443
+S
+#410
+A short hallway~
+This is a short, straight hallway, that seems to come to an abrupt end a few
+yards to the north, where a stone staircase leads upward.
+~
+4 8 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+door~
+ ~
+ ~
+1 -1 411
+D2
+ ~
+door~
+ ~
+ ~
+1 -1 408
+S
+#411
+A short hallway~
+This is a short, straight hallway, that seems to come to an abrupt end a few
+yards to the north, where a stone staircase leads upward.
+~
+4 8 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+door~
+ ~
+ ~
+1 -1 412
+D2
+ ~
+door~
+ ~
+ ~
+1 -1 410
+S
+#412
+A Stone Stairway, and a turn to the east.~
+Here lies a large stone staircase, heading upwards, and a turn to the east.
+~
+4 8 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 413
+D2
+ ~
+door~
+ ~
+ ~
+1 -1 411
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 419
+S
+#413
+A Very Lovely Hall~
+You are walking the length of a hallway decorated to the nines, with plush
+red carpeting down the center, brilliantly woven tapestries on the walls,
+interrupted at sections by different coats of arms, obviously of the great
+Goblin families that have ruled this castle. The hallway continues south.
+~
+4 8 0 7
+0 0 0 0
+0 0 0
+D2
+ ~
+door~
+ ~
+ ~
+1 -1 414
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 412
+S
+#414
+The Lovely Hall~
+You travel down a very tastefully decorated hallway.
+~
+4 8 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 413
+D2
+ ~
+door~
+ ~
+ ~
+1 -1 415
+S
+#415
+The Lovely Hall~
+You travel down a very tastefully decorated hallway.
+~
+4 8 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 414
+D2
+ ~
+door~
+ ~
+ ~
+1 -1 416
+S
+#416
+The Great Doors~
+You stand at a pair of great gold doors, ornately crafted metalwork decorates
+the door, along with many precious gems and jewels.
+~
+4 8 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 415
+D2
+ ~
+doors~
+ ~
+ ~
+1 -1 417
+S
+#417
+The Goblin Throne Room~
+WOW!!! You stand in magnificent throne room of the Goblin King, you see the
+Goblin King's throne just to the south of you, and this room takes your breath
+away. The room is decorated with many precious metals and jewels, and the
+floor is made of a smokey marble, pillars of a lighter colored marble line the
+perimeter of the room, with statues of goblin lords standing between them.
+~
+4 8 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+doors~
+ ~
+ ~
+1 -1 416
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 418
+S
+#418
+The Goblin King's Throne~
+You stand at the base of the Goblin King's throne. If he were here now, you'd
+be fighting for your life, are you?
+~
+4 8 0 7
+0 0 0 0
+0 0 0
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 417
+S
+#419
+An Upstairs Hallway~
+You stand at the top of a stone staircase, at the eastern end of a hallway,
+lined with doors on either side to the north and south.
+~
+4 8 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 420
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 412
+S
+#420
+An Upstairs Hallway~
+The hallway stretches to the east and west, with doors lining it to the north
+and south, at the easternmost end of the hall you see a set of stairs leading
+up, and at the western end, a set of stairs leading down.
+~
+4 8 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+door~
+ ~
+ ~
+1 -1 434
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 421
+D2
+ ~
+door~
+ ~
+ ~
+1 -1 433
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 419
+S
+#421
+An Upstairs Hallway~
+The hallway stretches to the east and west, with doors lining it to the north
+and south, at the easternmost end of the hall you see a set of stairs leading
+up, and at the western end, a set of stairs leading down.
+~
+4 8 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+door~
+ ~
+ ~
+1 -1 432
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 422
+D2
+ ~
+door~
+ ~
+ ~
+1 -1 431
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 420
+S
+#422
+An Upstairs Hallway~
+The hallway stretches to the east and west, with doors lining it to the north
+and south, at the easternmost end of the hall you see a set of stairs leading
+up, and at the western end, a set of stairs leading down.
+~
+4 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+door~
+ ~
+ ~
+1 -1 430
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 423
+D2
+ ~
+door~
+ ~
+ ~
+1 -1 429
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 421
+S
+#423
+An Upstairs Hallway~
+The hallway stretches to the east and west, with doors lining it to the north
+and south, at the easternmost end of the hall you see a set of stairs leading
+up, and at the western end, a set of stairs leading down.
+~
+4 8 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+door~
+ ~
+ ~
+1 -1 428
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 424
+D2
+ ~
+door~
+ ~
+ ~
+1 -1 427
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 422
+S
+#424
+An Upstairs Hallway~
+The hallway stretches to the east and west, with doors lining it to the north
+and south, at the easternmost end of the hall you see a set of stairs leading
+up, and at the western end, a set of stairs leading down.
+~
+4 8 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+door~
+ ~
+ ~
+1 -1 426
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 435
+D2
+ ~
+door~
+ ~
+ ~
+1 -1 425
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 423
+S
+#425
+A Goblin Bedroom~
+You are in a Goblin's bedroom, it is quite sparse, with only a small bed, and
+table in it.
+~
+4 8 6 7
+0 0 0 0
+0 0 0
+D0
+ ~
+door~
+ ~
+ ~
+1 -1 424
+S
+#426
+A Goblin Bedroom~
+You are in a Goblin's bedroom, it is quite sparse, with only a small bed, and
+table in it.
+~
+4 8 6 7
+0 0 0 0
+0 0 0
+D2
+ ~
+door~
+ ~
+ ~
+1 -1 424
+S
+#427
+A Goblin Bedroom~
+You are in a Goblin's bedroom, it is quite sparse, with only a small bed, and
+table in it.
+~
+4 8 6 7
+0 0 0 0
+0 0 0
+D0
+ ~
+door~
+ ~
+ ~
+1 -1 423
+S
+#428
+A Goblin Bedroom~
+You are in a Goblin's bedroom, it is quite sparse, with only a small bed, and
+table in it.
+~
+4 8 6 7
+0 0 0 0
+0 0 0
+D2
+ ~
+door~
+ ~
+ ~
+1 -1 423
+S
+#429
+A Goblin Bedroom~
+You are in a Goblin's bedroom, it is quite sparse, with only a small bed, and
+table in it.
+~
+4 8 6 7
+0 0 0 0
+0 0 0
+D0
+ ~
+door~
+ ~
+ ~
+1 -1 422
+S
+#430
+A Goblin Bedroom~
+You are in a Goblin's bedroom, it is quite sparse, with only a small bed, and
+table in it.
+~
+4 8 6 7
+0 0 0 0
+0 0 0
+D2
+ ~
+door~
+ ~
+ ~
+1 -1 422
+S
+#431
+A Goblin Bedroom~
+You are in a Goblin's bedroom, it is quite sparse, with only a small bed, and
+table in it.
+~
+4 8 6 7
+0 0 0 0
+0 0 0
+D0
+ ~
+door~
+ ~
+ ~
+1 -1 421
+S
+#432
+A Goblin Bedroom~
+You are in a Goblin's bedroom, it is quite sparse, with only a small bed, and
+table in it.
+~
+4 8 6 7
+0 0 0 0
+0 0 0
+D2
+ ~
+door~
+ ~
+ ~
+1 -1 421
+S
+#433
+A Goblin Bedroom~
+You are in a Goblin's bedroom, it is quite sparse, with only a small bed, and
+table in it.
+~
+4 8 6 7
+0 0 0 0
+0 0 0
+D0
+ ~
+door~
+ ~
+ ~
+1 -1 420
+S
+#434
+A Goblin Bedroom~
+You are in a Goblin's bedroom, it is quite sparse, with only a small bed, and
+table in it.
+~
+4 8 6 7
+0 0 0 0
+0 0 0
+D2
+ ~
+door~
+ ~
+ ~
+1 -1 420
+S
+#435
+The Eastern End of the Upstairs Hallway~
+This is the eastern end of the upstairs hallway, a stone staircase leads up
+from here.
+~
+4 8 0 7
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 424
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 436
+S
+#436
+The Northeast Tower~
+You stand in a tower at the far north-east end of the Goblin Castle, from here
+it is obvious that Goblin Guards watch over the Labyrinth and warn the King of
+approaching adventurers. Hmmm, like you perhaps? There are a couple of stairs
+here leading to a strong wooden DOOR.
+~
+4 12 0 7
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 502
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 435
+S
+#437
+The Front Hall~
+This is a north/south hall at the front of the Goblin Castle.
+~
+4 8 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 404
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 438
+S
+#438
+The front hall~
+You are in the front hall of the Goblin Castle, the hall continues north and
+south.
+~
+4 8 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 437
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 439
+S
+#439
+In the front hall - A door into the yard~
+You are in the front hall of the Goblin Castle, a door leads to the yard to
+the west of here, and the hall continues north and south.
+~
+4 8 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 438
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 440
+D3
+ ~
+door~
+ ~
+ ~
+1 -1 530
+S
+#440
+The Front Hall~
+You travel the Front Hall of the Goblin Castle, to the west there are openings
+that overlook an overgrown garden that seems to serve as a practice yard for
+Goblin fighters.
+~
+4 8 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 439
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 441
+S
+#441
+The Front Hall~
+You travel the Front Hall of the Goblin Castle, to the west there are openings
+that overlook an overgrown garden that seems to serve as a practice yard for
+Goblin fighters.
+~
+4 8 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 440
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 442
+S
+#442
+The Front Hall~
+You travel the Front Hall of the Goblin Castle, to the west there are openings
+that overlook an overgrown garden that seems to serve as a practice yard for
+Goblin fighters.
+~
+4 8 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 441
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 444
+S
+#443
+The Goblin Kitchen~
+Something's cookin' (Let's hope it's nobody you know).. You are in the Kitchen
+of the Goblin Castle, large pots are here on huge stoves, boiling over with
+SOME sort of concoction, several large countertops with various cuts of meat
+laying on them, and a huge cutting board is in the center of the room, with
+what appears to be a roast boar sitting on it, ready to be carved, with a big
+red apple in it's mouth.
+~
+4 8 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+door~
+ ~
+ ~
+1 -1 408
+S
+#444
+A short hallway~
+You travel a short hallway, with doors lining the southern side. A set of
+stone stairs leads down from here.
+~
+4 8 0 7
+0 0 0 0
+0 0 0
+D2
+ ~
+door~
+ ~
+ ~
+1 -1 450
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 445
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 442
+S
+#445
+A short hallway~
+You travel a short hallway, with doors lining the southern side.
+~
+4 8 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 444
+D2
+ ~
+door~
+ ~
+ ~
+1 -1 451
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 446
+S
+#446
+A short hallway~
+You travel a short hallway, with doors lining the southern side.
+~
+4 8 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 445
+D2
+ ~
+door~
+ ~
+ ~
+1 -1 452
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 447
+S
+#447
+A short hallway~
+You travel a short hallway, with doors lining the southern side.
+~
+4 8 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 446
+D2
+ ~
+door~
+ ~
+ ~
+1 -1 453
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 448
+S
+#448
+End of short hall~
+You stand at the western end of a short hallway, a set of stone stairs leads
+up here, and to the east, doors line the south side of this hall. On the west,
+opposite each door, is a mirror.
+~
+4 8 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 447
+D4
+ ~
+door~
+ ~
+ ~
+1 -1 449
+S
+#449
+Southwestern Tower~
+You stand in the southwestern tower of the Goblin Castle, from here you can
+see a large forest to the south and west of the castle. Three stairs lead up
+to a large oak door to the north here, and some stone stairs lead down to the
+east.
+~
+4 12 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 523
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 448
+S
+#450
+A large Goblin bedroom.~
+A large goblin bedroom, with a double sized bed, a dresser, mirror, and other
+odds and ends. Obviously it's not bedtime, as no one is sleeping here.
+~
+4 8 6 7
+0 0 0 0
+0 0 0
+D0
+ ~
+door~
+ ~
+ ~
+1 -1 444
+S
+#451
+A large Goblin bedroom.~
+A large goblin bedroom, with a double sized bed, a dresser, mirror, and other
+odds and ends. Obviously it's not bedtime, as no one is sleeping here.
+~
+4 8 6 7
+0 0 0 0
+0 0 0
+D0
+ ~
+door~
+ ~
+ ~
+1 -1 445
+S
+#452
+A large Goblin bedroom.~
+A large goblin bedroom, with a double sized bed, a dresser, mirror, and other
+odds and ends. Obviously it's not bedtime, as no one is sleeping here.
+~
+4 8 6 7
+0 0 0 0
+0 0 0
+D0
+ ~
+door~
+ ~
+ ~
+1 -1 446
+S
+#453
+A large Goblin bedroom.~
+A large goblin bedroom, with a double sized bed, a dresser, mirror, and other
+odds and ends. Obviously it's not bedtime, as no one is sleeping here.
+~
+4 8 6 7
+0 0 0 0
+0 0 0
+D0
+ ~
+door~
+ ~
+ ~
+1 -1 447
+S
+#500
+Guardhouse.~
+You're inside of a Goblin Guardhouse, just inside the gates of the Goblin
+Castle Courtyard.
+~
+4 8 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 400
+S
+#501
+Guardhouse~
+You are inside a Goblin Castle guardhouse.
+~
+4 8 0 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 400
+S
+#502
+The Catwalk~
+You travel on an East / West catwalk, along the top of the Goblin Castle.
+~
+4 0 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 436
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 503
+S
+#503
+The Catwalk~
+You travel on an East / West catwalk, along the top of the Goblin Castle.
+~
+4 0 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 502
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 504
+S
+#504
+The Catwalk~
+You travel on an East / West catwalk, along the top of the Goblin Castle.
+~
+4 0 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 503
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 506
+S
+#506
+The Catwalk~
+You travel on an East / West catwalk, along the top of the Goblin Castle.
+~
+4 0 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 504
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 507
+S
+#507
+The Catwalk~
+You travel on an East / West catwalk, along the top of the Goblin Castle.
+~
+4 0 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 506
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 508
+S
+#508
+The Catwalk~
+You travel on an East / West catwalk, along the top of the Goblin Castle.
+~
+4 0 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 507
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 509
+S
+#509
+The Catwalk~
+You travel on an East / West catwalk, along the top of the Goblin Castle.
+~
+4 0 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 508
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 510
+S
+#510
+The Catwalk~
+You travel on an East / West catwalk, along the top of the Goblin Castle.
+~
+4 0 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 509
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 511
+S
+#511
+A Turn on the Catwalk.~
+Here the Catwalk takes a turn, and you can go east / west, or north / south.
+~
+4 0 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 510
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 512
+S
+#512
+The Catwalk~
+You travel along the catwalk above the Goblin Castle.
+~
+4 0 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 511
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 513
+S
+#513
+The Catwalk~
+You travel along the catwalk above the Goblin Castle.
+~
+4 0 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 512
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 514
+S
+#514
+The Catwalk~
+You travel along the catwalk above the Goblin Castle.
+~
+4 0 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 513
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 515
+S
+#515
+The Catwalk~
+You travel along the catwalk above the Goblin Castle.
+~
+4 0 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 514
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 516
+S
+#516
+The Catwalk~
+You travel along the catwalk above the Goblin Castle.
+~
+4 0 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 515
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 517
+S
+#517
+The Catwalk~
+You travel along the catwalk above the Goblin Castle.
+~
+4 0 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 516
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 518
+S
+#518
+The Catwalk~
+You travel along the catwalk above the Goblin Castle.
+~
+4 0 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 517
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 519
+S
+#519
+The Catwalk~
+You travel along the catwalk above the Goblin Castle.
+~
+4 0 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 518
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 520
+S
+#520
+The Catwalk~
+You travel along the catwalk above the Goblin Castle.
+~
+4 0 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 519
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 521
+S
+#521
+The Catwalk~
+You travel along the catwalk above the Goblin Castle.
+~
+4 0 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 520
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 522
+S
+#522
+The Catwalk~
+You travel along the catwalk, above the Goblin Castle.
+~
+4 0 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 521
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 523
+S
+#523
+The end of the Catwalk~
+You stand before the southwestern town of the Goblin Castle, a large oak
+door leads into the tower to the south.
+~
+4 0 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 522
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 449
+S
+#524
+A Closet~
+You've stumbled into a Goblin Closet.
+~
+4 8 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+door~
+ ~
+ ~
+1 -1 405
+S
+#525
+A Goblin Dining Room~
+You stand in a Goblin Dining Room, a large table runs the length of this room,
+with dozens of chairs surrounding it. Placesettings are on the table, but
+there doesn't appear to be any food here, obviously it's not meal time for
+these particular Goblins. Or maybe they're just waiting for the main course to
+show up in their dining room?
+~
+4 8 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+door~
+ ~
+ ~
+1 -1 406
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 526
+S
+#526
+A Goblin Dining Room~
+You stand in a Goblin Dining Room, a large table runs the length of this room,
+with dozens of chairs surrounding it. Placesettings are on the table, but
+there doesn't appear to be any food here, obviously it's not meal time for
+these particular Goblins. Or maybe they're just waiting for the main course to
+show up in their dining room?
+~
+4 8 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+door~
+ ~
+ ~
+1 -1 407
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 525
+S
+#527
+A Closet~
+A rather spacious closet, filled with Goblin Clothes, a little too small for
+you to wear, and they're not all that fashionable anyway.
+~
+4 8 0 7
+0 0 0 0
+0 0 0
+D2
+ ~
+door~
+ ~
+ ~
+1 -1 405
+S
+#528
+A Goblin Dining Room~
+You stand in a Goblin Dining Room, a large table runs the length of this room,
+with dozens of chairs surrounding it. Placesettings are on the table, but
+there doesn't appear to be any food here, obviously it's not meal time for
+these particular Goblins. Or maybe they're just waiting for the main course to
+show up in their dining room?
+~
+4 8 0 7
+0 0 0 0
+0 0 0
+D2
+ ~
+door~
+ ~
+ ~
+1 -1 406
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 529
+S
+#529
+A Goblin Dining Room~
+You stand in a Goblin Dining Room, a large table runs the length of this room,
+with dozens of chairs surrounding it. Placesettings are on the table, but
+there doesn't appear to be any food here, obviously it's not meal time for
+these particular Goblins. Or maybe they're just waiting for the main course to
+show up in their dining room?
+~
+4 8 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 528
+D2
+ ~
+door~
+ ~
+ ~
+1 -1 407
+S
+#530
+The Goblin Practice Yard~
+You are in the Goblin Practice Yard, where the Goblin Fighters practice their
+skills.
+~
+4 0 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 439
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 539
+D3
+ ~
+door~
+ ~
+ ~
+1 -1 531
+S
+#531
+The Goblin Practice Yard~
+You are in the Goblin Practice Yard, where the Goblin Fighters practice their
+skills.
+~
+4 0 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 530
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 540
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 532
+S
+#532
+The Goblin Practice Yard~
+You are in the Goblin Practice Yard, where the Goblin Fighters practice their
+skills.
+~
+4 0 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 531
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 541
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 533
+S
+#533
+The Goblin Practice Yard~
+You are in the Goblin Practice Yard, where the Goblin Fighters practice their
+skills.
+~
+4 0 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 532
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 534
+S
+#534
+The Goblin Practice Yard~
+You are in the Goblin Practice Yard, where the Goblin Fighters practice their
+skills.
+~
+4 0 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 533
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 541
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 535
+S
+#535
+The Goblin Practice Yard~
+You are in the Goblin Practice Yard, where the Goblin Fighters practice their
+skills.
+~
+4 0 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 534
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 536
+S
+#536
+The Goblin Practice Yard~
+You are in the Goblin Practice Yard, where the Goblin Fighters practice their
+skills.
+~
+4 0 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 541
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 537
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 535
+S
+#537
+The Goblin Practice Yard~
+You are in the Goblin Practice Yard, where the Goblin Fighters practice their
+skills.
+~
+4 0 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 540
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 538
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 536
+S
+#538
+The Goblin Practice Yard~
+You are in the Goblin Practice Yard, where the Goblin Fighters practice their
+skills.
+~
+4 0 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 539
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 537
+S
+#539
+The Goblin Practice Yard~
+You are in the Goblin Practice Yard, where the Goblin Fighters practice their
+skills.
+~
+4 0 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 530
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 538
+D3
+ ~
+door~
+ ~
+ ~
+1 -1 540
+S
+#540
+The Goblin Practice Yard~
+You are in the Goblin Practice Yard, where the Goblin Fighters practice their
+skills.
+~
+4 0 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 531
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 539
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 537
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 541
+S
+#541
+The Goblin Practice Yard~
+You are in the Goblin Practice Yard, where the Goblin Fighters practice their
+skills.
+~
+4 0 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 532
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 540
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 536
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 534
+S
+#19999
+$~

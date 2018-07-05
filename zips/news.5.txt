@@ -1,0 +1,25 @@
+                   . .. ... The Medievia ... .. .
+ 
+            _|         _|  _|_|_|_  _|       _|  _|_|_|_|_|
+           _| _|      _|  _|       _|       _|  _|
+          _|   _|    _|  _|_|_|   _|       _|  _|_|_|_|_|   
+         _|     _|  _|  _|       _|  _    _|          _|    
+        _|       _|_|  _|       _| _| _| _|          _|       
+       _|         _|  _|_|_|_| _|_|    _|   _|_|_|_|_|              
+                                             Updated January 14, 1996
+------------------------------------------------------------------------------
+
+FIXES:
+The freight follow bug while formed has been fixed.
+Many god commands crashing because of flight have been fixed.
+
+Many Many other details and bugs have been fixed... just to numerous to
+mention.  There are no known bugs right now.
+
+NEW:
+The mob holomobplacement is in and turned on.  You will see many critters
+throughtout the wilderness now.
+
+CHANGES:
+Some of the map has been changes as you will see.  More survey's are in.
+More help is in.  

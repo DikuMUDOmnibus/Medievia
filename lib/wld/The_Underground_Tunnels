@@ -1,0 +1,1792 @@
+#732
+On the River Courrain on the banks of Medievia~
+You are on the River Courrain, at the banks of the Capitol city of Medievia.
+Moss-covered stone walls rise up on both sides of you.  THe river stretches
+out as far as you can see to the north, winding its way through forests
+and swamps. Above you is the great altar of Medievia.
+~
+8 4 7 7
+0 0 0 0
+0 0 0
+D0
+~
+~
+~
+~
+0 0 63384
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 734
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 2
+S
+#734
+On the River Courrain~
+You are on the River Courrain, at the banks of the Capitol city of Medievia.
+Moss covered stone walls rise up on both sides of you. Above the walls you
+can see a busy square in the middle of the city of Medievia.
+~
+8 0 7 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 732
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6216
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 4
+S
+#1300
+Entrance to the Underground Tunnels~
+You stand in the entrance to a long series of underground tunnels, the walls
+emit a faint glow so you can see, but it is still rather dim. A ladder is
+here, leading up.
+~
+8 9 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1301
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 1056
+S
+#1301
+The Underground Tunnels~
+You are traveling through the underground tunnels.
+~
+8 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1300
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1302
+S
+#1302
+The Underground Tunnels~
+You are traveling through the underground tunnels.
+~
+8 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1301
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1339
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1303
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1338
+S
+#1303
+The Underground Tunnels~
+You are traveling through the underground tunnels.
+~
+8 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1302
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1304
+S
+#1304
+The Underground Tunnels~
+You are traveling through the underground tunnels.
+~
+8 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1303
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1305
+S
+#1305
+The Underground Tunnels~
+You are traveling through the underground tunnels.
+~
+8 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1304
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1306
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1348
+S
+#1306
+The Underground Tunnels~
+You are traveling through the underground tunnels.
+~
+8 9 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1307
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1305
+S
+#1307
+The Underground Tunnels~
+You are traveling through the underground tunnels.
+~
+8 9 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1308
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1306
+S
+#1308
+The Underground Tunnels~
+You are traveling through the underground tunnels.
+~
+8 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1307
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1309
+S
+#1309
+The Underground Tunnels~
+You are traveling through the underground tunnels.
+~
+8 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1308
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1310
+S
+#1310
+The Underground Tunnels~
+You are traveling through the underground tunnels.
+~
+8 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1309
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1350
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1311
+S
+#1311
+The Underground Tunnels~
+You are traveling through the underground tunnels.
+~
+8 9 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1310
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1312
+S
+#1312
+The Underground Tunnels~
+You are traveling through the underground tunnels.
+~
+8 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1349
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1311
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1313
+S
+#1313
+The Underground Tunnels~
+You are traveling through the underground tunnels.
+~
+8 9 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1312
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1314
+S
+#1314
+The Underground Tunnels~
+You are traveling through the underground tunnels.
+~
+8 9 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1313
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1315
+S
+#1315
+The Underground Tunnels~
+You are traveling through the underground tunnels.
+~
+8 9 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1314
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1353
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1316
+S
+#1316
+The Underground Tunnels~
+You are traveling through the underground tunnels.
+~
+8 9 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1315
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1317
+S
+#1317
+The Underground Tunnels~
+You are traveling through the underground tunnels.
+~
+8 9 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1316
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1318
+S
+#1318
+The Underground Tunnels~
+You are traveling through the underground tunnels.
+~
+8 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1317
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1319
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1352
+S
+#1319
+The Underground Tunnels~
+You are traveling through the underground tunnels.
+~
+8 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1318
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1320
+S
+#1320
+The Underground Tunnels~
+You are traveling through the underground tunnels.
+~
+8 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1319
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1321
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1356
+S
+#1321
+The Underground Tunnels~
+You are traveling through the underground tunnels.
+~
+8 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1320
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1322
+S
+#1322
+The Underground Tunnels~
+You are traveling through the underground tunnels.
+~
+8 9 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1323
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1321
+S
+#1323
+The Underground Tunnels~
+You are traveling through the underground tunnels.
+~
+8 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1322
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1324
+S
+#1324
+The Underground Tunnels~
+You are traveling through the underground tunnels.
+~
+8 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1323
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1325
+S
+#1325
+The Underground Tunnels~
+You are traveling through the underground tunnels.
+~
+8 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1324
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1368
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1326
+S
+#1326
+The Underground Tunnels~
+You are traveling through the underground tunnels.
+~
+8 9 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1325
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1327
+S
+#1327
+The Underground Tunnels~
+You are traveling through the underground tunnels.
+~
+8 9 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1326
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1328
+S
+#1328
+The Underground Tunnels~
+You are traveling through the underground tunnels.
+~
+8 9 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1327
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1329
+S
+#1329
+The Underground Tunnels~
+You are traveling through the underground tunnels.
+~
+8 9 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1328
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1370
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1330
+S
+#1330
+The Underground Tunnels~
+You are traveling through the underground tunnels.
+~
+8 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1364
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1329
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1331
+S
+#1331
+A Ladder~
+The walls in this tunnel emit a faint glow, but it is still rather dim down
+here. A ladder is here, leading down.
+~
+8 9 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1330
+D5
+You can see the outline of a trapdoor in the floor.
+~
+trapdoor~
+$n climbs down the ladder.~
+$n drops down from a trapdoor in the ceiling, splashing into the water.~
+4 -1 6218
+S
+#1332
+The Underground Tunnels~
+You are traveling through the underground tunnels.
+~
+8 9 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1333
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1334
+S
+#1333
+The Underground Tunnels~
+You are traveling through the underground tunnels.
+~
+8 9 0 0
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1332
+S
+#1334
+The Underground Tunnels~
+You are traveling through the underground tunnels.
+~
+8 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1332
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1335
+S
+#1335
+The Underground Tunnels~
+You are traveling through the underground tunnels.
+~
+8 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1334
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1336
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1341
+S
+#1336
+The Underground Tunnels~
+You are traveling through the underground tunnels.
+~
+8 9 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1337
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1335
+S
+#1337
+The Underground Tunnels~
+You are traveling through the underground tunnels.
+~
+8 9 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1338
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1336
+S
+#1338
+The Underground Tunnels~
+You are traveling through the underground tunnels.
+~
+8 9 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1302
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1337
+S
+#1339
+The Underground Tunnels~
+You are traveling through the underground tunnels.
+~
+8 9 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1340
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1302
+S
+#1340
+The Underground Tunnels~
+You are traveling through the underground tunnels.
+~
+8 9 0 0
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1339
+S
+#1341
+The Underground Tunnels~
+You are traveling through the underground tunnels.
+~
+8 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1335
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1343
+S
+#1342
+The Underground Tunnels~
+You are traveling through the underground tunnels.
+~
+8 9 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1345
+S
+#1343
+The Underground Tunnels~
+You are traveling through the underground tunnels.
+~
+8 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1341
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1344
+S
+#1344
+The Underground Tunnels~
+You are traveling through the underground tunnels.
+~
+8 9 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1346
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1343
+S
+#1345
+The Underground Tunnels~
+You are traveling through the underground tunnels.
+~
+8 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1342
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1348
+S
+#1346
+The Underground Tunnels~
+You are traveling through the underground tunnels.
+~
+8 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1344
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1347
+S
+#1347
+The Underground Tunnels~
+You are traveling through the underground tunnels.
+~
+8 9 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1348
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1346
+S
+#1348
+The Underground Tunnels~
+You are traveling through the underground tunnels.
+~
+8 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1345
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1305
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1347
+S
+#1349
+The Underground Tunnels~
+You are traveling through the underground tunnels.
+~
+8 9 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1312
+S
+#1350
+The Underground Tunnels~
+You are traveling through the underground tunnels.
+~
+8 9 0 0
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1310
+S
+#1351
+The Underground Tunnels~
+You are traveling through the underground tunnels.
+~
+8 9 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1352
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1354
+S
+#1352
+The Underground Tunnels~
+You are traveling through the underground tunnels.
+~
+8 9 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1318
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1351
+S
+#1353
+The Underground Tunnels~
+You are traveling through the underground tunnels.
+~
+8 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1315
+S
+#1354
+The Underground Tunnels~
+You are traveling through the underground tunnels.
+~
+8 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1351
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1355
+S
+#1355
+The Underground Tunnels~
+You are traveling through the underground tunnels.
+~
+8 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1354
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1356
+S
+#1356
+The Underground Tunnels~
+You are traveling through the underground tunnels.
+~
+8 9 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1320
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1355
+S
+#1357
+The Underground Tunnels~
+You are traveling through the underground tunnels.
+~
+8 9 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1358
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1361
+S
+#1358
+The Underground Tunnels~
+You are traveling through the underground tunnels.
+~
+8 9 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1359
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1357
+S
+#1359
+The Underground Tunnels~
+You are traveling through the underground tunnels.
+~
+8 9 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1362
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1358
+S
+#1360
+The Underground Tunnels~
+You are traveling through the underground tunnels.
+~
+8 9 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1364
+S
+#1361
+The Underground Tunnels~
+You are traveling through the underground tunnels.
+~
+8 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1357
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1365
+S
+#1362
+The Underground Tunnels~
+You are traveling through the underground tunnels.
+~
+8 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1359
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1363
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1366
+S
+#1363
+The Underground Tunnels~
+You are traveling through the underground tunnels.
+~
+8 9 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1367
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1362
+S
+#1364
+The Underground Tunnels~
+You are traveling through the underground tunnels.
+~
+8 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1360
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1330
+S
+#1365
+The Underground Tunnels~
+You are traveling through the underground tunnels.
+~
+8 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1361
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1369
+S
+#1366
+The Underground Tunnels~
+You are traveling through the underground tunnels.
+~
+8 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1362
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1367
+S
+#1367
+The Underground Tunnels~
+You are traveling through the underground tunnels.
+~
+8 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1363
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1366
+S
+#1368
+The Underground Tunnels~
+You are traveling through the underground tunnels.
+~
+8 9 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1369
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1325
+S
+#1369
+The Underground Tunnels~
+You are traveling through the underground tunnels.
+~
+8 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1365
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1368
+S
+#1370
+The Underground Tunnels~
+You are traveling through the underground tunnels.
+A small black stone sits on the ground near the southern wall.
+~
+8 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1329
+D2
+ ~
+door~
+ ~
+ ~
+3 -1 108
+E
+wall stone rock~
+Looking closer, you can see a faint crack in the wall... in the shape
+of a doorway.
+~
+S
+#6215
+On the River Courrain, in the City of Medievia~
+You are on the River Courrain.  Moss-covered stone walls rise up on the
+south and west. A small wooden bridge spans the river above you. The
+water is clean and a gentle current moves southward. The river continues
+to the north and east.
+~
+8 0 7 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6220
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6219
+S
+#6216
+On the River Courrain~
+You are on the River Courrain.  Moss-covered stone walls rise up on the
+east and west. A small wooden bridge spans the river above you. The
+water is clean and a gentle current moves southward. The river continues
+to the north and south.
+~
+8 0 7 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 734
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6220
+S
+#6217
+On the River Courrain, inside a narrow tunnel~
+You are traveling on the River Courrain.  Slimy, wet walls rise out
+of the water to the north and east. They form a narrow tunnel with a low
+ceiling which the river runs through. Darkness lies to the west and south.
+~
+8 9 7 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6221
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6218
+S
+#6218
+On the River Courrain, inside a narrow tunnel~
+You are traveling on the River Courrain. Slimy, wet walls rise out
+of the water to the north and south. They form a narrow tunnel with a low
+ceiling which the river runs through. Darkness lies to the east and west.
+~
+8 9 7 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6217
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6219
+D4
+You can make out the faint outline of a trapdoor in the ceiling.
+~
+trapdoor~
+$n climbs out of the water and through a trapdoor in the ceiling.~
+$n climbs up the ladder, into the room.~
+4 -1 1331
+S
+#6219
+On the River Courrain, inside a narrow tunnel~
+You are traveling on the River Courrain. Slimy, wet walls rise out
+of the water to the north and south. They form a narrow tunnel with a low
+ceiling which the river runs through. Darkness lies to the east but
+you can see light to the west.
+~
+8 9 7 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6218
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6215
+S
+#6220
+In an underground tunnel on the River Courrain~
+You are traveling the River Courrain. The river travels through a narrow
+tunnel here, but you can see light to your north and south.
+~
+8 9 7 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6216
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6215
+S
+#6221
+On the River Courrain, inside a narrow tunnel~
+You are traveling on the River Courrain. Slimy, wet walls rise out
+of the water to the east and west. They form a narrow tunnel with a low
+ceiling which the river runs through. Darkness lies to the north but
+you can see light to the south.
+~
+8 9 7 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6217
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6222
+S
+#6222
+On the River Courrain at the banks of Medievia~
+You are traveling on the River Courrain. The waters are quite peaceful,
+drifting slowly southward. A small outcropping of land stretches into the
+river, providing a small beach covered with pebbles. The river continues
+to the north and south and beautiful park is to the east.
+~
+8 0 7 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6221
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 51
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6223
+S
+#6223
+On the River Courrain, inside a narrow tunnel~
+You are traveling on the River Courrain. Slimy, wet walls rise out
+of the water to the east and south. They form a narrow tunnel with a low
+ceiling which the river runs through. Darkness lies to the east but
+you can see light to the north.
+~
+8 9 7 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6222
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6224
+S
+#6224
+On the River Courrain, inside a narrow tunnel~
+You are traveling on the River Courrain. Slimy, wet walls rise out
+of the water to the north and south. They form a narrow tunnel with a low
+ceiling which the river runs through. Darkness lies to the east and west.
+~
+8 13 7 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6225
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6223
+S
+#6225
+On the River Courrain, inside a narrow tunnel~
+You are traveling on the River Courrain. Slimy, wet walls rise out
+of the water to the north and south. They form a narrow tunnel with a low
+ceiling which the river runs through.  Darkness lies to the west but you
+can see light from the east.
+~
+8 9 7 7
+0 0 0 0
+0 0 0
+D1
+~
+~
+~
+~
+0 0 63491
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6224
+S
+#19999
+$~

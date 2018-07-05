@@ -1,0 +1,627 @@
+#6805
+A small cobblestone path through the Village of Gdangus~
+A small cobblestone path leads northward.  A small unclear image of
+a fountain can be seen just to the north of you.  You here shouts of
+the crier calling on local villagers to come here the news.  A few
+buildings can be seen to your east and west.
+~
+26 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6806
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6807
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 19022
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6808
+S
+#6806
+Entrance to Gdangus Center~
+This large center is the main passage in all directions.  A fountain
+stands in the center of this room.  A large plaque telling all the
+public about the history of Gdangus.  You put on your bifocals
+and read:
+  "Gdangus, boomtown to local pirates.  Started way back in the days,
+a young pirate named Gdangus set up his front here.  Setting up banks,
+shops, and other assortments of buisness for the pleasure of plundering.
+His creation backfired when it boomed and its wealth grew more than that
+of his own crimes.  He quit his pirating job and set forth to be an
+entrepeneur of the buisness class.  Making more money than he could
+foresee, he set back to his hometown, Village of Gdangus, to recultivate
+its areas.  What you see now is its completeness and unchanged stable
+community.  We are very law abiding citizens and plan to keep it that
+way."
+~
+26 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6810
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6811
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6805
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6818
+S
+#6807
+Vault of Gdangus~
+A small olive green bank sets your view.  A stout banker sits waiting
+for a long awaited customer to this bank.  A massive vault can be seen
+behind the clerk.  You notice a few coins on the ground, you reach to pick
+them up and the clerk grumbles at you.  You stop in your tracks, and
+proceed to count your money.
+Items: Sign
+~
+26 12 0 7
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6805
+E
+vault bank~
+A dark black steel vault, molded into the ground can be seen.
+The clerk spins its bars and wings the vault open.  A large
+creaking sound emits from below.
+~
+E
+sign~
+How to use the Vault of Gdangus
+Deposit <Amount>  : Puts -X- amount of money in the bank under your account.
+Withdraw <Amount> : Remove -X- amount of money from your account in the bank.
+Balance           : Show how much money you have currently in the bank.
+~
+S
+#6808
+Gdangus General Goods Store~
+You are greeted by a plump old fellow behind a wooden counter.  Behind
+man are woodens shelves containing general items.  Everything from paper
+to to a nice leather satchel.  The man from behind the counter chuckles
+with glee and asks if he could be of any assistance.
+~
+26 12 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6805
+D5
+ ~
+trapdoor~
+You see $n struggle endlessly to get up from the ladder from below.~
+You see $n waddle down the ladder from above.~
+1 -1 6809
+S
+#6809
+A dry storage room~
+A warm and dry storage room smells of ink.  Goods of all kind
+are stacked high to the ceiling.  You notice a small stock boy
+running around frantically trying to pick up his mess.  Broken
+glass and spilled ink covers the floor.
+~
+26 12 0 7
+0 0 0 0
+0 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 6808
+E
+broken glass ink~
+A few bottles of dark black ink have been spilled here.  The smell
+gives you a light-headed feeling.  A young stock boy runs around
+saying, "Why me?"
+~
+S
+#6810
+Standing on a tall platform~
+You are standing on a short platform.  The local crier screams out
+information next to you.  You cringe as he screams out the local
+marriages and deaths.
+~
+26 0 1 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6806
+E
+platform~
+A wooden box, rigged to hold a person lays on your path.  You
+step up to test the wooden frame.  Slowly you wander on to it
+and it seems to hold quite well.
+~
+S
+#6811
+A small cobblestone path through the Village of Gdangus~
+A small cobblestone path leads east and west.  To your north is a
+garden area for viewing pleasure.  The road continues east.
+~
+26 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6814
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6812
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6806
+S
+#6812
+A small cobblestone path through the Village of Gdangus~
+A large cobblestone path is your only route to the west.  To your
+north a small garden area can be viewed with pleasure.  Just to the
+south a shop is in view.
+~
+26 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6815
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6813
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6811
+S
+#6813
+Gdangus Magic Shop~
+A glowing portal closes from sight and a small mystical shop is in view.
+A powerful old mage stands behind the counter shuffling potions and
+scrolls in his hand. He looks at you and disappears. Strange formations
+appear on the counter. A few potions and scrolls appear from the light.
+~
+26 140 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6812
+S
+#6814
+Ancient Gardens of Gdangus~
+A large dome covered garden, secretly passes underfoot.  Flowers
+of all types and wonders magically appear to bloom before your eyes
+just up ahead.  A few unknown and strange flowers follows your
+movement with ease as if they are watching you.  A beautiful rose
+stands out the most as it shines brightly from the dew.
+~
+26 0 2 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6817
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6815
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6811
+E
+rose~
+One single beautiful sight:  @>-/--
+~
+S
+#6815
+Ancient Gardens of Gdangus~
+A large dome covered garden, secretly passes underfoot.  Flowers
+of all types and wonders magically appear to bloom before your eyes
+just up ahead.  A few unknown and strange flowers follows your
+movement with ease as if they are watching you.  A beautiful rose
+stands out the most as it shines brightly from the dew.
+~
+26 0 2 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6816
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6812
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6814
+E
+rose~
+One single beautiful sight:  @>-/--
+~
+S
+#6816
+Ancient Gardens of Gdangus~
+A large dome covered garden, secretly passes underfoot.  Flowers
+of all types and wonders magically appear to bloom before your eyes
+just up ahead.  A few unknown and strange flowers follows your
+movement with ease as if they are watching you.  A beautiful rose
+stands out the most as it shines brightly from the dew.
+~
+26 0 2 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6824
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6815
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6817
+E
+rose~
+One single beautiful sight:  @>-/--
+~
+S
+#6817
+Ancient Gardens of Gdangus~
+A large dome covered garden, secretly passes underfoot.  Flowers
+of all types and wonders magically appear to bloom before your eyes
+just up ahead.  A few unknown and strange flowers follows your
+movement with ease as if they are watching you.  A beautiful rose
+stands out the most as it shines brightly from the dew.
+~
+26 0 2 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6816
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6814
+E
+rose~
+One single beautiful sight:  @>-/--
+~
+S
+#6818
+Western Blackbeard Court~
+This tight alley makes just enough room for you and a companion.
+Buildings can be seen around you.  The path is layered with used
+bricks.  The stylish ornate bricks seem to be not from here.
+~
+26 0 1 3
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6820
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6806
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6819
+E
+brick bricks~
+You pick out one large brick and you view it for a few seconds.  It
+seems to have come from latin descent and surely not from around here.
+Maybe one of Gdangus' plunderings?
+~
+S
+#6819
+Western Blackbeard Court~
+This tight alley makes just enough room for you and a companion.
+Buildings can be seen around you.  The path is layered with used
+bricks.  The stylish ornate bricks seem to be not from here.
+~
+26 0 1 3
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6821
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6818
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6822
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6823
+E
+brick bricks~
+You pick out one large brick and you view it for a few seconds.  It
+seems to have come from latin descent and surely not from around here.
+Maybe one of Gdangus' plunderings?
+~
+S
+#6820
+Gdangus Storage Center~
+ A bright room is cluttered with loose objects and people. You glance forward
+and notice small iron boxes, some open, some closed. They seem to be lockers of
+some sort. You read a small sign above: This is the U-Sotre-It facility where
+you may store up to 50 items of no weight limit." A small sign gets your
+attention.
+Item: Sign
+~
+26 652 0 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6818
+E
+sign~
+Gdangus Storage Co.
+Open         - Open your locker.
+Close        - Close your locker.
+Rentlocker   - Start your account, or pay next month's fee. Cost is 150,000 gp
+               per month of rent.
+Get          - <get item> remove item from storage.
+Put          - <put item> put item into storage.
+Be sure to close your locker, Gdangus Storage Co. is not responsible for items stolen
+if you fail to close your locker.
+WARNING: You must pay the next months rent BEFORE this months has expired!
+~
+S
+#6821
+G.P.S. - Gdangus Postal Service~
+Similar to the Gdangus Storage Company, this room is lined with medium
+sized metal boxes. You see many adventurers receiving mail in odd ways.
+One beast opens his box and in a flash an item drops out. Other areas
+people place a small tage on the item and it disappears from the box.
+A large sign is placed in the center room for viewing.
+Items: Sign
+~
+26 140 0 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6819
+E
+sign~
+                            Gdangus Postal  Service
+                            ------- ------  -------
+Send <Object> <Player>    : Send an object or piece of mail to another player
+                            in the game for them to pick up at a later time.
+                            To send mail, you must purchase a quill and paper
+                            to write on, then type <Write Paper Quill> and
+                            enter the text. Sending an object through the mail
+                            is simple, just <Send ObjectName PlayerName>,
+                            Be sure to use proper Upper and lowercase. Do NOT
+                            send cursed or poisoned objects through the mail,
+                            there are stiff penalties for doing so.
+                            The cost of mailing depends on the weight of
+                            the item sent, not the value.
+Receive                   : Mail can be any of the afformentioned things,
+                            either a letter, or object. Simply type receive.
+                            There is no charge for the receipt of mail or
+                            objects.
+~
+S
+#6822
+Holy Order of Gdangus Clerics~
+Something strange leads you here.  A strong aura pulls you toward the
+bright healing light at the roof of this Church.  A few locals sing
+their heart out over Gdangus.  A large altar is in plain sight
+ahead of you.  A warm feeling enters your body as you draw closer to
+the light.
+~
+26 525324 14 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6819
+E
+aura~
+A bright blinding light spots on you and follows your direction.
+It feels your body with the warmth of a powerful sun.  You sit back,
+relax and bask in the feeling.
+~
+S
+#6823
+Kaaduk's Stables~
+You walk in and the first thing you notice is the stench of horse
+menure.  A young stable boy stands at the end of the stable cleaning
+a horse from its journey.  You can see horses lined up all in a row
+waiting for a picking to go on a journey.
+~
+26 8 0 1
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6819
+S
+#6824
+The Library~
+In this room are the collected works of several of your fellow adventurers,
+a sign is here, instructing you how you can add your writings and read those
+of other players.
+Items: Sign
+~
+26 140 0 7
+0 0 0 0
+-1 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6816
+E
+sign~
+Bulletin Board Instructions:
+Read: [Syntax: Read <msg #>, <Enter>]    - Displays msg #X
+Write: [Syntax: Write Paper Quill(or other writting instrument)]
+Post: [Syntax: Put paper board]  - puts your note on the board.
+Remove: [Syntax: Remove <msg #>, <Enter>]  - Removes a msg you wrote.
+Etiquette:
+   Never equip your character in this room, do not use the "Say" command in
+here, and if you notice a player in this room, please do not use the "Tell"
+command either, as it is bothersome. As in any library, be silent, read and
+write your messages, and then move along to the rest of the world.
+~
+S
+#19022
+Entrance to the beatiful village, Gdangus~
+Hidden beneath the forest trees, this unnoticable village strikes you
+with great awe. Multi-colored cobblestone lines your path in all directions.
+A large adamantite arch greets your entrance. Small quaint stores are in
+perfect condition lining the route in all directions.  A mass of people
+travel in and out each day causing the cobblestone to be dull and worn out.
+A town crier rests high up on a platform to your north calling out village
+information. A noose and hanging stage appears close in distance, symbolizing
+that this small village won't put up with any unlawful citizens.
+~
+26 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6805
+E
+arch entrance adamantite~
+A HUGE adamantite arch towers above head with the name Gdangus
+etched in it.  It sparkles bright providing the room with a silvery
+white light.
+~
+S
+#19999
+$~

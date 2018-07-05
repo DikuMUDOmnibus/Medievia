@@ -1,0 +1,1210 @@
+#269
+Back Room~
+There are piles of stuff laying around.   Rusty swords, dented shields,
+and uncharged staffs are strewn about littering the room.  Off in a corner
+are some lockers.  You try and break in to see what you can find.
+~
+22 524 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2269
+S
+#2251
+The frigid wastelands~
+You wander through the frigid wastelands. Your breath is a cloud before you.
+The cold cuts to the bone. Swirling snow and wind make impossible for you to
+discern any directions.
+~
+22 32 5 0
+0 0 0 0
+0 0 0
+S
+#2253
+The Glacier Temple~
+You are in a small temple. It appears to be built entirely from ice. The ice
+walls are frosted and are opaque. There is a small blue portal here. You can
+go north, to enter the portal. Looking south, you see a world of white outside
+the open doorway. Swirling snow and bright light obscure your view.
+~
+22 72 0 1
+0 0 0 0
+0 0 0
+D0
+A softly glowing blue portal hovers in front of the northern wall.
+~
+ ~
+$n steps through the glowing portal and vanishes.~
+$n drifts slowly through the blue light.~
+5 0 2226
+S
+#2260
+The edge of the frigid wastes~
+You stand at the base of a steep rocky cliff. To the north, a vast arctic
+wasteland stretches out. The snow falls lightly here and the wind is not
+very fierce. You can climb up the rocky cliff or head north into the arctic
+wastes.
+~
+22 36 5 1
+0 0 0 0
+0 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 0 2261
+S
+#2261
+On the cliffside~
+You cling to the side of the cliff. Looking down, you are terrified by the
+sheer distance to the ground below. You can climb up higher into the cliffs,
+but the area above is obscured by clouds and you cannot tell what lies waiting
+above.
+~
+22 36 5 1
+0 0 0 0
+0 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 0 2262
+D5
+ ~
+ ~
+ ~
+ ~
+1 0 2260
+S
+#2262
+Before the gates of Mahn-Tor~
+You stand at the edge of a high cliff. Directly south, set back off the
+cliff's edge, you see a huge pair of gates. These gates appear to be carved
+almost completely out of ice. A huge city and keep appear to be on the other
+side of these gates. There is also a possibility of climbing down the cliff
+face.
+~
+22 32 5 0
+0 0 0 0
+0 0 0
+D2
+ ~
+gate huge gates ice~
+ ~
+You see $n enter the gates to the city of the Minotaurs.~
+1 -1 2264
+D5
+ ~
+ ~
+ ~
+ ~
+1 0 2261
+E
+gate gates ice huge~
+The gates to the city are made almost completely of ice. Looking closely, you
+can see intricate carvings in the gates. They appear to be of creatures that
+are half man and half bull.
+~
+S
+#2263
+The city streets of Mahn-Tor~
+You walk among the ice and snow covered shops and homes. Most of the doors are
+closed and only the light from the windows betrays the presence of inhabitants.
+A cold wind blows through here, scattering fine clouds of snow all about. Small
+streets lead south and east.
+~
+22 32 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 2264
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 2266
+S
+#2264
+Inside the gates of Mahn-Tor~
+You stand just inside the gates to the city of Mahn-Tor. The city itself
+spreads out in front of you. The buildings are sturdy, as they appear to be
+made from the very rock of this mountain. Snow falls all around and a fine
+sheet of ice can be seen covering all but the most used walk ways. Small city
+streets lead east and west, while a main road appears to lead south.
+~
+22 32 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+gates gate huge ice~
+ ~
+ ~
+1 -1 2262
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2265
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 2267
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2263
+S
+#2265
+The city streets of Mahn-Tor~
+You trudge among the icy streets of Mahn-Tor. The streets themselves are made
+of cobblestone and are quite treacherous. Small homes and businesses along
+the street are closed tight and light from their windows throws eerie shadows
+across the dark street. Small streets lead west and south here.
+~
+22 32 1 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 2268
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 2264
+S
+#2266
+The city streets of Mahn-Tor~
+You trudge through the snow covered streets. The street itself is made of
+cobblestones and the footing is quite treacherous. To the south, you see what
+appears to be a small tavern. Bright lights shine through the windows. Small
+streets also lead north and east.
+A small sign hangs outside the tavern.
+~
+22 32 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 2263
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2267
+D2
+ ~
+ ~
+ ~
+You hear a drunken clamour coming from the tavern as $n opens the door and enters.~
+1 -1 2333
+E
+sign small~
+[]=============[]
+ |   The Inn   |
+ |    of the   |
+ |    Broken   |
+ |     Horn    |
+[]=============[]
+~
+S
+#2267
+The Square of Mahn-Tor~
+This appears to be the main square of Mahn-Tor. A huge fountain graces the
+center of the square, but the extreme cold has turned it into an ice
+sculpture. The water has frozen in arcs through the air. Snow and ice covers
+the square and small streets lead east and west. To the north, you see
+the gates to the city. You also notice a small store to the south.
+A small sign hangs outside the store.
+~
+22 32 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 2264
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 2268
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 2270
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 2266
+E
+sign~
+[]=========[]
+ |  Equip  |
+ |   Shop  |
+[]=========[]
+~
+S
+#2268
+The streets of Mahn-Tor~
+You walk among the small stores and homes of Mahn-Tor. The cobblestone streets
+are covered with ice and snow. Small snow drifts have formed at the edges of
+the streets. The wind blows fiercely. Small streets lead in all directions.
+There appears to be a large building to the east, but the snow obscures your
+view.
+~
+22 32 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 2265
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 2275
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 2271
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 2267
+S
+#2269
+Sleeping Area~
+This place is no Hotel Medievia, but what do you expect for such a
+seedy part of town.  Some rancid hay strewn about the floor is the
+only bedding you'll find.  There are no friendly receptionists,
+only an irritated looking minotaur who forcefully suggests you pay
+him a fee to watch over your stuff while you sleep.
+~
+22 12 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2333
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 269
+E
+hay~
+The hay looks as if it has been recently slept on.  Not by other humans but by some wild animal.
+~
+S
+#2270
+The Mahn-Tor Equipment Shop~
+ You are in a crude equipment shop. The store is filled with racks of various
+items that adventurers could use. Large fireplaces light and heat the room. A
+large desk occupies, adorned by a sign placed at its center, occupies the back
+of the room. The same door by which you entered seems to be the only exit.
+~
+22 40 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 2267
+E
+sign~
+Shop is CLOSED, go away!
+~
+S
+#2271
+The Mahn-Tor General Store~
+You enter a small store that is dark and cold. Old empty shelves line the
+walls and snow blows across the dirty stone floor. It is evident that this
+store was once used, but it is no more. A small doorway leads north out into
+the chilling snow and wind.
+~
+22 1064 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 2268
+S
+#2272
+Gorak's Training Room~
+This room is full of all sorts of weapons and armours. Pieces of old targets
+and practice dummies lie all around. The walls are chipped and scored from
+weapon blows. This is obviously the room of an avid warrior. A red door leads
+east.
+~
+22 40 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+door red~
+ ~
+ ~
+1 2251 2288
+E
+red~
+It looks like it leads back to the hall.
+~
+S
+#2273
+Darkoth's Dark Study~
+This room is dark. It reeks of death and evil. Arcane symbols and a small
+altar fill the room. Blood runs from the altar. It is evident that this room
+is used for unholy purposes. A black door leads west.
+~
+22 41 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+door black~
+ ~
+ ~
+1 2252 2289
+E
+black~
+It looks like it leads back to the hall.
+~
+E
+altar~
+The blood running from the altar is spewing from the head of a recently sacrificed goat.
+~
+S
+#2274
+Tyrgoth's Inner Sanctum~
+Idols to the gods of good fill the room. White furniture and decorations give
+the room a holy appearance. It is evident that some being of supreme goodness
+lives here. A white door leads east.
+~
+22 40 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+door white~
+ ~
+ ~
+1 2253 2292
+E
+white~
+It looks like it leads out to the hall.
+~
+S
+#2275
+The road to the Keep of Mahn-Tor~
+You walk up a steep rocky road. It leads up a steep grade to the east. At the
+end of this steep road, you see a huge keep. Snow swirls all about you and you
+feel your breath freeze as it leaves your lungs. Blurry lights to the east and
+west are all you can see from here.
+~
+22 36 1 1
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 2277
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 2268
+S
+#2276
+A small guard house~
+You enter a small guard house. A huge fireplace lights and warms the room.
+Looking around, you see that the room is fairly well furnished. Thick rugs
+and curtains help insulate the room and the beds themselves look quite warm.
+A table in the center of the room has the remnants of a card game strewn
+across it. A small door leads south.
+~
+22 40 0 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 2277
+E
+table cards~
+ It appears the minotaurs were playing a game of Poker before they were forced
+to abruptly end the game. Looking at one of the hands you notice that some unlu
+cky Minotaur had a Royal Flush.
+~
+S
+#2277
+Before the Keep of Mahn-Tor~
+You stand before a huge keep that has been carved into the side of the
+mountain. Huge wooden gates before you provide entrance to the keep. It
+appears as though the cold here has convinced the guards to seek warmth
+inside. You see the lights of the city to the west. You also notice small
+guard houses to the north and south.
+~
+22 32 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 2276
+D1
+ ~
+gate~
+ ~
+You watch as $n bravely enters the keep of Mahn-Tor.~
+1 2250 2279
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 2278
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 2275
+E
+gate wooden~
+These wooden gates guard the entrance to the forboding keep of Mahn-Tor.
+~
+S
+#2278
+A small guard house~
+You enter a small, but warm, guard house. Deep rugs and thick curtains
+insulate the room. A huge fireplace lights and warms the room. Outside, you
+hear the roar of the freezing wind. A small door leads north out into the cold.
+~
+22 40 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 2277
+S
+#2279
+The entryway to the Keep of Mahn-Tor~
+You are at the entry hall to the huge keep. The high vaulted ceiling is carved
+from solid stone. Huge stone pillars rise up from the floor to meet the
+ceiling far above. The architecture appears to be Dwarven. A huge pair of
+gates stand to the west, protecting the keep from the harsh cold outside. A
+large hall leads east, deeper into the keep.
+~
+22 40 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 2280
+D3
+ ~
+gate~
+ ~
+ ~
+1 2250 2277
+S
+#2280
+The Hall~
+You are in a huge hall. Large tapestries line the walls and huge statues of
+various make and appearance are spread about. The ceiling above supports huge
+candelabras, which light the room. To the east, you see a bright light and
+hear sounds of inhabitation. Looking west, you see the entry gates to the keep.
+~
+22 40 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 2281
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 2279
+E
+tapestries~
+These beautiful tapestries depict various minotaur heroes..
+~
+E
+statues statue~
+8 statues, towering towering to the stone ceiling, hover above you, exemplifying how small your puny body is in comparison to the minotaur heroes.
+~
+S
+#2281
+The Grand Hall~
+You are in the main hall of the Keep of Mahn-Tor. This hall is huge. The wide
+floor of the hall is an expanse of marble. Its shimmers in the light thrown
+off by the torches, that line the walls. To the east, you see what appears to
+be a huge golden throne. The hall itself stretches south and a smaller hall
+leads to the west.
+~
+22 40 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 2283
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 2282
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 2280
+S
+#2282
+The Great Hall~
+You stand in the great hall of the keep. Huge pillars rise up to the vaulted
+ceiling and torch light glimmers off the marble floor here. You are amazed at
+the sheer size of the hall. The hall itself leads north and east. You notice a
+smaller hall leading south, deeper into the keep.
+~
+22 40 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2281
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 2284
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2287
+S
+#2283
+Standing before the throne~
+You stand before the throne of Mahn-Tor. This golden throne is so huge that it
+takes up almost the entire wall, stretching far above the floor. Sitting upon
+it, you feel small and feeble. It is evident that this throne is more of a
+decoration than anything else. Only the largest of kings could sit upon it.
+The hall leads south and west into other parts of the keep.
+~
+22 40 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+passage behind the golden throne~
+ ~
+ ~
+3 2259 2285
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 2284
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 2281
+E
+throne huge gold golden~
+The golden throne is huge. It takes up the whole wall.........
+The golden throne is huge. It takes up the whole wall...
+The floor in front of it is scraped, as if something was dragged
+across it.
+~
+S
+#2284
+The Great Hall~
+You are in a great hall. Huge torches light the room and their light shimmers
+off the marble floor below you. To the north, you see a huge golden throne.
+Looking up, you grow dizzy at the height to which the vaulted ceiling rises.
+The hall itself leads north and west.
+~
+22 40 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 2283
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 2282
+S
+#2285
+The secret hallway~
+You are in a small, torch lit hall. It leads from east to west. A large gold
+door is to the west. To the east, you see a heavy stone door.
+~
+22 40 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+door huge stone~
+ ~
+ ~
+1 2259 2286
+D3
+ ~
+door stone~
+ ~
+ ~
+1 2259 2283
+E
+huge stone door~
+A very formidable looking door.
+~
+E
+gold door~
+Looks like the back of a secret door of sorts.
+~
+S
+#2286
+Entry to the Royal Chambers~
+You are at the entrance to the royal chambers of the keep. A plush shag rug
+covers the stone floor. Large candelabras hang from the ceiling, lighting the
+room. A huge fireplace warms the room. Beaded doorways lead south and east. A
+huge stone door stands in the west wall.
+~
+22 40 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 2295
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 2293
+D3
+ ~
+door huge stone~
+ ~
+ ~
+1 2259 2285
+E
+door huge stone~
+A huge stone door.......
+~
+E
+rug floor~
+You notice a bloodstain in the center of the rug.
+~
+E
+bloodstain~
+It looks as if someone has attempted with no success to clean the bloodstain.
+~
+S
+#2287
+The Guard Post~
+The hall here has been built into a guard post of sorts. It appears as though
+it would be quite easy to defend in times of emergency. Obviously, something
+important lies beyond. A small hall leads south, while the main hall can be
+seen to the north.
+~
+22 40 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 2282
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 2288
+S
+#2288
+The guarded hall~
+You walk down a torch lit hallway. It has been carved out of pure stone. It is
+very quiet in this hall. You notice rows of colored doors on each wall. To
+your east, you see a yellow door. To your west, you see a red door. The hall
+itself leads south and north.
+~
+22 40 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 2287
+D1
+A large yellow door.
+~
+door yellow~
+ ~
+ ~
+1 2255 2290
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 2289
+D3
+A large red door.
+~
+door red~
+ ~
+ ~
+1 2251 2272
+E
+yellow~
+You see a yellow door. It has the name "Sumaron" written on it.
+~
+E
+red~
+You see a red door. It has the name "Gorak" written on it.
+~
+S
+#2289
+The guarded hall~
+You walk down a small, quiet, torch lit hallway. Doors of different colors are
+in each wall. To your east, you see a maroon door. To your west, you see a
+black door. The hall itself leads north and south.
+~
+22 40 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 2288
+D1
+A large maroon door.
+~
+door maroon~
+ ~
+ ~
+1 2256 2291
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 2292
+D3
+A large black door.
+~
+door black~
+ ~
+ ~
+1 2252 2273
+E
+maroon~
+You see a maroon door here. It has the name "Amyrok" written on it.
+~
+E
+black~
+You see a black door. It has the name "Darkoth" inscribed on it.
+~
+S
+#2290
+Sumaron's Sanctum~
+You enter a temple of sorts. A small altar is here and relics of many
+religions lie around. It is evident that this is the room of a studying cleric.
+A yellow door leads west.
+~
+22 40 0 7
+0 0 0 0
+0 0 0
+D3
+ ~
+door yellow~
+ ~
+ ~
+1 2255 2288
+E
+yellow~
+It looks like it leads back to the hall.
+~
+E
+altar~
+From the looks of the altar sacrifices has recently been made, however you can not really decide if they were made in the name of good or evil.
+~
+E
+relics~
+These relics are of both good and evil.
+~
+S
+#2291
+Amyrok's Arcane Study~
+This room is full of shelves which hold various spell components. The center
+of the room is occupied by a huge pentagram. The entire room smells of smoke
+and incense. The room is obviously used extensively by a practicing mage. A
+maroon door leads west.
+~
+22 40 0 7
+0 0 0 0
+0 0 0
+D3
+ ~
+door maroon~
+ ~
+ ~
+1 2256 2289
+E
+maroon~
+It looks like it leads back to the hall.
+~
+E
+pentagram~
+The pentagram has been scribed with blood.
+~
+S
+#2292
+The guarded hall~
+You walk down a quiet hall. The stone walls here are wet with moisture.
+Colored doors can be seen in the walls here. To your east, you see a green
+door. To your west, you see a white door. The hall itself leads north and
+south.
+~
+22 40 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 2289
+D1
+A large green door.
+~
+door green~
+ ~
+ ~
+1 2257 2294
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 2297
+D3
+A large white door.
+~
+door white~
+ ~
+ ~
+1 2253 2274
+E
+green~
+You see a green door here. It has the name "Nasturn" written on it.
+~
+E
+white~
+You see a white door here. It has the name "Tyrgoth" inscribed on it.
+~
+S
+#2293
+The Harem Room~
+This appears to be the harem room of the Keep. Huge piles of furs and beds
+fill the room. The lighting is dim, but the room is very warm. You can hear
+music playing quietly from somewhere. Beaded doorways lead north and east.
+~
+22 40 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 2286
+D1
+ ~
+ ~
+ ~
+ ~
+1 0 2296
+E
+fur furs~
+These fine furs are prizes taken from the hunted beasts of the Frigid Wastelands.
+~
+S
+#2294
+Nasturn's Humble Abode~
+This room is filled with all types of natural items. Trees and plants have
+been lovingly cultivated and grown by hand, in large pots. The room is like an
+indoor garden. A green door leads west.
+~
+22 40 0 7
+0 0 0 0
+0 0 0
+D3
+ ~
+door green~
+ ~
+ ~
+1 2257 2292
+E
+green~
+It looks like it leads back to the hall.
+~
+S
+#2295
+The main living room~
+This room is decorated with sturdy stone furniture that is carved and gilded.
+Large candles light the room. A thick rug covers the floor. Thick furs and
+tapestries decorate the walls. Beaded doorways lead south and west.
+~
+22 40 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 0 2296
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 2286
+E
+tapestries~
+These tapestries depict the exploits of Mahn-Tor himself.
+~
+S
+#2296
+The Master Bedroom~
+This appears to be the master bedroom. A huge bed fills the rooms. Piles of
+furs and other rich furnishings adorn the room. Candles are everywhere and
+they help a huge fireplace light the room. The lavishness of the room
+overwhelms you. Beaded doorways lead north and west.
+~
+22 168 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 2295
+D3
+ ~
+ ~
+ ~
+ ~
+1 0 2293
+E
+bed~
+Silk sheets cover the bed showing that Mahn-tor defies the conception of the minotaur race with his fine tastes.
+~
+E
+furs~
+These fine furs are prizes from the hunted monsters of the Frigid Wastelands.
+~
+S
+#2297
+The end of the guarded hall~
+You are at the end of the hall. Colored doors line the walls to the north. To
+your west, you see a brown door. To you east, you see a grey door. The hall
+itself leads north back along the rows of doors.
+~
+22 40 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 0 2292
+D1
+A large grey door.
+~
+door grey~
+ ~
+ ~
+1 2258 2298
+D3
+A large brown door.
+~
+door brown~
+ ~
+ ~
+1 2254 2299
+E
+grey~
+You see a grey door here. It has the name "Drogar" written on it.
+~
+E
+brown~
+You see a brown door here. It has the name "Belrak" written on it.
+~
+S
+#2298
+Dorgar's Dismal Domicile~
+This room is dirty and unkept. Odds and ends of different items lie all over.
+It is apparent that some type of pack-rat lives here. It appears as though
+nothing has ever entered this room and ever left again. A grey door leads west.
+~
+22 40 0 7
+0 0 0 0
+0 0 0
+D3
+ ~
+door grey~
+ ~
+ ~
+1 2258 2297
+E
+grey~
+It looks like it leads back to the hall.
+~
+S
+#2299
+Belrak's Green Room~
+This room is full of green. The furniture and all other items show the color
+of nature. The room smells of pine and forest odors. From the items here, it
+appears as though a woodsman of some sorts lives here. A brown door leads east.
+~
+22 40 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+door brown~
+ ~
+ ~
+1 2254 2297
+E
+brown~
+It looks like it leads to the hall.
+~
+S
+#2333
+The Inn of the Broken Horn~
+You enter a warm tavern.  The room is dimly lit by two huge fireplaces at
+each end and is furnished by a large bar several small tables.  The inn is
+inhabited by minotaurs of varying size and disposition.  Most seem to re-
+gard you with suspicion and few approach you.  To the south is a place to
+sleep.  The door to the north leads back out into the cold.
+~
+22 1064 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2266
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2269
+S
+#19999
+$~

@@ -1,0 +1,4087 @@
+#2115
+Main Deck- The Mystara~
+You are standing on the main deck on the Mystara. The ship is made of
+wooden planks and beams. You can look out into the great ocean, and
+feel the salty- ocean spray blow against your face. The deck
+is filled with busy sailors and passangers calmly waiting out
+their trip. The huge sail is flying about your head, whipping in
+the wind.
+~
+65 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4350
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2116
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4320
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 19015
+S
+#2116
+Main Deck- The Mystara~
+You are standing on the main deck on the Mystara. The ship is made of
+wooden planks and beams. You can look out into the great ocean, and
+feel the salty- ocean spray blow against your face. The deck
+is filled with busy sailors and passangers calmly waiting out
+their trip. The huge sail is flying about your head, whipping in
+the wind.
+~
+65 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4353
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2117
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2115
+S
+#2117
+Stairs leading to the lower levels~
+You are standing on the stairs to the lower levels of the Mystara. The
+stairs are polished wood, with brass trim rails.  There are many busy
+sailors and passengers walking by.  The smell of salt is in the air as you
+gaze at the magnificant ship.  You stand back and watch the crowd go by,
+and get nudged from behind to keep moving.
+~
+65 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4345
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2118
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4311
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2116
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 2121
+S
+#2118
+Main Deck- The Mystara~
+You are standing on the main deck on the Mystara. The ship is made of
+wooden planks and beams. You can look out into the great ocean, and
+feel the salty- ocean spray blow against your face. The deck
+is filled with busy sailors and passangers calmly waiting out
+their trip. The huge sail is flying about your head, whipping in
+the wind.
+~
+65 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4357
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2119
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2117
+S
+#2119
+Main Deck- The Mystara~
+You are standing on the main deck on the Mystara. The ship is made of
+wooden planks and beams. You can look out into the great ocean, and
+feel the salty- ocean spray blow against your face. The deck
+is filled with busy sailors and passangers calmly waiting out
+their trip. The huge sail is flying about your head, whipping in
+the wind.
+~
+65 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4361
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2120
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4343
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2118
+S
+#2120
+Main Deck- Starboard~
+You are standing on the main deck of the Mystara, on the starboard side.
+The large wooded deck is well cleaned, but is heavily used by the many
+passengers.  You lean up against the side of the ship and read your
+paper.  You gaze out into the sea and try to solve all the worlds
+problems.
+~
+65 0 1 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4344
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2119
+S
+#2121
+Stairs leading to the lower levels~
+You are standing on the stairs to the lower levels of the Mystara. The
+stairs are polished wood, with brass trim rails.  There are many busy
+sailors and passengers walking by.  The smell of salt is in the air as you
+gaze at the magnificant ship.  You stand back and watch the crowd go by,
+and get nudged from behind to keep moving.
+~
+65 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2123
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2124
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 2117
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 2122
+S
+#2122
+Stairs leading to the lower levels~
+You are standing on the stairs to the lower levels of the Mystara. The
+stairs are polished wood, with brass trim rails.  There are many busy
+sailors and passengers walking by.  The smell of salt is in the air as you
+gaze at the magnificant ship.  You stand back and watch the crowd go by,
+and get nudged from behind to keep moving.
+~
+65 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4270
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4271
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 2121
+S
+#2123
+Hallway- The Mystara~
+You are in the main hallway on the Mystara.  The mighty ship has many halls,
+since it was converted from a merchant cutter vessel.  This hall finely kept,
+with sailors cleaning and swabbing all the time.  The ceiling is low, but
+most of the passengers don't complain as long as they get through the trip.
+Along the hall, you see portraits of old sailing heros.  You move out of the
+way, as a family walks by.
+~
+65 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2125
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2131
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2121
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2133
+S
+#2124
+Hallway- The Mystara~
+You are in the main hallway on the Mystara.  The mighty ship has many halls,
+since it was converted from a merchant cutter vessel.  This hall finely kept,
+with sailors cleaning and swabbing all the time.  The ceiling is low, but
+most of the passengers don't complain as long as they get through the trip.
+Along the hall, you see portraits of old sailing heros.  You move out of the
+way, as a family walks by.
+~
+65 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2121
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4256
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2128
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4258
+S
+#2125
+Hallway- The Mystara~
+You are in the main hallway on the Mystara.  The mighty ship has many halls,
+since it was converted from a merchant cutter vessel.  This hall finely kept,
+with sailors cleaning and swabbing all the time.  The ceiling is low, but
+most of the passengers don't complain as long as they get through the trip.
+Along the hall, you see portraits of old sailing heros.  You move out of the
+way, as a family walks by.
+~
+65 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2126
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2123
+S
+#2126
+Hallway- The Mystara~
+You are in the main hallway on the Mystara.  The mighty ship has many halls,
+since it was converted from a merchant cutter vessel.  This hall finely kept,
+with sailors cleaning and swabbing all the time.  The ceiling is low, but
+most of the passengers don't complain as long as they get through the trip.
+Along the hall, you see portraits of old sailing heros.  You move out of the
+way, as a family walks by.
+~
+65 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2127
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2125
+S
+#2127
+Hallway- The Mystara~
+You are in the main hallway on the Mystara.  The mighty ship has many halls,
+since it was converted from a merchant cutter vessel.  This hall finely kept,
+with sailors cleaning and swabbing all the time.  The ceiling is low, but
+most of the passengers don't complain as long as they get through the trip.
+Along the hall, you see portraits of old sailing heros.  You move out of the
+way, as a family walks by.
+~
+65 8 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3347
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2126
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3359
+S
+#2128
+Hallway- The Mystara~
+You are in the main hallway on the Mystara.  The mighty ship has many halls,
+since it was converted from a merchant cutter vessel.  This hall finely kept,
+with sailors cleaning and swabbing all the time.  The ceiling is low, but
+most of the passengers don't complain as long as they get through the trip.
+Along the hall, you see portraits of old sailing heros.  You move out of the
+way, as a family walks by.
+~
+65 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2124
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2129
+S
+#2129
+Hallway- The Mystara~
+You are in the main hallway on the Mystara.  The mighty ship has many halls,
+since it was converted from a merchant cutter vessel.  This hall finely kept,
+with sailors cleaning and swabbing all the time.  The ceiling is low, but
+most of the passengers don't complain as long as they get through the trip.
+Along the hall, you see portraits of old sailing heros.  You move out of the
+way, as a family walks by.
+~
+65 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2128
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2130
+S
+#2130
+Hallway- The Mystara~
+You are in the main hallway on the Mystara.  The mighty ship has many halls,
+since it was converted from a merchant cutter vessel.  This hall finely kept,
+with sailors cleaning and swabbing all the time.  The ceiling is low, but
+most of the passengers don't complain as long as they get through the trip.
+Along the hall, you see portraits of old sailing heros.  You move out of the
+way, as a family walks by.
+~
+65 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2129
+S
+#2131
+Hall of Chance- The Mystara~
+This is the hall of chance, on the Mystara.  Down this hall, you can find
+ways to pass your time, on this ship.  There are card tables, and slot
+machines ready for you to use.  The hall is well kept, since it is one of
+the most popular areas on the ship.  As you enter the hall, you feel good
+luck engulf your body.
+~
+65 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2135
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2132
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2332
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2123
+S
+#2132
+Hall of Chance- The Mystara~
+This is the hall of chance, on the Mystara.  Down this hall, you can find
+ways to pass your time, on this ship.  There are card tables, and slot
+machines ready for you to use.  The hall is well kept, since it is one of
+the most popular areas on the ship.  As you enter the hall, you feel good
+luck engulf your body.
+~
+65 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3165
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3166
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2131
+S
+#2133
+Hall of Chance- The Mystara~
+This is the hall of chance, on the Mystara.  Down this hall, you can find
+ways to pass your time, on this ship.  There are card tables, and slot
+machines ready for you to use.  The hall is well kept, since it is one of
+the most popular areas on the ship.  As you enter the hall, you feel good
+luck engulf your body.
+~
+65 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3173
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2123
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3174
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2134
+S
+#2134
+Hall of Chance- The Mystara~
+This is the hall of chance, on the Mystara.  Down this hall, you can find
+ways to pass your time, on this ship.  There are card tables, and slot
+machines ready for you to use.  The hall is well kept, since it is one of
+the most popular areas on the ship.  As you enter the hall, you feel good
+luck engulf your body.
+~
+65 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4307
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2133
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4308
+S
+#2135
+Card Table- The Mystara~
+You are in a card room on the Mystara.  The room is filled with smoke from
+all the cigars that are burning.  There is a large round card table in the
+center of the room.  Eight chairs line the sides, each filled with a hard
+playing guest.  The Walls are covered with green wall paper, this might be
+the best room on the ship.  There is a huge lamp hanging from the ceiling,
+swaying slightly as the water goes by.  You ask one of the busy players, "How
+does this game work?", He snaps back, "Read the sign!".
+~
+65 524 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2131
+E
+sign card~
+HELP FOR PLAYING CARDS IN MEDIEVIA
+You can play any game that requires a standard deck of 52 cards and does
+not use a pile that must be drawn and put back to.
+Everyone follow one person, that person is automatically the dealer.
+Dealer Commands:
+shuffle           - takes all cards and shuffles the deck.
+showdeal(also sd) - deals cards FACE UP so all can see.
+hidedeal(alse hd) - deals cards to player so only player can see them.
+downdeal(also dd) - deals cards face DOWN so NO ONE can see them yet.
+ALL deal commands are in the form  command # player
+  (#=number cards   if player is not supplied, cards are dealt to all)
+Player Commands:
+cards   - shows you your cards.  cards a   will show everyones cards.
+discard - example  discard 7h Qs 10c etc etc...
+show    - turns all your cards over so all can see.
+ante    - ante # will make you drop # coins for the ante.
+raise   - raise # will make you drop # coins to raise the bet.
+fold    - will fold your hand for current game.
+~
+S
+#2332
+Card Table- The Mystara~
+You are in a card room on the Mystara.  The room is filled with smoke from
+all the cigars that are burning.  There is a large round card table in the
+center of the room.  Eight chairs line the sides, each filled with a hard
+playing guest.  The Walls are covered with green wall paper, this might be
+the best room on the ship.  There is a huge lamp hanging from the ceiling,
+swaying slightly as the water goes by.  You ask one of the busy players, "How
+does this game work?", He snaps back, "Read the sign!".
+~
+65 12 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2131
+E
+sign card~
+HELP FOR PLAYING CARDS IN MEDIEVIA
+You can play any game that requires a standard deck of 52 cards and does
+not use a pile that must be drawn and put back to.
+Everyone follow one person, that person is automatically the dealer.
+Dealer Commands:
+shuffle           - takes all cards and shuffles the deck.
+showdeal(also sd) - deals cards FACE UP so all can see.
+hidedeal(alse hd) - deals cards to player so only player can see them.
+downdeal(also dd) - deals cards face DOWN so NO ONE can see them yet.
+ALL deal commands are in the form  command # player
+  (#=number cards   if player is not supplied, cards are dealt to all)
+Player Commands:
+cards   - shows you your cards.  cards a   will show everyones cards.
+discard - example  discard 7h Qs 10c etc etc...
+show    - turns all your cards over so all can see.
+ante    - ante # will make you drop # coins for the ante.
+raise   - raise # will make you drop # coins to raise the bet.
+fold    - will fold your hand for current game.
+~
+S
+#3165
+Card Table- The Mystara~
+You are in a card room on the Mystara.  The room is filled with smoke from
+all the cigars that are burning.  There is a large round card table in the
+center of the room.  Eight chairs line the sides, each filled with a hard
+playing guest.  The Walls are covered with green wall paper, this might be
+the best room on the ship.  There is a huge lamp hanging from the ceiling,
+swaying slightly as the water goes by.  You ask one of the busy players, "How
+does this game work?", He snaps back, "Read the sign!".
+~
+65 524 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2132
+E
+sign card~
+HELP FOR PLAYING CARDS IN MEDIEVIA
+You can play any game that requires a standard deck of 52 cards and does
+not use a pile that must be drawn and put back to.
+Everyone follow one person, that person is automatically the dealer.
+Dealer Commands:
+shuffle           - takes all cards and shuffles the deck.
+showdeal(also sd) - deals cards FACE UP so all can see.
+hidedeal(alse hd) - deals cards to player so only player can see them.
+downdeal(also dd) - deals cards face DOWN so NO ONE can see them yet.
+ALL deal commands are in the form  command # player
+  (#=number cards   if player is not supplied, cards are dealt to all)
+Player Commands:
+cards   - shows you your cards.  cards a   will show everyones cards.
+discard - example  discard 7h Qs 10c etc etc...
+show    - turns all your cards over so all can see.
+ante    - ante # will make you drop # coins for the ante.
+raise   - raise # will make you drop # coins to raise the bet.
+fold    - will fold your hand for current game.
+~
+S
+#3166
+Card Table- The Mystara~
+You are in a card room on the Mystara.  The room is filled with smoke from
+all the cigars that are burning.  There is a large round card table in the
+center of the room.  Eight chairs line the sides, each filled with a hard
+playing guest.  The Walls are covered with green wall paper, this might be
+the best room on the ship.  There is a huge lamp hanging from the ceiling,
+swaying slightly as the water goes by.  You ask one of the busy players, "How
+does this game work?", He snaps back, "Read the sign!".
+~
+65 524 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2132
+E
+sign card~
+HELP FOR PLAYING CARDS IN MEDIEVIA
+You can play any game that requires a standard deck of 52 cards and does
+not use a pile that must be drawn and put back to.
+Everyone follow one person, that person is automatically the dealer.
+Dealer Commands:
+shuffle           - takes all cards and shuffles the deck.
+showdeal(also sd) - deals cards FACE UP so all can see.
+hidedeal(alse hd) - deals cards to player so only player can see them.
+downdeal(also dd) - deals cards face DOWN so NO ONE can see them yet.
+ALL deal commands are in the form  command # player
+  (#=number cards   if player is not supplied, cards are dealt to all)
+Player Commands:
+cards   - shows you your cards.  cards a   will show everyones cards.
+discard - example  discard 7h Qs 10c etc etc...
+show    - turns all your cards over so all can see.
+ante    - ante # will make you drop # coins for the ante.
+raise   - raise # will make you drop # coins to raise the bet.
+fold    - will fold your hand for current game.
+~
+S
+#3173
+Slot Machine- The Mystara~
+You stand at a slot machine, on the Mystara.  The slot is tightly bolted
+to the floor, so it doesn't tip over, if the ship were to sway.  There is
+excitement in the air, as you think of putting a gold piece in the machine
+and testing your luck.  There is an old man in front of you, leaning over
+with a old cup of coins.  The room is busy, and needs a good cleaning.
+Item: Sign.
+~
+65 12 0 0
+0 0 0 0
+20 1000000 1000
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2133
+E
+sign~
+SLOTS SLOTS SLOTS SLOTS SLOTS SLOTS SLOTS SLOTS SLOTS SLOTS SLOTS SLOTS
+To either side of the hall are large Slot machines filling every corner
+of the rooms.  Medievia Slots are ALL different.  Walk around and
+type   odds   to see the odds, bet amount and jackpot for that room.
+To play type  pull.  All jackpots ARE saved in case of a restart.
+When you win, the money is dropped, to get it type get all.  Remember,
+walk around and find a room with the bet amount and odds you like, maybe
+you will be lucky and find a room with a LARGE jackpot waiting for you!
+~
+S
+#3174
+Slot Machine- The Mystara~
+You stand at a slot machine, on the Mystara.  The slot is tightly bolted
+to the floor, so it doesn't tip over, if the ship were to sway.  There is
+excitement in the air, as you think of putting a gold piece in the machine
+and testing your luck.  There is an old man in front of you, leaning over
+with a old cup of coins.  The room is busy, and needs a good cleaning.
+Item: Sign.
+~
+65 12 0 0
+0 0 0 0
+50 23000300 1200
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2133
+E
+sign~
+SLOTS SLOTS SLOTS SLOTS SLOTS SLOTS SLOTS SLOTS SLOTS SLOTS SLOTS SLOTS
+To either side of the hall are large Slot machines filling every corner
+of the rooms.  Medievia Slots are ALL different.  Walk around and
+type   odds   to see the odds, bet amount and jackpot for that room.
+To play type  pull.  All jackpots ARE saved in case of a restart.
+When you win, the money is dropped, to get it type get all.  Remember,
+walk around and find a room with the bet amount and odds you like, maybe
+you will be lucky and find a room with a LARGE jackpot waiting for you!
+~
+S
+#3347
+Hall of Privacy- The Mystara~
+This is the private hall, on the Mystara.  This hall is where patrons can
+come and be alone for awhile.  There are private rooms that can be used to
+relax in, or to take a short nap.  The hall has little light, for most
+passengers don't want to be seen.  You move to the side of the hall, as a
+smiling couple walks by.
+~
+65 8 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3348
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3554
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2127
+S
+#3348
+Hall of Privacy- The Mystara~
+This is the private hall, on the Mystara.  This hall is where patrons can
+come and be alone for awhile.  There are private rooms that can be used to
+relax in, or to take a short nap.  The hall has little light, for most
+passengers don't want to be seen.  You move to the side of the hall, as a
+smiling couple walks by.
+~
+65 8 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3458
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3347
+S
+#3359
+Hall of Privacy- The Mystara~
+This is the private hall, on the Mystara.  This hall is where patrons can
+come and be alone for awhile.  There are private rooms that can be used to
+relax in, or to take a short nap.  The hall has little light, for most
+passengers don't want to be seen.  You move to the side of the hall, as a
+smiling couple walks by.
+~
+65 8 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2127
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3557
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3422
+S
+#3422
+Hall of Privacy- The Mystara~
+This is the private hall, on the Mystara.  This hall is where patrons can
+come and be alone for awhile.  There are private rooms that can be used to
+relax in, or to take a short nap.  The hall has little light, for most
+passengers don't want to be seen.  You move to the side of the hall, as a
+smiling couple walks by.
+~
+65 8 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3359
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4255
+S
+#3458
+Private Suite- The Mystara~
+This is a private suite on the ship, Mystara.  This rooms is private and
+godproof, so you can be sure that you will be left alone.  The room is
+wonderfully designed, with floral design wall paper on the top half of the
+walls and polished wood on the bottom half.  There are chairs and a large
+daybed in the room.  To your left you see a small bar and many glasses.
+You wish you could stay in this room longer, as the voyage nears an end.
+~
+65 2572 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3348
+S
+#3554
+Private Suite- The Mystara~
+This is a private suite on the ship, Mystara.  This rooms is private and
+godproof, so you can be sure that you will be left alone.  The room is
+wonderfully designed, with floral design wall paper on the top half of the
+walls and polished wood on the bottom half.  There are chairs and a large
+daybed in the room.  To your left you see a small bar and many glasses.
+You wish you could stay in this room longer, as the voyage nears an end.
+~
+65 2572 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3347
+S
+#3557
+Private Suite- The Mystara~
+This is a private suite on the ship, Mystara.  This rooms is private and
+godproof, so you can be sure that you will be left alone.  The room is
+wonderfully designed, with floral design wall paper on the top half of the
+walls and polished wood on the bottom half.  There are chairs and a large
+daybed in the room.  To your left you see a small bar and many glasses.
+You wish you could stay in this room longer, as the voyage nears an end.
+~
+65 2572 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3359
+S
+#4255
+Private Suite- The Mystara~
+This is a private suite on the ship, Mystara.  This rooms is private and
+godproof, so you can be sure that you will be left alone.  The room is
+wonderfully designed, with floral design wall paper on the top half of the
+walls and polished wood on the bottom half.  There are chairs and a large
+daybed in the room.  To your left you see a small bar and many glasses.
+You wish you could stay in this room longer, as the voyage nears an end.
+~
+65 2572 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3422
+S
+#4256
+Before the Dance Hall~
+You are standing before the dance hall, on the Mystara.  This is were
+bored passengers can come and have fun dancing with friends and foes.
+The room is busy with excited people, waiting to be left in to dance.  You
+look around and look for a partner to take with you.  There is hardly any
+room to move, as you squeeze toward the door.
+~
+65 8 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4257
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4268
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2124
+S
+#4257
+Before the Dance Hall~
+You are standing before the dance hall, on the Mystara.  This is were
+bored passengers can come and have fun dancing with friends and foes.
+The room is busy with excited people, waiting to be left in to dance.  You
+look around and look for a partner to take with you.  There is hardly any
+room to move, as you squeeze toward the door.
+~
+65 8 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4266
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4256
+S
+#4258
+Before the Dining Area~
+You are standing before the dining area of the Mystara.  The room is filled
+with smells of the food contained in the next room.  You hope you can get
+ahold of some sea specialties.  You stand in a line waiting to get inside.
+The room is filled with hungry people, you hope a thief isn't standing
+behind you.
+~
+65 8 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2124
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4261
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4259
+S
+#4259
+Before the Dining Area~
+You are standing before the dining area of the Mystara.  The room is filled
+with smells of the food contained in the next room.  You hope you can get
+ahold of some sea specialties.  You stand in a line waiting to get inside.
+The room is filled with hungry people, you hope a thief isn't standing
+behind you.
+~
+65 8 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4258
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4260
+S
+#4260
+The Galley- The Mystara~
+You are in the galley of the Mystara.  This is where the food is prepared
+for the sailors and the passengers.  There are cooks lining the room, making
+sea dishes in large steaming pots.  The room is warm, and you feel that you
+are not wanted here.  You duck under a pot hanging from the ceiling, as you
+look around.
+~
+65 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4259
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4265
+S
+#4261
+Dining Area- The Mystara~
+You are in the dining area of the Mystara.  This is a large area with lines
+of tables and chairs for you to use.  To the side there is a line waiting
+to be served a meal.  The room is filled with noise, you hear screaming kids
+banging glasses and silverware, and loud mouth patrons.   The room is filled
+with a thick smoke, but you hear the food is good, so you stay.
+~
+65 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4258
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4262
+S
+#4262
+Dining Area- The Mystara~
+You are in the dining area of the Mystara.  This is a large area with lines
+of tables and chairs for you to use.  To the side there is a line waiting
+to be served a meal.  The room is filled with noise, you hear screaming kids
+banging glasses and silverware, and loud mouth patrons.   The room is filled
+with a thick smoke, but you hear the food is good, so you stay.
+~
+65 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4261
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4263
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4265
+S
+#4263
+Dining Area- The Mystara~
+You are in the dining area of the Mystara.  This is a large area with lines
+of tables and chairs for you to use.  To the side there is a line waiting
+to be served a meal.  The room is filled with noise, you hear screaming kids
+banging glasses and silverware, and loud mouth patrons.   The room is filled
+with a thick smoke, but you hear the food is good, so you stay.
+~
+65 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4262
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4264
+S
+#4264
+Dining Area- The Mystara~
+You are in the dining area of the Mystara.  This is a large area with lines
+of tables and chairs for you to use.  To the side there is a line waiting
+to be served a meal.  The room is filled with noise, you hear screaming kids
+banging glasses and silverware, and loud mouth patrons.   The room is filled
+with a thick smoke, but you hear the food is good, so you stay.
+~
+65 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4265
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4263
+S
+#4265
+Dining Area- The Mystara~
+You are in the dining area of the Mystara.  This is a large area with lines
+of tables and chairs for you to use.  To the side there is a line waiting
+to be served a meal.  The room is filled with noise, you hear screaming kids
+banging glasses and silverware, and loud mouth patrons.   The room is filled
+with a thick smoke, but you hear the food is good, so you stay.
+~
+65 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4260
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4262
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4264
+S
+#4266
+Dance Hall- The Mystara~
+This is the dance hall of the Mystara.  The room is filled with music and
+fun.  You look around and see many strangers having a good time on their
+trip.  The room is dim, but most of the passengers like it that way.  There
+are colorful lights sweeping the room.  As you turn around, you bump into
+an old friend.
+~
+65 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4257
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4267
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4268
+S
+#4267
+Dance Hall- The Mystara~
+This is the dance hall of the Mystara.  The room is filled with music and
+fun.  You look around and see many strangers having a good time on their
+trip.  The room is dim, but most of the passengers like it that way.  There
+are colorful lights sweeping the room.  As you turn around, you bump into
+an old friend.
+~
+65 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4266
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4269
+S
+#4268
+Dance Hall- The Mystara~
+This is the dance hall of the Mystara.  The room is filled with music and
+fun.  You look around and see many strangers having a good time on their
+trip.  The room is dim, but most of the passengers like it that way.  There
+are colorful lights sweeping the room.  As you turn around, you bump into
+an old friend.
+~
+65 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4256
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4266
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4269
+S
+#4269
+Dance Hall- The Mystara~
+This is the dance hall of the Mystara.  The room is filled with music and
+fun.  You look around and see many strangers having a good time on their
+trip.  The room is dim, but most of the passengers like it that way.  There
+are colorful lights sweeping the room.  As you turn around, you bump into
+an old friend.
+~
+65 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4268
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4267
+S
+#4270
+Below Deck Quarters- The Mystara~
+You are in a under-deck passageway in the Mystara.  This area is reserved
+for the crew's quarters.  The hall is made of well polished hard wood.
+There are brass railing on the walls, to help you if the ship sways during
+its voyages.  The ceiling is low, and you have to duck to pass under some
+of the crossbeams.  On the wall is a small brass oil lamp, there is one
+on alternating sides of the hall as far as you can see.
+~
+65 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4275
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4278
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2122
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4279
+S
+#4271
+Below Deck- The Mystara~
+You stand below deck on the mighty ship, Mystara. The floor is polished
+hardwood, and the walls are covered with green painted paneling.  The hall
+is just big enough for two or three people to pass. There are glass oil
+lamps on the walls every few feet.  You look down the hall and grab the
+brass rail, as you feel the ship sway.  The hall is busy, with many
+sailors and passengers walking by.
+~
+65 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2122
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4272
+S
+#4272
+Below Deck- The Mystara~
+You stand below deck on the mighty ship, Mystara. The floor is polished
+hardwood, and the walls are covered with green painted paneling.  The hall
+is just big enough for two or three people to pass. There are glass oil
+lamps on the walls every few feet.  You look down the hall and grab the
+brass rail, as you feel the ship sway.  The hall is busy, with many
+sailors and passengers walking by.
+~
+65 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4271
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4299
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4273
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4301
+S
+#4273
+Below Deck- The Mystara~
+You stand below deck on the mighty ship, Mystara. The floor is polished
+hardwood, and the walls are covered with green painted paneling.  The hall
+is just big enough for two or three people to pass. There are glass oil
+lamps on the walls every few feet.  You look down the hall and grab the
+brass rail, as you feel the ship sway.  The hall is busy, with many
+sailors and passengers walking by.
+~
+65 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4272
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4274
+S
+#4274
+Below Deck- The Mystara~
+You stand below deck on the mighty ship, Mystara. The floor is polished
+hardwood, and the walls are covered with green painted paneling.  The hall
+is just big enough for two or three people to pass. There are glass oil
+lamps on the walls every few feet.  You look down the hall and grab the
+brass rail, as you feel the ship sway.  The hall is busy, with many
+sailors and passengers walking by.
+~
+65 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4273
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4298
+S
+#4275
+Below Deck Quarters- The Mystara~
+You are in a under-deck passageway in the Mystara.  This area is reserved
+for the crew's quarters.  The hall is made of well polished hard wood.
+There are brass railing on the walls, to help you if the ship sways during
+its voyages.  The ceiling is low, and you have to duck to pass under some
+of the crossbeams.  On the wall is a small brass oil lamp, there is one
+on alternating sides of the hall as far as you can see.
+~
+65 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4276
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4270
+S
+#4276
+Below Deck Quarters- The Mystara~
+You are in a under-deck passageway in the Mystara.  This area is reserved
+for the crew's quarters.  The hall is made of well polished hard wood.
+There are brass railing on the walls, to help you if the ship sways during
+its voyages.  The ceiling is low, and you have to duck to pass under some
+of the crossbeams.  On the wall is a small brass oil lamp, there is one
+on alternating sides of the hall as far as you can see.
+~
+65 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4277
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4275
+S
+#4277
+Below Deck Quarters- The Mystara~
+You are in a under-deck passageway in the Mystara.  This area is reserved
+for the crew's quarters.  The hall is made of well polished hard wood.
+There are brass railing on the walls, to help you if the ship sways during
+its voyages.  The ceiling is low, and you have to duck to pass under some
+of the crossbeams.  On the wall is a small brass oil lamp, there is one
+on alternating sides of the hall as far as you can see.
+~
+65 8 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4290
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4276
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4292
+S
+#4278
+Below Deck Hallway- The Mystara~
+You are in a under-deck passageway in the Mystara.  This area is reserved
+for the crew's quarters.  The hall is made of well polished hard wood.
+There are brass railing on the walls, to help you if the ship sways during
+its voyages.  The ceiling is low, and you have to duck to pass under some
+of the crossbeams.  On the wall is a small brass oil lamp, there is one
+on alternating sides of the hall as far as you can see.
+~
+65 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4286
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4280
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4287
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4270
+S
+#4279
+Below Deck Hallway- The Mystara~
+You are in a under-deck passageway in the Mystara.  This area is reserved
+for the crew's quarters.  The hall is made of well polished hard wood.
+There are brass railing on the walls, to help you if the ship sways during
+its voyages.  The ceiling is low, and you have to duck to pass under some
+of the crossbeams.  On the wall is a small brass oil lamp, there is one
+on alternating sides of the hall as far as you can see.
+~
+65 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4284
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4270
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4285
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4281
+S
+#4280
+Below Deck Hallway- The Mystara~
+You are standing in a hallway, below deck on the Mystara.  This hall contains
+the quarters of the ships most valuable passengers.  The hallway is dimly
+lite, but clean and well decorated.  There is a small green lamp on a secured
+stand to your left.  The walls are trimmed with polished brass hand rails.
+As you walk down the slightly swaying hall, you examine the portraits of old
+sailing heros.
+~
+65 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4288
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4289
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4278
+S
+#4281
+Below Deck Hallway- The Mystara~
+You are in a under-deck passageway in the Mystara.  This area is reserved
+for the crew's quarters.  The hall is made of well polished hard wood.
+There are brass railing on the walls, to help you if the ship sways during
+its voyages.  The ceiling is low, and you have to duck to pass under some
+of the crossbeams.  On the wall is a small brass oil lamp, there is one
+on alternating sides of the hall as far as you can see.
+~
+65 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4282
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4279
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4283
+S
+#4282
+Sailor's Quarters~
+You stand in the sailor's quarters on the Mystara.  This room houses the
+crew of the ship.  There are bunkbeds set up in various locations around
+the room.  The room is messy, there are clothing and papers thrown everywhere.
+A small light on the desk is the only light in this chilled room.  You
+hope you aren't invading their privacy.
+~
+65 8 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4281
+S
+#4283
+Sailor's Quarters~
+You stand in the sailor's quarters on the Mystara.  This room houses the
+crew of the ship.  There are bunkbeds set up in various locations around
+the room.  The room is messy, there are clothing and papers thrown everywhere.
+A small light on the desk is the only light in this chilled room.  You
+hope you aren't invading their privacy.
+~
+65 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4281
+S
+#4284
+Sailors Quarters~
+You stand in the sailor's quarters on the Mystara.  This room houses the
+crew of the ship.  There are bunkbeds set up in various locations around
+the room.  The room is messy, there are clothing and papers thrown everywhere.
+A small light on the desk is the only light in this chilled room.  You
+hope you aren't invading their privacy.
+~
+65 8 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4279
+S
+#4285
+Sailors Quarters~
+You stand in the sailor's quarters on the Mystara.  This room houses the
+crew of the ship.  There are bunkbeds set up in various locations around
+the room.  The room is messy, there are clothing and papers thrown everywhere.
+A small light on the desk is the only light in this chilled room.  You
+hope you aren't invading their privacy.
+~
+65 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4279
+S
+#4286
+Guest Quarters~
+You are standing in guest quarters on the Mystara.  The quarters are rented
+to passengers to make their stay on the ship a more enjoyable one.  You
+look around the room and see a simple desk and chair, and a well kept cot.
+There is a small throw rug in the center of the room, with a patch-work
+design.  In the corner there is a floor oil lamp, burning away.
+~
+65 8 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4278
+S
+#4287
+Guest Quarters~
+You are standing in guest quarters on the Mystara.  The quarters are rented
+to passengers to make their stay on the ship a more enjoyable one.  You
+look around the room and see a simple desk and chair, and a well kept cot.
+There is a small throw rug in the center of the room, with a patch-work
+design.  In the corner there is a floor oil lamp, burning away.
+~
+65 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4278
+S
+#4288
+Guest Quarters~
+You are standing in guest quarters on the Mystara.  The quarters are rented
+to passengers to make their stay on the ship a more enjoyable one.  You
+look around the room and see a simple desk and chair, and a well kept cot.
+There is a small throw rug in the center of the room, with a patch-work
+design.  In the corner there is a floor oil lamp, burning away.
+~
+65 8 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4280
+S
+#4289
+Guest Quarters~
+You are standing in guest quarters on the Mystara.  The quarters are rented
+to passengers to make their stay on the ship a more enjoyable one.  You
+look around the room and see a simple desk and chair, and a well kept cot.
+There is a small throw rug in the center of the room, with a patch-work
+design.  In the corner there is a floor oil lamp, burning away.
+~
+65 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4280
+S
+#4290
+Below Deck Hallway- The Mystara~
+You are standing in a hallway, below deck on the Mystara.  This hall contains
+the quarters of the ships most valuable passengers.  The hallway is dimly
+lit, but clean and well decorated.  There is a small green lamp on a secured
+stand to your left.  The walls are trimmed with polished brass hand rails.
+As you walk down the slightly swaying hall, you examine the portraits of old
+sailing heros.
+~
+65 8 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4291
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4294
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4277
+S
+#4291
+Below Deck Hallway- The Mystara~
+You are standing in a hallway, below deck on the Mystara.  This hall contains
+the quarters of the ships most valuable passengers.  The hallway is dimly
+lit, but clean and well decorated.  There is a small green lamp on a secured
+stand to your left.  The walls are trimmed with polished brass hand rails.
+As you walk down the slightly swaying hall, you examine the portraits of old
+sailing heros.
+~
+65 8 0 0
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4290
+S
+#4292
+Below Deck Hallway- The Mystara~
+You are standing in a hallway, below deck on the Mystara.  This hall contains
+the quarters of the ships most valuable passengers.  The hallway is dimly
+lit, but clean and well decorated.  There is a small green lamp on a secured
+stand to your left.  The walls are trimmed with polished brass hand rails.
+As you walk down the slightly swaying hall, you examine the portraits of old
+sailing heros.
+~
+65 8 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4277
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4296
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4293
+S
+#4293
+Below Deck Hallway- The Mystara~
+You are standing in a hallway, below deck on the Mystara.  This hall contains
+the quarters of the ships most valuable passengers.  The hallway is dimly
+lit, but clean and well decorated.  There is a small green lamp on a secured
+stand to your left.  The walls are trimmed with polished brass hand rails.
+As you walk down the slightly swaying hall, you examine the portraits of old
+sailing heros.
+~
+65 8 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4292
+S
+#4294
+VIP Private Sitting Room~
+This is the VIP's private sitting room. This is where the most important
+guest of the Mystara resides, and chats.  The room is very well kept, with
+many padded wooden chairs lining the walls.  To your left is a small bar,
+loaded with drinks and glasses, ready to be served.  In the center of the
+room is a large, well used table, covered with the residents work.
+~
+65 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4290
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4295
+S
+#4295
+VIP Quarters~
+You are standing in the VIP's private quarters. The room has hard wood
+floors and green painted walls.  There is a large desk to the side of the
+room, shut and locked.  You can see the sea through the portal in the
+wall of the Mystara.  The bed is made of down, and has a large wool
+patch comforter lying on it.  The room feels cool, and has a relaxed
+feel about it.
+~
+65 8 0 0
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4294
+S
+#4296
+First Mate's Sitting Room~
+You are standing in the first mate's sitting room.  This room is for private
+meetings with the first mate's guests.  There are three padded wooden benches
+placed in a group in the center of the room.  On the table between the
+benches, there are copies of the mate's favorite books. Two brass lamps
+line the walls, along with a picture of the mate's wife and family.
+~
+65 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4292
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4297
+S
+#4297
+First Mate's Quarters~
+You stand in the first mate's quarters.  These well kept rooms house an
+important member of the crew.  The room is lite by an oil lamp on the oak
+desk, by the portal.  You look through the portal and see the blue water
+wash up against the side of the mighty ship.  Around the room, you see
+well used chairs and a large bed.  The first mate's log is lying on his
+desk.
+~
+65 8 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4296
+E
+log~
+The first mate's log is here, gathering dust
+~
+S
+#4298
+Closet~
+This is an old closet of the Mystara. The closet is large, but is dark
+therefore it is hard to see.  You see old metal buckets and mops that
+have been used one too many times.  There are old clothes and other
+cleaning equiptment lying around.  You would not want to be locked in
+this room for long.
+~
+65 9 0 0
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4274
+S
+#4299
+Below Deck- The Mystara~
+You stand below deck on the mighty ship, Mystara. The floor is polished
+hardwood, and the walls are covered with green painted paneling.  The hall
+is just big enough for two or three people to pass. There are glass oil
+lamps on the walls every few feet.  You look down the hall and grab the
+brass rail, as you feel the ship sway.  The hall is busy, with many
+sailors and passengers walking by.
+~
+65 8 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4300
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4303
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4272
+S
+#4300
+Below Deck- The Mystara~
+You stand below deck on the mighty ship, Mystara. The floor is polished
+hardwood, and the walls are covered with green painted paneling.  The hall
+is just big enough for two or three people to pass. There are glass oil
+lamps on the walls every few feet.  You look down the hall and grab the
+brass rail, as you feel the ship sway.  The hall is busy, with many
+sailors and passengers walking by.
+~
+65 8 0 0
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4299
+S
+#4301
+Below Deck- The Mystara~
+You stand below deck on the mighty ship, Mystara. The floor is polished
+hardwood, and the walls are covered with green painted paneling.  The hall
+is just big enough for two or three people to pass. There are glass oil
+lamps on the walls every few feet.  You look down the hall and grab the
+brass rail, as you feel the ship sway.  The hall is busy, with many
+sailors and passengers walking by.
+~
+65 8 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4272
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4305
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4302
+S
+#4302
+Below Deck- The Mystara~
+You stand below deck on the mighty ship, Mystara. The floor is polished
+hardwood, and the walls are covered with green painted paneling.  The hall
+is just big enough for two or three people to pass. There are glass oil
+lamps on the walls every few feet.  You look down the hall and grab the
+brass rail, as you feel the ship sway.  The hall is busy, with many
+sailors and passengers walking by.
+~
+65 8 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4301
+S
+#4303
+Storage Room~
+You are standing in the storage room on the Mystara.  The room is filled with
+stable supplies needed for the trip.  There are various shapes and sizes of
+barrels around, filled with supplies.  The room is very dim and humid.
+A busy sailor scurrys by, carying a handfull of rope.
+~
+65 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4299
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4304
+S
+#4304
+Storage Room~
+You are standing in the storage room on the Mystara.  The room is filled with
+stable supplies needed for the trip.  There are various shapes and sizes of
+barrels around, filled with supplies.  The room is very dim and humid.
+A busy sailor scurrys by, carying a handfull of rope.
+~
+65 8 0 0
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4303
+S
+#4305
+Maintenance Area~
+This is the maintenance area of the mighty Mystara. This room isn't as well
+kept as the rest of the ship. The walls are made of old splintered planks
+and the floor is covered with dust.  There is equipment needed to fix the
+ship, along with replacement sails and wood, to fix anything that might
+go wrong during a voyage.  There is an old man walking around here, trying
+to look busy.
+~
+65 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4301
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4306
+S
+#4306
+Maintenance Area~
+This is the maintenance area of the mighty Mystara. This room isn't as well
+kept as the rest of the ship. The walls are made of old splintered planks
+and the floor is covered with dust.  There is equipment needed to fix the
+ship, along with replacement sails and wood, to fix anything that might
+go wrong during a voyage.  There is an old man walking around here, trying
+to look busy.
+~
+65 8 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4305
+S
+#4307
+Slot Machine- The Mystara~
+You stand at a slot machine, on the Mystara.  The slot is tightly bolted
+to the floor, so it doesn't tip over, if the ship were to sway.  There is
+excitement in the air, as you think of putting a gold piece in the machine
+and testing your luck.  There is an old man in front of you, leaning over
+with a old cup of coins.  The room is busy, and needs a good cleaning.
+Item: Sign.
+~
+65 12 0 0
+0 0 0 0
+25 8000000 800
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2134
+E
+sign~
+SLOTS SLOTS SLOTS SLOTS SLOTS SLOTS SLOTS SLOTS SLOTS SLOTS SLOTS SLOTS
+To either side of the hall are large Slot machines filling every corner
+of the rooms.  Medievia Slots are ALL different.  Walk around and
+type   odds   to see the odds, bet amount and jackpot for that room.
+To play type  pull.  All jackpots ARE saved in case of a restart.
+When you win, the money is dropped, to get it type get all.  Remember,
+walk around and find a room with the bet amount and odds you like, maybe
+you will be lucky and find a room with a LARGE jackpot waiting for you!
+~
+S
+#4308
+Slot Machine- The Mystara~
+You stand at a slot machine, on the Mystara.  The slot is tightly bolted
+to the floor, so it doesn't tip over, if the ship were to sway.  There is
+excitement in the air, as you think of putting a gold piece in the machine
+and testing your luck.  There is an old man in front of you, leaning over
+with a old cup of coins.  The room is busy, and needs a good cleaning.
+Item: Sign.
+~
+65 12 0 0
+0 0 0 0
+4 0 1500
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2134
+E
+sign~
+SLOTS SLOTS SLOTS SLOTS SLOTS SLOTS SLOTS SLOTS SLOTS SLOTS SLOTS SLOTS
+To either side of the hall are large Slot machines filling every corner
+of the rooms.  Medievia Slots are ALL different.  Walk around and
+type   odds   to see the odds, bet amount and jackpot for that room.
+To play type  pull.  All jackpots ARE saved in case of a restart.
+When you win, the money is dropped, to get it type get all.  Remember,
+walk around and find a room with the bet amount and odds you like, maybe
+you will be lucky and find a room with a LARGE jackpot waiting for you!
+~
+S
+#4311
+Polished Hall~
+You are standing in the polished hall on the Mystara.  The hall connects
+the outer ship with the store and captain's area.  The hall is filled with
+cool salty air, and there is a calm wind blowing.  The hall is bare, with
+only the polished floor and brass railings.  The only light this hall has
+is from the connecting rooms and from the rest of the ship outside.
+~
+65 8 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2117
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4313
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4312
+S
+#4312
+Polished Hall~
+You are standing in the polished hall on the Mystara.  The hall connects
+the outer ship with the store and captain's area.  The hall is filled with
+cool salty air, and there is a calm wind blowing.  The hall is bare, with
+only the polished floor and brass railings.  The only light this hall has
+is from the connecting rooms and from the rest of the ship outside.
+~
+65 8 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4311
+D2
+ ~
+door~
+ ~
+ ~
+1 -1 4315
+S
+#4313
+One-Eyed Bill's Stable Store and Saloon~
+You stand in One-eyed Bill's stable store and saloon.  Here you can have a
+cold drink or grab some supplies.  There is a long bar on the one side of
+the room and the other wall is covered with shelves filled with supplies.
+The room is dark and cool.  As you gaze at the patrons, you jump back
+as Bill runs by.  You look down the bar, and see people from all types of
+backgrounds, from labors to thieves.  You turn and see someone wink in
+your direction.
+~
+65 1032 1 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4314
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4311
+E
+bar walls~
+The bar is made of finely crafted hard wood.  Bill is standing behind it
+waiting to serve your every need.  On the wall there are every supply
+that you might need in your journey.
+~
+S
+#4314
+One-Eyed Bill's Stable Store and Saloon~
+You stand in One-eyed Bill's stable store and saloon.  Here you can have a
+cold drink or grab some supplies.  There is a long bar on the one side of
+the room and the other wall is covered with shelves filled with supplies.
+The room is dark and cool.  As you gaze at the patrons, you jump back
+as Bill runs by.
+~
+65 8 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4313
+S
+#4315
+Captain's Ready Room~
+The is the Captain's ready room.  This is the the meeting room for the
+captain and his crew.  In the center of the room is a large table,
+surrounded by chairs.  There is a large pile of papers and maps lying
+on the top of the table.  The room is always kept quiet, for many
+important decisions are made here.
+~
+65 8 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+door~
+ ~
+ ~
+1 -1 4312
+D3
+ ~
+door~
+ ~
+ ~
+1 -1 4316
+E
+table ready~
+A huge table, where many important decisions have been made.  There are
+chairs surrounding the table.
+~
+S
+#4316
+Captain's Private Living Area~
+You are standing in the Captain's private living area.  The room is bright
+and has a soft white glow about it.  There is a polar bear skin on the floor
+in the center.  A table to your side contains the Captain's favorite books.
+The walls are painted white, and the floor is a soft polished hard wood.
+There are many padded chairs around the room, waiting to be used.
+~
+65 8 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4317
+D1
+ ~
+door~
+ ~
+ ~
+1 -1 4315
+E
+skin rug floor~
+The floor is covered with a antique bear skin rug, it lights up the room.
+~
+S
+#4317
+Captain's Private Bar and Lounge~
+You are in the Captain's private bar and lounge.  This is where the captain
+visits with guests and fellow shipmates.  There is a large bar here, with
+soft stools standing in front.  Behind the bar are liquors from many lands,
+one from everywhere the ship has visited.  There is also a large sofa
+and chair area, ready to be relaxed in.
+~
+65 8 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4318
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4316
+E
+bar liquor~
+A finely crafted bar, surrounded with drinks from around the world.
+~
+S
+#4318
+Captain's Private Quarters~
+You are standing in the Captain's private quarters.  This is where the
+captain can come and be alone.  The captain's log and sleeping area
+are here.  There is a large desk in the corner, by the portal.  The
+room is kept clean, and has a large throw rug in the center.  You look
+on the wall and see a picture of the captain's favorite sailors.
+~
+65 8 1 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4317
+E
+log~
+Captain Asterius's private log is here, gathering dust.
+~
+E
+rug~
+A wonderful oriental throw rug, is in the center of the room.
+~
+E
+picture~
+You are looking at a picture of captain Asterius's favorite sailors.  These
+sailors are previous members of his crew.
+~
+S
+#4319
+Main Deck- Port~
+You are on the main deck of the Mystara, on the port side.  From this side,
+you can look out into the great ocean and watch the world go by.  You stand
+waiting for a sunset.  The deck of this grand ship is well kept, and is
+being swabbed by a sailor, as you watch.  The deck is large, you patiently
+await the end of your voyage.
+~
+65 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 19015
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4320
+S
+#4320
+Ladder to the Captain's Deck~
+This is the ladder leading to the captain's deck.  The captain's deck
+is the deck where the captain commands and steers the Mystara.  He can
+be found there, when he is on duty.  When he is off, the first mate
+takes his place.  The ladder is made of glossed wood, it looks very
+old from the many years of use it has recieved.  You listen close and
+hear the captain scream out an order, you get the feeling that you
+are not wanted on his deck.
+~
+65 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2115
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4330
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4319
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 4321
+S
+#4321
+Entrance to the Captain's Deck- Port~
+You are standing on the entrance to the captain's deck.  The captain's deck
+is where all the important decisions of the ship are made.  The captain is
+in the center of the deck, yelling out orders to all his crew.  You try
+to stay out of the way, as a worried looking sailor runs by.  The swaying
+of the sea is starting to get to you, you feel a little sick.
+~
+65 0 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4322
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4324
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 4320
+S
+#4322
+Captain's Deck- The Mystara~
+You are standing on the Captain's deck of the Mystara.  The captain is here
+screaming at the crew to get to work.  The crew is running around, never
+able to please the captain.  There are sailors swabbing the deck around
+the captain.  You can see everything on the ship from here.  You hear the
+captain yell that the wind is changing, and you duck under the sail.
+~
+65 0 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4323
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4326
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4321
+S
+#4323
+Entrance to the Captain's Deck- Starboard~
+You are standing on the entrance to the captain's deck.  The captain's deck
+is where all the important decisions of the ship are made.  The captain is
+in the center of the deck, yelling out orders to all his crew.  You try
+to stay out of the way, as a worried looking sailor runs by.  The swaying
+of the sea is starting to get to you, you feel a little sick.
+~
+65 0 1 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4328
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4322
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 4343
+S
+#4324
+Captain's Deck- The Mystara~
+You are standing on the Captain's deck of the Mystara.  The captain is here
+screaming at the crew to get to work.  The crew is running around, never
+able to please the captain.  There are sailors swabbing the deck around
+the captain.  You can see everything on the ship from here.  You hear the
+captain yell that the wind is changing, and you duck under the sail.
+~
+65 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4321
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4326
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4325
+S
+#4325
+Captain's Deck- The Mystara~
+You are standing on the Captain's deck of the Mystara.  The captain is here
+screaming at the crew to get to work.  The crew is running around, never
+able to please the captain.  There are sailors swabbing the deck around
+the captain.  You can see everything on the ship from here.  You hear the
+captain yell that the wind is changing, and you duck under the sail.
+~
+65 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4324
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4327
+S
+#4326
+Center of the Captain's Deck- The Mystara~
+You are standing on the Captain's deck of the Mystara.  The captain is here
+screaming at the crew to get to work.  The crew is running around, never
+able to please the captain.  There are sailors swabbing the deck around
+the captain.  You can see everything on the ship from here.  You hear the
+captain yell that the wind is changing, and you duck under the sail.
+~
+65 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4322
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4328
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4327
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4324
+S
+#4327
+Captain's Deck- The Mystara~
+You are standing on the Captain's deck of the Mystara.  The captain is here
+screaming at the crew to get to work.  The crew is running around, never
+able to please the captain.  There are sailors swabbing the deck around
+the captain.  You can see everything on the ship from here.  You hear the
+captain yell that the wind is changing, and you duck under the sail.
+~
+65 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4326
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4329
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4325
+S
+#4328
+Captain's Deck- The Mystara~
+ ~
+65 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4323
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4329
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4326
+S
+#4329
+Captain's Deck- The Mystara~
+You are standing on the Captain's deck of the Mystara.  The captain is here
+screaming at the crew to get to work.  The crew is running around, never
+able to please the captain.  There are sailors swabbing the deck around
+the captain.  You can see everything on the ship from here.  You hear the
+captain yell that the wind is changing, and you duck under the sail.
+~
+65 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4328
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4327
+S
+#4330
+Main Deck- Port~
+You are on the main deck of the Mystara, on the port side.  From this side,
+you can look out into the great ocean and watch the world go by.  You stand
+waiting for a sunset.  The deck of this grand ship is well kept, and is
+being swabbed by a sailor, as you watch.  The deck is large, you patiently
+await the end of your voyage.
+~
+65 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4320
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4331
+S
+#4331
+Main Deck- Port~
+You are on the main deck of the Mystara, on the port side.  From this side,
+you can look out into the great ocean and watch the world go by.  You stand
+waiting for a sunset.  The deck of this grand ship is well kept, and is
+being swabbed by a sailor, as you watch.  The deck is large, you patiently
+await the end of your voyage.
+~
+65 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4330
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4332
+S
+#4332
+Main Deck- Port~
+You are on the main deck of the Mystara, on the port side.  From this side,
+you can look out into the great ocean and watch the world go by.  You stand
+waiting for a sunset.  The deck of this grand ship is well kept, and is
+being swabbed by a sailor, as you watch.  The deck is large, you patiently
+await the end of your voyage.
+~
+65 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4331
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4333
+S
+#4333
+Main Deck- The Mystara~
+You are standing on the main deck on the Mystara. The ship is made of
+wooden planks and beams. You can look out into the great ocean, and
+feel the salty- ocean spray blow against your face. The deck
+is filled with busy sailors and passangers calmly waiting out
+their trip. The huge sail is flying about your head, whipping in
+the wind.
+~
+65 0 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4334
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4337
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4332
+S
+#4334
+Stern Mast- The Mystara~
+This is the stern mast of the mighty Mystara.  The mast is a hug wooden
+structure, with many supports holding it into place.  The mast looks well
+worn from many years and storms, but seems to remain sturdy, and is the
+most visible part of the ship.  You look up the mast and almost fall over,
+because you can barely see to the top.
+~
+65 0 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4335
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4338
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4333
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 4513
+S
+#4335
+Main Deck- The Mystara~
+You are standing on the main deck on the Mystara. The ship is made of
+wooden planks and beams. You can look out into the great ocean, and
+feel the salty- ocean spray blow against your face. The deck
+is filled with busy sailors and passangers calmly waiting out
+their trip. The huge sail is flying about your head, whipping in
+the wind.
+~
+65 0 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4336
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4340
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4334
+S
+#4336
+Main Deck- Starboard~
+You are standing on the main deck of the Mystara, on the starboard side.
+The large wooded deck is well cleaned, but is heavily used by the many
+passengers.  You lean up against the side of the ship and read your
+paper.  You gaze out into the sea and try to solve all the worlds
+problems.
+~
+65 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4341
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4335
+S
+#4337
+Stern- The Mystara~
+You are standing on the stern of the Mystara.  From this point, you can look
+back and see the sea flow by.  The water is calm, with slightipples every
+few feet.  You lead up against the side of the ship, and stare down at the
+water.  There is a small speck out in the distance, you try to decided if
+it is land, or a foe ship, waiting to take over this one.
+~
+65 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4333
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4338
+S
+#4338
+Main Deck- The Mystara~
+You are standing on the main deck on the Mystara. The ship is made of
+wooden planks and beams. You can look out into the great ocean, and
+feel the salty- ocean spray blow against your face. The deck
+is filled with busy sailors and passangers calmly waiting out
+their trip. The huge sail is flying about your head, whipping in
+the wind.
+~
+65 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4334
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4340
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4339
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4337
+S
+#4339
+Stern- The Mystara~
+You are standing on the stern of the Mystara.  From this point, you can look
+back and see the sea flow by.  The water is calm, with slightipples every
+few feet.  You lead up against the side of the ship, and stare down at the
+water.  There is a small speck out in the distance, you try to decided if
+it is land, or a foe ship, waiting to take over this one.
+~
+65 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4338
+S
+#4340
+Stern- The Mystara~
+You are standing on the stern of the Mystara.  From this point, you can look
+back and see the sea flow by.  The water is calm, with slightipples every
+few feet.  You lead up against the side of the ship, and stare down at the
+water.  There is a small speck out in the distance, you try to decided if
+it is land, or a foe ship, waiting to take over this one.
+~
+65 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4335
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4338
+S
+#4341
+Main Deck- Starboard~
+You are standing on the main deck of the Mystara, on the starboard side.
+The large wooded deck is well cleaned, but is heavily used by the many
+passengers.  You lean up against the side of the ship and read your
+paper.  You gaze out into the sea and try to solve all the worlds
+problems.
+~
+65 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4342
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4336
+S
+#4342
+Main Deck- Starboard~
+You are standing on the main deck of the Mystara, on the starboard side.
+The large wooded deck is well cleaned, but is heavily used by the many
+passengers.  You lean up against the side of the ship and read your
+paper.  You gaze out into the sea and try to solve all the worlds
+problems.
+~
+65 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4343
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4341
+S
+#4343
+Ladder to the Captain's Deck~
+This is the ladder leading to the captain's deck.  The captain's deck
+is the deck where the captain commands and steers the Mystara.  He can
+be found there, when he is on duty.  When he is off, the first mate
+takes his place.  The ladder is made of glossed wood, it looks very
+old from the many years of use it has recieved.  You listen close and
+hear the captain scream out an order, you get the feeling that you
+are not wanted on his deck.
+~
+65 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2119
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4344
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4342
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 4323
+S
+#4344
+Main Deck- Starboard~
+You are standing on the main deck of the Mystara, on the starboard side.
+The large wooded deck is well cleaned, but is heavily used by the many
+passengers.  You lean up against the side of the ship and read your
+paper.  You gaze out into the sea and try to solve all the worlds
+problems.
+~
+65 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2120
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4343
+S
+#4345
+Main Deck- The Mystara~
+You are standing on the main deck on the Mystara. The ship is made of
+wooden planks and beams. You can look out into the great ocean, and
+feel the salty- ocean spray blow against your face. The deck
+is filled with busy sailors and passangers calmly waiting out
+their trip. The huge sail is flying about your head, whipping in
+the wind.
+~
+65 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4346
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4357
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2117
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4353
+S
+#4346
+Bow Mast- The Mystara~
+This is the bow mast of the mighty Mystara.  The mast is a huge wooden
+structure, with many supports holding it into place.  The mast looks well
+worn from many years and storms, but seems to remain sturdy, and is the
+most visible part of the ship.  You look up the mast and almost fall over,
+because you can barely see to the top.
+~
+65 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4347
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4358
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4345
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4354
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 4516
+S
+#4347
+Main Deck- The Mystara~
+You are standing on the main deck on the Mystara. The ship is made of
+wooden planks and beams. You can look out into the great ocean, and
+feel the salty- ocean spray blow against your face. The deck
+is filled with busy sailors and passangers calmly waiting out
+their trip. The huge sail is flying about your head, whipping in
+the wind.
+~
+65 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4348
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4359
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4346
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4355
+S
+#4348
+Main Deck- The Mystara~
+You are standing on the main deck on the Mystara. The ship is made of
+wooden planks and beams. You can look out into the great ocean, and
+feel the salty- ocean spray blow against your face. The deck
+is filled with busy sailors and passangers calmly waiting out
+their trip. The huge sail is flying about your head, whipping in
+the wind.
+~
+65 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4349
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4360
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4347
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4356
+S
+#4349
+Bow- The Mystara~
+You are standing on the bow of the Mystara.  You can look off the ship and
+see directly into the blue waters.   There is a sea gull sitting on the
+rail of the ship, waiting for a snack.  You lean up against the rail and
+watch the world pass by.  The deck is made of clean, dark stained hard
+wood.  You stand here, trying to stay out of the way of the sailors, who
+seem to not want you here.
+~
+65 0 1 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4348
+S
+#4350
+Main Deck- Port~
+You are on the main deck of the Mystara, on the port side.  From this side,
+you can look out into the great ocean and watch the world go by.  You stand
+waiting for a sunset.  The deck of this grand ship is well kept, and is
+being swabbed by a sailor, as you watch.  The deck is large, you patiently
+await the end of your voyage.
+~
+65 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4351
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4353
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2115
+S
+#4351
+Main Deck- Port~
+You are on the main deck of the Mystara, on the port side.  From this side,
+you can look out into the great ocean and watch the world go by.  You stand
+waiting for a sunset.  The deck of this grand ship is well kept, and is
+being swabbed by a sailor, as you watch.  The deck is large, you patiently
+await the end of your voyage.
+~
+65 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4352
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4354
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4350
+S
+#4352
+Main Deck- Port~
+You are on the main deck of the Mystara, on the port side.  From this side,
+you can look out into the great ocean and watch the world go by.  You stand
+waiting for a sunset.  The deck of this grand ship is well kept, and is
+being swabbed by a sailor, as you watch.  The deck is large, you patiently
+await the end of your voyage.
+~
+65 0 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4355
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4351
+S
+#4353
+Main Deck- The Mystara~
+You are standing on the main deck on the Mystara. The ship is made of
+wooden planks and beams. You can look out into the great ocean, and
+feel the salty- ocean spray blow against your face. The deck
+is filled with busy sailors and passangers calmly waiting out
+their trip. The huge sail is flying about your head, whipping in
+the wind.
+~
+65 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4354
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4345
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2116
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4350
+S
+#4354
+Main Deck- The Mystara~
+You are standing on the main deck on the Mystara. The ship is made of
+wooden planks and beams. You can look out into the great ocean, and
+feel the salty- ocean spray blow against your face. The deck
+is filled with busy sailors and passangers calmly waiting out
+their trip. The huge sail is flying about your head, whipping in
+the wind.
+~
+65 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4355
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4346
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4353
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4351
+S
+#4355
+Main Deck- The Mystara~
+You are standing on the main deck on the Mystara. The ship is made of
+wooden planks and beams. You can look out into the great ocean, and
+feel the salty- ocean spray blow against your face. The deck
+is filled with busy sailors and passangers calmly waiting out
+their trip. The huge sail is flying about your head, whipping in
+the wind.
+~
+65 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4356
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4347
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4354
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4352
+S
+#4356
+Bow- The Mystara~
+You are standing on the bow of the Mystara.  You can look off the ship and
+see directly into the blue waters.   There is a sea gull sitting on the
+rail of the ship, waiting for a snack.  You lean up against the rail and
+watch the world pass by.  The deck is made of clean, dark stained hard
+wood.  You stand here, trying to stay out of the way of the sailors, who
+seem to not want you here.
+~
+65 0 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4348
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4355
+S
+#4357
+Main Deck- The Mystara~
+You are standing on the main deck on the Mystara. The ship is made of
+wooden planks and beams. You can look out into the great ocean, and
+feel the salty- ocean spray blow against your face. The deck
+is filled with busy sailors and passangers calmly waiting out
+their trip. The huge sail is flying about your head, whipping in
+the wind.
+~
+65 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4358
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4361
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2118
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4345
+S
+#4358
+Main Deck- The Mystara~
+You are standing on the main deck on the Mystara. The ship is made of
+wooden planks and beams. You can look out into the great ocean, and
+feel the salty- ocean spray blow against your face. The deck
+is filled with busy sailors and passangers calmly waiting out
+their trip. The huge sail is flying about your head, whipping in
+the wind.
+~
+65 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4359
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4362
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4357
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4346
+S
+#4359
+Main Deck- The Mystara~
+You are standing on the main deck on the Mystara. The ship is made of
+wooden planks and beams. You can look out into the great ocean, and
+feel the salty- ocean spray blow against your face. The deck
+is filled with busy sailors and passangers calmly waiting out
+their trip. The huge sail is flying about your head, whipping in
+the wind.
+~
+65 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4360
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4363
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4358
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4347
+S
+#4360
+Bow- The Mystara~
+You are standing on the bow of the Mystara.  You can look off the ship and
+see directly into the blue waters.   There is a sea gull sitting on the
+rail of the ship, waiting for a snack.  You lean up against the rail and
+watch the world pass by.  The deck is made of clean, dark stained hard
+wood.  You stand here, trying to stay out of the way of the sailors, who
+seem to not want you here.
+~
+65 0 1 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4359
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4348
+S
+#4361
+Main Deck- Starboard~
+You are standing on the main deck on the Mystara.  The ship is made of
+wooden planks and beams.  You can look out into the great ocean, and
+feal the salty-warm ocean spray blow against your face.   The deck
+is filled with busy sailors and and passengers calmly waiting out
+their trip.  The huge sail is flying about your head, whipping in
+the wind.
+~
+65 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4362
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2119
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4357
+S
+#4362
+Main Deck- Starboard~
+You are standing on the main deck of the Mystara, on the starboard side.
+The large wooded deck is well cleaned, but is heavily used by the many
+passengers.  You lean up against the side of the ship and read your
+paper.  You gaze out into the sea and try to solve all the worlds
+problems.
+~
+65 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4363
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4361
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4358
+S
+#4363
+Main Deck- Starboard~
+You are standing on the main deck of the Mystara, on the starboard side.
+The large wooded deck is well cleaned, but is heavily used by the many
+passengers.  You lean up against the side of the ship and read your
+paper.  You gaze out into the sea and try to solve all the worlds
+problems.
+~
+65 0 1 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4362
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4359
+S
+#4513
+On the mast~
+You are climbing up the mast of the Mystara.  You can barely get your legs
+around the large wooden pole.  The pole is smooth, but you are careful of
+splinters.  You continue to venture up, fore you are afraid to look down.
+You seem to be the only one trying to craw up this mast, except for the
+sailors, you might want to jump down as soon as you can.
+~
+65 0 1 0
+0 0 0 0
+20 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 4514
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 4334
+S
+#4514
+On the mast~
+You are climbing up the mast of the Mystara.  You can barely get your legs
+around the large wooden pole.  The pole is smooth, but you are careful of
+splinters.  You continue to venture up, fore you are afraid to look down.
+You seem to be the only one trying to craw up this mast, except for the
+sailors, you might want to jump down as soon as you can.
+~
+65 0 1 0
+0 0 0 0
+20 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 4515
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 4513
+S
+#4515
+On the mast~
+You are climbing up the mast of the Mystara. You can barely get your legs
+around the large wooden pole. The pole is smooth, but you are careful of
+splinters. You continue to venture up, fore you are afraid to look down.
+You seem to be the only one trying to crawl up this mast, except for the
+sailors, you might want to jump down as soon as you can.
+~
+65 0 1 0
+0 0 0 0
+20 0 0
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 4514
+S
+#4516
+On the mast~
+You are climbing up the mast of the Mystara.  You can barely get your legs
+around the large wooden pole.  The pole is smooth, but you are careful of
+splinters.  You continue to venture up, fore you are afraid to look down.
+You seem to be the only one trying to craw up this mast, except for the
+sailors, you might want to jump down as soon as you can.
+~
+65 0 1 0
+0 0 0 0
+20 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 4517
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 4346
+S
+#4517
+On the mast~
+You are climbing up the mast of the Mystara.  You can barely get your legs
+around the large wooden pole.  The pole is smooth, but you are careful of
+splinters.  You continue to venture up, fore you are afraid to look down.
+You seem to be the only one trying to craw up this mast, except for the
+sailors, you might want to jump down as soon as you can.
+~
+65 0 1 0
+0 0 0 0
+20 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 4518
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 4516
+S
+#4518
+On the mast~
+You are climbing up the mast of the Mystara.  You can barely get your legs
+around the large wooden pole.  The pole is smooth, but you are careful of
+splinters.  You continue to venture up, fore you are afraid to look down.
+You seem to be the only one trying to craw up this mast, except for the
+sailors, you might want to jump down as soon as you can.
+~
+65 0 1 0
+0 0 0 0
+20 0 0
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 4517
+S
+#19015
+Entrance to the Mystara~
+This is the entrance to the great ship, Mystara.  An excitement fills your
+soul as you enter this grand vessel. The ship sways and cracks under your
+feet.  You look up and see the sails blowing in the wind.  The sails, like
+the rest of the ship, are very well kept.  You hear from the party behind
+you that this is a fast cutter ship, and will outsail any pirate ship that
+might try to take over.  The deck of the ship is large, you look out into
+the blue ocean and see the gulls flying by.
+~
+65 0 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2115
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4319
+S
+#19999
+$~

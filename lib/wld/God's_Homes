@@ -1,0 +1,3809 @@
+#458
+The Upstairs Hallway in Vryce's House~
+This is the upstairs hallway in Vryce's house, from here you can get to
+Vryce's office in GODHALL through a new magic hallway. You
+see the bedroom, I would knock first if I were you.
+~
+95 2056 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3019
+D2
+ ~
+door~
+You watch as $n walks south and zaps out of existance.~
+ ~
+1 -1 459
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3016
+S
+#459
+Magic hallway to GODHALL~
+This is a magic Hallway to Godhall, connecting Vryce's house and Godhall
+through a temperal shift in the time space continuum.
+~
+95 2056 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+door~
+ ~
+ ~
+1 -1 458
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 460
+S
+#460
+Magic hallway to GODHALL~
+This is a magic Hallway to Godhall, connecting Vryce's house and Godhall
+through a temperal shift in the time space continuum.
+~
+95 2056 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 459
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 461
+S
+#461
+Magic hallway to GODHALL~
+This is a magic Hallway to Godhall, connecting Vryce's house and Godhall
+through a temperal shift in the time space continuum.
+~
+95 2056 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 460
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 462
+S
+#462
+Magic hallway to GODHALL~
+This is a magic Hallway to Godhall, connecting Vryce's house and Godhall
+through a temperal shift in the time space continuum.
+~
+95 2060 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 461
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 463
+S
+#463
+Magic hallway to GODHALL~
+This is a magic Hallway to Godhall, connecting Vryce's house and Godhall
+through a temperal shift in the time space continuum.
+~
+95 2056 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 462
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 464
+S
+#464
+Magic hallway to GODHALL~
+This is a magic Hallway to Godhall, connecting Vryce's house and Godhall
+through a temperal shift in the time space continuum.
+~
+95 2056 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 463
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 465
+S
+#465
+Magic hallway to GODHALL~
+This is a magic Hallway to Godhall, connecting Vryce's house and Godhall
+through a temperal shift in the time space continuum.
+~
+95 2056 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 464
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 466
+S
+#466
+Magic hallway to GODHALL~
+This is a magic Hallway to Godhall, connecting Vryce's house and Godhall
+through a temperal shift in the time space continuum.
+~
+95 2056 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 465
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 467
+S
+#467
+Magic hallway to GODHALL~
+This is a magic Hallway to Godhall, connecting Vryce's house and Godhall
+through a temperal shift in the time space continuum.
+~
+95 2056 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 466
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 468
+S
+#468
+Magic hallway to GODHALL~
+This is a magic Hallway to Godhall, connecting Vryce's house and Godhall
+through a temperal shift in the time space continuum.
+~
+95 2056 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 467
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 469
+S
+#469
+Magic hallway to GODHALL~
+This is a magic Hallway to Godhall, connecting Vryce's house and Godhall
+through a temperal shift in the time space continuum.
+~
+95 2056 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 468
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 223
+S
+#484
+Winding Staircase~
+A winding staircase leads deep down towards the center of the earth.
+There are crystals glowing in the walls providing light.
+The well worn stone steps twist downward, leading you towards the center
+of the earth.
+~
+95 2056 0 7
+0 0 0 0
+0 0 0
+D4
+You must be getting close to the top!
+~
+hatch~
+$n returns to the humdrum daily life of the real world.~
+You see $n arrive refreshed and smiling from rebecca's secret room.~
+2 5799 3020
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 495
+S
+#485
+Winding Staircase~
+The winding staircase continues downwards.
+A breeze lifts up from below, fresh air from the depths of the earth.
+The crystals flicker in rythem with your steps.
+~
+95 2056 0 7
+0 0 0 0
+0 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 542
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 489
+S
+#487
+Rebecca's secret closet.~
+This place is filled with clothes! How much can one person wear?
+Rows of clothing, old, new, worn, still in wrappers line the walls.
+~
+95 2056 0 7
+0 0 0 0
+0 0 0
+D0
+Yes, you look good but are you ready for it?
+~
+door secret~
+$n leaves happily with a new dress in her hand.~
+$n has done it again! $n arrives with another dress in her hand.~
+1 -1 545
+S
+#489
+Winding Staircase~
+As you go deeper down the winding stairway you notice how cool it is becoming.
+The cool breeze is relaxing. The light becomes your favorite color.
+Everything becomes personal, as if it were made just for you!
+~
+95 2056 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3180
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 543
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 485
+S
+#492
+Rebecca's secret spa~
+This is a warm, steamy room lined with sweaty stone. In the south corner
+is a hot mineral spring that flows into a pool lined with intricate mosaics.
+The mosaics are beautiful renditions of the mythology of her ancient race.
+In the center of the room is a comfortable table on which she receives her massage.
+~
+95 2632 0 7
+0 0 0 0
+0 0 0
+D0
+A beautiful arched archway of natural stone.
+~
+door archway secret~
+$n leaves for a cool shower.~
+$n is all sweaty and needs a cool bath now. Wow!...but how satisfied!~
+1 -1 544
+S
+#493
+Rebecca's secret shower~
+A breathtaking jungle of exotic plants surrounds a cool waterfall.
+The cool water cascades over black igneous rocks into a comfortable pool.
+The room is large enough to have a fruit bar and a cozy lounge.
+The room is well lit and tiled so it is not unpleasantly darkened by the
+volcanic rocks and lush vegitation.
+~
+95 2120 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+$n  has finished cooling off and is ready to get dressed.~
+$n has cooled off and had a fresh fruit drink, $n forgot to wear clothes!~
+1 -1 544
+S
+#495
+Winding Staircase~
+The twisting staiway continues downwards. Veins of silver streak the steps.
+Prescious stones glitter in their natural state. You notice a small alcove
+that has a pool of crystal clear water. The water has a bright glowing aura!
+~
+95 2056 0 7
+0 0 0 0
+0 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 484
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 496
+S
+#496
+Winding Staircase~
+The steps continue downwards and downwards. The steps seem to turn in a
+secret pattern that only rebecca knows. The person who deciphers this
+symbolic descent could be a god!
+~
+95 2056 0 0
+0 0 0 0
+0 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 495
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 497
+S
+#497
+Winding Staircase~
+Surely there must be an end to this symbolic descent towards the center of the
+earth. the walls here have strange heiroglyphics inscribed into them. You
+imagine the race of gods that rebecca descends from, a beautiful and
+mysterious race more subtle and pure than our own. But what tempers they have!
+~
+95 2056 0 7
+0 0 0 0
+0 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 496
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 498
+S
+#498
+Winding Staircase~
+You involuntarily gasp! Maybe you should not be here. Were you invited?
+The stairway seems to remind you of the gravity of the situation. After all
+this is rebecca's secret room!
+~
+95 2056 0 7
+0 0 0 0
+0 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 497
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 499
+S
+#499
+Winding Staircase~
+The twisting and turning seems to be more random here. Any pattern you had
+discovered, or thought you had discovered is destroyed. Is she mad or a genius?
+Only she knows. Be careful even the steps are randomly (seemingly) placed
+and irregular in design. I hope you were invited!
+~
+95 2056 0 7
+0 0 0 0
+0 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 498
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 505
+S
+#505
+Winding Staircase~
+ You must surely wonder what you have got yourself into by now. On the wall
+is an etching called "Death on a Pale Horse" from 1784. At least the steps
+are regular and even here. There is even a bench that you can rest on to
+contemplate your death if you have no invitation.
+~
+95 2056 0 7
+0 0 0 0
+0 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 499
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 542
+S
+#542
+Winding Staircase~
+Deeper and deeper you go. Is this some kind of transcental journey?
+Is it some strange initian rite? You notice fresh buds of blooming flowers,
+and wonderful ferns growing from the wall.
+~
+95 2056 0 7
+0 0 0 0
+0 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 505
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 485
+S
+#543
+Entranceway to rebecca's secret room.~
+This is the entranceway to rebecca's secret room.
+You must be lucky or priviledged to be here.
+The walls are made of weathered wood taken from holy groves of oak.
+The carpeting is lush, a forest lives and breathes in it's depths.
+~
+95 2120 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 489
+D2
+ ~
+ ~
+$n hurries off to visit with rebecca.~
+$n arrives to vist with rebecca.~
+1 -1 544
+S
+#544
+Rebecca's Secret Room~
+This is a cavernous room but comfortable because it is constructed with
+materials that are familiar to her. Deep hues of woods and fields, beautiful
+sunny days, and a beach with sparkling waves. There is a broad dance studio
+whose floor is made from teak and mahogany engraved with the symbolic future
+of medievia. A serpentine barre weaves its way across an ornate mirror
+taken from a byzantine emperor's bedroom by Vryce as a present for her.
+A glow from the center of the earth provides warmth and light for this
+breathtaking place for rebecca to dance in private, or for the other gods!
+~
+95 2120 0 7
+0 0 0 0
+0 0 0
+D0
+A sturdy oak door seperates you from rebecca's secretary.
+~
+door~
+$n must need some finacial advice or some office supplies.~
+$n enters to talk to rebecca's secretary, or maybe has to leave. How sad!~
+1 -1 543
+D1
+This is rebecca's secret bedroom! Don't get caught peeking!
+~
+secret~
+$n retires to rebecca's secret bedroom. Goodnight everyone!~
+$n does not belong here! Come to think about it either do you!~
+1 -1 545
+D2
+Through a stone aechway waits a jot bath and massage.
+~
+door archway secret~
+$n must need a hot bath or massage. The water is great and the masseuse is marvelous!~
+$n arrives for a refreshing hot bath and massage.~
+1 -1 492
+D3
+Are you ready for a cool shower and some fruit juice?
+~
+door secret~
+$n must be in a hurry to leave this wonderful relaxing room.~
+$n has decided to take a cool shower, and maybe sip some juice.~
+1 -1 493
+S
+#545
+Rebecca's secret bedroom.~
+Rebecca's secret bedroom is done in true pre-Raphaelite fashion. Paintings  by
+Manet and Delacroix adorn the walls. Seemingly hundreds of knick knacks and
+objects de' art fill her shelves. She has a delightfully warm bed with
+inviting covers and downy pillows. Her jewelry is strewn about on all the
+horizontal surfaces. *Gasp*, there are clothes on the floor! Somebody
+should straighten up in here!
+~
+95 2124 0 7
+0 0 0 0
+0 0 0
+D2
+This is it! The famous closet!
+~
+door secret~
+$n peeks into the closet, smiles, and decides what to wear!~
+$n needs some new clothes to wear.~
+1 -1 487
+D3
+The old door has a picture of Vryce on it.
+~
+door secret~
+$n gets up the motivation to leave this comfy spot. Goodbye rebecca!~
+$n emerges from rebecca's secret bedroom. Wow! is $n beautiful!~
+1 -1 544
+S
+#573
+A lonely cabin on a windswept mountainside~
+You've come here to be alone. There's not another human within a hundred
+miles, yet you're still not remote enough to soothe the aching in your
+soul. Your only neighbors are a raucous family of swallowtails that swoop
+and chitter in the tree outside your window. You feel more kinship however,
+with the lone eagle you spot soaring over the peak across the valley. Barely
+more than a speck on the horizon, he soars above the jagged rocks on a cushion
+of air.  After contemplating this a while, you feel better and stretch out
+in front of the fireplace on the bearskin rug to play with the puppy.
+~
+95 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+door~
+$n leaves north to Jasmine's room.~
+You see $n arrive from the main room.~
+2 2001 878
+D2
+The fire sends light dancing into the room, relaxing you with its
+hypnotic beauty.
+~
+fireplace~
+You see $n vanish behind the fireplace.~
+$n squeezes into the room from the cabin.~
+2 2001 585
+D3
+ ~
+wall~
+$n slips through the wall opening to Vryce's secret office~
+You see $n enter Vryce's secret office.~
+1 10000 835
+D4
+You see a loft, with winding stairs heading up.
+~
+ ~
+$n heads up the stairs.~
+$n walks up the stairs and enters the loft.~
+1 -1 847
+E
+fireplace~
+The fireplace is made from imported mohogany with the mantle being a large
+imported marble slab.  On the mantle are some pictures of Rebecca.
+One is of her dancing in the woods with many animals of all sizes gathered
+about to watch the godess of beauty work her magic.
+~
+S
+#585
+Behind the fireplace~
+You stand in a very small closet size room behind the fireplace.  There is
+barely enough room to stand, a small lantern hanging on the wall casts
+flickering light down a manhole size opening on the floor.  You see
+a crude ladder made of logs leading down into darkness.
+~
+95 2060 0 7
+0 0 0 0
+0 0 0
+D0
+The back of the fireplace looks as if when it is closed, it seals off the
+room completely, from any light or sound.
+~
+door~
+$n squeezes out to the cabin.~
+$n squeezes out from behind the fireplace.~
+2 2001 573
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 586
+S
+#586
+In a dark shaft~
+The shaft is has no features at all except a crude wooden ladder made from
+logs nailed into the shaft wall.  You see a little light coming from above.
+~
+95 2060 0 7
+0 0 0 0
+0 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 585
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 587
+S
+#587
+In a dark shaft~
+As you look up or down, you realize you better pay attention to keeping
+your balance on the crude ladder set in the wall.
+~
+95 2061 0 7
+0 0 0 0
+0 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 586
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 588
+S
+#588
+In a dark shaft~
+As you look up or down, you realize you better pay attention to keeping
+your balance on the crude ladder set in the wall.
+~
+95 2061 0 7
+0 0 0 0
+0 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 587
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 589
+S
+#589
+In a dark shaft~
+As you look up or down, you realize you better pay attention to keeping
+your balance on the crude ladder set in the wall.
+~
+95 2061 0 7
+0 0 0 0
+0 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 588
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 590
+S
+#590
+In a dark shaft~
+A simple ladder is set into the wall leading up, a lantern is set into
+the wall.
+~
+95 525 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 591
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 592
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 589
+S
+#591
+A small alcove~
+A small alcove has been dug out here with some simple wooden shelves
+lining the walls.
+~
+95 525 0 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 590
+D5
+You see a trapdoor built into the stone floor.
+~
+trapdoor~
+You watch $n disappear through the trapdoor.~
+$n climbs down the latter from above.~
+2 2001 3191
+S
+#592
+A dark tunnel~
+You walk through a dark tunnel, though the tunnel has been dug from raw
+earth, it has a sweet smell to it.
+~
+95 524 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 590
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 593
+S
+#593
+A dark tunnel~
+You walk through a dark tunnel.  You notice a new support beam has been
+recently fixed where there was a small break.
+~
+95 524 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 592
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 594
+S
+#594
+A dark tunnel~
+The tunnel leads East and West, not entirely straight, as if it was
+dug by hand.
+~
+95 524 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 593
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 595
+S
+#595
+A dark tunnel~
+The tunnel is not very high here and you have to duck to get past.
+~
+95 524 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 594
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 596
+S
+#596
+A dark tunnel~
+More light breaks through from the west, as you look east you see that
+the tunnel narrows.
+~
+95 524 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 595
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 597
+S
+#597
+Cavern behind the falls~
+You are awstruck by the natural beauty of the cavern.  To the west is a
+large opening where the waterfall rushes past in a wall of fury.  The light
+making its way through the falling water casts rays of light onto the
+smooth irregular walls, creating a magical light versus shadow effect.
+The cavern must be truly ancient, its walls have been worn smooth by time
+and there are some stalactites and stalagmites of odd shapes and colors
+here and there.  A simple table and chair has been designed here from
+finely crafted walnut and bearskin.  Some books Vryce has been reading lay
+on the table with bookmarks marking his place.  One of the stalagmites has
+been cut flat on its top, on it is a simple camping stove with some
+hot choclate kept warm.
+~
+95 524 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 596
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 604
+S
+#604
+A small landing~
+You stand besides the rushing water of the falls.  The roar of the falls
+is like a constant thunder, mist fills the air, giving it a natural
+sweet taste.  There are some finely crafted steps carved out of the
+cliff face leading to the lagoon 70 feet below.  To the east is a large
+opening in the cliff behind the falls.  From here you can see the valley
+below, it is quite a sight, you stop a moment and watch the water crash
+into the lagoon below, quickly focusing your attention back to the
+slippery stone steps.
+~
+95 512 5 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 597
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 605
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 611
+S
+#605
+A small landing~
+You stand on a small landing that hugs the cliff face.  The landing
+continues to the north right up to the waterfall.  You lean carefully
+over the landing and peer down into the distant valley, feeling a touch
+of vertigo, you press yourself back against the cliff wall.  Some finely
+crafted steps have been carved into the cliff leading up.
+~
+95 512 5 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 604
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 606
+S
+#606
+Along the clifface~
+You carefully negotiate the narrow steps carved into the cliff, the
+wonderful sights of the adjacent mountain and the valley below tempt you
+with sights right out of a postcard.  Some flowering bushes have been
+re-planted along the edge of the steps recently by Vryce.
+~
+95 512 5 7
+0 0 0 0
+0 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 607
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 605
+S
+#607
+Along the clifface~
+You carefully negotiate the narrow steps carved into the cliff, the
+wonderful sights of the adjacent mountain and the valley below tempt you
+with sights right out of a postcard.  Some flowering bushes have been
+re-planted along the edge of the steps recently by Vryce.
+~
+95 512 5 7
+0 0 0 0
+0 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 608
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 606
+S
+#608
+Along the clifface~
+You carefully negotiate the narrow steps carved into the cliff, the
+wonderful sights of the adjacent mountain and the valley below tempt you
+with sights right out of a postcard.  Some flowering bushes have been
+re-planted along the edge of the steps recently by Vryce.
+~
+95 512 5 7
+0 0 0 0
+0 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 609
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 607
+S
+#609
+Along the clifface~
+You carefully negotiate the narrow steps carved into the cliff, the
+wonderful sights of the adjacent mountain and the valley below tempt you
+with sights right out of a postcard.  Some flowering bushes have been
+re-planted along the edge of the steps recently by Vryce.
+~
+95 516 5 7
+0 0 0 0
+0 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 610
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 608
+S
+#610
+Western lookout~
+ This is the highest lookout point on the western side of the mountain. Vryce
+comes here in the mornings to watch the sun rise in the west. As the new sun
+heats the cool damp air, it creates thermals that are ideal for the raptors
+passing by the mountain range. There is a new telescope set into the railing
+and a board Vryce uses to count the passing raptors. You can see a pair of
+hawks below, circling as they wait for their next meal to show itself. A lone
+eagle soars high above, lazily turning from side to side as it waits for a
+strong thermal capable of lifting it above and over the mountain.
+~
+95 512 5 7
+0 1 0 0
+0 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 6151
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 609
+S
+#611
+Slippery steps~
+As you follow the steps, you wonder just how safe you are, a mis-step
+away from thousands of tons of pure crushing power.  You bravely peer down
+into the chaos below and hope that the sights are worth this.
+~
+95 512 5 7
+0 0 0 0
+0 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 604
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 612
+S
+#612
+Slippery steps~
+You slowly follow the steps, keeping your balance by leaning against the
+cliff face.  The mist is very heavy here and clings to everything in reach.
+The roar of the falls is deafening, the cliff seems to vibrate from the
+sheer power of this natural wonder.
+~
+95 512 5 7
+0 0 0 0
+0 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 611
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 613
+S
+#613
+Slippery steps~
+The mist gets much heavier below. It looks like the steps decend into a
+dream, as they disappear into the swirling whiteness.
+~
+95 512 5 7
+0 0 0 0
+0 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 612
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 614
+S
+#614
+Slippery steps~
+The mist is so heavy here you cannot see your feet.  You slowly pick your way
+along the slippery steps, feeling a bit like a ghost traveling in a dream.
+~
+95 512 5 7
+0 0 0 0
+0 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 613
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 615
+S
+#615
+Next to the falls~
+You stand on level ground.  The mist is like a solid wall which you are a
+part of, blinding you completely.  You grope around and discover a railing
+that leads you along your way.  The Roar of the falls crashing into the
+lagoon somewhere close by rips through you making your teeth chatter.
+~
+95 512 5 1
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1486
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 614
+S
+#706
+A Raging Waterfall~
+You have reached the northernmost point of the river Carthein, unless you can
+fly, there isn't much you can do, since a great waterfall looms before you, if
+you were to travel north any further, you would not be able to see for the
+mist, and would probably be pulled under by the great force of the falls.
+~
+95 4 7 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1554
+D2
+~
+~
+~
+~
+0 0 63429
+S
+#835
+Vryce's office~
+You look around and see a simple room with a large comfortable
+couch and a lot of well kept plants.  There are some file folders
+on a small coffee table with various god's names on them.  The walls
+are covered with books of all types and languages, the eastern wall
+has a section which opens out.
+~
+95 2572 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+wall~
+You see $n exit to the cabin.~
+$n enters the room from somewhere.~
+1 10000 573
+D3
+You see a nice wall made of old growth wood, finely crafted.
+~
+bookcase~
+$n dissapears behind the bookcase.~
+$n enters to relax and play cards.~
+2 2001 5971
+S
+#847
+Cabin loft~
+This is a very cozy bedroom.  A large fireplace takes up the northern wall.
+On the mantle are some of his wildlife pictures.  A comfy looking
+fairly large bed takes up most of the room, scattered on its headpiece are
+some books Vryce has been reading.  There is some fishing gear in one corner
+of the room.  Vryce's camera and gear sits on a chest at the foot of the bed.
+The bed is has some overstuffed pillows and a large flannel blanket that
+looks as if Vryce just through it on, not really making the bed.
+~
+95 2568 0 0
+0 0 0 0
+0 0 0
+D5
+Some winding stairs down from the loft
+~
+ ~
+$n heads down the stairs.~
+$n walks down the stairs from the loft.~
+1 -1 573
+S
+#1486
+By the steps(next to the falls)~
+You stand near the edge of the lake, the falls are Crushing down into the
+lake 20 feet away, creating a fine mist.  The whole area is alive with
+rainbow effects from the mist and the swirling air currents created by
+the massive water fall so close.  The ground at your feet trembles with
+the rythem of the impact as the water pounds into the lake.  The lake
+is postcard perfect, surrounded by woods on all sides and exiting in
+a swift river system to the south.
+~
+95 512 5 1
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 615
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1535
+S
+#1535
+At the edge of the lake~
+As you look around at the size of the lake with the water falls crushing
+into it to the east and the towering mountains surrounding it, you feel
+an overpowering sensation of awe at the proportions and overall beauty of
+this area.  Its almost as if ... a god has touched the area recently.
+~
+95 262656 5 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1486
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1536
+S
+#1536
+At the edge of the lake~
+Your standing in a beautiful valley, surrounded by woods and mountains
+on all sides.  To the front of you is an enormous lake with a water fall
+crushing into it not too far away to the east.
+~
+95 262656 5 1
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1535
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1537
+S
+#1537
+At the edge of the lake~
+Your standing in a beautiful valley, surrounded by woods and mountains
+on all sides.  To the front of you is an enormous lake with a water fall
+crushing into it not too far away to the east.
+~
+95 262656 5 1
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1536
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1538
+S
+#1538
+At the edge of the lake~
+Your standing in a beautiful valley, surrounded by woods and mountains
+on all sides.  To the front of you is an enormous lake with a water fall
+crushing into it not too far away to the east.
+~
+95 262144 5 1
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1539
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1537
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3207
+S
+#1539
+At the edge of the lake~
+You're standing in a beautiful valley, surrounded by woods and mountains
+on all sides.  To the front of you is an enormous lake with a water fall
+crushing into it not to far away to the east.
+~
+95 262144 5 1
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1540
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1538
+S
+#1540
+At the edge of the lake~
+You walk up to the crystal clear lake and stand in awe at the mountain
+on the other side.  It stands in front of the lake like a tall guardian,
+watching over all of medievia.  Crashing into the lake is a huge
+waterfall which starts at the top of the mountain, gaining
+speed and power on its long journey in free fall, ending in an awe
+inspiring Thunder as it impacts the stillness of the lake.
+This is where all of medievia's water systems start, from somewhere
+up there.       You look up. Scary.
+~
+95 262144 5 1
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1542
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1539
+S
+#1542
+At the edge of the lake~
+You stand in a valley, surrounded by woods and mountains on all sides.  At
+the for-front of this incredible valley is the enoumous mountain on the other
+side of the lake you are standing near.  The lake connects to the river
+to the west, feeding medievia with crystal clear water from the Gods.
+~
+95 262144 5 1
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1540
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1543
+S
+#1543
+By the river~
+You walk along a river of pure fury, its banks rippling with energy as
+the water crashes by at high speed.  The white water is unpassable by
+anyone but a god.
+~
+95 0 5 1
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1542
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1544
+S
+#1544
+By the river~
+You walk along a river of pure fury, its banks rippling with energy as
+the water crashes by at high speed.  The white water is unpassable by
+anyone but a god.
+~
+95 0 5 1
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1543
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1545
+S
+#1545
+By the river~
+You walk along a river of pure fury, its banks rippling with energy as
+the water crashes by at high speed.  The white water is unpassable by
+anyone but a god.
+~
+95 0 5 1
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1544
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1546
+S
+#1546
+By the river~
+You walk along a river of pure fury, its banks rippling with energy as
+the water crashes by at high speed.  The white water is unpassable by
+anyone but a god.
+~
+95 0 5 1
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1545
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1547
+S
+#1547
+By the river~
+You walk along a river of pure fury, its banks rippling with energy as
+the water crashes by at high speed.  The white water is unpassable by
+anyone but a god.
+~
+95 0 5 1
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1546
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1548
+S
+#1548
+By the river~
+You walk along a river of pure fury, its banks rippling with energy as
+the water crashes by at high speed.  The white water is unpassable by
+anyone but a god.
+~
+95 0 5 1
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1547
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1549
+S
+#1549
+By the river~
+You walk along a river of pure fury, its banks rippling with energy as
+the water crashes by at high speed.  The white water is unpassable by
+anyone but a god.
+~
+95 0 5 1
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1550
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1548
+S
+#1550
+By the river~
+You walk along a river of pure fury, its banks rippling with energy as
+the water crashes by at high speed.  The white water is unpassable by
+anyone but a god.
+~
+95 0 5 1
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1549
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1551
+S
+#1551
+By the river~
+You walk along a river of pure fury, its banks rippling with energy as
+the water crashes by at high speed.  The white water is unpassable by
+anyone but a god.
+~
+95 0 5 1
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1550
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1552
+S
+#1552
+By the river~
+You walk along a river of pure fury, its banks rippling with energy as
+the water crashes by at high speed.  The white water is unpassable by
+anyone but a god.
+~
+95 0 5 1
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1551
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1553
+S
+#1553
+By the river~
+You walk along a river of pure fury, its banks rippling with energy as
+the water crashes by at high speed.  The white water is unpassable by
+anyone but a god.
+~
+95 4 5 1
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1552
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1561
+S
+#1554
+A Raging Waterfall~
+You stand so close to the falls that your teeth chatter as the world
+shakes and vibrates as the crushing water fall inpacts the rocks.
+Unable to see, surrounded by mist you grope around
+and find some stairs carved into the cliff.
+~
+95 4 5 7
+0 0 0 0
+5 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 706
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 1555
+S
+#1555
+A Raging Waterfall~
+You pick your way up the slippery steps carved into the cliff.  The mist
+from the water falls makes you loose your orientation, you slip.
+Catching yourself at the last moment, you continue feeling your way along
+the steps, blinded by a wall of pure mist surrounding you.
+~
+95 4 5 7
+0 0 0 0
+5 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 1556
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 1554
+S
+#1556
+A Raging Waterfall~
+As you negotiate the slippery steps by touch and feel alone, you wonder
+if this is worth the risk.
+~
+95 4 5 7
+0 0 0 0
+5 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 1558
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 1555
+S
+#1558
+A Raging Waterfall~
+The cliff vibrates as the thundering waterfall crashes down its face.
+You feel something slip past you, another player?  You continue on.
+~
+95 4 5 7
+0 0 0 0
+5 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 1559
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 1556
+S
+#1559
+A Raging Waterfall~
+You take a moment to catch your breath.  The mist is so heavy that
+breathing has become a chore.
+~
+95 4 5 7
+0 0 0 0
+5 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 1560
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 1558
+S
+#1560
+A Raging Waterfall~
+The mist is a little thinner here, you must be getting closer to the
+top of the cliff.  You curse yourself for your curiosity and continue.
+~
+95 4 5 7
+0 0 0 0
+5 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 1561
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 1559
+S
+#1561
+A Raging Waterfall~
+You are standing at the top of the cliff, water is flying by at high
+speed, right off the side and falling down to the valley below.
+This area is so beautiful you wonder if a god lives here.
+~
+95 4 5 7
+0 0 0 0
+5 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1553
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 1560
+S
+#2090
+The loft~
+The room smells of jasmine and maplewood. There is a queensize brass
+bed against the far wall. It has two ruffled fluffy pillows on it.
+One has the embroidered name of Benji, the other Megan. A large
+comforter is stretched across the bed. The ruffles of the pillows
+match the curtains on the shutter doors and the ruffles around the
+bed.  There is a large mirrored dresser on the far side of the room
+and a large heart-shaped picture frame sitting on it.  The fella
+in the picture is the apple of her eye.  You would have to read her
+diary to know his name though.  To each side of her mirror are shelves
+of dolls.  The sweet floral smell that fills the room probably comes
+from the vases of freshly cut flowers that sit on her dresser
+and on her night stand.
+~
+95 8 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2091
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2092
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3211
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2093
+S
+#2091
+The Shutter Doors leading to the Terrace~
+You are standing at the shutter door, leading to the Terrace.
+~
+95 8 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2094
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2090
+S
+#2092
+Megan's Private Room~
+You can't see a thing in this room.  There is some kind of spell
+on this room that prevents anyone but Megan from seeing what
+she keeps in her secret room.
+~
+95 2056 0 7
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2090
+S
+#2093
+Benji's Puppy Playroom.~
+You have just entered puppy heaven.  There are puppy toys from
+one side of the room to the other.  There's a large shag rug in the middle
+of the room with Benji's favorite shoe on it.  The walls are lined with
+stuffed animals. Unlike most puppies, Benji would never chew up a
+stuffed animal, he loves them dearly.  Cuddling up with that 3ft.
+bear in the corner is the only way Benji knows how to take a nap.  That
+bear was a gift from Megan on his 5th month birthday.
+~
+95 2056 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2090
+S
+#2094
+The Terrace~
+The terrace is lined with flowers of all sorts and colors.  Mainly
+minature roses, this being Megan's favorite type of flower.  The
+inlayed design of the terrace itself resembles two doves in flight.
+You can see forever looking over the terrace rails to the mountain and
+stream below.  This is one of Megan's favorite spots to sit and dream,
+and watch the stars dance in the skies at night.
+~
+95 8 0 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2091
+S
+#2095
+The Kitchen~
+A cute lil kitchen over looking the mountain. The baywindow
+opens to the fresh breeze rushing with the stream besides the cottage.
+In front of the window is a breakfast table with two chairs. Fresh
+flowers are in the center. The china cabnit beside the side door
+has the china set that was given to Megan' mother on her wedding
+day. The china is Lunichia and the crystal is the best that can be found.
+Everything matches in color and design. The walls are the same
+country blue of the pillows on the breakfast chairs. Pots and pans
+hang from a half circle brass shelf above the stove. You feel in
+this kitchen many good meals are cooked and eaten.
+~
+95 0 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2097
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3210
+S
+#2097
+The Garden~
+The garden lines the path to the stream. The stream is almost a
+crystal clear soft blue. In the stream are beautifully pollished
+rocks from all the years it has rushed over them. The garden
+is full of minature roses and flowers of all sorts. Megan mostly
+planted flowers of different shades of red since Megan is partial
+to red, but all colors are represented by one flower or another.
+Fushia carnations and lily clusters bring out the gardens bouquet of
+color. Off on the green grass over the white painted bridge that
+crosses the stream is a swing. This is a beautiful place to sit and
+watch the bird stop at the daisy bird wash or watch the stars at night.
+The clearing right beside it is perfect for picnics.
+~
+95 0 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2738
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2095
+S
+#2733
+-= Under the Stars =-~
+.                .                .
+  +               +               +               +               +
+.     .                 .                 .                 .
+           *                 *                 *                 *
+.   .                .                .                .
+  .      .            .             .          .
+              +                        +                +                +
+  *              *                             *                 *
+              .                 .                 .                 .
+.     .                       .             .          .
+          .                 .                 .                 .
++        +              +              +              +              +
+               .                .                .                .
+ .     .                 .                 .                 .
+          *                 *                 *                 *
+~
+95 524 0 0
+0 0 0 0
+0 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 215
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 6198
+E
+card~
+    .--------------------------------------------.
+    |'''--..__                                   |
+    |         ''''--..__                         |
+    |   88 aa   _       ''''--..__               |
+    |   88 88  d88  oo..          ''''--._       |
+    |   88a88 88 8b 88"8b 88oo            |      |
+    |   88 88 88a88 88 88 88 88 88 oo     |      |
+    |   88 88 88 88 88aP" 88 8P 88 88     |      |
+    |    " "9 88 88 88    88P"   YP"      |      |
+    |          " "9 98    88     88       |      |
+    |   88oo              "9     88       |      |
+    |   88 88                    "9       |      |
+    |   88 8P       88gg.                 |      |
+    |   88P"  8bgg. 88 8b  o8o. oo        |      |
+    |   88 98    "" 88 88 d8 8b 88  88    |      |
+    |   88 88       88 88 88a88 98  88    |      |
+    |   988P        9DSI" 98 88  9bo8P    |      |
+    |                   ,    "9   88"     |      |
+    |                  /(         88      |      |
+    |                 (  )        88      |      |
+    |                 ,\/,        88      |      |
+    |                 |--|         "      |      |
+    |                 |  |                |      |
+    |                 |  |                |      |
+    |       .-''--..__|  |                |      |
+    |      |'-,,__    `..|'--..__         |      |
+    |      |      ''''--,,__     '-.      |      |
+    |      |                ''''--'|      |      |
+    |      |    .                  |      |      |
+    |      |   ' `     _.          |      |      |
+    |      | ,'   \   /  \       .-|      |      |
+    |      |'      `-'    \     /  |      |      |
+    |      |               `._,'   |      |      |
+    |   _-'|                       |      |      |
+    |   -   '-..__                 |._    |      |
+    |    '-.__    ''''--..__       |  -.  |      |
+    |         ''''--..__    ''''--''  ,'  |      |
+    |                   ''''--....--''    |      |
+    |                                     |------'
+    ''''--..__                            |
+              ''''--..__                  |
+                        ''''--..__        |
+                                  ''''--._|
+~
+S
+#2735
+Medievia Conference Room - HELP text needed~
+help catacombs (kinda in but needs more work)
+help death
+help donations (done and in by sultress)
+help talisman/s (done and in by sultress)
+help casino  (presently being worked on by sulty)
+help mana, talk about mana gain on water, mage killing mobs, etc etc
+help quest, quest_faq, quest shop, quest points  (done and in.. sulty)
+~
+95 8 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6256
+S
+#2738
+A Small White Bridge~
+You are on a small white bridge that crosses over a beautiful
+softly flowing stream that lines a garden full of flowers.
+Looking down over the edge you can see many multi colored fish
+swimming beneath your feet.  With the garden on one side and a nice
+picnic clearing on the other, it is hard to decide which way
+to go.
+~
+95 0 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2739
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2097
+S
+#2739
+Picnic Clearing.~
+In the big oak tree to the right is a big white swing. Many
+wonderful days and nights were spent swinging in this swing.
+To the left is a clearing that is cluttered only with the occasional
+dandelion. Shaded by the largest tree on the mountain, this
+spot is like Megan' own little peace of heaven.
+Megan' red and white checkered blanket is still spread out from her
+last picnic. Maybe you want to stretch out and enjoy this
+peaceful time.
+~
+95 0 0 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2738
+S
+#3012
+Vryce's Living Room~
+This is Vryce's living room. The room is tastefully decorated with a large pit
+group, burgandy carpeting, and on the north wall is a large entertainment
+center with a big television in it, a VCR, a super Nintendo, and a stereo
+system.
+Items: Television, VCR, Nintendo, Stereo.
+~
+95 2056 0 7
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3013
+E
+television~
+Chances are, on the screen you see an episode of Star Trek, or Star Trek; The
+Next Generation. The TV is the latest greatest 27" Sony.
+~
+E
+vcr~
+It's a black thing, with a hole in it, you put videotapes in it, ya know?
+~
+E
+nintendo~
+After examining the Super Nintendo under an electron microscope for a billion
+hours, Vryce has concluded that the damn thing is the lightest shade of purple
+he has ever seen. Anyway, if you've never seen a Super Nintendo, go out, pick
+up a catalog, and look at one. You think I'm going to describe it for you? Get
+a grip!
+~
+E
+stereo~
+It's a Sony!
+~
+S
+#3013
+Vryce's Dining Room Area~
+This is Vryce's dining room, despite it's name, there's no dining done in this
+room. It's more an extension of the Living room. There's a large fifty five
+gallon aquarium here, a very huge wood and plexiglass cage on the west wall,
+and a china closet on the north wall. A window overlooks the street outside
+next to the aquarium. You see Vryce's Camera equipment everywhere.
+Items you can look at: Aquarium, Cage, Window
+~
+95 2056 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+door~
+ ~
+ ~
+1 -1 3012
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3014
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 3016
+E
+aquarium~
+It's a very lovely aquarium, with some fish in it. Last time I checked they
+were Paranahs.
+~
+E
+cage~
+This cage is made of white pine, with a huge window on the front, a miniature
+environment for Vryce's pet snake Princess, a red-tailed boa constrictor, who
+lies here in the cage, in a mock-up of a tunnel, which has an area into which
+you can look to see the snake lying in there, doing snake-like things. The
+cage was custom built by Vryce and even has a running water fall!
+~
+E
+window~
+The window overlooks Alersford Street, there's the usual street type stuff out
+there.
+~
+S
+#3014
+Vryce's Kitchen~
+This is Vryce's kitchen, where the cooking is usually done, in here there are
+the following items which you can look at.
+Items: Refridgerator, Stove, Sink, Cage, Counter, Cabinets
+~
+95 2056 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+door~
+ ~
+ ~
+1 -1 3013
+D3
+ ~
+door~
+ ~
+ ~
+1 -1 3015
+D5
+ ~
+door~
+ ~
+ ~
+1 -1 3020
+E
+refridgerator~
+This is a big white box, you put food in it, to keep it cold, and fresh.
+~
+E
+stove~
+This is another big white box, you put food in or on it to make it hot.
+~
+E
+sink~
+This is a thing that produces water, magically I assume. It has a big basin,
+which can be filled with water to wash dishes in.
+~
+E
+counter~
+This is a flat surface area, upon which things can be put. (Amazing wonders of
+the 20th century abound eh?)
+~
+E
+cage~
+I KNEW you'd wonder about this...
+This is a parrot cage, upon the parrot cage sits Merlin... An African Gray
+Parrot. I wouldn't get too close as he's not friendly to strangers. He's gray,
+as his name suggests, with a red tail. Normally he'd be talking up a storm.
+Maybe you make him nervous?
+~
+E
+cabinets~
+These are things with doors on them, into which Vryce and (who-knows) put
+objects, like, boxes of food, and dishes, and so forth. (Boy I bet you're glad
+you checked in here huh?)
+~
+S
+#3015
+Vryce's Back Yard~
+This is Vryce's back yard, contrary to what you might expect, there isn't much
+"yard" to speak of. There's a small alley along side of the house, with a
+fence to one side. And behind the house is an area about 4 yards by 6 yards in
+size. There's a nice gas grill here, that's about it.
+You notice anytime you look to the west, your mind gets disoriented and
+what you see as a fuzzy quality.
+Items you can look at: Grill.
+~
+95 2048 1 7
+0 0 0 0
+0 0 0
+D1
+ ~
+door~
+ ~
+ ~
+1 -1 3014
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3024
+E
+grill~
+It makes food hot... You know, for cooking? Wow! I bet you couldn't have
+guessed that?
+~
+S
+#3016
+The Upstairs Hallway in Vryce's House~
+This is the upstairs hallway in Vryce's house, from here you can get to
+Vryce's office, the bathroom, and through to Vryce's bedroom. But I'd knock
+first if I were you... Vryce can be doing strange things in there!
+You see a NEWLY made locker set into the wall..
+You can smell the new cedar coming from the new walk in closet to the North.
+~
+95 2056 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+door~
+ ~
+ ~
+1 -1 3021
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 458
+D2
+ ~
+door~
+ ~
+ ~
+1 -1 3018
+D3
+You see the door to Vryce's office.
+~
+door~
+$n wanders off into Vryce's big office.~
+$n enters Vryce's office, looking for the huggable god.~
+2 2001 3017
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 3013
+S
+#3017
+Vryce's real life room~
+You are now in Vryce's room in his house and see the following stuff...
+A large L shaped desk with a 19 inch NEC monitor, displaying 2 windows,
+one with the mud and another with code, each in color and 90 rows.  On
+one wall is some art work by Vryce including pencil, pastel, colored pencil,
+colored marker, acrylic and oil painting mediums..many dragons, some
+star trek, one great charcoal work of Picard.  One wall closet is Packed
+with camping gear of all kinds, ready for a moments notice.  You see a lot
+of camera gear, a average size bed with a really comfy blanket that has
+lions on it, the bed has bugs bunny sheets.  A nice stereo, vcr and tv with
+cable, a small refridgerator and cabinet of staples like cookies.  You see a
+map of the USA with blue pins marking INTENSE Softwares distribution sites
+for BOOKBASE and WINDIARY.  Lining one wall near the ceiling are about 700
+sci-fi/fantasy books.  This room is the esence of Vryce in Real Life and
+is shown is complete detail.
+~
+95 8 0 7
+0 0 0 0
+0 0 0
+D1
+You see Vryce's door.~
+door~
+$n leaves, grumbling about editing exits.~
+You see $n arrive from the office.~
+2 2001 3016
+E
+painting dragon~
+___________________________________________________
+@@@@@@@@@@@@@@@@@@@@@**^^""""""^@@^*@*@@**@@@@@@@@@
+@@@@@@@@@@@@@*^^'"'   , - ' '; ,@@b. '  -e@@@@@@@@@
+@@@@@@@@*^"'      . '     . ' ,@@@@(  e@*@@@@@@@@@@
+@@@@@^'         .       .   ' @@@@@@, `^@@@@@@@@@@@
+@@@' ,e**@@*e,  ,e**e, .    ' '@@@@@@e,  "*@@@@@'^@
+@',e@@@@@@@@@@ e@@@@@@       ' '*@@@@@@    @@@'   0
+@@@@@@@@@@@@@@@@@@@@@',e,     ;  '^*^'    ;^'   ' 0
+@@@@@@@@@@@@@@@^""^@@e@@@   .'           ,'   .'  @
+@@@@@@@@@@@@@@'    `@@@@@ '         ,  ,e'  .    ;@
+@@@@@@@@@@@@@' ,&&,  ^@*'     ,  .  i^"@e, ,e@e  @@
+@@@@@@@@@@@@' ,@@@@,          ;  ,& !,,@@@e@@@@ e@@
+@@@@@,'*@@*' ,@@@@@@e,   ',   e^'^@,   ''@@@@@@,@@@
+@@@@@@, '" ,e@@@@@@@@@*e*@*  ,@e  @@""@e,,@@@@@@@@@
+@@@@@@@@ee@@@@@@@@@@@@@@@" ,e@' ,e@' e@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@" ,@" ,e@@e,,@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@' ,@@@,,0@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@,,@@@@@@@@@@@@@@@@@@@@@@@@@
+"""""""""""""""""""""""""""""""""""""""""""""""""""
+~
+E
+computer~
+This is Vryce's computer. Here's the technical specifications as far as you
+can tell. It's a 486/50 EISA Local Bus machine, with a NEC MultiSync 3d
+monitor, a Logitec mouse, SVGA Graphics, lots of hard drive space, and
+displayed prominently on the screen is a picture of one of hundreds of nude
+women Vryce seems to like to collect pictures of. He has Windows 3.1 loaded
+up, and at any given time, you're likely to see a screen full of C code so
+complicated you might wonder if ANYONE could understand it.
+~
+E
+drums~
+Vryce's drums are electronic, (what's electronic mean? I have no idea).
+Obviously they work on some kind of magic, since they're simply pads with no
+wood or skins. Surrounding the drums there are some pieces of PVC tubing,
+which are not easy to describe but trust me when I say they're the cymbals.
+Hanging from the ceiling on a retractable cord is a towel, and a big amplifier
+sits behind the drums. (Once again, what's an amplifier? I have no idea). More
+magic I guess.
+~
+E
+fish~
+A lonely little goldfish swims in a plastic aquarium here.
+~
+E
+camping~
+Various pieces of camping equipment rest here, or are hung on hangers and
+hooks on the wall. Some stuff is shoved up on a shelf here. Vryce is obviously
+the epitomy of an outdoorsman, never leaving home without a portable computer,
+video game, and several other electronic gadgets and 21st century style
+camping paraphanalia. You wonder how he'd do it if he had to really live off
+the land.
+~
+E
+books~
+A large collection of books by various authors line the walls, and lay about
+the room.
+~
+E
+puppets~
+A puppet that looks remarkably like the Medievia Mascot "Scruff" sits here
+next to the desk, along with a Raccoon puppet with a charming personality, who
+Vryce claims helps him to program. Scruff has his doubts, and tells you that
+Podo couldn't program his way out of a paper bag without his help.
+~
+S
+#3018
+Vryce's bathroom~
+It's a bathroom... It's tastefully decorated and freshly painted.
+Items you can look at: Toilet, Tub, Sink, Mirror.
+~
+95 2568 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3016
+E
+toilet~
+It's your average, American Standard flushing toilet, with a porcelin seat and
+all the nicities. The water is not blue, and we drowned the Ty-d-bowl man and
+fed him to the snake last week. Sorry.
+~
+E
+tub~
+It's a tub... You know, where you take baths and stuff? <sniff> Yea, use it!
+~
+E
+sink~
+Looks like a sink to me, there's soap and chrome fixtures, and a basin where
+water can fill into... Amazing isn't it?
+~
+E
+mirror~
+You see the most hideous sight you have ever seen in your life, and you're
+forced to look away before you loose your lunch!
+~
+S
+#3019
+Vryce's Bedroom~
+This is a place where Vryce has been reported to have slept at one time or
+another. Though most of those rumors have been dismissed as completely absurd.
+~
+95 2056 0 7
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 458
+S
+#3020
+Vryce's Basement~
+This is Vryce's basement, it's got one thing going for it, a really excellent
+pool table! Aside from that you see some weights, one of those weight machine
+thingies, and basement stuff like a washer, dryer, water heater, heater, etc.
+You also notice a 70lb Heavyweight bag Vryce bought recently..
+What you can look at: Pool, Weights, Washer, Dryer, Heater
+~
+95 2056 0 7
+0 0 0 0
+0 0 0
+D4
+ ~
+door~
+ ~
+ ~
+1 -1 3014
+D5
+A series of cracks in the floor leads you to believe Rebecca has a secret
+room here.~
+hatch~
+$n begins the ascent towards Rebecca's secret room.~
+You gasp when you realize $n caught you in rebecca's secret room.~
+2 5799 484
+E
+pool~
+It's a nifty pool table, with a blue cloth covered slate, 6 holes, and a bunch
+of balls on it. And no you may not play with Vryce's balls.
+~
+E
+weights~
+They're heavy. (But that's the point, right?)
+~
+E
+washer~
+It washes clothes, you should try one.
+~
+E
+dryer~
+It drys clothes... Good for when clothes get... duhh... er... wet?
+~
+E
+heater~
+It makes the house warm in the winter time. You know, that period of time when
+the weather becomes cold outside?
+[Note to people from the south: We have a thing called Winter up here, during
+that time the temperature drops below what you would call "comfortable", and
+we usually like to keep a little warm.]
+~
+S
+#3021
+Walk in  Closet~
+It is a Newly made spacious walk in closet. Cedar lines with bright warm
+lighting.
+~
+95 2568 0 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3016
+S
+#3022
+Darkwind's Ekel~
+You stand in a large, but rather modest rustic home built into a Vale Tree.
+You see a large Raptor stand for Darkwind's BondBird Vree built into the wall
+by a window. The lighting is warm and against the inner wall lies a bed
+made of dozens of simple soft pillows. Besides a small table by the bed
+and a privacy screen on the north wall, the room is open and empty.
+~
+95 2568 0 7
+0 0 0 0
+0 0 0
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 3023
+S
+#3023
+Natural hot spring, under Darkwind's Ekel~
+You are under Darkwinds private Ekel. Darkwind, as Starblade's son and chief
+scout has the best tree in the Vale, complete with a natural Hot Spring in
+front of you. You are overcome by the pleasant smells of the scented and
+oiled spring, which seems to call to you with a magic of its own. You've never
+felt so secure as you are with Darkwind in his Legendary Vale, who's
+magic has held strong through centuries of war and chaos. You feel a sense of
+belonging here, being taken in as wingsib, with these proud couragious people
+whom have fought evil since before the Great Wars.  To think, just a month ago
+you were Elsepeh, heir to the throne of Valdenor, being forced into a political
+marriage.  Now you find out you have enormous Mage Talents, you can
+mindspeech with BondBirds, and something else you never thought would happen
+again, you've found True Love. Here you are not royalty, here you belong,
+surrounded by your wingsibs, the only outsider to be taken in and given a
+home in the Vale.
+~
+95 2560 3 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3024
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 3022
+S
+#3024
+The Vale of Starblade~
+You stand and marvel at the beauty of the Vale. The trees, so tall they
+reach some lower clouds and wider than some homes in your kingdom of Valdenor.
+The entire Vale is kept up by the magic of the Darkstone, which you
+thought was just legend. You see Darkwinds Ekel on a tree to the North,
+100 spans up, it is a magnificent structure partially built, partially part
+of a wonderful tree. All around you see Darkwind's wingsibs homes and
+large intelligent birds, called Bondbirds. You feel like part of a fairy
+tail as you remember the legendary stories told to you as a sibling about
+these wonderful people, the Vale and bondbirds.
+~
+95 2560 3 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3023
+S
+#3025
+Master bedroom~
+You have entered a large bedroom built into the side of the mountain.  The
+walls are formed of chiseled granite and have cedar panelling around the
+bottom of the wall.  The waterbed is recessed into the floor, allowing you to
+flop down into it quite comfortably, altho you expect getting up will be quite
+an adventure.  A large fireplace heats the room, and there is a large mirror on
+the eastern wall.
+~
+95 2568 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+wooden door~
+ ~
+ ~
+2 5141 195
+D1
+Thru the mirror you can see the busy main street of medievia.
+~
+mirror~
+$n steps thru the looking glass.~
+$n has arrived.~
+1 5141 18
+S
+#3026
+A bedroom~
+A large, richly furnished bedroom.  Against the north wall is a king sized
+waterbed, covered by black satin sheets with many flannel blankets thrown
+on top.  Next to the bed, on either side, is a small night table, made of
+sweet smelling pine.  The east wall of this room does not exist, instead,
+there is a railing over which you can look down into the living room.  The
+vaulted ceiling of the room below continues over to this room and the south
+wall is almost entirely made up of windows, providing a magnificent view
+of the ocean and sunrise.  Your feet are comforted by a thick, soft rug,
+covering the whole floor.  A doorway to the west leads to a walk in closet
+and the spiral staircase leading down to the living room is in the north
+east corner.  A large circular sky light is built in the center of the
+ceiling to let in the late day sun as well as the moonlight.
+~
+95 2056 0 0
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+$n goes into the walk in closet to find something to wear.~
+$n has arrived from the bedroom, looking for something to wear.~
+1 -1 255
+D5
+You stand by the railing and look down, you can see the whole living room
+below you.
+~
+l~
+$n starts down the stairs to the living room.~
+$n walks down the stairs from the bedroom overhead.~
+1 5154 191
+S
+#3155
+Vryce's secret Slot Room~
+The room is filled with slot machines of all makes and models from
+across the lands.  You can see one new one Vryce is working on in
+pieces spread out over a work table.
+~
+95 2572 0 0
+0 0 0 0
+5 274998 99999
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5971
+S
+#3180
+Secret tunnel~
+You walk through a dark tunnel, feeling your way along by hugging the walls.
+~
+95 2056 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3181
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 489
+S
+#3181
+Secret tunnel~
+You walk through a dark tunnel, feeling your way along by hugging the walls.
+~
+95 2056 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3182
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3180
+S
+#3182
+Secret tunnel~
+You walk through a dark tunnel, feeling your way along by hugging the walls.
+~
+95 2056 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3183
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3181
+S
+#3183
+Secret tunnel~
+You walk through a dark tunnel, feeling your way along by hugging the walls.
+~
+95 2056 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3184
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3182
+S
+#3184
+Secret tunnel~
+You walk through a dark tunnel, feeling your way along by hugging the walls.
+~
+95 2056 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3185
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3183
+S
+#3185
+Secret tunnel~
+The tunnel glows with a bright penetrating red light.  You have to
+squint to keep your eyes open as the light is so harsh.  The wall has a
+image engraved into it.  The whole thing takes place at some large castle,
+it depicts a man and a woman fighting an army of monsters.
+To the side is another woman joining the fight.  The detail of the thing is
+like magic.  The closer you get the more you can see.  If you peer into
+the window by the east side you see a bedroom with the door bashed in and
+undead skeletons lying about in broken heaps.  Perhaps this is where the
+battle started.
+~
+95 2056 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3186
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3184
+S
+#3186
+Secret tunnel~
+You walk through a dark tunnel, feeling your way along by hugging the walls.
+~
+95 2056 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3187
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3185
+S
+#3187
+Secret tunnel~
+As you walk through, you feel some strange vibration through your bones, as
+if you were being scanned.  On the wall is a warning, its engraved in pure
+gold and set inscribed into the wall itself.  It reads, only the ones who
+understand the magic may pass.
+~
+95 2056 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3188
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3186
+S
+#3188
+Secret tunnel~
+The walls here have an unnatural glow, filling the area with a dream like
+wavering blue light.  Engraved into the wall is a detailed image of a woman
+dancing in a forest, with a man watching her, sitting
+by a tree.  Gathered all around are animals, all watching this strange
+woman dance.
+~
+95 2056 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3189
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3187
+S
+#3189
+Secret tunnel~
+The tunnel bends back and forth but seems to be following a general
+straight direction.
+~
+95 2056 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3190
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3188
+S
+#3190
+Secret tunnel~
+You walk through a dark tunnel, feeling your way along by hugging the walls.
+~
+95 2056 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3191
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3189
+S
+#3191
+A narrow tunnel~
+Your in a very narrow tunnel system.  Built into the wall is a ladder that
+leads to a trapdoor above you.
+~
+95 525 0 7
+0 0 0 0
+0 0 0
+D0
+A faintly glowing portal.
+~
+portal~
+ ~
+ ~
+2 9508 5644
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3190
+D4
+You see a ladder leading to a trapdoor.
+~
+trapdoor~
+$n steps onto the ladder and climbs up.~
+$n appears through the trapdoor and climbs up to a standing position~
+2 2001 591
+S
+#3207
+A Small Hill South of the Lake~
+You stand in front of a secluded cabin the small sign
+on the door says something about death to those who
+uninvitedly intrude. better find out who's house
+it is before going in.
+~
+95 0 5 1
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1538
+D1
+~
+~
+~
+~
+0 -1 3210
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3208
+S
+#3208
+The Base of a Hill~
+To the south there is a cave. Maybe you could explore it.
+~
+95 0 5 1
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3207
+D2
+A door to a secluded cabin... looks locked.
+~
+wood door~
+ ~
+ ~
+2 2001 3209
+S
+#3209
+The Mouth of a Cave~
+You stand before a large cave. Do you dare enter? Try it.
+~
+95 12 5 1
+0 0 0 0
+0 0 0
+D0
+The cabin door.
+~
+door~
+ ~
+ ~
+2 2001 3208
+D2
+ ~
+door~
+ ~
+ ~
+1 -1 3213
+S
+#3210
+Megan's Cozy Cottage~
+You have entered into a warm and cozy mountain cottage.  You feel
+warmth from both the fireplace in front of you and the love
+radiating from the cottage itself.  There is a plush fur rug thrown
+in front of the fireplace.  The rug is surely imatation since Megan
+would never hurt an animal.  There are various pictures of Megan and her
+puppy she named Benji.  On either side of the pictures are coal oil lamps.
+The furniture is made of hard maple wood and the floor of laced pine.
+There are beautiful plants and trees all about the room.  You
+sense you are very welcome here.
+Mister, her blue billed parrot is on his little stand.  He loves to pirch
+there and have Megan read books to him and Benji by the light of the fire.
+~
+95 12 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2095
+D3
+~
+~
+~
+~
+0 -1 3207
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 3211
+S
+#3211
+Stairs leading to the loft~
+You are standing on a polished wooden staircase, leading up to a loft.
+~
+95 8 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2090
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 3210
+S
+#3213
+Inside a Cave~
+Dark, damp and musty, after all it is a cave.
+~
+95 8 5 7
+0 0 0 0
+0 0 0
+D0
+ ~
+door~
+ ~
+ ~
+1 -1 3209
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 3214
+S
+#3214
+A Small Cave~
+You are in a small cave and the light is dim. You smell water somewhere
+nearby. As you glance west you see a pool of some sorts.
+~
+95 8 5 7
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3564
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 3213
+S
+#3564
+An Underground Pool~
+You are suprised to find such beauty underground. As you lean down you
+see trout swimming around this oasis of sorts. MMMmmmmmmmm the water
+tastes great.
+~
+95 262152 6 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3214
+S
+#5644
+A strangely glowing passageway~
+You are inside a very odd corridor.  The walls are made of a misty substance
+which glows eerily.  You can see through the mist somewhat into a vast, empty
+darkness beyond.
+~
+95 552 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5646
+D2
+ ~
+portal~
+ ~
+ ~
+2 9508 3191
+S
+#5645
+A strangely glowing passageway~
+You are inside a very odd corridor.  The walls are made of a misty substance
+which glows eerily.  You can see through the mist somewhat into a vast, empty
+darkness beyond.
+~
+95 552 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5646
+D3
+An enourmous black iron door.
+~
+door black iron~
+ ~
+ ~
+1 -1 5647
+S
+#5646
+A strangely glowing passageway~
+You are inside a very odd corridor.  The walls are made of a misty substance
+which glows eerily.  You can see through the mist somewhat into a vast, empty
+darkness beyond.
+~
+95 552 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5645
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5644
+S
+#5647
+A large chamber~
+You are in a large, square chamber in this extra-dimensional space.
+The walls, floor and ceiling and all made of the same strange glowing
+grey mist as the corridor is.  Bookcases line all four walls, filled with
+magical tomes and scrolls.  A large table made of marble sits in the middle
+of the chamber.  Atop the table rests a large urn-like bottle, made of black
+stone.
+~
+95 556 0 0
+0 0 0 0
+0 0 0
+D1
+An enourmous black iron door.
+~
+door black iron~
+ ~
+ ~
+1 -1 5645
+D5
+ ~
+urn vial phylactery lid~
+$n suddenly turns gaseous and is sucked into the phylactery.~
+$n arrives in a gaseous state, more than slightly confused.~
+2 9505 3704
+E
+urn bottle phylactery vial~
+This bottle is carved from a type of black stone you've never seen before.
+The bottom is more narrow than the top, tappering upward then coming
+back in sharply where the lid is.  The lid, which is actually more like a
+cork in a wine bottle, is made of stone also.  A ring of silver wax seals
+the urn closed.
+~
+S
+#5971
+Vryce's secret Game Room~
+The room is not very big but designed in a way to comfort and
+make you feel at home.  There is a bar here and a awsome stereo
+system.  The cabin walls are are lit by hidden magic lights creating
+a mystical underwater effect.  The east wall has a large tapestry
+depicting great historical events of Medievia.  In the center of
+the room is a round card table stolen from the Goblin King
+by Reese.
+~
+95 2572 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3155
+D1
+You see a wall covers with tapestries depicting great
+historical events of Medievia.
+~
+tapestry~
+$n dissapears behind the tapestry.~
+$n enters from behind the bookcase~
+2 2001 835
+S
+#6151
+Highest point of Medievia~
+You stand on the highest reachable point of mount Vryce.  Clouds whisp by
+as if they were angels flying about towards some goal.  You feel very
+small standing here, so close to god...you feel your stomach lurch at the
+thought of annoying him.  You wonder how Vryce lives here, so high up,
+so close to the presense of god...you wonder if God and Vryce are friends..
+Shiver..you wake from your thoughts to notice a button that you swear was
+not part of the cliff face a moment ago.  Perhaps you should push it?
+~
+95 576 5 7
+0 0 0 0
+0 0 0
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 610
+S
+#6197
+Secret corridor~
+A flickering candle on a small table halfway down the corridor is
+all that lights this dark hallway. The dim light casts strange images
+on the huge door that lies beyond.
+~
+95 524 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+gate~
+You see $n disappear through the huge gate.~
+$n enters through the huge gate.~
+2 18002 597
+D2
+ ~
+energyfield~
+You see $n disappear through the field.~
+$n appears through the energyfield~
+2 18002 6198
+S
+#6198
+-= Sanctuary =-~
+                       |--__
+                       |                    :.     .        ,o88o,
+                       X                   ;;::   ;:.      d888888b
+              |-___   / \       |--__     ;;   :,;'  :     8888888B
+              |      =====      |       ,;;     :;'   :.   `Y8888P'
+              X      | .:|      X      ;;;   :   ::.    :.   `""'
+             / \     | O |     / \   ,;;;   :       :.    :....,,,,,,,,,,
+            =====   |:  . |   ====,,;;;            . :.....;;;;;;;;;;;;;;
+--__    --__|.: |__| .   : |__| :.|    --__    --__  -
+_       _   |  :|. :  ...   : |.  | -___       _           --
+    __   __W| .    .  ||| .      :|W__  --      --         -----  --
+  -- __  W  WWWW______"""______WWWW   W -----  ------  --     --__  -
+ -     ___  ---    ____     ____----       --__    --__  -    _
+  --__    --    --__     -___        __-   _       _
+---        --           ----         ---
+~
+95 524 0 0
+0 0 0 0
+0 0 0
+D0
+The energy field shimmers
+~
+energyfield~
+You see $n slip through the energyfield.~
+The field fades and $n emerges.~
+2 18002 6197
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6207
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6237
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 2733
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 6201
+S
+#6199
+-= Sulty's Toy Box =-~
+ ~
+95 524 0 0
+0 0 0 0
+0 0 0
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 6200
+S
+#6200
+-= Sulty's Bedroom =-~
+ ~
+95 524 0 0
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6207
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 6199
+S
+#6201
+-=The Aquarium=-~
+      |\    o                      o           o o
+      |  \    o        \\    o      o            o       ,,///;,   ,;/
+  |\ /    .\ o     |\/    o\  o                    o   o)::::::;;///
+  | |       (      >       < o      /                  >::::::::;;\\\
+  |/ \     /       |/\     /      <O<{    /              ''\\\\\'" ';\
+      |  /             //           \   <O<{                  ';\
+      |/                                  \
+                 >^);>                >-^);>               >^);>
+       \/             ,         o                     ,
+      \/   o         .:/               o             .:/            \/
+     \/   o    ,,///;, ,;/            o        ,,///;,    ,;/   \ \/
+      \   o  o:33333:;///          \    o    o:3333333:;;///     \/
+       \/   >:33333333;\\\          \/      >:333333333;;\\\      \/
+      \/      ''\\\\\'" ';\          \/        ''\\\\\'"  ';\    \/
+       \/          ';\              \/              ';\         \/
+~
+95 524 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6202
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 6198
+S
+#6202
+End of the passage..~
+ ~
+95 2572 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6201
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 6206
+S
+#6206
+Torture Chamber~
+There are no exits, except the one above.  You wonder why
+it feels as if the room is closing in on you.
+~
+95 38 2 0
+0 0 0 0
+0 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 6202
+S
+#6207
+-= The Honeymoon Suite =-~
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+You can't help but be overwhelmed at the lavishness of this suite! From
+the jacuzzi on the terrace, to the huge four-poster bed on a raised platform
+this room is a happy couples dream.
+..
+Asskicker and his bride, Sultress will spend their first days of married life
+here. Lucky for them, everything they could possibly need is right here.
+Even down to the leather straps attached to each of the bed posts...
+..
+There is a CERTIFICATE hanging on the wall marking the happy occassion.
+There is also a picture of Sulty's pet FROG, Hopper.. what a whopper! :)
+Type Look SNEAKER to see Ak's pride and joy...
+~
+95 524 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6200
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6198
+E
+sneaker shoe~
+                                        ,,------,,..
+                             ...., ,'-             |
+Asskicker's Sneaker          \    V                /
+                              \  /                 /
+                              ;####>     @@@@@     )
+                              ##;,      @@@@@@@    )
+                           .##/  '>      @@@@@   .   .
+                          ###''#>              '      '
+      .:::::::.      ..###/ #>               '         '
+'     //////))))------ ## #}                '            '
+   ///////))))))                          '             '
+  ///////)))))))\                        '              '
+ //////)))))))))))                                      '
+ |////)))))))))))))____________________________________).
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+ ``````````````''''''''''''''''''''''''''''
+..... what is a man without his sneakers?  uhmmm barefoot?
+~
+E
+certificate plaque license~
+*>*>*>*>*>*>*>*>*>*>*>*>*>*>*>*>*>*>*>*>*>*>*>*>*>*>*
+*>*                                                                       *>*
+*>*                                                                       *>*
+*>*          Official Medievia Certificate of UNholy MUDtrimony           *>*
+*>*                                                                       *>*
+*>* This certifies that on Friday the 28th day of April in the year 1995  *>*
+*>*                                                                       *>*
+*>*               Asskicker, God of Mortal Entertainment                  *>*
+*>*                                                                       *>*
+*>*   did take as his MUDmate, Mistress, Buddy, & one and only Baby       *>*
+*>*                                                                       *>*
+*>*           Sultress, Goddess of Seduction & r.g.m.d                    *>*
+*>*                                                                       *>*
+*>*                                                                       *>*
+*>* This happy union was executed at Finch's Brothel, City of Trellor     *>*
+*>* by the Madame of the house, Mika.  Consumation of this union to take  *>*
+*>* place in the Honeymoon Suite, GodMountain.                            *>*
+*>*                                                                       *>*
+*>*                                                                       *>*
+*>*      Witnessed by the honorable Shalafi, God of the World.            *>*
+*>*                                                                       *>*
+*>*                                                                       *>*
+*>*>*>*>*>*>*>*>*>*>*>*>*>*>*>*>*>*>*>*>*>*>*>*>*>*>*
+~
+E
+frog hopper~
+           ____  __.---""---.__  ____
+          /####\/              \/####\
+         (   /\ )              ( /\   )
+          \____/                \____/
+        __/           *  *           \__
+     .-"    .                      .    "-.
+     |  |   \.._                _../   |  |    Sulty's Pet Frog
+      \  \    \."-.__________.-"./    /  /
+        \  \    "--.________.--"    /  /           Hopper
+      ___\  \_                    _/  /___
+    ./    )))))                   (((((    \.
+    \                                      /
+     \           \_          _/           /
+       \    \____/""-.____.-""\____/    /
+         \    \      ((\ \)      /    /
+          \.  .|      "'\ \     |.  ./
+        ." / |  \        \,)  /  | \  ".
+     ."  /   |   \           /   |   \   ".
+    /.-./.--.|.--.\         /.--.|.--.\.-.|
+~
+S
+#6229
+Medievia Conference Room - Code~
+THINGS to save to new player file structures...
+_______________________________________________
+Alias's
+Equipment location and possibly contained in
+Setgod flags
+~
+95 8 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 223
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6256
+S
+#6237
+-= Ak and Sulty's Boxing Ring =-~
+As you enter here the first thing you notice is the view. Mountains
+stretch in every direction and the sky is like an overturned brilliant blue
+bowl above you.
+    The second thing you notice is that you are not standing on anything
+visible! It is as if you are floating in midair, but there is something of
+substance beneath you. You can see a river meandering between the mountains far
+below and you can make out clusters of buildings that must be cities or
+villages. The ocean shimmers in the distance to the west. Looking down you
+get the distinct impression you may start falling at any second...
+Look at the RING to see where the actual bouts are held.
+~
+95 522 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6198
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 844
+E
+ring~
+         O________________________________________________________O
+        /I________________________________________________________I\
+       //I________________________________________________________I\\
+      ///I                                                        I\\\
+     ///                                                            \\\
+    ///                                                              \\\
+   ///                                                                \\\
+  ///                                                                  \\\
+O///                                                                    \\\O
+I--------------------------------------------------------------------------I
+I--------------------------------------------------------------------------I
+I--------------------------------------------------------------------------I
+I                                                                          I
+============================================================================
+|                                                                          |
+|                                 AK vs. Sulty                             |
+|                                                                          |
+============================================================================
+~
+S
+#6256
+Medievia Conference Room - Planning~
+RECODE the shops-while redoing objects, shops should be more interesting
+New HELP, all of it, in seperate files...
+New database code with Context sensitive help
+Hire someone for catacomb descriptions
+New Polling module
+new MENU at sign on, look menu here for more details
+Shalafi's ideas:...
+New room flags, such as FIRE, GAS, COLD and ACID.
+New way of mana regen in sectors, so creators have more control
+Hideen and Secret doors, with a new skill: search
+New mob format, so we can add things like Str: 18, NumAttacks: 8, etc
+TUNNEL room flag, to allow only 1 mob and 1 pc in a room at a time
+Limit the amount of elementals a player can have in form: 2 maybe.
+Change the way mob thaco is calculated: based on level
+~
+95 8 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6229
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2735
+E
+menu~
+The menu sucks, looks like every other stupid mud in the world.
+WHAT ELSE can it do?  Show who is online, give MUDINFO command.. show
+how many people have connected, WE NEED A NEW STORY, THINK! What else
+can it do?  Feel free to edit this as you think of things, dont forget
+to save the zone afterwards.
+~
+S
+#19999
+$~

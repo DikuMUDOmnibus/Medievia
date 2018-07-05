@@ -1,0 +1,150 @@
+
+HELP
+There is help available for the following categories, if you are a new user,
+and need help getting started, type <help newuser>. To get help on anyone of
+the items in these categories simply type <help item>, eg <help breath>.  To
+see a seperate list of items from only one category type <help category>,
+eg. <help travel>.
+
+CHARACTER    COMBAT   	COMMANDS     COMMUNICATION   TRADE       TRAVEL     
+---------    ------   	--------     -------------   -----       ------     
+AGE          ASSIST     ENVIRONMENT  CLANTALK        ECONOMOMY   FORMATION
+BREATH       ATTACK     GAME 	     DISCUSSION      FREIGHT     GROUP
+CLASS        DAMMAGE    SOCIAL 	     GOSSIP	         MUDSLINGER  FLYING
+EQUIPMENT    DEATH                   PRAY            TRADESHOPS  MAPS           EXPERIENCE   EXPERIENCE  			 SAY 			  TRADABLES   MOUNTS
+INVENTORY    HIT         	         SHOUT		                 MOVE        
+LEVEL        HITPOINTS   	         TALK		        		 SURVEY
+MONEY        LOOT	     	         TELL 						 WILDERNESS
+PROMPT       PK          	         QUEST
+SCORE              
+SKILLS       
+SPELLS
+STATISTICS
+#
+CHARACTER
+This section is designed to get you aquainted with different aspects of your
+character.  For help on any one of the following items, simply type <help
+item>, eg. <help breath>.
+
+AGE  BREATH  CLASS  EQUIPMENT  INVENTORY  LEVEL MONEY PROMPT SCORE SKILLS
+SPELLS STATISTICS  
+#
+AGE
+When you start the game you will be 17 years old, a young adventurer. As
+time passes in Medievia, you will age. The process of aging will have
+some effects on your character's statistics. At first you will still be
+growing, and this growth will be reflected in slight increases in your
+hitpoints, mana, and movement, as well as in the speed with which you
+recover from long marches, and injury. Life is good, and the world seems
+full of possibilities. Unfortunately, as the growth subsides the decline
+begins. The years of battle begin to carve thier mark on your character's
+vital statistics; the spring leaves your step, the hertasi bolts seem to
+hurt more than they used to, and you wonder if the gutters on the roof of
+your house need cleaning... The only thing that seems to defy old age is
+your mystical energy, or mana. Mana continues to increase throughout your
+life, and your ability to recover this mana also increases. Once you reach
+the age of 80 the whole process stops, the God Vryce has seen fit to reward
+your years of struggle, and you will no longer age. You vaguely remember
+that shorts with dark, knee high socks are the height of fasion.
+
+Remember that the aging process takes place regardless of whether or not
+you are logged on.  This means that if you don't play your character for
+several months, when you return you will find a character older than the
+one you left. There are ways to effect your age, the most common being the
+use of equipment which magically alters your age. It is also rumored that age
+can be reduced through the special magic of eggs. SEE EGGS
+#
+BREATH
+Breath literally indicates how much oxygen you have to work with.  Breath
+differs from movement in that it indicates how much air you are getting in
+proportion to how fast your moving.  The faster you move, the more oxygen
+you require, at some critical point your muscles will be consuming more
+oxygen than you are able to take in.  If this happens your breath will
+reach 0, and you will have to slow down. Note that breath regenerates
+Much faster than movement.
+#
+CLASS
+At the time you created your character, you selected a profession, ie 
+"cleric, mage, thief or warrior". Each class has it's own speciffic 
+atributes, and skills. Your class will largely determine the role you 
+play. To see help on any of the following classes type <help class>        
+eg.  <help warrior
+
+	CLERIC   MAGE   THIEF   WARRIOR
+#
+CLERIC
+
+A Cleric is very valued member of any FORMATION.  They will usually be kept
+protected, so they can concentrate on healing the injured members.
+Clerics have the ability to CAST spells and have about the same hit points
+as a THIEF. A Cleric begins the game with a WISdom of 16.
+Due to the religious training of a Cleric's Deity, they are not permitted
+to use edged weapons.
+
+See also: PRACTICE, TRAIN, CAST, SPELLS
+#
+yMAGE "MAGIC USER" WIZARD
+
+Mages have the ability to cast SPELLS at the expense of low hit points.
+They are normally placed in the back of a FORMATION where they can attack
+with offensive spells, without being harmed.
+A Mage begins the game with an INTelligence of 16
+Because of a Mage's sole devotion to the Art, they only learn to use
+daggers and staves in combat.
+
+See also: PRACTICE, TRAIN, CAST, SPELLS
+#
+THIEF
+
+Thieves have many skills which could greatly help a group or completely
+destroy an opposing group.  Thieves are very good as soloing adventurers.
+When in a FORMATION, a thief's job is to loot corpses and to warn the party
+of nearby enemies.
+A Thief will gain more hit points per level than a MAGE, but not as much
+as a WARRIOR.  Thieves also gain MANA per level.  A Thief begins the game
+with a DEXterity of 16.
+
+SKILLS:
+    PICK
+    SNEAK
+    HIDE
+    BACKSTAB
+    THROW
+    DISARM
+    SCAN
+    STEAL
+    DUAL
+    TRIP
+    TRACK
+    TRAP
+    DODGE
+    MEDITATE
+
+See also: PRACTICE, TRAIN
+#
+WARRIOR FIGHTER
+
+A Warrior's main duty is to protect the other group members.  Because of
+their high hit points, they will usually be placed in the front line of
+a FORMATION where they will be subjected to most of the damage.
+A Warrior will gain more hit points per level than other classes.  However
+their MANA will remain at 100. A Warrior begins the game with a STRength
+of 16.
+A warrior is profiecent in nearly every type of weapon.  However, there
+are some weapons which have powerful enchantments, placed there by powerful
+magic, that prevent a warrior from using them.
+
+SKILLS:
+    KICK
+    BASH
+    PARRY
+    RESCUE
+    CHARGE
+    DISARM
+    SECONDATTACK
+    THIRDATTACK
+    MEDITATE
+
+See also: PRACTICE, TRAIN
+#
+

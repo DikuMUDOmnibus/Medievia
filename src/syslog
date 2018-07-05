@@ -1,0 +1,523 @@
+Fri Jan 19 15:55:50 1996 :: *******USING MEMORY_DEBUG********
+
+
+**CONFIGURING DESCRIPTORS**
+descriptors limit : 64
+files old soft    : 64
+files old hard    : 256
+Setting rlimit______Number files
+descriptors limit : 256
+files new soft    : 256
+files new hard    : 256
+
+
+
+**CONFIGURING THE STACK**
+stack old soft    : 8388608
+stack old hard    : 402653184
+Setting rlimit______Stack size
+stack new soft    : 40960000
+stack new hard    : 402653184
+
+
+Fri Jan 19 15:55:51 1996 :: [Port 4444] [Dir ../lib].
+Fri Jan 19 15:55:54 1996 :: Current Gametime: 20H 17D 14M 384Y.
+Fri Jan 19 15:55:54 1996 :: Reading aux files.
+Fri Jan 19 15:55:54 1996 :: Opening mobile, object and help files.
+Fri Jan 19 15:55:54 1996 :: top_trivia = 47
+Fri Jan 19 15:55:56 1996 :: Loading MEDIEVIA files.....
+Fri Jan 19 15:55:56 1996 :: Loading list of banned sites....
+Fri Jan 19 15:55:56 1996 :: Loading Zone File
+.......................................................Done
+Fri Jan 19 15:55:59 1996 :: Loading Medievia Room Files (New INTENSE type)
+.......................................................Done
+Fri Jan 19 15:56:31 1996 :: Verifying all room EXITS:
+Fri Jan 19 15:56:31 1996 :: ##room 0 has exit to room 63323 which isn't here!
+Fri Jan 19 15:56:31 1996 :: ##room 0 has exit to room 63319 which isn't here!
+Fri Jan 19 15:56:31 1996 :: ##room 0 has exit to room 60933 which isn't here!
+Fri Jan 19 15:56:31 1996 :: ##room 477 has exit to room 63454 which isn't here!
+Fri Jan 19 15:56:31 1996 :: ##room 551 has exit to room 63432 which isn't here!
+Fri Jan 19 15:56:31 1996 :: ##room 706 has exit to room 63429 which isn't here!
+Fri Jan 19 15:56:31 1996 :: ##room 727 has exit to room 63361 which isn't here!
+Fri Jan 19 15:56:31 1996 :: ##room 727 has exit to room 63360 which isn't here!
+Fri Jan 19 15:56:31 1996 :: ##room 727 has exit to room 63362 which isn't here!
+Fri Jan 19 15:56:31 1996 :: ##room 732 has exit to room 63384 which isn't here!
+Fri Jan 19 15:56:31 1996 :: ##room 748 has exit to room 63379 which isn't here!
+Fri Jan 19 15:56:31 1996 :: ##room 748 has exit to room 63378 which isn't here!
+Fri Jan 19 15:56:31 1996 :: ##room 748 has exit to room 63380 which isn't here!
+Fri Jan 19 15:56:31 1996 :: ##room 760 has exit to room 63436 which isn't here!
+Fri Jan 19 15:56:31 1996 :: ##room 760 has exit to room 63434 which isn't here!
+Fri Jan 19 15:56:31 1996 :: ##room 760 has exit to room 63435 which isn't here!
+Fri Jan 19 15:56:31 1996 :: ##room 908 has exit to room 63453 which isn't here!
+Fri Jan 19 15:56:31 1996 :: ##room 908 has exit to room 63452 which isn't here!
+Fri Jan 19 15:56:31 1996 :: ##room 908 has exit to room 63454 which isn't here!
+Fri Jan 19 15:56:31 1996 :: ##room 2200 has exit to room 63398 which isn't here!
+Fri Jan 19 15:56:31 1996 :: ##room 2220 has exit to room 63467 which isn't here!
+Fri Jan 19 15:56:31 1996 :: ##room 2222 has exit to room 63465 which isn't here!
+Fri Jan 19 15:56:31 1996 :: ##room 2223 has exit to room 63466 which isn't here!
+Fri Jan 19 15:56:31 1996 :: ##room 2225 has exit to room 63464 which isn't here!
+Fri Jan 19 15:56:31 1996 :: ##room 3389 has exit to room 63463 which isn't here!
+Fri Jan 19 15:56:31 1996 :: ##room 3390 has exit to room 63461 which isn't here!
+Fri Jan 19 15:56:31 1996 :: ##room 3390 has exit to room 63459 which isn't here!
+Fri Jan 19 15:56:31 1996 :: ##room 3391 has exit to room 63462 which isn't here!
+Fri Jan 19 15:56:31 1996 :: ##room 3392 has exit to room 63466 which isn't here!
+Fri Jan 19 15:56:31 1996 :: ##room 3392 has exit to room 63460 which isn't here!
+Fri Jan 19 15:56:31 1996 :: ##room 3393 has exit to room 63465 which isn't here!
+Fri Jan 19 15:56:31 1996 :: ##room 3394 has exit to room 63464 which isn't here!
+Fri Jan 19 15:56:31 1996 :: ##room 3395 has exit to room 63450 which isn't here!
+Fri Jan 19 15:56:31 1996 :: ##room 3395 has exit to room 63452 which isn't here!
+Fri Jan 19 15:56:31 1996 :: ##room 3396 has exit to room 63456 which isn't here!
+Fri Jan 19 15:56:31 1996 :: ##room 3397 has exit to room 63458 which isn't here!
+Fri Jan 19 15:56:31 1996 :: ##room 3398 has exit to room 63448 which isn't here!
+Fri Jan 19 15:56:31 1996 :: ##room 3399 has exit to room 63449 which isn't here!
+Fri Jan 19 15:56:31 1996 :: ##room 3400 has exit to room 63451 which isn't here!
+Fri Jan 19 15:56:31 1996 :: ##room 3400 has exit to room 63445 which isn't here!
+Fri Jan 19 15:56:31 1996 :: ##room 3401 has exit to room 63446 which isn't here!
+Fri Jan 19 15:56:31 1996 :: ##room 3402 has exit to room 63447 which isn't here!
+Fri Jan 19 15:56:31 1996 :: ##room 3596 has exit to room 63407 which isn't here!
+Fri Jan 19 15:56:31 1996 :: ##room 3596 has exit to room 63408 which isn't here!
+Fri Jan 19 15:56:31 1996 :: ##room 3981 has exit to room 63453 which isn't here!
+Fri Jan 19 15:56:31 1996 :: ##room 3982 has exit to room 63455 which isn't here!
+Fri Jan 19 15:56:31 1996 :: ##room 3983 has exit to room 63457 which isn't here!
+Fri Jan 19 15:56:31 1996 :: ##room 4016 has exit to room 63337 which isn't here!
+Fri Jan 19 15:56:31 1996 :: ##room 4016 has exit to room 63336 which isn't here!
+Fri Jan 19 15:56:31 1996 :: ##room 4016 has exit to room 63338 which isn't here!
+Fri Jan 19 15:56:31 1996 :: ##room 4047 has exit to room 63365 which isn't here!
+Fri Jan 19 15:56:31 1996 :: ##room 4047 has exit to room 63367 which isn't here!
+Fri Jan 19 15:56:31 1996 :: ##room 4047 has exit to room 63366 which isn't here!
+Fri Jan 19 15:56:31 1996 :: ##room 4049 has exit to room 63363 which isn't here!
+Fri Jan 19 15:56:31 1996 :: ##room 4049 has exit to room 63364 which isn't here!
+Fri Jan 19 15:56:32 1996 :: ##room 4530 has exit to room 63417 which isn't here!
+Fri Jan 19 15:56:32 1996 :: ##room 4530 has exit to room 63418 which isn't here!
+Fri Jan 19 15:56:32 1996 :: ##room 4530 has exit to room 63419 which isn't here!
+Fri Jan 19 15:56:32 1996 :: ##room 4533 has exit to room 63410 which isn't here!
+Fri Jan 19 15:56:32 1996 :: ##room 4533 has exit to room 63409 which isn't here!
+Fri Jan 19 15:56:32 1996 :: ##room 4537 has exit to room 63412 which isn't here!
+Fri Jan 19 15:56:32 1996 :: ##room 4537 has exit to room 63411 which isn't here!
+Fri Jan 19 15:56:32 1996 :: ##room 4551 has exit to room 63385 which isn't here!
+Fri Jan 19 15:56:32 1996 :: ##room 4551 has exit to room 63384 which isn't here!
+Fri Jan 19 15:56:32 1996 :: ##room 4551 has exit to room 63386 which isn't here!
+Fri Jan 19 15:56:32 1996 :: ##room 4585 has exit to room 63392 which isn't here!
+Fri Jan 19 15:56:32 1996 :: ##room 4586 has exit to room 63391 which isn't here!
+Fri Jan 19 15:56:32 1996 :: ##room 4586 has exit to room 63390 which isn't here!
+Fri Jan 19 15:56:32 1996 :: ##room 4595 has exit to room 63381 which isn't here!
+Fri Jan 19 15:56:32 1996 :: ##room 4596 has exit to room 63382 which isn't here!
+Fri Jan 19 15:56:32 1996 :: ##room 4596 has exit to room 63383 which isn't here!
+Fri Jan 19 15:56:32 1996 :: ##room 4692 has exit to room 63394 which isn't here!
+Fri Jan 19 15:56:32 1996 :: ##room 4692 has exit to room 63393 which isn't here!
+Fri Jan 19 15:56:32 1996 :: ##room 4692 has exit to room 63392 which isn't here!
+Fri Jan 19 15:56:32 1996 :: ##room 4692 has exit to room 63395 which isn't here!
+Fri Jan 19 15:56:32 1996 :: ##room 4729 has exit to room 63398 which isn't here!
+Fri Jan 19 15:56:32 1996 :: ##room 4729 has exit to room 63397 which isn't here!
+Fri Jan 19 15:56:32 1996 :: ##room 4729 has exit to room 63396 which isn't here!
+Fri Jan 19 15:56:32 1996 :: ##room 4729 has exit to room 63399 which isn't here!
+Fri Jan 19 15:56:32 1996 :: ##room 4826 has exit to room 63429 which isn't here!
+Fri Jan 19 15:56:32 1996 :: ##room 5034 has exit to room 63388 which isn't here!
+Fri Jan 19 15:56:32 1996 :: ##room 5034 has exit to room 63387 which isn't here!
+Fri Jan 19 15:56:32 1996 :: ##room 5034 has exit to room 63389 which isn't here!
+Fri Jan 19 15:56:32 1996 :: ##room 5176 has exit to room 63428 which isn't here!
+Fri Jan 19 15:56:32 1996 :: ##room 5500 has exit to room 63413 which isn't here!
+Fri Jan 19 15:56:32 1996 :: ##room 6155 has exit to room 63364 which isn't here!
+Fri Jan 19 15:56:32 1996 :: ##room 6155 has exit to room 63363 which isn't here!
+Fri Jan 19 15:56:32 1996 :: ##room 6155 has exit to room 63365 which isn't here!
+Fri Jan 19 15:56:32 1996 :: ##room 6225 has exit to room 63491 which isn't here!
+Fri Jan 19 15:56:32 1996 :: ##room 6411 has exit to room 63375 which isn't here!
+Fri Jan 19 15:56:32 1996 :: ##room 13304 has exit to room 63412 which isn't here!
+Fri Jan 19 15:56:32 1996 :: ##room 13304 has exit to room 63411 which isn't here!
+Fri Jan 19 15:56:32 1996 :: ##room 13304 has exit to room 63413 which isn't here!
+Fri Jan 19 15:56:32 1996 :: ##room 13469 has exit to room 13501 which isn't here!
+Fri Jan 19 15:56:32 1996 :: ##room 13621 has exit to room 13501 which isn't here!
+Fri Jan 19 15:56:32 1996 :: ##room 14999 has exit to room 63460 which isn't here!
+Fri Jan 19 15:56:32 1996 :: ##room 14999 has exit to room 63461 which isn't here!
+Fri Jan 19 15:56:32 1996 :: ##room 16901 has exit to room 63440 which isn't here!
+Fri Jan 19 15:56:32 1996 :: ##room 19002 has exit to room 63430 which isn't here!
+Fri Jan 19 15:56:32 1996 :: Loading Mobile files
+Fri Jan 19 15:56:39 1996 :: ##man member council exp to low, adjusting...
+
+Fri Jan 19 15:56:41 1996 :: ##thanos exp to low, adjusting...
+
+Fri Jan 19 15:56:43 1996 :: #mobs with class 1190 - Without class 0 - Total 1190
+Fri Jan 19 15:56:43 1996 :: MOBS: Mage=141 Cleric=134 Warrior=436 Thief=151 Other=328
+Fri Jan 19 15:56:43 1996 :: Loading Object files
+Fri Jan 19 15:56:50 1996 :: Loading Room Actions
+.(num=56).(num=57).(num=58).(num=59).(num=60).(num=61)Done
+Fri Jan 19 15:56:50 1996 :: Loading messages.
+Fri Jan 19 15:56:50 1996 :: Loading socials.
+Fri Jan 19 15:56:50 1996 :: Loading poses.
+Fri Jan 19 15:56:51 1996 :: Assigning function pointers.
+Fri Jan 19 15:56:51 1996 :: Building the CATACOMBS...
+Fri Jan 19 15:56:51 1996 :: CATACOMB Entrance room is #65533
+CATACOMB: Getting Pre-processed room descriptions.
+X<><>X<>X<>X<>X<>X<>X<>X<><>X<>X<><>X<><>X<>X<>X<>X<>X<>X<>X<>DONE
+CATACOMB: Generating Map Skeleton Level 0
+CATACOMB: Generating Map Skeleton Level 1
+CATACOMB: Generating Map Skeleton Level 2
+CATACOMB: Generating Map Skeleton Level 3
+CATACOMB: Generating Map Skeleton Level 4
+CATACOMB: Generating Map Skeleton Level 5
+CATACOMB: Weighting rooms.....
+CATACOMB: Analyzing Rooms Pass 1...Flagging lakes & caverns
+CATACOMB: Analyzing Rooms Pass 2....Possible Islands and Huge Areas
+CATACOMB: Analyzing Rooms Pass 3....Optimizing for underwater Tunnels
+CATACOMB: Analyzing Rooms Pass 4....Re-Morphing Tunnels
+CATACOMB: Making room Connections....
+CATACOMB: Designing and placing descriptions....
+CATACOMB: Editing and tweaking details....
+CATACOMB: Populating Catacombs......
+CATACOMBS: 621 rooms have a room above and 4454 rooms are OU
+CATACOMBS: 17 CaveRays placed
+CATACOMBS: 17 Whirlpools placed
+Fri Jan 19 15:57:00 1996 :: in do_makedoor
+Fri Jan 19 15:57:00 1996 :: in do_makedoor
+Fri Jan 19 15:57:00 1996 :: CATACOMBS: 621 rooms have a room above and 4454 rooms are OU
+
+
+TEMPLATE CODES FOR CATACOMB MAP
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+L=Lake
+B=Beach to Lake
+C=Cavern
+V=VERTICAL up/down across LEVELS
+H=HUGE Cavern
+I=ISLAND in the middle of a lake
+S=Stream in tunnel you swim through UNDERWATER
+h=Hole where you enter/exit STREAM(up/down)
+E=Entrance to the catacombs
+M=Cave Manatite room
+R=Cave Correl room
+b=Bend in the Tunnal
+W=Waterfall
+P=Cave Paintings
+
+Built Catacomb LEVEL 0  35x29 333 rooms
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@23RPM22M                    P32M3BM@@
+@@P3     bb                  bLB  BLM@@
+@@ bb     P                  3B3PPLb @@
+@@  3M22R2LB3CBb             M    2  @@
+@@  M     b3CBLB             P   bb  @@
+@@  bb        BLb            2   M   @@
+@@   bPPb     bLBb          bB  bb   @@
+@@      2      2 bb         BL2c3    @@
+@@      bMcPM1 M  bR23322M233B  R    @@
+@@             2     C3    2 M  R    @@
+@@             c    bLB   b3 2  2    @@
+@@             2    BLB b233 1  2    @@
+@@             M    BLLB3  2    P    @@
+@@             b2b  BLBLB  2    R    @@
+@@               b3BLB B3  2    M    @@
+@@                3CW3BLB  Bb   P    @@
+@@      1322M2223CC M bB3PRLB  b3    @@
+@@       2      CLB 2      B3  3C    @@
+@@       M    bCCBb bb     3C bC3    @@
+@@       2    B3     b23b  C3 P 2    @@
+@@       P   bLB       CV  33R3 P    @@
+@@       bb b3Bb       BLb 2  C33    @@
+@@        BB3          bB323  333    @@
+@@       bLLB              b33b bPb  @@
+@@      bBLLBhSSSSSSS       3C    2  @@
+@@     bb bB        bRb     b3    bb @@
+@@     2   R          2      3C3b  b1@@
+@@     2   2          b222M223CC3Pb  @@
+@@1M2223M22R                      221@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+Built Catacomb LEVEL 1  35x29 340 rooms
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@1                             1P22M@@
+@@2                                 2@@
+@@2                                 P@@
+@@2                                 2@@
+@@2b                                2@@
+@@ b22b                             2@@
+@@    3C3222Rb                      2@@
+@@    b33    P                      R@@
+@@   1  2   b32P323BBB33hSSSSSSSSSh33@@
+@@ 1 h  3B3CC   R BLLLB3           CC@@
+@@ h S  bLB332223RBLLB 2           3C@@
+@@ S S   R         BLLB32R2222b    b3@@
+@@ S S   2         BLLB       3b    2@@
+@@ S S   M       1 bBLB       b3b   2@@
+@@ S S   R      b3   BB         33233@@
+@@ S S   b33222P33   bLb        3b B2@@
+@@ S Sb   b3     2    BV3b      2 bb @@
+@@ S  c    2    b31   h C3b     32b  @@
+@@ S  P    3b b2b     S 2 M     2    @@
+@@ S  2   b33C3       S 2 2    bb    @@
+@@ S  bb  2  b3       S V bb   2     @@
+@@ Sb  bb 2   2       S c  2   M     @@
+@@  2   2 R   2       S bb 2   M     @@
+@@  b23CLBb   bb      S  bBLb bb     @@
+@@    CCB3     2      S   CBW2b      @@
+@@  SSS  SSSS  2      h  bb R        @@
+@@ bB       bb 2    bBB bb  b2Mb     @@
+@@ BLB3b     C33    BLLBb      3b    @@
+@@13B3C3222223C322223BB2       23M221@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+Built Catacomb LEVEL 2  35x29 335 rooms
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@12R22MR33hSSSSSSSSSS              1@@
+@@       bC          bb             2@@
+@@        CCb         332P222RM21  b2@@
+@@        3C3b        33         b2b @@
+@@        2  2        b3b       bb   @@
+@@        R  P          bb    bR3    @@
+@@        2  R           bM2b 2 2    @@
+@@        bb 2              3BLBb    @@
+@@         2 2            bBWLBb     @@
+@@        13C3        b222BLLB       @@
+@@          b3       b3    BB3b      @@
+@@           b3Bb    3C  SSS  SSh    @@
+@@            bLB   bC3C3b      c    @@
+@@             b332M3  HC       3Bb  @@
+@@               2  bM2LBM223CHCBLBMM@@
+@@              b3     2    b3CB 2  2@@
+@@             b33   b3V       bB3  2@@
+@@           bPb 2  bLB3R2b     3C  2@@
+@@           2   2  3B    b2b   CC  2@@
+@@           2  bLBM33      c   CB  M@@
+@@           2  3B3  M      2   BLb 2@@
+@@           M  2 2  2      bb  VB323@@
+@@           2  2 R  2       bb     2@@
+@@        bBBLB33 2  2        R     R@@
+@@   b3BBBLLBBLB3 1  2        b2b   M@@
+@@22MLBLLLLB  2 2    2          2   2@@
+@@2  P BBBBLBMLB3    2          b2P23@@
+@@2  2 c   BB B332M3C3              2@@
+@@2223232223322    232              1@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+Built Catacomb LEVEL 3  35x29 335 rooms
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@M3C3VM22RM23B323R                 1@@
+@@23CC       bLB 33                 2@@
+@@   b22b     B3 333b               2@@
+@@      2     3b 2 33              b3@@
+@@      3b b3CC  2 3CR2b         b232@@
+@@      3CBLBBLB3C R   2         2   @@
+@@     bb bB  b3C323Rb M       b3b   @@
+@@     2   2         R 3b     b33    @@
+@@     bb  2         2 C3     2 2    @@
+@@      R  1         3BLB22333b 2    @@
+@@      2            bLB   3WB bb    @@
+@@      bb            BB   BLLB3     @@
+@@       2            BLB22LILLB     @@
+@@       2            BLB  BLILB     @@
+@@       3b           BLB  bBLLB     @@
+@@       C3           3Bb    BLB     @@
+@@       3C          bb      bLb     @@
+@@       b3         bb        2      @@
+@@        C323b   b23         2      @@
+@@        3b BLP23B c         3Bb    @@
+@@        2  bB  BLB3         BLB    @@
+@@        M   3b 3B3Cb        BLVB3b @@
+@@       bb b23C P   BBBb    b3BB3BLM@@
+@@      bB  2  CBLB3CLLLB  b2b     b3@@
+@@     bBLc3B  BLB3CCBBLLB3b        P@@
+@@  bPMb 2 CLBBLB      bLBb         2@@
+@@  M   bb CB3CB3       1           P@@
+@@  M   2 bb    2                   2@@
+@@123222322     1                   1@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+Built Catacomb LEVEL 4  35x29 334 rooms
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@132MV22223P22M2                  22@@
+@@ 2       2    3b                 33@@
+@@ 2       b2b  BLBb               CC@@
+@@ 2         3CBLBLLb              3C@@
+@@ bb        3CLB bB3              b3@@
+@@  bb       P Bb   2               2@@
+@@   322b    M c    3b              2@@
+@@   2  b2332b 2    BL2b            2@@
+@@   R    3b  bB    3b 332b         2@@
+@@   3Bb bb   BL2223C  bB b2R2233b  2@@
+@@   BLLPb  bBLB   BLb  Cb     3C32MM@@
+@@   3BB   bLLBb   bB32233M2b b3     @@
+@@   2 2   3Bb              BBLb     @@
+@@   b23   R               bLWB      @@
+@@     bb  2               3BLB      @@
+@@      2  P               2 BBb     @@
+@@      b3BB               2 c 2     @@
+@@       CLLBb             B33PLb    @@
+@@    V22BLB33222222P332R3BLB  BL2b  @@
+@@        2          33  BLLLb CB M  @@
+@@    b2c23hSSSSSSSSh332BLBBB3R3b 2  @@
+@@    2                 3b        3b @@
+@@    2                 2         BL2@@
+@@    R               b2b         3B3@@
+@@    2               2           2 2@@
+@@    2               2           bB3@@
+@@   bb               P            b3@@
+@@ b3C             b3C3             2@@
+@@13C3hSSSSSSSSSSSh3C3M             1@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+Built Catacomb LEVEL 5  35x29 336 rooms
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@1                            232321@@
+@@2                            3b 2  @@
+@@2                            P  2  @@
+@@M                            BB33  @@
+@@2                     bP3RM3BLLBb  @@
+@@22b                   2 2  CCBB    @@
+@@  2                   2 2 bb  2    @@
+@@  bb              b2323CLBb   c    @@
+@@   SSSSSSSh       P 2  3Bb    2  1 @@
+@@          2      bL2b  2      2  h @@
+@@        b3WB3BB323B    2      c  S @@
+@@      bP3CLLBLLB  Bb   2     b3  S @@
+@@   b22b   BB bB33CLBM22b     3C  S @@
+@@   R    bR33    33b          CH  S @@
+@@   2    M  bM223C    1       CC  S @@
+@@   3b   c      b3    322M222233  S @@
+@@ b233   2       2    R        P  S @@
+@@2b  C32R32b    bLb   Bb       322h @@
+@@2   V3    2  bRLLBb bLB       h    @@
+@@2   3b    2 bB BB bBLLB       S    @@
+@@M  bb     b33CBLLb bLLB       S    @@
+@@2  2       M  BLLB  bLB       S    @@
+@@322b       R  bLLB   BB       S    @@
+@@2          2   BLB   BLPb     S    @@
+@@P          b2b BLBb  CB Bb    S    @@
+@@2            bP3B bb 33233    S    @@
+@@2               2  2 2   bb   h    @@
+@@2               b2BLB3    P b33    @@
+@@1                 2B332222323C32221@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+HOLOCODE:  Loading medievia.raw
+********************************************************************************
+HOLOCODE:  Loading and organizing medievia holotemplates.
+HOLOCODE:  Loading medievia.links..
+HOLOCODE:  173 Rooms(links) made
+HOLOCODE:  Survey objects... 24 loaded into memory.
+HOLOCODE:  Loading Mobile Placement Data.
+TRADING: Setting up Trading system..
+TRADING: Loading and Defining Moveable Freight..
+TRADING: Loading and Defining Tradables....
+TRADING: Loading and Setting Trade Shops....
+TRADING: Updating Trading section of paper....
+Fri Jan 19 15:57:45 1996 :: Booting Damage Rooms... 16 rooms loaded.
+Done
+******* Medievia is Online and ready *******
+Fri Jan 19 15:57:54 1996 :: Sock.sinaddr: 198.69.186.36
+Fri Jan 19 15:57:58 1996 :: Vryce@198.69.186.36 has connected.
+Fri Jan 19 15:58:17 1996 :: Sock.sinaddr: 198.69.186.36
+Fri Jan 19 15:58:24 1996 :: Reese@198.69.186.36 has connected.
+Fri Jan 19 15:58:31 1996 :: Vryce teleports Reese to [1]The City of Medievia - Castle Square
+Fri Jan 19 15:58:39 1996 ::  Reese[6] killed by Scruff[29] at 1
+Fri Jan 19 16:02:20 1996 :: Sock.sinaddr: 204.97.220.9
+Fri Jan 19 16:02:22 1996 :: Keldar@204.97.220.9 has connected.
+Fri Jan 19 16:02:36 1996 :: Sock.sinaddr: 198.69.186.7
+Fri Jan 19 16:02:37 1996 :: Yugo@198.69.186.7 has connected.
+Fri Jan 19 16:02:51 1996 :: ## Giving up on placing Necromancer
+Fri Jan 19 16:03:49 1996 :: EOF encountered on socket read.
+Fri Jan 19 16:03:49 1996 :: LOSTLINK:Closing link to: Keldar.
+Fri Jan 19 16:07:25 1996 :: Vryce transfers Reese to [2]The Altar to the Gods of Medievia
+Fri Jan 19 16:07:52 1996 :: ## gave up loading a dragon crystal after 1500 tries
+Fri Jan 19 16:07:52 1996 :: ## gave up loading a dragon crystal after 1500 tries
+Fri Jan 19 16:07:53 1996 :: ## Giving up on placing Necromancer
+Fri Jan 19 16:08:18 1996 :: LOSTLINK:Closing link to: Reese.
+Fri Jan 19 16:12:54 1996 :: ## Giving up on placing Necromancer
+Fri Jan 19 16:15:50 1996 :: Sock.sinaddr: 204.97.220.9
+Fri Jan 19 16:15:52 1996 :: Keldar@204.97.220.9 has reconnected.
+Fri Jan 19 16:15:57 1996 :: EOF encountered on socket read.
+Fri Jan 19 16:15:57 1996 :: LOSTLINK:Closing link to: Keldar.
+Fri Jan 19 16:16:38 1996 :: LOSTLINK:Closing link to: Yugo.
+Fri Jan 19 16:17:55 1996 :: ## gave up loading a dragon crystal after 1500 tries
+Fri Jan 19 16:17:55 1996 :: ## gave up loading a dragon crystal after 1500 tries
+Fri Jan 19 16:17:55 1996 :: ## gave up loading a dragon crystal after 1500 tries
+Fri Jan 19 16:17:55 1996 :: ## Giving up on placing Necromancer
+Fri Jan 19 16:17:55 1996 :: ## Giving up on placing Necromancer
+Fri Jan 19 16:18:12 1996 :: Sock.sinaddr: 205.164.135.43
+Fri Jan 19 16:18:16 1996 :: Raster@205.164.135.43 has connected.
+Fri Jan 19 16:18:33 1996 :: EOF encountered on socket read.
+Fri Jan 19 16:18:33 1996 :: LOSTLINK:Closing link to: Raster.
+Fri Jan 19 16:19:04 1996 :: Sock.sinaddr: 205.164.135.43
+Fri Jan 19 16:19:08 1996 :: Rast@205.164.135.43 has connected.
+Fri Jan 19 16:22:05 1996 :: LOSTLINK:Closing link to: Rast.
+Fri Jan 19 16:22:58 1996 :: ## Giving up on placing Necromancer
+Fri Jan 19 16:27:59 1996 :: ## Giving up on placing Necromancer
+Fri Jan 19 16:28:25 1996 :: Sock.sinaddr: 167.142.49.71
+Fri Jan 19 16:28:34 1996 :: Lucretian@167.142.49.71 has connected.
+Fri Jan 19 16:33:00 1996 :: ## Giving up on placing Necromancer
+Fri Jan 19 16:37:18 1996 :: Sock.sinaddr: 134.198.100.1
+Fri Jan 19 16:37:30 1996 :: Brandii@134.198.100.1 has connected.
+Fri Jan 19 16:38:02 1996 :: ## Giving up on placing Necromancer
+Read1 - ERROR: Connection reset by peer
+Write to socket: Broken pipe
+Fri Jan 19 16:40:09 1996 :: LOSTLINK:Closing link to: Lucretian.
+Fri Jan 19 16:40:28 1996 :: Sock.sinaddr: 167.142.49.71
+Fri Jan 19 16:40:39 1996 :: Lucretian@167.142.49.71 has reconnected.
+Fri Jan 19 16:43:04 1996 :: ## Giving up on placing Necromancer
+Fri Jan 19 16:45:18 1996 :: Sock.sinaddr: 167.142.49.71
+Fri Jan 19 16:45:27 1996 :: Losing player: Lucretianii.
+Fri Jan 19 16:46:19 1996 :: Sock.sinaddr: 156.46.120.121
+Fri Jan 19 16:46:44 1996 :: Lyndal@156.46.120.121 has connected.
+Fri Jan 19 16:47:10 1996 :: Saving out Keldar.
+Fri Jan 19 16:48:05 1996 :: ## Giving up on placing Necromancer
+Fri Jan 19 16:50:29 1996 :: EOF encountered on socket read.
+Fri Jan 19 16:50:29 1996 :: LOSTLINK:Closing link to: Vryce.
+Fri Jan 19 16:51:24 1996 :: Sock.sinaddr: 192.17.3.3
+Fri Jan 19 16:51:33 1996 :: Malnon@192.17.3.3 has connected.
+Read1 - ERROR: Connection reset by peer
+Write to socket: Broken pipe
+Fri Jan 19 16:52:15 1996 :: LOSTLINK:Closing link to: Brandii.
+Fri Jan 19 16:53:07 1996 :: ## Giving up on placing Necromancer
+Fri Jan 19 16:55:20 1996 ::  Lucretian[20] killed by A soldier of dirt[16] at 63137
+Read1 - ERROR: Connection reset by peer
+Write to socket: Broken pipe
+Fri Jan 19 16:55:29 1996 :: LOSTLINK:Closing link to: Lucretian.
+Fri Jan 19 16:56:03 1996 :: Sock.sinaddr: 167.142.49.71
+Fri Jan 19 16:56:11 1996 :: Lucretian@167.142.49.71 has reconnected.
+Read1 - ERROR: Connection reset by peer
+Write to socket: Broken pipe
+Fri Jan 19 16:57:33 1996 :: LOSTLINK:Closing link to: Lucretian.
+Fri Jan 19 16:58:09 1996 :: ## Giving up on placing Necromancer
+Fri Jan 19 16:58:57 1996 :: Sock.sinaddr: 167.142.49.71
+Fri Jan 19 16:59:09 1996 :: Lucretian@167.142.49.71 has reconnected.
+Fri Jan 19 17:02:07 1996 :: room 2369 door 4 not found!!!!! state 2
+Fri Jan 19 17:02:07 1996 :: room 2370 door 5 not found!!!!! state 1
+Fri Jan 19 17:03:11 1996 :: Sock.sinaddr: 205.164.220.35
+Fri Jan 19 17:03:15 1996 :: ## Giving up on placing Necromancer
+Fri Jan 19 17:03:16 1996 :: Losing player: Ramble.
+Fri Jan 19 17:07:44 1996 :: Sock.sinaddr: 134.198.100.1
+Fri Jan 19 17:08:17 1996 :: ## Giving up on placing Necromancer
+Fri Jan 19 17:09:07 1996 :: Brandii@134.198.100.1 has reconnected.
+Write to socket: Operation would block
+Write to socket: Operation would block
+Fri Jan 19 17:10:08 1996 :: LOSTLINK:Closing link to: Lyndal.
+Fri Jan 19 17:10:25 1996 :: Sock.sinaddr: 156.46.120.121
+Fri Jan 19 17:10:32 1996 :: Lyndal@156.46.120.121 has reconnected.
+Fri Jan 19 17:10:55 1996 :: Brandii at ROOM[5085] edits the room LOOKATS.
+Fri Jan 19 17:11:31 1996 :: Sock.sinaddr: 205.164.135.43
+Fri Jan 19 17:11:34 1996 :: Raster@205.164.135.43 has reconnected.
+Fri Jan 19 17:13:21 1996 :: ## Giving up on placing Necromancer
+Fri Jan 19 17:14:16 1996 :: Brandii at ROOM[5085] edits the room DESCRIPTION.
+Fri Jan 19 17:15:29 1996 :: Brandii at ROOM[5088] edits the room LOOKATS.
+Fri Jan 19 17:15:36 1996 :: Brandii at ROOM[5088] edits the ROOMFLAGS.
+Fri Jan 19 17:15:55 1996 :: Brandii at ROOM[5088] edits the room DESCRIPTION.
+Fri Jan 19 17:17:02 1996 :: Brandii at ROOM[5088] edits the room DESCRIPTION.
+Fri Jan 19 17:17:06 1996 :: Brandii at ROOM[5088] edits the room LOOKATS.
+Fri Jan 19 17:18:24 1996 :: room 2369 door 4 not found!!!!! state 2
+Fri Jan 19 17:18:24 1996 :: room 2370 door 5 not found!!!!! state 1
+Fri Jan 19 17:18:25 1996 :: ## Giving up on placing Necromancer
+Fri Jan 19 17:22:16 1996 :: Sock.sinaddr: 198.69.186.7
+Fri Jan 19 17:22:16 1996 :: Yugo@198.69.186.7 has connected.
+Fri Jan 19 17:22:31 1996 :: Brandii at ROOM[5089] edits the room DESCRIPTION.
+Fri Jan 19 17:23:07 1996 :: Brandii at ROOM[5089] edits the room DESCRIPTION.
+Fri Jan 19 17:23:28 1996 :: ## Giving up on placing Necromancer
+Fri Jan 19 17:23:33 1996 :: Yugo restored Malnon.
+Fri Jan 19 17:24:03 1996 :: Brandii at ROOM[5089] edits the room LOOKATS.
+Fri Jan 19 17:26:06 1996 :: Brandii at ROOM[5089] edits the ROOMFLAGS.
+Fri Jan 19 17:27:26 1996 ::  Malnon[26] killed by A mutated forest abomination[25] at 63125
+Fri Jan 19 17:28:30 1996 :: ## Giving up on placing Necromancer
+Fri Jan 19 17:33:33 1996 :: ## Giving up on placing Necromancer

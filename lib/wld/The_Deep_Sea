@@ -1,0 +1,5528 @@
+#82
+82~
+ You have swam into a murky area of the sea. Seaweed is floating around
+aimlessly and other substances seem to be holding steady in the currents. You
+find it difficult to swim as your limbs constantly tangle in the seaweed.
+~
+68 72 9 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1132
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2471
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1132
+S
+#229
+Sandy Path~
+You are walking along a sandy path. The sound of waves crashing upon the
+shore, and the breeze in the clean air, all cause your heart to race as you
+realize how exciting the water can be. You look around at the beautiful clear
+blue skies and take in the view as a gull soars overhead, lands close to
+the waterline, and hops about in the wet sand. As you glance down at the
+path you're walking along, you see some broken shells here and there
+sticking out, but they really don't bother you at all -- everything is
+peaceful, and it's simply beautiful out.
+~
+68 0 8 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+$n shuffles up the sandy path to the north.~
+$n shuffles up the sandy path from the south.~
+1 -1 19013
+D1
+ ~
+ ~
+$n heads east for the shade of the tree.~
+$n enters the shade of the tree from the west.~
+1 -1 1373
+D2
+ ~
+ ~
+$n strolls down the sandy path to the south.~
+$n strolls down the sandy path from the north.~
+1 -1 232
+E
+path sand gold golden~
+The sand is golden and soft, with a few broken shells here and there. There's
+not a single sign of human or other creature intrusion here -- everything
+seems to be untouched and natural.
+~
+S
+#232
+Hot Path~
+Ouch! You suddenly find that the sand in the path has gotten really hot!
+Down towards the shoreline, you can see huge waves rolling in and washing
+on to the beach in a rhythmic motion. It all seems very hypnotizing, and
+the view is so beautiful, but damn this sand's hot!
+~
+68 0 8 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+$n shuffles up the path to the north.~
+$n shuffles up the path from the south.~
+1 -1 229
+D1
+ ~
+ ~
+$n hops along the hot path to the east.~
+$n hops along the hot path from the west.~
+1 -1 235
+D2
+ ~
+ ~
+$n jumps off the hot sand and heads south for the water!~
+$n splashes into the soft, wet sand from the north.~
+1 -1 1387
+D3
+ ~
+ ~
+$n hops along the hot path to the west.~
+$n hops along the hot path from the east.~
+1 -1 236
+E
+sand hot golden feet path gold ~
+As you glance down at the hot sand covering your feet, you wonder just how
+hot it might be.!
+~
+E
+water waves ocean sea beach shore~
+As you look towards the water you realize the power and strenght it carries.
+~
+S
+#235
+Hot Path~
+Ouch! You suddenly find that the sand in the path has gotten really hot!
+Down towards the shoreline, you can see huge waves rolling in and washing
+on to the beach in a rhythmic motion. It all seems very hypnotizing, and
+the view is so beautiful, but damn this sand's hot!
+~
+68 0 8 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+$n leaves for the tree to the north.~
+$n arrives from the hot path to the south.~
+1 -1 1373
+D2
+ ~
+ ~
+$n runs for the shoreline to the south.~
+$n runs to the shoreline from the hot path to the north.~
+1 -1 1388
+D3
+ ~
+ ~
+$n hops along the hot path to the west.~
+$n hops along the hot path from the east.~
+1 -1 232
+S
+#236
+Hot Path~
+Ouch! You suddenly find that the sand in the path has gotten really hot!
+Down towards the shoreline, you can see huge waves rolling in and washing
+on to the beach in a rhythmic motion. It all seems very hypnotizing, and
+the view is so beautiful, but damn this sand's hot!
+~
+68 0 8 0
+0 32 0 0
+0 0 0
+D1
+ ~
+ ~
+$n hops along the hot path to the east.~
+$n hops along the hot path from the west.~
+1 -1 232
+D2
+ ~
+ ~
+$n runs for the shoreline to the south.~
+$n runs to the shoreline from the hot path to the north.~
+1 -1 1386
+S
+#783
+Geyser Of Steam~
+You are standing in the center of a very small, sandy island. Right next to
+you is a large geyser -- you better move before it hurls you to another area!
+As you scan the rough, empty sea, you realize that you are lost, but have
+the option of swimming out in any direction.
+~
+68 8 8 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+$n splashes into the water to the north.~
+$n splashes into the water from the south.~
+1 -1 784
+D1
+ ~
+ ~
+$n splashes into the water to the east.~
+$n splashes into the water from the west.~
+1 -1 792
+D2
+ ~
+ ~
+$n splashes into the water to the south.~
+$n splashes into the water from the north.~
+1 -1 790
+D3
+ ~
+ ~
+$n splashes into the water to the west.~
+$n splashes into the water from the east.~
+1 -1 788
+S
+#784
+Floating in the Ocean~
+Swimming from the island you get trapped in a huge wave. After a few moments
+you realize that you are too far from the shore to swim and if you go down who
+knows where you might end up. Water is everywhere and so rough that you better
+keep your equipment on, it might be hazerdous. There is a RED buoy floating
+here.
+~
+68 32 6 0
+0 32 0 0
+15 0 0
+D0
+ ~
+ ~
+$n swims away to the north.~
+$n swims in from the south.~
+1 -1 791
+D1
+ ~
+ ~
+$n swims away to the east.~
+$n swims in from the west.~
+1 -1 793
+D2
+ ~
+ ~
+$n swims away to the south.~
+$n swims in from the north.~
+1 -1 790
+D3
+ ~
+ ~
+$n swims away to the west.~
+$n swims in from the east.~
+1 -1 785
+E
+red buoy~
+ A large red buoy is floating here, seaweed covers its base as it rocks back
+and forth.
+~
+S
+#785
+Floating in the Ocean~
+Swimming from the island you get trapped in a huge wave. After a few moments
+you realize that you are too far from the shore to swim and if you go down who
+knows where you might end up. Water is everywhere and so rough that you better
+keep your equipment on, it might be hazerdous. A SILVER buoy with a bell is
+floating in front of you.
+~
+68 32 6 0
+0 32 0 0
+15 0 0
+D0
+ ~
+ ~
+$n swims away to the north.~
+$n swims in from the south.~
+1 -1 790
+D1
+ ~
+ ~
+$n swims away to the east.~
+$n swims in from the west.~
+1 -1 784
+D2
+ ~
+ ~
+$n swims away to the south.~
+$n swims in from the north.~
+1 -1 786
+D3
+ ~
+ ~
+$n swims away to the west.~
+$n swims in from the east.~
+1 -1 791
+E
+silver buoy~
+ This silver buoy is a very nice sight. The Bell is very loud as it clangs when
+rocked back and forth.
+~
+S
+#786
+Floating in the Ocean~
+Swimming from the island you get trapped in a huge wave. After a few moments
+you realize that you are too far from the shore to swim and if you go down who
+knows where you might end up. Water is everywhere and so rough that you better
+keep your equipment on, it might be dangerous. A small WHITE buoy is bobbing
+around the surface of the sea.
+~
+68 32 6 0
+0 32 0 0
+15 0 0
+D0
+ ~
+ ~
+$n swims away to the north.~
+$n swims in from the south.~
+1 -1 785
+D1
+ ~
+ ~
+$n swims away to the east.~
+$n swims in from the west.~
+1 -1 788
+D2
+ ~
+ ~
+$n swims away to the south.~
+$n swims in from the north.~
+1 -1 787
+D3
+ ~
+ ~
+$n swims away to the west.~
+$n swims in from the east.~
+1 -1 792
+E
+white small buoy~
+ A small white buoy is here, floating aimlessly around.
+~
+E
+white small buoy~
+ ~
+S
+#787
+Floating in the Ocean~
+Swimming from the island you get trapped in a huge wave. After a few moments
+you realize that you are too far from the shore to swim and if you go down who
+knows where you might end up. Water is everywhere and so rough that you better
+keep your equipment on, it might be hazerdous. A GOLDEN buoy floats lifelessly
+around as you look for a way out.
+~
+68 32 6 0
+0 32 0 0
+15 0 0
+D0
+ ~
+ ~
+$n swims away to the north.~
+$n swims in from the south.~
+1 -1 786
+D1
+ ~
+ ~
+$n swims away to the east.~
+$n swims in from the west.~
+1 -1 787
+D2
+ ~
+ ~
+$n swims away to the south.~
+$n swims in from the north.~
+1 -1 788
+D3
+ ~
+ ~
+$n swims away to the west.~
+$n swims in from the east.~
+1 -1 787
+E
+golden buoy~
+ This golden buoy is too heavy for you to put in your bag. It must be worth
+alot though.
+~
+S
+#788
+Floating in the Ocean~
+Swimming from the island you get trapped in a huge wave. After a few moments
+you realize that you are too far from the shore to swim and if you go down who
+knows where you might end up. Water is everywhere and so rough that you better
+keep your equipment on, it might be hazerdous. A large BLACK buoy is floating
+around.
+~
+68 32 6 0
+0 32 0 0
+15 0 0
+D0
+ ~
+ ~
+$n swims away to the north.~
+$n swims in from the south.~
+1 -1 787
+D1
+ ~
+ ~
+$n swims away to the east.~
+$n swims in from the west.~
+1 -1 792
+D2
+ ~
+ ~
+$n swims away to the south.~
+$n swims in from the north.~
+1 -1 789
+D3
+ ~
+ ~
+$n swims away to the west.~
+$n swims in from the east.~
+1 -1 786
+E
+black buoy~
+ A black buoy is floating around, moving with all of the ocean movements.
+~
+S
+#789
+Floating in the Ocean~
+Swimming from the island you get trapped in a huge wave. After a few moments
+you realize that you are too far from the shore to swim and if you go down who
+knows where you might end up. Water is everywhere and so rough that you better
+keep your equipment on, it might be hazerdous. There is a ORANGE buoy floating
+aimlessly around.
+~
+68 32 6 0
+0 32 0 0
+15 0 0
+D0
+ ~
+ ~
+$n swims away to the north.~
+$n swims in from the south.~
+1 -1 788
+D1
+ ~
+ ~
+$n swims away to the east.~
+$n swims in from the west.~
+1 -1 790
+D2
+ ~
+ ~
+$n swims away to the south.~
+$n swims in from the north.~
+1 -1 793
+D3
+ ~
+ ~
+$n swims away to the west.~
+$n swims in from the east.~
+1 -1 793
+E
+oragne buoy~
+ A large orange buoy is floating around aimlessly. These buoys float around as
+if they have a purpose.
+~
+S
+#790
+Floating in the Ocean~
+Swimming from the island you get trapped in a huge wave. After a few moments
+you realize that you are too far from the shore to swim and if you go down who
+knows where you might end up. Water is everywhere and so rough that you better
+keep your equipment on! There is a BLUE buoy floating here.
+~
+68 32 6 0
+0 32 0 0
+15 0 0
+D0
+ ~
+ ~
+$n swims away to the north.~
+$n swims in from the south.~
+1 -1 784
+D1
+ ~
+ ~
+$n swims away to the east.~
+$n swims in from the west.~
+1 -1 791
+D2
+ ~
+ ~
+$n swims away to the south.~
+$n swims in from the north.~
+1 -1 785
+D3
+ ~
+ ~
+$n swims away to the west.~
+$n swims in from the east.~
+1 -1 789
+D5
+ ~
+ ~
+$n dives down under the water with a splash!~
+$n swims down from above.~
+1 -1 794
+E
+blue buoy~
+ A large Blue Buoy is floating around. It seems lifeless as the waves swirls
+around it.
+~
+S
+#791
+Floating in the Ocean~
+Swimming from the island you get trapped in a huge wave. After a few moments
+you realize that you are too far from the shore to swim and if you go down who
+knows where you might end up. Water is everywhere and so rough that you better
+keep your equipment on, it might be hazerdous. There is a GREEN buoy floating
+here.
+~
+68 32 6 0
+0 32 0 0
+15 0 0
+D0
+ ~
+ ~
+$n swims away to the north.~
+$n swims in from the south.~
+1 -1 792
+D1
+ ~
+ ~
+$n swims away to the east.~
+$n swims in from the west.~
+1 -1 785
+D2
+ ~
+ ~
+$n swims away to the south.~
+$n swims in from the north.~
+1 -1 784
+D3
+ ~
+ ~
+$n swims away to the west.~
+$n swims in from the east.~
+1 -1 790
+E
+green buoy~
+ Is this a green bouy or is it covered with slime. (ANYWAYS) This large buoy is
+bouncing up and down due to the rough waves.
+~
+S
+#792
+Floating in the Ocean~
+Swimming from the island you get trapped in a huge wave. After a few moments
+you realize that you are too far from the shore to swim and if you go down who
+knows where you might end up. Water is everywhere and so rough that you better
+keep your equipment on, it might be hazerdous. A PURPLE buoy is floating
+aimlessly around.
+~
+68 32 6 0
+0 32 0 0
+15 0 0
+D0
+ ~
+ ~
+$n swims away to the north.~
+$n swims in from the south.~
+1 -1 793
+D1
+ ~
+ ~
+$n swims away to the east.~
+$n swims in from the west.~
+1 -1 786
+D2
+ ~
+ ~
+$n swims away to the south.~
+$n swims in from the north.~
+1 -1 791
+D3
+ ~
+ ~
+$n swims away to the west.~
+$n swims in from the east.~
+1 -1 788
+E
+purple buoy~
+ A rare purple buoy is here. These multi-colored buoys' must be some sort of
+signal.
+~
+S
+#793
+Floating in the Ocean~
+Swimming from the island you get trapped in a huge wave. After a few moments
+you realize that you are too far from the shore to swim and if you go down who
+knows where you might end up. Water is everywhere and so rough that you better
+keep your equipment on, it might be hazerdous. A large YELLOW buoy is riding
+the waves here.
+~
+68 32 6 0
+0 32 0 0
+15 0 0
+D0
+ ~
+ ~
+$n swims away to the north.~
+$n swims in from the south.~
+1 -1 789
+D1
+ ~
+ ~
+$n swims away to the east.~
+$n swims in from the west.~
+1 -1 789
+D2
+ ~
+ ~
+$n swims away to the south.~
+$n swims in from the north.~
+1 -1 792
+D3
+ ~
+ ~
+$n swims away to the west.~
+$n swims in from the east.~
+1 -1 784
+E
+yellow buoy~
+ A large yellow buoy made of fine elvin steel floats here.
+~
+S
+#794
+Outer Ocean~
+You swim through and are confronted with a vast blue expanse spreading out
+before your eyes. It is simply huge, and seems to get darker the farther out it
+goes. The odd thing is that you can barely make out any sign of structures or
+forms in the water -- it's all empty. You look down to see you're standing on a
+ledge, while before you is an entrance to a cage about three feet away from the
+ledge. It looks like there'a a whole series of cages forming a tunnel leading
+out from here. You notice small pieces of seaweed floating along with the
+current, and larger plants to the east.
+~
+68 72 9 0
+0 32 0 0
+0 0 0
+D0
+ ~
+flap net~
+$n swims through the flap to the north.~
+$n swims through the flap from the south.~
+1 -1 3342
+D2
+ ~
+cage gate~
+$n swims into the cage to the south.~
+$n swims in through the cage from the north.~
+2 6852 795
+D4
+ ~
+ ~
+$n swims up through the water.~
+$n swims up from below.~
+1 -1 790
+E
+cage gate~
+The cage is huge and is connected with other cages to form a tunnel leading
+to the south. The bars are extremely thick and heavy, and the lock mechanism
+looks just as impressive. It definitely takes a big key.
+~
+S
+#795
+Steel Cage~
+You are in a tunnel formed of interconnected steel cages. The bars are thick
+and strong, and uncorroded from the sea. Looking about you on all sides
+you can see various lifeforms of the sea drifting about. The cage will
+obviously protect you from anything outside, but you have to wonder about
+what might lie ahead. The cages continue on to the south, and to the north
+is the entrance.
+~
+68 72 9 0
+0 32 0 0
+0 0 0
+D0
+ ~
+cage gate~
+$n swims out of the cage to the north.~
+$n swims out of the cage from the south.~
+2 6852 794
+D2
+ ~
+ ~
+$n swims away to the south.~
+$n swims in from the north.~
+1 -1 796
+E
+cage gate~
+The gate to the cage leads out to the ocean.
+~
+S
+#796
+Steel Cage~
+After swimming for a while, you come to a bend in this steel tunnel like cage.
+Evilness radiates in this area as soft red eyes seem to be peering at you from
+the other side of the cage. There is an exit to the west and north.
+~
+68 72 9 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+$n swims away to the north.~
+$n swims in from the south.~
+1 -1 795
+D3
+ ~
+ ~
+$n swims away to the west.~
+$n swims in from the east.~
+1 -1 797
+S
+#797
+Steel Cage~
+The cage seems to end at this point, and it's rather marked up, as if someone
+or something tried to escape. The bars are gouged out at some points, and many
+are bent and disfigured. The bottom of the cage seems to be particularly
+disfigured, and a few bars are actually broken and jutting up. The water
+seems to be a little more muddy at this point -- hopefully it's just dirt.
+~
+68 72 9 0
+0 32 0 0
+0 0 0
+D1
+ ~
+ ~
+$n swims away to the east.~
+$n swims in from the west.~
+1 -1 796
+D5
+ ~
+bar bars~
+$n squeezes between the bars and swims down below.~
+$n swims down from the cage above.~
+1 -1 798
+E
+bars bar~
+As you search along the cage, you find that there might be enough room
+to squeeze through and go down through the broken bars if you can pry them
+apart a little. The bars are so warped that it looks like something had
+gone down through them, but then bent them back up to close off the hole.
+Whatever could do such a thing must be incredibly strong...
+~
+S
+#798
+Crevice~
+You are carefully diving down between two very large slabs of rock. Above you
+are some broken bars, apparently part of a large cage-like structure. There
+are jagged rocks jutting out from every side, and the passage is very tight.
+As you make your way down, you set a few rocks loose that drift to the sea
+floor, or wherever this leads. Better be careful here...
+~
+68 73 9 0
+0 32 0 0
+15 0 0
+D4
+ ~
+bar bars~
+$n swims up through the bars of the cage.~
+$n squeezes up from the bars below.~
+1 -1 797
+D5
+ ~
+ ~
+$n swims down and you hear a loud rumble as rocks start crashing down!~
+$n swims down from above and brings a ton of rocks crashing down!~
+1 -1 4546
+S
+#799
+Bloody, Muddy Water~
+You're swimming in water that's thick and deep red in color. After moments
+of looking around, you realize that you're actually swimming in water filled
+with blood and stirred up mud. To the south you can barely make out a
+large cavernous opening. As you float around, you can hear a hollow clicking
+sound coming from the south that sends chills up your spine.
+~
+68 72 9 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+$n swims away to the north.~
+$n swims in from the south.~
+1 -1 4546
+D1
+ ~
+ ~
+$n swims away to the east.~
+$n swims in from the west.~
+1 -1 802
+D2
+ ~
+ ~
+$n swims into the cavernous opening to the south.~
+$n swims into the cave from the north.~
+1 -1 800
+S
+#800
+A Cavernous Entrance~
+You've entered a large cavernous tunnel. Everything seems to be red, and a
+thick layer of crud coats the floor and walls here. Within this mess, you
+see trenches, or tracks, leading from here to the south. The blood in the
+water here looks fresher than the stuff outside. The clicking sound is
+a little louder here, and seems to be coming from the south.
+~
+68 73 9 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+$n swims out of the cave to the north.~
+$n swims out of the cavernous opening to the south.~
+1 -1 799
+D2
+ ~
+ ~
+$n swims away to the south.~
+$n swims in from the north.~
+1 -1 6264
+S
+#801
+Muddy Water~
+Swimming in dark muddy water you realize that this area is quite different.
+Small flesh-like material floats around as you work your way around. As you
+listen carefully, you hear small clicking sounds in the distance.
+~
+68 72 9 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+$n swims away to the north.~
+$n swims in from the south.~
+1 -1 802
+S
+#802
+Muddy Water~
+Swimming in dark muddy water you realize that this area is quite different.
+Small flesh-like material floats around as you work your way around. As you
+listen carefully, you hear small clicking sounds in the distance.
+~
+68 72 9 0
+0 32 0 0
+0 0 0
+D2
+ ~
+ ~
+$n swims away to the south.~
+$n swims in from the north.~
+1 -1 801
+D3
+ ~
+ ~
+$n swims away to the west.~
+$n swims in from the east.~
+1 -1 799
+S
+#1130
+1130~
+ You are surrounded by a mass amount of plants and seaweed. It is impossible to
+navigate, as you try to feel your way around. As you move plants tangle around
+your arms and legs. After a few minutes of disturbing the plants and mud, you
+create your own swamp. You feel lost. Hopefully you can remember the way out.
+~
+68 72 9 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2471
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1133
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1132
+S
+#1132
+1132~
+ You have swam into a murky area of the sea. Seaweed is floating around
+aimlessly and other substances seem to be holding steady in the currents. You
+find it difficult to swim as your limbs constantly tangle in the seaweed. You
+try to clear a path for yourself, but it's impossible, the water is like slime
+here.
+~
+68 72 9 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 82
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1130
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 82
+S
+#1133
+1133~
+ ~
+68 72 9 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1130
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1134
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2471
+S
+#1134
+1134~
+ You are surrounded by a mass amount of plants and seaweed. It is impossible to
+navigate, as you try to feel your way around. As you move plants tangle around
+your arms and legs. After a few minutes of disturbing the plants and mud, you
+create your own swamp. You feel lost. Hopefully you can remember the way out.
+~
+68 72 9 0
+0 32 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1133
+S
+#1135
+Further Into The Cavern~
+You clamber through the darkness and find yourself in another section
+of the cavern. There are just as many passages leading in and out of this
+one, and alas, you are confused as to which one you came through. The same
+dark water fills the cavern, and you have the same eery sense that one
+wrong move could be your last.
+~
+68 73 9 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1139
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1139
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1139
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1138
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 1139
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 1139
+S
+#1137
+A Vast And Empty Cavern~
+You step through the glowing warmth of the stone and find yourself in a
+very cold and dark cavern. The atmosphere has completely changed -- something
+just doesn't seem right. You peer into the darkness around you and see many
+passages leading off in all directions, and when you look back, you realize
+you've forgotten which one you came in through. The water in here seems
+heavy and dark, and you get a strong impression that death is all around.
+~
+68 73 9 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+$n swims into the darkness to the north.~
+$n swims in from one of the dark passageways.~
+1 -1 1139
+D1
+ ~
+ ~
+$n swims into the darkness to the east.~
+$n swims in from one of the dark passageways.~
+1 -1 1139
+D2
+ ~
+ ~
+$n swims into the darkness to the south.~
+$n swims in from one of the dark passageways.~
+1 -1 1139
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1139
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 1139
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 1135
+S
+#1138
+Deeper Into The Cavern~
+This large cavern looks just like the others you've gone through so far,
+and has just as many passages leading in and out of it. You peer into the
+dark through the murky water, and wonder how much longer this leads on. The
+same aura of death and decay can be felt all around you.
+~
+68 73 9 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1139
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1139
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2062
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1139
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 1139
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 1139
+S
+#1139
+Utter Darkness~
+As you enter the passage, a rough current starts to carry you down into
+total darkness. A loud rumbling can be heard as rocks begin to loosen
+and fall, pelting your body from all directions. In vain you try to grab
+hold of something, but the current is too strong and batters you on all
+sides. By the time your body settles, it's merely a bloated and bruised sack
+of borken bones and organs... YOU ARE DEAD!
+~
+68 75 9 0
+0 32 0 0
+0 0 0
+S
+#1277
+1277~
+ You are surrounded by large plants, as if in a jungle of seaweed, in all
+directions. As these huge plants sway back and forth, you keep your distance,
+trying not to get tangled. A beam of light reflects on you from above, and a
+solid blue glow is to the west. You realalize that this is the perfect place
+for predator and prey, as the plants act as a place to hide. As the plants move
+you think you see something in the distance, or is it your imagination?
+~
+68 72 9 0
+0 32 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2470
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 82
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1278
+S
+#1278
+Outer Ocean~
+You are on the outside of that large fishing net now. Hopefully the dangers of
+the deep do not consume you as is has done to other prey. As you look up, you
+notice the sweeping action of the ocean that can force you into the large steel
+net. Along the floor there are several hundred recently sprouted plants, and to
+the east, the plants grow larger. As you look west, you notice a tunnel like
+structure. The south is blocked by an errant steel grate, it may end somewhere
+in the east.
+~
+68 72 9 0
+0 32 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1277
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 794
+S
+#1291
+In a Current~
+A hot, fierce current is pushing you back toward the south. The tunnel
+has no routes to the west or east, but continues on north. Don't stop swimming
+or you might just end up as part of the tunnel walls.
+~
+68 9 9 0
+0 32 0 0
+25 0 99
+D0
+ ~
+ ~
+$n swims against the current to the north.~
+$n swims in against the current from the south.~
+1 -1 1292
+D2
+ ~
+ ~
+$n is carried south by the current.~
+$n is swept in by the current from the north.~
+1 -1 2985
+S
+#1292
+In a Current~
+A hot, fierce current is pushing you back toward the south. The tunnel
+has no routes to the west or east, but continues on north. Don't stop swimming
+or you might just end up as part of the tunnel walls.
+~
+68 9 9 0
+0 32 0 0
+25 0 0
+D0
+ ~
+ ~
+$n swims against the current to the north.~
+$n swims in against the current from the south.~
+1 -1 1293
+D2
+ ~
+ ~
+$n is carried by the current south.~
+$n is swept in by the current from the north.~
+1 -1 1291
+S
+#1293
+In a Current~
+Using your best skills as a swimmer, you manage to reach the corner of a
+large tunnel. The current is coming from the east, and the water seems to be
+boiling! The walls of the tunnel are very black, but small white deposits
+are mixed within it. There is a red glow coming from the east, and the current
+flows south.
+~
+68 8 9 0
+0 32 0 0
+30 0 0
+D1
+ ~
+ ~
+$n swims against the current into the boiling water.~
+$n swims into the boiling water from the west.~
+1 -1 1381
+D2
+ ~
+ ~
+$n is carried by the current south.~
+$n is swept in by the current from the north.~
+1 -1 1292
+S
+#1373
+Old Rotted Tree~
+You are standing in the shadow of an old tree whose trunk has been bleached
+white from the salty air and weather. It casts a long shadow on the sand
+before you, leaving the area nice and cool -- a perfect resting spot
+for hot and tired people. Up in its branches you see what looks like
+some boards nailed together, all the way up in the top.
+~
+68 0 8 0
+0 32 0 0
+0 0 0
+D2
+ ~
+ ~
+$n leaves the shade for the hot path to the south.~
+$n enters the hot path from the shade to the north.~
+1 -1 235
+D3
+ ~
+ ~
+$n heads for the path to the west.~
+$n arrives on the path from the tree to the east.~
+1 -1 229
+D4
+ ~
+ ~
+$n grabs on to a branch and starts climbing up the tree.~
+$n climbs up the tree from below.~
+1 -1 6267
+E
+tree bark trunk~
+The tree is very old, though appears to be very strong in its age. You can
+hear the chirping of birds from above, and as you look up, there seems to
+be something up in its branches blocking the sunlight.
+~
+S
+#1381
+Boiling Water~
+Glowing lava is rushing up from the ground below you. The intense heat
+makes you feel as if you're boiling. As you stare at the glow of the lava, you
+begin to fall in a daze and drift toward it. Suddently a sharp current knocks
+you into a wall, and you wake up before touching the deadly river. There is
+an exit to the west, and a fast current is rushing in to the room from the
+south. As you look down into the lava, you can see many corpses burning
+and melting into nothing.
+~
+68 8 9 0
+0 32 0 0
+30 0 0
+D2
+ ~
+ ~
+$n struggles against the current and swims south.~
+$n struggles in from the north against the current.~
+1 -1 1383
+D3
+ ~
+ ~
+$n is carried west by the current.~
+$n is swept in by the current from the east.~
+1 -1 1293
+D4
+ ~
+ ~
+$n screams and gets sucked up above through the geyser!~
+$n gets spewn out of the geyser and lands with a loud THUMP!~
+1 -1 783
+D5
+ ~
+ ~
+$n foolishly decides to dive into the flaming lava below.~
+$n comes to melt, burn up in flames, and join you in your death!~
+1 -1 1384
+E
+lava magma molten rock glow red hot~
+The lava is very hot and glows a bright shade of red. You know that it can
+melt anything with its extreme heat.
+~
+S
+#1383
+Rushing Water~
+Water is rushing from above and pushing everything in this room back out to
+the north. It seems nothing could move upward here. Surrounded by walls on
+all sides, you might want to leave north before you get smashed. The water
+is cold and filled with sediment, obscuring your view.
+~
+68 8 9 0
+0 32 0 0
+30 0 0
+D0
+ ~
+ ~
+$n is carried violently away by the current north.~
+$n is swept violently in by the current from the south.~
+1 -1 1381
+S
+#1384
+Sure Death~
+You swim down into a molten mass of lava and quickly realize your mistake
+as your equipment starts to melt. Before you can think any more about the
+problem, your brain begins to boil and your clothes burst into flames under
+the water. There is no way out! In a matter of seconds, you slip away from
+the material world... YOU'RE DEAD! Don't swim in lava, it might flare up
+your day!
+~
+68 14 9 0
+0 32 0 0
+30 0 0
+D4
+ ~
+ ~
+$n, unharmed by the lava, swims up! What a cool God! Wow!~
+$n is alive! So must be a totally cool God like Achad!~
+1 -1 1381
+S
+#1385
+Bloody Water~
+You are practically blinded from this water, though you manage to get
+accustomed to the bloody currents filled with particles of rotting flesh.
+Don't stay here too long though. Sharks may be patrolling the area.
+~
+68 8 9 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+$n swims away to the north.~
+$n swims in from the south.~
+1 -1 2454
+D1
+ ~
+ ~
+$n swims away to the east.~
+$n swims in from the west.~
+1 -1 1597
+D2
+ ~
+ ~
+$n swims away to the south.~
+$n swims in from the north.~
+1 -1 1602
+D3
+ ~
+ ~
+$n swims away to the west.~
+$n swims in from the east.~
+1 -1 2458
+D4
+ ~
+ ~
+$n swims up through the water.~
+$n swims up from below.~
+1 -1 1610
+S
+#1386
+West Shore~
+The sand here is wet and cool and feels great on your bare feet. As the waves
+splash up against your ankles, you take in the view before you and smile.
+Ahead of you is a vast sea with the promise of adventure and countless
+treasures. As the waves recede back into the sea, the foamy bubbles glide
+by your feet and tickle you as they slowly disappear.
+~
+68 0 8 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+$n leaves the cool shoreline for the hot path to the north.~
+$n jumps as his feet touch the hot path from the south!~
+1 -1 236
+D1
+ ~
+ ~
+$n strolls along the shoreline to the east.~
+$n strolls along the shoreline from the west.~
+1 -1 1387
+E
+sediment sand shore feet ~
+You look down and find a variety of seashells and a rare piece of polished glass.
+~
+S
+#1387
+Shoreline~
+You quickly step onto the wet, cool sand, and a feeling of relief fills your
+body. As you let your feet recover from the hot beach, a wave crashes
+about you suddenly, leaving you knee deep in water! As the waves roll in from
+the shore, you practically fall over, but the water's beautiful on such a
+hot day so you hang around. As you turn your gaze to the wide open sea before
+you, you notice a buoy bobbing in and out of the water to the south. You could
+probably safely swim out there if you wanted to.
+~
+68 0 8 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+$n leaves north for the hot path.~
+$n shuffles up the path from the beautiful shoreline.~
+1 -1 232
+D1
+ ~
+ ~
+$n strolls along the shoreline to the east.~
+$n strolls along the shoreline from the west.~
+1 -1 1388
+D2
+ ~
+ ~
+$n dives into the water and swims south to the buoy.~
+$n swims to the buoy from the north.~
+1 -1 1389
+D3
+ ~
+ ~
+$n strolls along the shoreline to the west.~
+$n strolls along the shoreline from the east.~
+1 -1 1386
+E
+buoy~
+The buoy is definitely within swimming distance, just don't go out too
+far.
+~
+E
+water waves sea ocean~
+The water is clear and a very comfortable temperature to go swimming.
+~
+S
+#1388
+East Shore~
+As you walk across the wet sand, a soothing feeling of relief fills your
+body. Gazing into the vast body of water before you, you wonder what might
+lie beneath its surface. As you leave a trail of footprints behind you,
+you see a piece of parchment lying next to some seaweed on the sand.
+~
+68 0 8 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+$n leaves the cool shoreline for the hot path to the north.~
+$n jumps as his feet touch the hot path from the south!~
+1 -1 235
+D3
+ ~
+ ~
+$n strolls along the shoreline to the west.~
+$n strolls along the shoreline from the east.~
+1 -1 1387
+E
+parchment paper note~
+You pick the wet piece of parchment up from the ground as some wet clumps
+of sand fall to the beach. It's hard to make out the writing on the paper
+since it's all smeared and stained, but you can decipher some of it:
+======================================================================
+I don't kn... who w... ... this, but ... .... impor..n.....
+My ... a... I have not been able ... .... to the treas....
+... whol... p..ty died in the at... and I lost .... ... wa...
+very dear ... me.. I am at ... end ... ... lif.. and feel th.t
+.. ..... impa.. ...s on t.. someone. I don't ....w who w..l
+get .... ... nee... .. ta... th.. c..nce.
+Please, se.k out ... priz.. of ... ... at ... en.. ... maze
+... will no... be disa...... ... is ...th the risk.
+My stre... is fai..ng... mus... ... goodby...
+Cap.... Ne..
+~
+S
+#1389
+The Buoy~
+After swimming in the beautiful water for a minute or so, you reach a large
+orange and white buoy floating in the water. There's a sign attached to
+it, and you notice that although it'd be dangerous to swim out any further,
+you could probably dive down deeper if you wanted.
+~
+68 0 6 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+$n starts swimming back toward the shore.~
+$n swims to the shore and gets out all covered with seaweed.~
+1 -1 1387
+D5
+ ~
+ ~
+$n takes a deep breath and dives straight down under the water.~
+$n swims down from the buoy above.~
+1 -1 1390
+E
+buoy sign~
+WELCOME TO THE DEEP SEA DIVERS POINT:
+*********** WARNING ****************
+Wear your sea-gear to help prevent
+from deadly drownings. Or make
+sure you have breathe water
+cast on you. Watch out for the
+sharks! Dive at your own risk!
+~
+S
+#1390
+Under the Buoy~
+You are swimming underneath a large buoy. The water is very clear and vision
+is tremendous. Although there are no life forms you feel certain that the
+deeper from the buoy and father from the shore there will be plenty. You cant
+swim horizontal in any direction due to an angled current that would drag you
+into the unknown. Deeper down you can notice the floor of the sea.
+~
+68 8 9 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+$n swims north toward the east shore.~
+$n swims out of the water and climbs onto the shore.~
+1 -1 1388
+D4
+ ~
+ ~
+$n swims up to the buoy for some air.~
+$n bursts through the surface and gasps for air!~
+1 -1 1389
+D5
+ ~
+ ~
+$n swims down deeper into the water.~
+$n swims down from above.~
+1 -1 2424
+S
+#1597
+Bloody Water~
+The water is dense and filled with blood all around you. In the murky
+darkness, you can see a shadow dart quickly about here and there, but
+can't make out what it is. To the south is what looks like a cage of some
+sort.
+~
+68 8 9 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+$n swims away to the north.~
+$n swims in from the south.~
+1 -1 2453
+D1
+ ~
+ ~
+$n swims away to the east.~
+$n swims in from the west.~
+1 -1 1598
+D2
+ ~
+cage~
+$n swims south into the shark cage.~
+$n swims in to the cage from the north.~
+1 -1 1600
+D3
+ ~
+ ~
+$n swims away to the west.~
+$n swims in from the east.~
+1 -1 1385
+D4
+ ~
+ ~
+$n swims up through the water.~
+$n swims up from below.~
+1 -1 1610
+S
+#1598
+Bloody Water~
+You are practically blinded from this water, though you manage to get
+accustomed to the bloody currents filled with particles of rotting flesh.
+Don't stay here too long though. Sharks may be patrolling the area.
+~
+68 8 9 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+$n swims away to the north.~
+$n swims in from the south.~
+1 -1 2452
+D1
+ ~
+ ~
+$n swims away to the east.~
+$n swims in from the west.~
+1 -1 1611
+D2
+ ~
+ ~
+$n swims away to the south.~
+$n swims in from the north.~
+1 -1 1603
+D3
+ ~
+ ~
+$n swims away to the west.~
+$n swims in from the east.~
+1 -1 1597
+D4
+ ~
+ ~
+$n swims up through the water.~
+$n swims up from below.~
+1 -1 1610
+S
+#1599
+Cold Bloody Waters~
+The cold and dense bloody waters seem to be forcing you on your way.
+There are many dangers that can be lurking in this bloody mess. To the north
+there is a faint object, to the south the water seems to grow darker, and
+to the west or east all you can see is flesh and blood. Something just swam
+by your feet!
+~
+68 8 9 0
+0 32 0 0
+0 0 0
+D0
+ ~
+cage~
+$n swims into the cage to the north.~
+$n swims into the cage from the south.~
+1 -1 1600
+D1
+ ~
+ ~
+$n swims away to the east.~
+$n swims in from the west.~
+1 -1 1604
+D2
+ ~
+ ~
+$n swims away to the south.~
+$n swims in from the north.~
+1 -1 3325
+D3
+ ~
+ ~
+$n swims away to the west.~
+$n swims in from the east.~
+1 -1 1601
+D4
+ ~
+ ~
+$n swims up through the water.~
+$n swims up from below.~
+1 -1 1610
+D5
+ ~
+ ~
+$n swims down deeper into the water.~
+$n swims down from above.~
+1 -1 3338
+S
+#1600
+A Small Shark Cage~
+As you enter the cage you close the gate to prevent anything from entering
+this bloody area. This cage is too small for more than a few divers but
+protects you from the aggressive sharks in the Deep Sea. There is a sign
+posted to the cage.
+~
+68 44 9 0
+0 32 0 0
+0 0 0
+D0
+ ~
+cage~
+$n swims out of the cage to the north.~
+$n swims out of the cage from the south.~
+1 -1 1597
+D1
+ ~
+cage~
+$n swims out of the cage to the east.~
+$n swims out of the cage from the west.~
+1 -1 1603
+D2
+ ~
+cage~
+$n swims out of the cage to the south.~
+$n swims out of the cage from the north.~
+1 -1 1599
+D3
+ ~
+cage~
+$n swims out of the cage to the west.~
+$n swims out of the cage from the east.~
+1 -1 1602
+E
+sign post board~
+NOTICE: This cage is too small for a lot of divers to take refuge
+from the dangers of the deep. Do not stay here too long! Angry divers
+just might feed you to the sharks!
+~
+S
+#1601
+Cold Bloody Waters~
+Swimming and vision is important as you swim through these cold thick
+bloody waters. The water is either very dark to the south or there is more
+blood than water. To the west the water seams cleaner, in any other direction
+its dark and bloody.
+~
+68 8 9 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+$n swims away to the north.~
+$n swims in from the south.~
+1 -1 1602
+D1
+ ~
+ ~
+$n swims away to the east.~
+$n swims in from the west.~
+1 -1 1599
+D2
+ ~
+ ~
+$n swims away to the south.~
+$n swims in from the north.~
+1 -1 3326
+D3
+ ~
+ ~
+$n swims away to the west.~
+$n swims in from the east.~
+1 -1 3334
+D4
+ ~
+ ~
+$n swims up through the water.~
+$n swims up from below.~
+1 -1 1610
+D5
+ ~
+ ~
+$n swims down deeper into the water.~
+$n swims down from above.~
+1 -1 3337
+S
+#1602
+Bloody Waters~
+Blood and pieces of flesh float everywhere. The rumors of sharks in this
+sea seem very realistic now. As you tred in a circle, you notice that the
+water gets clearer to the west and there is some sort of cage to the east.
+~
+68 8 9 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+$n swims away to the north.~
+$n swims in from the south.~
+1 -1 1385
+D1
+ ~
+cage~
+$n swims into the cage to the east.~
+$n swims into the cage from the west.~
+1 -1 1600
+D2
+ ~
+ ~
+$n swims away to the south.~
+$n swims in from the north.~
+1 -1 1601
+D3
+ ~
+ ~
+$n swims away to the west.~
+$n swims in from the east.~
+1 -1 3333
+D4
+ ~
+ ~
+$n swims up through the water.~
+$n swims up from below.~
+1 -1 1610
+S
+#1603
+Bloody Water~
+Blood and large pieces of flesh float everywhere as you look around. Rumors
+of man-eating sharks seem more realistic now. As you tred in a circle
+you see a small cage to the west, rough waters above, and water in every
+other direction. A reflection of something spooks you as it moves in a
+circle below you.
+~
+68 8 9 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+$n swims away to the north.~
+$n swims in from the south.~
+1 -1 1598
+D1
+ ~
+ ~
+$n swims away to the east.~
+$n swims in from the west.~
+1 -1 3311
+D2
+ ~
+ ~
+$n swims away to the south.~
+$n swims in from the north.~
+1 -1 1604
+D3
+ ~
+cage~
+$n swims into the cage to the west.~
+$n swims into the cage from the east.~
+1 -1 1600
+D4
+ ~
+ ~
+$n swims up through the water.~
+$n swims up from below.~
+1 -1 1610
+S
+#1604
+Bloody Water~
+You are practically blinded from this water, though you manage to get
+accustomed to the bloody currents filled with particles of rotting flesh.
+Don't stay here too long though. Sharks may be patrolling the area.
+~
+68 8 9 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+$n swims away to the north.~
+$n swims in from the south.~
+1 -1 1603
+D1
+ ~
+ ~
+$n swims away to the east.~
+$n swims in from the west.~
+1 -1 3312
+D2
+ ~
+ ~
+$n swims away to the south.~
+$n swims in from the north.~
+1 -1 3324
+D3
+ ~
+ ~
+$n swims away to the west.~
+$n swims in from the east.~
+1 -1 1599
+D4
+ ~
+ ~
+$n swims up through the water.~
+$n swims up from below.~
+1 -1 1610
+D5
+ ~
+ ~
+$n swims down deeper into the water.~
+$n swims down from above.~
+1 -1 3339
+S
+#1610
+Sweeping Waves~
+As you swim up from the sea you suddenly get caught in a huge wave. After a
+few moments spent in shock, you realize with horror that you are too far from
+the shore to swim back, and if you go down, who knows where you might end up.
+Water is everywhere, and very rough.
+~
+68 4 7 0
+0 32 0 0
+0 0 0
+D5
+ ~
+ ~
+$n swims back into the depths of the sea.~
+$n swims down from the rough seas above.~
+1 -1 4506
+S
+#1611
+Near Bloody Waters~
+You are in water that has small chunks of bloody flesh floating around.
+The water is chilly but comfortable to swim in. A huge rock blocks the
+way to the north and east. Strange smashing sounds can be heard to the east.
+There is a large bloody area to the west and semi-clear water to the south.
+~
+68 8 9 0
+0 32 0 0
+0 0 0
+D2
+ ~
+ ~
+$n swims away to the south.~
+$n swims in from the north.~
+1 -1 3311
+D3
+ ~
+ ~
+$n swims away to the west.~
+$n swims in from the east.~
+1 -1 1598
+D4
+ ~
+ ~
+$n swims up through the water.~
+$n swims up from below.~
+1 -1 1610
+S
+#2041
+Deep Waters~
+You're swimming on the sea's magnificent floor. Different life forms bring
+out the curiosity in you, and huge rocks block your way to the north and south.
+You can swim east to the open ocean, or head west into what appears to be
+some sort of cave.
+~
+68 8 9 0
+0 32 0 0
+0 0 0
+D1
+ ~
+ ~
+$n swims away to the east.~
+$n swims in from the west.~
+1 -1 3335
+D3
+ ~
+ ~
+$n swims into the cave to the west.~
+$n swims in from the east.~
+1 -1 2042
+S
+#2042
+Cave~
+It is cloudy and hard to navigate in this dark, murky water. As you feel
+your way around, something is startled by your touch and makes the water
+murkier as it flees in terror. You can't feel anything in any direction, but
+you do notice that you are sinking slowly in the soft mud that rests below
+you. Suddenly, hundreds of fish swim around you in a circle, spinning you
+round and round until a small tornado-like sensation moves you in a magical
+way. You are confused and dizzy, but within moments, the water clears and
+settles. The area is completely different. You find yourself standing in
+a small cave. The water is as crystal clear as the crystals that can be
+found about the cave walls. The only exit is to the south.
+~
+68 8 9 0
+0 32 0 0
+0 0 0
+D2
+ ~
+ ~
+$n swims away to the south.~
+$n swims in from the north.~
+1 -1 2043
+S
+#2043
+Strange Tunnel~
+As you are swimming on the ocean floor in this tunnel like structure,
+you notice that there are many crystals embedded in the walls. The
+magical aurora that surrounds this area makes your heart pump extra hard as
+you wonder what else is going to happen. The floor is very solid and quite
+strange. From the corner of your eye you notice a strange marking in the wall.
+~
+68 8 9 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+$n swims away to the north.~
+$n swims in from the south.~
+1 -1 2042
+D2
+ ~
+ ~
+$n swims away to the south.~
+$n swims in from the north.~
+1 -1 2044
+E
+blank~
+ ~
+E
+sign markings wall walls marks marking mark signs carveings strange~
+   As you read the markings...
+      Welcome to the great UNDERWATER maze.
+Please enter with caution, there is danger lurking behind every room and with
+any luck you will find the one exit which leads out. It was created to fool
+the mightiest adventurer but in the past has even trapped deities for hours
+of confusion. Certainly everything looks the same but there are an infinite
+ways to get lost. Mappers are welcome but will only get confused. Good Luck!
+~
+S
+#2044
+Maze~
+You are standing in the center of a huge crystal cavern. As you look down you
+notice that the floor is made of thick clear crystal and seems to float above
+the soft mud of the Deep Sea. As you glance up, you realize that the sea is
+composed of hundreds of beautifull life forms. Other than the sea floor there
+are no other structures that can help you determine location.
+~
+68 8 9 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2052
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2047
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2054
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2049
+S
+#2045
+Maze~
+You are standing in the center of a huge crystal cavern. As you look down you
+notice that the floor is made of thick clear crystal and seems to float above
+the soft mud of the Deep Sea. As you glance up, you realize that the sea is
+composed of hundreds of beautifull life forms. Other than the sea floor there
+are no other structures that can help you determine location.
+~
+68 8 9 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2054
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2049
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2055
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2048
+S
+#2046
+Maze~
+You are standing in the center of a huge crystal cavern. As you look down you
+notice that the floor is made of thick clear crystal and seems to float above
+the soft mud of the Deep Sea. As you glance up, you realize that the sea is
+composed of hundreds of beautifull life forms. Other than the sea floor there
+are no other structures that can help you determine location.
+~
+68 8 9 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2056
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2059
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2058
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2054
+S
+#2047
+Maze~
+You are tredding in the center of a huge crystal cavern which has exits
+leading in every direction except for up and down. The very thick crystal which
+surrounds you illuminates the area with its sensational magical aura. As you
+look up you notice that the current is flowing east to west and the scattered
+fish seem to swim towards the west.
+~
+68 8 9 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2058
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2054
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2059
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2044
+S
+#2048
+Maze~
+Swimming in the center of a huge crystal room you realize that everyroom is
+practically identical to each other. The only thing that is noticed it that
+fish seem to be swimming northbound and the current flows south. There are
+exits to the North, South, East, and West.
+~
+68 8 9 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2053
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2045
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2057
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2057
+S
+#2049
+Maze~
+You are in a huge crytal cavern, the walls are made of very thick magnificant
+crystal. In some areas you can see your reflection, although it seems very
+enhanced by the magical glimmer of the area. There are exits leading to the
+North, South, East, and West. Up above the crystal ceiling the fish are
+swimming in a circular pattern and the current seems to be flowing north-east.
+~
+68 8 9 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2055
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2044
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2056
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2045
+S
+#2050
+Maze~
+You are tredding in the center of a huge crystal cavern which has exits
+leading in every direction except for up and down. The very thick crystal which
+surrounds you illuminates the area with its sensational magical aura. As you
+look up you notice that the current is flowing east to west and the scattered
+fish seem to swim towards the west.
+~
+68 8 9 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2057
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2052
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2053
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2051
+S
+#2051
+Maze~
+You are tredding in the center of a huge crystal cavern which has exits
+leading in every direction except for up and down. The very thick crystal which
+surrounds you illuminates the area with its sensational magical aura. As you
+look up you notice that the current is flowing east to west and the scattered
+fish seem to swim towards the west.
+~
+68 8 9 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2059
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2050
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2052
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2055
+S
+#2052
+Maze~
+Swimming in the center of a huge crystal room you realize that everyroom is
+practically identical to each other. The only thing that is noticed it that
+fish seem to be swimming northbound and the current flows south. There are
+exits to the North, South, East, and West.
+~
+68 8 9 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2051
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2053
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2044
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2050
+S
+#2053
+Maze~
+You are in a huge crytal cavern, the walls are made of very thick magnificant
+crystal. In some areas you can see your reflection, although it seems very
+enhanced by the magical glimmer of the area. There are exits leading to the
+North, South, East, and West. Up above the crystal ceiling the fish are
+swimming in a circular pattern and the current seems to be flowing north-east.
+~
+68 8 9 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2050
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2056
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2061
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2052
+S
+#2054
+Maze~
+Swimming in the center of a huge crystal room you realize that everyroom is
+practically identical to each other. The only thing that is noticed it that
+fish seem to be swimming northbound and the current flows south. There are
+exits to the North, South, East, and West.
+~
+68 8 9 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2044
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2046
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2045
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2047
+S
+#2055
+Maze~
+You are in a huge crytal cavern, the walls are made of very thick magnificant
+crystal. In some areas you can see your reflection, although it seems very
+enhanced by the magical glimmer of the area. There are exits leading to the
+North, South, East, and West. Up above the crystal ceiling the fish are
+swimming in a circular pattern and the current seems to be flowing north-east.
+~
+68 8 9 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2045
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2051
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2049
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2058
+S
+#2056
+Maze~
+You are standing in the center of a huge crystal cavern. As you look down you
+notice that the floor is made of thick clear crystal and seems to float above
+the soft mud of the Deep Sea. As you glance up, you realize that the sea is
+composed of hundreds of beautifull life forms. Other than the sea floor there
+are no other structures that can help you determine location.
+~
+68 8 9 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2049
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2058
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2046
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2053
+S
+#2057
+Maze~
+You are tredding in the center of a huge crystal cavern which has exits
+leading in every direction except for up and down. The very thick crystal which
+surrounds you illuminates the area with its sensational magical aura. As you
+look up you notice that the current is flowing east to west and the scattered
+fish seem to swim towards the west.
+~
+68 8 9 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2048
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2048
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2050
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2059
+S
+#2058
+Maze~
+You are in a huge crytal cavern, the walls are made of very thick magnificant
+crystal. In some areas you can see your reflection, although it seems very
+enhanced by the magical glimmer of the area. There are exits leading to the
+North, South, East, and West. Up above the crystal ceiling the fish are
+swimming in a circular pattern and the current seems to be flowing north-east.
+~
+68 8 9 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2046
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2055
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2047
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2056
+S
+#2059
+Maze~
+Swimming in the center of a huge crystal room you realize that everyroom is
+practically identical to each other. The only thing that is noticed it that
+fish seem to be swimming northbound and the current flows south. There are
+exits to the North, South, East, and West.
+~
+68 8 9 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2047
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2057
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2051
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2046
+S
+#2060
+Maze~
+You are standing in the center of a huge crystal cavern. As you look down, you
+see that the floor is made of thick, clear crystal, and seems to float above
+the soft mud of the Deep Sea floor. Glancing up, you see hundreds of
+beautiful tiny life forms making their way south, where a large glowing stone
+seems to be blocking a passage of some sort. The life forms seem to bask
+and thrive on the energy radiating from the glowing stone.
+~
+68 8 9 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2061
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2060
+D2
+ ~
+stone rock~
+$n swims south into the warm glow of the light.~
+$n swims into the darkness from one of the passageways.~
+2 6853 1137
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2060
+E
+stone glowing rock~
+The stone is magnificent in height, and just as wide in width. It's surface
+is textured, yet feels smooth and warm to the touch. In the middle of its
+golden surface is a slight recess, or indentation, and it looks as if
+a piece of rock is missing.
+~
+S
+#2061
+Maze~
+You are standing in the center of a huge crystal cavern. As you look down you
+notice that the floor is made of thick clear crystal and seems to float above
+the soft mud of the Deep Sea. As you glance up, you realize that the sea is
+composed of hundreds of beatifull life forms. Other than the sea floor there
+are no other structures that can help you determine location.
+~
+68 8 9 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2053
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2044
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2060
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2044
+S
+#2062
+Glowing Treasure Cove~
+Suddenly you step forth into a bright glow as the darkness fades behind you.
+A feeling of warmth fills your body, and you notice that instead of a cold
+dark floor, you're standing on light sand. There is a great deal of energy
+emanating from the room, and scattered all about the floor are heaps and mounds
+of treasure. It all seems free to be taken, that is, unless something decides
+to stop you from doing so...
+~
+68 65 9 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1138
+D2
+The exit south leads out to the vast expanse of the sea. There seems to be
+a strong current there and you don't know if you'll be able to make it
+back here once you leave.
+~
+seaweed~
+$n is swept out of the room by a swift current into the sea beyond.~
+$n suddenly arrives in a swift current from the north.~
+1 -1 2041
+E
+seaweed~
+The exit to the south here is covered by a heavy growth of seaweed. It looks
+as if it could easily be cleared, and as you poke around in it, you notice
+that it looks like it leads out into the sea.
+~
+S
+#2099
+Huge Net~
+You have just swam into a huge net. It seems it was placed here to keep large
+sea animals from entering the warmer areas and for protection. Hopefully if
+you're tangled you can free yourself and swim back. As you look at the
+net, you notice hundreds of tiny corpses have failed to escape it.
+~
+68 8 9 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+$n swims away to the north.~
+$n swims in from the south.~
+1 -1 3314
+S
+#2424
+Deep Under Buoy~
+You are treading deep under a large buoy. The sea is very calm here and
+is very cool. As you glance around, to the north is a large brick wall, to the
+east there seems to be an old abandoned beach house, there is a small hole in
+a huge rock slab to the west, and probably miles of open sea to the south.
+~
+68 8 9 0
+0 32 0 0
+0 0 0
+D1
+ ~
+ ~
+$n swims east into the abandoned house.~
+$n swims in to the house from the west.~
+1 -1 2426
+D2
+ ~
+ ~
+$n swims away to the south.~
+$n swims in from the north.~
+1 -1 2439
+D3
+ ~
+ ~
+$n swims toward the small hole to the west.~
+$n swims in from the east.~
+1 -1 2435
+D4
+ ~
+ ~
+$n swims up toward the buoy.~
+$n swims up toward the buoy from below.~
+1 -1 1390
+S
+#2426
+Abandoned House~
+As you swim into what seems to be an old abandoned house, you feel a bit
+uneasy as you glance around the room. Not much sunlight filters through the
+decaying roof, and there are shadows cast about everywhere. An old
+bookcase lies crumbling next to one wall, and through a door to the north
+you can see what looks like a coral reef reflecting in the sunlight.
+The floor of the shack is covered with debris, and all of the floorboards
+look rotten.
+~
+68 8 9 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+$n swims north into the reef.~
+$n swims out of the house into the reef.~
+1 -1 2427
+D3
+ ~
+ ~
+$n swims west out of the house.~
+$n swims out of the house to the east.~
+1 -1 2424
+D5
+The floor is so rotten that a good yank on one of the boards could
+probably open up a lower level.
+~
+board floorboard floor~
+$n swims down through the rotten floor into darkness.~
+$n swims down through the floor from above.~
+1 -1 6266
+E
+bookcase case bookshelf shelf~
+The bookcase hardly has any structure to it. All the books within it are
+decayed very badly, and many have barnacles and some type of deposit
+stuck all over them. There are only two or three books that have some
+salvageable remnants. One of the titles seems to start with "Logbook of..."
+~
+E
+floor board floorboard~
+The floor is rotten and encrusted with barnacles -- it looks very unstable.
+You notice there are bubbles coming up through some cracks in the
+floorboards, amidst all the debris.
+~
+E
+water~
+The water has a greenish tint to it.
+~
+E
+logbook book log~
+Once Upon a time there was a great Sea captai/
+in one of the nastiest storms ever known to /
+Captain Nep certainly deserved more than a g\
+when sailing in this storm of mighty storms. \
+decided to build his life around an undewater/
+fantasy world was one of the wonders of the w\
+After many years of hard work this masterpiece\
+and was there-on protected by a great sea-monst\
+sailors and divers in a bloody pool. Those who /
+in a lopsided battle to decide who would own t/
+Many thousands of men and women have tried ex/
+but to no prevail. Some logs of these crusad/
+are as follows                              \
+  11-3  Cpt. Dorsa L. Finn: We discovered a /
+full of exotic plant life. Hopefully we can/
+and a great use for it.                    \
+  11-9  Cpt. Dorsa L. Finn: We ate the plant\
+though its still in testing. Dr. C. Weed fou/
+which is causing a few minor problems.     /
+  11-23 Cpt. Dorsa L. Finn: The crew is dep\
+and Dr. C. Weed is investigating the food. I\
+  12-2  Cpt. Gill: Cpt. Finn died today leav/
+and we are scared. The Doc is about to die /
+ ------------------------------------------
+  2-27  Esg. Oksi: My team and I found what
+seems to be an old experiment. Its a Disaste\
+condemed for 5 years untill we clean up this/
+ ------------------------------------------
+ 7-8 Crp. S.H. Ark: Its been 5 years since \
+and a great place to find treasure, we hope/
+and avoid death, unlike the past failures /
+ 7-10 Crp. Ark: After 2 days, we have dics\
+with something guarding it, We'd be rich if\
+but it is too strong for my strongest fight/
+ 7-15 Crp. Ark: Scientists have determined \
+is very dangerous to consume and can destro/
+weeks.                                    /
+ 7-20 Crp. Ark: The navigator is predicti/
+wich could destroy us if we don't leave i\
+------------------------------------------
+ 5-2 Lt. Crawfish: Luckily we found the old\
+and have built a protective wall to prevent/
+ 5-3 Lt. Crawfish: With all this Informati/
+live in harmony .                         \
+ 5-8 Lt. Crawfish: Sharks, tons of them att\
+leaving 32 dead and 76 wounded. This was un/
+ 5-9 Lt. Crawfish: Sharks again raided the/
+which we spent millions on upkeep. We need\
+to help defend against such creatures.    /
+ 5-19 Lt. Crawfish: Armor and Weapons arri\
+can now defend what is ours!!             /
+ 5-23 Lt. Crawfish: In the mid'st of a gr/
+destroyed hundreds of those beasts but a/
+dead and hundreds wounded. Victory will/
+~
+S
+#2427
+Reef Entrance~
+As you swim into the entrance of the reef, many different species of
+sea plants meet your eyes. Anemones, Coral, and Sponges cover the entire
+area around you. The garden gets larger to the north, and to the south is a
+rotting house. The water seems to flow in a rhythmic motion around you.
+~
+68 8 9 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+$n swims away to the north.~
+$n swims in from the south.~
+1 -1 2428
+D2
+ ~
+ ~
+$n swims south into the house.~
+$n swims into the house from the reef.~
+1 -1 2426
+E
+coral~
+You study the coral and realize that it protects much of the plant life around
+and beneath it. ~
+E
+sponge sponges~
+The Sponges are so close together you can diferenciate the species but the
+colors of orange, purple, yellow and other bright colors can light up anyones
+heart.
+~
+E
+anemone anemones~
+You look closer at Anemones and can actualy name a few:
+The Frilled Anemone which has thousands of tentacles which it feeds on.
+The Striped Anemone with its few long slender tentacles, and the Ghost
+Anemone which are burried between larger plants. These anemones are harmless
+and you really should not destroy it.
+~
+S
+#2428
+Reef~
+Anemones, coral, sponges, plants, and other forms of life fill this
+room with color, and your heart with passion. The area appears to have
+once been used for undersea agriculture at one time. Everything looks
+healthy and vibrant.
+~
+68 8 9 0
+0 32 0 0
+0 0 0
+D1
+ ~
+ ~
+$n swims away to the east.~
+$n swims in from the west.~
+1 -1 2432
+D2
+ ~
+ ~
+$n swims away to the south.~
+$n swims in from the north.~
+1 -1 2427
+D3
+ ~
+ ~
+$n swims away to the west.~
+$n swims in from the east.~
+1 -1 2429
+S
+#2429
+Reef~
+This very colorful area of the reef has many places to hide for those
+tiny life forms that live here. A plant with a minty green color floats
+above you as you study the coral on the bottom of the ocean floor.
+~
+68 8 9 0
+0 32 0 0
+0 0 0
+D1
+ ~
+ ~
+$n swims away to the east.~
+$n swims in from the west.~
+1 -1 2428
+D3
+ ~
+ ~
+$n swims away to the west.~
+$n swims in from the east.~
+1 -1 2430
+S
+#2430
+Reef~
+This very colorful area of the reef has many places to hide for those
+tiny life forms that live here. A plant with a minty green color floats
+above you as you study the coral on the bottom of the ocean floor.
+~
+68 8 9 0
+0 32 0 0
+0 0 0
+D1
+ ~
+ ~
+$n swims away to the east.~
+$n swims in from the west.~
+1 -1 2429
+D3
+ ~
+ ~
+$n swims away to the west.~
+$n swims in from the east.~
+1 -1 2431
+S
+#2431
+End of Reef~
+This is a colder, darker place in the reef. The plants and other life forms
+are much larger and bend towards the west. A few bubbles seem to be coming
+from the south wall, where there is no exit.
+~
+68 8 9 0
+0 32 0 0
+0 0 0
+D1
+ ~
+ ~
+$n swims away to the east.~
+$n swims in from the west.~
+1 -1 2430
+S
+#2432
+Reef~
+You are swimming in a beautiful garden overflowing with many varieties
+of plants. There is no coral here though, as it seems to have been removed.
+There is a ridge to the south, and the huge reef expands to the west.
+~
+68 8 9 0
+0 32 0 0
+0 0 0
+D2
+ ~
+ ~
+$n swims away to the south.~
+$n swims in from the north.~
+1 -1 2433
+D3
+ ~
+ ~
+$n swims away to the west.~
+$n swims in from the east.~
+1 -1 2428
+S
+#2433
+Ridge~
+You're swimming along a large ridge which seems to have been created by
+someone or something to prevent those nasty storms from the east from
+washing away the plant life in the reef. The reef entrance is to the north,
+and the ridge continues along to the south.
+~
+68 8 9 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+$n swims away to the north.~
+$n swims in from the south.~
+1 -1 2432
+D2
+ ~
+ ~
+$n swims away to the south.~
+$n swims in from the north.~
+1 -1 2434
+S
+#2434
+End of Ridge~
+After a few minutes of swimming, you reach the end of the ridge. This seems
+to be a dead end, for you cannot get any further south with the ridge, reef,
+and rocks all coming together at once. To the east is a gigantic slab of rock.
+~
+68 8 9 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+$n swims away to the north.~
+$n swims in from the south.~
+1 -1 2433
+E
+rock slab gigantic ridge~
+This slab of rock was made to prevent destruction from deadly storms and
+currents from the east. The slab is very cold and is pitch black in color.
+~
+S
+#2435
+Small Hole~
+You are in front of a large rock formation that has a naturally formed
+hole in the middle of it. Around its entrance are various sea plants, and it
+looks like there are some air bubbles floating out from it. You can enter
+the hole to the west, swim east to the buoy, or head south to the sea.
+~
+68 8 9 0
+0 32 0 0
+0 0 0
+D1
+ ~
+ ~
+$n swims away to the east.~
+$n swims in from the west.~
+1 -1 2424
+D2
+ ~
+ ~
+$n swims away to the south.~
+$n swims in from the north.~
+1 -1 2438
+D3
+ ~
+ ~
+$n swims into the cavern to the west.~
+$n swims in from the east.~
+1 -1 2436
+E
+slab rock formation hole bubbles~
+As you look at hole you notice small bubbles floating from it, the hole seems
+large enough for you to fit in it.
+~
+S
+#2436
+Cavern~
+You are swimming through a small dark cave. You can feel a tremendous
+amount of heat emanating from the south wall of the cave, and there are
+air bubbles coming from the north. The water, though hot, has a very
+soothing and relaxing quality to it as it flows about your soar body.
+~
+68 8 9 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+$n swims into the cove to the north.~
+$n swims in from the south.~
+1 -1 2437
+D1
+ ~
+ ~
+$n swims away to the east.~
+$n swims out of the cavern from the west.~
+1 -1 2435
+S
+#2437
+Cove~
+Tredding in warm water, you find yourself in a very warm cove. Tales from
+the great book once told a story about this place, but then it was destroyed.
+Above you is a small pocket of air, but it's too small to fit your whole
+head up to breathe. Bubbles seem to float up from the pockets to the south.
+~
+68 8 9 0
+0 32 0 0
+0 0 0
+D2
+ ~
+ ~
+$n leaves the cove to the south.~
+$n swims in from the north.~
+1 -1 2436
+S
+#2438
+Warm waters~
+This area is very warm and crystal clear. A huge black rock formation blocks
+the way to the west, and to the north there is a small hole in the face of it.
+Massive heat waves can be felt coming from the west wall, and the sea
+seems to darken as you look further south.
+~
+68 8 9 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+$n swims north toward the small hole.~
+$n swims in from the south.~
+1 -1 2435
+D1
+ ~
+ ~
+$n swims away to the east.~
+$n swims in from the west.~
+1 -1 2439
+D2
+ ~
+ ~
+$n swims away to the south.~
+$n swims in from the north.~
+1 -1 2446
+D4
+ ~
+ ~
+$n swims up through the water.~
+$n swims up from below.~
+1 -1 1610
+S
+#2439
+Warm waters~
+Warm clear water surrounds you for hundreds of feet, though in the distant
+south it seems to be darker, and possibly colder.
+~
+68 8 9 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+$n swims away to the north.~
+$n swims in from the south.~
+1 -1 2424
+D1
+ ~
+ ~
+$n swims away to the east.~
+$n swims in from the west.~
+1 -1 2440
+D2
+ ~
+ ~
+$n swims away to the south.~
+$n swims in from the north.~
+1 -1 2445
+D3
+ ~
+ ~
+$n swims away to the west.~
+$n swims in from the east.~
+1 -1 2438
+D4
+ ~
+ ~
+$n swims up through the water.~
+$n swims up from below.~
+1 -1 1610
+S
+#2440
+Warm waters~
+You are in clear, warm waters, where the plants reach towards the sun. The
+overgrowth of the plants serves as a great feeding ground for many sea
+creatures. Waves crash high up against the rocks blocking the way to the
+north, and in the distance to the south the water seems darker. You can
+swim up into the waves, but be careful near the rocks.
+~
+68 8 9 0
+0 32 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2441
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2444
+D3
+ ~
+ ~
+$n swims away to the west.~
+$n swims in from the east.~
+1 -1 2439
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 1610
+S
+#2441
+Warm waters~
+You are swimming in mild, clear water. Huge rock slabs block your way to
+the north and east. Up above, you see what look like extremely dangerous waves
+crashing against the rocks.
+~
+68 8 9 0
+0 32 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2442
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2440
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 1610
+S
+#2442
+Warm waters~
+Remains of fish, turtle, and other sea animals are piled on the floor here.
+The manner in which they're stacked is very odd, and you can't seem to spot
+any sign of blood anywhere. Nothing else is around here except for a few
+large rocks resting on the sea floor.
+~
+68 8 9 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+$n swims away to the north.~
+$n swims in from the south.~
+1 -1 2441
+D1
+ ~
+ ~
+$n swims away to the east.~
+$n swims in from the west.~
+1 -1 2443
+D2
+ ~
+ ~
+$n swims away to the south.~
+$n swims in from the north.~
+1 -1 2452
+D3
+ ~
+ ~
+$n swims away to the west.~
+$n swims in from the east.~
+1 -1 2444
+D4
+ ~
+ ~
+$n swims up through the water.~
+$n swims up from below.~
+1 -1 1610
+E
+crack~
+The crack seems to be part of a passage, but no matter how hard you
+try you can't fit through -- lose some weight!
+~
+E
+words letter letters word~
+On a few items you managed to read a few things. :
+  Beware of the Crystal Caverns.
+  Sharks are...
+  The eight armed killed them all.....
+  Warm waters are a delight but colder waters need a light....
+~
+E
+fish turtle turtles rocks floor rock bottom sand~
+ As look at the sea floor you notice a that some items have words written on
+them. Maybe you should read the words, if they are legible.
+~
+S
+#2443
+In a Corner~
+Swimming between large rocks to the north and south, you are stopped
+from going further east by the ridge. A knocking sound is heard coming from
+the east. You can swim west into warm waters.
+~
+68 8 9 0
+0 32 0 0
+0 0 0
+D3
+ ~
+ ~
+$n swims away to the west.~
+$n swims in from the east.~
+1 -1 2442
+D4
+ ~
+ ~
+$n swims up through the water.~
+$n swims up from below.~
+1 -1 1610
+S
+#2444
+Warm waters~
+You are swimming in a very dark area. It seems a large cloud or something
+blocks the sunlight from reaching down to this depth of water. With a great
+deal of strain, you manage to locate some light off in other directions.
+~
+68 9 9 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+$n swims away to the north.~
+$n swims in from the south.~
+1 -1 2440
+D1
+ ~
+ ~
+$n swims away to the east.~
+$n swims in from the west.~
+1 -1 2442
+D2
+ ~
+ ~
+$n swims away to the south.~
+$n swims in from the north.~
+1 -1 2453
+D3
+ ~
+ ~
+$n swims away to the west.~
+$n swims in from the east.~
+1 -1 2445
+D4
+ ~
+ ~
+$n swims up through the water.~
+$n swims up from below.~
+1 -1 1610
+S
+#2445
+Warm waters~
+Warm clear water surrounds you for hundreds of feet. In the distant south,
+the water seems darker, and possibly colder. Scary thoughts race through
+your mind, yet you feel the need to continue onward. Large schools of aquatic
+life can be seen to the southeast.
+~
+68 8 9 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+$n swims away to the north.~
+$n swims in from the south.~
+1 -1 2439
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2444
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2454
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2446
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 1610
+S
+#2446
+Warm waters~
+You are in a pool of warm, clear water. Fish scatter in all directions,
+startled by your presence. A slight current is pushing toward the north. In
+the distance to the south you can see gloomier waters, while the water north
+and east seems to be calm and clear. A huge sedimentary formation lies to
+the west, blocking your way.
+~
+68 8 9 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2438
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2445
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2455
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 1610
+S
+#2452
+Warm waters~
+You are swimming along a huge rock formation that lies to the east. Small fish
+seem to swim along this formation for protection, and possibly use it to feed
+on the plants growing about it. You can swim north or south along the rocks,
+or west to the open waters.
+~
+68 8 9 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+$n swims away to the north.~
+$n swims in from the south.~
+1 -1 2442
+D2
+ ~
+ ~
+$n swims away to the south.~
+$n swims in from the north.~
+1 -1 1598
+D3
+ ~
+ ~
+$n swims away to the west.~
+$n swims in from the east.~
+1 -1 2453
+D4
+ ~
+ ~
+$n swims up through the water.~
+$n swims up from below.~
+1 -1 1610
+S
+#2453
+Warm waters~
+Warm clear water surrounds you for hundreds of feet, though in the distant
+south it seems to be darker, and possibly colder.
+~
+68 8 9 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+$n swims away to the north.~
+$n swims in from the south.~
+1 -1 2444
+D1
+ ~
+ ~
+$n swims away to the east.~
+$n swims in from the west.~
+1 -1 2452
+D2
+ ~
+ ~
+$n swims away to the south.~
+$n swims in from the north.~
+1 -1 1597
+D3
+ ~
+ ~
+$n swims away to the west.~
+$n swims in from the east.~
+1 -1 2454
+D4
+ ~
+ ~
+$n swims up through the water.~
+$n swims up from below.~
+1 -1 1610
+S
+#2454
+Warm waters~
+As you swim around in this warm water, you notice some blood and flesh
+particles as if something has just been killed. Warm clear water surrounds
+you for hundreds of feet. In the distant south the water seems darker, and
+possibly colder.
+~
+68 8 9 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+$n swims away to the north.~
+$n swims in from the south.~
+1 -1 2445
+D1
+ ~
+ ~
+$n swims away to the east.~
+$n swims in from the west.~
+1 -1 2453
+D2
+ ~
+ ~
+$n swims away to the south.~
+$n swims in from the north.~
+1 -1 1385
+D3
+ ~
+ ~
+$n swims away to the west.~
+$n swims in from the east.~
+1 -1 2455
+D4
+ ~
+ ~
+$n swims up through the water.~
+$n swims up from below.~
+1 -1 1610
+S
+#2455
+Warm waters~
+Warm clear water surrounds you for hundreds of feet, though in the distant
+south it seems to be darker, and possibly colder.
+~
+68 8 9 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+$n swims away to the north.~
+$n swims in from the south.~
+1 -1 2446
+D1
+ ~
+ ~
+$n swims away to the east.~
+$n swims in from the west.~
+1 -1 2454
+D2
+ ~
+ ~
+$n swims away to the south.~
+$n swims in from the north.~
+1 -1 2458
+D3
+ ~
+ ~
+$n swims away to the west.~
+$n swims in from the east.~
+1 -1 2456
+D4
+ ~
+ ~
+$n swims up through the water.~
+$n swims up from below.~
+1 -1 1610
+S
+#2456
+Warm waters~
+You are in warm sea water, tredding near a large slab of rock which lies
+to the west. To the south, the water looks a little darker.
+~
+68 8 9 0
+0 32 0 0
+0 0 0
+D1
+ ~
+ ~
+$n swims away to the east.~
+$n swims in from the west.~
+1 -1 2455
+D2
+ ~
+ ~
+$n swims away to the south.~
+$n swims in from the north.~
+1 -1 2457
+D4
+ ~
+ ~
+$n swims up through the water.~
+$n swims up from below.~
+1 -1 1610
+S
+#2457
+Near Currents~
+Swimming in a week current from the west, you manage to keep from floating
+into a large bloody area to the east. The water is very warm and clear.
+~
+68 8 9 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+$n swims away to the north.~
+]$n swims in from the south.~
+1 -1 2456
+D1
+ ~
+ ~
+$n swims away to the east.~
+$n swims in from the west.~
+1 -1 2458
+D2
+ ~
+ ~
+$n swims away to the south.~
+$n swims in from the north.~
+1 -1 3331
+D3
+ ~
+ ~
+$n swims into the tunnel against the current.~
+$n swims in against the current from the east.~
+1 -1 2985
+D4
+ ~
+ ~
+$n swims up through the water.~
+$n swims up from below.~
+1 -1 1610
+S
+#2458
+Warm Bloody Water~
+You are practically blinded from this water, though you manage to get
+accustomed to the bloody currents filled with particles of rotting flesh.
+Don't stay here too long though. Sharks may be patrolling the area.
+~
+68 8 9 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+$n swims away to the north.~
+$n swims in from the south.~
+1 -1 2455
+D1
+ ~
+ ~
+$n swims away to the east.~
+$n swims in from the west.~
+1 -1 1385
+D2
+ ~
+ ~
+$n swims away to the south.~
+$n swims in from the north.~
+1 -1 3333
+D3
+ ~
+ ~
+$n swims away to the west.~
+$n swims in from the east.~
+1 -1 2457
+S
+#2470
+Behind the Net~
+ You are swimming before a huge steel like net. You assume that this is the
+great divider between the Deep Sea and its outer limits. You can see the shark
+cage from here, and a small cave to the north-west. A blast of cold water sends
+shivers up your spine. It may no longer be safe to play in this area. There is
+a mass amount of sea plants to the east, south, and west.
+~
+68 72 9 0
+0 32 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2471
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 82
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1277
+S
+#2471
+2471~
+ You are surrounded by a mass amount of plants and seaweed. It is impossible to
+navigate, as you try to feel your way around. As you move plants tangle around
+your arms and legs. After a few minutes of disturbing the plants and mud, you
+create your own swamp. You feel lost. Hopefully you can remember the way out.
+~
+68 72 9 0
+0 32 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1133
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1130
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 82
+S
+#2985
+Large Tunnel~
+A warm current is pushing you to the southeast. Grabbing on a nearby rock
+prevents you from being washed into the sea. The current is flowing from the
+north.
+~
+68 9 9 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+$n swims against the current to the north.~
+$n swims in against the current from the south.~
+1 -1 1291
+D1
+ ~
+ ~
+$n is carried east by the current.~
+$n is swept in by the current from the west.~
+1 -1 2457
+S
+#3311
+Between Blood and Rock~
+You have swam into a small area of semi-clear water. The force of the waves
+from above smashing into the rock prevents the bloody water from settling
+here. However, small fish seem to be attracted to the tiny pieces of debris.
+~
+68 8 9 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+$n swims away to the north.~
+$n swims in from the south.~
+1 -1 1611
+D2
+ ~
+ ~
+$n swims away to the south.~
+$n swims in from the north.~
+1 -1 3312
+D3
+ ~
+ ~
+$n swims away to the west.~
+$n swims in from the east.~
+1 -1 1603
+D4
+ ~
+ ~
+$n swims up through the water.~
+$n swims up from below.~
+1 -1 1610
+S
+#3312
+Between Blood and Rock~
+You have swam into a small area of semi-clear water. The force of the waves
+from above smashing into the rock prevents the bloody water from settling
+here. However, small fish seem to be attracted to the tiny pieces of debris.
+~
+68 8 9 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+$n swims away to the north.~
+$n swims in from the south.~
+1 -1 3311
+D2
+ ~
+ ~
+$n swims away to the south.~
+$n swims in from the north.~
+1 -1 3313
+D3
+ ~
+ ~
+$n swims away to the west.~
+$n swims in from the east.~
+1 -1 1604
+D4
+ ~
+ ~
+$n swims up through the water.~
+$n swims up from below.~
+1 -1 1610
+D5
+ ~
+ ~
+$n swims down deeper into the water.~
+$n swims down from above.~
+1 -1 3340
+S
+#3313
+Blue Sea~
+Swimming in a huge region of blue water makes one feel very safe in its
+confines. Looking around, there is murky waters to the north, rolling waves
+above, and endless waters in any other direction. It also apears that you
+can swim deeper here, and you notice what seems to be a cave entrance to
+the east.
+~
+68 8 9 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+$n swims away to the north.~
+$n swims in from the south.~
+1 -1 3312
+D1
+ ~
+ ~
+$n swims away to the east.~
+$n swims in from the west.~
+1 -1 3314
+D3
+ ~
+ ~
+$n swims away to the west.~
+$n swims in from the east.~
+1 -1 3324
+D4
+ ~
+ ~
+$n swims up through the water.~
+$n swims up from below.~
+1 -1 1610
+D5
+ ~
+ ~
+$n swims down deeper into the water.~
+$n swims down from above.~
+1 -1 3346
+S
+#3314
+Before a Huge Cave~
+As you swim along the huge ridge, you come accross a huge hole in it. The
+cavelike hole seems to be one large feeder for many of the smaller organisms
+of the sea. This seems to be a very peacefull place besides the huge gashes
+that surround its entrance. There is open water to the west, east, and south.
+Rocks prevent you from surfacing and diving here.
+~
+68 8 9 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+$n swims into the cave to the north.~
+$n swims into the cave from the south.~
+1 -1 3315
+D2
+ ~
+ ~
+$n swims away to the south.~
+$n swims in from the north.~
+1 -1 2099
+D3
+ ~
+ ~
+$n swims away to the west.~
+$n swims in from the east.~
+1 -1 3313
+S
+#3315
+Cave Entrance~
+As you swim in to the cave, the dark mud-like sediment covering the floor
+is wafted into the air. It's nearly five inches deep -- hopefully you're not
+disturbing any creature's home. The walls are dark and encrusted with some
+black deposit. Any further progress into the cave is blocked by a huge
+iron grating, with bands nearly six inches thick. It's covered in barnacles and
+looks like it hasn't moved in ages. The whole area is dark and gloomy, and
+you shiver as the water itself seems even more cold than the rest of the sea.
+~
+68 9 9 0
+0 32 0 0
+0 0 0
+D0
+You peer north past the grating, but see very little as it is pitch black.
+~
+grating iron grate gate~
+$n swims through the open grating to the north.~
+$n swims past the open grating from the south.~
+2 6851 3316
+D2
+ ~
+ ~
+$n swims out of the cave to the south.~
+$n swims out of the cave from the north.~
+1 -1 3314
+E
+grating iron grate gate~
+The iron grating is covered with barnacles and a black inky substance. It's
+made of large criss-crossed bands nearly six inches thick. As you brush away
+some of the barnacles, you notice that the bands seem to be intricately
+carved along some points. The whole thing looks like it hasn't moved in
+ages, and there is debris piled up on where the grating reaches the floor.
+~
+E
+band bands~
+Some parts of the bands are carved with an intricate design, though you
+can barely make it out through the layers of crud encrusted on it. As you
+brush some more barnacles off, you notice that there's a panel near the
+bottom of the grate behind some debris.
+~
+E
+debris trash~
+The debris is composed of the decayed remnants of various sea creatures, trash,
+and other things. As you poke around, you see what looks like a panel on
+the grating very close to the floor.
+~
+E
+panel~
+The panel is somehow connected to the grating, and has a large recess in
+its face in the shape of an eight-spoked wheel. It looks like it's some
+sort of magical lock mechanism.
+~
+S
+#3316
+Passage~
+You are in a small passageway that leads south to the cave entrance and
+north to a darker area. The walls are slimy to the touch and covered in a
+black inky substance. The murky water does not seem so pleasing as something
+tickles your feet.
+~
+68 9 9 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+$n swims away to the north.~
+$n swims in from the south.~
+1 -1 3317
+D2
+ ~
+grating iron grate gate~
+$n swims through the open grating to the south.~
+$n swims through the open grating from the north.~
+2 6851 3315
+S
+#3317
+Small Passage~
+You are in a small passageway that leads south to the cave entrance and
+north to a darker area. The walls are slimy to the touch and covered in a
+black inky substance. The murky water does not seem so pleasing as something
+tickles your feet.
+~
+68 9 9 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+$n swims away to the north.~
+$n swims in from the south.~
+1 -1 3318
+D2
+ ~
+ ~
+$n swims away to the south.~
+$n swims in from the north.~
+1 -1 3316
+S
+#3318
+Dark Inky Water~
+The water is very discolored by some foreign substance. It's too dark to
+see anything, but you manage to feel that the walls are very slippery
+and the mud around you is thick. The passage seems to continue north
+and south.
+~
+68 9 9 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+$n swims away to the north.~
+$n swims in from the south.~
+1 -1 3319
+D2
+ ~
+ ~
+$n swims away to the south.~
+$n swims in from the north.~
+1 -1 3317
+D3
+ ~
+ ~
+$n swims away to the west.~
+$n swims in from the east.~
+1 -1 3322
+S
+#3319
+Guardians Liar~
+You have swam into a huge cavern which has a red aura glowing from its walls.
+Bloody guts and flesh drift and swirl around, as if a great battle had
+taken place. In the north wall is a small hall, just large enough for you
+to fit through. As you carefully walk around, you notice that the floor
+seems to be composed mostly of fecal material scattered with a few body
+parts.
+~
+68 9 9 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+$n swims through the hole to the north.~
+$n swims through the hole from the south.~
+1 -1 3320
+D2
+ ~
+ ~
+$n swims away to the south.~
+$n swims in from the north.~
+1 -1 3318
+S
+#3320
+Octopus' Den~
+You are in a den which seems to be the home of a large octopus. There are
+large tentacles laying on the ground along with pieces of flesh and a few
+small bones. The whole area is covered in an inky, slimy substance. There is
+something enscribed on the wall here in the shape of a sign once made in
+Medievia.
+~
+68 9 9 0
+0 32 0 0
+0 0 0
+D2
+ ~
+ ~
+$n swims through the hole to the south.~
+$n swims in through the hole from the north.~
+1 -1 3319
+D3
+ ~
+ ~
+$n swims west through the hole and suddenly screams!~
+$n swims in from the west and is instantly crushed by spikes!~
+1 -1 3321
+E
+sign post note letter wall~
+      ***************************
+      ***************************
+      **                       **
+      **    DO NOT ENTER       **
+      ** FALLING SPIKES KILL   **
+      **    DO NOT ENTER       **
+      **                       **
+      ***************************
+                 ***
+                 ***
+                 ***
+~
+S
+#3321
+Dead Mans Hole~
+As you walk into this room of the cave, there is a loud rumble and before
+you can react, you're crushed by a barrage of spikes falling from the
+ceiling of the cavern. As you lay on the ground next to the countless
+other corpses that suffered the same fate, you wish you had only gave a bit
+more thought to your decision... YOU'RE DEAD! (It wasn't the greatest life
+anyway though, you have to admit)
+~
+68 15 9 0
+0 32 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3320
+S
+#3322
+Dark Cave~
+You enter a dark room, just as murky as the main passageway. Blood and guts
+fill the water, and your stomach gets queasy at the sight of it all. This
+does not seem to be a good place to rest.
+~
+68 9 9 0
+0 32 0 0
+0 0 0
+D1
+ ~
+ ~
+$n swims away to the east.~
+$n swims in from the west.~
+1 -1 3318
+S
+#3324
+Blue Sea~
+Swimming in a huge region of blue water makes one feel very safe in its
+confines. Looking around, there is murky waters to the north, rolling waves
+above, and endless waters in any other direction. It also apears that you
+can swim deeper here.
+~
+68 8 9 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+$n swims away to the north.~
+$n swims in from the south.~
+1 -1 1604
+D1
+ ~
+ ~
+$n swims away to the east.~
+$n swims in from the west.~
+1 -1 3313
+D3
+ ~
+ ~
+$n swims away to the west.~
+$n swims in from the east.~
+1 -1 3325
+D4
+ ~
+ ~
+$n swims up through the water.~
+$n swims up from below.~
+1 -1 1610
+D5
+ ~
+ ~
+$n swims down deeper into the water.~
+$n swims down from above.~
+1 -1 3345
+S
+#3325
+Blue Sea~
+Swimming in a huge region of blue water makes one feel very safe in its
+confines. Looking around, there is murky waters to the north, rolling waves
+above, and endless waters in any other direction. It also apears that you
+can swim deeper here.
+~
+68 8 9 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+$n swims away to the north.~
+$n swims in from the south.~
+1 -1 1599
+D1
+ ~
+ ~
+$n swims away to the east.~
+$n swims in from the west.~
+1 -1 3324
+D3
+ ~
+ ~
+$n swims away to the west.~
+$n swims in from the east.~
+1 -1 3326
+D4
+ ~
+ ~
+$n swims up through the water.~
+$n swims up from below.~
+1 -1 1610
+D5
+ ~
+ ~
+$n swims down deeper into the water.~
+$n swims down from above.~
+1 -1 3344
+S
+#3326
+Blue Sea~
+Swimming in a huge region of blue water makes one feel very safe in its
+confines. Looking around, there is murky waters to the north, rolling waves
+above, and endless waters in any other direction. It also apears that you
+can swim deeper here.
+~
+68 8 9 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+$n swims away to the north.~
+$n swims in from the south.~
+1 -1 1601
+D1
+ ~
+ ~
+$n swims away to the east.~
+$n swims in from the west.~
+1 -1 3325
+D3
+ ~
+ ~
+$n swims away to the west.~
+$n swims in from the east.~
+1 -1 3327
+D4
+ ~
+ ~
+$n swims up through the water.~
+$n swims up from below.~
+1 -1 1610
+D5
+ ~
+ ~
+$n swims down deeper into the water.~
+$n swims down from above.~
+1 -1 3343
+S
+#3327
+Blue Sea~
+Swimming in a huge region of blue water makes one feel very safe in its
+confines. Looking around, there is murky waters to the north, rolling waves
+above, and endless waters in any other direction. It also apears that you
+can swim deeper here.
+~
+68 8 9 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+$n swims away to the north.~
+$n swims in from the south.~
+1 -1 3334
+D1
+ ~
+ ~
+$n swims away to the east.~
+$n swims in from the west.~
+1 -1 3326
+D3
+ ~
+ ~
+$n swims away to the west.~
+$n swims in from the east.~
+1 -1 3328
+D4
+ ~
+ ~
+$n swims up through the water.~
+$n swims up from below.~
+1 -1 1610
+D5
+ ~
+ ~
+$n swims down deeper into the water.~
+$n swims down from above.~
+1 -1 3342
+S
+#3328
+Blue Sea~
+Swimming in a huge region of blue water makes one feel very safe in its
+confines. Looking around, there is murky waters to the north, rolling waves
+above, and endless waters in any other direction. It also apears that you
+can swim deeper here.
+~
+68 8 9 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+$n swims away to the north.~
+$n swims in from the south.~
+1 -1 3332
+D1
+ ~
+ ~
+$n swims away to the east.~
+$n swims in from the west.~
+1 -1 3327
+D3
+ ~
+ ~
+$n swims away to the west.~
+$n swims in from the east.~
+1 -1 3329
+D4
+ ~
+ ~
+$n swims up through the water.~
+$n swims up from below.~
+1 -1 1610
+D5
+ ~
+ ~
+$n swims down deeper into the water.~
+$n swims down from above.~
+1 -1 3341
+S
+#3329
+Blue Sea~
+Swimming in a huge region of blue water makes one feel very safe in its
+confines. Looking around, there is murky waters to the north, rolling waves
+above, and endless waters in any other direction. It also apears that you
+can swim deeper here.
+~
+68 8 9 0
+0 32 0 0
+0 0 0
+D1
+ ~
+ ~
+$n swims away to the east.~
+$n swims in from the west.~
+1 -1 3328
+D4
+ ~
+ ~
+$n swims up through the water.~
+$n swims up from below.~
+1 -1 1610
+S
+#3331
+Deep Drop~
+As you swim into this area, you notice that half of the area is at your
+feet and the other half drops deeper into the sea. The water is warmer on
+the top half of the ledge than the lower half. You can swim north to
+shallower areas of the sea or venture out deeper.
+~
+68 8 9 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+$n swims away to the north.~
+$n swims in from the south.~
+1 -1 2457
+D1
+ ~
+ ~
+$n swims away to the east.~
+$n swims in from the west.~
+1 -1 3333
+D2
+ ~
+ ~
+$n swims away to the south.~
+$n swims in from the north.~
+1 -1 3332
+D4
+ ~
+ ~
+$n swims up through the water.~
+$n swims up from below.~
+1 -1 1610
+D5
+ ~
+ ~
+$n swims down deeper into the water.~
+$n swims down from above.~
+1 -1 4904
+S
+#3332
+Blue Waters~
+Swimming in a huge region of blue water makes one feel very safe in its
+confines. Looking around, there is murky waters to the north, rolling waves
+above, and endless waters in any other direction. It also apears that you
+can swim deeper here.
+~
+68 8 9 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+$n swims away to the north.~
+$n swims in from the south.~
+1 -1 3331
+D1
+ ~
+ ~
+$n swims away to the east.~
+$n swims in from the west.~
+1 -1 3334
+D2
+ ~
+ ~
+$n swims away to the south.~
+$n swims in from the north.~
+1 -1 3328
+D4
+ ~
+ ~
+$n swims up through the water.~
+$n swims up from below.~
+1 -1 1610
+D5
+ ~
+ ~
+$n swims down deeper into the water.~
+$n swims down from above.~
+1 -1 3335
+S
+#3333
+Deep Drop~
+Tredding at the top of a huge ledge, you realize that it may be possible
+to swim deeper here. A few chunks of flesh float around, and to the east
+you notice that the water is very bloody. To the south the water is an
+elegant blue color. Swimming in any direction is possible.
+~
+68 8 9 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+$n swims away to the north.~
+$n swims in from the south.~
+1 -1 2458
+D1
+ ~
+ ~
+$n swims away to the east.~
+$n swims in from the west.~
+1 -1 1602
+D2
+ ~
+ ~
+$n swims away to the south.~
+$n swims in from the north.~
+1 -1 3334
+D3
+ ~
+ ~
+$n swims away to the west.~
+$n swims in from the east.~
+1 -1 3331
+D4
+ ~
+ ~
+$n swims up through the water.~
+$n swims up from below.~
+1 -1 1610
+D5
+ ~
+ ~
+$n swims down deeper into the water.~
+$n swims down from above.~
+1 -1 4905
+S
+#3334
+Blue Waters~
+Swimming in a huge region of blue water makes one feel very safe in its
+confines. Looking around, there is murky waters to the north, rolling waves
+above, and endless waters in any other direction. It also apears that you
+can swim deeper here.
+~
+68 8 9 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+$n swims away to the north.~
+$n swims in from the south.~
+1 -1 3333
+D1
+ ~
+ ~
+$n swims away to the east.~
+$n swims in from the west.~
+1 -1 1601
+D2
+ ~
+ ~
+$n swims away to the south.~
+$n swims in from the north.~
+1 -1 3327
+D3
+ ~
+ ~
+$n swims away to the west.~
+$n swims in from the east.~
+1 -1 3332
+D4
+ ~
+ ~
+$n swims up through the water.~
+$n swims up from below.~
+1 -1 1610
+D5
+ ~
+ ~
+$n swims down deeper into the water.~
+$n swims down from above.~
+1 -1 3336
+S
+#3335
+Deep Waters~
+You are on the bottom of the Deep Sea. The sea floor is composed mostly
+of sand, rocks, coral, and few plants. Fish seem to swim without any fear as
+you swim around. There is a very small current which is moving small sediment
+to the north. To the west the water seems to darken, but deep blue water
+surround you in every other direction. Swimming in every direction is probable.
+~
+68 8 9 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+$n swims away to the north.~
+$n swims in from the south.~
+1 -1 4904
+D1
+ ~
+ ~
+$n swims away to the east.~
+$n swims in from the west.~
+1 -1 3336
+D2
+ ~
+ ~
+$n swims away to the south.~
+$n swims in from the north.~
+1 -1 3341
+D3
+ ~
+ ~
+$n swims away to the west.~
+$n swims in from the east.~
+1 -1 2041
+D4
+ ~
+ ~
+$n swims up through the water.~
+$n swims up from below.~
+1 -1 3332
+S
+#3336
+Deep Waters~
+You are swimming on the botton of the Deep Sea. The water is of a deep blue
+color and it is very cold. The sand on the sea floor seems very loose as it
+probably hides many aquatic life forms. Plants reach upwards soaking up the
+light as small fish swim around nibbling on them for their nutrition. The seas
+current is very weak as it comes from the south. Swimming in the deep blue sea
+at its sandy bottom, you notice many varieties of fish and plants as you
+scan the area. As you look around, a large ridge aligns the northern area and a
+large net like structure is in the distant south.
+~
+68 8 9 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+$n swims away to the north.~
+$n swims in from the south.~
+1 -1 4905
+D1
+ ~
+ ~
+$n swims away to the east.~
+$n swims in from the west.~
+1 -1 3337
+D2
+ ~
+ ~
+$n swims away to the south.~
+$n swims in from the north.~
+1 -1 3342
+D3
+ ~
+ ~
+$n swims away to the west.~
+$n swims in from the east.~
+1 -1 3335
+D4
+ ~
+ ~
+$n swims up through the water.~
+$n swims up from below.~
+1 -1 3334
+S
+#3337
+Deep Waters~
+You are swimming on the botton of the Deep Sea. The water is of a deep blue
+color and it is very cold. The sand on the sea floor seems very loose as it
+probably hides many aquatic life forms. Plants reach upwards soaking up the
+light as small fish swim around nibbling on them for their nutrition. The seas
+current is very weak as it comes from the south. To the north, you can make
+out what looks like the remains of an old ship wrapped awkwardly around
+some rocks on the floor of the sea.
+~
+68 8 9 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+$n swims on to the wreck to the north.~
+$n swims on to the wreck from the south.~
+1 -1 6261
+D1
+ ~
+ ~
+$n swims away to the east.~
+$n swims in from the west.~
+1 -1 3338
+D2
+ ~
+ ~
+$n swims away to the south.~
+$n swims in from the north.~
+1 -1 3343
+D3
+ ~
+ ~
+$n swims away to the west.~
+$n swims in from the east.~
+1 -1 3336
+D4
+ ~
+ ~
+$n swims up through the water.~
+$n swims up from below.~
+1 -1 1601
+S
+#3338
+Deep Waters~
+You are swimming on the botton of the Deep Sea. The water is of a deep blue
+color and it is very cold. The sand on the sea floor seems very loose as it
+probably hides many aquatic life forms. Plants reach upwards soaking up the
+light as small fish swim around nibbling on them for their nutrition. The seas
+current is very weak as it comes from the south.
+~
+68 8 9 0
+0 32 0 0
+0 0 0
+D1
+ ~
+ ~
+$n swims away to the east.~
+$n swims in from the west.~
+1 -1 3339
+D2
+ ~
+ ~
+$n swims away to the south.~
+$n swims in from the north.~
+1 -1 3344
+D3
+ ~
+ ~
+$n swims away to the west.~
+$n swims in from the east.~
+1 -1 3337
+D4
+ ~
+ ~
+$n swims up through the water.~
+$n swims up from below.~
+1 -1 1599
+S
+#3339
+Deep Waters~
+You are swimming on the botton of the Deep Sea. The water is of a deep blue
+color and it is very cold. The sand on the sea floor seems very loose as it
+probably hides many aquatic life forms. Plants reach upwards soaking up the
+light as small fish swim around nibbling on them for their nutrition. The seas
+current is very weak as it comes from the south.
+~
+68 8 9 0
+0 32 0 0
+0 0 0
+D1
+ ~
+ ~
+$n swims away to the east.~
+$n swims in from the west.~
+1 -1 3340
+D2
+ ~
+ ~
+$n swims away to the south.~
+$n swims in from the north.~
+1 -1 3345
+D3
+ ~
+ ~
+$n swims away to the west.~
+$n swims in from the east.~
+1 -1 3338
+D4
+ ~
+ ~
+$n swims up through the water.~
+$n swims up from below.~
+1 -1 1604
+S
+#3340
+Rocky Bottom~
+Large rocks and Large rocks and other material covers the bottom of the ocean
+floor in this area. As you glance around you notice that this enourmous sea has
+much to offer and explore, there is a large rock like structure to the east and
+blue water to the west. Sea divers must be in their glory when a ship is sunk.
+~
+68 8 9 0
+0 32 0 0
+0 0 0
+D2
+ ~
+ ~
+$n swims away to the south.~
+$n swims in from the north.~
+1 -1 3346
+D3
+ ~
+ ~
+$n swims away to the west.~
+$n swims in from the east.~
+1 -1 3339
+D4
+ ~
+ ~
+$n swims up through the water.~
+$n swims up from below.~
+1 -1 3312
+S
+#3341
+Fishing Net~
+This area of the sea seems to be calm, but looks can be deceiving. A huge
+fishing net blocks the gateway to the south. Beyond the net must be hundreds
+and hundreds of new things to explore and conquer. But it is a mystery to
+many as to why this large, steel net is stretched out here.
+~
+68 8 9 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+$n swims away to the north.~
+$n swims in from the south.~
+1 -1 3335
+D1
+ ~
+ ~
+$n swims away to the east.~
+$n swims in from the west.~
+1 -1 3342
+D4
+ ~
+ ~
+$n swims up through the water.~
+$n swims up from below.~
+1 -1 3328
+S
+#3342
+Fishing Net~
+This area of the sea seems to be calm, but looks can be deceiving. A huge
+fishing net blocks the gateway to the south. Beyond the net must be hundreds
+and hundreds of new things to explore and conquer. But it is a mystery to
+many as to why this large, steel net is stretched out here. As you turn your
+head and swim along, you notice what appears to be a flap in the steel net
+that you just might be able to slip through.
+~
+68 8 9 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+$n swims away to the north.~
+$n swims in from the south.~
+1 -1 3336
+D1
+ ~
+ ~
+$n swims away to the east.~
+$n swims in from the west.~
+1 -1 3343
+D2
+ ~
+flap net~
+$n swims through the flap in the net to the south.~
+$n swims through the flap in the net from the north.~
+1 -1 794
+D3
+ ~
+ ~
+$n swims away to the west.~
+$n swims in from the east.~
+1 -1 3341
+D4
+ ~
+ ~
+$n swims up through the water.~
+$n swims up from below.~
+1 -1 3327
+S
+#3343
+Fishing Net~
+This area of the sea seems to be calm, but looks can be deceiving. A huge
+fishing net blocks the gateway to the south. Beyond the net must be hundreds
+and hundreds of new things to explore and conquer. But it is a mystery to
+many as to why this large, steel net is stretched out here.
+~
+68 8 9 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+$n swims away to the north.~
+$n swims in from the south.~
+1 -1 3337
+D1
+ ~
+ ~
+$n swims away to the east.~
+$n swims in from the west.~
+1 -1 3344
+D3
+ ~
+ ~
+$n swims away to the west.~
+$n swims in from the east.~
+1 -1 3342
+D4
+ ~
+ ~
+$n swims up through the water.~
+$n swims up from below.~
+1 -1 3326
+S
+#3344
+Fishing Net~
+This area of the sea seems to be calm, but looks can be deceiving. A huge
+fishing net blocks the gateway to the south. Beyond the net must be hundreds
+and hundreds of new things to explore and conquer. But it is a mystery to
+many as to why this large, steel net is stretched out here.
+~
+68 8 9 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+$n swims away to the north.~
+$n swims in from the south.~
+1 -1 3338
+D1
+ ~
+ ~
+$n swims away to the east.~
+$n swims in from the west.~
+1 -1 3345
+D3
+ ~
+ ~
+$n swims away to the west.~
+$n swims in from the east.~
+1 -1 3343
+D4
+ ~
+ ~
+$n swims up through the water.~
+$n swims up from below.~
+1 -1 3325
+S
+#3345
+Fishing Net~
+This area of the sea seems to be calm, but looks can be deceiving. A huge
+fishing net blocks the gateway to the south. Beyond the net must be hundreds
+and hundreds of new things to explore and conquer. But it is a mystery to
+many as to why this large, steel net is stretched out here.
+~
+68 8 9 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+$n swims away to the north.~
+$n swims in from the south.~
+1 -1 3339
+D1
+ ~
+ ~
+$n swims away to the east.~
+$n swims in from the west.~
+1 -1 3346
+D3
+ ~
+ ~
+$n swims away to the west.~
+$n swims in from the east.~
+1 -1 3344
+D4
+ ~
+ ~
+$n swims up through the water.~
+$n swims up from below.~
+1 -1 3324
+S
+#3346
+Fishing Net~
+This area of the sea seems to be calm, but looks can be deceiving. A huge
+fishing net blocks the gateway to the south. Beyond the net must be hundreds
+and hundreds of new things to explore and conquer. But it is a mystery to
+many as to why this large, steel net is stretched out here.
+~
+68 8 9 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+$n swims away to the north.~
+$n swims in from the south.~
+1 -1 3340
+D3
+ ~
+ ~
+$n swims away to the west.~
+$n swims in from the east.~
+1 -1 3345
+D4
+ ~
+ ~
+$n swims up through the water.~
+$n swims up from below.~
+1 -1 3313
+S
+#4506
+Lost underwater~
+You are being thrown around by the powerful current of the ocean. You
+hit your head on something, and your vision becomes blurred. You have no
+idea which way you're swimming.
+~
+68 9 9 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4506
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4506
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4506
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4506
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 4502
+S
+#4545
+A Narrow Passage~
+You slip through the crack and enter a very narrow passage that keeps on
+twisting and winding around. As you follow along, you get somewhat disoriented
+and lose your sense of direction. You finally come to what seems to be an
+end, and above you is some light -- at least, more light than what's down
+here.
+~
+68 73 9 0
+0 32 0 0
+0 0 0
+D2
+ ~
+sludge debris trash junk~
+$n swims through the crack in the wall to the south.~
+$n slips in from a crack in the wall to the north.~
+1 -1 6265
+D4
+ ~
+ ~
+$n swims up to the lighter area above.~
+$n swims up from a crack in the ocean's floor.~
+1 -1 2442
+S
+#4546
+An Underwater Avalanche~
+As you climb down through the crevice, you suddenly hear a loud rumbling as
+an even darker shadow covers the area! The stone walls on either side of
+the crevice are collapsing! You scatter as the boulders come crashing down,
+weighing a ton even in water. As you scramble about, you spy a ledge to
+the east and huddle in its shelter. Luckily, you escape with only a few
+cuts and bruises, but alas, the passageway back up is blocked.
+~
+68 73 9 0
+0 32 0 0
+25 0 0
+D2
+ ~
+ ~
+$n swims away to the south.~
+$n swims in from the north.~
+1 -1 799
+S
+#4904
+Deep Waters~
+You are at the bottom of a huge ledge which leads up to warmer waters. The
+ledge blocks your way to the west and north. The creatures of the sea
+frantically swim away in fear as a rock falls from the top of the ledge. Exits
+lead to the south, east, and up.
+~
+68 8 9 0
+0 32 0 0
+0 0 0
+D1
+ ~
+ ~
+$n swims away to the east.~
+$n swims in from the west.~
+1 -1 4905
+D2
+ ~
+ ~
+$n swims away to the south.~
+$n swims in from the north.~
+1 -1 3335
+D4
+ ~
+ ~
+$n swims up through the water.~
+$n swims up from below.~
+1 -1 3331
+S
+#4905
+Deep Waters~
+You are at the bottom of a huge ledge which leads up towards the shallow
+waters of the great Deep Sea. Hundreds of small fish scatter as if something
+had frightened them. The water is a dark blue color, and is extremely cold. The
+ledge blocks the way to the north and east, but exits lead to the west and
+south.
+~
+68 8 9 0
+0 32 0 0
+0 0 0
+D2
+ ~
+ ~
+$n swims away to the south.~
+$n swims in from the north.~
+1 -1 3336
+D3
+ ~
+ ~
+$n swims away to the west.~
+$n swims in from the east.~
+1 -1 4904
+D4
+ ~
+ ~
+$n swims up through the water.~
+$n swims up from below.~
+1 -1 3333
+S
+#6261
+A Ship Wreck~
+As you clamber over the rocks and swim up onto the rotting deck, you
+wonder what kind of crew once piloted this vessel. Many planks are cracked
+and broken at jarring angles, and the ship seems to be split in the middle.
+Fish swim in and out of holes and live in the plants that now grow here.
+You see some letters enscribed in corroded bronze on a broken mast.
+The remains of the ship stretch out to the east.
+~
+68 8 9 0
+0 32 0 0
+0 0 0
+D1
+ ~
+ ~
+$n swims along the deck to the east.~
+$n swims along the deck from the west.~
+1 -1 6262
+D2
+ ~
+ ~
+$n swims off the shipwreck to the south.~
+$n swims off the shipwreck from the north.~
+1 -1 3337
+E
+letters bronze~
+You can barely make out that they say S.S.M. Perhaps they're initials for
+the name of the ship?
+~
+E
+mast broken~
+There's only a stump of a mast sticking out from the broken deck of the ship.
+Its jagged edge is about 5 feet off the deck, and off to the north you can
+see what appears to be the top half of the mast lying at an angle, covered
+with barnacles.
+~
+E
+plank planks~
+Every few feet a plank sticks up at a jarring angle from the deck. As you
+search along the deck, you don't see a hole big enough anywhere here to
+let you see what's below deck.
+~
+E
+fish~
+There's a big ugly fish floating here, and he's staring right in your face.
+~
+S
+#6262
+A Ship Wreck~
+As you continue along the broken deck, you notice even more signs of life
+in a place you thought would show only death. It seems there's a whole
+ecosystem set within the wreck. At this end of the deck, there is a large
+hole leading down to the hold of the ship. A rotting sail is flayed over
+one side of the wreck, slowly disintegrating into the surrounding waters.
+~
+68 8 9 0
+0 32 0 0
+0 0 0
+D3
+ ~
+ ~
+$n swims along the deck to the east.~
+$n swims along the deck from the east.~
+1 -1 6261
+D5
+ ~
+ ~
+$n swims down into the darkness below.~
+$n swims down from the deck above.~
+1 -1 6263
+E
+sail rotting~
+A large sail is twisted around the edge of the wreck here. It is stained
+and slowly rotting, but you can make out what looks like a name on it that
+reads "..S. Med..vian.." or something to that effect.
+~
+E
+hole large~
+The gaping hole in the deck leads down into the dark below. Its edges are
+rough and jagged, and you can see a bubble or two floating up from
+its depths.
+~
+S
+#6263
+The Hold Of A Ship Wreck~
+You swim down through the gaping hole into utter darkness. As you cast your
+light about the room, you can see all the debris and plankton in the water
+stand out against the black. You can make out some barrels and crates
+strewn about the floor amidst the debris, and splintered beams are
+criss-crossed about the wreck. You also notice what looks like an old
+~
+68 9 9 0
+0 32 0 0
+0 0 0
+D4
+ ~
+ ~
+$n swims up out of the hole to the deck.~
+$n swims up out of the hole in the deck.~
+1 -1 6262
+E
+wardrobe~
+As you open the wardrobe's doors, what looks like a pair of silk panties
+drifts out from the current and settles on the floor. There's a bunch
+of old clothes inside, and some junk and debris.
+~
+E
+panties panty~
+They're cute, pink, and made of silk. How would you like it if someone
+went through your clothes?
+~
+S
+#6264
+A Strange Cavern~
+The tracks lead in to an even wider cavern, the walls of which are
+plastered with blood and pieces of flesh. The cavern floor is all
+dug up and disturbed as if there was a great struggle. In the center
+of the room is a large stone-like slab that is littered with carcasses
+and remains from a variety of sea animals. As the currents in the murky
+water here waft debris before your eyes, you notice that the clicking
+sound is even louder here and you can hear something sloshing and
+echoing through the cavern. The trail leads west...
+~
+68 73 9 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+$n swims away to the north.~
+$n swims in from the south.~
+1 -1 800
+D3
+ ~
+ ~
+$n swims away to the west.~
+$n swims in from the east.~
+1 -1 6265
+S
+#6265
+The Lair Of Captain Crab-Leg!~
+Upon entering the room, the sight of the gore literally makes your stomach
+heave. The sludge is piled up high here, and you can tell that it's
+composed mostly of fecal matter and waste. The smell, even underwater, is
+overpowering and you feel queasy as the gut-filled water swirls around
+you. In the midst of a large nest of bone and plant matter is a huge
+crab-like creature busily picking at something's remains. Obviously,
+this is its home, and you've obviously disturbed it's snack...
+~
+68 73 9 0
+0 32 0 0
+0 0 0
+D0
+ ~
+sludge debris trash waste~
+$n swims through the crack to the north.~
+$n swims through the crack from the south.~
+1 -1 4545
+D1
+ ~
+ ~
+$n swims away to the east.~
+$n swims in from the west.~
+1 -1 6264
+E
+sludge debris trash waste~
+As you search along the sludge and waste matter, you can see that there
+is a ton of trash and junk mixed in with it all. Your stomach heaves as
+you scramble through the remains, and you notice what looks like a crack
+in the wall to the north, though it's blocked by a ton of sludge and debris.
+~
+S
+#6266
+Decaying Basement~
+You swim down between the floorboards into a numbing darkness. As you cast
+your light about, you can see every movement of the tiny pieces of debris
+that drift lazily in the currents here. Rotting junk is piled around, and
+you can see an old trunk against the west wall. Toppled over in the corner
+underneath some shelves is what looks like a globe, and a rotting blanket
+~
+68 9 9 0
+0 32 0 0
+0 0 0
+D4
+The floorboards are all rotted away, leading to the upstairs.
+~
+floorboard board~
+$n swims up through the hole.~
+$n swims up from the darkness below.~
+1 -1 2426
+E
+cups~
+One of the cups looks like it has a piece of medal inside it.
+~
+E
+shelf shelves shelve~
+You look up and down the shelves, knocking stuff on to the floor as you
+sift through the junk. It's too confusing to even sort through it all.
+There are cups filled with sea-crud, some cracked porcelain, and other
+odds and ends that you don't recognize in the corrosion all over
+the place.
+~
+E
+globe~
+The globe is covered with debris, but you brush most of it away and
+see a map of the world. You can see the continent of Medievia in the
+eastern hemisphere, and in the western hemisphere is the continent of
+Trellor, seperated by a large ocean. Off the west coast of Trellor is
+the Deep Sea, where you are now, right next to Lake Contnea on the
+mainland.
+~
+E
+trunk chest~
+The trunk is rotting away, and as you lift it's lid it simply breaks off
+the hinges. Inside you see a bunch of old clothes, mostly rags now, and
+some other junk. Nothing special really, just some tools and what looks
+like a broken picture frame.
+~
+E
+tools tool~
+There are many tools lying within the trunk here, including a hammer,
+a small shovel, a crowbar, and others. All of them are corroded very
+badly.
+~
+E
+picture frame broken~
+The picture frame is broken, and the glass is all cracked except for a single
+shard that remains. A torn picture still is stuck in the frame, and when you
+brush away the sediment, you can make out a smiling deadhead wearing a pair
+of birkenstocks on his feet. Achad is scrawled beneath the picture of this
+ancient god.
+~
+E
+desk~
+The wood of the desk is decaying slowly, and feels soft and mushy to the
+touch in some parts. It is encrusted with sediment from the waters,
+and a few drawers are still barely attached to it.
+~
+E
+drawers drawer~
+When you open the middle drawer, a tiny fish slips out and swims away
+to the upstairs. Other than that, the drawers are empty.
+~
+E
+blanket sail~
+The blanket, upon closer inspection, seems to be a piece of a sail. It is
+rotting over most of its surface.
+~
+E
+junk~
+There is junk all over the floor, and next to the chest and the desk. You
+search through it but find nothing of value.
+~
+S
+#6267
+Climbing Up The Tree~
+A few branches snap here and there as you make your way up the tree. A bird
+that was resting in its nest flies away as you approach, and you can see what
+looks like a bunch of boards nailed together in the branches above.
+~
+68 0 8 0
+0 32 0 0
+20 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 6268
+D5
+ ~
+ ~
+$n slips, screams, and crashes down through the branches below!~
+$n screams and crashes down through the branches! THUMP!~
+1 -1 1373
+S
+#6268
+An Abandoned Club House~
+Wow! A Club House! You always loved having one when you were younger, and
+climbing into here brings back many fond memories. There are windows on each
+wall here, and you can look out to the south to see a vast sea before your
+eyes. To the north of the beach is a huge lake, and there are some mountains
+to the east. There are some crates piled around the room that you can sit on,
+and though there's some trash, the place seems to be in decent shape.
+~
+68 12 0 0
+0 32 0 0
+0 0 0
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 6267
+S
+#19013
+Path to the Sea~
+You are on a small, sandy path that leads further south to the sea. Just
+a little ahead of you is a large old tree, blocking the sun and casting a long
+shadow on the path before you. As you continue along the cool, damp path, you
+get closer to the tree and notice that there appear to be some words
+carved into the trunk. There's a salty taste in the air, and only the
+occasional cry of a bird interrupts the soft and gentle sound of waves
+from the south.
+~
+68 0 8 0
+0 32 0 0
+0 0 0
+D0
+ ~
+ ~
+$n exits the path to the north, leaving nothing but footprints.~
+$n leaves the beach from the south with some killer tan-lines.~
+1 -1 1768
+D2
+ ~
+ ~
+$n strolls down the sandy path to the south.~
+$n strolls down the sandy path from the north.~
+1 -1 229
+E
+tree carvings trunk sign words~
+As you glance at the tree, you see that following is carved into its trunk:
+========================
+WELCOME to the DEEP SEA!
+------------------------
+The beach is free, and
+swimming is permitted,
+but do so at your own
+risk! We're not
+responsible for any
+loss of limb!
+========================
+~
+E
+sand ground mud feet path damp~
+As you look down at your feet you notice that the ground is composed of
+mud and dark wet sand. The ground has an odor not yet recognized by your
+senses.
+~
+S
+#19999
+$~

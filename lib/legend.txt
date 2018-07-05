@@ -1,0 +1,29 @@
+Symbol	Color		Meaning
+------------------------------------------------------------------------------
+# 	white	 	you
+@	white		a link between the wilderness and a zone
+I	gray		a fence
+I	purple		a wall
+:	variable	this symbol indicates a road or trail, the various
+			colors indicate different types
+.	blue		ocean
+.	yellow		beach or desert
+.	cyan		shoreline
+.	white		arctic wasteland
+^	gray		mountains
+^	dark green	forested hills
+^	green		grassy hills
+^	brown		barren hills
++	green		forest
+"	green		grasslands
+%	green		swamp
+x	green		jungle
+*	blue/cyan	lake/pond
+~	blue/cyan	river/stream
+
+There are many more symbols of various colors which aren't shown on this 
+  list.  This list provides you with the main symbols.
+
+Note:  Most of the map should be intuative.  Green symbols indicate some
+       type of vegetation; forests, swamps, jungles, grasslands.  Blue
+       symbols indicate some type of water, etc.

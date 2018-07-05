@@ -1,0 +1,996 @@
+#4625
+Outside the Graveyard~
+A windworn arch rises to the west of you, marking the entrance to the
+graveyard that the dead of Trellor call their home. It is said they are not the
+only ones that call it their home. But in this calm silence you do not feel
+daunted. Here, outside the graveyard, the birds still sing.
+~
+72 0 2 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4623
+D3
+There is an arch, old and worn down by the wind, which stands over
+the path to the west.
+~
+ ~
+ ~
+ ~
+1 -1 4626
+S
+#4626
+The Stone Arch~
+A magnificent, though cracked, stone arch rises over the graveyard entrance.
+It is almost completely enshrined in deep green ivy, and rumoured to keep
+the spirits of the dead among the tombs.
+~
+72 4 2 0
+0 0 0 0
+0 0 0
+D1
+You see a grassy path to the east, where all is still and calm.
+~
+ ~
+$n walks along the grassy path.~
+$n walks in from the arch.~
+1 -1 4625
+D3
+The oak trees seem to form a dark shadow over the path to the west,
+making a blanket to the already dim light above.
+~
+ ~
+ ~
+ ~
+1 -1 4627
+E
+arch~
+It stands over the path just above you, covered with ivy.  A thought of
+the rumors that enshroud this arch seems to send a chill through the
+area.
+~
+S
+#4627
+Giant Oaks Open Out Into the Graveyard~
+A weave of oaken limbs forms a canopy above your head that opens out
+just to the west into a small, heavily wooded graveyard, as silent
+and peaceful as its permanent (or not so permanent) occupants.
+~
+72 1 2 0
+0 0 0 0
+0 0 0
+D1
+An old stone arch, cracked and worn by the wind, stands over the path
+outside the graveyard.
+~
+ ~
+ ~
+ ~
+1 -1 4626
+D2
+The dark path through the graveyard goes on to the south.
+~
+ ~
+ ~
+ ~
+1 -1 4628
+D3
+The path through the graveyard goes on to the west.
+~
+ ~
+$n walks down the path to the west.~
+$n has arrived from the path.~
+1 -1 4629
+S
+#4628
+A Path Through the Graveyard~
+The low-hanging limbs of oak trees brush your face as you pass along a
+row of ivy rimmed tombstones, some older than you are. You can hear the
+delicate music of wind chimes from somewhere in the distance.
+~
+72 1 2 0
+0 0 0 0
+0 0 0
+D0
+The paths intersect to the north, under a shroud of giant oak trees.
+~
+ ~
+ ~
+ ~
+1 -1 4627
+D1
+A mass graveyard can be seen to the east, a silent monument to the
+poor of Trellor.
+~
+ ~
+$n enters the potter's field.~
+$n has arrived from the path to the west.~
+1 -1 4834
+D2
+The long, dark path goes on to the south.
+~
+ ~
+$n walks down the path.~
+$n has arrived from the path to the north.~
+1 -1 4635
+E
+tombstone~
+
+                  Here Rests the Soul of Interum the Healess
+                              A Level 15 Cleric
+      Died on the 31st Day of the Month of the Grand Struggle, Year 370
+                           By the Hand of the satyr
+                           In The Fire Giants Keep
+~
+S
+#4629
+A Path Through the Graveyard~
+The low-hanging limbs of oak trees brush your face as you pass along a
+row of ivy rimmed tombstones, some older than you are. You can hear the
+delicate music of wind chimes from somewhere in the distance.
+~
+72 1 2 0
+0 0 0 0
+0 0 0
+D1
+Giant oak trees can be seen to the east, at an intersection of paths.
+~
+ ~
+ ~
+$n walks in from the path.~
+1 -1 4627
+D3
+The path goes on to the west.
+~
+ ~
+$n walks down the path to the west.~
+$n walks in from the path.~
+1 -1 4630
+E
+tombstone~
+
+                     Here Rests the Soul of Xia the Thief
+                               A Level 15 Thief
+        Died on the 33rd Day of the Month of the Frost Giant, Year 370
+                          By the Hand of A Guard Ant
+                            In Catacombs of Toshi
+~
+S
+#4630
+A Path Through the Graveyard~
+The low-hanging limbs of oak trees brush your face as you pass along a
+row of ivy rimmed tombstones, some older than you are. You can hear the
+delicate music of wind chimes from somewhere in the distance.
+~
+72 1 2 0
+0 0 0 0
+0 0 0
+D1
+The dark path continues on to the east.
+~
+ ~
+$n walks east down the path.~
+$n has arrived from the path.~
+1 -1 4629
+D2
+The old path goes on to the south.
+~
+ ~
+$n goes down the path to the south.~
+$n has arrived from the path to the north.~
+1 -1 4634
+D3
+The dark path can be seen going on to the west.
+~
+ ~
+$n walks down the path to the west.~
+$n has arrived from the path to the east.~
+1 -1 4631
+E
+tombstone~
+
+                     Here Rests the Soul of Xia the Thief
+                               A Level 15 Thief
+      Died on the 31st Day of the Month of the Grand Struggle, Year 370
+                           By the Hand of the satyr
+                           In The Fire Giants Keep
+~
+S
+#4631
+A Path Through the Graveyard~
+The low-hanging limbs of oak trees brush your face as you pass along a
+row of ivy rimmed tombstones, some older than you are. You can hear the
+delicate music of wind chimes from somewhere in the distance.
+A narrow trail winds through the trees to the north and up a steep slope.
+~
+72 1 2 0
+0 0 0 0
+0 0 0
+D0
+You can see a long path, which winds through several boulders, going
+up the hill.
+~
+ ~
+$n winds through several boulders.~
+You watch as $n winds through the path and arrives.~
+1 -1 4014
+D1
+The path through the dark goes on to the east.
+~
+ ~
+$n walks down the path to the east.~
+$n walks in from the west.~
+1 -1 4630
+D3
+You can see the path bending to the south, into a strangely quiet path.
+~
+ ~
+$n walks toward the bend in the path.~
+$n has arrived from the path to the east.~
+1 -1 4632
+E
+tombstone~
+
+          Here Rests the Soul of Curer the Mistress of all Divinity
+             A Level 30 Cleric and Member of Guardians of Justice
+      Died on the 21st Day of the Month of the Grand Struggle, Year 370
+                         By the Hand of a Shadow Wolf
+                                In Quest Zone
+~
+S
+#4632
+A Quiet Path~
+You have arrived at a crossing of graveyard paths. Paths continue east
+and south through the leafy oaks.
+~
+72 1 2 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4631
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4633
+E
+tombstone~
+
+                   Here Rests the Soul of Erthus the Wizard
+                            A Level 18 Magic User
+      Died on the 28th Day of the Month of the Grand Struggle, Year 370
+                          By the Hand of A firenewt
+                           In The Fire Giants Keep
+~
+S
+#4633
+A Quiet Path~
+A narrow path, wooded with oaks and silent with the silence of the dead,
+travels north and south from here. It is lined with cracked tombstones.
+~
+72 1 2 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+The quiet path bends eastward to the north.~
+1 -1 4632
+D2
+The path goes on to the south.
+~
+ ~
+ ~
+ ~
+1 -1 4643
+E
+tombstone~
+
+                     Here Rests the Soul of Xia the Thief
+                               A Level 15 Thief
+      Died on the 21st Day of the Month of the Grand Struggle, Year 370
+                   By the Hand of The Stormwatch Commander
+                              In City of Trellor
+~
+S
+#4634
+A Path Through the Graveyard~
+The low-hanging limbs of oak trees brush your face as you pass along a
+row of ivy rimmed tombstones, some older than you are. You can hear the
+delicate music of wind chimes from somewhere in the distance.
+~
+72 1 2 0
+0 0 0 0
+0 0 0
+D0
+The path continues on to an intersection to the north.
+~
+ ~
+ ~
+ ~
+1 -1 4630
+D2
+The dark path continues on to the south.
+~
+ ~
+ ~
+ ~
+1 -1 4639
+E
+tombstone~
+
+             Here Rests the Soul of Kinslayer the Elder Patriarch
+                              A Level 21 Cleric
+      Died on the 22nd Day of the Month of the Grand Struggle, Year 370
+                         By the Hand of A male Bandit
+                            In Catacombs of Toshi
+~
+S
+#4635
+A Path Through the Graveyard~
+The low-hanging limbs of oak trees brush your face as you pass along a
+row of ivy rimmed tombstones, some older than you are. You can hear the
+delicate music of wind chimes from somewhere in the distance.
+~
+72 1 2 0
+0 0 0 0
+0 0 0
+D0
+The dark path through the graveyard goes on to the north.
+~
+ ~
+ ~
+ ~
+1 -1 4628
+D2
+The dark path goes on to the south.
+~
+ ~
+ ~
+ ~
+1 -1 4636
+E
+tombstone~
+
+                  Here Rests the Soul of Alan the Underlord
+         A Level 29 Warrior and Member of Knights of the Table Round
+        Died on the 13th Day of the Month of Spring Dawning, Year 370
+                        By the Hand of A jungle giant
+                            In The Mystical Forest
+~
+S
+#4636
+A Path Through the Graveyard~
+The low-hanging limbs of oak trees brush your face as you pass along a
+row of ivy rimmed tombstones, some older than you are. You can hear the
+delicate music of wind chimes from somewhere in the distance.
+~
+72 1 2 0
+0 0 0 0
+0 0 0
+D0
+The dark path continues on to the north.
+~
+ ~
+$n walks down the path to the north.~
+$n has arrived from the path.~
+1 -1 4635
+D2
+The path continues on to the south.
+~
+ ~
+$n walks south down the path.~
+$n has arrived from the path to the north.~
+1 -1 4637
+E
+tombstone~
+
+                    Here Rests the Soul of ShadowWolf ...
+                            A Level 22 Magic User
+      Died on the 10th Day of the Month of the Grand Struggle, Year 370
+                      By the Hand of The fire elemental
+                              In City of Trellor
+~
+S
+#4637
+A Path Through the Graveyard~
+The low-hanging limbs of oak trees brush your face as you pass along a
+row of ivy rimmed tombstones, some older than you are. You can hear the
+delicate music of wind chimes from somewhere in the distance.
+~
+72 1 2 0
+0 0 0 0
+0 0 0
+D0
+The long path continues on to the north.
+~
+ ~
+$n walks north down the path.~
+$n has arrived from the path.~
+1 -1 4636
+D2
+The path goes on to a bend to the south.
+~
+ ~
+$n walks south down the path.~
+$n has arrived from the path to the north.~
+1 -1 4638
+E
+tombstone~
+
+                   Here Rests the Soul of Surak the Paladin
+         A Level 23 Warrior and Member of Crusaders of the Darkworld
+      Died on the 12th Day of the Month of the Grand Struggle, Year 370
+                            By the Hand of A Sull
+                            In Catacombs of Toshi
+~
+S
+#4638
+A Path Overhung with Trees~
+Tombstones nearly overgrown with flowering ivy and brush line this southern
+path of the graveyard. It seems a quiet, peaceful place, yet not a bird
+sings from the broad oaks. The only noise to be heard is the humming of
+wind chimes being played somewhere, and your own footfalls.
+~
+72 1 2 0
+0 0 0 0
+0 0 0
+D0
+The path continues on to the north.
+~
+ ~
+$n walks north on the path.~
+$n walks in from the path to the south.~
+1 -1 4637
+D3
+The path continues on toward the west.
+~
+ ~
+$n walks west down the path.~
+$n has arrived from the path to the east.~
+1 -1 4648
+E
+tombstone~
+
+                  Here Rests the Soul of Eioyn the Enchanter
+                            A Level 12 Magic User
+      Died on the 24th Day of the Month of Trellor's Founding, Year 370
+                          By the Hand of A Guard Ant
+                            In Catacombs of Toshi
+~
+S
+#4639
+A Path Through the Graveyard~
+The low-hanging limbs of oak trees brush your face as you pass along a
+row of ivy rimmed tombstones, some older than you are. You can hear the
+delicate music of wind chimes from somewhere in the distance.
+~
+72 1 2 0
+0 0 0 0
+0 0 0
+D0
+The path continues on to the north.
+~
+ ~
+ ~
+ ~
+1 -1 4634
+D2
+The path through the graveyard continues on to the south.
+~
+ ~
+ ~
+ ~
+1 -1 4641
+D3
+To the west you can see the trunk of a particularly large and old
+oak tree.
+~
+ ~
+ ~
+ ~
+1 -1 4831
+E
+tombstone~
+
+            Here Rests the Soul of Verminaard the Dragon High Lord
+                            A Level 15 Magic User
+          Died on the 33rd Day of the Month of the Drolem, Year 369
+                           By the Hand of Alexander
+                         In The Lost City of Atlantis
+~
+S
+#4641
+A Path Through the Graveyard~
+The low-hanging limbs of oak trees brush your face as you pass along a
+row of ivy rimmed tombstones, some older than you are. You can hear the
+delicate music of wind chimes from somewhere in the distance.
+~
+72 1 2 0
+0 0 0 0
+0 0 0
+D0
+The path continues on to the north.
+~
+ ~
+$n walks down the path to the north.~
+$n has arrived from the path.~
+1 -1 4639
+D2
+The path goes on to an intersection south.
+~
+ ~
+$n walks south down the path.~
+$n has arrived from the path to the north.~
+1 -1 4642
+E
+tombstone~
+
+                   Here Rests the Soul of Erthus the Wizard
+                            A Level 18 Magic User
+      Died on the 34th Day of the Month of the Grand Struggle, Year 370
+                         By the Hand of a young child
+                               In Lake Contnea
+~
+S
+#4642
+A Path Overhung with Trees~
+Tombstones nearly overgrown with flowering ivy and brush line this southern
+path of the graveyard. It seems a quiet, peaceful place, yet not a bird
+sings from the broad oaks. The only noise to be heard is the humming of
+wind chimes being played somewhere, and your own footfalls.
+~
+72 1 2 0
+0 0 0 0
+0 0 0
+D0
+The path continues on to the north.
+~
+ ~
+$n walks down the path to the north.~
+$n has arrived from the path.~
+1 -1 4641
+D1
+The path goes on to the east.
+~
+ ~
+$n walks down the path to the east.~
+$n walks in from the path to the west.~
+1 -1 4648
+D3
+The path continues on to the west.
+~
+ ~
+$n walks down the path to the west.~
+$n has arrived from the path.~
+1 -1 4647
+E
+tombstone~
+
+                Here Rests the Soul of Yara the Dragon Slayer
+              A Level 27 Warrior and Member of Followers of Cain
+       Died on the 14th Day of the Month of Wondrous Creation, Year 370
+                  By the Hand of the elite fire giant guard
+                           In The Fire Giants Keep
+~
+S
+#4643
+A Quiet Path~
+A narrow path, wooded with oaks and silent with the silence of the dead,
+travels north and south from here. It is lined with cracked tombstones.
+~
+72 1 2 0
+0 0 0 0
+0 0 0
+D0
+The quiet path goes on to the north.
+~
+ ~
+ ~
+ ~
+1 -1 4633
+D2
+The quiet path goes on to the south.
+~
+ ~
+ ~
+ ~
+1 -1 4644
+E
+tombstone~
+
+       Here Rests the Soul of Kyleel Underwood, Stormchyldes Assistant
+          A Level 28 Magic User and Member of Avatars and Elementals
+      Died on the 25th Day of the Month of the Grand Struggle, Year 370
+                       By the Hand of The Quartermaster
+                         In The Mighty Cutter Mystara
+~
+S
+#4644
+A Quiet Path~
+A narrow path, wooded with oaks and silent with the silence of the dead,
+travels north and south from here. It is lined with cracked tombstones.
+~
+72 1 2 0
+0 0 0 0
+0 0 0
+D0
+The quiet path continues to the north.
+~
+ ~
+ ~
+ ~
+1 -1 4643
+D2
+The quiet path goes on to the south.
+~
+ ~
+ ~
+ ~
+1 -1 4645
+E
+tombstone~
+
+                Here Rests the Soul of Buzz is smiling at YOU
+                 A Level 18 Warrior and Member of Mudketeers
+      Died on the 24th Day of the Month of the Grand Struggle, Year 370
+                      By the Hand of Silor the Innkeeper
+                              In City of Trellor
+~
+S
+#4645
+A Quiet Path~
+A narrow path, wooded with oaks and silent with the silence of the dead,
+travels north and south from here. It is lined with cracked tombstones.
+~
+72 1 2 0
+0 0 0 0
+0 0 0
+D0
+The quiet, wooded path goes on to the north.
+~
+ ~
+$n walks north down the path.~
+$n has arrived from the path to the south.~
+1 -1 4644
+D2
+The path goes on to the south.
+~
+ ~
+$n walks south toward the mausoleum.~
+$n has arrived from the quiet path.~
+1 -1 4646
+E
+tombstone~
+
+              Here Rests the Soul of Ashera ...Lady of Avalon...
+             A Level 28 Cleric and Member of The Coven of Avalon
+         Died on the 8th Day of the Month of the Blood Moon, Year 369
+                           By the Hand of Poseidon
+                         In The Lost City of Atlantis
+~
+S
+#4646
+A Quiet Path~
+You stand at an intersection in the wooded graveyard paths, which lead
+north and east from here. The Mausoleum, domed and rising with a small tower
+that purrs with the music of wind chimes, lies to the west.
+~
+72 1 2 0
+0 0 0 0
+0 0 0
+D0
+A quiet path goes off to the north.
+~
+ ~
+$n walks north down the path.~
+$n quietly walks in from the south.~
+1 -1 4645
+D1
+A path goes off to the east, covered from above by the trees.
+~
+ ~
+$n walks down the path to the east.~
+$n has arrived from the bend.~
+1 -1 4647
+D3
+The vague stench of death seems to radiate from the Mausoleum to
+the west.
+~
+ ~
+$n walks into the Mausoleum.~
+$n has arrived from the graveyard.~
+1 -1 4828
+E
+tower chimes~
+You can see the tower high up, and there seems to be music of
+wind chimes being played above.
+~
+E
+tombstone~
+A blank tombstone awaits your name on it.
+~
+S
+#4647
+A Path Overhung with Trees~
+Tombstones nearly overgrown with flowering ivy and brush line this southern
+path of the graveyard. It seems a quiet, peaceful place, yet not a bird
+sings from the broad oaks. The only noise to be heard is the humming of
+wind chimes being played somewhere, and your own footfalls.
+~
+72 1 2 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4642
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4646
+E
+tombstone~
+
+                     Here Rests the Soul of Xia the Thief
+                               A Level 15 Thief
+      Died on the 28th Day of the Month of the Grand Struggle, Year 370
+                       By the Hand of A black mamba owl
+                              In City of Trellor
+~
+S
+#4648
+A Path Overhung with Trees~
+Tombstones nearly overgrown with flowering ivy and brush line this southern
+path of the graveyard. It seems a quiet, peaceful place, yet not a bird
+sings from the broad oaks. The only noise to be heard is the humming of
+wind chimes being played somewhere, and your own footfalls.
+~
+72 1 2 0
+0 0 0 0
+0 0 0
+D1
+The path continues on to a bend to the east.
+~
+ ~
+$n walks east down the path.~
+$n arrives from the path to the west.~
+1 -1 4638
+D3
+The long path continues on to the west.
+~
+ ~
+$n walks west down the path.~
+$n walks in from the path to the east.~
+1 -1 4642
+E
+tombstone~
+
+                     Here Rests the Soul of Sirity *Sigh*
+        A Level 17 Thief and Member of Myst's Strays of Life and Death
+         Died on the 1st Day of the Month of Spring Dawning, Year 370
+                            By the Hand of An Ant
+                            In Catacombs of Toshi
+~
+S
+#4828
+The Mausoleum~
+You pass into a room perpetually illuminated by torchlight which
+carries an aura and vague odor of death. This is where the prominent
+dead of the city of Trellor are lain in coffins entombed forever
+within ancient stone walls.
+~
+72 8 0 1
+0 0 0 0
+0 0 0
+D1
+The intersection of the quiet path can be seen to the east.
+~
+ ~
+ ~
+ ~
+1 -1 4646
+D4
+A stairwell runs upward from here and above.
+~
+ ~
+$n climbs up the stairs.~
+$n has arrived from the dimly lit room below.~
+1 -1 4829
+S
+#4829
+The Stairwell in the Mausoleum~
+Climbing the Mausoleum stairwell, you can hear with distinct pleasure
+alluring songs of the minions of the wind goddess playing the silver
+chimes from the garden above you. The only other exit is down, into
+the main room of the Dead.
+~
+72 14 0 7
+0 0 0 0
+0 0 0
+D4
+You can sort of make out a form of garden at the top of the stairs
+and soothing music can be heard from above.
+~
+ ~
+ ~
+ ~
+1 -1 4830
+D5
+The main room of the Mausoleum can be seen at the bottom of the stairs.
+~
+ ~
+ ~
+ ~
+1 -1 4828
+S
+#4830
+The Wind Chime Garden~
+ You step out into the beautiful garden of the wind chimes, which is said to be
+built by the wind goddess in a moment of frivolity. The winds from all over the
+land seem to congregate here to play like living beings, and make music from
+the precious hanging chimes of pure shimmering silver. You are too enthralled
+by their sirenous songs to leave by any means other than magic.
+~
+72 0 1 7
+0 0 0 0
+0 0 0
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 4829
+E
+chime chimes wind ~
+These chimes make the most beautiful sounds you can remember hearing.
+The silver they are made up of shimmer in the light.
+~
+S
+#4831
+The Base of a Windworn Oak~
+A particularly large, wind-scarred black oak stands before you, eons old
+and gnarled of limb and trunk. The knobs in the side make it easy climbing,
+but there is something ominous about the tree that would cause the wise
+to hesitate. You notice the trunk of the oak has been carved with some
+tiny writing.
+~
+72 1 2 0
+0 0 0 0
+0 0 0
+D1
+The path through the graveyard can be seen to the east.
+~
+ ~
+$n walks to the path.~
+$n walks in from the base of the oak tree.~
+1 -1 4639
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 4832
+E
+writing oak~
+The wind-scarred trunk of the black oak is carved with the likeness of an owl,
+and a scrawled notice that this tree guards the entrance to a god's home.
+~
+S
+#4832
+Climbing the Windworn Oak~
+As you ascend the black, weathered trunk of the oak, the winds rise eerily
+as if by some strange magic, blowing your hair and the leaves of the tree.
+There is definitely a strange, protected aura about this place.
+~
+72 1 2 7
+0 0 0 0
+10 0 0
+D4
+The top of the tree can be seen above, and a silence seems to enshroud it.
+~
+ ~
+$n climbs up to the top.~
+$n climbs up from the tree below.~
+1 -1 4833
+D5
+The base of this old tree can be seen below.
+~
+ ~
+$n continues the descent down to the ground.~
+$n climbs down from above.~
+1 -1 4831
+S
+#4833
+The Nest of the Guardians~
+It seems you have climbed too far up a tree sacred to a goddess. In the
+darkness luminous with magic, two pairs of dark round eyes are carried
+swiftly towards you on deathly silent wings.
+~
+72 0 3 7
+0 0 0 0
+10 0 0
+D5
+The black trunk of the knotted tree can be seen below, and looks to be safer
+than up here.
+~
+ ~
+$n carefully climbs down the tree.~
+$n climbs down from above.~
+1 -1 4832
+S
+#4834
+The Potter's Field~
+This mass grave is where Trellor's poor are buried. Those who can't afford
+their own tombstone get buried together here.
+~
+72 0 2 0
+0 0 0 0
+0 0 0
+D3
+One of the few paths through the graveyard can be seen to the west.
+~
+ ~
+$n walks toward the path.~
+$n walks in from the potter's field.~
+1 -1 4628
+D5
+The Sanctum Mortis of the Necromancers can be seen below.  The smell of
+unholy incenses seem to radiate from below.
+~
+ ~
+$n walks down into the Necromancers' Sanctum Mortis.~
+$n has arrived from the Potter's Field.~
+1 -1 4835
+E
+grave~
+It apeears to be more of a patch of land, set aside to bury the poor who
+can't afford to get their own tombstone and grave.  It almost feels like
+the spirits of those who were buried here are watching all of your moves.
+~
+S
+#4835
+The Necromancers' Sanctum Mortis~
+   This is the Sanctum Mortis of the Sorcerers of Undeath. Rancid fumes
+fill the air from unholy incenses, obscuring drawn and carved sigils and
+circles of power on the floor, ceiling and walls. Strange decanters of
+unhealthy-looking stuff and scrolls of all sorts cover the work tables and
+shelves. Along the east wall is a rack of hundreds of small, glowing blue
+bottles. Tiny, agonized apparitional faces peer at you you through the
+crystal walls of those bottles, lips moving silently. They seem to be
+asking -- pleading for your help to free them. Do you dare?
+~
+72 4 2 7
+0 0 0 0
+0 0 0
+D4
+The graveyard of the poor can be seen above, where the unwealthy of
+Trellor are buried.
+~
+ ~
+$n climbs up above with a look of fear on the face.~
+You watch as $n climbs up from below, out of the Sanctum Mortis of the Necromancers.~
+1 -1 4834
+E
+bottles bottle faces~
+The bottles almost seem to contain spirits of the deceased.  As you look
+at them more closely, you can make out a face peering out through the bottle
+looking at you, pleading for you to help them escape and be free.
+~
+S
+#19999
+$~

@@ -1,0 +1,31 @@
+Medievia IV is comming along nicely.  Look here for updates and 
+information on how far along we are.
+
+The full 4 million room new medievia iv world is in now.  All old and new
+zones are in place.
+New summon, teleport, recall spells are in.
+Survey command is in.
+New Mobile format file is in.
+Equipment det is in.
+Object tweaking is in with new lockers.
+Dream command tweaked.
+Adopt A Zone code is in.
+New Social zone code is in. MEDLINK
+Mob Tracking is in.
+Catacombs are all fixed.
+New MEDIV god commands are in.
+New player naming restrictions are in
+Packhorses, Wagons, Mules...(buyable beasts for trading) are in
+MappingArea display is in for wilderness (IN COLOR!)
+New carrier pidgeons are in
+Complete Supply/Demand economy is in!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!finally :)
+New moving display is in
+Trading is IN!  woowoo
+All needed utilities and freight save hooks are in
+Holoworld got its last detailed code
+
+Being worked on yet: Mounting, Weather, details details details....
+PLAYER TEST will start soon!
+
+For Medievia mud telnet to port 4000.  This port 4444 is our test port for
+development of MEDIEVIA IV, the largest mud in the world.

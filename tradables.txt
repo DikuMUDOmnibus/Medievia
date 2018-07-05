@@ -1,0 +1,7 @@
+Adamantite, Ale, Armor, Bananas, Beer, Books, Candles, Chains, Cloth,
+Coal, Course Sugar, Crystal, Dates, Eggs, Figs, Fried Fruit, Dried Seed,
+Glass Ware, Herbs, Hemp, Ink, Incense, Jewels, Meade, Molassesm, Nails,
+Nuts, Oils, Opium, Pelts, Perfume, Pickled Fish, Raw Iron, Raw Tin, Raw
+Copper, Raisens, Religious Artifacts, Rice, Rope, Rum, Salt, Salted Fish,
+Silks, Silver, Spices, Sugar, Tar, Tobacco, Tools, Weapons, Wine
+

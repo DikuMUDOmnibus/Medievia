@@ -1,0 +1,651 @@
+#551
+On the Island~
+As you pull yourself up from the river, you find yourself on a fascinating
+island.  Trees and rocks line the shore and watch the river lazily meander by.
+Ahead in the distance you see a mist shrouded mountain, which seems strangely
+large for such a dainty island.  Perhaps there is magic in the air.
+~
+7 4 3 1
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 554
+D2
+~
+~
+~
+~
+0 0 63432
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3430
+S
+#552
+A Quiet Glade~
+You are in the midst of a quiet, moonlit glade.  The trees line the shore
+of the river and shield this glade from outsiders.  To the northeast you can
+see the huge mountain rising out of the mists, appearing as a giant guardiang
+of peace in this tranquil setting.  Beneath a large willow, a large blanket
+has been set out.  A basket sits beside it, as well as a bucket containing a
+bottle of champagne.  A gilded candleabra sheds a warm glow over the blanket,
+making you feel very relaxed and comfortable.
+~
+7 512 2 1
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3429
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3430
+D3
+A dark wood door engraved with a detailed picture of a beautiful
+wood faerie. Her delicate, translucent wings curl gently around
+her naked body. Her hair hangs low to the ground, wrapping itself
+around the flowers and ferns. Around her waist is a necklace of
+red berries and on her forehead is a blue crescent moon.
+~
+door~
+$n enters through the Faerie doorway.~
+$n steps quietly into the bedroom.~
+2 18012 5593
+S
+#553
+The end of the rainbow~
+You have reached the end of the rainbow.  Vibrant colors surround you in a
+concealed glade.  The air is thick with magical energy, and you feel quite
+refreshed as the energy flows through you.
+Through the haze of swirling colors, you can see a large expanse of marble;
+made up of alternating black and white squares.
+~
+7 0 6 7
+0 0 0 0
+0 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 560
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 10143
+S
+#554
+Trail towards the mountain.~
+You are walking through the mist at the base of the mountain.  A small path
+winds up the face to the east.
+~
+7 0 3 1
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 564
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 551
+S
+#560
+Walking on the rainbow~
+You stand in midair, supported by the magical bridge.  Color washes over your
+feet and legs, swirling up and tickling your nose playfully.  Below you lies
+the end of the rainbow.
+~
+7 0 1 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 561
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 553
+S
+#561
+Atop the rainbow~
+You have reached the pinacle of the rainbow.  As you gaze around you, you can
+see nearly to the horizon... the magical aura of the rainbow has given you
+eagle-eyes.
+~
+7 0 1 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 560
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 562
+S
+#562
+Climbing the rainbow~
+As you climb up the magical rainbow, you feel as if you are nearly flying.
+Each step takes you several hundred feet in the air, but a protective aura
+surrounds you and prevents you from falling to your death.
+~
+7 0 1 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 561
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 563
+S
+#563
+Rocky ledge~
+This ledge seems much safer than floating in the mist.  The waterfall has
+created a huge rainbow here, dazzling you with the vibrant, magical colors.
+Funny, but you almost think you could walk on the rainbow... nah... couldn't
+be possible, hmm... I wonder....
+~
+7 0 4 7
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 569
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 562
+S
+#564
+Trail up the mountain~
+This is a small, winding trail that leads up the mountain.  The mist is
+beginning to thin, and you can just make out a large waterfall cascading
+down the face of the mountain.
+~
+7 0 5 1
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 565
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 554
+S
+#565
+Trail up the mountain~
+You have passed above the mist, and can now see the mountain clearly.  It
+looks entirely too large to fit on the island, but it is there nonetheless.
+You see several birds flying above, and can see the waterfall as it plummets
+into a deep crevass below.
+~
+7 0 5 1
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 564
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 566
+S
+#566
+Near the summit~
+You are near the summit of the mountain now... the roaring of the waterfall
+fills your ears.  The birds you saw earlier appear to be MUCH larger now,
+as if they are giant versions of normal birds of prey.
+~
+7 0 5 1
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 565
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 567
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 578
+S
+#567
+At the waterfall~
+You stand beside the waterfall, a deafening roar now, watching as countless
+tons of water pour over the edge and plummet to the base of the mountain.
+Perhaps it it the spray from this waterfall that causes the mist at the base
+of the island.
+~
+7 0 6 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 566
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 568
+S
+#568
+Over the waterfall~
+You are falling rapidly towards the ground, having been swept away by the
+powerful current of the water.  You mutter silent prayers to all the gods,
+hoping that one will hear you and rescue you from certain death.
+~
+7 0 6 7
+0 0 0 0
+0 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 567
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 569
+S
+#569
+Atop the mist~
+You are floating around in the mist that surrounds the base of this magestic
+waterfall.  As you look below you, you find that you are barely above the
+torrent of water, saved at the last possible instant from death.  Perhaps
+your prayers were heard after all.
+~
+7 4 6 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 563
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 568
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 1267
+S
+#578
+The nest~
+You have climbed into a large nest.  Logs the size of your thigh make up most
+of the framework, with bear, elk, and wolf pelts stuffed into the cracks.
+A large pile of bones is the only sign of occupation, but from the looks of
+them you do not want to be around here when the owner is hungry.  As you look
+around, you notice a second peak, much higher than this one.  There appears to
+be no path to it, but there is a small cabin built on it.  I wonder who built it?
+~
+7 0 5 7
+0 0 0 0
+0 0 0
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 566
+S
+#1267
+Base of the waterfall~
+You are tumbling around beneath the waterfall now... millions of tons of water
+are crashing down all around you.  This doesn't seem like a very hospitable
+place.
+~
+7 8 6 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1268
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 569
+S
+#1268
+An underground river~
+You have floated down the path of an underground river.  The walls and ceiling
+glow softly with lichens, and the roar of the waterfall can be heard to the
+north.
+~
+7 8 6 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1267
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1541
+S
+#1541
+An underground river~
+You are travelling down the underground river.  Multi-hued lichens line the
+walls of the tunnel, shedding a soft rainbow of luminecense around you.
+~
+7 8 6 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1268
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1562
+S
+#1562
+An underground river~
+You are travelling down the underground river.  Multi-hued lichens line the
+walls of the tunnel, shedding a soft rainbow of luminecense around you.
+~
+7 8 6 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1541
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1563
+S
+#1563
+An underground river~
+You are travelling down the underground river.  Multi-hued lichens line the
+walls of the tunnel, shedding a soft rainbow of luminecense around you.
+~
+7 8 6 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1562
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1564
+S
+#1564
+An underground river~
+You are travelling down the underground river.  Multi-hued lichens line the
+walls of the tunnel, shedding a soft rainbow of luminecense around you.
+~
+7 8 6 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1563
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1565
+S
+#1565
+An underground river~
+You are travelling down the underground river.  Multi-hued lichens line the
+walls of the tunnel, shedding a soft rainbow of luminecense around you.
+~
+7 8 6 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1564
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1581
+S
+#1581
+An underground river~
+You are travelling down the underground river.  Multi-hued lichens line the
+walls of the tunnel, shedding a soft rainbow of luminecense around you.
+~
+7 8 6 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1565
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1582
+S
+#1582
+An underground river~
+You are travelling down the underground river.  Multi-hued lichens line the
+walls of the tunnel, shedding a soft rainbow of luminecense around you.
+~
+7 8 6 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1581
+S
+#3429
+The swimming hole~
+This small pool is sheltered from the rest of the river.  A small inlet feeds
+the pool, and the trees screen the view from the river.  You can hear birds
+singing all around you, and the moonlight cast a magical aura down apon you.
+~
+7 520 6 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 552
+S
+#3430
+A tranquil path leading around the island~
+This small path leads further into the island.  Wildflowers spring up all around
+you and fill the air with a fragrant breeze.
+~
+7 512 2 1
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 551
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 552
+S
+#5593
+Boudouir~
+You step inside a large, comfortable bedroom. You are immediately welcomed by
+the scent of sweet smelling herbs and incense. Against the far wall a huge
+canopy bed with carved wooden posts and white gauze drapes beckons you to lay
+your body down on it's soft, purple velvet bedspread. A fireplace sets against
+the opposite wall, crackling softly and warming your skin. Standing in the
+center of the room is a shiny black upright piano resonating softly in your ear
+with each beautiful note. In the corner stands a divine statue of the goddess
+Venus, her long beautiful hair flowing and curling down her naked body. All
+around her are beautiful, exotic flowers that you have never seen before. In
+front of her steam arises in gentle clouds, scented with freshly picked rose
+petals from the hot tub. On the wall behind the bed you notice a few strange
+looking hooks attatched with long strips of black silk...
+~
+7 2600 0 0
+0 0 0 0
+0 0 0
+D1
+A wooden door blocks your way back out into the glade. Through the
+small circular window the glade looks like nothing but a collection
+of mist.
+~
+door~
+$n walks quietly out into the glade.~
+$n arrives from the Bedroom.~
+2 18012 552
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5597
+E
+canopy bed~
+Looking up from the bed you notice that a beautiful pentagram
+has been embroidered onto the midnight blue cloth of the canopy.
+~
+S
+#5597
+The Kitty's Room~
+ You can't help but smile when you walk into this room as warm rays of sunshine
+beam through the skylight to bath your body in warmth and glow. Filling more
+than half the room is a huge lavander velvet couch pit covered with soft, silk
+white pillows. Your feet sink into soft, handwoven rugs scattered over the
+floor. A warm fireplace glows softly, with a soft rug set near it to stretch
+your body lazily in front of the warmth. Across from the couch is a playful
+picture of the god and the goddess entwined together amongst a field of wild
+flowers. Just as you sit down on the couch soaking up the sun rays your hear a
+loud purring from behind you...
+~
+7 512 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5593
+S
+#19999
+$~

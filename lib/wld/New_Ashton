@@ -1,0 +1,3838 @@
+#478
+Along the Southern Wall~
+You're travelling along a dirt path that hugs the wall to the south.  As you
+begin to enter this charming village you notice that almost all the buildings
+appear to be slapped together very quickly, not taking much thought to design.
+To the north stands the food complex with every store necessary for your
+consumption needs.
+~
+54 0 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 19028
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 479
+S
+#479
+Along the Southern Wall~
+You travel further down the path.  To the north is the entrance to the general
+store. Looking down the path you can see that it will begin to curve to the
+north soon.
+~
+54 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 812
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 478
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 480
+S
+#480
+Along the Southern Wall~
+You travel further down the path.  To the north is the entrance to the bakery.
+This complex ends a little to the west then the path turns to the north.  You
+see a mother and child exit the bakery with a freshly baked loaf of bread in
+their hands.  Smells good!
+~
+54 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 842
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 479
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 481
+S
+#481
+Along the Southern Wall~
+You have reached the end of the food complex and you want to peer around the
+wall of the bakery to catch a glimpse of what lies beyond it.  In the
+background you can hear a slight rumbling from towering volcano.
+~
+54 0 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 480
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 811
+S
+#811
+The South-West Corner of the City~
+The path here turns to the north and continues towards the side of town
+towards The Mount.  Surrounded by the 2 sides of the wall you feel very safe
+here, and yet when you take a glimpse of The Mount that thought quickly fades.
+~
+54 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5639
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 481
+S
+#812
+Star's Market~
+As you duck your head to enter this shop, it becomes signifigantly darker
+with the exception of the candle burning on the table to the right of the
+door. To your right stands Star at her counter waiting for you.
+~
+54 1036 1 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 815
+D2
+ ~
+door~
+ ~
+ ~
+1 -1 479
+S
+#815
+Star's Market~
+You are surrounded with various equipment for various adventuring needs as
+well as a small assortment of edibles.  The counter is made of a strange
+combination of wood, lava, and ash which makes it smooth and shiney.
+~
+54 8 1 7
+0 0 0 0
+0 0 0
+D0
+You see a very loose set of shelves.
+~
+storeroom door~
+ ~
+ ~
+1 -1 816
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 812
+S
+#816
+Star's Stockroom~
+As you pry around the store you come across Star's hidden storeroom.  She
+can't see you from her desk, so why not help yourself to some goodies?
+~
+54 8 1 7
+0 0 0 0
+0 0 0
+D2
+ ~
+storeroom door~
+ ~
+ ~
+1 -1 815
+S
+#842
+The Baker's Dozen~
+Yummy.....as you enter the bakery you notice the great smell eminating from
+the oven to the left.  You can't wait to get your hands on some of those
+cookies or croissants.
+~
+54 12 1 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 480
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 843
+S
+#843
+The Baker's Dozen~
+All the various baked goods are laying out on the counter here.  Dimitri the
+baker is standing next to the oven placing another rack of dough inside to be
+magically turned into bread.  On the counter is a small sign with the various
+prices on it.  As you look down beneath the brick oven you notice that it
+appears to be on wheels and is easily mobile!
+~
+54 8 1 7
+0 0 0 0
+0 0 0
+D0
+The massive brick oven stands here.
+~
+oven door~
+ ~
+ ~
+1 -1 845
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 842
+S
+#845
+Behind the Oven~
+Your assumption was right, the oven is moveable!  This must be Dimitri's
+home. There is a nice feather bed to the right and a desk to the left. In
+the middle of the room is a beautiful carpet that appears to be a bit
+blackened by ash.
+~
+54 520 1 7
+0 0 0 0
+0 0 0
+D2
+ ~
+oven door~
+ ~
+ ~
+1 -1 843
+D5
+You see a nice persian rug with some ash sprinkled across it.
+~
+carpet~
+ ~
+ ~
+5 -1 6529
+S
+#871
+Ashton Path~
+Walking away from the gates you begin to feel engufled inside the town.  The
+volcano in the background sets a perfect backdrop behind this quaint town.
+To the right and left are small merchant complexs with a small watchtower
+inside each.  The path beneith you is now begining to solidify into an almost
+paved surface.  You begin to notice that your equipment is begining to turn
+gray from the ash in the air.
+~
+54 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 872
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 19028
+S
+#872
+Ashton Path~
+You continue along the path towards the center of town.  To your left an
+the merchant complexes continue.  Further along the path is a building that has
+developed better than the buildings around it.  There are many people gathered
+around what appears to be a town square around it.  As you walk forward you can
+being to hear their conversations.
+~
+54 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6203
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 871
+S
+#5625
+City Hall Square~
+Standing around you are merchants of all shapes and sizes.  A woman with a
+cart is to your right selling necklaces, a man with a basket is selling cheap
+loafs of bread.  As you walk around from cart to cart you almost twist your
+ankle from one of the cobblestones.
+~
+54 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6352
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5637
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6212
+S
+#5626
+Town Fountain Underneath City Hall~
+The water flowing is much louder under these clay walls.  As you look to the
+ground you can see that water has splashed to the lavaearth and is trickling
+down into the ground.  Over a period of time the constant flow of water would
+surely loosen the ground.
+Item: Sign
+~
+54 522 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5629
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5628
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5636
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5627
+D5
+ ~
+lava door~
+ ~
+ ~
+3 -1 6375
+E
+ground earth lava lavaearth~
+You see a big piece of lavaearth that has broken from the main ground under
+the fountain.
+~
+E
+sign ashton~
+Welcome to New Ashton! Founded: Year 366
+~
+S
+#5627
+Underneath City Hall~
+The light dims as you walk under the City Hall.  You can hear the debate above
+you and the creeking of the floor above.  The tunnel you're in now is about 3
+persons across and you can just fit under the ceiling.  As people walk by you
+their voices reverberate against the clay walls.  Ahead you can hear the water
+from the fountain trickling down.
+~
+54 521 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5626
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6340
+S
+#5628
+Underneath City Hall~
+The light dims as you walk under the City Hall.  You can hear the debate above
+you and the creeking of the floor above.  The tunnel you're in now is about 3
+persons across and you can just fit under the ceiling.  As people walk by you
+their voices reverberate against the clay walls.  Ahead you can hear the water
+from the fountain trickling down.
+~
+54 521 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6350
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5626
+S
+#5629
+Underneath City Hall~
+The light dims as you walk under the City Hall.  You can hear the debate above
+you and the creeking of the floor above.  The tunnel you're in now is about 3
+persons across and you can just fit under the ceiling.  As people walk by you
+their voices reverberate against the clay walls.  Ahead you can hear the water
+from the fountain trickling down.
+~
+54 521 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6345
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5626
+S
+#5630
+Locker Room~
+ ~
+54 0 1 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5640
+S
+#5631
+The Inn's Sitting Room~
+Plush chairs and tables are littered around this room.  Various paintings are
+also hanging on the wall.  Big glass windows give a great setting for people
+watching too.
+Items: Painting.
+~
+54 8 1 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5632
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5638
+E
+painting stoler~
+You see a painting of the ugliest man alive, Brian Stoler.
+~
+S
+#5632
+The Inn's Sitting Room~
+Plush chairs and tables are littered around this room.  Various paintings are
+also hanging on the wall.  Big glass windows give a great setting for people
+watching too.
+Items: Painting.
+~
+54 8 1 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5631
+E
+painting~
+You see the first Mayor of Ashton, Scott Levi.
+~
+S
+#5633
+Hallway of The Inn~
+Lamps hanging on the walls light your way down this dark hallway.
+It immediately takes a turn to the right (south) a bit to the east.  As you
+walk along them you can hear the old wooden boards creak which sends shivers
+down your spine.
+~
+54 0 1 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5634
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 5638
+S
+#5634
+Hallway of The Inn~
+Lamps hanging on the walls light your way down this dark hallway.  It immidately
+takes a turn to the right (south) a bit to the east.  As you walk along th
+you can hear the old wooden boards creek which sends shivers down your spine.
+The lone room is to the south.
+~
+54 0 1 7
+0 0 0 0
+0 0 0
+D2
+ ~
+door~
+ ~
+ ~
+1 -1 5635
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5633
+S
+#5635
+Hotel Suite~
+Just the look at that big fluffy bed makes you sleepy.  You're pleasantly
+surprised at how well this room is decorated.  There is a small dresser to the
+right with a mirror hanging above it, and to the left of the bed is a window
+that looks out onto the Eastern Path and the East Wall.
+~
+54 0 1 7
+0 0 0 0
+0 0 0
+D0
+ ~
+door~
+ ~
+ ~
+1 -1 5634
+S
+#5636
+Underneath City Hall~
+The light dims as you walk under the City Hall.  You can hear the debate above
+you and the creeking of the floor above.  The tunnel you're in now is about 3
+persons across and you can just fit under the ceiling.  As people walk by you
+their voices reverberate against the clay walls.  Ahead you can hear the water
+from the fountain trickling down.
+~
+54 521 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5626
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6212
+S
+#5637
+Southeast Corner of City Hall Square~
+You are in the south-east corner of City Hall square.  To the east is Hickory
+Road. This portion of the square is not as heavily travelled as the others but
+it still has that hustling feeling to it.
+~
+54 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6351
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6149
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5625
+S
+#5638
+The Inn at New Ashton~
+A quaint little hotel with a guest registry book on a table to the right, a
+reception dest in front of you, and a series of steps a bit to the right.  To
+the left (west) is a nice sitting area that looks out onto Hickory Road.
+To the west, under the stairs, is a doorway to the Locker Center.
+~
+54 1036 1 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6147
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5631
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5640
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 5633
+S
+#5639
+Along the Western Wall~
+The path now makes a turn towards The Mount.  Just the sheer sight of it sends
+shivers down your back.  Further ahead on the path is the old Western gate that
+is now welded shut.  Perhaps you should ask someone why.
+~
+54 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6102
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 811
+S
+#5640
+Ashton's Locker Center~
+This room is the information center for locker rentals.  A sign is hanging on
+the wall explaining the process of getting a locker.  To the east is the entrance to the inn.
+~
+54 0 1 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6149
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5638
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5630
+E
+sign lockers locker~
+Ashton's Locker Center Information:
+-----------------------------------
+ALC features 24-hours-a-day access to your locker. New accounts may be started
+by the "Rentlocker" command.  Summary of commands:
+Open - Open your locker.
+Close - Close your locker.
+Rentlocker - Start your account, or pay next month's fee. Cost is 150,000 gp
+per month of rent.
+Get - <get item> remove item from storage.
+Put - <put item> put item into storage.
+Be sure to close your locker, U-Store-It is not responsible for items stolen
+if you fail to close your locker.
+WARNING: You must pay the next months rent BEFORE this months has expired!
+NOTE: Please access your locker to the room to the WEST.
+~
+S
+#5641
+Along the Southern Wall~
+You're travelling along a dirt path that hugs the wall to the south.  As you
+begin to enter this charming village you notice that almost all the buildings
+appear to be slapped together very quickly, not taking much thought to design.
+To the north is the hotel complex which has the hotel, lockers, a pub, and
+a restaurant.
+~
+54 0 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5642
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 19028
+S
+#5642
+Along the Southern Wall~
+You travel further down the path.  To the north is the entrance to Malki's
+pub. Looking down the path you can see that it will begin to curve to the
+north soon.
+~
+54 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5643
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5688
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5641
+S
+#5643
+Malki's Pub~
+This pub is unlike any other stores.  The bar itself extends from the entrance
+all the way around the bend of the building.  There are stools littered around
+the bar and a few tables are set up along the window side of the store.
+There is a sign on the bar here.
+~
+54 1164 1 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5642
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5682
+E
+bar sign~
+Dear Patron,
+All orders for the bar must be placed at the far end of the store (that's
+to your left and ahead).  Thanks, and enjoy your stay!
+- Malki
+~
+S
+#5682
+Malki's Pub~
+A few citizens are here inside the bar.  Most are at the bar itself, some are
+sitting at the tables.  There are two bartenders, Malki and his assistant.
+Word on the street is that he know much about the history of New Ashton.
+Perhaps if you sit yourself down he might inform you.
+~
+54 8 1 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5687
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5643
+S
+#5687
+Malki's Pub~
+Malki is to your right with a pen and paper waiting to fix you a drink or
+even possibly a light lunch.  Behind him is a wide variety of various tropical
+drinks, some with alcohol and some without.
+There is a sign on the wall.
+~
+54 8 1 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5682
+E
+sign wall~
+Welcome to Malki's Pub
+----------------------
+Since our variety of drinks changes rapidly, type "list" for a current listing.
+To place an order, type "buy (Item Name)".
+** All Sales Final **
+~
+S
+#5688
+Along the Southern Wall~
+Continuing east on the path you see the entrance to the restaurant to your left
+(the north).  You can hear the clanging of dishes and the chatter of
+Ashtonians enjoying their meal.  In front of the doorway is a sign with the
+specials of the day.
+~
+54 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5689
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6049
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5642
+E
+sign restaurant~
+The Ash Cafe (Since 367)
+------------------------
+Open 5am - 9pm
+Breakfast served all day!
+Specials: [Soup]: Gibitri Soup [Appitizer]: Lavatater Skins [Entree]: Halbert
+~
+S
+#5689
+The Ash Cafe~
+A typical cafe, with many tables and chairs scattered throughout the room.
+Windows facing out onto the street provide a very tranquil setting to
+enjoy a sandwich or a cup of coffee.  A sign is hanging by the doorway.
+~
+54 1036 1 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5690
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5688
+E
+sign doorway~
+To our customers:
+All food and drink is served cafeteria style.  Please place your order here
+by using the "list" and "buy" command and then find a seat to enjoy it!
+Thanks,
+- The Management
+~
+S
+#5690
+Extra Seating Area for The Ash Cafe~
+Can't find a seat?  Don't worry, there's plenty here!  Tables are lined up
+end to end here, but the most popular seats are by the windows where you
+can do some great people watching.  Along the walls of the cafe are big plush
+couches where you can put your feet up and watch the lava flow.
+~
+54 8 1 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5691
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5689
+S
+#5691
+Extra Seating Area for The Ash Cafe~
+Can't find a seat?  Don't worry, there's plenty here!  Tables are lined up
+end to end here, but the most popular seats are by the windows where you
+can do some great people watching.  Along the walls of the cafe are big plush
+couches where you can put your feet up and watch the lava flow.
+~
+54 8 1 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5690
+S
+#6049
+Along the Southern Wall~
+As you stroll by the Ash Cafe's window you decide to take a peek inside.  As
+you press your face against the window (obviously making a fool of yourself)
+you scan the room looking at the variety of patrons.  You see an old man
+eating a bowl of soup, a child eating a strange type of pie, and a couple of
+men from City Hall enjoying their lunch.
+~
+54 0 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6099
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5688
+S
+#6099
+The South-East Corner of the City~
+The path here takes a turn to the north.  Up ahead is the east side of the
+hotel and past that is the adventurer's complex where you can get various
+swords, armors, or perhaps relax in the meditation chamber.
+~
+54 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6150
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6049
+S
+#6100
+The Watering Hole~
+This section of the shop is just lined with shelves of various bottles of water.
+A pump is hooked up to the wall to the south.
+~
+54 8 1 7
+0 0 0 0
+0 0 0
+D2
+ ~
+pump~
+ ~
+ ~
+3 -1 6101
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6231
+E
+pump wall~
+The pump almost looks like a door handle.
+~
+S
+#6101
+Behind the Pump~
+You've stumbled upon a really old part of The Watering Hole.  The walls are
+filled with old distilling equipment and old pumps, all of which are covered in
+cobwebs. The boards of the floor are missing in the center of the room which
+is exposing a part of the lavaearth.
+~
+54 520 1 7
+0 0 0 0
+0 0 0
+D0
+ ~
+door wall~
+ ~
+ ~
+3 -1 6100
+D5
+You see a large pile of flakey ash.
+~
+ash~
+ ~
+ ~
+5 -1 6528
+S
+#6102
+Along the Western Wall~
+You continue down the Western path.  To your right is a wall of the merchant
+complex. Surprisingly your feet are not tired yet from all this walking, mabey
+it is due to the rubbery lavaearth beneath you.
+~
+54 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6138
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5639
+S
+#6103
+Hickory Road~
+You continue along west Hickory Road.  To the south you can smell the dead
+flesh of cows and other animals in the Slaughter House.  The road continues a
+bit to the west until you come to the Old Western Gate.
+~
+54 0 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6227
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6365
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6119
+S
+#6104
+Narcissa Road (Dead End)~
+Travelling along the road you spot the jeweller's shop and meditation room to
+the north.  The light that shines through the window sparkles through the
+crystal and various gems in the case by the window.  To the west the wall turns
+to the north and prevents you from going any further.
+~
+54 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6357
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6356
+S
+#6113
+The Public Post Office of Ashton~
+In front of you is an interesting box with various buttons marked "Send" and
+Receive on them.  It appears to be an automated postal machine (APM).  It must
+be imported because it's way too advanced for this town's technology.  You can
+hear the hum of the ATM below you.
+~
+54 12 1 7
+0 0 0 0
+0 0 0
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 6114
+S
+#6114
+First Bank of Ashton~
+One of the oldest ATM machines is sitting in the corner of this room.  It
+doesn't appear to be plugged in anywhere, but it does appear to be built into
+the floor.  To your right is a set of steps that lead to the post office.
+~
+54 12 1 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6356
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 6113
+S
+#6119
+Hickory Road~
+To the south you can see into the Post Office part of the Public Services
+Office (PSO).  You see an Ashtonian mailing a letter to someone via the APM
+machine. The entrance for the PSO is to the east.  To the west is the old
+Western Gate.
+~
+54 0 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6103
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6120
+S
+#6120
+The Old Western Gate~
+You stand before the Old Western Gate which used to be a magnficant gateway into
+New Ashton. The elders of the city decided to weld the gate shut because a
+cult of citizens believe that one day The Mount will destroy the city. The cult
+is located in the North-West section of town. The wall takes a turn to the
+east here and follow Hickory Road. The new western gate is now located in
+City Hall square.
+~
+54 0 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6119
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6138
+S
+#6138
+Along the Western Wall~
+You continue along the Western path.  To the north is the Old Western Gate.
+To your right is a window to the bank.  If you stand really close you can steal
+the ID number from the person using the ATM!
+~
+54 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6120
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6102
+S
+#6144
+Along the Eastern Wall~
+To the west is the window looking into the lobby of the hotel.  The entrance is
+located on East Hickory Road.  The eastern path continues to the north.
+~
+54 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6145
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6181
+S
+#6145
+Junction of Hickory Road and The Eastern Path~
+You have reached the junction of Hickory Road and the Eastern Path.  Unlike
+every other part of town, this wall does not have a gate.  You can't seem to
+find any reason why there isn't a gate here.  As you look to the left you see
+down towards the town square and City Hall.
+~
+54 0 1 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6144
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6146
+S
+#6146
+Hickory Road~
+To the near east is the Eastern Path.  To the south you can see into the hotel
+and the few people sitting in the small lobby.  The entrance is to the west.
+~
+54 0 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6145
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6147
+S
+#6147
+Hickory Road~
+The entrance to the Hotel is to the south.  Many people are walking on this
+road to and from City Hall where lots of hustle and bustle is going on.  If you
+would prefer to relax, go inside and rent a room.
+~
+54 0 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6146
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5638
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6149
+S
+#6148
+A Corner of the Courtyard~
+Walking around the courtyard you notice the interesting trees and flowers.
+They aren't green at all, they're gray.  All of them are gray.  Walking closer
+towards one tree and touching it you feel a grainy substance coated on all the
+vegitation. The rest of the ground is covered with it too.
+~
+54 0 1 0
+0 0 0 0
+0 0 0
+S
+#6149
+Hickory Road~
+You continue along Hickory Road.  To the south is locker storage center which
+also has a door that leads to the hotel.  Heading west will take you to City
+Hall and town square.
+~
+54 0 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6147
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5640
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5637
+S
+#6150
+Along the Eastern Wall~
+The path now makes a turn towards The Mount.  Just the sheer sight of it sends
+shivers down your back.  On the wall to your right are the words "The end is
+coming! Even though you take these words lightly, it puts a damper on your
+otherwise good mood.
+~
+54 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6181
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6099
+S
+#6181
+Along the Eastern Wall~
+You continue along the eastern path.  To your left is a wall of the Hotel
+complex. You can hear the chatter of citizens inside the Cafe through the thin
+clay wall.  Maybe you should take a break from all this walking and go in.
+~
+54 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6144
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6150
+S
+#6203
+Ashton Path~
+You continue along Ashton Path which is heavily travelled by everyone in the
+city. You see children, old women, and men walk by you at a very brisk pase.
+Ahead of you in the distance is the center of town, the City Hall.
+~
+54 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6209
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 872
+S
+#6209
+Ashton Path~
+You continue along Ashton Path which is heavily travelled by everyone in the
+city. You see children, old women, and men walk by you at a very brisk pase.
+Ahead of you in the distance is the center of town, the City Hall.
+~
+54 0 1 0
+0 0 0 0
+0 0 0
+D0
+You see the small South Gate of City Hall Square.
+~
+gate~
+ ~
+ ~
+1 -1 6212
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6203
+S
+#6212
+Entrance to City Hall Square (South)~
+You have finally arrived at City Hall Square.  The square is a cobblestone
+filled section of town with many merchants and peasants bustling about.  The
+centerpiece of the Square is of course, the City Hall.  It is by far the most
+developed building in the entire city.  The tall spire looks almost as tall as
+The Mount behind it.  The entire City Hall building is built above the ground
+which allows for people to walk underneith it.
+~
+54 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5636
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5625
+D2
+You see the small South Gate of City Hall Square.
+~
+gate~
+ ~
+ ~
+1 -1 6209
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6214
+S
+#6214
+City Hall Square~
+Standing around you are merchants of all shapes and sizes.  A woman with a
+cart is to your right selling necklaces, a man with a basket is selling cheap
+loafs of bread.  As you walk around from cart to cart you almost twist your
+ankle from one of the cobblestones.
+~
+54 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6338
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6212
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6337
+S
+#6227
+Hickory Road~
+You are traveling along Hickory Road.  As you look to the south you see a
+very popular place among the citizens of New Ashton, The Watering Hole.  More
+than just a place to get a great bottle of imported water or ale, The Watering
+hole is a place to relax from your hard adventures and ease your thoughts
+of The Mount.  The entrance is to the south.
+~
+54 0 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6337
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6231
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6103
+S
+#6231
+The Watering Hole~
+As you enter this interesting shop, you notice the many bottles of fresh water
+stored behind the counter and to the left (east).  Bottled water is vital to
+the citizens of New Ashton since the nearest source of fresh water is nearly
+20 km away.
+~
+54 12 1 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6227
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6100
+S
+#6337
+Southwest Corner of City Hall Square~
+You are in the south-west corner of City Hall square.  To the west is Hickory
+Road. This portion of the square is not as heavily travelled as the others but
+it still has that hustling feeling to it.
+~
+54 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6339
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6214
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6227
+S
+#6338
+City Hall Square - Next to the Tunnel~
+You are standing next to city hall with the tunnel to your side.  Looking up
+to the spire you see it swaying in the heavy ocean breeze which doesn't make
+you feel any more comfortable.  The chatter of citizens fills the background
+your thoughts.
+~
+54 0 1 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6214
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6339
+S
+#6339
+City Hall Square~
+Standing around you are merchants of all shapes and sizes.  A woman with a
+cart is to your right selling necklaces, a man with a basket is selling cheap
+loafs of bread.  As you walk around from cart to cart you almost twist your
+ankle from one of the cobblestones.
+~
+54 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6340
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6338
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6337
+S
+#6340
+West Gate of New Ashton~
+To your right is an entrance to the tunnel under City Hall.  People are
+constantly comming in and out, somewhat damp from the moisture given off by
+the clay walls and the fountain.  The shade from the tunnel would be nice on
+such a hot day like this.  To the west is the new western gate.
+~
+54 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6341
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5627
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6339
+S
+#6341
+City Hall Square~
+Standing around you are merchants of all shapes and sizes.  A woman with a
+cart is to your right selling necklaces, a man with a basket is selling cheap
+loafs of bread.  As you walk around from cart to cart you almost twist your
+ankle from one of the cobblestones.
+~
+54 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6343
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6342
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6340
+S
+#6342
+City Hall Square - Next to the Tunnel~
+You are standing next to city hall with the tunnel to your side.  Looking up
+to the spire you see it swaying in the heavy ocean breeze which doesn't make
+you feel any more comfortable.  The chatter of citizens fills the background
+your thoughts.
+~
+54 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6344
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6341
+S
+#6343
+Northwest Corner of City Hall Square~
+You are in the north-west corner of City Hall square.  To the west is Narcissa
+Road. This portion of the square is not as heavily travelled as the others but
+it still has that hustling feeling to it.  Ahead and to the west is a crammed
+magic complex against the north wall.
+~
+54 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6355
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6344
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6341
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6353
+S
+#6344
+City Hall Square~
+Standing around you are merchants of all shapes and sizes.  A woman with a
+cart is to your right selling necklaces, a man with a basket is selling cheap
+loafs of bread.  As you walk around from cart to cart you almost twist your
+ankle from one of the cobblestones.
+~
+54 0 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6345
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6342
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6343
+S
+#6345
+North Gate of City Hall Square and Town Line~
+You have finally arrived at City Hall Square.  The square is a cobblestone
+filled section of town with many merchants and peasants bustling about.  The
+centerpiece of the Square is of course, the City Hall.  It is by far the most
+developed building in the entire city.  The tall spire looks almost as tall as
+The Mount behind it.  The entire City Hall building is built above the ground
+which allows for people to walk underneith it.  A VERY important sign is here.
+~
+54 4 1 0
+0 0 0 0
+0 0 0
+D0
+You see out towards The Mount.
+~
+gate~
+ ~
+ ~
+1 -1 6501
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6346
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5629
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6344
+E
+sign proclomation notice~
+PUBLIC NOTICE:
+--------------
+By the elders of Ashton, no new establishments of business or residence
+may be build beyond this post due to the threat of The Mount.  Any violators
+will be deported from Ashton.
+~
+S
+#6346
+City Hall Square~
+Standing around you are merchants of all shapes and sizes.  A woman with a
+cart is to your right selling necklaces, a man with a basket is selling cheap
+loafs of bread.  As you walk around from cart to cart you almost twist your
+ankle from one of the cobblestones.
+~
+54 0 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6348
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6347
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6345
+S
+#6347
+City Hall Square - Next to the Tunnel~
+You are standing next to city hall with the tunnel to your side.  Looking up
+to the spire you see it swaying in the heavy ocean breeze which doesn't make
+you feel any more comfortable.  The chatter of citizens fills the background
+your thoughts.
+~
+54 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6346
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6349
+S
+#6348
+Northeast Corner of City Hall Square~
+You are in the north-east corner of City Hall square.  To the east is Narcissa
+Road. This portion of the square is not as heavily travelled as the others but
+it still has that hustling feeling to it.
+~
+54 0 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6359
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6349
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6346
+S
+#6349
+City Hall Square~
+Standing around you are merchants of all shapes and sizes.  A woman with a
+cart is to your right selling necklaces, a man with a basket is selling cheap
+loafs of bread.  As you walk around from cart to cart you almost twist your
+ankle from one of the cobblestones.
+~
+54 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6348
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6350
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6347
+S
+#6350
+East Side of City Hall Square~
+To your left is an entrance to the tunnel under City Hall.  People are
+constantly comming in and out, somewhat damp from the moisture given off by
+the clay walls and the fountain.  The shade from the tunnel would be nice on
+such a hot day like this.
+~
+54 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6349
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6351
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5628
+S
+#6351
+City Hall Square~
+Standing around you are merchants of all shapes and sizes.  A woman with a
+cart is to your right selling necklaces, a man with a basket is selling cheap
+loafs of bread.  As you walk around from cart to cart you almost twist your
+ankle from one of the cobblestones.
+~
+54 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6350
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5637
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6352
+S
+#6352
+City Hall Square - Next to the Tunnel~
+You are standing next to city hall with the tunnel to your side.  Looking up
+to the spire you see it swaying in the heavy ocean breeze which doesn't make
+you feel any more comfortable.  The chatter of citizens fills the background
+your thoughts.
+~
+54 0 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6351
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5625
+S
+#6353
+Narcissa Road~
+The noise from City Hall Square dies down as you walk along Narcissa Road.  To
+the north is the magic complex with the wand shop directly to the north.  On
+the wall to the south is a poster.
+~
+54 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6354
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6343
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6356
+E
+poster wall sign~
+To the citizens of New Ashton,
+We are concerned that the end is near once again for Ashton.  Please come to
+our bureau located on the east path north of the East Gate.
+- The Cult of the End
+~
+S
+#6354
+Wanda's Wands~
+Pushing aside the beads that cover the doorway you stumble upon a shop filled
+with wands stored in magical boxes on shelves all around the room.  The room
+is lit by a glowing sphere on the desk in front of you.  A door to the potion
+shop is to the east.
+~
+54 12 1 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6355
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6353
+S
+#6355
+Mixers of Potions~
+As you enter this potion shop you notice the giant vat in the middle of the
+room where Philippe mixes his potions.  A row of empty flasks is on a shelf
+behind the counter behind him.  Conveniently, a small door leads to the wand
+shop to the west.
+~
+54 1036 1 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6343
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6354
+S
+#6356
+Narcissa Road~
+You continue along west Narcissa Road.  To the north is a tall building which
+houses the ATM and APM machines.  It is the only house that has a artificial
+energy generator inside which creates a loud humming noise.
+~
+54 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6114
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6353
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6104
+S
+#6357
+Ashton Jewel~
+If you catch a moment while Jikro isn't looking, you could make a pretty penny.
+All kinds of exotic metals are displayed in the counter ahead of you.  Bars of
+adamantite and mithril are stacked against the back wall.  To the right is
+a tiny twisting staircase that leads to a quiet room.
+~
+54 1164 1 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6104
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 6358
+S
+#6358
+Quiet Riot Meditation and Healing Center~
+Shhhh! You have entered into a really comfortable room with plush carpeting
+and big comfy couches.  The curtains on the windows block out most of the sun
+which gives a really relaxed atmosphere.
+~
+54 525836 14 7
+0 0 0 0
+0 0 0
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 6357
+S
+#6359
+Narcissa Road~
+The noise from City Hall Square dies down as you walk along Narcissa Road.  To
+the north you can hear the clanging of the armory and the weapon shop next door
+to it.
+~
+54 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6360
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6361
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6348
+S
+#6360
+Suits of The Arms~
+You have never seen so much metal in one place in your life.  Sheets of
+metal are laying against the wall to the left with a large black anvil next
+to them.  Rega the Armorer is standing behind the counter reading a book on
+various suits of armor to make.
+~
+54 1036 1 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6359
+S
+#6361
+Narcissa Road~
+You are walking down Narcissa Road east of City Hall.  The wall is approaching
+to the east, but there are still two shops left before the wall begins.
+~
+54 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6362
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6363
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6359
+S
+#6362
+Swords and Sharps~
+If a small child were to wander in here, you'd have some lawsuits comming!
+Every inch of this room is filled with some sort of killing device of every
+shape and size.  In the back of the room is a counter displaying some of the
+more expensive items.
+~
+54 1036 1 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6361
+S
+#6363
+Narcissa Road (Dead End)~
+You have reached a dead end on Narcissa Road.  There is one last building
+before the wall, a house to the north with a sign on the door.
+~
+54 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6364
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6361
+E
+door sign~
+Welcome to The Cult of the End, all are welcome inside.
+~
+S
+#6364
+An Old Shack~
+You've encountered an empty room with the exception of a small sign
+standing in the middle of the room.  The walls and floor are completely bare
+and have a fine layer of ash on them.
+~
+54 9 1 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6363
+E
+sign~
+The Prophet's Manifesto:
+by Anonymous
+------------------------
+We, the belivers that the world as we know it will cease to exist after the
+4th day in the Month of Yar (Ashtonian Calander), have formed a society to
+discuss our concerns.  We will not be taken lightly!  Every night at sunset
+we will meet here to discuss our concerns.  Thank you.
+~
+S
+#6365
+The Slaughter House~
+Watch where you step in this place, you might hit a squishy piece of cow!
+Blood and guts are splattered all over this place, the fact that you want
+to buy something to EAT from here turns your stomach.
+~
+54 12 1 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6103
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6366
+S
+#6366
+Slaughtering Room~
+In the center of the room is a bucket of guts from past victims which makes you
+want to puke.  On the walls are various tools of death and meat cleavers.  To
+the south you can hear the mooing of dinner.
+~
+54 14 1 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6365
+D2
+ ~
+gate~
+ ~
+ ~
+1 -1 6367
+S
+#6367
+A Miniature Stable~
+You have walked into a room lined with hay.  A swinging gate is behind you and
+you have come face to face with your dinner.  He's really not happy you're here.
+~
+54 8 1 7
+0 0 0 0
+0 0 0
+D0
+ ~
+gate~
+ ~
+ ~
+1 -1 6366
+S
+#6375
+A Small Hole Through The Lava~
+As you wiped away the lava you uncovered a hollow section of the lavaearth.
+Looking down you can feel the heat from the lava begining to seep up.  The
+walls are lined with a fine layer of ash and are begining to get hot to the
+touch. You can't see more than 3 feet below you.
+~
+54 815 1 7
+0 0 0 0
+0 0 0
+D4
+ ~
+lava door~
+ ~
+ ~
+2 -1 5626
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 6376
+S
+#6376
+A Flowing Lava Channel~
+The flowing lava starts to seep through your boots.  You can begin to see the
+steam come off from the lava below.  Frantically searching the room you can see
+a hole below the six inches of hot lava.  However someone is here to stop you.
+~
+54 8749 1 7
+0 0 0 0
+0 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 6375
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 6377
+S
+#6377
+Central Square~
+Falling out of the lava you've come acrossed an amazing discovery.  You've
+stumbled upon a deserted town much like the one you just came from.  In fact
+almost everything looks the same with only one difference: the sky.  It doesn't
+exist, instead it's a shield of lava covering the town for miles.  In the
+distance you can see the lava slope down to the ground enclosing this town
+in a lava dome.
+Item: Sign
+~
+54 552 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6393
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6404
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6402
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6400
+E
+sign ashton~
+Welcome to Ashton! Founded: Year 351
+~
+S
+#6393
+The Deserted Square~
+As you walk around the square the silence haunts you.  You can almost feel the
+past lives of the citizens around you.  All around this square are abandoned
+merchant pushcarts that have toppled over with the seizmic activities from The
+Mount's eruptions.
+~
+54 552 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6415
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6405
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6377
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6399
+S
+#6399
+The Deserted Square~
+As you walk around the square the silence haunts you.  You can almost feel the
+past lives of the citizens around you.  All around this square are abandoned
+merchant pushcarts that have toppled over with the seizmic activities from The
+Mount's eruptions.
+~
+54 552 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6393
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6400
+S
+#6400
+The Deserted Square~
+As you walk around the square the silence haunts you.  You can almost feel the
+past lives of the citizens around you.  All around this square are abandoned
+merchant pushcarts that have toppled over with the seizmic activities from The
+Mount's eruptions.
+~
+54 552 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6399
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6377
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6401
+S
+#6401
+The Deserted Square~
+As you walk around the square the silence haunts you.  You can almost feel the
+past lives of the citizens around you.  All around this square are abandoned
+merchant pushcarts that have toppled over with the seizmic activities from The
+Mount's eruptions.
+~
+54 552 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6400
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6402
+S
+#6402
+The Deserted Square~
+As you walk around the square the silence haunts you.  You can almost feel the
+past lives of the citizens around you.  All around this square are abandoned
+merchant pushcarts that have toppled over with the seizmic activities from The
+Mount's eruptions.  The wall to the south is very soft.
+~
+54 552 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6377
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6403
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6401
+S
+#6403
+The Deserted Square~
+As you walk around the square the silence haunts you.  You can almost feel the
+past lives of the citizens around you.  All around this square are abandoned
+merchant pushcarts that have toppled over with the seizmic activities from The
+Mount's eruptions.
+~
+54 552 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6404
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6402
+S
+#6404
+The Deserted Square~
+As you walk around the square the silence haunts you.  You can almost feel the
+past lives of the citizens around you.  All around this square are abandoned
+merchant pushcarts that have toppled over with the seizmic activities from The
+Mount's eruptions.
+~
+54 552 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6405
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6426
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6403
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6377
+S
+#6405
+The Deserted Square~
+As you walk around the square the silence haunts you.  You can almost feel the
+past lives of the citizens around you.  All around this square are abandoned
+merchant pushcarts that have toppled over with the seizmic activities from The
+Mount's eruptions.
+~
+54 552 1 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6404
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6393
+S
+#6415
+Sloped Tunnel~
+This path that jetts out from the town square is begining to slope downwards at
+an increasing rate.  Along with the ground sloping down is the lava dome, it
+appears to come down almost at the ground at the end of the tunnel.  It is hard
+to make out what is down there.
+~
+54 552 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6422
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6393
+S
+#6422
+Sloped Tunnel~
+You continue along the sloped path.  The lava dome is getting very close to your
+head, so close you can almost touch it by now.
+~
+54 552 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6423
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6415
+S
+#6423
+Sloped Tunnel~
+You continue along the sloped path.  The lava dome is getting very close to your
+head, so close you can almost touch it by now.  You can begin to make out what
+is at the end of the path ahead.
+~
+54 552 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6424
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6422
+S
+#6424
+Bottom of the Tunnel~
+You've gotten to the end of the tunnel and nothing!  As you comb the wall of
+solid lava to the north you can't make out anything but solid molton rock.
+It appears you've wasted your time down here.
+~
+54 552 1 0
+0 0 0 0
+0 0 0
+D0
+The lava is especially smooth at this end of the tunnel.
+~
+portal~
+ ~
+ ~
+3 -1 6522
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6423
+S
+#6426
+A Crack in the Lavaearth~
+Searching the walls of the square you have found a narrow crack in the
+lavaearth. As you look down you see what appears to be a path that you're
+on. To the south you see a man screaming in the "frozen" lava.  The path
+continues to the east.
+~
+54 553 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6432
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6404
+S
+#6432
+A Crack in the Lavaearth~
+To the north you see another path that leads into what appears to be a pocket
+of hollow lavaearth.  The crack in the lavaearth looks just big enough for you
+to squeeze through.  You cough as it begins to get stuffy down here and as you
+begin to feel a bit clausterphobic with the lavaearth just above your head.
+~
+54 553 1 0
+0 0 0 0
+0 0 0
+D0
+A large door made of lavaearth.
+~
+door~
+ ~
+ ~
+2 -1 6435
+D2
+A big stalagtite is here.
+~
+stalagtite~
+ ~
+ ~
+2 -1 6436
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6426
+S
+#6435
+Ashton Infirmary~
+What a disaster!  Skeletons of small children and old women litter this room.
+Some people are lying in their beds with blindfolds and earmuffs on them
+as if they knew they were going to die.  Parts of the lava have broken off and
+have come through the ceiling and are protruding down.
+~
+54 553 6 0
+0 0 0 0
+0 0 0
+D2
+ ~
+door~
+ ~
+ ~
+2 -1 6432
+S
+#6436
+A Narrow Crack~
+This is the only way around the path and you really have to suck in your
+gut to get through here.  The lava presses up against your back and at any
+moment there could be an eruption that would bury you downhere forever.
+~
+54 809 1 0
+0 0 0 0
+0 0 0
+D0
+A big stalagtite hangs here.
+~
+stalagtite~
+ ~
+ ~
+2 -1 6432
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6470
+S
+#6470
+A Crack in the Lavaearth~
+The path widens signifcantly here, large enough for two people to get through.
+Parts of the lava are jetting through the ceiling so keep alert of stalagtites.
+To the east you can see what used to be a doorway.  The path continues to the
+south.
+~
+54 553 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6471
+D2
+A big stalagtite is here.
+~
+stalagtite~
+ ~
+ ~
+2 -1 6472
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6436
+S
+#6471
+Klog's Armory~
+Ducking you head to get in through the door you've come acrossed what used to
+be Ashton's Armory.  The weapons here are no longer functional and aren't even
+worth looking at.  The anvil in the center of the room still looks brand new, it
+must be made of some pretty solid iron.
+~
+54 553 1 0
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6470
+S
+#6472
+A Crack in the Lavaearth~
+The path gets apreciably darker as the path takes a turn to the west.  Silence
+fills the air with the exception of the lava flowing above your head.  Instead
+of echoing, your footsteps simply press into the clay-like ground.
+~
+54 553 1 0
+0 0 0 0
+0 0 0
+D0
+A big stalagtite is here.
+~
+stalagtite~
+ ~
+ ~
+2 -1 6470
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6473
+S
+#6473
+A Crack in the Lavaearth~
+You are now walking behind the old central square.  As you press your face
+against the lava to the north you can see the wide square.  The path continues
+to the west and east.
+~
+54 553 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6472
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6474
+S
+#6474
+A Crack in the Lavaearth~
+Light begins to reappear to the west.  To the south is yet another shop
+encrusted in lava.  There is a howling noise comming from inside the house.
+A large stalagtite is hanging from the ceiling here.
+~
+54 553 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6473
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6475
+D3
+A big stalagtite hangs here.
+~
+stalagtite~
+ ~
+ ~
+2 -1 6476
+S
+#6475
+An Extremly Colorful Apothecary~
+Something bizzare happened to this magic shop.  Apparently during the eruptions
+some potions must have mixed together to get this reaction.  Colors of all
+different shades are sprayed around the room.  Streaks of bright yellow on one
+side while on the other is floreceant orange.  In the center of the room stands
+a ghostly figure howling.
+~
+54 553 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6474
+S
+#6476
+A Crack in the Lavaearth~
+Another path is comming from the west and veers to the south for quite a
+distance. The ground appears to be solidifing into almost a dirt like substance.
+A very large stalagtite is hanging here.
+~
+54 553 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+stalagtite~
+ ~
+ ~
+2 -1 6474
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6477
+S
+#6477
+Path to the Mayor's House~
+Here the ground is like normal ground.  The path heads due south from here at
+a gradual slope down.  The lava dome overhead is giving more room for your head
+and increases at a great rate as you head south.  In the distance you can see
+a small house.
+~
+54 553 1 0
+0 0 0 0
+0 0 0
+D0
+You see a very soft secton of the lavadome.
+~
+ ~
+$n slides through the soft lava and leaves north.~
+$n slides through the soft lava and arrives from the south.~
+1 -1 6402
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6476
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6478
+S
+#6478
+Path to the Mayor's House~
+You're travelling down the long path to the Mayor's house.  As you walk down,
+the house appears to be getting bigger.
+~
+54 553 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6477
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6479
+S
+#6479
+Path to the Mayor's House~
+You're travelling down the long path to the Mayor's house.  As you walk down,
+the house appears to be getting bigger.
+~
+54 553 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6478
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6480
+S
+#6480
+Path to the Mayor's House~
+The mayor's house is now before you to the south.  It seems to be glowing with
+protective aura that has protected it from the lava.  The outside is in pristine
+condition and does not have one scratch on it.  In fact, as you look down, you
+see a mat with the word "Welcome" on it.
+~
+54 553 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6479
+D2
+ ~
+door mayor house~
+ ~
+ ~
+2 -1 6481
+S
+#6481
+Central Room of the Mayor's House~
+This is the first time you feel like you're back in a regular town again.  The
+room has a big persian carpet in the center of the room and many paintings
+of city leaders on the walls.  A candleabra is on the wall to the right.  There
+is a humming noise and bright light comming from the steps ahead of you.
+~
+54 555 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+door mayor house~
+ ~
+ ~
+2 -1 6480
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 6482
+S
+#6482
+The Bedroom~
+Walking up the steps you see a great big bed with big fluffy pillows and a
+large down feather comforter.  A desk is butted against the wall the left with
+a feather quill and many sheets of paper on it.  Just before you think about
+crashing on the bed infront of you, you notice the ghostly figure at the foot
+of the bed.
+~
+54 553 1 0
+0 0 0 0
+0 0 0
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 6481
+S
+#6501
+A Rough Path~
+The fine ash ground from the city has now turned into a very coarse path.  Small
+vegitation is begining to sprout out along the sides of this path which is about
+one meter wide.  Up ahead the path becomes much more treacherous.
+~
+54 1 4 1
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6502
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6345
+S
+#6502
+A Rough Path~
+The fine ash ground from the city has now turned into a very coarse path.  Small
+vegitation is begining to sprout out along the sides of this path which is about
+one meter wide.  Up ahead the path becomes much more treacherous.
+~
+54 1 4 1
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6503
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6501
+S
+#6503
+A Rough Path~
+The fine ash ground from the city has now turned into a very coarse path.  Small
+vegitation is begining to sprout out along the sides of this path which is about
+one meter wide.  Up ahead the path becomes much more treacherous.
+~
+54 1 4 1
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6504
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6502
+S
+#6504
+Path Up to The Mount~
+The path here becomes much steeper.  As you gaze up the mountain you can begin
+to smell the sulfuric earthly gases emitted from inside The Mount.
+~
+54 65 5 1
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6503
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 6505
+S
+#6505
+Path Up to The Mount~
+The path here levels off for a bit to the east.  However the path becomes much
+more narrow as you go along.  The small lava rocks would mean certain death if
+you were to slip on one and drop down the mountain.
+~
+54 65 5 1
+0 0 0 0
+5 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6506
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 6504
+S
+#6506
+Path Up to The Mount~
+The path here levels off for a bit to the east.  However the path becomes much
+more narrow as you go along.  The small lava rocks would mean certain death if
+you were to slip on one and drop down the mountain.
+~
+54 65 5 1
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6508
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6505
+S
+#6507
+High Up on The Mount~
+The path is no longer existant.  You now must scale the mountain by grabbing
+onto rocks that jet out from the side.  The Mount begins to rumble and gurgle
+with lava.
+~
+54 65 5 3
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6509
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 6508
+S
+#6508
+Path Up to The Mount~
+Large boulders block the path continuing to the east, however they form a nice
+set of steps up.  Trying to get a hold of the ash covered side of the mountain
+would be a treamendous feat.
+~
+54 65 5 1
+0 0 0 0
+15 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6506
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 6507
+S
+#6509
+High Up on The Mount~
+You continue scaling The Mount.  You can now see the top and the fire begiing
+to spew out from above.  An attack here would be seriously detrimental to your health.
+~
+54 65 5 3
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6507
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6510
+S
+#6510
+High Up on The Mount~
+You continue scaling The Mount.  You can now see the top and the fire begiing
+to spew out from above.  An attack here would be seriously detrimental to your health.
+~
+54 65 5 3
+0 0 0 0
+8 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6509
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 6511
+S
+#6511
+Close to the Summit~
+The top of The Mount is now less than 10 meters away.  However there's still
+a long way to go.  There's a small ledge to the east of here.
+~
+54 65 5 7
+0 0 0 0
+17 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6512
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 6510
+S
+#6512
+A Very Small Ledge~
+Unfortunatly this ledge is not as big as you thought it was.  And also, you
+have some unwelcomed company here too.  The ledge of the top of The Mount is
+just about one meter above your head.
+~
+54 69 5 7
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6511
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 6513
+S
+#6513
+Rim of The Mount~
+You've reached your goal.  It's so hot and steamy up here that you can't see
+below to the ground.  The rim is about a meter and a half wide.  Ahead of you
+is the boiling depths of The Mount.
+~
+54 65 4 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6521
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6520
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6514
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 6512
+S
+#6514
+Rim of The Mount~
+You've reached your goal.  It's so hot and steamy up here that you can't see
+below to the ground.  The rim is about a meter and a half wide.  Ahead of you
+is the boiling depths of The Mount.
+~
+54 65 4 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6515
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6513
+S
+#6515
+Rim of The Mount~
+You've reached your goal.  It's so hot and steamy up here that you can't see
+below to the ground.  The rim is about a meter and a half wide.  Ahead of you
+is the boiling depths of The Mount.
+~
+54 65 4 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6516
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6521
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6514
+S
+#6516
+Rim of The Mount~
+You've reached your goal.  It's so hot and steamy up here that you can't see
+below to the ground.  The rim is about a meter and a half wide.  Ahead of you
+is the boiling depths of The Mount.
+~
+54 65 4 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6517
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6515
+S
+#6517
+Rim of The Mount~
+You've reached your goal.  It's so hot and steamy up here that you can't see
+below to the ground.  The rim is about a meter and a half wide.  Ahead of you
+is the boiling depths of The Mount.
+~
+54 65 4 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6518
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6521
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6516
+S
+#6518
+Rim of The Mount~
+You've reached your goal.  It's so hot and steamy up here that you can't see
+below to the ground.  The rim is about a meter and a half wide.  Ahead of you
+is the boiling depths of The Mount.
+~
+54 65 4 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6519
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6517
+S
+#6519
+Rim of The Mount~
+You've reached your goal.  It's so hot and steamy up here that you can't see
+below to the ground.  The rim is about a meter and a half wide.  Ahead of you
+is the boiling depths of The Mount.
+~
+54 65 4 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6518
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6520
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6521
+S
+#6520
+Rim of The Mount~
+You've reached your goal.  It's so hot and steamy up here that you can't see
+below to the ground.  The rim is about a meter and a half wide.  Ahead of you
+is the boiling depths of The Mount.
+~
+54 65 4 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6519
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6513
+S
+#6521
+The Lava Churning Depths of The Mount~
+You can feel your armor begin to melt in these firey depths.  The extreme heat
+in here won't let you last long.  Wading in the lava you can feel the seizmic
+waves push you up and down while trying to concentrate on surviving.
+~
+54 8773 4 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6517
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6519
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6513
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6515
+S
+#6522
+A Damp Passage Under The Mount~
+As you pried open the portal you've come across a damp passageway underneith
+The Mount.  Here you'll find the hidden depths of Ashton's worst nightmare.
+You can hear a humming noise comming from the north.
+~
+54 591 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6523
+D2
+ ~
+portal~
+ ~
+ ~
+3 -1 6424
+S
+#6523
+The Eruptor's Gate~
+Traveling along this passageway you've hit a snag.  You've run into an old
+gate that has been rusted from the moisture from the volcano.  The gate has
+some sort of futuristic locking device that is attached to the sides of the
+walls. If you can't figure it out, there are some nice guards here you can
+ask.
+~
+54 585 1 0
+0 0 0 0
+0 0 0
+D0
+A rusted old gate that is securly bolted to the wall.
+~
+gate~
+ ~
+ ~
+2 -1 6524
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6522
+S
+#6524
+Keep of the Great Eruptor~
+This room is unlike any other room in the city.  In the center is a massive
+devise that has a large pipe filled with lava that flows up to the volcano.
+At one side of the room is a laboratory with many jars and sealed bottles
+resting on a shelf.   At the other side is a small bed and a bookcase filled
+with books from Ashton City's past.  The wizard is not happy at all to see you.
+~
+54 585 1 0
+0 0 0 0
+0 0 0
+D2
+ ~
+gate~
+ ~
+ ~
+2 -1 6523
+D5
+A magical portal is below you.
+~
+portal door~
+$n steps through the portal and dissappears.~
+A large crack opens up below city hall and $n pops out.~
+2 -1 5626
+S
+#6528
+Inside Some Glowing Lava~
+Digging through the soft pile of ash you've come across a hollow section of
+the ground.  The sides of this small hollow cavern seem to be glowing with an
+energy force you can't identify.  Looking down you can see a large drop
+to another plane.
+~
+54 520 1 7
+6 0 0 0
+0 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 6101
+D5
+ ~
+ ~
+$n steps through the floor and dissapears.~
+A strange portal opens up with a flash from abov and $n drops in.~
+1 -1 6401
+S
+#6529
+Inside Some Glowing Lava~
+Digging through the soft pile of ash you've come across a hollow section of
+the ground.  The sides of this small hollow cavern seem to be glowing with an
+energy force you can't identify.  Looking down you can see a large drop
+to another plane.
+~
+54 520 1 7
+0 0 0 0
+0 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 845
+D5
+You see a bright multi-colored light flashing below.
+~
+ ~
+$n steps through the floor and dissapears.~
+A strange portal opens above you opens up and $n drops in.~
+1 -1 6405
+S
+#19028
+South Gate of New Ashton~
+Before you stands the majestic city of New Ashton.  The ground you're standing
+on is made of small, soft rocks.  The air smells of sulfur and other earthly
+scents. To the east and west runs a high wall made of sandstone.  In front of
+you is a cobble path that leads towards a large building made of hardened
+clay. As you look up from the ground you see the massive volcano, simply
+called "The Mount" by the citizens.  It looks incredibly fierce and yet right
+now its in its dormant phase.
+~
+54 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 871
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5641
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 478
+S
+#19999
+$~

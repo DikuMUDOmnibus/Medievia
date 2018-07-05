@@ -1,0 +1,5685 @@
+#616
+Potter's field~
+This mass grave is where Medievia's poor are buried. Those who can't afford
+their own tombstone get buried here together.
+~
+10 4 1 0
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1000
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 1729
+S
+#700
+The Gate to Medievia~
+You stand outside the Gates of the City of Medievia. The great gates are made
+of iron and wood, and are extremely thick. They are at least 30 feet high, and
+the wall around Medievia to the north and south here is about 25 feet high.
+There are no guard posts at the gates, as this is a commonly traveled road.
+An old and worn down cobble stone road leads east away from town.
+~
+10 0 2 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 701
+D3
+You see a massive pair of iron gates.
+~
+gate gates~
+ ~
+ ~
+1 -1 6
+S
+#701
+A Cobble-Stone Road~
+You are travelling along an old cobble stone road.  The stones are worn
+and some have been torn loose from the ground.  Dense forest covers the
+countryside to the north and south.  The road leads east to Valhingen
+Graveyard and west towards the City of Medievia.
+~
+10 0 2 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 702
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 700
+S
+#702
+A Cobble-Stone Road~
+You are travelling along an old cobble stone road.  The stones are worn
+and some have been torn loose from the ground.  Dense forest covers the
+countryside to the north and south.  The road leads east to Valhingen
+Graveyard and west towards the City of Medievia.
+~
+10 0 2 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 703
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 701
+S
+#703
+A Cobble-Stone Road~
+You are travelling along an old cobble stone road. The stones are worn
+and some have been torn loose from the ground. Dense forest covers the
+countryside to the east and south.  The road leads north to Valhingen
+Graveyard and west towards the City of Medievia.  There is a rotting wooden
+sign hammered into the ground at the edge of the path.
+~
+10 0 2 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 705
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 702
+E
+sign~
+The Sign Reads:
+To the north of here is the Graveyard, the gates are unlocked, enter at
+your own risk. We take no responsibility for the loss of items, life or
+what have you, in the Graveyard.
+~
+S
+#705
+A narrow, weed-covered trail~
+This is a very narrow trail through waist-high weeds.  You have to push
+branches and plants out of your way to make progress.  Looking down through
+the weeds you see old cobble stones, now covered with dirt and torn from the
+ground.
+~
+10 0 2 0
+0 0 0 0
+0 0 0
+D0
+A large iron gate blocks the entrance to the Graveyard.  It is rusted
+and squeekes loudly on its hinges.
+~
+gate~
+$n pushes the gates open cautiously and disappears into the Graveyard.~
+$n walks through the rusted iron gates into the Graveyard.~
+1 5701 1000
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 703
+S
+#837
+The Caretaker's Kitchen~
+The Caretaker's kitchen is small but well furnished. There are bright copper
+pots hanging above a cutting-board counter in the center of the room. There is a solid cast iron pot-bellied stove in the far corner, and a good supply of
+kindling next to it. The glass-fronted larders seem to be full, and there is a
+large tun of wine against the west wall. The Caretaker may not be rich, but he
+leads a comfortable life!
+~
+10 8 0 7
+0 0 0 0
+0 0 10
+D0
+You see a solid oak door bound with iron on this side and equipped with a
+heavy lock.
+~
+door oak~
+$n heads north to the Office.~
+$n has come in from the main house.~
+1 5126 1116
+D1
+You can see into the parlor
+~
+cr~
+$n goes to rest in the Parlor.~
+$n has entered from the Kitchen.~
+1 -1 839
+D3
+You see a sturdy wooden door made of oak.
+~
+door oak~
+$n has gone into the bedroom. They must be sleepy!~
+$n has come in from the Kitchen.~
+1 5126 838
+S
+#838
+The Caretaker's Bedroom~
+This is where the Caretaker spends his nights. There is a large four-poster
+bed against one wall with a cedar chest at its foot. Against the near wall is
+a chest of drawers. There is a reading chair and lamp in the far corner, and
+a lamp by the bed on a small nightstand. All-in-all the room looks like it is
+quite comfortable and restful.
+~
+10 8 0 7
+0 0 0 0
+0 0 0
+D1
+You see a sturdy wooden door made of oak.
+~
+door oak~
+$n leaves the boudoir looking quite refreshed!~
+$n has wandered in from the Bedroom, looking sleepy.~
+1 5126 837
+S
+#839
+The Caretaker's Parlor~
+This where the Caretaker entertains any guests he may have. The furniture and
+lamps are distinctly Victorian in style and the room is immaculately clean.
+There is a brick fireplace set into the south wall holding a small, cozy
+blaze. There is also a bookshelf taking up the entire wall directly ahead of
+you. It is filled with leather-bound volumes of classic literature.
+~
+10 8 0 7
+0 0 0 0
+0 0 0
+D1
+This bookcase goes from one end of the wall to the other. Quite a piece of
+work!
+~
+case bookcase~
+$n opens the bookcase and disappears behind it.~
+$n has come through the secret doorway.~
+4 5126 840
+D3
+You can see the kitchen.
+~
+cr~
+$n goes into the kitchen.~
+$n has enteed from the Parlor.~
+1 -1 837
+S
+#840
+The Hidden Study~
+There seems to be more than meets the eye where the caretaker is concerned!
+Walking the few steps down to this room, you see it contains crates filled
+with crushed ice packed in sawdust. In the ice are various human body parts
+and organs. It seems the caretaker dabbles in a little contraband body part
+trading. Perhaps he would sell you a choice specimen if you ask him nicely?
+~
+10 13 0 7
+0 0 0 0
+0 0 -30
+D3
+This seems to be the back of a heavy piece of furniture of some kind blocking
+the way west.
+~
+case bookcase~
+$n disappears through the secret door.~
+$n has entered from behind the bookcase!~
+2 5126 839
+D5
+There seems to be the outline of a door in the boards of the floor. If
+you hadn't looked closely, you'd have definitely missed it.
+~
+trapdoor door~
+$n disappears through the trapdoor~
+$n has come down from the trapdoor~
+4 5126 854
+S
+#846
+A Narrow Passage~
+This is a passageway about twelve feet below the graveyard's surface. It is
+paved with brick and seems to be well maintained. There is a ladder here going
+up and the passage leads off to the south.
+~
+10 9 0 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 848
+D4
+You can see a dark grey slab of stone above your head covering the exit.
+~
+slab stone ~
+$n pushes up the slab and leaves up~
+$n has crawled from beneath the sarcophagus!~
+1 5126 1072
+S
+#848
+A Narrow Passage~
+The passageway continues south. The air is fresh, if a little damp,
+so this way must be opened quite frequently.
+~
+10 9 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 846
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 849
+S
+#849
+A Narrow Passage~
+Continuing in a straight line, the passage doesn't change appreciably. You
+think you may hear shuffling noises coming faintly from the south.
+~
+10 13 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 848
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 850
+S
+#850
+A Narrow Passage~
+You definitely hear the shuffling fo feet to the south. Although it sounds
+human, who can tell in the dark of the grave? The passage continues south
+and north.
+~
+10 9 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 849
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 851
+S
+#851
+A Turning of the Way~
+You have reached a bend in the passage. The way leads north or east here,
+and that shuffling sound is definitely louder to the east. Perhaps, in the
+interest of prudence, you should turn back now.
+~
+10 9 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 850
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 852
+S
+#852
+A Narrow Passage~
+The way heads east from here, and there could be a glimmer of light ahead,
+but it is hard to tell. Those are definitely footfalls heading east. They
+are becoming a little unnerving in this place, don't you think?
+~
+10 9 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 853
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 851
+S
+#853
+A Narrow Passage~
+There is definitely light ahead, but it is not enough to see by, yet. There
+is something moving in front of the light, swaying back and forth as it
+walks causing the light you can see to flicker.
+~
+10 9 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 854
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 852
+S
+#854
+The End of the Passage~
+This seems to be the end of the passageway. This is a large room, with a
+cot along the east wall and some chests and a dresser along the west wall.
+There are two lamps burning on a table in the center of the room, sending
+small wisps of oily, scented smoke into the air. It looks as though there
+may be someone that lives here.
+    There is a ladder going up.
+~
+10 8 0 7
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 853
+D4
+There is a wooden trapdoor blocking the exit up. It has a lock that could
+probably be picked.
+~
+trapdoor~
+$n leaves through the trapdoor.~
+$n has come up through the trapdoor!~
+1 5126 840
+S
+#869
+The Gravedigger's Attic~
+    This room is loaded with dusty crates, trunks and a few old digging tools
+that the man no longer seems to need. The trunks are extremely large -- to
+hold old clothes, treasure gleened from dead bodies or the dead bodies
+themselves -- nobody really knows for sure.
+~
+10 2573 0 7
+0 0 0 0
+0 0 0
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 1070
+S
+#884
+A Closet~
+This is the closet where the altar boys store there robes and change clothes.
+There are hooks along the wall and a small chest that smells of cedar. There
+doesn't seem to be much else here.
+~
+10 521 0 7
+0 0 0 0
+0 0 0
+D3
+A small, sliding wood panel.
+~
+panel~
+$n leaves west through the panel opening.~
+$n has entered from behind a sliding panel.~
+1 -1 975
+S
+#885
+The East End of the North Gallery~
+This is the gallery where guest vocalists for the choir perform. There is
+a pair of velvet cushioned chairs here, along with a porcelain pitcher and
+some glasses for water. There is also a small basket of lemons to be used
+if the singers' voices get tired.
+    The organ is to the west.
+~
+10 12 0 7
+0 0 0 0
+0 0 0
+D3
+You see the most impressive pipe organ you have ever set eyes on to the west.
+~
+ ~
+ ~
+ ~
+1 -1 886
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 975
+S
+#886
+The Grand Pipe Organ - North Gallery~
+This is the pipe organ used during all of the Cathedral's services. It is
+probably the grandest musical instrument you have ever seen!
+The pipes soar in polished silver majesty to frame the giant rose window
+overhead, the largest the size of a tree in diameter down to the smallest
+which is no bigger than your pinky. The organ itself has keys of traditional
+ebony and ivory, but the knobs used to adjust the pitch-valves for the pipes
+are each crowned with a glittering jewel! the organ frame is made of the
+finest imported wavy-grained rosewood. The organist at this Cathedral is
+envied throughout Medievia for her honor of being able to play such a
+wondrous creation.
+~
+10 8 0 7
+0 0 0 0
+0 0 0
+D1
+You see the east end of the North Gallery.
+~
+l e~
+ ~
+ ~
+1 -1 885
+D3
+You see the west end of the North Gallery.
+~
+ ~
+ ~
+ ~
+1 -1 1131
+S
+#898
+The Holy Church~
+The aisle continues toward the Altar in the north. To the east and west, side
+aisles give passage to the rectory (east) and the confessionals (west). On
+the high walls of the Church, glittering, multicolored rose windows send
+streams of bright colored sunlight to illumine the worshippers. There is a
+window above both the west and east side aisles.
+~
+10 8 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3434
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1230
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1118
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1232
+S
+#899
+The Holy Church~
+The aisle continues north. More polished pews are to the east and west, and
+a few people are here giving silent prayer.
+~
+10 12 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 954
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3434
+S
+#954
+The Holy Church~
+This is the end of the many rows of pews. Small whisperings of prayers can
+be heard as their are more people this close to the altar. Those quiet
+voices hardly break the reverent quietness of this place, however.
+    Just ahead the center aisle is bisected by another east-west aisle. The
+cross aisle leads to a door to the west and a short hallway to the east. This
+aisle continues north to the Altar.
+~
+10 12 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 969
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 899
+S
+#969
+Cross Aisle~
+The center aisle is bisected here by another east-west aisle. East leads to
+ a service hall and west leads to the priest's house.
+    Just to the north is the Apse containing the Altar, Choir Chamber and
+Altar Pews.
+~
+10 8 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 978
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 984
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 954
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 982
+S
+#974
+The Choir Chamber~
+This is the alcove where the choir practices and performs during sevices.
+From the music you can hear, the choir is quite wonderful! Unfortunately,
+even though you hear the sweet voices, there is no choir in the chamber.
+Those voices DO sound a bit too angelic to be human!
+~
+10 8 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 978
+D4
+There is a small spiral staircase set into the wall going up.
+~
+staircase~
+$n goes up the spiral staircase.~
+$n has entered from the Choir Chamber.~
+1 -1 1131
+S
+#975
+The Altar Pews~
+There is a pew here reserved for the altar boys. There are also two high-
+backed, gilded wood armchairs for the use of a guest priest or the Cardinal
+or Bishop should they choose to grace the Church with their presence.The
+chairs have red velvet cushions and the straight chair-backs are carved with
+the insignia of the Roman Catholic Church.
+~
+10 8 0 7
+0 0 0 0
+0 0 0
+D1
+A small wooden panel that slides is here.
+~
+panel~
+$n hasleft throught the panle to the east.~
+$n has come through the panel~
+1 -1 884
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 978
+D4
+There is a small spiral staircase set into the wall here.
+~
+ ~
+$n goes up to the North Gallery.~
+$n has climbed up the spiral stairs.~
+1 -1 885
+S
+#978
+The Altar~
+The altar is made of white marble and is covered with a gold-fringed, white
+silk cloth. There are two golden candlesticks with candles of purest beeswax,
+a gold chalice and a small gold plate resting on the cloth. Above the altar
+in the north wall of the Cathedral is a rose window of such exquisite beauty
+and brilliant light, it takes your breath away! To the east are the Altar Pews
+and to the west is the Choir Chamber.
+    There is a small, copper-clad door to the north. It's doorframe glows
+with a soft, white light.
+~
+10 524296 0 7
+0 0 0 0
+0 0 0
+D0
+You see a small, copper-plated door with a heavy lock. The doorframe glows
+with a soft, white light.
+~
+door~
+$n disappears behind the copper-clad door.~
+$n has entered the Santuary.~
+2 5126 979
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 975
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 969
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 974
+E
+cup chalice ~
+A wonderfully wrought gold chalice rests on the altar. It is inlaid with
+deep red rubies and sapphires of clear, cornflower blue. Incised along the
+base of the cup in Latin are the words 'Pax Wobiscum'.
+~
+S
+#979
+The Sanctuary~
+This is a "Holiest of Places" -- a place where people are safe from the
+evil in the world. Of course, no evil creature can come here.
+    You here a quiet voice in your soul saying "Rest! No harm shall come to
+you Here."
+~
+10 524 6 7
+0 0 1 0
+0 0 0
+D2
+You see a copper clad door.
+~
+door~
+$n has left the Sanctuary.~
+$n appears from behind the copper-clad door.~
+1 5126 978
+S
+#982
+Along the West Aisle~
+This is the west aisle which passes in front of the pews on its way to the
+Priest's House.
+~
+10 8 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 969
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 983
+S
+#983
+At the Priest's Door~
+You stand before the door to the Priest's house. It is a solid looking door
+made of oak, with a cast-iron doorknocker in the center. A small slot in the
+lower part of the door is for mail, messages and any generous donations the
+parrish wishes to give.
+    Knocking would be a polite thing to do!
+~
+10 8 0 7
+3 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 982
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2334
+D3
+A solid oak door with a sturdy lock.
+~
+door~
+$n has gone into the Priest's house.~
+$n has come through the door to the Church.~
+2 5126 1198
+S
+#984
+Along the East Aisle~
+This aisle passes by the pews on the east side of the Church on its way
+to the service corridor and the Cathedral's East Wing.
+~
+10 8 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 985
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 969
+S
+#985
+The Entrance to the Service Hall~
+This is a stone archway that leads to the Kitchens, the barracks of the
+Holy Order of St. George and the Abbey.
+~
+10 12 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6105
+D3
+You can see across the main church to the Priest's house from here. It's
+a pretty fair distance!
+~
+ ~
+ ~
+ ~
+1 -1 984
+S
+#1000
+Entrance to Graveyard~
+You are at the entrance to the Valhingen Graveyard, in all directions you can
+see grave markers of all shapes and sizes, you see a small some small
+buildings and mausoleums as well. The road leads north of here.
+~
+10 0 1 0
+0 0 0 0
+-1 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1001
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 616
+D2
+A large iron gate blocks the exit to the Graveyard, it is rusted heavily
+and squeeks loudly on its hinges.
+~
+gate~
+$n quickly steps through the gates to the south.~
+$n steps out of the mist of the Graveyard with a dazed look.~
+1 5701 705
+S
+#1001
+Path through the Graveyard~
+You walk a path through the Graveyard, paths between the graves head east and
+west of you here, and the main path through the center continues north and
+south.
+~
+10 0 1 0
+0 0 0 0
+-1 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1002
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1110
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1000
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1109
+S
+#1002
+Path in the Graveyard~
+You travel the main path through the center of the graveyard, the path
+continues north and south of here, to the east is the Mortuary.
+~
+10 0 1 0
+0 0 0 0
+-1 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1003
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1102
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1001
+S
+#1003
+Path in the Graveyard~
+You travel the main path through the center of the graveyard, paths between
+the grave markers lie to the east and west here. The main path continues north
+and south here.
+~
+10 0 1 0
+0 0 0 0
+-1 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1004
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1095
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1002
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1094
+S
+#1004
+Path through the Graveyard~
+You travel the north-south main path through the Graveyard.
+~
+10 0 1 0
+0 0 0 0
+-1 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1005
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1003
+S
+#1005
+Path through the Graveyard~
+You travel the north-south path through the graveyard, to the east and west is
+a path between grave markers.
+~
+10 0 1 0
+0 0 0 0
+-1 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1006
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1081
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1004
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1080
+S
+#1006
+Path through the Graveyard~
+You travel the north-south main path through the graveyard, a mausoleum sits
+directly to your west here, looking very uninviting.
+~
+10 0 1 0
+0 0 0 0
+-1 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1007
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1005
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1073
+S
+#1007
+Path through the Graveyard~
+You travel the north-south main path through the graveyard, paths between
+grave markers lie east and west of this point.
+~
+10 0 1 0
+0 0 0 0
+-1 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1008
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1063
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1006
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1062
+S
+#1008
+Path through the Graveyard~
+You travel the north-south path through the graveyard, directly to the east
+sits the entrance to a Crypt, the crypt is covered partially by weeds and
+crabgrass, and the entrance is carved from granite and marble.
+~
+10 0 1 0
+0 0 0 0
+-1 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1009
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1055
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1007
+S
+#1009
+Path through the Graveyard~
+You travel the north-south main path through the graveyard, a path between
+grave markers lies to the east and west of you here.
+~
+10 0 1 0
+0 0 0 0
+-1 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1010
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1048
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1008
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1047
+S
+#1010
+Path through the Graveyard~
+You travel the main north-south path through the graveyard.
+~
+10 0 1 0
+0 0 0 0
+-1 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1011
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1009
+S
+#1011
+Path through the Graveyard~
+You travel the main north-south path through the graveyard, an east-west path
+between grave markers crosses here.
+~
+10 0 1 0
+0 0 0 0
+-1 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1012
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1034
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1010
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1033
+S
+#1012
+Path through the Graveyard~
+You travel the main north-south path through the graveyard.
+~
+10 0 1 0
+0 0 0 0
+-1 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1013
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1011
+S
+#1013
+A large fence.~
+You stand at the end of a path that heads south of here, an east-west path
+lies here, with grave markers on either side of the path.
+~
+10 0 1 0
+0 0 0 0
+-1 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1020
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1012
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1019
+S
+#1014
+A curve in the path~
+You stand at a curve in the path, a path runs south of here, another runs east.
+A large fence connects to the north running east.
+~
+10 0 1 0
+0 0 0 0
+-1 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1015
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1026
+S
+#1015
+A Freshly-Open Grave~
+You are on an east-west path, graves lie to the north and south of you here.
+A large fence runs east to west.
+Items: Tombstone
+~
+10 0 1 0
+0 0 0 0
+-1 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1016
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1014
+E
+tombstone~
+
+          Here Rests the Soul of Alabaster the 35mm Autofire Cannon
+                            A Level 15 Magic User
+      Died on the 16th Day of the Month of the Grand Struggle, Year 370
+                      By the Hand of A young, red dragon
+                            In The Carthein River
+~
+S
+#1016
+Gravesite~
+You travel an east-west path between graves... Markers lie to the north and
+south of you here.  A large fence can be seen running east to west.
+Items: Tombstone.
+~
+10 0 1 0
+0 0 0 0
+-1 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1017
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1015
+E
+tombstone~
+
+               Here Rests the Soul of Milamber of Sorceror Isle
+           A Level 23 Magic User and Member of The Coven of Avalon
+      Died on the 12th Day of the Month of the Grand Struggle, Year 370
+                           By the Hand of The lamia
+                            In The City of Thalos
+~
+S
+#1017
+Gravesite~
+You travel an east-west path between graves... Markers lie to the north and
+south of you here.  A large fence can be seen here running east to west.
+Items: Tombstone.
+~
+10 0 1 0
+0 0 0 0
+-1 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1018
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1016
+E
+tombstone~
+
+                   Here Rests the Soul of Thog the Cavalier
+                              A Level 19 Warrior
+        Died on the 33rd Day of the Month of the Great Evil, Year 319
+                           By the Hand of The dark
+                             In Spirited Heights
+~
+S
+#1018
+Gravesite~
+You travel an east-west path between graves... Markers lie to the north and
+south of you here.  A large fence can be seen is here running east to west.
+Items: Tombstone.
+~
+10 0 1 0
+0 0 0 0
+-1 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1019
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1017
+E
+tombstone~
+
+           Here Rests the Soul of Bifford the Avatar of an Immortal
+                              A Level 26 Cleric
+      Died on the 14th Day of the Month of the Grand Struggle, Year 370
+                          By the Hand of the trolloc
+                               In City of Tear
+~
+S
+#1019
+Gravesite~
+You travel an east-west path between graves... Markers lie to the north and
+south of you here.  A large fence can be seen here running east to west.
+Items: Tombstone.
+~
+10 0 1 0
+0 0 0 0
+-1 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1013
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1018
+E
+tombstone~
+
+                   Here Rests the Soul of Tirane the Funky
+                            A Level 14 Magic User
+      Died on the 26th Day of the Month of the Grand Struggle, Year 370
+                      By the Hand of a whitecloak leader
+                               In City of Tear
+~
+S
+#1020
+Gravesite~
+You are on an east-west path, graves lie to the north and south of you here.
+A large fence can bee seen here running east to west.
+Items: Tombstone
+~
+10 0 1 0
+0 0 0 0
+-1 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1021
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1013
+E
+tombstone~
+
+                   Here Rests the Soul of Drakken [*LOST*]
+        A Level 28 Magic User and Member of Knights of the Table Round
+       Died on the 29th Day of the Month of Wondrous Creation, Year 370
+                         By the Hand of A doom sphere
+                         In The Temple of Bloodstone
+~
+S
+#1021
+Gravesite~
+You stand on an east-west path, graves lie north and south of you here.
+A large fence can be seen here running east to west.
+Items: Tombstone
+~
+10 0 1 0
+0 0 0 0
+-1 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1022
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1020
+E
+tombstone~
+
+            Here Rests the Soul of Bloodlet Humble Servant of Myst
+                               A Level 20 Thief
+      Died on the 17th Day of the Month of the Grand Struggle, Year 370
+                    By the Hand of The drow warrior noble
+                                 In Drow City
+~
+S
+#1022
+Gravesite~
+You travel an east-west path between graves... Markers lie to the north and
+south of you here.  A large fence can be seen here running east to west.
+Items: Tombstone.
+~
+10 0 1 0
+0 0 0 0
+-1 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1023
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1021
+E
+tombstone~
+
+                   Here Rests the Soul of Llew the Champion
+                              A Level 17 Warrior
+      Died on the 13th Day of the Month of the Grand Struggle, Year 370
+                     By the Hand of a Knight of the Sword
+                              In Castle Medievia
+~
+S
+#1023
+Gravesite~
+You travel an east-west path between graves... Markers lie to the north and
+south of you here.  A large fence can be seen here running east to west.
+Items: Tombstone.
+~
+10 0 1 0
+0 0 0 0
+-1 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1024
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1022
+E
+tombstone~
+
+                                  R.I.P
+                           Scott "Toy'r" Keenan
+                      Born: 03/13/513 Died: 03/11/533
+          Popped one too many pimple, now he's just a rotting zit.
+~
+S
+#1024
+Gravesite~
+You travel an east-west path between graves.
+A large fence can be seen here running east to west.
+Items: Tombstone.
+~
+10 0 1 0
+0 0 0 0
+-1 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1025
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1023
+E
+tombstone~
+
+                   Here Rests the Soul of Risk -y business
+           A Level 19 Magic User and Member of The Coven of Avalon
+      Died on the 25th Day of the Month of the Grand Struggle, Year 370
+                  By the Hand of a guardian of the Gold Wyrm
+                              In Castle Medievia
+~
+S
+#1025
+A turn in the path~
+The path turns west here. You can follow it, head back south or enter the
+doors to the Cathedral to the north.
+~
+10 0 1 0
+0 0 0 0
+-1 0 0
+D0
+You see the arched, double doors of a huge Gothic Cathedral.
+~
+door~
+ ~
+ ~
+1 5126 1117
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1027
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1024
+S
+#1026
+The Western Path~
+You travel the north-south running western path in the Graveyard.
+~
+10 0 1 0
+0 0 0 0
+-1 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1014
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1028
+S
+#1027
+Eastern Path in Graveyard~
+You travel the eastern path in the cemetary, the path goes north and south.
+~
+10 0 1 0
+0 0 0 0
+-1 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1025
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1039
+S
+#1028
+The Western Path~
+You travel the Western Path through the Graveyard, which runs north and south,
+to the east of here is a path between graves.
+~
+10 0 1 0
+0 0 0 0
+-1 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1026
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1029
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1040
+S
+#1029
+Gravesite~
+You travel an east-west path through the graveyard, there is a tombstone here.
+Items: Tombstone.
+~
+10 0 1 0
+0 0 0 0
+0 -1 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1030
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1028
+E
+tombstone~
+
+                   Here Rests the Soul of Gretta the Grape
+             A Level 21 Cleric and Member of The Coven of Avalon
+      Died on the 13th Day of the Month of the Grand Struggle, Year 370
+                        By the Hand of the town crier
+                             In City of Medievia
+~
+S
+#1030
+Gravesite~
+You travel an east-west path through the graveyard, there is a tombstone here.
+Items: Tombstone.
+~
+10 0 1 0
+0 0 0 0
+-1 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1031
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1029
+E
+tombstone~
+
+      Here Rests the Soul of Logan the mage from the Shadow of Death(24)
+     A Level 22 Magic User and Member of Soldiers of the Shadow of Death
+      Died on the 10th Day of the Month of the Grand Struggle, Year 370
+                       By the Hand of The Undead Beast
+                              In DeRah Villadom
+~
+S
+#1031
+Gravesite~
+You travel an east-west path through the graveyard, there is a tombstone here.
+Items: Tombstone.
+~
+10 0 1 0
+0 0 0 0
+-1 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1032
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1030
+E
+tombstone~
+
+                  Here Rests the Soul of Kent the Octlidoct
+                              A Level 13 Warrior
+      Died on the 21st Day of the Month of Trellor's Founding, Year 370
+                           By the Hand of The lamia
+                            In The City of Thalos
+~
+S
+#1032
+Gravesite~
+You travel an east-west path through the graveyard, there is a tombstone here.
+Items: Tombstone.
+~
+10 0 1 0
+0 0 0 0
+-1 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1033
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1031
+E
+tombstone~
+
+     Here Rests the Soul of Darkstar who's listening to the Grateful Dead
+       A Level 19 Cleric and Member of Myst's Strays of Life and Death
+      Died on the 16th Day of the Month of the Grand Struggle, Year 370
+                           By the Hand of The lamia
+                            In The City of Thalos
+~
+S
+#1033
+Gravesite~
+You travel an east-west path through the graveyard, there is a tombstone here.
+Items: Tombstone.
+~
+10 0 1 0
+0 0 0 0
+-1 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1011
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1032
+E
+tombstone~
+
+                   Here Rests the Soul of Arbuckle the wuss
+                              A Level 19 Warrior
+      Died on the 28th Day of the Month of the Grand Struggle, Year 370
+                           By the Hand of The lamia
+                            In The City of Thalos
+~
+S
+#1034
+Gravesite~
+You travel an east-west path through the graveyard, there is a tombstone here.
+Items: Tombstone.
+~
+10 0 1 0
+0 0 0 0
+-1 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1035
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1011
+E
+tombstone~
+
+                    Here Rests the Soul of ShadowWolf ...
+                            A Level 22 Magic User
+      Died on the 19th Day of the Month of the Grand Struggle, Year 370
+                       By the Hand of The air elemental
+                             In City of Medievia
+~
+S
+#1035
+Gravesite~
+You travel an east-west path through the graveyard, there is a tombstone here.
+Items: Tombstone.
+~
+10 0 1 0
+0 0 0 0
+-1 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1036
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1034
+E
+tombstone~
+
+                 Here Rests the Soul of Tarn dont look at me.
+              A Level 26 Thief and Member of Lords of Discipline
+      Died on the 29th Day of the Month of the Grand Struggle, Year 370
+                         By the Hand of a mind flayer
+                                  In (null)
+~
+S
+#1036
+Gravesite~
+You travel an east-west path through the graveyard, there is a tombstone here.
+Items: Tombstone.
+~
+10 0 1 0
+0 0 0 0
+-1 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1037
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1035
+E
+tombstone~
+
+           Here Rests the Soul of Gregor the something or other...
+                               A Level 13 Thief
+       Died on the 5th Day of the Month of Trellor's Founding, Year 370
+                           By the Hand of The lamia
+                            In The City of Thalos
+~
+S
+#1037
+Gravesite~
+You travel an east-west path through the graveyard, there is a tombstone here.
+Items: Tombstone.
+~
+10 0 1 0
+0 0 0 0
+-1 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1038
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1036
+E
+tombstone~
+
+              Here Rests the Soul of Detritus the Swordmistress
+                              A Level 15 Warrior
+      Died on the 18th Day of the Month of the Grand Struggle, Year 370
+                           By the Hand of The lamia
+                            In The City of Thalos
+~
+S
+#1038
+Gravesite~
+You travel an east-west path through the graveyard, there is a tombstone here.
+Items: Tombstone.
+~
+10 0 1 0
+0 0 0 0
+-1 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1039
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1037
+E
+tombstone~
+
+                    Here Rests the Soul of Cirion No Title
+                     A Level 28 Thief and Member of Fate
+       Died on the 35th Day of the Month of Wondrous Creation, Year 370
+                           By the Hand of A banshee
+                                  In (null)
+~
+S
+#1039
+Eastern path in Graveyard~
+You travel along the north-south eastern path in the graveyard. To the west
+is a path lined with graves.
+~
+10 0 1 0
+0 0 0 0
+-1 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1027
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1041
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1038
+S
+#1040
+The Western Path~
+You travel the north-south running western path in the Graveyard.
+~
+10 0 1 0
+0 0 0 0
+-1 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1028
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1042
+S
+#1041
+Eastern path in Graveyard~
+You travel the north-south eastern path in the graveyard.
+~
+10 0 1 0
+0 0 0 0
+-1 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1039
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1053
+S
+#1042
+The Western Path~
+You travel the Western Path through the Graveyard, which runs north and south,
+to the east of here is a path between graves.
+~
+10 0 1 0
+0 0 0 0
+-1 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1040
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1043
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1054
+S
+#1043
+Gravesite~
+You travel an east-west path through the graveyard, there is a tombstone here.
+Items: Tombstone.
+~
+10 0 1 0
+0 0 0 0
+-1 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1044
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1042
+E
+tombstone~
+
+                    Here Rests the Soul of Sirity No Title
+        A Level 17 Thief and Member of Myst's Strays of Life and Death
+      Died on the 11th Day of the Month of the Grand Struggle, Year 370
+                       By the Hand of a gruesome wight
+                              In DeRah Villadom
+~
+S
+#1044
+Gravesite~
+You travel an east-west path through the graveyard, there is a tombstone here.
+Items: Tombstone.
+~
+10 0 1 0
+0 0 0 0
+-1 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1045
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1043
+E
+tombstone~
+
+       Here Rests the Soul of Polyphon the High Inquisitor of Asmodeus
+                            A Level 25 Magic User
+      Died on the 16th Day of the Month of the Grand Struggle, Year 370
+                          By the Hand of The goblin
+                             In The Goblin Castle
+~
+S
+#1045
+Gravesite~
+You travel an east-west path through the graveyard, there is a tombstone here.
+Items: Tombstone.
+~
+10 0 1 0
+0 0 0 0
+-1 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1046
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1044
+E
+tombstone~
+
+                 Here Rests the Soul of Leena the Swordpupil
+              A Level 27 Warrior and Member of Followers of Cain
+      Died on the 22nd Day of the Month of the Grand Struggle, Year 370
+                       By the Hand of The Undead Beast
+                              In DeRah Villadom
+~
+S
+#1046
+Gravesite~
+You travel an east-west path through the graveyard, there is a tombstone here.
+Items: Tombstone.
+~
+10 0 1 0
+0 0 0 0
+-1 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1047
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1045
+E
+tombstone~
+
+             Here Rests the Soul of Parr the Greater Demon Slayer
+             A Level 26 Warrior and Member of Lords of Discipline
+      Died on the 22nd Day of the Month of the Grand Struggle, Year 370
+                       By the Hand of The swashbuckler
+                                In Pirate Ship
+~
+S
+#1047
+Gravesite~
+You travel an east-west path through the graveyard, there is a tombstone here.
+Items: Tombstone.
+~
+10 0 1 0
+0 0 0 0
+-1 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1009
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1046
+E
+tombstone~
+
+                Here Rests the Soul of Flerll the Swordmaster
+                              A Level 15 Warrior
+      Died on the 30th Day of the Month of the Grand Struggle, Year 370
+                       By the Hand of the shadow rider
+                               In City of Tear
+~
+S
+#1048
+Gravesite~
+You travel an east-west path through the graveyard, there is a tombstone here.
+Items: Tombstone.
+~
+10 0 1 0
+0 0 0 0
+-1 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1049
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1009
+E
+tombstone~
+
+               Here Rests the Soul of NinjaX Death on the Wind
+                            A Level 13 Magic User
+         Died on the 23rd Day of the Month of Winter Night, Year 370
+                           By the Hand of The lamia
+                            In The City of Thalos
+~
+S
+#1049
+Gravesite~
+You travel an east-west path through the graveyard, there is a tombstone here.
+Items: Tombstone.
+~
+10 0 1 0
+0 0 0 0
+-1 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1050
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1048
+E
+tombstone~
+
+                  Here Rests the Soul of Kellik the Myrmidon
+                              A Level 12 Warrior
+       Died on the 1st Day of the Month of Trellor's Founding, Year 370
+                      By the Hand of The drow mage noble
+                                 In Drow City
+~
+S
+#1050
+Gravesite~
+You travel an east-west path through the graveyard, there is large tombstone
+here, made of black onyx, with a pentagram engraved on a large ball on the top
+of the tombstone.
+Items: Tombstone.
+~
+10 0 1 0
+0 0 0 0
+-1 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1051
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1049
+E
+tombstone~
+
+                              /- ^| /`> .`<\[)
+~
+S
+#1051
+Gravesite~
+You travel an east-west path through the graveyard, there is a tombstone here.
+Items: Tombstone.
+~
+10 0 1 0
+0 0 0 0
+-1 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1052
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1050
+E
+tombstone~
+
+       Here Rests the Soul of Polyphon the High Inquisitor of Asmodeus
+                            A Level 25 Magic User
+      Died on the 17th Day of the Month of the Grand Struggle, Year 370
+                      By the Hand of A young, red dragon
+                            In The Carthein River
+~
+S
+#1052
+Gravesite~
+You travel an east-west path through the graveyard, there is a tombstone here.
+Items: Tombstone.
+~
+10 0 1 0
+0 0 0 0
+-1 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1053
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1051
+E
+tombstone~
+
+                      Here Rests the Soul of Xiola Blue
+           A Level 18 Magic User and Member of Guardians of Justice
+      Died on the 27th Day of the Month of the Grand Struggle, Year 370
+                      By the Hand of a whitecloak leader
+                               In City of Tear
+~
+S
+#1053
+Eastern path in Graveyard~
+You travel the eastern path, which runs north and south through the graveyard,
+to the west is a small path lined with graves.
+~
+10 0 1 0
+0 0 0 0
+-1 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1041
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1069
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1052
+S
+#1054
+The Western Path~
+You travel the north-south running western path in the Graveyard.
+~
+10 0 1 0
+0 0 0 0
+-1 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1042
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1057
+S
+#1055
+The Crypt (West)~
+You are in a dark, sinister looking crypt, bones lie around, half buried in
+the dirt floor and stone walls, some small cubby holes, just large enough for
+a man to crawl into are on the sides of the room, there are skeletons in some
+of them. There is something scribbled on the wall here in what appears to be
+blood.
+Items: Writings
+~
+10 9 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1056
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1008
+E
+writings~
+
+                            GET OUT WHILE YOU CAN
+~
+S
+#1056
+The Crypt (East)~
+You are in a dark, sinister looking crypt, bones lie around, half buried in
+the dirt floor and stone walls, some small cubby holes, just large enough for
+a man to crawl into are on the sides of the room, there are skeletons in some
+of them. There is a large hole in the ground here, a faint glow can be seen
+down in the hole, there is an old wooden ladder leading down into the hole.
+~
+10 9 0 7
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1055
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 1300
+S
+#1057
+The Western Path~
+You travel the Western Path through the Graveyard, which runs north and south,
+to the east of here is a path between graves.
+~
+10 0 1 0
+0 0 0 0
+-1 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1054
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1058
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1071
+S
+#1058
+Gravesite~
+You travel an east-west path through the graveyard, there is a tombstone here.
+Items: Tombstone.
+~
+10 0 1 0
+0 0 0 0
+-1 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1059
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1057
+E
+tombstone~
+
+                 Here Rests the Soul of VooDoo the Magswoman
+                               A Level 12 Thief
+      Died on the 23rd Day of the Month of the Grand Struggle, Year 370
+                          By the Hand of The yochlol
+                                 In Drow City
+~
+S
+#1059
+Gravesite~
+You travel an east-west path through the graveyard, there is a tombstone here.
+Items: Tombstone.
+~
+10 0 1 0
+0 0 0 0
+-1 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1060
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1058
+E
+tombstone~
+
+                    Here Rests the Soul of Tino the Healer
+                              A Level 15 Cleric
+      Died on the 11th Day of the Month of the Grand Struggle, Year 370
+                        By the Hand of The drow master
+                                 In Drow City
+~
+S
+#1060
+Gravesite~
+You travel an east-west path through the graveyard, there is a tombstone here.
+Items: Tombstone.
+~
+10 0 1 0
+0 0 0 0
+-1 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1061
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1059
+E
+tombstone~
+
+                Here Rests the Soul of Dominion the Cut-Throat
+              A Level 20 Thief and Member of The Coven of Avalon
+      Died on the 27th Day of the Month of the Grand Struggle, Year 370
+                       By the Hand of the shadow rider
+                               In City of Tear
+~
+S
+#1061
+Gravesite~
+You travel an east-west path through the graveyard, there is a tombstone here.
+Items: Tombstone.
+~
+10 0 1 0
+0 0 0 0
+-1 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1062
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1060
+E
+tombstone~
+
+           Here Rests the Soul of Tangi the bewitching little thief
+                               A Level 17 Thief
+       Died on the 5th Day of the Month of Trellor's Founding, Year 370
+                        By the Hand of the town crier
+                             In City of Medievia
+~
+S
+#1062
+Gravesite~
+You travel an east-west path through the graveyard, there is a tombstone here.
+Items: Tombstone.
+~
+10 0 1 0
+0 0 0 0
+-1 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1007
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1061
+E
+tombstone~
+
+                Here Rests the Soul of Walbert the Dura Mater
+                              A Level 22 Cleric
+       Died on the 8th Day of the Month of the Grand Struggle, Year 370
+                         By the Hand of a mind flayer
+                                  In (null)
+~
+S
+#1063
+Gravesite~
+You travel an east-west path through the graveyard, there is a tombstone here.
+Items: Tombstone.
+~
+10 0 1 0
+0 0 0 0
+-1 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1064
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1007
+E
+tombstone~
+
+                    Here Rests the Soul of ShadowWolf ...
+                            A Level 22 Magic User
+      Died on the 19th Day of the Month of the Grand Struggle, Year 370
+                       By the Hand of The air elemental
+                             In City of Medievia
+~
+S
+#1064
+Gravesite~
+You travel an east-west path through the graveyard, there is a tombstone here.
+Items: Tombstone.
+~
+10 0 1 0
+0 0 0 0
+-1 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1065
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1063
+E
+tombstone~
+
+                    Here Rests the Soul of Wacko the MAD!
+      A Level 19 Warrior and Member of The Order of the Silver Crescent
+      Died on the 28th Day of the Month of the Grand Struggle, Year 370
+                          By the Hand of the warder
+                               In City of Tear
+~
+S
+#1065
+Gravesite~
+You travel an east-west path through the graveyard, there is a tombstone here.
+Items: Tombstone.
+~
+10 0 1 0
+0 0 0 0
+-1 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1066
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1064
+E
+tombstone~
+
+         Here Rests the Soul of Celes The Dark Jedi Knight of *A*O*D*
+               A Level 26 Cleric and Member of Allies of Death
+       Died on the 27th Day of the Month of Wondrous Creation, Year 370
+                        By the Hand of The Blackrider
+                                 In The Vale
+~
+S
+#1066
+Gravesite~
+You travel an east-west path through the graveyard, there is a tombstone here.
+Items: Tombstone.
+~
+10 0 1 0
+0 0 0 0
+-1 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1067
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1065
+E
+tombstone~
+
+                Here Rests the Soul of Flerll the Swordmaster
+                              A Level 15 Warrior
+      Died on the 28th Day of the Month of the Grand Struggle, Year 370
+                        By the Hand of The Elite Guard
+                               In The Githyanki
+~
+S
+#1067
+Gravesite~
+You travel an east-west path through the graveyard, there is a tombstone here.
+Items: Tombstone.
+~
+10 0 1 0
+0 0 0 0
+-1 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1068
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1066
+E
+tombstone~
+
+                Here Rests the Soul of Flerll the Swordmaster
+                              A Level 15 Warrior
+      Died on the 27th Day of the Month of the Grand Struggle, Year 370
+                            By the Hand of A Gish
+                               In The Githyanki
+~
+S
+#1068
+Eastern path in Graveyard~
+You travel the eastern path, which runs north and south through the graveyard.
+A path runs to the west of here, graves line the path.
+~
+10 0 2 0
+0 0 0 0
+-1 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1069
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1074
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1067
+S
+#1069
+Eastern path in Graveyard~
+You travel the north-south running eastern path through the graveyard.
+~
+10 0 1 0
+0 0 0 0
+-1 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1053
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1068
+S
+#1070
+The Gravedigger's House~
+This is the gravedigger's house, it is sparsely furnished, a small bed, lamp,
+and chair are all that you see here, aside from an assortment of shovels.
+~
+10 8 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+door~
+ ~
+ ~
+1 -1 1071
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 869
+S
+#1071
+The Western Path~
+You travel the Western Path through the graveyard, the path runs north and
+south, to your west is the Gravedigger's house.
+~
+10 0 1 0
+0 0 0 0
+-1 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1057
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1075
+D3
+ ~
+door~
+ ~
+ ~
+1 -1 1070
+S
+#1072
+The Mausoleum West Room~
+There are two basalt sarcophagi in this room. Both are intricately carved
+and have bas reliefs of their occupants on the lids. One seems to have
+been recently plundered by graverobbers, but the second is intact -- and
+immoveable. There are rusted and broken torch holders along both walls,
+but the torches have long since burned or rotted away.
+~
+10 9 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1073
+D5
+The sarcophagus slab looks heavy but moveable.
+Use your legs to avoid a hernia!
+~
+slab~
+$n lifts the sarcophagus on end and goes down~
+$n climbs down the ladder.~
+4 5126 846
+S
+#1073
+The Mausoleum East Room~
+Two large marble slabs sits in the middle of the room, with the names of the
+occupants carved in the tops. They are very old, and you can no longer make
+out the inscriptions. 4 torches line the walls, but they are very old as well,
+and have long since burned out. The room is made up of various types of marble
+and granite, it looks as if this is the final resting place of two very
+important people.
+~
+10 9 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1006
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1072
+S
+#1074
+Eastern path in Graveyard~
+You travel the north-south running eastern path through the graveyard.
+~
+10 0 1 0
+0 0 0 0
+-1 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1068
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1086
+S
+#1075
+The Western Path~
+You travel the Western Path through the Graveyard, which runs north and south,
+to the east of here is a path between graves.
+~
+10 0 1 0
+0 0 0 0
+-1 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1071
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1076
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1087
+S
+#1076
+Gravesite~
+You travel an east-west path through the graveyard, there is a tombstone here.
+Items: Tombstone.
+~
+10 0 1 0
+0 0 0 0
+-1 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1077
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1075
+E
+tombstone~
+
+                Here Rests the Soul of Dominion the Cut-Throat
+              A Level 20 Thief and Member of The Coven of Avalon
+      Died on the 29th Day of the Month of the Grand Struggle, Year 370
+                      By the Hand of a whitecloak leader
+                               In City of Tear
+~
+S
+#1077
+Gravesite~
+You travel an east-west path through the graveyard, there is a tombstone here.
+Items: Tombstone.
+~
+10 0 1 0
+0 0 0 0
+-1 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1078
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1076
+E
+tombstone~
+
+                Here Rests the Soul of Theo the Battle Priest
+       A Level 16 Cleric and Member of The Order of the Silver Crescent
+      Died on the 21st Day of the Month of the Grand Struggle, Year 370
+                           By the Hand of The lamia
+                            In The City of Thalos
+~
+S
+#1078
+Gravesite~
+You travel an east-west path through the graveyard, there is a tombstone here.
+Items: Tombstone.
+~
+10 0 1 0
+0 0 0 0
+-1 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1079
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1077
+E
+tombstone~
+
+                Here Rests the Soul of Stront still needs a DC
+                              A Level 18 Cleric
+      Died on the 22nd Day of the Month of the Grand Struggle, Year 370
+                        By the Hand of the town crier
+                             In City of Medievia
+~
+S
+#1079
+Gravesite~
+You travel an east-west path through the graveyard, there is a tombstone here.
+Items: Tombstone.
+~
+10 0 1 0
+0 0 0 0
+-1 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1080
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1078
+E
+tombstone~
+
+                    Here Rests the Soul of Wacko the MAD!
+      A Level 19 Warrior and Member of The Order of the Silver Crescent
+      Died on the 28th Day of the Month of the Grand Struggle, Year 370
+                          By the Hand of the warder
+                               In City of Tear
+~
+S
+#1080
+Gravesite~
+You travel an east-west path through the graveyard, there is a tombstone here.
+Items: Tombstone.
+~
+10 0 1 0
+0 0 0 0
+-1 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1005
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1079
+E
+tombstone~
+
+                 Here Rests the Soul of Vendetta the Chaplain
+             A Level 16 Cleric and Member of Guardians of Justice
+      Died on the 26th Day of the Month of the Grand Struggle, Year 370
+                            By the Hand of A Gish
+                               In The Githyanki
+~
+S
+#1081
+Gravesite~
+You travel an east-west path through the graveyard, there is a tombstone here.
+Items: Tombstone.
+~
+10 0 1 0
+0 0 0 0
+-1 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1082
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1005
+E
+tombstone~
+
+        Here Rests the Soul of Odb now has twice the cleaning power!!!
+             A Level 22 Warrior and Member of Dark Lords of Sith
+      Died on the 10th Day of the Month of Trellor's Founding, Year 370
+                      By the Hand of the mighty beholder
+                            In The City of Thalos
+~
+S
+#1082
+Gravesite~
+You travel an east-west path through the graveyard, there is a tombstone here.
+Items: Tombstone.
+~
+10 0 1 0
+0 0 0 0
+-1 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1083
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1081
+E
+tombstone~
+
+            Here Rests the Soul of Bloodlet Humble Servant of Myst
+                               A Level 20 Thief
+      Died on the 23rd Day of the Month of the Grand Struggle, Year 370
+                           By the Hand of The lamia
+                            In The City of Thalos
+~
+S
+#1083
+Gravesite~
+You travel an east-west path through the graveyard, there is a tombstone here.
+Items: Tombstone.
+~
+10 0 1 0
+0 0 0 0
+-1 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1084
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1082
+E
+tombstone~
+
+                   Here Rests the Soul of Risk -y business
+           A Level 19 Magic User and Member of The Coven of Avalon
+      Died on the 28th Day of the Month of the Grand Struggle, Year 370
+                         By the Hand of the Minotaur
+                               In The Labrynth
+~
+S
+#1084
+Gravesite~
+You travel an east-west path through the graveyard, there is a tombstone here.
+Items: Tombstone.
+~
+10 0 1 0
+0 0 0 0
+-1 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1085
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1083
+E
+tombstone~
+
+                   Here Rests the Soul of Risk the Warlock
+           A Level 19 Magic User and Member of The Coven of Avalon
+      Died on the 10th Day of the Month of Trellor's Founding, Year 370
+                          By the Hand of The citizen
+                              In DeRah Villadom
+~
+S
+#1085
+Gravesite~
+You travel an east-west path through the graveyard, there is a tombstone here.
+Items: Tombstone.
+~
+10 0 1 0
+0 0 0 0
+-1 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1086
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1084
+E
+tombstone~
+
+                    Here Rests the Soul of Tazz the Wizard
+                            A Level 18 Magic User
+      Died on the 20th Day of the Month of the Grand Struggle, Year 370
+                        By the Hand of the town crier
+                             In City of Medievia
+~
+S
+#1086
+Eastern path in Graveyard~
+You travel the eastern path, which runs north and south through the graveyard.
+A path runs to the west of here, graves line the path.
+~
+10 0 2 0
+0 0 0 0
+-1 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1074
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1088
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1085
+S
+#1087
+The Western Path~
+You travel the north-south running western path in the Graveyard.
+~
+10 0 1 0
+0 0 0 0
+-1 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1075
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1089
+S
+#1088
+Eastern path in Graveyard~
+You travel the north-south running eastern path through the graveyard.
+~
+10 0 1 0
+0 0 0 0
+-1 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1086
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1100
+S
+#1089
+The Western Path~
+You travel the Western Path through the Graveyard, which runs north and south,
+to the east of here is a path between graves.
+~
+10 0 1 0
+0 0 0 0
+-1 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1087
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1090
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1101
+S
+#1090
+Gravesite~
+You travel an east-west path through the graveyard, there is a tombstone here.
+Items: Tombstone.
+~
+10 0 1 0
+0 0 0 0
+-1 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1091
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1089
+E
+tombstone~
+
+                Here Rests the Soul of Flerll the Swordmaster
+                              A Level 15 Warrior
+      Died on the 30th Day of the Month of the Grand Struggle, Year 370
+                       By the Hand of the shadow rider
+                               In City of Tear
+~
+S
+#1091
+Gravesite~
+You travel an east-west path through the graveyard, there is a tombstone here.
+Items: Tombstone.
+~
+10 0 1 0
+0 0 0 0
+-1 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1092
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1090
+E
+tombstone~
+
+               Here Rests the Soul of Wynter the Grand Packrat
+           A Level 24 Warrior and Member of Avatars and Elementals
+      Died on the 25th Day of the Month of the Grand Struggle, Year 370
+                        By the Hand of A cave painting
+                                  In (null)
+~
+S
+#1092
+Gravesite~
+You travel an east-west path through the graveyard, there is a tombstone here.
+Items: Tombstone.
+~
+10 0 1 0
+0 0 0 0
+-1 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1093
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1091
+E
+tombstone~
+
+                 Here Rests the Soul of Xia the Highwaywoman
+                               A Level 13 Thief
+         Died on the 35th Day of the Month of Winter Night, Year 370
+                      By the Hand of a darkfriend leader
+                               In City of Tear
+~
+S
+#1093
+Gravesite~
+You travel an east-west path through the graveyard, there is a tombstone here.
+Items: Tombstone.
+~
+10 0 1 0
+0 0 0 0
+-1 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1094
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1092
+E
+tombstone~
+
+                  Here Rests the Soul of Slayer the Champion
+                              A Level 17 Warrior
+      Died on the 12th Day of the Month of the Grand Struggle, Year 370
+                      By the Hand of A young, red dragon
+                            In The Carthein River
+~
+S
+#1094
+Gravesite~
+You travel an east-west path through the graveyard, there is a tombstone here.
+Items: Tombstone.
+~
+10 0 1 0
+0 0 0 0
+-1 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1003
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1093
+E
+tombstone~
+
+                 Here Rests the Soul of Darkblade the Chaotic
+                            A Level 17 Magic User
+      Died on the 22nd Day of the Month of the Grand Struggle, Year 370
+                         By the Hand of A Dark Druid
+                               In The Githyanki
+~
+S
+#1095
+Gravesite~
+You travel an east-west path through the graveyard, there is a tombstone here.
+Items: Tombstone.
+~
+10 0 1 0
+0 0 0 0
+-1 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1096
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1003
+E
+tombstone~
+
+                   Here Rests the Soul of Risk -y business
+           A Level 19 Magic User and Member of The Coven of Avalon
+      Died on the 28th Day of the Month of the Grand Struggle, Year 370
+                           By the Hand of A bandit
+                               In The Labrynth
+~
+S
+#1096
+Gravesite~
+You travel an east-west path through the graveyard, there is a tombstone here.
+Items: Tombstone.
+~
+10 0 1 0
+0 0 0 0
+-1 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1097
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1095
+E
+tombstone~
+
+                    Here Rests the Soul of Wacko the MAD!
+      A Level 19 Warrior and Member of The Order of the Silver Crescent
+      Died on the 24th Day of the Month of the Grand Struggle, Year 370
+                      By the Hand of a whitecloak leader
+                               In City of Tear
+~
+S
+#1097
+Gravesite~
+You travel an east-west path through the graveyard, there is a tombstone here.
+Items: Tombstone.
+~
+10 0 1 0
+0 0 0 0
+-1 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1098
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1096
+E
+tombstone~
+
+                Here Rests the Soul of Omnedon the Lieutenant
+                              A Level 16 Warrior
+      Died on the 12th Day of the Month of Trellor's Founding, Year 370
+                        By the Hand of the town crier
+                             In City of Medievia
+~
+E
+tombstone~
+
+                    Here Rests the Soul of ShadowWolf ...
+                            A Level 22 Magic User
+      Died on the 19th Day of the Month of the Grand Struggle, Year 370
+                       By the Hand of The air elemental
+                             In City of Medievia
+~
+S
+#1098
+Gravesite~
+You travel an east-west path through the graveyard, there is a tombstone here.
+Items: Tombstone.
+~
+10 0 1 0
+0 0 0 0
+-1 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1099
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1097
+E
+tombstone~
+
+            Here Rests the Soul of Arbuckle the incredible bastard
+                              A Level 19 Warrior
+      Died on the 16th Day of the Month of the Grand Struggle, Year 370
+                      By the Hand of a whitecloak leader
+                               In City of Tear
+~
+S
+#1099
+Gravesite~
+You travel an east-west path through the graveyard, there is a tombstone here.
+Items: Tombstone.
+~
+10 0 1 0
+0 0 0 0
+-1 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1100
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1098
+E
+tombstone~
+
+                 Here Rests the Soul of Ryo AOD thief Captain
+                A Level 28 Thief and Member of Allies of Death
+       Died on the 27th Day of the Month of Wondrous Creation, Year 370
+                        By the Hand of The Blackrider
+                                 In The Vale
+~
+S
+#1100
+Eastern path in Graveyard~
+You travel the eastern path, which runs north and south through the graveyard.
+A path runs to the west of here, graves line the path.
+~
+10 0 2 0
+0 0 0 0
+-1 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1088
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1103
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1099
+E
+tombstone~
+ ~
+S
+#1101
+The Western Path~
+You travel the north-south running western path in the Graveyard.
+~
+10 0 1 0
+0 0 0 0
+-1 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1089
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1104
+S
+#1102
+The Mortuary~
+There are several stone slabs in this room, two of which appear to have
+corpses on them covered by white linen. The walls are made of granite, as is
+the floor and ceiling.
+~
+10 8 1 7
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1002
+S
+#1103
+Eastern path in Graveyard~
+You travel the north-south running eastern path through the graveyard.
+~
+10 0 1 0
+0 0 0 0
+-1 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1100
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1115
+S
+#1104
+A turn in the path~
+You stand at the Southwestern end of the Graveyard, a path lies to the east of
+here, and another to the north. Directly to the south of you is the
+Caretaker's house.
+~
+10 0 1 0
+0 0 0 0
+-1 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1101
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1105
+D2
+You see a wooden door with the upper half being a frosted glass window. Letters
+on the glass read "Caretaker". This MUST be the place!
+~
+door~
+$n goes into the caretaker's house.~
+$n has entered from the graveyard.~
+1 3416 1116
+S
+#1105
+Gravesite~
+You travel an east-west path through the graveyard, there is a tombstone here.
+Items: Tombstone.
+~
+10 0 1 0
+0 0 0 0
+-1 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1106
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1104
+E
+tombstone~
+
+          Here Rests the Soul of Alabaster the 35mm Autofire Cannon
+                            A Level 15 Magic User
+      Died on the 12th Day of the Month of the Grand Struggle, Year 370
+                           By the Hand of Mahn-Tor
+                           In The Keep of Mahn-Tor
+~
+S
+#1106
+Gravesite~
+You travel an east-west path through the graveyard, there is a tombstone here.
+Items: Tombstone.
+~
+10 0 1 0
+0 0 0 0
+-1 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1107
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1105
+E
+tombstone~
+
+           Here Rests the Soul of DarkFox the Avatar of an Immortal
+                              A Level 13 Cleric
+      Died on the 18th Day of the Month of the Grand Struggle, Year 370
+                         By the Hand of An evil tree
+                         In The Temple of Bloodstone
+~
+S
+#1107
+Gravesite~
+You travel an east-west path through the graveyard, there is a tombstone here.
+Items: Tombstone.
+~
+10 0 1 0
+0 0 0 0
+-1 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1108
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1106
+E
+tombstone~
+
+         Here Rests the Soul of Anduril the Guardian of the DarkWoods
+         A Level 29 Magic User and Member of Legion of Shadow Knights
+      Died on the 29th Day of the Month of the Grand Struggle, Year 370
+                       By the Hand of A giant Centipede
+                                  In (null)
+~
+S
+#1108
+Gravesite~
+You travel an east-west path through the graveyard, there is a tombstone here.
+Items: Tombstone.
+~
+10 0 1 0
+0 0 0 0
+-1 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1109
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1107
+E
+tombstone~
+
+                 Here Rests the Soul of Darkblade the Chaotic
+                            A Level 17 Magic User
+      Died on the 30th Day of the Month of the Grand Struggle, Year 370
+                           By the Hand of A templar
+                               In The Graveyard
+~
+S
+#1109
+Gravesite~
+You travel an east-west path through the graveyard, there is a tombstone here.
+Items: Tombstone.
+~
+10 0 1 0
+0 0 0 0
+-1 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1001
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1108
+E
+tombstone~
+
+                   Here Rests the Soul of Praxeus No Title
+     A Level 20 Magic User and Member of Soldiers of the Shadow of Death
+       Died on the 27th Day of the Month of Wondrous Creation, Year 370
+                     By the Hand of a Knight of the Sword
+                              In Castle Medievia
+~
+S
+#1110
+Gravesite~
+You travel an east-west path through the graveyard, there is a tombstone here.
+Items: Tombstone.
+~
+10 0 1 0
+0 0 0 0
+-1 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1111
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1001
+E
+tombstone~
+
+                   Here Rests the Soul of Thorir the Curate
+                              A Level 13 Cleric
+       Died on the 1st Day of the Month of Trellor's Founding, Year 370
+                       By the Hand of The Matron Mother
+                                 In Drow City
+~
+S
+#1111
+Gravesite~
+You travel an east-west path through the graveyard, there is a tombstone here.
+Items: Tombstone.
+~
+10 0 1 0
+0 0 0 0
+-1 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1112
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1110
+E
+tombstone~
+
+          Here Rests the Soul of SIDEWAYS the Avatar of a Supremity
+               A Level 28 Cleric and Member of Allies of Death
+       Died on the 27th Day of the Month of Wondrous Creation, Year 370
+                        By the Hand of The Blackrider
+                                 In The Vale
+~
+S
+#1112
+Gravesite~
+You travel an east-west path through the graveyard, there is a tombstone here.
+Items: Tombstone.
+~
+10 0 1 0
+0 0 0 0
+-1 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1113
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1111
+E
+tombstone~
+
+                Here Rests the Soul of DAWG EATS MEATY BONES!
+                              A Level 18 Warrior
+      Died on the 10th Day of the Month of Trellor's Founding, Year 370
+                        By the Hand of the Necromancer
+                            In The City of Thalos
+~
+S
+#1113
+Gravesite~
+You travel an east-west path through the graveyard, there is a tombstone here.
+Items: Tombstone.
+~
+10 0 1 0
+0 0 0 0
+-1 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1114
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1112
+E
+tombstone~
+
+          Here Rests the Soul of Caevalin the Blood Mage of Drathar
+                   A Level 25 Magic User and Member of Fate
+       Died on the 1st Day of the Month of the Grand Struggle, Year 370
+                        By the Hand of The billie goat
+                             In Spirited Heights
+~
+S
+#1114
+Gravesite~
+You stand on an east-west running path in the graveyard, there is a tombstone
+here.
+Items: Tombstone.
+~
+10 0 1 0
+0 0 0 0
+-1 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1115
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1113
+E
+tombstone~
+
+            Here Rests the Soul of Weaponmaster the Dragon Charmer
+           A Level 28 Magic User and Member of Guardians of Justice
+      Died on the 29th Day of the Month of the Grand Struggle, Year 370
+                          By the Hand of The hertasi
+                                 In The Vale
+~
+S
+#1115
+A bend in the path~
+You stand at the southeastern corner of the graveyard, a path runs west from
+here, another runs north. Graves line the path to the west of you.
+~
+10 0 1 0
+0 0 0 0
+-1 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1103
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1114
+S
+#1116
+The Caretaker's House~
+This room in the Caretaker's House is obviously his office. There is a large
+roll-top desk to the right and two hurricane-style oil lamps rest on its top.
+There are chairs for patrons of the cemetary in the center of the room, and
+a small heating stove is in the corner.
+~
+10 8 0 7
+0 0 0 0
+0 0 0
+D0
+There is a wooden door with a frosted glass window for an upper-half.  Letters
+painted on the glass are backwards, but probably read Caretaker.
+~
+door~
+$n heads out into the graveyard.~
+$n has left the caretaker's house.~
+1 3416 1104
+D2
+You see a door made of solid oak. It seems VERY solid, indeed.
+~
+door oak~
+$n leaves south into the main house.~
+$n has entered from the Office.~
+1 5126 837
+S
+#1117
+The Cathedral Foyer~
+As you cross the threshold, there is no doubt that you have entered a Holy
+Place. There is a large buttressed archway to the north, from which the
+angelic voices of a choir drift to your ears. To the east and west, wide
+stone steps lead up into candlelit dimness.
+~
+10 12 0 7
+0 0 1 0
+0 0 0
+D0
+There is an archway here of solidly constructed stonemasonry.
+~
+ ~
+$n has crossed into the Holy area.~
+$n has entered the Holy area from the Foyer.~
+1 -1 1118
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3522
+D2
+The arched, double doors of the Cathedral's main entrance are here.
+~
+door~
+ ~
+ ~
+1 5126 1025
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3517
+S
+#1118
+The Holy Church~
+You stand in the center aisle of a Grand Cathedral which leads to the Altar
+to the north. The ceiling above is a magnificent barrel vault of impeccable
+stone work. Pews of oiled and polished wood line the aisle on both sides all
+the way to the altar. There is room here for hundreds of worshippers.
+~
+10 12 0 7
+0 0 1 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 898
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1117
+S
+#1131
+The West End of the North Gallery~
+This is the western end of the chamber musicians gallery. It is reserved
+for guest musicians that accompany the organist. There are cushioned
+chairs here and music stands for the performers' convenience.
+    There is a small spiral staircase going down.
+~
+10 8 0 7
+0 0 0 0
+0 0 0
+D1
+You see the grand-daddy of all pipe organs to the east.
+~
+ ~
+ ~
+ ~
+1 -1 886
+D5
+There is a small, spiral staircase here.
+~
+ ~
+$n has gone down to the Choir Chamber.~
+$n has come down the spiral stairs.~
+1 -1 974
+S
+#1198
+The Sitting Room~
+This is a simple and humble sitting room where the priest can entertain
+guests or parishoners that have specific problems or requests. The chairs
+are plain but comfortable, and there is a simple silver tea set for the
+serving of the priests favorite warm brew.
+    Not much else is here, except a kitchen to the west and a narrow flight
+of stairs to the north that go up.
+~
+10 8 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3420
+D1
+A strong oak door that leads to the Church.
+~
+door~
+$n has left the house~
+$n has come into the church from the Prist's house.~
+2 -1 983
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3360
+S
+#1230
+An Easterly Aisle~
+ ~
+10 8 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1231
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 898
+S
+#1231
+Before the Doors to the Rectory~
+ ~
+10 8 0 7
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1230
+S
+#1232
+A Westerly Aisle~
+ ~
+10 8 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 898
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1233
+S
+#1233
+Before the Confessional~
+ ~
+10 8 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3433
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1232
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2335
+S
+#1713
+The Wine Cellar~
+ ~
+10 520 0 7
+0 0 0 0
+0 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 6038
+S
+#1729
+The Necromancers' Sanctum Mortis~
+   This is the Sanctum Mortis of the Sorcerers of Undeath. Rancid fumes
+fill the air from unholy incenses, obscuring drawn and carved sigils and
+circles of power on the floor, ceiling and walls. Strange decanters of
+unhealthy-looking stuff and scrolls of all sorts cover the work tables and
+shelves. Along the east wall is a rack of hundreds of small, glowing blue
+bottles. Tiny, agonized apparitional faces peer at you you through the
+crystal walls of those bottles, lips moving silently. They seem to be
+asking -- pleading for your help to free them. Do you dare?
+~
+10 12 0 7
+0 0 0 0
+0 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 616
+S
+#2063
+Knight-Captain's Quarters~
+These are the personal quarters of the Knight-Captain of the Order of St.
+George. This righteous warrior commands the knights that protect the Church
+and the neighboring countryside. His military bearing and austere nature are
+reflected in the sparse, utilitarian furnishings found within this room. A
+bed no wider than a field cot and hardly more comfortable is in the far corner.
+A desk which can be folded and transported easily serves the Captain for the
+paperwork he must complete. There is also a campaign chair and a sturdy chest
+at the side of the desk. The only other furniture is the armor stand in the
+near corner that normally holds his suit of immaculate half-plate mail.
+~
+10 520 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6109
+S
+#2334
+Side Aisle Under the West Gallery~
+At this end of the west-side aisle, you can see the door to the priest's
+quarters just to the north. South of you leads toward the confessional.
+~
+10 8 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 983
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3432
+S
+#2335
+The Confessional~
+This is the small clost-like Confessional chamber where the priest
+listens to the repentance of the truly sinful and the guilty of heart.
+There is a small wooden bench for one here and an ornately perforated
+screen separates the priest from you.
+    You have the feeling that no matter what you have or haven't done,
+the priest will have you doing a minimum of ten 'Hail, Mary's!
+~
+10 8 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1233
+S
+#2987
+A Secret Cleft~
+There is a small crack in the corner of this wall that leads north. It is
+just wide enough for a man in a suit of armor to pass through sideways. This
+would explain the deeper shadows here in such a brightly lit area.
+~
+10 12 0 7
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3693
+S
+#3360
+The Priest's Kitchen~
+A solid chopping block/cooking table dominates the center of the room. A
+counter runs the length of the west wall, where there is a window overlooking
+the priest's vegetable and herb garden. Cabinets to each side of the window
+and along the north wall are well stocked with spices and preserved food. A
+set of copper cookpots hangs from hooks above the board, and sturdy stoneware
+dishes fill one of the cabinets as well. It's quite a homey place, actually.
+    There is a door to the south.
+~
+10 8 0 7
+0 0 0 0
+0 0 10
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1198
+D2
+There is a door here leading to the garden path.
+~
+door~
+$n has gone into the garden.~
+$n has stepped onto the garden path.~
+1 -1 3450
+S
+#3420
+Base of a Narrow Stairway~
+A narrow flight of stairs is here, going up to the priest's bedroom. The
+stairs are plain wood worn smooth from years of use.
+~
+10 8 0 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1198
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 3421
+S
+#3421
+Door to the Priest's Bedroom~
+This is a stair-landing at the entrance to the priest's bedchamber. To the
+west you can see the door, which is made of wood with polished brass hard-
+ware. The only other exit is back down the stairs you just came up.
+~
+10 8 0 7
+0 0 0 0
+0 0 0
+D3
+A solid wood door with bright brass hinges and knob.
+~
+door~
+$n has come through the door to the west.~
+$n has entered the priest's bedroom.~
+1 -1 3455
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 3420
+S
+#3432
+Side Aisle Under the West Gallery~
+ ~
+10 8 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2334
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3433
+S
+#3433
+Side Aisle Under the West Gallery~
+ ~
+10 8 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3432
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1233
+S
+#3434
+The Holy Church~
+The center aisle continues north from here. The aisle is wide to accomodate
+processionals and acts as a functionary path for holiday and celebrational
+rituals. Polished pews are to both the left and right.
+ ~
+10 12 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 899
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 898
+S
+#3450
+The Garden Path~
+This is a short flagstone path that leads west into the priest's garden. It
+is lined and over-hung with a tunnel trellis supporting well manicured
+trailing bushes of pink, peach and red hued tea roses. The air is fragrant
+with their delicate bouquet.
+~
+10 8 0 7
+0 0 0 0
+0 0 10
+D0
+ ~
+door~
+ ~
+ ~
+1 -1 3360
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3451
+S
+#3451
+The Priest's Garden~
+All types of vegetables are planted here! Squashes, melons celery and lettuce
+are visible. The leafy tops of carrots, beets, potatoes and turnips poke
+through the soil, and cauliflower and broccoli are scattered throughout the
+plantings. The priest has SOME mercy, however. He has refused to plant any
+brussel sprouts, even after much chastising from the nuns. His final remark
+was "No child of God should suffer so much as to force those smelly sprouts
+upon them!" The nuns have since let the matter lie.
+~
+10 8 0 7
+0 0 0 0
+0 0 10
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3452
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3450
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3453
+S
+#3452
+The Priest's Garden~
+This space of the priest's garden contains his tall vegetable plants. Things
+like corn, pole-beans, trellis tomatoes and sunflowers grow here. They seem
+to do quite well in the rich soil and sunny space provided for them.
+~
+10 8 0 7
+0 0 0 0
+0 0 10
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3451
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3454
+S
+#3453
+The Priest's Garden~
+This small plot is devoted entirely to cooking herbs. Sage, thyme, parsley,
+oregano, mustard and basil -- to name just a few -- grow here in plenty. This
+could be the reason the smells wafting from the priest's small kitchen are so
+enticing!
+~
+10 8 0 7
+0 0 0 0
+0 0 10
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3454
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3451
+S
+#3454
+The Priest's Garden~
+This section of the garden is planted with healing and medicinal herbs. It
+is a very special part of the garden, and produces the components for some of
+the more important healing remedies and potions that the brothers at the
+abbey concoct for wayward adventurers. Try not to trample them over, please!
+~
+10 8 0 7
+0 0 0 0
+0 0 10
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3452
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3453
+S
+#3455
+The Priest's Bedchamber~
+There is a simple, single-mattressed bed in the northwest corner with a
+nightstand by its side. The nightstand has a single candlestick on its top
+next to a copy of the Holy Scriptures. There is also a simple wooden chest-
+of-drawers against the east wall that must hold the priest's vestments and
+travelling clothes.
+    A crucifix hangs above the headboard of the bed, guarding the sleep of
+the kindly priest.
+~
+10 8 0 7
+0 0 0 0
+0 0 0
+D1
+The priest's bedroom door.
+~
+door~
+$n has headed toward the stairs.~
+$n has stepped onto the landing from the bedroom.~
+1 -1 3421
+S
+#3517
+The Stairs to the West Gallery~
+The stairs are fashioned of grey limestone and are wide enough for four people
+to walk abreast.
+~
+10 8 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1117
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 3518
+S
+#3518
+The Stairs to the West Gallery~
+The stairs continue up from this small landing and lead not only to the West
+Gallery, but also to the Bell Tower.
+~
+10 8 0 7
+0 0 0 0
+2 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3519
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 3517
+S
+#3519
+The Stairs to the West Gallery~
+This is a three way juncture in the stairs. You can go back east and down to
+the foyer, north up a small ramp to the west gallery or up into the old bell-
+tower. Those belltower stairs don't look to sturdy, however!
+~
+10 8 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3521
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3518
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 3520
+S
+#3520
+Stairs to the Belltower~
+A small, rickety flight of steps leads up to the belltower from here.
+~
+10 8 0 7
+0 0 0 0
+2 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 5696
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 3519
+S
+#3521
+The West Gallery~
+The Gallery has three rows of pews which run the entire length of the balcony
+to the north wall. There are large rosetta windows set with pale stained glass
+depicting various tales from the Bible. The glass is pale to better catch the
+last rays of the setting sun and allow the most light possible.
+The gallery continues to the north.
+~
+10 8 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3684
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3519
+S
+#3522
+The Stairs to the East Gallery~
+This set of wide steps leads to the East Gallery. They, too, can hold
+four people abreast. The steps are slightly worn in the center from many
+centuries of use.
+~
+10 8 0 7
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1117
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 3523
+S
+#3523
+The Stairs to the East Gallery~
+From here the steps continue east and up. It's amazing how big this place
+really is!
+~
+10 8 0 7
+0 0 0 0
+2 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3524
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 3522
+S
+#3524
+The Stairs to the East Gallery~
+Up from here is the landing to the East Gallery. The landing glows with
+light escaping from the gallery itself. There must be more of those huge rose
+windows up there.
+~
+10 8 0 7
+0 0 0 0
+2 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3523
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 3525
+S
+#3525
+The Stairs to the East Gallery~
+From this landing the East Gallery extends to the north all the way to the
+cross aisles in front of the altar. It is indeed brightly lit from the
+windows in the wall.
+~
+10 8 0 7
+0 0 0 0
+10 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3526
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 3524
+S
+#3526
+The East Gallery~
+Tall stained glass windows illumine the gallery from here to the rose window.
+Deep rich colors in the glass catch the rays of the rising sun and seem to
+warm the place simply with light. Three rows of pews line the gallery to your
+right and run its entire length.
+~
+10 8 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3689
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3525
+S
+#3684
+The West Gallery~
+As you near the center of the Gallery, you notice the spectacular work-
+manship of the stained glass windows. They seem to actually catch the light
+and hold it once it hits the glass. Perhaps it is some trick of the eye, or
+perhaps a divine intervention of some sort. It does make you feel safer to be
+in the church, however.
+~
+10 8 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3685
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3521
+S
+#3685
+The West Gallery and South End of the Rose Window~
+This is the beginning of the large, west rose window. It towers above you in
+a pale glow of wondrous craftsmanship. Pale hues of blue, gold, green and rose
+tint the floor and spill over into the church itself. There is a commanding
+view of the church below from here. It is definitely a long drop down!
+~
+10 8 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3686
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3684
+S
+#3686
+The West Gallery and the North End of the Rose Window~
+You have come to the far edge of the window. It truly is amazing how
+expansive all that glass really is! It must have cost a fortune as well, for
+the labor involved must have been extreme. It is hard to take your eyes from
+the images depicted there, but the gallery beckons still.
+The gallery continues north.
+~
+10 8 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3687
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3685
+S
+#3687
+The West Gallery~
+You are almost at the end of the gallery. The pews continue almost to the wall
+and the side windows of the gallery still sparkle with light. In one of the
+windows ahead, there seems to be a loose frame. It is hard to believe
+that there could be a flaw in this work of art.
+~
+10 8 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3688
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3686
+S
+#3688
+The West Gallery~
+You have reached the end of the gallery. There is indeed a loose frame in
+the stained glass window above you. Perhaps if you stretch, you could push it
+back in place. But be careful! It may come out completely if you tug or
+push to hard!
+~
+10 8 0 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3687
+S
+#3689
+The East Gallery~
+The warm, bright light spills from here to the church below. Both of these
+galleries present an excellent view of the church proper from above. Strong
+stone buttresses above your head hold the barrel vaulted ceiling aloft and
+gilded cherubim and seraphim adorn the impressive stonework.
+~
+10 8 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3690
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3526
+S
+#3690
+The East Gallery and South End of the Rose Window~
+The eastern rose window begins at this part of the gallery. Filling the
+east wall here and to the north, this exquisite giant of the stained glass
+artisan seems to burst with light. Pageantic images of faith create an aura
+of awe as you look up. You realize that perhaps more than one lifetime was
+spent in this window's creation.
+~
+10 8 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3691
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3689
+S
+#3691
+The East Gallery and the North End of the Rose Window~
+As you continue to gaze at the rose window, you thank the architects of this
+place for putting high banisters upon the gallery! The power of the light is
+almost enough to physically push at your being. You lean against the sturdy
+railing and take a minute to catch your breath. It would have been a long
+drop down!
+~
+10 8 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3692
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3690
+S
+#3692
+The East Gallery~
+As you near the end of the gallery, you realize the pews don't quite reach
+the north wall. There seems to be a gap between the pew ends and the wall that
+leads to the north-east corner. Nothing seems to be there, but it might be
+worth a peek.
+~
+10 8 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3693
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3691
+S
+#3693
+The North End of the East Gallery~
+There is indeed a gap here barely wide enough for you to squeeze past. There
+still doesn't seem to be anything in that corner, although the shadows there
+are a little deeper.
+~
+10 8 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2987
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3692
+S
+#4484
+Quarters of the Knight Sergeants-of-Arms of St.George~
+This is the quarters of the true taskmasters of the Order. Two sergeants,
+each in charge of a squad of twenty Knights, live, plan and sleep in these
+quarters. The smell of clove oil is strong here, as the Sergeants make it a
+habit of regularly polishing their arms and armor. As strict as they are
+with their men, these hard soldiers are twice as hard on themselves. No
+normal person would want to cause them grief. They are too dangerous!
+~
+10 520 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6110
+S
+#5696
+Stairs to the Belltower~
+The flimsy steps continue up from here. They seem sturdy enough, but
+their constant creaking has got you a bit nervous. The landing above looks
+well supported, and if you can get through the trapdoor, you should be fine.
+~
+10 8 0 7
+0 0 0 0
+2 0 0
+D4
+A wooden trapdoor is just above your head.
+~
+door trapdoor~
+$n scrambles through the trapdoor and onto the landing for safety!~
+$n has survived the flimsy stairway and now stands next to you.~
+1 -1 5697
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 3520
+S
+#5697
+The Bell Chamber~
+This is where the bells of the Cathedral are housed. They are rung for
+special holidays, Saturdays at noon and Sunday mornings to announce church
+services. The bells themselves are huge and made of bronze. It must take a
+good deal of strength to ring them by their bell-cords. There is usually a
+hunchback here who acts as caretaker of the bells and the tower.
+~
+10 12 0 7
+0 0 0 0
+0 0 0
+D5
+There is a trapdoor here leading to that rickety stair.
+~
+trapdoor door~
+$n leaves, taking their life into their own hands on those weak stairs.~
+$n has decided to brave this stair down.~
+1 -1 5696
+S
+#6006
+The Kitchens~
+There are two sinks, a water pump and a long counter with a drying rack here.
+There is also a pan holder hanging from the ceiling and a cupboards for cups
+and dishes along the walls. This is definitely the dishwashers area. You may
+want to consider skee-daddling before the Cook recruits you!
+~
+10 520 0 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6008
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6007
+S
+#6007
+The Bakery~
+This is the bakery for the Cathedral. All manner of pastries, pies, cakes and
+Holy baking can be done here. The bread for the sacrement is baked in these
+ovens after a blessing from the priest. The smell of fresh-baked bread
+permeates this entire area.
+~
+10 520 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6006
+S
+#6008
+The Kitchens~
+This room serves as the prep area for all the meals. Meat is cut, vegetables
+are sliced and diced and everything that needs mixing gets mixed here. Bowls
+line the shelves and cutlery hangs from pegs on a board above the counter. To
+the west is the large room containing the stoves, fireplace and spits used to
+cook the mutton, beef or chicken (fish on Friday) and the side dishes that
+make up the daily fare. If it seems over-much for a small amount of people,
+rest assured that much food is taken to the starving and homeless in the nearby
+villages.
+~
+10 520 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6006
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6115
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6009
+S
+#6009
+Kitchen: Stoves and Fireplace~
+This room houses 2 large pot-bellied wood stoves and a fireplace that is 7
+feet wide by 5 feet tall. The heat here is somewhat oppressive, but the many
+luscious smells coming from the cooking food makes you not want to leave. The
+fireplace has a large spit for roasting large meat portions and also small
+bread baking holes to either side of the fire. These holes don't get used much
+since the addition of the bakery down the hall. Don't think of snitching any
+bites, either. The Cook has a wicked rolling pin and a strong arm!
+~
+10 520 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6008
+E
+stove stoves~
+These two stoves are made of cast iron and look very sturdy. Small stacks of
+wood sit by each as fuel. There is also a large ash can and broom-and-shovel
+set for both of the stoves. The can is empty, so the scullery maid must have
+just emptied it.
+~
+S
+#6038
+Entrance to the Wine Cellar~
+There is a small hand operated elevator going down to the cellar. The monks
+from the abbey find it much easier than stairs for moving the heavy casks
+of wine and potables that they make or have acquired.
+~
+10 520 0 7
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6106
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 1713
+S
+#6040
+The Cook's Quarters~
+This is a single but large room where the cook resides when she isn't, well,
+cooking! There is a large poster bed centered against the far wall with a
+nightstand by it's side. There is a chest of drawers against the north wall
+and a small cedar chest at the foot of the bed. A desk immediately to your
+right is surmounted by a bookshelf filled with cookbooks from all over the
+world. The desk itself is piled neatly with assorted hand-written recipes of
+the cook's own making.
+~
+10 520 0 7
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6116
+S
+#6041
+The Cannery~
+This is the cannery where all manner of foods are dried or preserved for
+future use. Shelves filled with jellies, jams, relishes, vegetables and fruit
+line the walls. In the center of the room is a large table with a sink and
+water pump. A stove sits in the corner which is used to heat water for the
+canning process.
+~
+10 520 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6118
+S
+#6042
+The Larder~
+This room is cool, dry and dark. Sacks of flour, oatmeal, cornmeal and sugar
+are stacked neatly along the floor. Shelves of dried fruits and vegetables
+line the north wall and a rack of salted meats is along the south wall. In the
+southeast corner is a small table with a cabinet of exotic wood resting on its
+surface.
+~
+10 521 0 7
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6117
+E
+cabinet~
+This is a cabinet made of fine rosewood. It has two doors and smells wonderful!
+As you open the doors, you see four small shelves containing tiny bottles of
+rare and exotic spices. The aromas that waft from the wood after years of
+holding the flavorings is almost intoxicating!
+~
+S
+#6105
+The Service Hall~
+Continuing down this hallway you will find the Kitchens, the Barracks of the
+Knights of the Holy Order of St. George and finally the Abbey. You can smell
+food and the tang of clove oil from the Knight's armor and weapons. Oil lamps
+light the hallway even though there are windows. Legend has it that for as
+long as the lamps are lit, no attack from demonspawn or agent of darkness
+can occur.
+~
+10 520 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6106
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 985
+S
+#6106
+The Service Hall~
+The service hall continues to the east. Just to the north are the Kitchens
+meals for the priest, knights and monks are prepared. The nuns,
+secloistered in their own house, prepare their own meals. To the south are
+storerooms for food and sundries.
+~
+10 520 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6115
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6038
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6116
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6105
+S
+#6107
+The Service Hall~
+The hall continues east and makes its way to the barracks of the Order of
+St. George and the Abbey. The passage to the Abbey is just ahead and to the
+south.
+~
+10 520 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6108
+S
+#6108
+The Service Hall~
+The Service Hall continues east, with the passage to the Abbey directly
+south of here. If you want the monks, go south. If you need the Knights of
+the Order of St. George, continue east.
+~
+10 520 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6109
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6107
+S
+#6109
+The Service Hall~
+ ~
+10 520 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2063
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6110
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6108
+S
+#6110
+The Service Hall~
+ ~
+10 520 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4484
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6109
+S
+#6115
+The Kitchens~
+This is the service part of the kitchen. Food to be served is placed on long
+tables where the kitchen lads and scullery maid can move from here to the
+various quarters with ease. It is also very visible from all but the bakery,
+so the cook can whack any food snitches. Come to think of it, you did see a
+few bruises on the knuckles of the priest. Maybe he DIDN'T get them boxing!
+~
+10 520 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6008
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6106
+S
+#6116
+The Storage Hall~
+This hall leads to the larders for the Kitchens. The Cook's quarters are to
+the east. This way, she can hear anyone sneaking food from the larders OR the
+Kitchens! She also likes her privacy, so knocking would be the polite thing
+to do.
+~
+10 520 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6106
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6040
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6117
+S
+#6117
+The Storage Hall~
+To the east is the larder and a little ways to the south is the cannery.
+~
+10 520 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6116
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6042
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6118
+S
+#6118
+The Storage Hall~
+Just to the west is the cannery where food preserving takes place. You can
+go in there, or head back north to the service hall.
+~
+10 520 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6117
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6041
+S
+#19999
+$~

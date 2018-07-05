@@ -1,0 +1,5446 @@
+#187
+A circular staircase~
+You stand at the top of the bone staircase which leads down. An arched
+doorway leads north to a small landing. Globes of light hang in mid air to
+illuminate this room.
+~
+57 556 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 488
+D5
+ ~
+ ~
+$n begins walking down the bone staircase.~
+$n desends into the room from the bone staircase.~
+1 -1 3705
+S
+#488
+A small landing~
+This is a small intersection off of the staircase.  A hallway begins to the
+west, the staircase is to the south and the roof has caved in to the east,
+blocking your way.  Small globes of light hang in mid air to illuminate this
+room.
+~
+57 552 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 187
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3027
+S
+#494
+A small dark room~
+This is a small piece of hallway at the base of the staircase.  No torches or
+candles light this room and the dust is thick in the air.  A door stands at
+the east end of the room.
+~
+57 553 0 0
+0 0 0 0
+0 0 0
+D1
+You see a wooden door covered in dust.
+~
+door wooden~
+ ~
+ ~
+1 2001 3713
+D4
+ ~
+trapdoor~
+$n climbs up through a hole in the ceiling.~
+$n climbs up through a trapdoor in the floor.~
+1 2001 3705
+S
+#617
+Kat's private bath just built by Vryce~
+Unlike the rest of Kat's chambers, this area is bathed with the warm glow
+of many long white candles.  In the center of the area is a large marble
+bath big enough to fit two.  The walls are covered with beautiful vines
+and other green foliage thriving from the steam and the gentle sunlight
+that fills the room as 3 walls and ceiling are curving glass overlooking
+a flourishing flower and tree garden spreading out away from the grounds.
+The bath is always filled with hot scented water flowing from a sculpture
+of an angel with wings spread wide in glorious detail.  You hear the gentle
+sounds of the night and the soft sound of pouring water, candles flutter and
+are surrounded by a haze from the steam.  Some brushes, towels and soap rest
+on a small table along with some fresh fruit.
+~
+57 2732 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+door~
+$n leaves the room to the private chamber, must have been hard to leave.~
+$n arrives from the bath with a serene look, flushed face and a smile.~
+1 2001 3648
+E
+towel towels~
+SpaceBalls: The Towel!
+~
+S
+#813
+Inside the Silver Shrine~
+This building consists of only one room with a tall, pointed ceiling.
+The walls, ceiling and even the floor are made entirely of gleaming
+silver. Ornately carved pillars support the ceiling near the center of
+the chamber.  Hovering near the western wall is a portal of swirling
+black energy.  Wards and symbols of protection surround the portal.
+~
+57 131596 0 0
+0 0 0 0
+0 0 0
+D0
+An unmarked door of solid silver.
+~
+door silver~
+$n leaves through the door to the north.~
+$n walks into the clearing from the silver building.~
+2 -1 6155
+E
+portal~
+The portal is about six feet high and three feet wide.  It seems
+to be only two dimensional.  It hovers a few inches above the floor
+as the surface swirls in a maelstrom of black energy.  The semi-circle
+of magical runes which have been etched into the floor would have to
+be crossed in order to enter the portal.
+~
+S
+#1195
+The flaming pits of hell~
+ ~
+57 557 0 0
+0 35 0 0
+0 0 0
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 1200
+S
+#1200
+The flaming pits of hell~
+ ~
+57 681 0 0
+0 35 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1200
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1200
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1207
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1200
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 1200
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 1200
+S
+#1207
+The flaming pits of hell~
+ ~
+57 681 0 0
+0 35 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1200
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1200
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3841
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1208
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 3835
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 1207
+S
+#1208
+The flaming pits of hell~
+ ~
+57 681 0 0
+0 35 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1208
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1207
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1208
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1195
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 3855
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 1195
+S
+#1711
+A dark stone tunnel~
+This is a wide stone corridor made from black bricks.  The walls and floor
+are damp and slick, some strange moss grows on the tops of the walls and
+on the ceiling.  The air is not very musty so you assume someone, or
+something, is using this tunnel.
+~
+57 553 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1712
+D4
+ ~
+hatch~
+ ~
+ ~
+3 5799 3734
+S
+#1712
+A dark stone tunnel~
+This is a wide stone corridor made from black bricks.  The walls and floor
+are damp and slick, some strange moss grows on the tops of the walls and
+on the ceiling.  The air is not very musty so you assume someone, or
+something, is using this tunnel.
+~
+57 553 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1715
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1711
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1716
+S
+#1714
+A dark stone tunnel~
+This is a wide stone corridor made from black bricks.  The walls and floor
+are damp and slick, some strange moss grows on the tops of the walls and
+on the ceiling.  The air is not very musty so you assume someone, or
+something, is using this tunnel.
+~
+57 553 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1723
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1715
+S
+#1715
+A dark stone tunnel~
+This is a wide stone corridor made from black bricks.  The walls and floor
+are damp and slick, some strange moss grows on the tops of the walls and
+on the ceiling.  The air is not very musty so you assume someone, or
+something, is using this tunnel.
+~
+57 553 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1714
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1712
+S
+#1716
+A dark stone tunnel~
+This is a wide stone corridor made from black bricks.  The walls and floor
+are damp and slick, some strange moss grows on the tops of the walls and
+on the ceiling.  The air is not very musty so you assume someone, or
+something, is using this tunnel.
+~
+57 553 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1719
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1712
+S
+#1717
+A dark stone tunnel~
+This is a wide stone corridor made from black bricks.  The walls and floor
+are damp and slick, some strange moss grows on the tops of the walls and
+on the ceiling.  The air is not very musty so you assume someone, or
+something, is using this tunnel.
+~
+57 553 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1720
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1718
+S
+#1718
+A dark stone tunnel~
+This is a wide stone corridor made from black bricks.  The walls and floor
+are damp and slick, some strange moss grows on the tops of the walls and
+on the ceiling.  The air is not very musty so you assume someone, or
+something, is using this tunnel.
+~
+57 553 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1717
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1719
+S
+#1719
+A dark stone tunnel~
+This is a wide stone corridor made from black bricks.  The walls and floor
+are damp and slick, some strange moss grows on the tops of the walls and
+on the ceiling.  The air is not very musty so you assume someone, or
+something, is using this tunnel.
+~
+57 553 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1718
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1716
+S
+#1720
+A dark stone tunnel~
+This is a wide stone corridor made from black bricks.  The walls and floor
+are damp and slick, some strange moss grows on the tops of the walls and
+on the ceiling.  The air is not very musty so you assume someone, or
+something, is using this tunnel.
+~
+57 553 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1721
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1717
+S
+#1721
+A dark stone tunnel~
+This is a wide stone corridor made from black bricks.  The walls and floor
+are damp and slick, some strange moss grows on the tops of the walls and
+on the ceiling.  The air is not very musty so you assume someone, or
+something, is using this tunnel.
+~
+57 553 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1720
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1722
+D2
+You can see the faint outline of a magical door to the south.
+~
+door~
+ ~
+ ~
+2 6663 1724
+S
+#1722
+A dark stone tunnel~
+This is a wide stone corridor made from black bricks.  The walls and floor
+are damp and slick, some strange moss grows on the tops of the walls and
+on the ceiling.  The air is not very musty so you assume someone, or
+something, is using this tunnel.
+~
+57 553 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1723
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1721
+S
+#1723
+A dark stone tunnel~
+This is a wide stone corridor made from black bricks.  The walls and floor
+are damp and slick, some strange moss grows on the tops of the walls and
+on the ceiling.  The air is not very musty so you assume someone, or
+something, is using this tunnel.
+~
+57 553 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1722
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1714
+S
+#1724
+A secret chamber~
+You are in a small, well kept study.  Bookcases line the walls and
+there are several tables and chairs placed about the room.  Notes
+have been scattered about the room and some of the books are still
+open on the tables with numerous pages marked.
+~
+57 553 0 0
+0 0 0 0
+0 0 0
+D3
+A shimmering wall of scintilating colors blocks your way to the west.
+~
+wall~
+ ~
+ ~
+2 6664 1719
+S
+#3027
+A bright hallway~
+This is a clean bright hallway, leading east and west.  No dust or debris
+litters this corridor and small globes of light shine brightly, suspended in
+mid air.
+~
+57 552 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 488
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3720
+S
+#3596
+A Blackened Clearing~
+You find yourself in the center of a charred, destroyed clearing of
+a forest.  The ground is sunken slightly and bowl shaped as if something
+exploded at this spot.  An eerie, dark forest borders this clearing
+on the north and west sides.  Steep, jagged cliffs rise up to the east
+and south, blocking your passage.
+In the southwest part of the clearing, near the cliffs, is an oval portal
+of swirling black energy.
+~
+57 4 3 0
+0 0 0 0
+0 0 0
+D0
+~
+~
+~
+~
+0 0 63407
+D3
+~
+~
+~
+~
+0 0 63408
+E
+portal~
+The portal is six feet high and about three feet wide.  It seems to be
+only two dimensional.  It hovers a few inches above the soil as the
+surface swirls in a maelstrom of black energy.
+It appears possible to ENTER the portal.
+~
+S
+#3642
+A narrow trail~
+The narrow path continues here as the forest thickens.  A few trees stand
+close to the path and the woods become quieter.  Small forest creatures dart
+at the sight of you and an uneasy feeling looms over you like a dark cloud.
+A small mound rises up to the west, making a steep cliff.
+~
+57 64 3 0
+0 0 0 0
+0 0 0
+D0
+ ~
+door~
+ ~
+ ~
+1 2001 19001
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3643
+S
+#3643
+A dark path through the woods~
+The forest has become very thick here.  The black trees have all lost their
+leaves and their branches twist and tangle above you, blocking out the sun. A
+chill runs up your spine as you catch a glimpse of movement out of the corner
+of your eye. You sense a great evil lurking beyond the trees.
+~
+57 65 3 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3642
+D1
+ ~
+ ~
+$n disappears into the dark forest.~
+$n steps out of the darkness into the clearing.~
+1 -1 3644
+S
+#3644
+A dark clearing~
+You come to a dark clearing in the eerie forest. Dry leaves rustle quietly in
+the cool breeze. Oddly, there are no sounds of wildlife, no birds chirping,
+no squirrels scurrying through the bushes.  The only noise you hear is the
+wind blowing through the bare, dead branches of the trees all around you. On
+the ground at the far end of the clearing is a decomposing corpse of a human.
+~
+57 65 3 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3769
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3645
+D3
+ ~
+ ~
+$n leaves the clearing and vanishes into the darkness of the forest.~
+$n walks out of the darkness onto the forest trail.~
+1 -1 3643
+E
+corpse body~
+A dead decaying body is laying here.  It has been lashed to a pulp.
+~
+S
+#3645
+Entrance to the grove~
+Your skin shivers uncontrolably as a slight breeze picks up, sending the dead
+branches of the trees into motion.  The shadows that you cast seem to dance
+on the forest floor with a life of their own, and you connot help but feel
+that you are being watched...
+~
+57 65 3 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3644
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3650
+D3
+The ancient symbol of Kat, Lady of Darkness, has been etched into the tree.
+~
+hatch~
+ ~
+ ~
+4 5799 3646
+E
+tree~
+You see the name "Kat" carved into the trunk of one of the ancient trees.
+~
+S
+#3646
+Entrance to Kat's hidden sanctum~
+You are on the inside of an ancient tree which has been hollowed out.  A
+narrow circular staircase leads down.  Small glass globes are imbedded into
+the walls which glow with a soft, eternal light.
+~
+57 2220 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+hatch~
+ ~
+ ~
+2 5799 3645
+D5
+ ~
+ ~
+$n starts down the stairs.~
+$n comes down the stairs into the temple.~
+1 -1 3647
+S
+#3647
+The sacred temple of Kat~
+This is an enourmous underground room.  Large pillars made of black marble are
+lined up against the two side walls.  A small dias is at the far end of the
+chamber rising several feet above the rest of the floor.  Atop the platform is
+a magnificent altar made of a strange glowing material.  Hovering above the
+altar is a large throne made of adamantite and inlaid with jewels.  This is
+most likely where Kat herself oversees the unholy services of the temple.
+~
+57 2220 0 0
+0 0 0 0
+0 0 0
+D0
+Looking through a force shield, you can see a small alcove lined with chairs.
+~
+shield force portal~
+$n passes through the force shield into an alcove.~
+$n enters through the force shield.~
+2 5799 3649
+D2
+You see the entrance to Kat's private chambers.
+~
+door~
+$n enters the private chamber looking for some peace and privacy.~
+$n seems more relaxed as they enter the comfortable room.~
+2 5799 3648
+D3
+You see an enormous gate made of adamantite blocking the
+way to the west. Large spikes adorn the top.
+~
+gate~
+ ~
+ ~
+2 5799 5819
+D4
+A small staircase leads upward through a hole in the ceiling.
+~
+ ~
+$n leaves up the stairs through the hole in the ceiling.~
+$n climbs up the stairs into the room.~
+1 -1 3646
+E
+sign~
+A large sign is hanging on the wall here, it reads:
+ENGLISH ONLY PLEASE!
+~
+S
+#3648
+Kat's Private Chamber~
+This is a large room lit dimly by eerie candles made of black wax. A king
+sized bed sits against the far wall. It has high posts made of dragon bone
+which forms a canopy over the bed. Small chests and dressers are placed about
+the room which hold personal belongings, best left untouched. A fair sized
+fireplace is built into one of the walls. An odd blue-green flame burns in
+its depths, yet there is no wood or other visible fuel. You are over come by
+an almost hypnotic peace.
+~
+57 2732 0 0
+0 0 0 0
+0 0 0
+D0
+This doorway leads into the temple of Kat
+~
+door~
+$n tries to look as evil as possible then enters the temple.~
+$n enters the temple from Kat's private chambers.~
+2 5799 3647
+D2
+A heavy door leading south, whisps of steam rise up from the bottom.
+~
+door~
+$n walks through the door to the bath, whisps of steam flood the room.~
+$n enters through the door as the steam parts to allow entry.~
+1 2001 617
+D3
+ ~
+fireplace~
+ ~
+ ~
+2 5799 5424
+E
+bed~
+It's a large, comfortable looking, canopied bed.  Covering the bed you can
+see. . . SpaceBalls: The Blanket!
+~
+E
+blue canary~
+Blue Canary in the outlet by the light switch.
+~
+E
+poster posters wall~
+You see many concert posters covering the walls.  Some are: The Cure,
+Front 242, QueensRyche and The Violent Femmes.
+~
+E
+calander~
+A GreenPeace calander depicting beautiful scenes of the world and wildlife.
+~
+S
+#3649
+The waiting room of the Dark Lady~
+This is a small alcove set off from the main temple.  Chairs of various sizes
+are lined up against the walls.  The chairs are made of charred black bones
+and covered with a soft black fur.
+~
+57 2220 0 0
+0 0 0 0
+0 0 0
+D2
+Looking through the force shield, you can see the unholy temple of Kat.
+~
+shield force portal~
+$n steps through the portal into the room.~
+$n steps nervously into the eerie temple.~
+2 5799 3647
+S
+#3650
+A dark path through the woods~
+The forest continues to darken, as do your spirits.  While the path you have
+been following continues to the south, a smaller, less used path heads off
+to the east.
+~
+57 67 3 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3645
+D1
+ ~
+ ~
+$n leaves down the smaller path to the east.~
+$n arrives, walking cautiously through the forest.~
+1 -1 3651
+D2
+You can make out a large structure through the trees.
+~
+ ~
+$n heads off towards the structure to the south.~
+$n steps into the small clearing from the woods to your north.~
+1 -1 3654
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3795
+E
+path trail tracks~
+You notice several sets of tracks traveled down the eastern path, yet none
+have returned.
+~
+S
+#3651
+A strangly calm trail~
+The silence, to which you have become accustomed to, deepens here.  Even the
+sound of your own footsteps is muffled by the moist ground.
+~
+57 193 3 0
+0 0 0 0
+0 0 0
+D1
+A dark and narrow trail lies in that direction.
+~
+ ~
+$n continues along the narrow trail.~
+$n arrives from the west, walking cautiously along the trail.~
+1 -1 3652
+D3
+The trails seems to widen up ahead.
+~
+ ~
+$n leaves towards the main trail to the west.~
+$n arrives from the small path to the east.~
+1 -1 3650
+S
+#3652
+An eerie silent path~
+The silence is so deep it makes the hair on the back of your neck stand on end.
+Nothing in nature seems willing, or able, to break the unnatural silence.
+~
+57 65 3 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3766
+D1
+The forest seems to clear out a little to the east.
+~
+ ~
+$n leaves towards the clearing.~
+$n steps into the clearing.~
+1 -1 3653
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3770
+D3
+A dark and narrow trail lies off in that direction.
+~
+ ~
+$n heads off along the trail to the west.~
+$n arrives, walking cautiously through the woods.~
+1 -1 3651
+S
+#3653
+A stagnant pool~
+The path ends here in a small grove of trees.  Several trees stand here by a
+small, murkey pool of water.  Their roots are submurged in the pool,
+presumably depending on the water for nurishment.
+~
+57 69 6 0
+0 0 0 0
+0 0 0
+D3
+There is a narrow trail to the west.
+~
+ ~
+$n leaves down the narrow trail.~
+$n arrives from a small clearing.~
+1 -1 3652
+S
+#3654
+Gate to The Temple of Bloodstone~
+The immense Bloodstone Fortress stands in front of you.  Its massive size
+reaching far into the sky.  This pyramid is made of black marble which has
+cracked and decayed over the centuries since its construction.  A thick fog
+looms over the entire structure, obscuring the top from your sight.  A huge
+iron gate stands protectively at its entrance.  There are some withered weeds
+off to the sides of the path and old tree stump is decaying near the gate.
+~
+57 580 3 0
+0 0 0 0
+0 0 0
+D0
+The dark evil forest lies to your north.
+~
+ ~
+$n disappears into the dark woods.~
+$n enters the forest from the south.~
+1 -1 3650
+D2
+You see the Temple of Bloodstone.
+~
+gate iron~
+$n bravely steps forward into the unknown dangers of the temple.~
+$n enters through the huge iron gate.~
+2 5701 3655
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 3903
+E
+mat~
+SpaceBalls: The Welcome Mat!
+~
+E
+gate iron~
+Before you looms the huge weather-beaten gate.  Beyond lies the temple of
+Bloodstone. While it looks as if its been here for centuries, the lock is
+very sturdy.  There's an old mat in front of the gate.
+~
+S
+#3655
+Entryway~
+You stand in the entryway of the temple of Bloodstone, perhaps the first one
+to do so for serveral centuries, a layer of dust covers the floor and the
+odor of decay hangs in the air.  There are alcoves to your right and left
+and a dark hallway is to your south.
+~
+57 552 0 0
+0 1 4 0
+0 0 0
+D0
+You see a huge iron gate.
+~
+gate iron~
+$n pushes their way past the huge gate.~
+$n stumbles out of the temple muttering about the horrors they've seen.~
+2 5701 3654
+D1
+ ~
+ ~
+$n enters the eastern alcove.~
+ ~
+1 -1 3656
+D2
+ ~
+ ~
+$n heads south into the temple.~
+Footsteps echo loudly as $n enters the room from the entryway.~
+1 -1 3658
+D3
+ ~
+ ~
+$n enters the western alcove.~
+ ~
+1 -1 3657
+S
+#3656
+An alcove~
+This alcove is set off from the main entryway.  The walls are polished
+smooth and raise up and curve into a semi-sphere at the ceiling.  A small
+pedestal made of black marble is here, cracked and covered with dust.
+~
+57 553 0 0
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3655
+S
+#3657
+An alcove~
+This is an alcove set off from the main entryway.  The walls are polished
+smooth and raise up and curve into a semi-sphere at the ceiling.  A small
+pedestal made of black marble is here, cracked and covered with dust.
+~
+57 553 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3655
+S
+#3658
+A large hallway~
+This is a large hallway carved from black granite.  It is easily wide enough
+for ten people to walk down it, side by side.  Tattered and rotten tapestries
+hang limply on the walls, depicting this temple in its earlier years.  A
+large alcove is to the south and the hall continues to the east and west.
+~
+57 553 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3655
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3660
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3659
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3663
+E
+tapestries tapestry~
+A large tapestry shows a mountain made of black rock.  A human male stands
+before the mountain holding a staff and wearing a long black robe.
+Another tapestry next to it illustrates magical energy erupting from the staff
+and bombarding the mountain.
+A final tapestry shows the man entering an eerie black pyramid.
+~
+S
+#3659
+A large alcove~
+This is an alcove like the others, only much larger.  Its walls have a few
+cracks and cobwebs hang from the ceiling.  There is a huge pedestal made of
+black marble.  Unlike the other alcoves, this pedestal is polished and
+undamaged.
+~
+57 553 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3658
+E
+pedestal~
+It is made from a black marble with streaks of grey.  Its surface is polished
+smooth and dimly reflects your image.
+~
+S
+#3660
+A large hallway~
+This is a large hallway carved from black granite.  It is easily wide enough
+for ten people to walk down it, side by side.  Tattered and rotten tapestries
+hang limply on the walls, depicting this temple in its earlier years.
+~
+57 557 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3661
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3658
+S
+#3661
+A large hallway~
+This is a large hallway carved from black granite.  It is easily wide enough
+for ten people to walk down it, side by side.  Tattered and rotten tapestries
+hang limply on the walls, depicting this temple in its earlier years.
+~
+57 553 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3662
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3660
+S
+#3662
+A turn in the hallway~
+The large hall turns here.  The walls are carved into a semi-circle, rounding
+the corridor to the south and west.  Around the bend, you notice the corridor
+gets darker and more narrow.
+~
+57 553 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3670
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3661
+S
+#3663
+A large hallway~
+This is a large hallway carved from black granite.  It is easily wide enough
+for ten people to walk down it, side by side.  Tattered and rotten tapestries
+hang limply on the walls, depicting this temple in its earlier years.
+~
+57 557 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3658
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3664
+S
+#3664
+A large hallway~
+This is a large hallway carved from black granite.  It is easily wide enough
+for ten people to walk down it, side by side.  Tattered and rotten tapestries
+hang limply on the walls, depicting this temple in its eariler years.
+~
+57 553 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3663
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3665
+S
+#3665
+A turn in the hallway~
+The large hall turns here.  The walls are carved into a semi-circle, rounding
+the corridor to the south and east.  Around the bend, you notice the corridor
+gets darker and more narrow.
+~
+57 553 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3664
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3666
+S
+#3666
+A dark hall~
+This is a dark and narrow corridor.  Dust covers the walls and floor, a few
+cobwebs cling to the corners where the ceiling and wall meets.  Although the
+temple appears to be abandoned, large foot prints are visible in the dust.
+The hallway continues north and south and there is a door leading west.
+~
+57 553 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3665
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3667
+D3
+You see a wooden door.
+~
+door~
+$n can't open the door all the way, and has to squeeze into the room.~
+$n squeezes through the doorway past the furniture.~
+1 2001 3696
+S
+#3667
+A dark hall~
+This is a dark and narrow corridor.  Dust covers the walls and floor, a few
+cobwebs cling to the corners where the ceiling and wall meets.  Although the
+temple appears to be abandoned, large foot prints are visible in the dust.
+The hallway continues north and south and there is a door leading west.
+~
+57 553 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3666
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3668
+D3
+You see a wooden door.
+~
+door wooden~
+$n enters the room to the west.~
+$n opens the door slightly and walks in.~
+1 2001 3695
+S
+#3668
+A dark hall~
+This is a dark, narrow corridor.  Dust covers the walls and floor, a few
+cobwebs cling to the corners where the ceiling and wall meets.  Although the
+temple appears to be abandoned, large foot prints are visible in the dust.
+The hallway continues north and south and there are doors to the east and
+west.
+~
+57 553 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3667
+D1
+ ~
+door~
+ ~
+ ~
+1 -1 3703
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3669
+D3
+There is a wooden door to the west.
+~
+door wooden~
+$n enters the room to the west.~
+$n pushes the door open a little and walks in.~
+1 2001 3694
+S
+#3669
+A turn in the hallway~
+The dark hall turns here.  The walls are carved into a semi-circle, rounding
+the hall to the north and east.  Your light source reveals little as you
+peer around the turn.
+~
+57 553 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3668
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3678
+S
+#3670
+A dark hall~
+This is a narrow, dark corridor.  Dust covers the walls and floor, a few
+cobwebs cling to the corners where the ceiling and walls meet.  Although the
+temple appears to be abandoned, large foot prints are visible in the dust.
+The hallway continues north and south and there is a room to the east.  A few
+wooden splinters are laying on the floor.
+~
+57 553 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3662
+D1
+The door has been torn from its hinges.
+~
+l e~
+$n enters the room trying to avoid the broken door.~
+$n makes some loud noise as they step through the rubble.~
+1 -1 3679
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3671
+E
+blank~
+BLANK
+~
+S
+#3671
+A dark hall~
+This is a narrow, dark corridor.  Dust covers the walls and floor, a few
+cobwebs cling to the corners where the ceiling and wall meets.  Although the
+temple appears to be abandoned, large foot prints are visible in the dust.
+The hallway continues north and south and there is a door to the east.
+~
+57 553 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3670
+D1
+There is a door to the east.
+~
+door~
+$n leaves east into a bedroom.~
+$n enters the bedroom from the hallway.~
+1 2001 3682
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3672
+S
+#3672
+A dark hall~
+This is a narrow, dark corridor.  Dust covers the walls and floor, a few
+cobwebs cling to the corners where the ceiling and wall meets.  Although the
+temple appears to be abandonded, large foot prints are visible in the dust.
+The hallway continues north and south and there are doors to the east and west.
+~
+57 553 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3671
+D1
+There is a door to the east.
+~
+door~
+$n enters the room to the east.~
+$n enters the room and looks around.~
+1 2001 3683
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3673
+D3
+There's a wooden door to the west.
+~
+door wooden~
+$n exits into the room to the west.~
+ ~
+1 2001 3697
+S
+#3673
+A turn in the hallway~
+The dark hall turns here.  The walls are carved into a semi-circle, rounding
+the hall to the north and west.  Your light source reveals little as you
+peer around the turn.
+~
+57 553 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3672
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3674
+S
+#3674
+A dark hall~
+This is a narrow, dark corridor.  Dust covers the walls and floor, a few
+cobwebs cling to the corners where the ceiling and wall meets.  Although the
+temple appears to be abandoned, large foot prints are visible in the dust.
+The hallway continues to the east and west.
+~
+57 553 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3673
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3675
+S
+#3675
+A dark hall~
+This is a narrow, dark corridor.  Dust covers the walls and floor, a few
+cobwebs cling to the corners where the ceiling and wall meets.  The hallway
+continues to the east and west.
+~
+57 553 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3674
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3676
+S
+#3676
+A small intersection~
+The hall widens a little here.  A small passage leads north to a staircase and
+corridors continue to the east and west.
+~
+57 553 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3705
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3675
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3677
+S
+#3677
+A dark hall~
+This is a narrow, dark corridor.  Dust covers the walls and floor, a few
+cobwebs cling to the corners where the ceiling and wall meets.  The hallway
+continues to the west and east.
+~
+57 553 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3676
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3678
+S
+#3678
+A dark hall~
+This is a narrow, dark corridor.  Dust covers the walls and floor, a few
+cobwebs cling to the corners where the ceiling and wall meets.  The hallway
+continues to the east and west.
+~
+57 553 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3677
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3669
+S
+#3679
+A destroyed room~
+This room lays in shambles.  Tables and chairs are turned on their sides, a
+desk sits, torn apart, in the corner.  The door to this room is a shattered,
+splintered heap of wood on the floor.  The eastern wall has been torn apart
+and a tunnel leads into the darkness.
+~
+57 557 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+$n cautiously steps into the darkness of the cave.~
+$n enters the cave from the room.~
+1 -1 3680
+D3
+Looking out into the hallway you can see broken shards of wood scattered about.
+~
+ ~
+The broken door makes a loud *snap* as $n enters the room.~
+You hear some loud *snaps* as $n walks over the broken door.~
+1 -1 3670
+E
+desk~
+This was once a large elegant desk of fine craftsmanship.  Made of oak with
+beautiful carvings, obviously imported from the elvish forests.  Searching
+through the remnants you can find nothing of value.
+~
+S
+#3680
+Dark cave~
+You pass through the wall and are now in a cave.  The earthen walls are damp,
+and a few roots hang down into your view.  The tunnel is quiet large, big
+enough for two people to stand abreast.  A foul ador lofts in from the east,
+you strain to see the source, but it is just too dark.
+~
+57 553 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3681
+D3
+ ~
+ ~
+$n walks over the rubble of the stone wall and leaves the cave.~
+$n steps through the broken hole in the wall and into the room.~
+1 -1 3679
+S
+#3681
+Umber hulk lair~
+The tunnel ends here and widens a bit. Apparently the passage used to
+continue to the east but is now caved in, earth and rock seal the way. The
+source of the foul smell is now obvious. The corpse of a purple worm lays on
+the ground, half eatten. Bones and blood litter the floor of this lair.
+~
+57 553 0 0
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3680
+E
+corpse worm purple~
+The worm was apparently small, as purple worms are considered, only ten feet
+long. Its hide has been ripped open and most of its innereds have been eatten.
+~
+S
+#3682
+A bedroom~
+This was once a bedroom, now it sits in abandoned.  There is a desk, bed and
+other pieces of furniture, all covered in dust.
+~
+57 553 0 0
+0 0 0 0
+0 0 0
+D3
+There is a door leading back to the hallway.
+~
+door~
+$n leaves the room.~
+$n walks out into the hallway from the bedroom.~
+1 2001 3671
+S
+#3683
+A bedroom~
+This was once a bedroom, now it sits abandoned.  There is a desk, bed and
+other pieces of furniture, all covered in dust.  You notice foot prints in the
+dust, apparently human.
+~
+57 553 0 0
+0 0 0 0
+0 0 0
+D3
+There is a door leading back to the hallway.
+~
+door~
+$n walks back into the hallway.~
+$n arrives from a room to your east.~
+1 2001 3672
+S
+#3694
+A bedroom~
+This was once a bedroom, now it sits abandoned. There is a desk, bed and
+other pieces of furniture, all covered with dust and decaying.
+~
+57 553 0 0
+0 0 0 0
+0 0 0
+D1
+A doorway leads back into the hallway.
+~
+door wooden~
+$n glances around the room before exiting back to the hallway.~
+$n arrives from the room to the west.~
+1 2001 3668
+S
+#3695
+A bedroom~
+This was once a nice bedroom, now it sits abandoned.  There is a desk, bed
+and other pieces of furniture, all covered in dust.
+~
+57 553 0 0
+0 0 0 0
+0 0 0
+D1
+You see a doorway leading back into the hall.
+~
+door wooden~
+$n exits to the hallway.~
+$n arrives from the room to the west.~
+1 2001 3667
+S
+#3696
+A barricaded room~
+Large pieces of furniture are stacked against the door of this room.  The area
+stands in complete disarray.  A heavy oaken table has been turned on its side
+as a barricade in the corner.  There are signs that this room has been in use.
+~
+57 553 6 0
+0 0 0 0
+0 0 0
+D1
+The door is barely accessable due to all the furniture piled up against it.
+~
+door~
+$n pushes some furniture aside and leaves the room.~
+$n arrives from the room to the west.~
+1 2001 3666
+S
+#3697
+The antechamber~
+This is apparently a preparation room. Hooks line the walls and a few robes
+hang in rags on them. Holders for torches and candles, now empty, are on
+various tables and attached to the walls.
+~
+57 553 0 0
+0 0 0 0
+0 0 0
+D0
+Some of the bricks do not fit flush with the rest of the wall.
+~
+wall secret~
+ ~
+ ~
+3 2001 3698
+D1
+There's a wooden door to the east.
+~
+door wooden~
+$n leaves through the door in the east wall.~
+$n arrives from the room to the west.~
+1 2001 3672
+E
+wall walls~
+Some of the bricks do not fit flush with the rest of the wall.
+~
+S
+#3698
+Crypt~
+This room contains large, stone coffins which are lined up against the walls.
+Their domed lids lack inscriptions and adornments.  A few are closed, but
+the lids of many are pushed aside.  A large, iron door blocks the way to the
+west.
+~
+57 553 0 0
+0 0 0 0
+0 0 0
+D2
+A few bricks are discolored and do not seem to fit correctly with the rest of
+the wall.
+~
+wall secret~
+ ~
+ ~
+3 2001 3697
+D3
+A large wooden door, reinforced with iron bands stands to the west.
+~
+door iron~
+ ~
+ ~
+1 2001 3699
+E
+wall walls~
+A few bricks are discolored and do not seem to fit correctly with
+the rest of the wall.
+~
+S
+#3699
+The artifact room~
+This room is filled with strange objects from a time long past.  Daggers and
+amulets hang on the walls with other artifacts while statues and idles sit on
+pedestals.  The room extends to the west and a large door is to your east.
+~
+57 553 0 0
+0 0 0 0
+0 0 0
+D1
+A large wooden door, reinforced with iron bands is to the east.
+~
+door iron~
+ ~
+ ~
+1 2001 3698
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3700
+S
+#3700
+A bloody altar~
+This is the main chamber of the temple.  Some rags lay scattered on the floor,
+probably the remains of cushions used to kneel on.  A large altar sits in the
+middle of the room, covered in blood.  Dried blood coats it's surface and some
+is splattered on the floor.
+~
+57 553 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3699
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3701
+S
+#3701
+The trophy room~
+This room is filled with the trophies and plaques of the former occupant.
+The heads of many exotic creatures line the walls, one in perticular catches
+your attention.  It's the head of a huge red dragon, mounted on the wall.  You
+shudder to think of what could have killed something of that size.
+~
+57 553 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3700
+D3
+A large wooden door, reinforced with iron bands is to the west.
+~
+door iron~
+ ~
+ ~
+1 2001 3702
+S
+#3702
+Crypt~
+This room contains large, stone coffins which are lined up against the walls.
+Their domed lids are lacking inscriptions and adornments.  A few are closed, but
+the lids of many are pushed aside.  A large iron door blacks the way to the
+east.
+~
+57 553 0 0
+0 0 0 0
+0 0 0
+D1
+A large wooden door, reinforced with iron bands is to the east.
+~
+door iron~
+ ~
+ ~
+1 2001 3701
+D2
+Some of the bricks are discolored and don't fit smoothly with the rest of the
+wall.
+~
+wall secret~
+ ~
+ ~
+3 2001 3703
+E
+wall walls~
+Some of the bricks are discolored and do not seem to fit correctly
+with the rest of the wall.
+~
+S
+#3703
+The antechamber~
+This is apparently a preparation room.  Hooks line the walls and a few robes
+hang in rags on them.  Holders for torches and candles, now empty, are on
+various tables and attached to the walls.
+~
+57 553 0 0
+0 0 0 0
+0 0 0
+D0
+Some of the bricks in the wall are not flush with the rest of its surface.
+~
+wall secret~
+ ~
+ ~
+3 2001 3702
+D3
+ ~
+door~
+ ~
+ ~
+1 -1 3668
+E
+wall walls~
+Some of the bricks in the wall are not fluch with the rest of its surface.
+~
+S
+#3704
+The Lich's Phylactery~
+You are hovering in a strange grey mist which is all around you.
+~
+57 680 0 0
+0 1 0 0
+0 0 0
+D3
+A shimmering portal seems to be suspended in the air, floating in the mist.
+~
+portal~
+ ~
+ ~
+2 6690 3595
+S
+#3705
+A circular staircase~
+You are in a small hallway which leads south back to an east-west corridor.  A
+large staircase leads upward here.  The stairs are made from the bones of
+animals, various creatures and humans.
+~
+57 553 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3676
+D4
+ ~
+ ~
+$n climbs ascends the staircase to the next floor.~
+$n climbs up the staircase into the room.~
+1 -1 187
+D5
+ ~
+trapdoor~
+$n descends through a trapdoor in the floor.~
+$n drops down from the ceiling.~
+1 2001 494
+S
+#3713
+Guard post~
+This room was once a guard post.  Hooks line the walls for weapons and armor
+to be hung.  A few cots are in the corners, ripped apart and covered in dust.
+~
+57 553 0 0
+0 0 0 0
+0 0 0
+D1
+You see a heavy, oaken door.
+~
+door heavy oaken oak~
+ ~
+ ~
+2 5702 3714
+D3
+You see a wooden door.
+~
+door wooden~
+ ~
+ ~
+1 2001 494
+S
+#3714
+A narrow corridor~
+This is a narrow hallway between the holding cells.  Cages are to your north
+and south and the hall continues to the east.
+~
+57 553 0 0
+0 1 0 0
+0 0 0
+D0
+A cage to a holding cell.
+~
+cage~
+ ~
+ ~
+2 5704 3715
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3717
+D2
+A cage to a holding cell.
+~
+cage~
+ ~
+ ~
+2 5704 3716
+D3
+You see a heavy, oaken door.
+~
+door heavy oaken oak~
+ ~
+ ~
+2 5702 3713
+S
+#3715
+A holding cell~
+Apparently this was a cage for holding prisoners or sacrifices.  The walls and
+floor are covered with blood stains and a few bones lie in the corner.
+~
+57 553 0 0
+0 0 0 0
+0 0 0
+D2
+A cage to a holding cell.
+~
+cage~
+ ~
+ ~
+2 5704 3714
+S
+#3716
+A holding cell~
+Apparently this was a cage for holding prisoners or sacrifices.  The walls and
+floor are covered with blood stains and a few bones lie in the corners.
+~
+57 553 0 0
+0 0 0 0
+0 0 0
+D0
+A cage to a holding cell.
+~
+cage~
+ ~
+ ~
+2 5704 3714
+S
+#3717
+A narrow corridor~
+This is a narrow hallway between the holding cells.  Cages are to your north
+and south and the hall continues to your west.
+~
+57 553 0 0
+0 0 0 0
+0 0 0
+D0
+The cage to a holding cell.
+~
+cage~
+ ~
+ ~
+2 5704 3718
+D2
+The cage to a holding cell.
+~
+cage~
+ ~
+ ~
+2 5704 3719
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3714
+S
+#3718
+A holding cell~
+Apparently this was a cage for holding prisoners or sacrifices.  The walls and
+floor are covered with blood stains and a few bones lie in the corner.
+~
+57 553 0 0
+0 0 0 0
+0 0 0
+D2
+The cage to a holding cell.
+~
+cage~
+ ~
+ ~
+2 5704 3717
+S
+#3719
+A holding cell~
+Apparently this was a cage for holding prisoners or sacrifices.  The walls and
+floor are coverd with blood stains and a few bones lie in the corner.
+~
+57 553 0 0
+0 0 0 0
+0 0 0
+D0
+The cage to a holding cell.
+~
+cage~
+ ~
+ ~
+2 5704 3717
+S
+#3720
+A bright hallway~
+This is a clean bright hallway, leading east and west.  No dust or debris
+litters this corridor and small globes of light shine brightly, suspended in
+mid air.
+~
+57 552 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3027
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3721
+S
+#3721
+A bright hallway~
+This is a clean bright hallway, leading east and north.  No dust or debris
+litters the corridor and small globes of light shine brightly, suspended in
+mid air.  A small door leads south.
+~
+57 552 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3724
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3720
+D2
+A small wooden door.
+~
+door wooden small~
+$n steps cautiously through the small wooden door.~
+$n arrives through the door, which springs shut quickly.~
+1 -1 3722
+S
+#3722
+The privy~
+As soon as you step into this room you hear a loud BANG *click*.  Ack!  You've
+been locked in the privy!  Wait till all your fellow adventurers hear about
+this one.  You'll never hear the end of it, that is of course, if you can get
+out.
+~
+57 557 0 0
+0 0 0 0
+0 0 0
+D0
+A small wooden door.
+~
+door small wooden~
+ ~
+ ~
+1 -1 3721
+D5
+Looking down, you see a small, wooden toilet.
+~
+seat~
+$n jumps through the toilet seat in an attempt to flush themselves.~
+$n climbs down a ladder in the wall.~
+1 2001 3723
+S
+#3723
+The deep deep, dark dark, deep dark pit~
+You are standing knee deep in something and you really don't want to know
+what!  This place stinks to high heaven and you can barely stand it without
+passing out.  Strange molds are growing everywhere some of which even give
+off light.
+~
+57 552 0 0
+0 0 0 0
+0 0 0
+D4
+Looking up you can see the underside of a toilet.
+~
+seat~
+$n climbs up a ladder in the wall.~
+$n pops their head up through the toilet and then climbs out.~
+1 2001 3722
+S
+#3724
+A bright hallway~
+This is a clean bright hallway, leading north and south.  No dust or debris
+litters the corridor and small globes of light shine brightly, suspended in
+mid air.
+~
+57 552 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3726
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3721
+S
+#3725
+A bright hallway~
+This is a clean bright hallway, leading north and south.  No dust or debris
+litters the corridor and small globes of light shine brightly, suspended in
+mid air.
+~
+57 552 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3731
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3726
+S
+#3726
+A bright hallway~
+This is a clean bright hallway, leading north and south.  No dust or debris
+litters the corridor and small globes of light shine brightly, suspended in
+mid air.  Doors exit the hallway to the east and west.
+~
+57 552 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3725
+D1
+An old rotted door on rusty hinges.
+~
+door~
+ ~
+ ~
+1 2001 3727
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3724
+D3
+A well crafted door with polished silver hinges and door handle.
+~
+door~
+You hear a load scream as $n enters the room to the west.~
+$n seems to be drained of energy as black bolts shock their body.~
+1 2001 3728
+S
+#3727
+An apprentice's bedroom~
+This room is empty except for a half-collapased canopy bed carved of some dark,
+now-rotten wood.  Two of its legs are broken, so that its foot slopes
+sharply downward.  A thick layer of dust covers the floor and bed of this room.
+~
+57 553 3 0
+0 0 0 0
+0 0 0
+D3
+An old rotted door with rusty hinges.
+~
+door~
+ ~
+ ~
+1 2001 3726
+S
+#3728
+An apprentice's bedroom~
+This is the modest bed chamber of an apprentice mage. A canopied bed sits in
+the corner and a large wooden desk looks as though it has been used recently.
+Candles and torches light the room, a closet is built into the western wall.
+~
+57 556 0 0
+0 0 0 0
+150 0 0
+D1
+A well crafted door with polished silver hinges and door handle.
+~
+door~
+ ~
+ ~
+1 2001 3726
+D3
+A closet built into the western wall.
+~
+door closet~
+ ~
+ ~
+2 5703 3729
+S
+#3729
+Closet~
+This is a small, dark walk-in closet.  Rows of hooks line the walls for
+garments to be hung.  A few cloaks and coats occupy the hooks while several
+pairs of footwear line the walls on the floor.
+~
+57 552 0 0
+0 0 0 0
+0 0 0
+D1
+A closet door leading into a bedroom.
+~
+door closet~
+You hear a loud scream from the bedroom as $n enters.~
+$n seems physically drained as black bolts of energy strikes their body.~
+2 5703 3728
+E
+cloak cloaks~
+A dark black cloak made of a heavy material, used for traveling during the
+colder months.
+~
+E
+coat coats~
+A long black coat made of light fabric.  It is loose fitting and would not
+hinder movement.  A few pockets have been sewn into the inside of the coat.
+~
+S
+#3731
+A bright hallway~
+This is a clean bright hallway, leading north and south.  No dust or debris
+litters this coddidor and small globes of light shine brightly, suspended in
+mid air.  Wooden doors provide exits to the east and west, and there is a
+small alcove to the north.
+~
+57 552 0 0
+0 0 0 0
+0 0 0
+D0
+You can't see much through the dark shadows.
+~
+ ~
+$n steps cautiously into the shadows.~
+ ~
+1 -1 3734
+D1
+A sturdy wooden door.
+~
+door~
+$n enters the workshop.~
+$n enters the room from the hallway.~
+2 5705 3732
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3725
+D3
+A large wooden door.
+~
+door wooden~
+ ~
+ ~
+1 2001 3745
+S
+#3732
+A mage's workshop~
+This room is occupied by two large work tables.  Shelves stand against the
+walls filled with bottles, and other reagents.  Staves and wands are strewn
+about, and a few scrolls clutter the tables.
+~
+57 556 0 0
+13 1 0 0
+0 0 0
+D1
+ ~
+ ~
+$n walks farther into the workshop.~
+$n walks over from the other side of the room.~
+1 -1 3733
+D3
+A doorway leading back to the hallway.
+~
+door~
+$n walks back out into the hallway.~
+$n has arrived from the workshop.~
+2 5705 3731
+S
+#3733
+Far end of the workshop~
+You stand at the far end of the workshop.  A large table sits in the middle
+of the room and a crystal ball rests atop the table.  There doesnt seem to be
+any experiments in this part of the workshop.
+~
+57 552 0 0
+13 15 0 0
+0 0 0
+D3
+ ~
+ ~
+$n walks back towards the entrance of the room.~
+$n walks over from the far end of the workshop.~
+1 -1 3732
+E
+ball crystal~
+Looking into the crystal ball, you can see a misty image appear...
+The emense Bloodstone Fortress stands in front of you.  Its massive size
+reaching far into the sky.  This pyramid is made of black marble which has
+cracked and decayed over the centuries since its construction.  A thick fog
+looms over the entire structure, obscuring the top from your sight.  A huge
+iron gate stands protectively at its entrance.
+~
+S
+#3734
+A shadowy alcove~
+This is an alcove set off from the main hallway.  The walls are polished
+smooth and raise up and curve into a semi-sphere at the ceiling.  A small
+pedestal made of black marble is here, its surfaces are all in excellent
+condition.
+~
+57 556 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+$n walks out of the shadows to the north.~
+1 -1 3731
+D5
+ ~
+passage under the pedestal~
+ ~
+ ~
+3 5799 1711
+S
+#3745
+The library~
+You stand at the entrance to a small library.  Books, tomes and scrolls of all
+sorts line the walls.  Large bookcases reach all the way up to the ceiling.
+~
+57 556 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+panel behind a bookcase~
+ ~
+ ~
+3 5726 3746
+D1
+A large wooden door.
+~
+door wooden~
+ ~
+ ~
+1 2001 3731
+D2
+ ~
+panel behind a bookcase~
+ ~
+ ~
+3 5720 3751
+S
+#3746
+The library~
+You are walking through a large library. Bookcases rise all the way to the
+ceiling, filled with scrolls, tomes and other books. The room has some dust
+on the shelves and the air is a bit musty.
+~
+57 552 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+panel behind a bookcase~
+ ~
+ ~
+3 5726 3745
+D3
+ ~
+panel behind a bookcase~
+ ~
+ ~
+3 5727 3747
+S
+#3747
+The library~
+You are walking through a large library. Bookcases rise all the way to the
+ceiling, filled with scrolls, tomes and other books. The room has some dust
+on the shelves and the air is a bit musty.
+~
+57 552 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+panel behind a bookcase~
+ ~
+ ~
+3 5727 3746
+D2
+ ~
+panel behind a bookcase~
+ ~
+ ~
+3 5728 3748
+S
+#3748
+The library~
+You are walking through a large library. Bookcases rise all the way to the
+ceiling, filled with scrolls, tomes and other books. The room has some dust
+on the shelves and the air is a bit musty.
+~
+57 553 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+panel behind a bookcase~
+ ~
+ ~
+3 5728 3747
+D2
+ ~
+panel behind a bookcase~
+$n walks south and disappears in a blinding flash of light.~
+The gaseous form of $n arrives from the northern wall and solidifies.~
+3 5729 3750
+S
+#3750
+The library~
+You are walking through a large library. Bookcases rise all the way to the
+ceiling, filled with scrolls, tomes and other books. The room has some dust
+on the shelves and the air is a bit musty.
+~
+57 556 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+bookcase case~
+$n panics and runs through the opening in the eastern wall.~
+$n appears in the room with a blinding flash of light.~
+2 5729 3745
+D4
+A small trapdoor can be seen in the ceiling.
+~
+trapdoor~
+ ~
+ ~
+2 5730 3848
+S
+#3751
+The library~
+You are walking through a large library.  Bookcases rise all the way to the
+ceiling, filled with books, scrolls and tomes.  The room is dustless and
+well-kept.
+~
+57 552 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+panel behind a bookcase~
+ ~
+ ~
+3 5720 3745
+D3
+ ~
+panel behind a bookcase~
+ ~
+ ~
+3 5721 3752
+S
+#3752
+The library~
+You are walking through a large library.  Bookcases rise all the way to the
+ceiling, filled with books, scrolls and tomes.  The room is dustless and
+well-kept.
+~
+57 552 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+panel behind a bookcase~
+ ~
+ ~
+3 5722 3753
+D1
+ ~
+panel behind a bookcase~
+ ~
+ ~
+3 5721 3751
+S
+#3753
+The library~
+You are walking through a large library.  Bookcases rise all the way to the
+ceiling, filled with books, scrolls and tomes.  The room is dustless and
+well-kept.
+~
+57 552 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+panel behind a bookcase~
+ ~
+ ~
+3 5723 3754
+D2
+ ~
+panel behind a bookcase~
+ ~
+ ~
+3 5722 3752
+S
+#3754
+The library~
+You are walking through a large library.  Bookcases rise all the way to the
+ceiling, filled with books, scrolls and tomes.  The room is dustless and
+well-kept.
+~
+57 552 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+panel behind a bookcase~
+$n continues through the library to the east, tripping over some books.~
+$n trips over some books as they enter the room.~
+3 5724 3755
+D2
+ ~
+panel behind a bookcase~
+ ~
+ ~
+3 5723 3753
+S
+#3755
+The library~
+You are walking through a large library.  Bookcases rise all the way to the
+ceiling, filled with books, scrolls and tomes.  The room is dustless and
+well-kept.
+~
+57 556 0 0
+0 0 0 0
+200 0 0
+D1
+ ~
+panel behind a bookcase~
+ ~
+ ~
+3 5725 3756
+D3
+ ~
+panel behind a bookcase~
+$n stumbles over a pile of books in an attempt to leave.~
+ ~
+3 5724 3754
+S
+#3756
+A narrow staircase~
+A small staircase made of wood leads upward.  A thick cloud of dust hangs in
+the air.  The staircase is falling apart, and a few steps are missing.
+~
+57 553 0 0
+0 1 0 0
+0 0 0
+D3
+ ~
+panel~
+ ~
+ ~
+3 5725 3755
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 3757
+S
+#3757
+A narrow staircase~
+A small staircase made of wood leads downward.  A thick cloud of dust hangs
+in the air.  The staircase is falling apart, and a few steps are missing.
+~
+57 553 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3758
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 3756
+S
+#3758
+A dark corridor~
+This hall is completely dark.  The walls are crumbling and there is a thick,
+musty smell in the air.  Small globes hang in mid air but are dark and cracked.
+The hall continues to the east and south, there is a small landing to the west.
+~
+57 553 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3760
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3759
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3757
+S
+#3759
+A dark corridor~
+This hall is completely dark.  The walls are crumbling and there is a thick
+musty smell in the air.  Small globes, cracked and dark, hang in mid air.
+The hall continues to the north and south.
+~
+57 553 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3758
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3761
+S
+#3760
+A dark corridor~
+This hall is completely dark.  The walls are crumbling and there is a thick,
+musty smell in the air.  Small globes hang in mid air, cracked and dark.  The
+hallway continues east and west.
+~
+57 553 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3764
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3758
+S
+#3761
+A dark corridor~
+This hall is completely dark.  The walls are crumbling and there is a thick
+musty smell in the air.  Small globes, cracked and dark, hang in mid air.
+The hall continues to the north and south.
+~
+57 553 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3759
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3762
+S
+#3762
+A dark corridor~
+This hall is completely dark.  The walls are crumbling and there is a thick
+musty smell in the air.  Small globes, cracked and dark, hang in mid air.
+The hall continues to the north and south.
+~
+57 553 0 0
+0 1 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3761
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3763
+S
+#3763
+A collapsed corridor~
+The corridor ends here in a cave in.  The roof has collapsed and the hall is
+now blocked by tons of rocks and debris.  Rubble and larger stones clutter the
+corridor.
+~
+57 557 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3762
+S
+#3764
+A dark corridor~
+This hall is completely dark.  The walls are crumbling and there is a thick,
+musty smell in the air.  Small globes hang in mid air, cracked and dark.  The
+hallway continues to the west and a door stands to the south.
+~
+57 559 0 0
+0 0 0 0
+0 0 0
+D2
+You see a huge door set into the stone wall to the south, made of steel.
+Magical sigils have been engraved around the doorway and inlaid with silver.
+~
+door~
+ ~
+ ~
+1 -1 3765
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3760
+S
+#3765
+The casting chamber~
+The walls of this room are made of a smooth, grey material.  The ceiling is
+about thirty feet high and the walls stretch out away from you till they are
+almost lost in the shadows.  A pentegram has been inscribed on the floor and
+inlaid with silver.
+~
+57 552 0 0
+0 0 0 0
+200 0 0
+D0
+ ~
+door~
+$n struggles against an unseen force with all their might before leaving.~
+ ~
+1 -1 3764
+D5
+A wide hole has been cut down into the floor within the boundaries of the
+pentegram. The walls of the tunnel are a smooth black rock which lead
+down into darkness.  Bursts of flame leap from the pit's opening.
+~
+ ~
+The room explodes into flames as $n returns to the depths of the abyss.~
+ ~
+1 -1 1195
+S
+#3766
+A forest path~
+You're traveling along a dark forest path.  The trees seem to close in upon you
+and every once in a while you can see a pair of eyes staring at you from the
+darkness, only to disappear when you look at them.
+~
+57 65 3 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3652
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3767
+S
+#3767
+A forest path~
+The darkness continues.  You're not even sure exactly where you're headed
+because the darkness cuts your vision down to only a few feet in front of you.
+If you weren't positive you'd swear you'd been this way before, but the trees
+can't move, or can they...
+~
+57 65 3 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3768
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3766
+S
+#3768
+A forest path~
+The darkness continues.  You're not even sure exactly where you're headed
+because the darkness cuts your vision down to only a few feet in front of you.
+If you weren't positive you'd swear you'd been this way before, but the trees
+can't move, or can they...
+~
+57 65 3 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3767
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3769
+S
+#3769
+A forest path~
+You're traveling along a dark forest path.  The trees seem to close in around
+you.  Once in a while you think you can see a pair of eyes watching you from
+the darkness, but when you turn to look, they are gone.
+~
+57 65 3 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3768
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3644
+S
+#3770
+A forest path~
+You're traveling along a dark and eerie forest trail.  The trees seem to shift
+and move around, you're not exactly sure which way you're headed.  Once in a
+while you think you see eyes watching you from the darkness, and if you weren't
+sure, you'd swear you had been this way before.
+~
+57 65 3 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3652
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3771
+S
+#3771
+A forest path~
+You're traveling along a dark and eerie forest trail.  The trees seem to shift
+and move around, you're not exactly sure which way you're headed.  Once in a
+while you think you see eyes watching you from the darkness, and if you weren't
+sure, you'd swear you had been this way before.
+~
+57 65 3 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3772
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3770
+S
+#3772
+A forest path~
+You're traveling along a dark and eerie forest trail.  The trees seem to shift
+and move around, you're not exactly sure which way you're headed.  Once in a
+while you think you see eyes watching you from the darkness, and if you weren't
+sure, you'd swear you had been this way before.
+~
+57 65 3 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3771
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3773
+S
+#3773
+A forest path~
+You're traveling along a dark and eerie forest trail.  The trees seem to shift
+and move around, you're not exactly sure which way you're headed.  Once in a
+while you think you see eyes watching you from the darkness, and if you weren't
+sure, you'd swear you had been this way before.
+~
+57 65 3 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3772
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3774
+S
+#3774
+A forest path~
+You're traveling along a dark and eerie forest trail.  The trees seem to shift
+and move around, you're not exactly sure which way you're headed.  Once in a
+while you think you see eyes watching you from the darkness, and if you weren't
+sure, you'd swear you had been this way before.
+~
+57 65 3 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3773
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3775
+S
+#3775
+A forest path~
+You're traveling along a dark and eerie forest trail.  The trees seem to shift
+and move around, you're not exactly sure which way you're headed.  Once in a
+while you think you see eyes watching you from the darkness, and if you weren't
+sure, you'd swear you had been this way before.
+~
+57 65 3 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3774
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3776
+S
+#3776
+A forest path~
+You're traveling along a dark and eerie forest trail.  The trees seem to shift
+and move around, you're not exactly sure which way you're headed.  Once in a
+while you think you see eyes watching you from the darkness, and if you weren't
+sure, you'd swear you had been this way before.
+~
+57 65 3 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3775
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3777
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3781
+S
+#3777
+A forest path~
+You're traveling along a dark and eerie forest trail.  The trees seem to shift
+and move around, you're not exactly sure which way you're headed.  Once in a
+while you think you see eyes watching you from the darkness, and if you weren't
+sure, you'd swear you had been this way before.
+~
+57 65 3 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3776
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3778
+S
+#3778
+A forest path~
+You're traveling along a dark and eerie forest trail.  The trees seem to shift
+and move around, you're not exactly sure which way you're headed.  Once in a
+while you think you see eyes watching you from the darkness, and if you weren't
+sure, you'd swear you had been this way before.
+~
+57 65 3 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3781
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3777
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3779
+S
+#3779
+A forest path~
+You're traveling along a dark and eerie forest trail.  The trees seem to shift
+and move around, you're not exactly sure which way you're headed.  Once in a
+while you think you see eyes watching you from the darkness, and if you weren't
+sure, you'd swear you had been this way before.
+~
+57 65 3 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3780
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3778
+S
+#3780
+A forest path~
+You're traveling along a dark and eerie forest trail.  The trees seem to shift
+and move around, you're not exactly sure which way you're headed.  Once in a
+while you think you see eyes watching you from the darkness, and if you weren't
+sure, you'd swear you had been this way before.
+~
+57 65 3 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3781
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3779
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3790
+S
+#3781
+Base of a tall tree~
+You stand at the foot of a huge tree with black bark.  Its branches are dead
+and leafless.  All the plants around it seem to be withered and dying.  You
+can return to the small trail to the east, west and south.
+~
+57 65 3 0
+0 0 0 0
+30 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3776
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3778
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3780
+D4
+ ~
+ ~
+$n starts up the tree.~
+$n climbs up the tree and stands on a branch near you.~
+1 -1 3783
+S
+#3783
+Climbing the dead tree~
+You are climbing up the dead tree, making use of its many branches.  You are
+about level with the tops of the rest of the forest trees.  You can see the sky
+from here as well as the temple.  A chill runs through your body as you stare
+at the shifting fog surrounding it.  The tree top is still high above you.
+~
+57 68 3 0
+0 0 0 0
+30 0 0
+D4
+ ~
+ ~
+$n climbs up the tree.~
+$n climbs up the tree to where you are.~
+1 -1 3784
+D5
+ ~
+ ~
+$n climbs down the tree.~
+$n climbs down the tree from above you.~
+1 -1 3781
+S
+#3784
+Top of the dead tree~
+You have reached the top of the ancient tree.  Looking around you can see
+the forest stretch out in all directions, you are level with the top of the
+temple. It's peak as crumbled and decayed over the many years.
+~
+57 68 3 0
+0 0 0 0
+30 0 0
+D5
+ ~
+ ~
+$n climbs down the tree.~
+$n climbs down from above you.~
+1 -1 3783
+S
+#3790
+A forest path~
+You're traveling along a dark and eerie forest trail.  The trees seem to shift
+and move around, you're not exactly sure which way you're headed.  Once in a
+while you think you see eyes watching you from the darkness, and if you weren't
+sure, you'd swear you had been this way before.
+~
+57 65 3 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3780
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3791
+S
+#3791
+A forest path~
+You're traveling along a dark and eerie forest trail.  The trees seem to shift
+and move around, you're not exactly sure which way you're headed.  Once in a
+while you think you see eyes watching you from the darkness, and if you weren't
+sure, you'd swear you had been this way before.
+~
+57 65 3 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3792
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3790
+E
+leaf~
+This zone, in its entirety, was created by "Kat"
+on or about February of 1994.
+~
+S
+#3792
+A forest path~
+You're traveling along a dark and eerie forest trail.  The trees seem to shift
+and move around, you're not exactly sure which way you're headed.  Once in a
+while you think you see eyes watching you from the darkness, and if you weren't
+sure, you'd swear you had been this way before.
+~
+57 65 3 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3793
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3791
+S
+#3793
+A forest path~
+You're traveling along a dark and eerie forest trail.  The trees seem to shift
+and move around, you're not exactly sure which way you're headed.  Once in a
+while you think you see eyes watching you from the darkness, and if you weren't
+sure, you'd swear you had been this way before.
+~
+57 65 3 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3794
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3792
+S
+#3794
+A forest path~
+You're traveling along a dark and eerie forest trail.  The trees seem to shift
+and move around, you're not exactly sure which way you're headed.  Once in a
+while you think you see eyes watching you from the darkness, and if you weren't
+sure, you'd swear you had been this way before.
+~
+57 65 3 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3795
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3793
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3796
+S
+#3795
+A forest path~
+You're traveling along a dark and eerie forest trail.  The trees seem to shift
+and move around, you're not exactly sure which way you're headed.  Once in a
+while you think you see eyes watching you from the darkness, and if you weren't
+sure, you'd swear you had been this way before.  Several tree branches obscure
+a side path leading south.
+~
+57 65 3 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3650
+D2
+A large branch hangs across the path.
+~
+ ~
+$n walks into a thick patch of trees.~
+$n pushes through some trees.~
+5 -1 3815
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3794
+S
+#3796
+Bottom of the hill~
+You are on a dark forest path.  It makes a turn here up a small hill to the
+north and continues back to the east.  The branches of trees and bushes have
+been broken away, providing a narrow path up it.
+~
+57 65 4 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+$n starts up the hill.~
+$n comes walking up the hill.~
+1 -1 3798
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3794
+S
+#3797
+Top of a hill~
+The forest is still very dense here.  Not much sunlight penetrates the thick
+tree branches.  You have ascended to the top of the hill, looking to your east
+you can see a steep downgrade.  At the bottom is another path, you could
+probably slide down the hill, but wouldn't be able to get back up.
+~
+57 65 3 0
+0 0 0 0
+40 0 0
+D1
+A fairly steep downgrade.
+~
+ ~
+$n slowly starts down the cliffside.~
+$n comes sliding down the cliff and tumbles onto the trail.~
+1 -1 3642
+D2
+A small trail leading down the hill.
+~
+ ~
+$n isn't very adventurous and decides to walk back down the hill.~
+$n is descending the hill.~
+1 -1 3798
+S
+#3798
+On a hillside~
+You are walking up a narrow trail through the woods.  The path has become
+more rocky and your footing is unstable.  The sky is still not visible through
+the dense covering of branches.
+~
+57 65 4 0
+0 0 0 0
+35 0 0
+D0
+ ~
+ ~
+$n continues up the hill.~
+$n has climbed up the hill from the south and reached the top.~
+1 -1 3797
+D2
+ ~
+ ~
+$n continues down the hill.~
+$n pants a little after getting to the bottom of the hill.~
+1 -1 3796
+S
+#3815
+The corner of the temple~
+You stand at the corner of Bloodstone temple.  The smooth black marble walls
+come to a point sharp enough to cut yourself, while higher up the walls have
+crumbled and decayed.  The trail continues north and south.
+~
+57 65 3 0
+0 0 0 0
+5 0 0
+D0
+A large branch hangs across the path.
+~
+ ~
+$n pushes $s way through some trees.~
+$n walks out of a thick patch of trees.~
+1 -1 3795
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3819
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3820
+S
+#3819
+The thorny underbrush~
+You crawl through the underbrush which has creeped up to the temple walls
+over the years.  The weeds tangle around your ankles making it hard to walk
+through this mess, even the weeds are against you making any progress.
+~
+57 65 3 0
+0 0 0 0
+15 0 0
+D1
+You see some really thick weeds and bushes.
+~
+ ~
+$n gets a running start and crashes through the weeds to the east.~
+$n almost falls as they push their way through some thick weeds.~
+1 -1 3654
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3815
+S
+#3820
+Some thick underbrush~
+You crawl through the underbrush which has creeped up to the temple walls
+over the years.  The weeds tangle around your ankles making it hard to walk
+through this mess, even the weeds are against you making any progress.
+~
+57 65 3 0
+0 0 0 0
+15 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3815
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3821
+S
+#3821
+Some thick underbrush~
+You crawl through the underbrush which has creeped up to the temple walls
+over the years.  The weeds tangle around your ankles making it hard to walk
+through this mess, even the weeds are against you making any progress.
+~
+57 65 3 0
+0 0 0 0
+15 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3820
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3822
+S
+#3822
+The corner of the temple~
+You stand at the corner of Bloodstone temple.  The smooth black marble walls
+come to a point sharp enough to cut yourself, while higher up the walls have
+crumbled and decayed.
+~
+57 65 3 0
+0 0 0 0
+5 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3821
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3823
+S
+#3823
+The thorny underbrush~
+You crawl through the underbrush which has creeped up to the temple walls
+over the years.  The weeds tangle around your ankles making it hard to walk
+through this mess, even the weeds are against you making any progress.
+~
+57 65 3 0
+0 0 0 0
+15 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3824
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3822
+S
+#3824
+Behind the temple~
+You are standing behind the temple in a small clearing.  It seems as if some
+creature, or creatures, has passed this way recently, unfortunately you have
+never seen tracks like these before so you have no clue as to what it could be.
+~
+57 69 3 0
+0 0 0 0
+5 0 0
+D0
+ ~
+passage~
+$n slowly creeps into the temple, peering around.~
+ ~
+3 5732 3831
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3825
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3823
+E
+temple~
+The black temple wall rises up to the north.  Its surface is smooth
+and unmarred, except in one place where a large chunk seems to have
+been removed.
+~
+S
+#3825
+The thorny underbrush~
+You crawl through the underbrush which has creeped up to the temple walls
+over the years.  The weeds tangle around your ankles making it hard to walk
+through this mess, even the weeds are against you making any progress.
+~
+57 65 3 0
+0 0 0 0
+15 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3826
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3824
+S
+#3826
+The corner of the temple~
+You stand at the corner of Bloodstone temple.  The smooth black marble walls
+come to a point sharp enough to cut yourself, while higher up the walls have
+crumbled and decayed.
+~
+57 65 3 0
+0 0 0 0
+5 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3827
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3825
+S
+#3827
+Some thick underbrush~
+You crawl through the underbrush which has creeped up to the temple walls
+over the years.  The weeds tangle around your ankles making it hard to walk
+through this mess, even the weeds are against you making any progress.
+~
+57 65 3 0
+0 0 0 0
+15 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3828
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3826
+S
+#3828
+Some thick underbrush~
+You crawl through the underbrush which has creeped up to the temple walls
+over the years.  The weeds tangle around your ankles making it hard to walk
+through this mess, even the weeds are against you making any progress.
+~
+57 65 3 0
+0 0 0 0
+15 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3829
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3827
+S
+#3829
+The corner of the temple~
+You stand at the corner of Bloodstone temple.  The smooth black marble walls
+come to a point sharp enough to cut yourself, while higher up the walls have
+crumbled and decayed.
+~
+57 65 3 0
+0 0 0 0
+5 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3828
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3830
+S
+#3830
+The thorny underbrush~
+You crawl through the underbrush which has creeped up to the temple walls
+over the years.  The weeds tangle around your ankles making it hard to walk
+through this mess, even the weeds are against you making any progress.
+~
+57 65 3 0
+0 0 0 0
+15 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3829
+D3
+A large wall of thorns and bushes.
+~
+ ~
+$n lowers thier head and charges at the weeds and thorns.~
+$n screams and groans as they push their way through some thick weeds.~
+1 -1 3654
+S
+#3831
+The secret chamber~
+A thick layer of dust covers everything in this once secret chamber.  It's icy
+cold, not unlike a tomb, here.  A feeling of dread overwhelms you as you look
+into the inky darkness and wonder what secrets lay beyond.
+~
+57 553 0 0
+0 0 6 0
+0 0 0
+D2
+ ~
+passage~
+$n quickly walks through the secret passage.~
+$n takes a deep breath of freash air as they come out of the temple.~
+3 5732 3824
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3832
+S
+#3832
+A long dark hallway~
+The hallway continues along with the impenetrable darkness.  They seem to
+merge to the point at which you cannot tell where the darkness ends and the
+hallway begins.  The only thing that breaks the curtain of silence that hangs
+here is the beating of your own heart.
+~
+57 553 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3831
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3833
+S
+#3833
+A long dark hallway~
+The hallway continues along with the impenetrable darkness.  They seem to
+merge to the point at which you cannot tell where the darkness ends and the
+hallway begins.  The only thing that breaks the curtain of silence that hangs
+here is the beating of your own heart.
+~
+57 553 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3832
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3834
+S
+#3834
+An illuminated room~
+Finally, a break in the darkness.  This room looks as if something has been
+here recently, for the layer of dust is not as thick and is disturbed in
+several places.  There western wall is actually some soft of portal that glows
+and hums with magical energy.
+~
+57 552 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3833
+D3
+A shimmering portal of light.
+A set of portcullis blocks the entire west wall.
+~
+portcullis~
+$n walks into the portal and disappears.~
+$n A flash of light blinds you momentarily and $n stands before you.~
+1 -1 3835
+S
+#3835
+The first guardian~
+You have entered a huge room that has been the site of many great battles
+judging by the scorch marks and damage done to the walls.  The portal you used
+to arrive in this chamber closes behind you, leaving you trapped here with
+whatever beast makes this its home.  A small ladder is built into a far wall.
+~
+57 552 0 0
+0 0 0 0
+100 0 0
+D3
+The is a narrow, dark passage cut through the wall to the west.
+It looks very cramped and difficult to navigate.
+~
+wall~
+$n uses their advanced training and dexterity to crawl into the passageway.~
+ ~
+1 2001 3898
+D4
+ ~
+ ~
+ ~
+ ~
+2 2001 3837
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 1195
+S
+#3837
+Above the lair~
+There is a hole in the floor and a ladder leading down.  The room is made
+entirely of black marble, all polished smooth.  A hallway leads off to the
+east.
+~
+57 553 0 0
+0 1 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3838
+D3
+ ~
+wall~
+ ~
+ ~
+1 2001 3899
+D5
+ ~
+trapdoor~
+ ~
+ ~
+1 2001 3835
+S
+#3838
+A long dark hallway~
+The absolute darkness continues along with the hallway.  They seem to merge
+at a pinpoint and you have trouble diserning the hallway from the darkness.
+The only noise that breaks the vail of silence that looms like a thick fog
+is the beating of your heart, getting ever louder.
+~
+57 553 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3839
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3837
+S
+#3839
+A long dark hallway~
+The absolute darkness continues along with the hallway.  They seem to merge
+at a pinpoint and you have trouble diserning the hallway from the darkness.
+The only noise that breaks the vail of silence that looms like a thick fog
+is the beating of your heart, getting ever louder.
+~
+57 553 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3840
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3838
+S
+#3840
+The end of the hall~
+You come to the end of a long hallway.  A wall blocks your way farther east
+and the hallway leads back the way you came from the west.  A strange swirling
+vortex is on the east wall, it glows and hums with a magical energy.  This
+archane portal lights the entire room.
+~
+57 552 0 0
+0 0 0 0
+0 0 0
+D1
+A large vortex, glowing and swirling with magical energy.
+A set of portcullis blocks the entire east wall.
+~
+portcullis~
+$n steps into the vortex and disappears.~
+$n arrives in a flash of bright light.~
+1 -1 3841
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3839
+S
+#3841
+A guardian's lair~
+The walls and floor of this room have been scorched and there are huge jashes
+taken out of the marble surfaces of the wall.  You can see the charred remains
+of many skeletons scattered about the floor.  The vortex which brought you here
+has closed behind you, there is a ladder built into the far wall leading up.
+~
+57 552 0 0
+0 0 0 0
+250 0 0
+D1
+You can see many holy symbols carved into the wall.
+~
+wall~
+A strange force pushes you back, yet $n is allowed passage.~
+ ~
+1 2001 3900
+D4
+ ~
+ ~
+ ~
+ ~
+1 2001 3842
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 1195
+S
+#3842
+Above the lair~
+There is a hole in the floor and a ladder leading down.  The room is made
+antirely of black marble, all polished smooth.  A hallway leads off to the
+west.
+~
+57 553 0 0
+0 1 0 0
+0 0 0
+D1
+ ~
+wall~
+ ~
+ ~
+1 2001 3901
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3843
+D5
+ ~
+trapdoor~
+ ~
+ ~
+1 2001 3841
+S
+#3843
+A long dark hallway~
+The impenetrable darkness continues along with the hallway.  They seem to
+merge to the point at which you cannot tell where the darkness ends and the
+hallway begins.  The only thing which breaks the curtain of silence that
+hangs around you is the beating of your own heart, which sounds very loud in
+your ears.
+~
+57 553 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3842
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3844
+S
+#3844
+A long dark hallway~
+The impenetrable darkness continues along with the hallway.  They seem to
+merge to the point at which you cannot tell where the darkness ends and the
+hallway begins.  The only thing which breaks the curtain of silence that
+hangs around you is the beating of your own heart, which sounds very loud in
+your ears.
+~
+57 553 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3843
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3845
+S
+#3845
+The black gate~
+The hallway comes to an end here where a large gate has been built, blocking
+the way west.  It is made entirely of black polished stone which seems to
+glow with an inner energy and it opens at your approach, allowing access
+further down the hallway.
+~
+57 553 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3844
+D3
+An emense black gate is here, blocking the entire west end of the corridor.
+~
+gate~
+$n cautiously walks down the hall, through the gate.~
+$n turns quickly, startled by the loud *clang* of the gate closing.~
+1 -1 3846
+S
+#3846
+The room of bones~
+This is a huge room, its walls were once smooth and polished, but now have
+scrapes and marks from the many battles faught here.  Piles of bones and armor
+have been arranged about the room and all the skulls have been put in a circle
+in the center of the room.  A ladder is built into the far wall, leading up.
+The gates have closed behind you, sealing off your exit to the east.
+~
+57 552 0 0
+0 0 0 0
+250 0 0
+D4
+ ~
+trapdoor~
+ ~
+ ~
+1 2001 3847
+S
+#3847
+A small crawlspace~
+You are in a narrow, cramped crawlspace above the ceiling.  This room is
+only a few feet high and stretches back about ten feet into the darkness.
+A thick layer of dust covers the floor and walls and a heavy, musty odor
+fills your nose.  Cobwebs hang from the corners of the ceiling and cling
+to your body and face.
+~
+57 553 0 0
+7 1 0 0
+0 0 0
+D5
+ ~
+trapdoor~
+ ~
+ ~
+1 2001 3846
+S
+#3848
+The marble hall~
+The hallway is carved out of the same black marble as the rest of the temple.
+not a single seam can be found in the rock leading you to believe that perhaps
+magic had a critical role in its construction.
+~
+57 553 0 0
+0 1 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3850
+D5
+A large plate of marble looks as if it could be lifted from the floor.
+~
+trapdoor~
+ ~
+ ~
+2 5730 3750
+S
+#3849
+A junction in the hall~
+It's so dark in this hall that without feeling along the walls, you would
+never have know that the hall splits up here.  Neither way has a light at
+the end, so you have no way of knowing which is the safer course, or less
+safe.
+~
+57 553 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3851
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3850
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3853
+S
+#3850
+The marble hall~
+The hallway is carved out of the same black marble as the rest of the temple.
+Not a single seam can be found in the rock leading you to believe that perhaps
+magic had a critical role in its construction.
+~
+57 553 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3849
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3848
+S
+#3851
+The marble hall~
+The hallway is carved out of the same black marble as the rest of the temple.
+not a single seam can be found in the rock leading you to believe that perhaps
+magic had a critical role in its construction.
+~
+57 553 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3852
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3849
+S
+#3852
+The marble hall~
+The hallway is carved out of the same black marble as the rest of the temple.
+not a single seam can be found in the rock leading you to believe that perhaps
+magic had a critical role in its construction.
+~
+57 553 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+door~
+ ~
+ ~
+1 2001 3873
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3851
+S
+#3853
+The marble hall~
+The black marble in this hall is very smooth and polished to perfection.
+Your light source creates small points of light on its surface making it
+appear as though you were looking into the fabric of the universe itself.
+~
+57 553 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3849
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3854
+S
+#3854
+The marble hall~
+The black marble in this hall is very smooth and polished to perfection.
+Your light source creates small points of light on its surface making it
+appear as though you were looking into the fabric of the universe itself.
+~
+57 557 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3853
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3855
+S
+#3855
+The great door~
+The floor suddenly gives way and you fall quite some distance before hitting
+bottom.  As soon as you regain your senses you see that you are standing before
+a great golden door.  The door is larger than any you have ever seen and most
+likely leads to the fabled treasure of Bloodstone.
+~
+57 555 0 0
+0 0 0 0
+0 0 0
+D3
+ ~
+vault door golden~
+ ~
+ ~
+1 2001 3856
+S
+#3856
+The vault of Bloodstone~
+You stand in the fabled vault of Bloodstone.  This room was once only a legand,
+for the people who made the temple their home never let outsiders see it, and
+those that did were slain immediatly.  Few mortal eyes ever laid sight on the
+riches contained in here, only items fit for a god were kept inside such a
+sacred place.
+~
+57 552 0 0
+0 1 0 0
+0 0 0
+D1
+ ~
+vault door golden~
+ ~
+ ~
+1 2001 3855
+S
+#3873
+The master's workshop~
+This room is obviously used by someone dedicated to the art of magic.  Beakers
+and test tubes in pristine condition lie in perfect order on the tables.
+Labled reagent bottles are stacked neatly in the cabinets, and not a spec of
+dust or dirt is to be found anywhere, much unlike the rest of the temple.  It
+is obvious someone has been here recently, a candle still burns on the table.
+~
+57 556 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+door~
+ ~
+$n appears suddenly, looking a little startled.~
+1 2001 3877
+D2
+ ~
+door~
+ ~
+ ~
+1 2001 3852
+S
+#3877
+The master's private chamber~
+You can't help but feel you're intruding on someones private life when you
+enter this room.  Everything in here is in perfect condition, but covered with
+a thick layer of dust.  it's as if someone wants the room to remain the same
+until the end of time, nothing should be moved from its sacred place.  A glowing
+portal is on the north wall and there is no visible exit to the south.
+~
+57 552 0 0
+0 0 0 0
+250 0 0
+D0
+A shimmering portal of many colors.
+~
+ ~
+$n walks through the portal in the north wall.~
+$n walks through a portal from the south.~
+1 -1 3897
+S
+#3897
+Chamber of portals~
+This room is made from the same black marble used throughout the temple.  The
+walls are polished and smooth.  A glowing portal occupies each wall in this
+room.
+~
+57 552 0 0
+0 1 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3733
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3654
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3877
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2
+S
+#3898
+A secret passage~
+This is a small, cramped tunnel.  You are forced to go through on your hands
+and knees.
+~
+57 553 0 0
+14 1 0 0
+10 0 0
+D1
+ ~
+wall~
+ ~
+ ~
+1 2001 3835
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 3899
+S
+#3899
+A secret passage~
+This is a small, cramped tunnel.  You are forced to go through on your hands
+and knees.
+~
+57 553 0 0
+14 15 0 0
+10 0 0
+D1
+ ~
+wall~
+ ~
+ ~
+1 2001 3837
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 3898
+S
+#3900
+A glowing passage~
+This is a glowing passageway which winds its way through the rock.
+~
+57 552 0 0
+11 1 0 0
+25 0 0
+D3
+ ~
+wall~
+ ~
+ ~
+1 2001 3841
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 3901
+S
+#3901
+A glowing passage~
+This is a glowing passageway which winds its way through the rock.
+~
+57 552 0 0
+11 15 0 0
+25 0 0
+D3
+ ~
+wall~
+ ~
+ ~
+1 2001 3842
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 3900
+S
+#3903
+Above the gate~
+You are climbing above the gate to Bloodstone fortress.  The site of the temple
+sends chills down your spine, for even at this level you cannot see the top
+nor can you see the bottom due to the dark forest below.
+~
+57 66 5 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3910
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3904
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 3911
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 3654
+S
+#3904
+Corner of the temple~
+You are walking around a ledge on the temple above the dark forest, and you're
+glad you are.  At this height you could swear the trees are moving with a life
+of their own.  Perhaps you would be better off staying home next time.
+~
+57 64 5 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3903
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3905
+S
+#3905
+Above the trees~
+You are walking around a ledge on the temple above the dark forest, and you're
+glad you are.  At this height you could swear the trees are moving with a life
+of their own.  Perhaps you would be better off staying home next time.
+~
+57 64 5 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3904
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3906
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 3918
+S
+#3906
+Corner of the temple~
+You are walking around a ledge on the temple above the dark forest, and you're
+glad you are.  At this height you could swear the trees are moving with a life
+of their own.  Perhaps you would be better off staying home next time.
+~
+57 64 5 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3905
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3908
+S
+#3907
+Corner of the temple~
+You are walking around a ledge on the temple above the dark forest, and you're
+glad you are.  At this height you could swear the trees are moving with a life
+of their own.  Perhaps you would be better off staying home next time.
+~
+57 64 5 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3909
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3908
+S
+#3908
+Behind the temple~
+As you walk behind the temple a cold feeling of dread seems to gnaw at you.  It
+almost feels as if the evil of the temple reached out and grabed your heart
+to feed on your very soul and nothing you can do will stop it.
+~
+57 64 5 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3907
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3906
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 3915
+S
+#3909
+Above the trees~
+You are walking around a ledge on the temple above the dark forest, and you're
+glad you are.  At this height you could swear the trees are moving with a life
+of their own.  Perhaps you would be better off staying home next time.
+~
+57 64 5 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3910
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3907
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 3914
+S
+#3910
+Corner of the temple~
+You are walking around a ledge on the temple above the dark forest, and you're
+glad you are.  At this height you could swear the trees are moving with a life
+of their own.  Perhaps you would be better off staying home next time.
+~
+57 64 5 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3909
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3903
+S
+#3911
+In front of the temple~
+It seems as if this amazing temple has power over the sun itself, for the
+entire structure is covered in shadow.  The air near the temple feels like
+winter and nothing makes you feel any warmer, the evil of the temple
+permeates everything here.
+~
+57 64 5 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3912
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3917
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 3947
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 3903
+S
+#3912
+East of the temple~
+This side of the temple, like the rest, is cloaked in shadow and deceit.  It
+almost seems as if the temple is made, not of marble, but of shadows
+themselves, hiding something.  Perhaps hiding a great evil, such as the world
+has never known before.
+~
+57 64 5 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3914
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3911
+S
+#3913
+East of the temple~
+This side of the temple, like the rest, is cloaked in shadow and deceit.  It
+almost seems as if the temple is made, not of marble, but of shadows
+themselves, hiding something.  Perhaps hiding a great evil, such as the world
+has never known before.
+~
+57 64 5 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3914
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3915
+S
+#3914
+The east side of the temple~
+The walls have begun to decay, they didnt stand a chance against time and
+nature.  You also notice some strange creature circling overhead, perhaps
+waiting to make you its next meal.
+~
+57 64 5 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3912
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3913
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 3947
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 3909
+S
+#3915
+South of the temple~
+The once smooth black marble walls have started to decay at this height
+leaving the walls rough and dull.  However this only serves to make the temple
+appear twisted and more evil then you thought possible.
+~
+57 64 5 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3913
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3916
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 3947
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 3908
+S
+#3916
+The west side of the temple~
+This side of the temple appears to be in worse condition than the rest.  There
+are scratch marks everywhere, and it would take an impressive creature to be
+able to scratch that surface.  In fact, you can even see a hole in the side of
+the temple to the north.
+~
+57 64 5 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3918
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3915
+S
+#3917
+The west side of the temple~
+This side of the temple appears to be in worse condition than the rest.  There
+are scratch marks everywhere, and it would take an impressive creature to be
+able to scratch that surface.  In fact, you can even see a hole in the side of
+the temple to the north.
+~
+57 64 5 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3911
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3918
+S
+#3918
+Outside the hole~
+You are standing outside a dark hole in the side of the temple.  While it is
+impossible to make out anything specific inside you could swear you see
+something moving in there.  You can also hear the screeching of some terrible
+animal over the howl of the wind.
+~
+57 64 5 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3917
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3919
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3916
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 3947
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 3905
+S
+#3919
+The lair~
+A family of wyvrens have carved a nest out of the temple itself.  The dry and
+broken bones of many different types of creatures, including humans, litter
+the floor, their skeletons snaped by the creatures powerful jaws.  Since many
+animals hate when you disturb their homes perhaps it would be a good idea to
+leave while you still can.
+~
+57 73 0 0
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3918
+S
+#3947
+The top of the temple~
+Wow!  You can see your house from here.  You stand on the pinnacle of Bloodstone
+fortress.  This mighty peak didnt stand a chance against the ravages of time
+and nature, however it is a credit to its creators that it is standing at all
+after all this time.
+~
+57 64 5 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3911
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3914
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3915
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 3918
+E
+temple top peak~
+You notice a large stone which looks like it could be slid aside.
+~
+S
+#4533
+Edge of a Ravine~
+You are on a trail at the beginning of a ravine which runs to the west.
+Steep rocky walls rise up to the north and southwest.  A searing hot
+river of lava flows by on the east and south sides of this area.
+An overgrown trail leads into a dense grove of trees to the south,
+on the opposite side of the lava flow.
+~
+57 4 3 0
+0 0 0 0
+0 0 0
+D1
+~
+~
+~
+~
+0 0 63410
+D2
+~
+~
+~
+~
+0 0 63409
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4535
+S
+#4534
+A bend in the path~
+You're walking along a dirt trail.  Steep ravine walls rise up to the
+west and south, blocking your passage. Weeds crowd the sides of the
+trail which continues to the east and north.
+~
+57 4 3 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4536
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4535
+S
+#4535
+A dirt path~
+You're walking along a dirt trail.  Steep ravine walls rise up to the
+north and south, blocking your passage.  Weeds crowd the sides of the
+trail which continues to the east and west.
+~
+57 4 3 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4533
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4534
+S
+#4536
+A trail through the hills~
+You walk along a narrow trail between the hills, making your way over
+rocks that crowd the path.  Large boulders block the way to east and north,
+forcing the trail to the bend, leading west and south.  Some weeds grow
+on the rock surfaces and out of the hard soil.
+~
+57 4 3 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4534
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4537
+S
+#4537
+Beginning of a narrow trail~
+You walk along a narrow trail between the hills, making your way over rocks
+that crowd the path. Some weeds grow out of the hard packed dirt and rocky
+soil. A thick wall of thorny bushes obstructs your way to the south. A tall,
+barren tree rises up from the dangerous growth and a narrow path leads east.
+There is a weather-beaten sign hammered into the ground at the side of the
+trail.
+~
+57 4 3 0
+0 0 0 0
+0 0 0
+D0
+~
+~
+~
+~
+0 0 63412
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4536
+D3
+~
+~
+~
+~
+0 0 63411
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 4538
+E
+sign~
+Crudely made and decaying with age, the sign reads, 'Beware to al....
+...ter this place of e.. ..urn back while ye sti... '
+A battered and dirty helmet lies next to the sign's post.
+~
+S
+#4538
+In a barren tree~
+You stand upon a thick, strong branch of this massive tree. The trunk is
+much too large for your arms to encircle.  This limb, which is about twenty
+feet above the ground, provides you with an unobstructed view of the
+surrounding terrain.  To the east, you see the majestic River Carthein which
+stretches endlessly to the north but topples over a deadly waterfall not far
+to the south.  On the westen side of the river, a dense forest reaches across
+the landscape.  You are surrounded on this side of the river by foothills
+and rocky terrain.  Contained within a ring of larger hills to the southeast
+is a dark, evil forest.  This limb reaches out to the west, hanging over the
+river's surface. Several other branches allow you to climb down the tree, but
+there are too few above you to proceed any farther in that direction.
+~
+57 4 3 0
+0 0 0 0
+0 0 0
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 4537
+S
+#5424
+A chamber of portals~
+ ~
+57 2220 0 0
+7 22 0 0
+0 0 0
+D1
+ ~
+fireplace~
+ ~
+ ~
+2 5799 3648
+S
+#6155
+Outside the Silver Shrine~
+This is a small clearing in a dense forest.  At the south end is a
+small building made entirely of silver.  The roof rises in a sharp
+point as high as the tree tops.
+~
+57 131596 0 0
+0 0 0 0
+0 0 0
+D0
+~
+~
+~
+~
+0 0 63364
+D1
+~
+~
+~
+~
+0 0 63363
+D2
+A single door provides the only apparent entrance to the building.
+It too is made entirely of silver and intricately engraved with
+crest of the Knights of Solamnia.
+~
+door silver~
+$n enters the Shrine.~
+$n has entered the Shrine.~
+2 -1 813
+D3
+~
+~
+~
+~
+0 0 63365
+S
+#19001
+Overgrown path~
+You walk along a narrow trail, overgrown with weeds.  Dense trees
+border the path on the west and east.  The forest grows thicker and
+more sinister to the south.
+~
+57 64 3 7
+0 0 0 0
+0 0 0
+D2
+You see a dark forest in the distance.
+~
+ ~
+$n leaves to the south, making a trail through the underbrush.~
+$n enters, pushing some weeds aside.~
+1 -1 3642
+S
+#19999
+$~

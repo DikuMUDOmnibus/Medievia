@@ -1,0 +1,3217 @@
+#281
+A stone path~
+You travel upon a stone trail.  It looks as though it was just laid out, but
+never walked upon.  A few small plants struggle to survive, growing out of
+the dirt-filled cracks between the stone.  To the south, a large stone building
+rises from a heavy cloud which seems to be suffocating everything about it.
+~
+100 32 2 1
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 10000
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3895
+E
+building~
+You can't help but notice this huge fortress to the south.  The stone is very
+old, and it makes you wonder how long it has been built, and what is
+on the inside of this mysterious stone building.
+~
+S
+#282
+Along the northern drop~
+You travel upon a stone trail.  It looks as though it was just laid out, but
+never walked upon.  A few small plants struggle to survive, growing out of
+the dirt-filled cracks between the stone.  To the south, a large stone building
+rises from a heavy cloud which seems to be suffocating everything about it.
+The bluff drops sharply directly to your north.  Looking over the cliff, you can
+see a small trail winding its way up the mountain.
+~
+100 32 2 1
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 10000
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 283
+E
+building~
+You can't help but notice this huge fortress to the south.  The building is
+very old, and it makes you wonder how long it has been built, and what is
+on the inside of this mysterious stone building.
+~
+S
+#283
+Along the northern drop~
+You travel upon a stone trail.  It looks as though it was just laid out, but
+never walked upon.  A few small plants struggle to survive, growing out of
+the dirt-filled cracks between the stone.  To the south, a large stone building
+rises from a heavy cloud which seems to be suffocating everything about it.
+The bluff drops sharply directly to your north.  Looking over the cliff, you can
+see a small trail winding its way up the mountain.
+~
+100 32 2 1
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 282
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 284
+E
+building~
+ ~
+E
+building~
+You can't help but noticing this huge fortress to the south.  The stone is
+very old, and it makes you wonder how long it has been built, and what is
+on the inside of this mysterious stone building.
+~
+E
+building~
+ ~
+E
+building~
+You can't help but notice this huge fortress to the south.  The stone is very
+old, and it makes you wonder how long it has been built, and what is on the
+inside of this mysterious stone building.
+~
+S
+#284
+A stone path~
+You travel upon a stone trail.  It looks as though it was just laid out, but
+never walked upon.  A few small plants struggle to survive, growing out of
+the dirt-filled cracks between the stone.  To the south, a large stone building
+rises from a heavy cloud which seems to be suffocating everything about it.
+~
+100 32 2 1
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 283
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 285
+E
+building~
+You can't help but notice this huge fortress to the south.  The stone is very
+old, and it makes you wonder how long it has been built, and what is on the
+inside of this mysterious stone building.
+~
+S
+#285
+A stone path~
+You travel upon a stone trail.  It looks as though it was just laid out, but
+never walked upon.  A few small plants struggle to survive, growing out of
+the dirt-filled cracks between the stone.  To the south, a large stone building
+rises from a heavy cloud which seems to be suffocating everything about it.
+~
+100 36 2 1
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 284
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 10001
+E
+building~
+You can't help but notice this huge fortress to the south.  The stone is very
+old, and it makes you wonder how long it has been built, and what is on the
+inside of this mysterious stone building.
+~
+S
+#855
+The dim ladderwell~
+ You are climbing down a dimly lit ladderwell. There are bright lights above
+and below you, but you can barely see the rungs of the ladder before you. It
+looks like it is a long climb down.
+~
+100 44 0 7
+0 0 0 0
+50 0 0
+D4
+You see a solid ladder heading up to a hatch in the ceiling.
+~
+trapdoor hatch~
+ ~
+ ~
+1 -1 10010
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 4040
+S
+#856
+The glowing passageway~
+This passage is lit by its softly glowing walls.  You hear eerie moans all
+around you, and the passage seems to darken as it continues on.
+~
+100 40 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4045
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 857
+S
+#857
+The glowing passageway~
+This passage is lit by its softly glowing walls.  You hear eerie moans all
+around you, and the passage seems to darken as it continues on.
+~
+100 40 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 856
+D2
+ ~
+cage~
+ ~
+ ~
+1 -1 5713
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 858
+S
+#858
+The glowing passageway~
+This passage is lit by its softly glowing walls.  You hear eerie moans all
+around you, and the passage seems to darken as it continues on.
+~
+100 40 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+cage~
+ ~
+ ~
+1 -1 5725
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 857
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 859
+S
+#859
+The glowing passageway~
+This passage is lit by its softly glowing walls.  You hear eerie moans all
+around you, and the passage seems to darken as it continues on.
+~
+100 40 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 860
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 858
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5727
+S
+#860
+The glowing passageway~
+This passage is lit by its softly glowing walls.  You hear eerie moans all
+around you, and the passage seems to darken as it continues on.
+~
+100 40 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 861
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 859
+S
+#861
+The glowing passageway~
+This passage is lit by its softly glowing walls.  You hear eerie moans all
+around you, and the passage seems to darken as it continues on.
+~
+100 40 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 862
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 860
+D3
+ ~
+cage~
+ ~
+ ~
+1 -1 5726
+S
+#862
+The end of the glowing passage~
+ You have reached the end of the passageway, and the walls shed very little
+light around you. In fact, they seem to be feeding on the light you carry,
+pulsating with a dull throbbing blackness. To the south is a large oaken door,
+barely stifling screams of anguish.
+~
+100 41 0 7
+0 0 0 0
+0 0 0
+D2
+ ~
+oaken heavy~
+ ~
+ ~
+1 10000 863
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 861
+S
+#863
+The laboratory~
+As you enter this dark, musty room, you choke on the dust and stench of decay
+that surround you.  Dim magical gems provide what little light there is filling
+the room, although they seem to cause more distortion than clarity.  To the east
+lies a stack of charts and to the south is a cluttered looking desk.
+~
+100 41 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+oaken heavy~
+ ~
+ ~
+1 10000 862
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 864
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 865
+E
+desk~
+The desk is a cluttered mess of papers with scrawled formulae, a jumble
+of various alchemical apparatus and notebooks filled with a spidery, scrawl-
+ing script. Good luck finding anything in this mess!
+~
+E
+charts~
+The charts are for surmising the astrological and astronomical alignments
+which will best compliment the mage or alchemist during experiments and
+magical rituals. It all looks extremely complicated and hard on the eyes.
+~
+S
+#864
+The laboratory~
+This corner of the lab is filled with charts on anatomy.  Detailed sketches
+on the nervous system and circulatory system are scattered around, along with
+scattered notes scribbled hastily on scraps of paper.
+~
+100 41 0 7
+0 0 0 0
+0 0 0
+D0
+You see a heavy wooden door with a small frosted window.
+~
+wooden door~
+ ~
+ ~
+1 10000 1228
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4046
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 866
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 863
+S
+#865
+The laboratory~
+As you look at the large cluttered desk, you see that it is covered by several
+LARGE evil looking tomes on necromancy.  There is also a book on the making and
+control of golems, and a strange book detailing the making of mechanical men.
+~
+100 41 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 863
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 866
+S
+#866
+The laboratory table~
+Stepping close to the table, you see that it is made from a smooth white
+marble.  There are indentions along its surface that seem to have been made
+by a human sized body.
+~
+100 41 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 864
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 865
+S
+#1142
+On a misty path~
+The world seems to be spinning benieth your feet.  You keep your eyes closed
+tightly and crouch low to the ground, clutching at it in an attempt to
+steady yourself.  Slowly, you begin to regain your sense of direction and
+equilibrium and cautiously open your eyes.  The first thing you notice is
+a stoney, gray path beneith you, wide enough to fit three humans abreast.
+You glance around, starting at the empty void which lies on either side of
+the stone path.  A few feet into the blackness, a strange crimson and grey
+mist swirls, obscuring your vision.  Even though there are no visible
+light sources, the path is well lit... You have entered the Demi-Plane of
+Magic.
+~
+100 552 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1609
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1144
+S
+#1144
+On a misty path~
+You travel along a stoney, gray path beneith you, wide enough to fit three
+humans abreast.  You glance around, starting at the empty void which lies
+on either side of the stone path.  A few feet into the blackness, a strange
+crimson and gray mist swirls, obscuring your vision.  Even though there are
+no visible light sources, the path is well lit.
+~
+100 552 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2326
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2325
+S
+#1228
+Cold storage~
+You have stepped into a VERY cold room... Frozen cadavers are piled waist high
+all around you.
+~
+100 41 0 7
+0 0 0 0
+50 0 -200
+D2
+You see a large wooden door with a frosted over window in it.
+~
+wooden door~
+ ~
+ ~
+1 10000 864
+S
+#1609
+On a misty path~
+You travel along a stoney, gray path beneith you, wide enough to fit three
+humans abreast.  You glance around, starting at the empty void which lies
+on either side of the stone path.  A few feet into the blackness, a strange
+crimson and gray mist swirls, obscuring your vision.  Even though there are
+no visible light sources, the path is well lit.
+~
+100 552 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2474
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2325
+S
+#2325
+On a misty path~
+You travel along a stoney, gray path beneith you, wide enough to fit three
+humans abreast.  You glance around, starting at the empty void which lies
+on either side of the stone path.  A few feet into the blackness, a strange
+crimson and gray mist swirls, obscuring your vision.  Even though there are
+no visible light sources, the path is well lit.
+~
+100 552 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1609
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1144
+S
+#2326
+On a misty path~
+You travel along a stoney, gray path beneith you, wide enough to fit three
+humans abreast.  You glance around, starting at the empty void which lies
+on either side of the stone path.  A few feet into the blackness, a strange
+crimson and gray mist swirls, obscuring your vision.  Even though there are
+no visible light sources, the path is well lit.
+~
+100 552 0 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1144
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2328
+S
+#2327
+On a misty path~
+You travel along a stoney, gray path beneith you, wide enough to fit three
+humans abreast.  You glance around, starting at the empty void which lies
+on either side of the stone path.  A few feet into the blackness, a strange
+crimson and gray mist swirls, obscuring your vision.  Even though there are
+no visible light sources, the path is well lit.
+~
+100 552 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2330
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2328
+S
+#2328
+On a misty path~
+You travel along a stoney, gray path beneith you, wide enough to fit three
+humans abreast.  You glance around, starting at the empty void which lies
+on either side of the stone path.  A few feet into the blackness, a strange
+crimson and gray mist swirls, obscuring your vision.  Even though there are
+no visible light sources, the path is well lit.
+~
+100 552 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2326
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2327
+S
+#2329
+On a misty path~
+You travel along a stoney, gray path beneith you, wide enough to fit three
+humans abreast.  You glance around, starting at the empty void which lies
+on either side of the stone path.  A few feet into the blackness, a strange
+crimson and gray mist swirls, obscuring your vision.  Even though there are
+no visible light sources, the path is well lit.
+~
+100 552 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2331
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2330
+S
+#2330
+On a misty path~
+You travel along a stoney, gray path beneith you, wide enough to fit three
+humans abreast.  You glance around, starting at the empty void which lies
+on either side of the stone path.  A few feet into the blackness, a strange
+crimson and gray mist swirls, obscuring your vision.  Even though there are
+no visible light sources, the path is well lit.
+~
+100 552 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2329
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2327
+S
+#2331
+On a misty path~
+You travel along a stoney, gray path beneith you, wide enough to fit three
+humans abreast.  You glance around, starting at the empty void which lies
+on either side of the stone path.  A few feet into the blackness, a strange
+crimson and gray mist swirls, obscuring your vision.  Even though there are
+no visible light sources, the path is well lit.
+~
+100 552 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2447
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2329
+S
+#2447
+On a misty path~
+You travel along a stoney, gray path beneith you, wide enough to fit three
+humans abreast.  You glance around, starting at the empty void which lies
+on either side of the stone path.  A few feet into the blackness, a strange
+crimson and gray mist swirls, obscuring your vision.  Even though there are
+no visible light sources, the path is well lit.
+~
+100 552 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2472
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2331
+S
+#2472
+On a misty path~
+You travel along a stoney, gray path beneith you, wide enough to fit three
+humans abreast. You glance around, starting at the empty void which lies
+on either side of the stone path. A few feet into the blackness, a strange
+crimson and gray mist swirls, obscuring your vision. Even though there are
+no visible light sources, the path is well lit.
+An eerie tower rises up from the mist to the west. Its surface is
+entirely made of black, glass-like stone which reflects an otherwordly
+rainbow of scintillating colors. No windows can be been seen to mar the
+walls of this spire. A narrow walkway winds its way through the mists
+to a massive vallenwood door.
+~
+100 552 0 7
+0 0 0 0
+0 0 0
+D1
+A massive vallenwood door can be seen through the mists.
+~
+door vallenwood~
+ ~
+ ~
+2 10015 2704
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2447
+E
+tower~
+In the distance you see a huge, evil tower rising from the mist.
+The type of creature(s) who live here are probaly the kind that worship
+the Unnamed One. A vision of a huge horned skull surrounds the tower.
+A chill runs through you as you think what lies in there waiting for you.
+~
+S
+#2473
+On a misty path~
+You travel along a stoney, gray path beneith you, wide enough to fit three
+humans abreast.  You glance around, starting at the empty void which lies
+on either side of the stone path.  A few feet into the blackness, a strange
+crimson and gray mist swirls, obscuring your vision.  Even though there are
+no visible light sources, the path is well lit.
+~
+100 552 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2475
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2474
+S
+#2474
+On a misty path~
+You travel along a stoney, gray path beneith you, wide enough to fit three
+humans abreast.  You glance around, starting at the empty void which lies
+on either side of the stone path.  A few feet into the blackness, a strange
+crimson and gray mist swirls, obscuring your vision.  Even though there are
+no visible light sources, the path is well lit.
+~
+100 552 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2473
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1609
+S
+#2475
+On a misty path~
+You travel along a stoney, gray path beneith you, wide enough to fit three
+humans abreast.  You glance around, starting at the empty void which lies
+on either side of the stone path.  A few feet into the blackness, a strange
+crimson and gray mist swirls, obscuring your vision.  Even though there are
+no visible light sources, the path is well lit.
+~
+100 552 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2700
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2473
+S
+#2700
+On a misty path~
+You travel along a stoney, gray path beneith you, wide enough to fit three
+humans abreast.  You glance around, starting at the empty void which lies
+on either side of the stone path.  A few feet into the blackness, a strange
+crimson and gray mist swirls, obscuring your vision.  Even though there are
+no visible light sources, the path is well lit.
+~
+100 552 0 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2475
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2701
+S
+#2701
+On a misty path~
+You travel along a stoney, gray path beneith you, wide enough to fit three
+humans abreast.  You glance around, starting at the empty void which lies
+on either side of the stone path.  A few feet into the blackness, a strange
+crimson and gray mist swirls, obscuring your vision.  Even though there are
+no visible light sources, the path is well lit.
+~
+100 552 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2702
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2700
+S
+#2702
+On a misty path~
+You travel along a stoney, gray path beneith you, wide enough to fit three
+humans abreast.  You glance around, starting at the empty void which lies
+on either side of the stone path.  A few feet into the blackness, a strange
+crimson and gray mist swirls, obscuring your vision.  Even though there are
+no visible light sources, the path is well lit.
+~
+100 552 0 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2701
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2703
+S
+#2703
+On a misty path~
+You travel along a stoney, gray path beneith you, wide enough to fit three
+humans abreast. You glance around, starting at the empty void which lies
+on either side of the stone path. A few feet into the blackness, a strange
+crimson and gray mist swirls, obscuring your vision. Even though there are
+no visible light sources, the path is well lit.
+An eerie tower rises up from the mist to the east. Its surface is
+entire made of black, glass-like stone which reflects an otherworldly
+rainbow of scintillating colors. No windows can be been seen to mar the
+walls of this spire. A narrow walkway winds its way through the mists
+to a massive vallenwood door.
+~
+100 552 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2702
+D3
+A massive vallenwood door can be seen through the mists.
+~
+door vallenwood~
+ ~
+ ~
+2 10015 2704
+E
+tower~
+In the distance, you see a huge, evil tower rising from the mist.
+What creature(s) call this place home must be of the sort that
+worship the unnamed one. A vision of a horned skull seems to
+float about the tower. A chill runs through your bones as you think
+what is there.
+~
+S
+#2704
+The fiery entryway~
+The floor of this chamber is flooded with molten lava.  Bubbles of
+hot air burst and send small dropplets of searing debris flying.
+Threatening gysers of flame errupt from the floor and streak high into
+the shadow-filled regions of the upper tower.  Narrow pathways twist and
+bend through the lake of lava, providing access to a series of floating
+marble slabs, serving as a staircase leading up.
+~
+100 552 0 7
+0 0 0 0
+0 0 0
+D1
+A massive vallenwood door stands against the eastern wall of this chamber.
+~
+door vallenwood~
+ ~
+ ~
+2 10015 2703
+D3
+A massive vallenwood door stands against the western wall of this chamber.
+~
+door vallenwood~
+ ~
+ ~
+2 10015 2472
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 2705
+S
+#2705
+Top of the Tower~
+You ascend the floating slabs of marble until you reach this point.
+You can see the ceiling of the tower with a large, circular hole cut
+in its center through which you can see the night sky.  The steps meet
+with a narrow cat walk surrounding the inner tower.
+~
+100 552 0 7
+0 0 0 0
+0 0 0
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 2704
+E
+blank~
+ ~
+E
+hole circle~
+You look out the hole and see the inky blackness that is the night.
+The darkness seems to move of its on accord. You feel it move in on you
+but you turn your head just in time. You shiver to think what would
+have happened if you looked much longer.
+~
+S
+#4040
+The dim ladderwell~
+ You are climbing down a dimly lit ladderwell. There are bright lights above
+and below you, but you can barely see the rungs of the ladder before you. It
+looks like it is a long climb down.
+~
+100 44 0 7
+0 0 0 0
+50 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 855
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 4041
+S
+#4041
+The dim ladderwell~
+ You are climbing down a dimly lit ladderwell. There are bright lights above
+and below you, but you can barely see the rungs of the ladder before you. It
+looks like it is a long climb down.
+~
+100 44 0 7
+0 0 0 0
+50 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 4040
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 4042
+S
+#4042
+The dim ladderwell~
+ You are climbing down a dimly lit ladderwell. There are bright lights above
+and below you, but you can barely see the rungs of the ladder before you. It
+looks like it is a long climb down.
+~
+100 44 0 7
+0 0 0 0
+50 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 4041
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 4043
+S
+#4043
+The dim ladderwell~
+ You are climbing down a dimly lit ladderwell. There are bright lights above
+and below you, but you can barely see the rungs of the ladder before you. It
+looks like it is a long climb down.
+~
+100 44 0 7
+0 0 0 0
+50 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 4042
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 4044
+S
+#4044
+The dim ladderwell~
+ You are climbing down a dimly lit ladderwell. There are bright lights above
+and below you, but you can barely see the rungs of the ladder before you. It
+looks like it is a long climb down.
+~
+100 44 0 7
+0 0 0 0
+50 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 4043
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 4045
+S
+#4045
+The glowing passageway~
+This passage is lit by its softly glowing walls.  You hear eerie moans all
+around you, and the passage seems to darken as it continues on.
+~
+100 40 0 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 856
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 4044
+S
+#4046
+Sleeping quarters~
+You have stumbled upon Horneg's laboratory sleeping area.  A small cot with a
+threadbare blanket sits against one wall.  There are dozens of arcane tomes and
+scrolls lying around... it looks as if the mage reads himself to sleep every
+night, constantly searching for ways to bring his beloved Shandril back
+to life.
+~
+100 41 0 7
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 864
+S
+#5713
+A darkened cage~
+ By the light you carry or by magic infrared vision only can you make out the
+form of one of the wizard Horneg's charmed and beloved pets, summoned from the
+outer planes. Abandoned and forgotten since Horneg's loss of Shandril, which
+took all other thoughts from his mind, the beast does not seem pleased to see
+you.
+~
+100 40 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+cage~
+ ~
+ ~
+1 -1 857
+S
+#5725
+A darkened cage~
+ By the light you carry or by magic infrared vision only can you make out the
+form of one of the wizard Horneg's charmed and beloved pets, summoned from the
+outer planes. Abandoned and forgotten since Horneg's loss of Shandril, which
+took all other thoughts from his mind, the beast does not seem pleased to see
+you.
+~
+100 40 0 7
+0 0 0 0
+0 0 0
+D2
+ ~
+cage~
+ ~
+ ~
+1 -1 858
+S
+#5726
+A Darkened Cage~
+ By the light you carry or by magic infrared vision only can you make out the
+form of one of the wizard Horneg's charmed and beloved pets, summoned from the
+outer planes. Abandoned and forgotten since Horneg's loss of Shandril, which
+took all other thoughts from his mind, the beast does not seem pleased to see
+you.
+~
+100 40 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+cage~
+ ~
+ ~
+1 -1 861
+S
+#5727
+The glowing passageway~
+This passage is lit by its softly glowing walls.  You hear eerie moans all
+around you, and the passage seems to darken as it continues on.
+~
+100 40 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+cage~
+ ~
+ ~
+1 -1 5728
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 859
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5730
+D3
+ ~
+cage~
+ ~
+ ~
+1 -1 5729
+S
+#5728
+A darkened cage~
+ By the light you carry or by magic infrared vision only can you make out the
+form of one of the wizard Horneg's charmed and beloved pets, summoned from the
+outer planes. Abandoned and forgotten since Horneg's loss of Shandril, which
+took all other thoughts from his mind, the beast does not seem pleased to see
+you.
+~
+100 40 0 7
+0 0 0 0
+0 0 0
+D2
+ ~
+cage~
+ ~
+ ~
+1 -1 5727
+S
+#5729
+A darkened cage~
+ By the light you carry or by magic infrared vision only can you make out the
+form of one of the wizard Horneg's charmed and beloved pets, summoned from the
+outer planes. Abandoned and forgotten since Horneg's loss of Shandril, which
+took all other thoughts from his mind, the beast does not seem pleased to see
+you.
+~
+100 40 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+cage~
+ ~
+ ~
+1 -1 5727
+S
+#5730
+The glowing passageway~
+This passage is lit by its softly glowing walls.  You hear eerie moans all
+around you, and the passage seems to darken as it continues on.
+~
+100 40 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5727
+D1
+ ~
+cage~
+ ~
+ ~
+1 -1 5731
+D3
+ ~
+cage~
+ ~
+ ~
+1 -1 5732
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 5733
+S
+#5731
+A darkened cage~
+ By the light you carry or by magic infrared vision only can you make out the
+form of one of the wizard Horneg's charmed and beloved pets, summoned from the
+outer planes. Abandoned and forgotten since Horneg's loss of Shandril, which
+took all other thoughts from his mind, the beast does not seem pleased to see
+you.
+~
+100 40 0 7
+0 0 0 0
+0 0 0
+D3
+ ~
+cage~
+ ~
+ ~
+1 -1 5730
+S
+#5732
+A darkened cage~
+ By the light you carry or by magic infrared vision only can you make out the
+form of one of the wizard Horneg's charmed and beloved pets, summoned from the
+outer planes. Abandoned and forgotten since Horneg's loss of Shandril, which
+took all other thoughts from his mind, the beast does not seem pleased to see
+you.
+~
+100 40 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+cage~
+ ~
+ ~
+1 -1 5730
+S
+#5733
+A stairwell flickering with candles~
+ ~
+100 40 0 7
+0 0 0 0
+30 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 5734
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 5730
+S
+#5734
+The stairwell landing~
+ ~
+100 40 0 7
+0 0 0 0
+30 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5735
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 5733
+S
+#5735
+Horneg's casting chamber~
+ ~
+100 40 0 7
+0 0 0 0
+30 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5734
+S
+#10000
+Along the northern drop~
+You travel upon a stone trail.  It looks as though it was just laid out, but
+never walked upon.  A few small plants struggle to survive, growing out of
+the dirt-filled cracks between the stone.  To the south, a large stone building
+rises from a heavy cloud which seems to be suffocating everything about it.
+The bluff drops sharply directly to your north.  Looking over the cliff, you can
+see a small trail winding its way up the mountain.
+~
+100 32 2 1
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 281
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 282
+E
+building~
+You can't help but notice this huge fortress to the south.  The stone is very
+old, and it makes you wonder how long it has been built, and what is on the
+inside of this mysterious stone building.
+~
+S
+#10001
+Before an old iron gate~
+You stand upon a trail that ends at a large gate to the south.  A large stone
+wall extends past the gate and surrounds a sixty foot high keep within its
+walls.  The rumors you've heard about gremlins running amok near this area
+comes to the front of your mind at the time.
+~
+100 32 2 1
+0 0 0 0
+0 0 0
+D0
+To the north, the trail slowly leads back towards civilization.
+~
+ ~
+ ~
+ ~
+1 -1 285
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 10004
+D2
+To your immediate south, the gate towers above you, and beyond it, Horneg's
+Keep.
+~
+gate~
+ ~
+ ~
+1 10000 10002
+E
+gate~
+The gate is quite large.  It stands nearly twenty feet high, and is nearly as
+wide.  It is made of iron, and is a dark blue in color, but not really black
+as would be expected.  It has an aura of mysticism about it.
+~
+S
+#10002
+Inside the great wall~
+Weird, it wasn't just a gate at all.  There is a corridor running through it
+as well.  The corridor stretches well off to both the east and west while the
+inner courtyard awaits you to the south.
+~
+100 40 1 7
+0 0 0 0
+0 0 0
+D0
+To the north, a trail leads away towards civilization.
+~
+gate~
+ ~
+ ~
+1 10000 10001
+D1
+You try to peer into the darkness, but its blanket envelops all vision.
+~
+ ~
+ ~
+ ~
+1 -1 10039
+D2
+To the south lies the courtyard for the keep, with its green, thick lawn, and
+lovely violets, it is quite inviting.
+~
+ ~
+ ~
+ ~
+1 -1 10003
+D3
+You try to peer into the darkness, but its blanket envelops all vision.
+~
+ ~
+ ~
+ ~
+1 -1 10012
+S
+#10003
+Central courtyard~
+You stand in the middle of a small courtyard that runs east and west from this
+point.  To the north, the gate stands prominently, and to the south is a door
+to the keep itself.
+~
+100 32 2 7
+0 0 0 0
+0 0 0
+D0
+To your immediate north a large gate towers above you.  Beyond it, lies the
+trail to civilization.
+~
+ ~
+ ~
+ ~
+1 -1 10002
+D1
+To the east lies a small section of the courtyard, closed in artificially
+with tall hedges.
+~
+ ~
+ ~
+ ~
+1 -1 10008
+D2
+To the south, lies the front door of Horneg's keep, a small sign to the side of
+the door states a warning.
+~
+door~
+ ~
+ ~
+1 10001 10006
+D3
+To the west lies a small section of the courtyard, closed in artificially
+with tall hedges.
+~
+ ~
+ ~
+ ~
+1 -1 10005
+E
+sign~
+The sign reads:
+  Solicitors will be killed and eaten.
+                   -The Management
+~
+E
+keep~
+You look upward at the keep.  It rises into the air majestically.  But
+strange, there does not appear to be windows of any sort.  You visualize the
+rumors of gremlins roaming around in the dark in there, popping up where you
+least expect them, grabbing ankles etc...
+~
+S
+#10004
+Guard post~
+This is a small area where the guards of Horneg's keep gather to repel anyone
+who would try to invade their masters privacy and study.
+~
+100 32 2 7
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 10001
+E
+guards~
+ ~
+E
+guards~
+These guards are no doubt monstrous creations of the wizard Horneg.  While
+they do not seem very intelligent, they do look like fericious fighters.
+Just hope they don't notice you!
+~
+S
+#10005
+Western courtyard~
+You stand in the western portion of a small courtyard that lies before a tall
+keep.  The courtyard is separated from the keep and the walls by large shrubs.
+The shrubs are black and red as if embodying evil.  A large blood rose grows
+in the center of the courtyard here.
+~
+100 32 2 7
+0 0 0 0
+0 0 0
+D1
+To your east, you see the central courtyard.  The lush green grass forms a
+blanket beneath your feet endeavoring you to tread.
+~
+ ~
+ ~
+ ~
+1 -1 10003
+E
+rose blood flower~
+The rose grows black and droops melancholically.  Having lost all hint of ever
+being red, or any other color for that matter, it is almost a sad sight to
+behold.  Any attempt to pull the rose from its misery is met with an
+unrelenting force to keep it right where it is.
+~
+E
+shrubs bushes~
+The shrubs here are sick and distorted.  They move and grow at odd angles, the
+likes of which you have never seen outside this place.  They range from a near
+black to a fiery red in color and seem animated in their gesture.
+~
+S
+#10006
+Foyer~
+You stand at the very entrance to Horneg's keep.  It is very dim in here as
+there are no windows.  Upon closer inspection, you note that the walls here
+are lined with suits of armor.  A narrow, rickety stairway leads up through
+the ceiling in the corner of the room and a large doorway allows passage to
+the west.
+~
+100 41 0 7
+0 0 0 0
+0 0 0
+D0
+To the north is a large door that appears to lead to the exterior of the
+castle.
+~
+door~
+ ~
+ ~
+1 10000 10003
+D3
+You try to peer through the darkness to no avail.
+~
+ ~
+ ~
+ ~
+1 -1 10007
+D4
+You try to peer through the darkness to no avail.
+~
+ ~
+ ~
+ ~
+1 -1 10009
+E
+suits armor~
+The suits of armor here are numbered and are all different.  Some have axes,
+some swords, and some just stand there.  They do all have one thing in common
+though; they are all very animated in their poses.  There is something you
+cannot place your finger on about these "suits".
+~
+S
+#10007
+Large entryway~
+You stand within a room that belies its size to you.  It looks enormous, but
+it seems as though it is just a trick of the walls in here.  As with other
+rooms, this one is also dark.  Suits of various types of armor line the walls
+here.
+~
+100 41 0 7
+0 0 0 0
+0 0 0
+D1
+You try to peer through the darkness to no avail.
+~
+ ~
+ ~
+ ~
+1 -1 10006
+D2
+You try to peer through the darkness to no avail.
+~
+ ~
+ ~
+ ~
+1 -1 10014
+S
+#10008
+Eastern courtyard~
+You stand in the eastern portion of a small courtyard that lies before a tall
+keep.  The courtyard is separated from the keep and the walls by large shrubs.
+The shrubs are black and red as if embodying evil.  A lone sunflower grows in
+the far reaches of the courtyard, well above your reach.
+~
+100 32 2 7
+0 0 0 0
+0 0 0
+D3
+To your west, you see the central courtyard.  The lush green grass forms a
+blanket beneath your feet endeavoring you to tread.
+~
+ ~
+ ~
+ ~
+1 -1 10003
+E
+sunflower flower~
+The sunflower stands tall and proud amongst the shrubs, as if domineering the
+conversation.  Or maybe this is a strange colony of worker plants, and the
+sunflower is the supervisor, it's all part of the wonder.
+~
+E
+shrubs bushes~
+The shrubs here are sick and distorted.  They move and grow at odd angles, the
+likes of which you have never seen outside this place.  They range from a near
+black to a fiery red in color and seem animated in their gesture.
+~
+S
+#10009
+Above the grand foyer~
+You stand atop the rickety stairway, looking down into the gloom below.  All
+is quiet, and dark, but hark, you can here the sound of metal against metal to
+the south.  A strange glow also appears to come from the room behind the door.
+~
+100 41 0 7
+0 0 0 0
+0 0 0
+D1
+You try to peer through the darkness to no avail.
+~
+ ~
+ ~
+ ~
+1 -1 10011
+D2
+A large, ironbound door bars your way south.
+~
+door~
+ ~
+ ~
+1 -1 10010
+D5
+You try to peer through the darkness to no avail.
+~
+ ~
+ ~
+ ~
+1 -1 10006
+S
+#10010
+Glowing room~
+You can hardly see anything in this room it glows THAT brightly.  You cannot
+make out the location of the walls.
+~
+100 44 14 7
+0 0 0 0
+0 0 0
+D0
+A large, ironbound door bars your way north.
+~
+door~
+ ~
+ ~
+1 -1 10009
+D5
+You can barely make out the dim outline of a trapdoor in the floor.
+~
+trapdoor hatch~
+ ~
+ ~
+1 -1 855
+E
+glow~
+If you sit in here too long, you might burn your eyeballs out!
+~
+S
+#10011
+Short hall~
+You walk a short hall, several paintings adorn the south wall here, and a
+small opening looks out through the north wall at a height which you cannot
+reach to peer through.
+~
+100 41 0 7
+0 0 0 0
+0 0 0
+D1
+You try to peer through the darkness to no avail.
+~
+ ~
+ ~
+ ~
+1 -1 10023
+D3
+You try to peer through the darkness to no avail.
+~
+ ~
+ ~
+ ~
+1 -1 10009
+E
+opening~
+If you were 15 feet tall, then perhaps you could see out of it!
+~
+E
+painting paintings pictures picture~
+Several paintings of a beautiful woman adorn the southern wall here.  There
+are paintings of her ranging in age from about eighteen to a final one of a
+headstone bearing the name 'Shandril'.  One thing in common in every painting
+is the brilliant silver amulet around her neck.
+~
+S
+#10012
+The dark hall~
+This hall is very poorly lit, even with a light source.  It seems as if the
+walls are absorbing the light.  The hall continues on to the west and to the
+east, you can see the hint of an exit from this gloomy hell.
+~
+100 41 0 7
+0 0 0 0
+0 0 0
+D1
+To the west, you spot an exit on either side of the hall that appears to be
+lighter than where you are now.
+~
+ ~
+ ~
+ ~
+1 -1 10002
+D3
+You try to peer through the darkness to no avail.
+~
+ ~
+ ~
+ ~
+1 -1 10013
+S
+#10013
+The dark hall~
+This hall is very poorly lit, even with a light source.  It seems as if the
+walls are absorbing the light.  The hall continues on to the east and west.
+~
+100 41 0 7
+0 0 0 0
+0 0 0
+D1
+You try to peer through the darkness to no avail.
+~
+ ~
+ ~
+ ~
+1 -1 10012
+D3
+You try to peer through the darkness to no avail.
+~
+ ~
+ ~
+ ~
+1 -1 10062
+S
+#10014
+Large antechamber~
+You have walked into yet another dark room.  This one is akin to a large hall
+in that it it leads into a larger chamber to the south.  Large suits of armor,
+as seen throughout the keep are ever present in this room.  A great tapestry
+covers a good portion of the eastern wall of this room and adds a unique
+flavor to the atmosphere.
+~
+100 41 0 7
+0 0 0 0
+0 0 0
+D0
+You try to peer through the darkness to no avail.
+~
+ ~
+ ~
+ ~
+1 -1 10007
+D1
+The tapestry is woven in an old fashion, rarely seen these days.
+It depicts a young mage and a lovely women at his side, standing
+atop a cliff.
+~
+tapestry~
+ ~
+ ~
+4 -1 10022
+D2
+You try to peer through the darkness to no avail.
+~
+ ~
+ ~
+ ~
+1 -1 10016
+E
+tapestry~
+You examine what you had expected to be a very fine tapestry, but find that
+one edge of it is quite threadbare.  There is a small hole in it that makes
+the tapestry look as though it is pulled away from the wall.
+~
+E
+hole~
+You look through the hole, and come to the conclusion that the tapestry can
+be opened akin to a door and another room lies behind it.
+~
+S
+#10015
+Large alcove~
+It is a small room that has a short, wide pedestal about two feet high, covered
+in a thin layer of dust.
+~
+100 41 0 7
+0 0 0 0
+0 0 0
+D2
+You try to peer through the darkness to no avail.
+~
+ ~
+ ~
+ ~
+1 -1 10021
+E
+pedestal~
+Upon closer examination, you see two large areas in the dust that are clean.
+They form what appear to be LARGE footprints.  You guess that whatever was here
+was at least twelve feet tall.
+~
+S
+#10016
+North end of a great hall~
+You stand at the northern end of a great hall that was at one point could have
+been used for dining purposes.  A large massive table rests heavily upon the
+stone floor here as well as several common chairs and a thundering chair set
+at the "head" of the table.  There is also a large wooden column here.
+~
+100 41 0 7
+0 0 0 0
+0 0 0
+D0
+You try to peer through the darkness to no avail.
+~
+ ~
+ ~
+ ~
+1 -1 10014
+D1
+You try to peer through the darkness to no avail.
+~
+ ~
+ ~
+ ~
+1 -1 10020
+D2
+You try to peer through the darkness to no avail.
+~
+ ~
+ ~
+ ~
+1 -1 10017
+D3
+You try to peer through the darkness to no avail.
+~
+ ~
+ ~
+ ~
+1 -1 10021
+E
+chair~
+Although we don't know why, Horneg used to enjoy watching his guests
+dine on the food he had specially prepared for those lucky enough
+to be granted an audience with him.  Oh yeah, he liked to do it while
+sitting in his, uhh, big chair.
+~
+E
+table~
+Upon first glance, this huge mahogeny table was used by Horneg to
+entertain guests.  However, upon closer examination, the dried
+splotches of human blood lead you to believe that Horneg used it
+for more diabolical purposes.  Let's hope he doesn't invite you to
+dinner.
+~
+S
+#10017
+South end of a great hall~
+You stand in the central section of the southernmost portion of a large dining
+hall.  Just to your north, you can see a large table and chairs as well as a
+strong wooden pillar.  Here, a large painting of a serene nature setting
+covers the entire southern wall, spanning the fifteen feet or so from floor
+to ceiling.  A large pedestal rests dormant approximately five feet from the
+southern wall with its top just below shoulder height for your average person.
+~
+100 41 0 7
+0 0 0 0
+0 0 0
+D0
+You try to peer through the darkness to no avail.
+~
+ ~
+ ~
+ ~
+1 -1 10016
+D1
+You try to peer through the darkness to no avail.
+~
+ ~
+ ~
+ ~
+1 -1 10018
+D3
+You try to peer through the darkness to no avail.
+~
+ ~
+ ~
+ ~
+1 -1 10019
+E
+painting~
+The large painting depicts frost covered lands that are rumored to lie very far
+to the north.  A land which until recently no one had ventured to guess what
+lay that far north.  The site for this painting is a large open valley, teeming
+with vegetation, but yet covered in a frost unlike any seen in the local area.
+An old plateau lies to the right of this valley upon which, you, very clearly,
+make out the figure of an old man with hair and beard as colorless as the frost
+itself and long as a day standing, waving a knurled staff frantically is if
+evoking a cantation, the likes of which long forgotten.
+~
+E
+pedestal stand~
+The large stone pedestal rests about five and a half feet above the ground.  It
+appears that this was used to address anyone fortunate enough to be guests in
+this dining hall, for all its splendor.
+~
+S
+#10018
+Southern corner~
+You are in the southern corner of the large dining hall.  It is fairly dark
+and dismal is is the par.  Nothing unusual, save a dead potted plant lurking
+against the eastern wall, calls for your attention.
+~
+100 41 0 7
+0 0 0 0
+0 0 0
+D0
+You try to peer through the darkness to no avail.
+~
+ ~
+ ~
+ ~
+1 -1 10020
+D3
+You try to peer through the darkness to no avail.
+~
+ ~
+ ~
+ ~
+1 -1 10017
+E
+plant potted~
+The potted plant is long dead and starting to decay.  Awkwardly enough, the
+plant smells freshly of roses.
+~
+S
+#10019
+Southern corner~
+You are in the southern corner of the large dining hall.  It is fairly dark
+and dismal.  A small stool lies in the corner of this room.`
+~
+100 41 0 7
+0 0 0 0
+0 0 0
+D0
+You try to peer through the darkness to no avail.
+~
+ ~
+ ~
+ ~
+1 -1 10021
+D1
+You try to peer through the darkness to no avail.
+~
+ ~
+ ~
+ ~
+1 -1 10017
+E
+stool~
+The small stool stands alone in this great dining hall.  Its wood splintered
+and partially destroyed, it is quite out of place.  Oddly enough, though the
+stool be ages old, it seems, it smells freshly of sap.
+~
+S
+#10020
+Northern corner~
+You stand in a northern corner of a great dining hall.  To the west, you see
+a massive table and chairs seated about it.  There is a small window in the
+eastern wall here, but it is much too high for you to look out through.
+~
+100 41 0 7
+0 0 0 0
+0 0 0
+D2
+You try to peer through the darkness to no avail.
+~
+ ~
+ ~
+ ~
+1 -1 10018
+D3
+You try to peer through the darkness to no avail.
+~
+ ~
+ ~
+ ~
+1 -1 10016
+E
+window~
+It is much too high for you to reach.
+~
+S
+#10021
+Northern corner~
+You stand in a northern corner of a great dining hall.  To the east, you see
+a massive table and chairs seated about it.  A large banner is splayed vastly
+in the western wall here, shimmering in its vibrant colors unlike any other
+thing you have seen in this keep.  There is also a small alcove to the north.
+~
+100 41 0 7
+0 0 0 0
+0 0 0
+D0
+You try to peer through the darkness to no avail.
+~
+ ~
+ ~
+ ~
+1 -1 10015
+D1
+You try to peer through the darkness to no avail.
+~
+ ~
+ ~
+ ~
+1 -1 10016
+D2
+You try to peer through the darkness to no avail.
+~
+ ~
+ ~
+ ~
+1 -1 10019
+E
+banner~
+Looking at the banner is almost mesmorizing in its swirling colors, which, you
+would swear, are moving.  You turn away and have an afterimage of a large
+gremlin face staring and laughing at you, though that was nothing like what
+was on the banner, that is what you think it is of.
+~
+S
+#10022
+Secret alcove~
+You have found a room that many have used to hide from Horneg and
+his minions. Many died here trying to recover from their many
+wounds. The pain, anguish and sorrow they felt permeates the small
+alcove. You feel saddened at their plight, yet glad you are not
+experiencing it yourself.... as of yet.
+~
+100 41 0 7
+0 0 0 0
+0 0 0
+D3
+ ~
+tapestry~
+ ~
+ ~
+1 -1 10014
+S
+#10023
+Turn in a short hall~
+The short hall turns a right angle here and a large door is set into the stone
+of the wall to your east while the hall continues to the south.
+~
+100 41 0 7
+0 0 0 0
+0 0 0
+D1
+A large ironbound door bars your way east.
+~
+door~
+   ~
+ ~
+2 10000 10024
+D2
+You try to peer through the darkness to no avail.
+~
+ ~
+ ~
+ ~
+1 -1 10026
+D3
+You try to peer through the darkness to no avail.
+~
+ ~
+ ~
+ ~
+1 -1 10011
+S
+#10024
+Large Bedroom~
+You have come across a large bedroom.  It contains everything you would expect
+to find in a normal bedroom.  Nothing is of exceptional quality here, and
+everything has an aged look about it.  You see a bed, chest of drawers, and a
+door on the south wall promises a closet.
+~
+100 41 0 7
+0 0 0 0
+0 0 0
+D2
+A small door leads to a small closet to the south.
+~
+closet~
+ ~
+ ~
+1 -1 10025
+D3
+A large, ironbound door bars your way west.
+~
+door~
+ ~
+ ~
+2 10000 10023
+E
+bed~
+There is nothing special about the bed, except for the fact that you cannot
+move it one bit.  It is covered in an exceptionally warm looking quilt of drab
+colors.
+~
+S
+#10025
+Small closet~
+You have entered a small closet.  There are clothes lying about of all types
+and colors.  There is nothing here that you would be willing to try on though.
+~
+100 41 0 7
+0 0 0 0
+0 0 0
+D0
+A small door bars your way into a large bedroom to the north.
+~
+closet~
+ ~
+ ~
+1 -1 10024
+E
+clothes clothing garments~
+All the clothing is about the same size, and apparently fitted for a woman of
+slender proportions.  It appears they haven't been worn in quite a while,
+although they have not been discarded.  You wonder why.
+~
+S
+#10026
+Short hall~
+You walk a short hall, leading both north and south from this point.  To the
+west, an aura of openness fills your senses.
+~
+100 41 0 7
+0 0 0 0
+0 0 0
+D0
+You try to peer through the darkness to no avail.
+~
+ ~
+ ~
+ ~
+1 -1 10023
+D2
+You try to peer through the darkness to no avail.
+~
+ ~
+ ~
+ ~
+1 -1 10027
+D3
+You try to peer through the darkness to no avail.
+~
+ ~
+ ~
+ ~
+1 -1 10029
+S
+#10027
+Short hall~
+The short hall you were walking ends here at a blank wall.  On the west is a
+small door.
+~
+100 41 0 7
+0 0 0 0
+0 0 0
+D0
+You try to peer through the darkness to no avail.
+~
+ ~
+ ~
+ ~
+1 -1 10026
+D3
+You try to peer through the darkness to no avail.
+~
+door~
+ ~
+ ~
+1 -1 10028
+S
+#10028
+Broom closet~
+This is a small, non-descript broom closet.  It, as with all rooms, is very
+dark.
+~
+100 41 0 7
+0 0 0 0
+0 0 0
+D1
+A small door bars your way to the hall to the east.
+~
+door~
+ ~
+ ~
+1 -1 10027
+S
+#10029
+Open room~
+The ceiling of this room opens well above you, and is shrouded in the darkness
+that seems to seep from the walls of this unhallowed keep like blood from an
+open wound.  You think there is a staircase in the northeastern corner that
+leads further up into the gloom.
+~
+100 41 0 7
+0 0 0 0
+0 0 0
+D1
+You try to peer through the darkness to no avail.
+~
+ ~
+ ~
+ ~
+1 -1 10026
+D4
+You try to peer through the darkness to no avail.
+~
+ ~
+ ~
+ ~
+1 -1 10030
+S
+#10030
+Atop an old staircase~
+You stand atop the rickety stairway, looking down into the gloom below.  All
+is quiet, and dark.  A slight breeze wafts lightly from the south, and a
+mysterious humming noise assaults your sense of hearing.
+~
+100 41 0 7
+0 0 0 0
+0 0 0
+D2
+You try to peer through the darkness to no avail.
+~
+door~
+ ~
+ ~
+1 -1 10031
+D5
+You try to peer through the darkness to no avail.
+~
+ ~
+ ~
+ ~
+1 -1 10029
+S
+#10031
+Cold hallway~
+The hallway you walk heads north and east from here.  There is a very strong
+breeze blowing through here making a faint humming noise.  It is difficult to
+hear the howl due to the assault that a humming noise echoes loudly throughout
+the passage, seeping inwards in much the manner as this unnatural darkness
+does.
+~
+100 41 0 7
+0 0 0 0
+0 0 0
+D0
+You try to peer through the darkness to no avail.
+~
+ ~
+ ~
+ ~
+1 -1 10030
+D1
+You try to peer through the darkness to no avail.
+~
+ ~
+ ~
+ ~
+1 -1 10032
+S
+#10032
+Cold hallway~
+The hallway you walk heads south and west from here.  There is a very strong
+breeze blowing through here making a faint humming noise.  It is difficult to
+hear the howl due to the assault that a humming noise echoes loudly throughout
+the passage, seeping inwards in much the manner as this unnatural darkness
+does.
+~
+100 41 0 7
+0 0 0 0
+0 0 0
+D2
+You try to peer through the darkness to no avail.
+~
+ ~
+ ~
+ ~
+1 -1 10033
+D3
+You try to peer through the darkness to no avail.
+~
+ ~
+ ~
+ ~
+1 -1 10031
+S
+#10033
+Cold hallway~
+The hallway you walk ends to the south from here.  The breeze is very strong
+here, and seems to be coming down an old stairway that leads up from here.
+The humming noise seems to be emminating from the west wall, and is so strong
+that you'd swear the entire keep was humming.
+~
+100 41 0 7
+0 0 0 0
+0 0 0
+D0
+You try to peer through the darkness to no avail.
+~
+ ~
+ ~
+ ~
+1 -1 10032
+D3
+ ~
+wall~
+ ~
+ ~
+3 -1 10034
+D4
+You try to peer through the darkness to no avail.
+~
+ ~
+ ~
+ ~
+1 -1 10035
+E
+wall~
+You notice the wall on the west here seems to have a faint glow about it,
+barely visible except with careful study.  You think there is a room behind it.
+~
+S
+#10034
+Secret room~
+You have found a secret room behind a wall.  There is a main hall off to the
+east.
+~
+100 41 0 7
+0 0 0 0
+0 0 0
+D1
+You try to peer through the darkness to no avail.
+~
+wall~
+ ~
+ ~
+4 -1 10033
+S
+#10035
+Small tower~
+You are in a hall of a small tower.  There is a large window off to the east a
+bit, and to the west, a small stairway leads deeper up into the gloom.  From
+here, a stair descends deeper into the keep.
+~
+100 41 0 7
+0 0 0 0
+0 0 0
+D1
+You try to peer through the darkness to no avail.
+~
+ ~
+ ~
+ ~
+1 -1 10036
+D3
+You try to peer through the darkness to no avail.
+~
+wall~
+ ~
+ ~
+1 -1 10037
+D5
+You try to peer through the darkness to no avail.
+~
+ ~
+ ~
+ ~
+1 -1 10033
+S
+#10036
+Eastern end of tower~
+From here, you have a vantage point over the entire surrounding area.  To the
+north, the glow of a distant city illuminates the tops of the trees, and to
+the east, the sound of the river Carthein roars with a distant din.  To the
+south, you spy a vast reach of mountains, but are uncertain as to what they
+are.
+~
+100 41 0 7
+0 0 0 0
+0 0 0
+D3
+You try to peer through the darkness to no avail.
+~
+wall~
+ ~
+ ~
+1 -1 10035
+S
+#10037
+Western end of tower~
+From here, you have a vantage point over the entire surrounding area.  To the
+north, the glow of a distant city illuminates the tops of the trees, and to
+the west, You think you see the glint of a large lake, perhaps an ocean.  To
+the south, you spy a vast reach of mountains, but are uncertain as to what they
+are.  A small stairway leads further up into the tower where a strange light
+illuminates the area.
+~
+100 41 0 7
+0 1 0 0
+0 0 0
+D1
+You try to peer through the darkness to no avail.
+~
+ ~
+ ~
+ ~
+1 -1 10035
+D4
+A strange light shines forth down through the hole in the ceiling.
+~
+ ~
+ ~
+ ~
+1 -1 10038
+S
+#10038
+Wizard's Laboratory~
+You have entered what you would consider a high-powered mages laboratory.
+There are shelves with books surrounding the entire room, a large table with
+beakers that boil and bubble over with liquids of various colors.  A floating
+orb in the center of the room reveals it in a blue haze, but definately a nice
+change from the rest of the keep.  A large painting of a beautiful woman about
+in her late twenties is hung gloriously on the southern wall of the room.  A
+smaller table in the corner of the room has many squares of alternating white
+and black, and some pieces that look to be carved from the finest marble are
+set upon it.
+Hovering in the center of the north wall is a swirling portal of silver mist.
+~
+100 40 0 7
+0 0 0 0
+0 0 0
+D0
+Peering into the shifting and swirling mists of the portal, you can see
+nothing beyond.
+~
+ ~
+$n steps through the portal and vanishes in a puff of black smoke.~
+$n slowly materializes from the surrounding mist.~
+5 -1 1142
+D5
+You try to peer through the darkness to no avail.
+~
+ ~
+ ~
+ ~
+1 -1 10037
+E
+portal~
+Peering into the shiftig and swirling mists of the port, you can
+see nothing beyond.
+~
+E
+beaker beakers~
+Liquids of various colors and thickness bubble and boil over the
+lips of the many beakers on the table. Small faces, twisted in agony,
+seem to float in and out of many of the containers. The smell that
+permeates this room seem to come from the vile vials of human misery.
+~
+S
+#10039
+The dark hall~
+This hall is very poorly lit, even with a light source.  It seems as if the
+walls are absorbing the light.  The hall continues on to the east and to the
+west, you can see the hint of an exit from this gloomy hell.
+~
+100 41 0 7
+0 0 0 0
+0 0 0
+D1
+You try to peer through the darkness to no avail.
+~
+ ~
+ ~
+ ~
+1 -1 10040
+D3
+To the west, you spot an exit on either side of the hall that appears to be
+lighter than where you are now.
+~
+ ~
+ ~
+ ~
+1 -1 10002
+S
+#10040
+The dark hall~
+This hall is very poorly lit, even with a light source.  It seems as if the
+walls are absorbing the light.  The hall continues on to the east and west.
+~
+100 41 0 7
+0 0 0 0
+0 0 0
+D1
+You try to peer through the darkness to no avail.
+~
+ ~
+ ~
+ ~
+1 -1 10041
+D3
+You try to peer through the darkness to no avail.
+~
+ ~
+ ~
+ ~
+1 -1 10039
+S
+#10041
+The dark hall~
+This hall is very poorly lit, even with a light source.  It seems as if the
+walls are absorbing the light.  The hall continues on to the east and west.
+~
+100 41 0 7
+0 0 0 0
+0 0 0
+D1
+You try to peer through the darkness to no avail.
+~
+ ~
+ ~
+ ~
+1 -1 10042
+D3
+You try to peer through the darkness to no avail.
+~
+ ~
+ ~
+ ~
+1 -1 10040
+S
+#10042
+The dark hall~
+This hall is very poorly lit, even with a light source.  It seems as if the
+walls are absorbing the light.  The hall continues on to the south and west.
+~
+100 41 0 7
+0 0 0 0
+0 0 0
+D2
+You try to peer through the darkness to no avail.
+~
+ ~
+ ~
+ ~
+1 -1 10043
+D3
+You try to peer through the darkness to no avail.
+~
+ ~
+ ~
+ ~
+1 -1 10041
+S
+#10043
+The dark hall~
+This hall is very poorly lit, even with a light source.  It seems as if the
+walls are absorbing the light.  The hall continues on to the north and south.
+~
+100 41 0 7
+0 0 0 0
+0 0 0
+D0
+You try to peer through the darkness to no avail.
+~
+ ~
+ ~
+ ~
+1 -1 10042
+D2
+You try to peer through the darkness to no avail.
+~
+ ~
+ ~
+ ~
+1 -1 10044
+S
+#10044
+The dark hall~
+This hall is very poorly lit, even with a light source.  It seems as if the
+walls are absorbing the light.  The hall continues on to the north and south.
+~
+100 41 0 7
+0 0 0 0
+0 0 0
+D0
+You try to peer through the darkness to no avail.
+~
+ ~
+ ~
+ ~
+1 -1 10043
+D2
+You try to peer through the darkness to no avail.
+~
+ ~
+ ~
+ ~
+1 -1 10046
+S
+#10045
+The dark hall~
+This hall is very poorly lit, even with a light source.  It seems as if the
+walls are absorbing the light.  The hall comes to a complete stop here to your
+west.
+~
+100 685 0 7
+0 0 0 0
+0 0 0
+D1
+You try to peer through the darkness to no avail.
+~
+ ~
+ ~
+ ~
+1 -1 10047
+S
+#10046
+The dark hall~
+This hall is very poorly lit, even with a light source.  It seems as if the
+walls are absorbing the light.  The hall continues on to the north and south.
+~
+100 41 0 7
+0 0 0 0
+0 0 0
+D0
+You try to peer through the darkness to no avail.
+~
+ ~
+ ~
+ ~
+1 -1 10044
+D2
+You try to peer through the darkness to no avail.
+~
+ ~
+ ~
+ ~
+1 -1 10047
+S
+#10047
+The dark hall~
+This hall is very poorly lit, even with a light source.  It seems as if the
+walls are absorbing the light.  The hall continues on to the north and south.
+You can sense a branch here to the west, but with the darkness, you cannot
+tell what awaits you around the corner.
+~
+100 41 0 7
+0 0 0 0
+0 0 0
+D0
+You try to peer through the darkness to no avail.
+~
+ ~
+ ~
+ ~
+1 -1 10046
+D2
+You try to peer through the darkness to no avail.
+~
+ ~
+ ~
+ ~
+1 -1 10048
+D3
+You try to peer through the darkness to no avail.
+~
+ ~
+ ~
+ ~
+1 -1 10045
+S
+#10048
+The dark hall~
+This hall is very poorly lit, even with a light source.  It seems as if the
+walls are absorbing the light.  The hall continues on to the north and south.
+~
+100 41 0 7
+0 0 0 0
+0 0 0
+D0
+You try to peer through the darkness to no avail.
+~
+ ~
+ ~
+ ~
+1 -1 10047
+D2
+You try to peer through the darkness to no avail.
+~
+ ~
+ ~
+ ~
+1 -1 10049
+S
+#10049
+The dark hall~
+This hall is very poorly lit, even with a light source.  It seems as if the
+walls are absorbing the light.  The hall continues on to the west and north.
+~
+100 41 0 7
+0 0 0 0
+0 0 0
+D0
+You try to peer through the darkness to no avail.
+~
+ ~
+ ~
+ ~
+1 -1 10048
+D3
+You try to peer through the darkness to no avail.
+~
+ ~
+ ~
+ ~
+1 -1 10050
+S
+#10050
+The dark hall~
+This hall is very poorly lit, even with a light source.  It seems as if the
+walls are absorbing the light.  The hall continues on to the east and west.
+~
+100 41 0 7
+0 0 0 0
+0 0 0
+D1
+You try to peer through the darkness to no avail.
+~
+ ~
+ ~
+ ~
+1 -1 10049
+D3
+You try to peer through the darkness to no avail.
+~
+ ~
+ ~
+ ~
+1 -1 10051
+S
+#10051
+The dark hall~
+This hall is very poorly lit, even with a light source.  It seems as if the
+walls are absorbing the light.  The hall continues on to the east and west.
+~
+100 41 0 7
+0 0 0 0
+0 0 0
+D1
+You try to peer through the darkness to no avail.
+~
+ ~
+ ~
+ ~
+1 -1 10050
+D3
+You try to peer through the darkness to no avail.
+~
+ ~
+ ~
+ ~
+1 -1 10052
+S
+#10052
+The dark hall~
+This hall is very poorly lit, even with a light source.  It seems as if the
+walls are absorbing the light.  The hall continues on to the east and west.
+~
+100 41 0 7
+0 0 0 0
+0 0 0
+D1
+You try to peer through the darkness to no avail.
+~
+ ~
+ ~
+ ~
+1 -1 10051
+D3
+You try to peer through the darkness to no avail.
+~
+ ~
+ ~
+ ~
+1 -1 10053
+S
+#10053
+The dark hall~
+This hall is very poorly lit, even with a light source.  It seems as if the
+walls are absorbing the light.  The hall continues on to the east and west.
+~
+100 41 0 7
+0 0 0 0
+0 0 0
+D1
+You try to peer through the darkness to no avail.
+~
+ ~
+ ~
+ ~
+1 -1 10052
+D3
+You try to peer through the darkness to no avail.
+~
+ ~
+ ~
+ ~
+1 -1 10054
+S
+#10054
+The dark hall~
+This hall is very poorly lit, even with a light source.  It seems as if the
+walls are absorbing the light.  The hall continues on to the east and west.
+~
+100 41 0 7
+0 0 0 0
+0 0 0
+D1
+You try to peer through the darkness to no avail.
+~
+ ~
+ ~
+ ~
+1 -1 10053
+D3
+You try to peer through the darkness to no avail.
+~
+ ~
+ ~
+ ~
+1 -1 10055
+S
+#10055
+The dark hall~
+This hall is very poorly lit, even with a light source.  It seems as if the
+walls are absorbing the light.  The hall continues on to the east and west.
+~
+100 41 0 7
+0 0 0 0
+0 0 0
+D1
+You try to peer through the darkness to no avail.
+~
+ ~
+ ~
+ ~
+1 -1 10054
+D3
+You try to peer through the darkness to no avail.
+~
+ ~
+ ~
+ ~
+1 -1 10056
+S
+#10056
+The dark hall~
+This hall is very poorly lit, even with a light source.  It seems as if the
+walls are absorbing the light.  The hall continues on to the east and north.
+~
+100 41 0 7
+0 0 0 0
+0 0 0
+D0
+You try to peer through the darkness to no avail.
+~
+ ~
+ ~
+ ~
+1 -1 10057
+D1
+You try to peer through the darkness to no avail.
+~
+ ~
+ ~
+ ~
+1 -1 10055
+S
+#10057
+The dark hall~
+This hall is very poorly lit, even with a light source.  It seems as if the
+walls are absorbing the light.  The hall continues on to the north and south.
+~
+100 41 0 7
+0 0 0 0
+0 0 0
+D0
+You try to peer through the darkness to no avail.
+~
+ ~
+ ~
+ ~
+1 -1 10058
+D2
+You try to peer through the darkness to no avail.
+~
+ ~
+ ~
+ ~
+1 -1 10056
+S
+#10058
+The dark hall~
+This hall is very poorly lit, even with a light source.  It seems as if the
+walls are absorbing the light.  The hall continues on to the north and south.
+~
+100 41 0 7
+0 0 0 0
+0 0 0
+D0
+You try to peer through the darkness to no avail.
+~
+ ~
+ ~
+ ~
+1 -1 10059
+D2
+You try to peer through the darkness to no avail.
+~
+ ~
+ ~
+ ~
+1 -1 10057
+S
+#10059
+The dark hall~
+This hall is very poorly lit, even with a light source.  It seems as if the
+walls are absorbing the light.  The hall continues on to the north and south.
+~
+100 41 0 7
+0 0 0 0
+0 0 0
+D0
+You try to peer through the darkness to no avail.
+~
+ ~
+ ~
+ ~
+1 -1 10060
+D2
+You try to peer through the darkness to no avail.
+~
+ ~
+ ~
+ ~
+1 -1 10058
+S
+#10060
+The dark hall~
+This hall is very poorly lit, even with a light source.  It seems as if the
+walls are absorbing the light.  The hall continues on to the north and south.
+You can sense a branch here to the east, but with the darkness, you cannot
+tell what awaits you around the corner.
+~
+100 41 0 7
+0 0 0 0
+0 0 0
+D0
+You try to peer through the darkness to no avail.
+~
+ ~
+ ~
+ ~
+1 -1 10061
+D1
+You try to peer through the darkness to no avail.
+~
+ ~
+ ~
+ ~
+1 -1 10063
+D2
+You try to peer through the darkness to no avail.
+~
+ ~
+ ~
+ ~
+1 -1 10059
+S
+#10061
+The dark hall~
+This hall is very poorly lit, even with a light source.  It seems as if the
+walls are absorbing the light.  The hall continues on to the north and south.
+~
+100 41 0 7
+0 0 0 0
+0 0 0
+D0
+You try to peer through the darkness to no avail.
+~
+ ~
+ ~
+ ~
+1 -1 10062
+D2
+You try to peer through the darkness to no avail.
+~
+ ~
+ ~
+ ~
+1 -1 10060
+S
+#10062
+The dark hall~
+This hall is very poorly lit, even with a light source.  It seems as if the
+walls are absorbing the light.  The hall continues on to the east and south.
+~
+100 41 0 7
+0 0 0 0
+0 0 0
+D1
+You try to peer through the darkness to no avail.
+~
+ ~
+ ~
+ ~
+1 -1 10013
+D2
+You try to peer through the darkness to no avail.
+~
+ ~
+ ~
+ ~
+1 -1 10061
+S
+#10063
+The dark hall~
+This hall is very poorly lit, even with a light source.  It seems as if the
+walls are absorbing the light.  The hall comes to a complete stop here to your
+east.
+~
+100 41 0 7
+0 0 0 0
+0 0 0
+D3
+You try to peer through the darkness to no avail.
+~
+ ~
+ ~
+ ~
+1 -1 10060
+S
+#19999
+$~

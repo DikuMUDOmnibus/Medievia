@@ -1,0 +1,2277 @@
+#16000
+Beginning of the Pier~
+You stand at the beginning of a pier where ships come in and out.  The smells
+of fish being loaded on and off the ships here are overwhelming.  There is a
+large ship docked to the east.  The pier continues north.
+~
+160 32 1 0
+0 0 0 0
+0 0 0
+D0
+The pier continues north.
+~
+ ~
+ ~
+ ~
+1 -1 16001
+E
+ship~
+It is a huge ship belonging to the royal family.  On its side is painted in
+big bold letters : THE ROYAL EAGLE.
+~
+S
+#16001
+Along the Pier~
+You are walking along the pier leading to the plank of the Royal Eagle.  The
+pier runs north and south from here.
+~
+160 32 1 0
+0 0 0 0
+0 0 0
+D0
+The pier continues north.
+~
+ ~
+ ~
+ ~
+1 -1 16002
+D2
+You see the entrance to the pier.
+~
+ ~
+ ~
+ ~
+1 -1 16000
+S
+#16002
+Along the Pier~
+You are walking along the pier leading to the plank of the Royal Eagle.  The
+pier runs north and south from here.
+~
+160 32 1 0
+0 0 0 0
+0 0 0
+D0
+The pier continues north.
+~
+ ~
+ ~
+ ~
+1 -1 16003
+D2
+The pier continues south.
+~
+ ~
+ ~
+ ~
+1 -1 16001
+S
+#16003
+Along the Pier~
+You are walking along the pier leading to the plank of the Royal Eagle.  The
+pier runs north and south from here.
+~
+160 32 1 0
+0 0 0 0
+0 0 0
+D0
+The pier continues north from here and takes a turn east.
+~
+ ~
+ ~
+ ~
+1 -1 16004
+D2
+The pier continues south.
+~
+ ~
+ ~
+ ~
+1 -1 16002
+S
+#16004
+A Turn at the Pier~
+You are walking along the pier.  There is a turn to the east here.  You may
+go east onto the plank or south to leave.
+~
+160 32 1 0
+0 0 0 0
+0 0 0
+D1
+To the east is the plank where one can board the ship.
+~
+ ~
+ ~
+ ~
+1 -1 16005
+D2
+The pier continues south from here.
+~
+ ~
+ ~
+ ~
+1 -1 16003
+S
+#16005
+Plankway to the Royal Eagle~
+You are on the walkway to the Royal Eagle.  Men are bustling about running
+errands for the Admiral Amos and his Highness.  These men looked like
+they have been out to sea many times judging from their skin.  You may
+board the Royal Eagle or leave to the west.
+~
+160 32 1 1
+0 0 0 0
+0 0 0
+D3
+You see the entrance to the ship.
+~
+ ~
+ ~
+ ~
+1 -1 16004
+D4
+You see the entrance to the ship.
+~
+ ~
+ ~
+ ~
+1 -1 16021
+E
+plank walkway~
+The walkway appears sturdy enough for a horse to climb, but it is too small for a wagon.
+~
+S
+#16006
+Southwest Corner of Aft Deck~
+You are standing on the aft deck of the ship.  From here, you could see
+all the people ashore selling their fresh catch.  The ship rocks slowly
+back and forth due to the waves that come in to shore.  You begin to
+feel seasick.
+~
+160 32 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 16011
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 16007
+S
+#16007
+Aft Deck South~
+You are standing on the aft deck of the ship.  From here, you could see
+all the people ashore selling their fresh catch.  The ship rocks slowly
+back and forth due to the waves that come in to shore.  You begin to
+feel seasick.
+~
+160 32 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 16012
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 16008
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 16006
+S
+#16008
+Aft Deck South~
+You are standing on the aft deck of the ship.  From here, you could see
+all the people ashore selling their fresh catch.  The ship rocks slowly
+back and forth due to the waves that come in to shore.  You begin to
+feel seasick.
+~
+160 32 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 16013
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 16009
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 16007
+S
+#16009
+Aft Deck South~
+You are standing on the aft deck of the ship.  From here, you could see
+all the people ashore selling their fresh catch.  The ship rocks slowly
+back and forth due to the waves that come in to shore.  You begin to
+feel seasick.
+~
+160 32 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 16014
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 16010
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 16008
+S
+#16010
+Southeast Corner of Aft Deck~
+You are standing on the aft deck of the ship.  From here, you could see
+all the people ashore selling their fresh catch.  The ship rocks slowly
+back and forth due to the waves that come in to shore.  You begin to
+feel seasick.
+~
+160 32 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 16015
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 16009
+S
+#16011
+Aft Deck - Port Side~
+You are standing on the aft deck of the ship.  The ship sways back and
+forth slowly, causing you to feel seasick.  Pirates walk around up here
+looking for stowaways.  Watch out!  They may mistake you for one!
+You can escape down to the main deck or go talk to the captain just
+east of here.
+~
+160 32 1 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 16012
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 16006
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 16016
+S
+#16012
+Aft Deck~
+You are standing on the aft deck of the ship.  The ship sways back and
+forth slowly, causing you to feel seasick.  Pirates walk around up here
+looking for stowaways.  Watch out!  They may mistake you for one!
+You can escape west and down to the main deck or go talk to the captain
+just east of here.
+~
+160 32 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 16013
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 16007
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 16011
+S
+#16013
+Center Aft Deck~
+You are standing on the aft deck of the ship.  This happens to be the
+place from which the captain shouts orders to his crew to get the ship
+ready for sail.  You stomach wrenches as the ship moves over a large
+swell in the sea.
+~
+160 32 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 16014
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 16008
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 16012
+S
+#16014
+Aft Deck~
+You are standing on the aft deck of the ship.  The ship sways back and
+forth slowly, causing you to feel seasick.  Pirates walk around up here
+looking for stowaways.  Watch out!  They may mistake you for one!
+You can escape east and down to the main deck or go talk to the captain
+just west of here.
+~
+160 32 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 16015
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 16009
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 16013
+S
+#16015
+Aft Deck - Starboard Side~
+You are standing on the aft deck of the ship.  The ship sways back and
+forth slowly, causing you to feel seasick.  Pirates walk around up here
+looking for stowaways.  Watch out!  They may mistake you for one!
+You can escape down to the main deck or go talk to the captain just
+west of here.
+~
+160 32 1 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 16010
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 16014
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 16020
+S
+#16016
+Main Deck of the Royal Eagle - Port~
+You are aboard the Royal Eagle - the flagship of the Krondorian fleet.  She
+has been out to sea many times on many voyages, some of which are not
+completely lawful.  She has been disquised so that she could raid merchant
+ships travelling the Blood Sea in order to "improve" the trade.
+~
+160 32 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 16021
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 16017
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 16011
+S
+#16017
+Main Deck of the Royal Eagle~
+You are aboard the Royal Eagle - the flag ship of the Krondorian fleet.  She
+seems to have been out to sea many times on many voyages.  Crewmen are
+working hard cleaning the deck and tidying up the ship in preparation to
+set sail.  There seems to be a slight crevice in the south wall, the
+weather must have really worn this ship out.
+~
+160 32 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 16022
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 16018
+D2
+You notice a crevice in the wall.  It may just have been weatherworn.
+~
+wall door~
+ ~
+ ~
+3 16000 16074
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 16016
+E
+symbol~
+This is so small, you can barely see it.  It seems to show a picture of
+a dagger pointed down at a set of skull and crossbones.
+~
+E
+crevice~
+Upon closer inspection, you see that the crevice is as high and thin as a
+coin slot.  You also notice a small symbol carved into the wood just above
+the slot.
+~
+S
+#16018
+Main Deck of the Royal Eagle~
+You are aboard the Royal Eagle - the flag ship of the Krondorian fleet.  She
+seems to have been out to sea many times on many voyages.  Crewmen are
+working hard cleaning the deck and tidying up the ship in preparation to
+set sail.  The floorboard here seems to creak as you walk across it.  You
+think to yourself, "Geez, this ship sure needs some repairs!"
+~
+160 32 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 16023
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 16019
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 16017
+D5
+The floorboards seem to squeak.
+~
+floorboard floor~
+ ~
+ ~
+4 16001 16069
+E
+floorboard floor~
+It seems to squeak.  It could be a door of some kind.
+~
+S
+#16019
+Main Deck of the Royal Eagle~
+You are aboard the Royal Eagle - the flag ship of the Krondorian fleet.  She
+seems to have been out to sea many times on many voyages.  Crewmen are
+working hard cleaning the deck and tidying up the ship in preparation to
+set sail.
+~
+160 32 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 16024
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 16020
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 16018
+S
+#16020
+Main Deck of the Royal Eagle - Starboard~
+You are aboard the Royal Eagle - the flagship of the Krondorian fleet.  She
+has been out to sea many times on many voyages, some of which are not
+completely lawful.  She has been disquised so that she could raid merchant
+ships travelling the Blood Sea in order to "improve" the trade.
+~
+160 32 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 16025
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 16019
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 16015
+S
+#16021
+Entrance to the Royal Eagle - Main Deck~
+You are aboard the Royal Eagle - the flagship of the Krondorian fleet.  She
+has been out to sea many times on many voyages, some of which are not
+completely lawful.  She has been disquised so that she could raid merchant
+ships travelling the Blood Sea in order to "improve" the trade.  You may
+leave the ship by going down the plank.
+~
+160 32 1 3
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 16026
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 16022
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 16016
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 16005
+E
+plank~
+The plank appears sturdy enough for a horse to climb, but it isn't wide enough for a wagon to traverse.
+~
+S
+#16022
+Main Deck~
+You are aboard the Royal Eagle.  She is preparing to take off on the next
+high tide.  The crew is busy disguising her for a pirate's raid planned on
+a ship spotted off the coast.
+~
+160 32 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 16027
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 16023
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 16017
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 16021
+S
+#16023
+Main Deck~
+You are aboard the Royal Eagle.  She is preparing to take off on the next
+high tide.  The crew is busy disguising her for a pirate's raid planned on
+a ship spotted off the coast.
+~
+160 32 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 16028
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 16024
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 16018
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 16022
+S
+#16024
+Main Deck~
+You are aboard the Royal Eagle.  She is preparing to take off on the next
+high tide.  The crew is busy disguising her for a pirate's raid planned on
+a ship spotted off the coast.
+~
+160 32 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 16029
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 16025
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 16019
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 16023
+S
+#16025
+Main Deck - Starboard~
+You are aboard the Royal Eagle.  She is preparing to take off on the next
+high tide.  The crew is busy disguising her for a pirate's raid planned on
+a ship spotted off the coast.
+~
+160 32 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 16030
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 16020
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 16024
+E
+crew~
+The crew consists of many pirates that dislike you boarding their ship.
+~
+S
+#16026
+Main Deck - Port~
+You are aboard the Royal Eagle.  She is preparing to take off on the next
+high tide.  The crew is busy disguising her for a pirate's raid planned on
+a ship spotted off the coast.
+~
+160 32 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 16031
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 16027
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 16021
+S
+#16027
+Main Deck~
+You are aboard the Royal Eagle.  She is preparing to take off on the next
+high tide.  The crew is busy disguising her for a pirate's raid planned on
+a ship spotted off the coast.
+~
+160 32 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 16032
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 16028
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 16022
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 16026
+S
+#16028
+Main Deck~
+You are aboard the Royal Eagle.  She is preparing to take off on the next
+high tide.  The crew is busy disguising her for a pirate's raid planned on
+a ship spotted off the coast.
+~
+160 32 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 16033
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 16029
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 16023
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 16027
+S
+#16029
+Main Deck~
+You are aboard the Royal Eagle.  She is preparing to take off on the next
+high tide.  The crew is busy disguising her for a pirate's raid planned on
+a ship spotted off the coast.
+~
+160 32 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 16034
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 16030
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 16024
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 16028
+S
+#16030
+Main Deck - Starboard~
+You are aboard the Royal Eagle.  She is preparing to take off on the next
+high tide.  The crew is busy disguising her for a pirate's raid planned on
+a ship spotted off the coast.
+~
+160 32 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 16035
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 16025
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 16029
+S
+#16031
+Main Deck - Port~
+You are aboard the Royal Eagle.  She is preparing to take off on the next
+high tide.  The crew is busy disguising her for a pirate's raid planned on
+a ship spotted off the coast.
+~
+160 32 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 16036
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 16032
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 16026
+S
+#16032
+Main Deck~
+You are aboard the Royal Eagle.  She is preparing to take off on the next
+high tide.  The crew is busy disguising her for a pirate's raid planned on
+a ship spotted off the coast.
+~
+160 32 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 16037
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 16033
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 16027
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 16031
+S
+#16033
+Base of the Mast~
+You are aboard the Royal Eagle.  She is preparing to take off on the next
+high tide.  The crew is busy disguising her for a pirate's raid planned on
+a ship spotted off the coast.  There is a mast here which you could climb
+up, but be careful not to fall!
+~
+160 32 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 16038
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 16034
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 16028
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 16032
+D4
+You look up the mast of the ship.  It seems very high and you get a feeling
+of vertigo.
+~
+ ~
+ ~
+ ~
+1 -1 16078
+S
+#16034
+Main Deck~
+You are aboard the Royal Eagle.  She is preparing to take off on the next
+high tide.  The crew is busy disguising her for a pirate's raid planned on
+a ship spotted off the coast.
+~
+160 32 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 16039
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 16035
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 16029
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 16033
+S
+#16035
+Main Deck - Starboard~
+You are aboard the Royal Eagle.  She is preparing to take off on the next
+high tide.  The crew is busy disguising her for a pirate's raid planned on
+a ship spotted off the coast.
+~
+160 32 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 16040
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 16030
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 16034
+S
+#16036
+Main Deck - Port~
+You are aboard the Royal Eagle.  She is preparing to take off on the next
+high tide.  The crew is busy disguising her for a pirate's raid planned on
+a ship spotted off the coast.
+~
+160 32 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 16041
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 16037
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 16031
+S
+#16037
+Main Deck~
+You are aboard the Royal Eagle.  She is preparing to take off on the next
+high tide.  The crew is busy disguising her for a pirate's raid planned on
+a ship spotted off the coast.
+~
+160 32 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 16042
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 16038
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 16032
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 16036
+S
+#16038
+Main Deck~
+You are aboard the Royal Eagle.  She is preparing to take off on the next
+high tide.  The crew is busy disguising her for a pirate's raid planned on
+a ship spotted off the coast.
+~
+160 32 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 16043
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 16039
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 16033
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 16037
+S
+#16039
+Main Deck~
+You are aboard the Royal Eagle.  She is preparing to take off on the next
+high tide.  The crew is busy disguising her for a pirate's raid planned on
+a ship spotted off the coast.
+~
+160 32 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 16044
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 16040
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 16034
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 16038
+S
+#16040
+Main Deck - Starboard~
+You are aboard the Royal Eagle.  She is preparing to take off on the next
+high tide.  The crew is busy disguising her for a pirate's raid planned on
+a ship spotted off the coast.
+~
+160 32 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 16045
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 16035
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 16039
+S
+#16041
+Main Deck - Port~
+You are aboard the Royal Eagle.  She is preparing to take off on the next
+high tide.  The crew is busy disguising her for a pirate's raid planned on
+a ship spotted off the coast.
+~
+160 32 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 16042
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 16036
+S
+#16042
+Main Deck~
+You are aboard the Royal Eagle.  She is preparing to take off on the next
+high tide.  The crew is busy disguising her for a pirate's raid planned on
+a ship spotted off the coast.
+~
+160 32 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 16046
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 16043
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 16037
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 16041
+S
+#16043
+Main Deck~
+You are aboard the Royal Eagle.  She is preparing to take off on the next
+high tide.  The crew is busy disguising her for a pirate's raid planned on
+a ship spotted off the coast.
+~
+160 32 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 16047
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 16044
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 16038
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 16042
+S
+#16044
+Main Deck~
+You are aboard the Royal Eagle.  She is preparing to take off on the next
+high tide.  The crew is busy disguising her for a pirate's raid planned on
+a ship spotted off the coast.
+~
+160 32 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 16048
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 16045
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 16039
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 16043
+S
+#16045
+Main Deck - Starboard~
+You are aboard the Royal Eagle.  She is preparing to take off on the next
+high tide.  The crew is busy disguising her for a pirate's raid planned on
+a ship spotted off the coast.
+~
+160 32 1 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 16040
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 16044
+E
+tide water high~
+The tide appears to be rising, the Royal Eagle will be setting sail soon.
+~
+S
+#16046
+Bow of the Royal Eagle~
+You are aboard the Royal Eagle, the flagship of the Krondorian fleet.  She
+is preparing to set sale at next high tide.  The crew is swabbing the deck
+and trimming the sails in preparation for departure.
+~
+160 32 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 16049
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 16047
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 16042
+S
+#16047
+Bow of the Royal Eagle~
+You are aboard the Royal Eagle, the flagship of the Krondorian fleet.  She
+is preparing to set sale at next high tide.  The crew is swabbing the deck
+and trimming the sails in preparation for departure.  There is a hatch on
+the floor here.  Sailors go up and down the hatch, it must lead to their
+sleeping quarters.
+~
+160 32 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 16050
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 16048
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 16043
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 16046
+D5
+ ~
+hatch~
+ ~
+ ~
+1 16002 16053
+S
+#16048
+Bow of the Royal Eagle~
+You are aboard the Royal Eagle, the flagship of the Krondorian fleet.  She
+is preparing to set sale at next high tide.  The crew is swabbing the deck
+and trimming the sails in preparation for departure.
+~
+160 32 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 16051
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 16044
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 16047
+S
+#16049
+Bow of the Royal Eagle~
+You are aboard the Royal Eagle, the flagship of the Krondorian fleet.  She
+is preparing to set sale at next high tide.  The crew is swabbing the deck
+and trimming the sails in preparation for departure.
+~
+160 32 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 16050
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 16046
+S
+#16050
+Bow of the Royal Eagle~
+You are aboard the Royal Eagle, the flagship of the Krondorian fleet.  She
+is preparing to set sale at next high tide.  The crew is swabbing the deck
+and trimming the sails in preparation for departure.
+~
+160 32 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 16052
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 16051
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 16047
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 16049
+S
+#16051
+Bow of the Royal Eagle~
+You are aboard the Royal Eagle, the flagship of the Krondorian fleet.  She
+is preparing to set sale at next high tide.  The crew is swabbing the deck
+and trimming the sails in preparation for departure.
+~
+160 32 1 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 16048
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 16050
+S
+#16052
+Tip of the Royal Eagle~
+You are aboard the Royal Eagle which is ready to set sail soon.  You are
+standing at the tip of the ship.  From here you could look forward and
+see the vast Blood Sea.  As you look back, you see all the crew of the ship
+busy at work.  The only exit is south of course.
+~
+160 32 1 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 16050
+E
+blood sea~
+The sea is so vast, it covers the expanse of the horizon from east to west.
+The water in the sea is deep red in color thus begetting it its name.  The
+color is supposedly caused by an enourmous underwater whirlpool which
+stirs the ocean dirt up making the water reddish.
+~
+S
+#16053
+Stairs to the Main Deck~
+You are below deck of the Royal Eagle.  It is poorly lighted down here.
+There is a hallway to the south and you also smell an odor from the south.
+you could exit to the main deck through the hatch from here.
+~
+160 41 0 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 16054
+D4
+You see the main deck of the Royal Eagle above you.
+~
+hatch~
+ ~
+ ~
+1 16002 16047
+S
+#16054
+Below Deck~
+You are in a hallway below the deck of the ship.  The hallway goes
+north and south and is very poorly lighted.  There is a faint smell
+coming from the stern of the ship.
+~
+160 41 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 16053
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 16057
+S
+#16056
+Sleeping Quarters~
+You see bunkbeds lined againts the wall. There are various items scattered
+around the room.  The room is very dark.  Sailors come down here to rest
+and get their sleep.  They are very grumpy if they miss their naps so be
+very quiet in order not to wake them.  You can exit through the east door
+or continue on south.
+~
+160 41 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+door~
+ ~
+ ~
+1 16002 16057
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 16059
+S
+#16057
+An Intersection Below Deck~
+You are in a hallway below deck of the ship.  There are doors leading
+east and west from here.  The hallway continues north and south.  A
+faint odor drifts to you from the southern part of the hallway.
+~
+160 41 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 16054
+D1
+ ~
+door~
+ ~
+ ~
+1 16002 16058
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 16060
+D3
+ ~
+door~
+ ~
+ ~
+1 16002 16056
+S
+#16058
+Sleeping Quarters~
+You see bunkbeds lined against the wall.  There are various items scattered
+around the room.  The room is very dark.  Sailors come down here to rest
+and get their sleep.  They are very grumpy if they miss their naps so be
+very quiet in order not to wake them.  You can exit through the west door
+or continue on south.
+~
+160 41 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 16061
+D3
+ ~
+door~
+ ~
+ ~
+1 16002 16057
+S
+#16059
+Sleeping Quarters~
+You see bunkbeds lined againts the wall. There are various items scattered
+around the room.  The room is very dark.  Sailors come down here to rest
+and get their sleep.  They are very grumpy if they miss their naps so be
+very quiet in order not to wake them.
+~
+160 41 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 16056
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 16062
+S
+#16060
+Below Deck~
+You are in a hallway below the deck of the ship.  The hallway goes
+north and south and is very poorly lighted.  There is a strong smell
+coming from the stern of the ship.
+~
+160 38 6 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 16057
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 16063
+S
+#16061
+Sleeping Quarters~
+You see bunkbeds lined againts the wall.  there are various items scattered
+around the room.  The room is very dark.  Sailors come down here to rest
+and get their sleep.  They are very grumpy if they miss their naps so be
+very quiet in order not to wake them.
+~
+160 41 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 16058
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 16064
+S
+#16062
+Sleeping Quarters~
+You see bunkbeds lined againts the wall.  There are various items scattered
+around the room.  The room is very dark.  Sailors come down here to rest
+and get their sleep.  They are very grumpy if they miss their naps so be
+very quiet in order not to wake them.  The store rooms are south of here.
+~
+160 41 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 16059
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 16065
+S
+#16063
+The Kitchen~
+Wheww!  This was where that odor was coming from.  The rooms stinks of
+garlick, old meat and other foods which would make a beggar's face green!
+You feel like throwing up due to the sway of the sea and the rotten food
+here.  You can exit north.
+~
+160 41 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 16060
+E
+c create food meat garlick rotten~
+You see a kettle filled with assorted meats coming to a boil.
+~
+S
+#16064
+Sleeping Quarters~
+You see bunkbeds lined againts the wall.  there are various items scattered
+around the room.  The room is very dark.  Sailors come down here to rest
+and get their sleep.  They are very grumpy if they miss their naps so be
+very quiet in order not to wake them.
+~
+160 41 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 16061
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 16067
+S
+#16065
+Storeroom~
+This room is used for storing the various supplies needed for a long
+voyage.  There are barrels and crates of food and weapons piled up
+in the room.  You can go east or north from here.
+~
+160 41 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 16062
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 16066
+S
+#16066
+Storeroom~
+This room is used for storing the various supplies needed for a long
+voyage.  There are barrels and crates of food and weapons piled up
+in the room.  There are no exits except west.
+~
+160 41 0 0
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 16065
+S
+#16067
+Sleeping Quarters~
+You see bunkbeds lined againts the wall.  there are various items scattered
+around the room.  The room is very dark.  Sailors come down here to rest
+and get their sleep.  They are very grumpy if they miss their naps so be
+very quiet in order not to wake them.  You can only exit north.
+~
+160 41 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 16064
+S
+#16068
+Below Deck - Port~
+You are in a corridor below deck of the ship.  The hall is very poorly
+lighted.  The exits are east and there is a door to the south.
+~
+160 41 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 16069
+D2
+You see the door leading to the First Mate's quarters.
+~
+door~
+ ~
+ ~
+1 16003 16071
+S
+#16069
+Below Deck~
+You are in a corridor below deck of the ship.  The hallway goes east and
+west and is very poorly lighted.  There is a door to the south.
+~
+160 41 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 16070
+D2
+You see the door leading to the Captain's quarters.
+~
+door~
+ ~
+ ~
+1 16003 16072
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 16068
+D4
+ ~
+hatch~
+ ~
+ ~
+1 16001 16018
+S
+#16070
+Below Deck - Starboard~
+You are in a corridor below deck of the ship.  The hall is very poorly
+lighted.  The exits are west and there is a door to the south.
+~
+160 41 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+door~
+ ~
+ ~
+1 16003 16073
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 16069
+S
+#16071
+First Mate's Quarters~
+This room is very messy.  There is a small table against the wall with a
+little lamp on it.  Clothing is scattered all over the floor and you see
+empty bottles of beer here and there.  Sheets on the bed are crumpled
+up as if they haven't been washed in decades.
+~
+160 41 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+door~
+ ~
+ ~
+1 16003 16068
+S
+#16072
+Captain's Quarters~
+This is the Captain's room.  He seems to be very tidy for a pirate.  There
+are various articles of note in this room, most of which are keepsakes from
+his other expeditions by the looks of it.  In the center of the room is a
+small table, and you see his log on top of it.  The Captain is rarely here.
+He must be outside commanding the crew, but if he sees you in here,
+he will be VERY upset, so get out quick!
+~
+160 41 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+door~
+ ~
+ ~
+1 16003 16069
+S
+#16073
+Navigator's Quarters~
+This room is filled with maps from wall to wall.  There is a huge table in
+center with a map showing the ocean currents and winds.  Navigation
+instruments have been laid all over the table.
+~
+160 41 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+door~
+ ~
+ ~
+1 16003 16070
+S
+#16074
+Hidden Room~
+You are in a small secret room covered with cobwebs.  It seems that no one
+has been here in a LONG time.  The room is very cold and dark.  It goes
+east of here and there is a door to the north.
+~
+160 41 0 0
+0 0 0 0
+0 0 0
+D0
+You see the main deck of the Royal Eagle.
+~
+door wall~
+ ~
+ ~
+1 16000 16017
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 16075
+S
+#16075
+Hidden Room~
+You are in a small secret room covered with cobwebs.  It seems that no one
+has been here in a LONG time.  The room is very cold and dark.  It goes
+east and west.
+~
+160 41 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 16076
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 16074
+S
+#16076
+Treasure Room~
+WOW!  Look at all the gold and jewelry chests here.  You could buy a
+kingdom with all these riches!  This must be the room where the Captain
+hides the pirate's plunder he has been accumulating over the years.
+You couldn't possibly carry out all this gold.  Too bad.
+~
+160 41 0 0
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 16075
+S
+#16077
+Out on the Mast~
+You are hanging out on the mast of the Royal Eagle.  Literally!  The
+only way to climb around the mast is by using all the ropes dangling
+around from the top.  You feel like Peter Pan for some strange reason.
+~
+160 32 5 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 16078
+S
+#16078
+The Mast~
+You are climbing the mast of the Royal Eagle.  It is very windy up
+here so hang on tight!  You see all the little men scrambling around
+on the ship below.  You can go east or west, up or down.
+~
+160 32 5 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 16079
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 16077
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 16081
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 16033
+S
+#16079
+Out on the Mast~
+You are hanging out on the mast of the Royal Eagle.  Litterally!  The
+only way to climb around the mast is by using all the ropes dangling
+around from the top.  You feel like Peter Pan for some strange reason.
+~
+160 32 5 0
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 16078
+S
+#16080
+Out on the Mast~
+You are hanging out on the mast of the Royal Eagle.  Litterally!  The
+only way to climb around the mast is by using all the ropes dangling
+around from the top.  It is very high and windy up here, so don't
+look down if you have acrophobia.
+~
+160 32 5 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 16081
+S
+#16081
+The Mast~
+You are climbing the mast of the Royal Eagle.  It is very windy up
+here so hang on tight!  You see all the little men scrambling around
+on the ship below.  As you look down, you lose your lunch, breakfast,
+and anything else you ate.  It lands on a pirate below who must
+be furious now!  Ewwe!  You can go east or west, up or down.
+~
+160 32 5 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 16082
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 16080
+D4
+Above you is the crow's nest, the highest point on the ship.
+~
+ ~
+$n staggers up the ladder.~
+$n staggers up the ladder.~
+1 -1 16083
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 16078
+S
+#16082
+Out on the Mast~
+You are hanging out on the mast of the Royal Eagle.  Litterally!  The
+only way to climb around the mast is by using all the ropes dangling
+around from the top.  It is very high and windy up here, so don't
+look down if you have acrophobia.
+~
+160 32 5 0
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 16081
+S
+#16083
+Crow's Nest~
+You are at the highest point on the ship.  From here you can almost see
+Castle Square.  You see all the little dots scrambling around below you.
+This is where the lookout is posted.  Suddenly, the swaying of the ship
+and the height gets to you and you let loose your dinner.  Ewwe!
+~
+160 32 6 0
+0 0 0 0
+0 0 0
+D5
+You get dizzy and can't help but throw up again!
+~
+ ~
+ ~
+ ~
+1 -1 16081
+E
+puke vomit lunch~
+The pork and beans you had for lunch is less appealing the second time around.
+~
+S
+#19999
+$~

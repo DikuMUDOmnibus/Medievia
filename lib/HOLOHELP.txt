@@ -1,0 +1,69 @@
+Life is SIMPLE here :)
+
+You have 256 rooms which are 256 rooms of a variety of flavors that are used
+to make landmasses.  SIMPLE!  right?  :)
+
+Ok so the format is like this:
+
+#NUMBER    its like 0-255 k?  IT MATCHES the color number in the paint
+program we use to make the medievia world map deal thingy, which is called
+medievia.raw if you must know, dont look at that, its binary :)
+
+NOW WHAT!?  well screw the way the other world files work, I want life so
+simple we cannot fuck it up so....
+
+THE REST is just tag/value pairs, just like the new mobfile format...
+And without further adue...here they are!
+
+NAME A deep dark steamy jungle~  So ya got NAME followed by the name of
+		the room ending with a, you guessed it, squigly
+DSC Blah Blah
+	Blah blah blah
+~  Ok so here ya got the tag DSC and the description, which ends with a 
+   squigly all by itself on a new line, just like the room files...
+
+FOLLOWING are all the rest of the tags in alpha order so I know I dont
+accidentally repeat any for different things.
+THE CAPS YA NEED, the rest is optional so you can type DAR or DARK and it
+will just say DARk..fact is you can type DARMOOMOODOGFACE! and it will do
+DARK, period.
+
+DRINKROOM		makes this room drinkable....
+!CLeric			class restrictions
+!MAge
+!THief
+!WArrior
+NOWAGON			TRADING, wagons not allowed
+NOMULE			TRADING, No mules allowed
+NOHORSE			TRADING, No horses allowed
+AIR				sector
+BLOcking		This is new, and VERY important, see Vryce
+CHAotic
+CITy			sector
+DARk
+DEAth
+DESert			sector
+GODproof
+FIEld			sector
+FORest			sector
+HILls			sector
+HURt NUMBER		NEW, see Vryce  NUMBER can be 10 or 3d10+3
+INDoors		
+INSide			sector
+LAWfull
+MOUntain		sector
+NOSwim			sector SECT_WATER_NOSWIM
+NO_MOB
+NEUtral
+PRIvate
+SWIm			sector SECT_WATER_SWIM
+TUNnel			not coded yet I thinks
+UNDerwater		sector
+
+These tags can be anywhere in any order on same line, on seperate lines
+anyway ya want, no stringent syntax at all, so you cant fuck it up without
+REALLY trying.
+
+WELL THATS IT!  here is your certificate saying you completed the course..
+
+				-===+++***###%%%BOZO BUTTON%%%###***+++===---

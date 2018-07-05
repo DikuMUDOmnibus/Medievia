@@ -1,0 +1,12 @@
+okay, here is med src with few mods for those who requested it.
+it will compile/run on FreeBSD/Linux/Solaris.
+if you want to compile it on Solaris, you should change L2_FLAGS in Makefile
+
+to check my changes, `egrep -n "(FreeBSD|linux|\(sun|MEDTHIEVIA)" *.[ch]`
+in src dir. 
+
+You can contact me at r.g.m.d
+
+
+Have fun with MedThievia. :) 
+

@@ -1,0 +1,63 @@
+This file is used to define moving freight types.
+
+It is a format you should be used to...
+
+#NUMBER
+TAG VALUE  TAG VALUE TAG VALUE
+TAG VALUE
+#NUMBER
+.
+#NUMBER
+.
+.
+$
+
+The Tags can be in any order, all in a line, all on seperate lines....any
+way you like...  The file MUST end with a $ on the last line as the first
+char on the line.
+
+
+Now for the tags...So far we have...
+
+NAM which is the name list to call the thing.... ends with our friend the
+squigly
+NAM mule beast ugly4leggedthing~
+
+SHO is the short description, for in room and actions
+SHO a covered wagon loaded with tradables~
+
+DES is the description if ya look at it
+DES The wagon is very wagon looking....it has like wheels and a lot of
+stuff in it :)
+~
+
+SIZ is the SIZE total it can hold as all tradables will have a size....
+This value is sorta arbitrary...  I look at it like a size of one is big
+enough to hold an apple.
+
+SIZ 850
+
+WGT is the total weight it can hold.  All tradables have a weight...  I look
+at weight as a pound.  But is is arbitrary
+
+WGT 600
+
+PRI is the price the thing is sold for at the trading shops...
+
+PRI 10000
+MORE to come soon like stamina, breath and endurance....how much it eats and
+drinks etc...
+
+WAGONTYPE  sets the TYPE to a wagon type of freight
+MULETYPE   these types are used for the room restrictions
+HORSETYPE                                                
+
+MOB 1200
+This is very important.  This says mobile 1200 is the mob we use when doing
+socials and stuff for this freight type.  For instance for the covered wagon
+we would use a nice big horse.  It is used like this.  SOmeone does
+pet horse...  if that will work for a freight in the room tyhe code takes
+that freightypes stored mob already made and pops it in the room, does the
+social and pops him out.  It is VERY important that the mobile have the same
+namelist as the freight.  It is also used for auto realizm code like the
+horse snorting and stuff.

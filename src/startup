@@ -1,0 +1,21 @@
+#! /bin/csh -f
+
+# Set limits.
+nohup
+#limit stack 1024k
+if ( -e shutdown.txt ) rm -f shutdown.txt
+
+while ( 1 )
+    sync
+    if ( -e syslog ) chmod 640 syslog
+    if ( -e syslog ) chgrp medievia syslog
+    if ( -e syslog ) mv syslog ../log/`date +%j.%H%M%S`
+    medievia_online 4444 >&! syslog
+
+    # Restart, giving old connections a chance to die.
+    if ( -e shutdown.txt ) then
+	rm -f shutdown.txt
+	exit 0
+    endif
+    sleep 2
+end

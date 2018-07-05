@@ -1,0 +1,2826 @@
+#2000
+A Stone Entry Hall~
+The walls, ceiling and floor of this room are bare.  You also notice that it's
+warm in these ruins and something is keeping out the cold that you felt before.
+The hall seems to continue ahead but it's hard to tell in the darkness that is
+so dense down here.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6142
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2001
+S
+#2001
+Further along the Entry Hall~
+After adjusting to th warmth that you felt before you now no longer notice it.
+This room is bare and is simply used as a passage to get from one place to
+another.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2002
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2000
+S
+#2002
+The end of the Entry Hall~
+This room is filled with decaying trophies.  The walls are covered with rusted
+and unusable weapons and moldering heads of all manner of beast.  It appears
+that somone had spent a lifetime in the pursuit of killing.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2003
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2001
+S
+#2003
+A Large Stone Corridor~
+This corridor is carved from soild rock.  Who or Whatever made this must have
+been very large, or spent their life down here.  Several large colums support
+the celing.  This place is unnatural but it seems that there is no life down
+here, however the corridor continues ahead but the lack of light makes it
+imposible to see what is ahead of you.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2002
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2014
+S
+#2014
+A Large Stone Corridor~
+This room is a continuation of the corridor you were in before.  Like the others
+it is enormous and unnaturally carved from solid stone.  You see the corridor
+continue ahead of you.  There is no light down here apart from that which your
+light gives out.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2003
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2015
+S
+#2015
+A Large Stone Corridor~
+This room is a continuation of the corridor you were in before.  Like the others
+it is enormous and unnaturally carved from solid stone.  You see the corridor
+continue ahead of you.  There is no light down here apart from that which your
+light gives out.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2014
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2016
+D3
+ ~
+door~
+ ~
+ ~
+1 -1 3092
+S
+#2016
+A Large Stone Corridor~
+This room is a continuation of the corridor you were in before.  Like the others
+it is enormous and unnaturally carved from solid stone.  You see the corridor
+continue ahead of you.  There is no light down here apart from that which your
+light gives out.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2015
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2017
+S
+#2017
+A Turn in the Corridor~
+Following the passage in the darkness it once again changes direction.  As
+before the darkness prevents you from seeing what lies beyond in this mass of
+stone.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2016
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2018
+D2
+ ~
+door~
+ ~
+ ~
+1 -1 3091
+S
+#2018
+A Large Stone Corridor~
+This room is a continuation of the corridor you were in before.  Like the others
+it is enormous and unnaturally carved from solid stone.  You see the corridor
+continue ahead of you.  There is no light down here apart from that which your
+light gives out.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2019
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2017
+S
+#2019
+A Turn in the Corridor~
+Following the passage in the darkness it once again changes direction.  As
+before the darkness prevents you from seeing what lies beyond in this mass of
+stone.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2020
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2018
+S
+#2020
+A Large Stone Corridor~
+This room is a continuation of the corridor you were in before.  Like the others
+it is enormous and unnaturally carved from solid stone.  You see the corridor
+continue ahead of you.  There is no light down here apart from that which your
+light gives out.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2019
+D2
+ ~
+door~
+ ~
+ ~
+1 -1 2021
+S
+#2021
+A Four Way Intersection~
+You find yourself in a large intersection.  There is no way to tell which way is
+safe, or what dangers lay beyond in the darkness.  No noises can be heard in any
+of the directions that this intersection leads to.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+door~
+ ~
+ ~
+1 -1 2020
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4008
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2022
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4013
+S
+#2022
+A Large Stone Corridor~
+This room is a continuation of the corridor you were in before.  Like the others
+it is enormous and unnaturally carved from solid stone.  You see the corridor
+continue ahead of you.  There is no light down here apart from that which your
+light gives out.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2021
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2023
+S
+#2023
+A Large Stone Corridor~
+This room is a continuation of the corridor you were in before.  Like the others
+it is enormous and unnaturally carved from solid stone.  You see the corridor
+continue ahead of you.  There is no light down here apart from that which your
+light gives out.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2022
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2024
+S
+#2024
+A Turn in the Corridor~
+Following the passage in the darkness it once again changes direction.  As
+before the darkness prevents you from seeing what lies beyond in this mass of
+stone.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2023
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6804
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2025
+S
+#2025
+A Large Stone Corridor~
+This room is a continuation of the corridor you were in before.  Like the others
+it is enormous and unnaturally carved from solid stone.  You see the corridor
+continue ahead of you.  There is no light down here apart from that which your
+light gives out.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2024
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2026
+S
+#2026
+A Turn in the Corridor~
+Following the passage in the darkness it once again changes direction.  As
+before the darkness prevents you from seeing what lies beyond in this mass of
+stone.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2025
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2027
+S
+#2027
+A Large Stone Corridor~
+This room is a continuation of the corridor you were in before.  Like the others
+it is enormous and unnaturally carved from solid stone.  You see the corridor
+continue ahead of you.  There is no light down here apart from that which your
+light gives out.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2026
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2028
+S
+#2028
+A Large Stone Corridor~
+This room is a continuation of the corridor you were in before.  Like the others
+it is enormous and unnaturally carved from solid stone.  You see the corridor
+continue ahead of you.  There is no light down here apart from that which your
+light gives out.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2027
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2029
+S
+#2029
+To Be Done~
+To be done.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2028
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2030
+D3
+ ~
+door~
+ ~
+ ~
+1 -1 4015
+S
+#2030
+A Gently Sloping Passage~
+To be done.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2029
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2031
+S
+#2031
+A Gently Sloping Passage~
+To be done.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2030
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2032
+S
+#2032
+A Gently Sloping Passage~
+To be done.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2033
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2031
+S
+#2033
+A Gently Sloping Passage~
+To be done.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2111
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2032
+S
+#2111
+A Gently Sloping Passage~
+To be done.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3090
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2033
+S
+#3090
+A Gently Sloping Passage~
+To be done.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2111
+S
+#3091
+To Be Done~
+To be done.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+door~
+ ~
+ ~
+1 -1 2017
+S
+#3092
+An Old Storage Room~
+The contents of this room are very decrepit and deteriorated.  This room is
+full of rotted racks holding the decayed remnants of missile weapons.  Obviously
+the components of bows and slings are more perishable than those of swords and
+armor.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+door~
+ ~
+ ~
+1 -1 2015
+S
+#4008
+A Large Stone Corridor~
+This room is a continuation of the corridor you were in before.  Like the others
+it is enormous and unnaturally carved from solid stone.  You see the corridor
+continue ahead of you.  There is no light down here apart from that which your
+light gives out.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4309
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2021
+S
+#4013
+A Large Stone Corridor~
+This room is a continuation of the corridor you were in before.  Like the others
+it is enormous and unnaturally carved from solid stone.  You see the corridor
+continue ahead of you.  There is no light down here apart from that which your
+light gives out.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2021
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6445
+S
+#4015
+To be done~
+To be done.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2029
+S
+#4309
+A Large Stone Corridor~
+This room is a continuation of the corridor you were in before.  Like the others
+it is enormous and unnaturally carved from solid stone.  You see the corridor
+continue ahead of you.  There is no light down here apart from that which your
+light gives out.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4310
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4008
+S
+#4310
+A Turn in the Corridor~
+Following the passage in the darkness it once again changes direction.  As
+before the darkness prevents you from seeing what lies beyond in this mass of
+stone.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4365
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4309
+S
+#4365
+A Large Stone Corridor~
+This room is a continuation of the corridor you were in before.  Like the others
+it is enormous and unnaturally carved from solid stone.  You see the corridor
+continue ahead of you.  There is no light down here apart from that which your
+light gives out.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4462
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4310
+S
+#4462
+A Turn in the Corridor~
+Following the passage in the darkness it once again changes direction.  As
+before the darkness prevents you from seeing what lies beyond in this mass of
+stone.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4486
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4365
+S
+#4486
+A Large Stone Corridor~
+This room is a continuation of the corridor you were in before.  Like the others
+it is enormous and unnaturally carved from solid stone.  You see the corridor
+continue ahead of you.  There is no light down here apart from that which your
+light gives out.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4490
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4462
+S
+#4490
+A Turn in the Corridor~
+Following the passage in the darkness it once again changes direction.  As
+before the darkness prevents you from seeing what lies beyond in this mass of
+stone.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4491
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4486
+S
+#4491
+A Turn in the Corridor~
+Following the passage in the darkness it once again changes direction.  As
+before the darkness prevents you from seeing what lies beyond in this mass of
+stone.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4490
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4492
+S
+#4492
+A Large Stone Corridor~
+This room is a continuation of the corridor you were in before.  Like the others
+it is enormous and unnaturally carved from solid stone.  You see the corridor
+continue ahead of you.  There is no light down here apart from that which your
+light gives out.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4493
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4491
+S
+#4493
+An Intersection~
+You find yourself in a large intersection.  There is no way to tell which way is
+safe, or what dangers lay beyond in the darkness.  No noises can be heard in any
+of the directions that this intersection leads to.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5811
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4725
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6440
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4492
+S
+#4725
+To Be Done~
+To be done.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 4493
+S
+#5811
+A Large Stone Corridor~
+This room is a continuation of the corridor you were in before.  Like the others
+it is enormous and unnaturally carved from solid stone.  You see the corridor
+continue ahead of you.  There is no light down here apart from that which your
+light gives out.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 5812
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4493
+S
+#5812
+A Large Stone Corridor~
+This room is a continuation of the corridor you were in before.  Like the others
+it is enormous and unnaturally carved from solid stone.  You see the corridor
+continue ahead of you.  There is no light down here apart from that which your
+light gives out.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5987
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 5811
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6439
+S
+#5987
+To Be Done~
+To be done.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5812
+S
+#6135
+An Enormous Staircase~
+Huge steps lead down from the room above.  You have to leap from step to step
+so you can make it down.  Whatever lives down here is big.  These steps seem
+almost natural however as they are strangly smooth, as if some water has been
+running down here in times gone by.
+~
+25 131081 0 0
+0 0 0 0
+250 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6142
+D4
+ ~
+trapdoor door~
+ ~
+ ~
+1 -1 6390
+S
+#6142
+The Bottom of the Stairs~
+You finally get down the stair case and can take a much needed rest.  This room
+is empty much to your relief so you can take a much needed rest.  Looking back
+toward the staircase you shudder at the thought of what must live down here.
+~
+25 131081 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6135
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2000
+S
+#6179
+Further in the Cavern~
+As you travel further into the cavern you begin to hear a faint sound as if
+something or someone is breathing.  You can see no light or any other signs of
+life ahead of you.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 19018
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6182
+S
+#6182
+An Intersection in the Cavern~
+The breathing gets louder and seems to be coming from directly ahead of you. A
+small passage leads to the east and another to the west.  Looking to the west
+you can see some type of faint illumination.  To the east you can't see
+anything but a turn in the passage.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6179
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6205
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6378
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6183
+S
+#6183
+A Slightly Iuminated Passage~
+The illumination is somewhat brighter in this room however you still can't seem
+to find the source of it.  The passage continues ahead of you into what seems to
+be an even brighter room.
+~
+25 8 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6182
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6382
+S
+#6205
+A Winding Passage~
+Entering this room you notice that the breathing that you could hear so easily
+before is almost non-existant here.  The passage winds around ahead of you and
+seems rather calm.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6386
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6182
+S
+#6378
+A Cold Cavern~
+As you enter this room you feel a sudden chil in your bones, the breathing is
+almost deafening.  You teeth chatter as the cold hits you.  Ahead of you there
+apears to be something glowing in the darkness.
+~
+25 32777 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6182
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6379
+S
+#6379
+A Pleasant Change~
+After the freazing cold that was so damaging before, this room is warm and
+comfortable to you.  However a glint of silver in to the east catches your eye.
+Looking that way you notice a young, but fierce Silver Dragon staring at you.
+Obviously the source of the breathing you heard, it just stares at you
+intensly watching your every move.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6378
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6438
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6429
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6380
+S
+#6380
+A Dragon's Lair~
+To be done
+Will be based on what the dragon has for attacks etc....
+~
+25 131081 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6379
+D2
+ ~
+panel~
+$n pushes a panel and enters the wall to the south.~
+The wall swings up and $n slips inside.~
+3 -1 6390
+S
+#6382
+An Entrance Chamber~
+It becomes clear now what the source of the light was.  This area seems to be a
+small home of some kind.  However all you can see is someone dressed in armor
+that seems to be unmoving to your south.
+~
+25 8 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6183
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6385
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6383
+S
+#6383
+A Broken Down Beadroom~
+Tapestries woven with the images of a man dressed in armor fighting beast from
+upon a dragon line the walls of this room.  Thick rugs surround the bed that
+seems to slop towards the western wall.  You notice that one of the legs is
+missing and seems to have broken off.
+~
+25 8 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6382
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6384
+S
+#6384
+A Dusty Shrine~
+A Column of light rises out of from the shrine.  Around it are various prayer
+books written in an ancient language.  The Altar is engraved with ruins and
+other protection symbols.  The Altar seems to be new, however due to the odor
+in the room, you're sure that it must be rather old.  More Tapestries like the
+ones in the room north adorn the walls.
+~
+25 136 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6383
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6385
+S
+#6385
+A Small Study~
+This room appears to be a study of some kind.  A large comfortable chair stands
+behind a oak desk.  The desk seems somewhat decayed.  Slouched over the desk is
+a man dressed in armor.
+~
+25 8 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6382
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6384
+S
+#6386
+A Winding Passage~
+Following the passage around you come across yet another turn.  This time you
+can see the glow of red eyes ahead of you.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6205
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6387
+S
+#6387
+A Winding Passage~
+Whatever was in this room before is now gone.  The walls seem covered with claw
+marks as if something was trying to dig away the walls.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6388
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6386
+S
+#6388
+A Winding Passage~
+Due to the light radianting from your ligth you can see several large shapes in
+the darkness to your north.  Without more light you won't be able to identify
+them.  They could be just strange rock formations or whatever it was that drew
+you here.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6389
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6387
+S
+#6389
+A Lammasu Lair~
+This room is bare apart from a reddish-brown paint of some sort all over it.  A smell of death hangs in the air and you see a skeleton laying on the ground.
+Judging by the large amounts of blood, this is some type of lair or eatting
+area within this cavern.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6388
+S
+#6390
+An Odd Slate Room~
+The gray slate flors, walls, and ceiling of this room are immaculate.  The room
+has no features and looks as if it was never occupied.  However the room seems
+unatural to you, unlike the rest of the Caverns.  A huge trapdoor leads down
+from the center of the room.
+~
+25 131085 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6380
+D5
+ ~
+trapdoor door~
+ ~
+ ~
+1 -1 6135
+S
+#6429
+A Dark Cavern~
+Several stone columns stand stand from floor to ceiling in this room.  Other
+than these the room seems to be empty.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6379
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6437
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6430
+S
+#6430
+A Strange Smelling Cavern~
+As you enter this room you notice a thick layer of gas that is in the air.
+Whatever it is penetrates your nostrils and stops you from seeing the walls of
+this section of the cavern.
+~
+25 16393 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6429
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6431
+S
+#6431
+A Dark Cavern~
+The walls off this room are smooth and well polished.  It seems as if something
+has been keeping them clean.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6437
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6433
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6430
+S
+#6433
+A Guards Post~
+This area is where a guard stands and watches people who enter the Realm of
+Zargoth.  The walls and floor are covered with what seems to look like dried
+blood of some sort.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6434
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6431
+S
+#6434
+The Walls of Zargoth's Past~
+The stone walls of this side of the Cavern are decorated with various shields.
+Each shield is painted with a silver dragon fighting large demons.  They are
+very dented and wouldn't be much use in combat if you could manage to get one
+off the wall.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6433
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6437
+S
+#6437
+A Dark Cavern~
+Several stone columns stand stand from floor to ceiling in this room.  Other
+than these the room seems to be empty.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6438
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6434
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6431
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6429
+S
+#6438
+A Dark Cavern~
+The walls off this room are smooth and well polished.  It seems as if something
+has been keeping them clean.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6437
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6379
+S
+#6439
+To Be done~
+To be done.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 5812
+S
+#6440
+A Large Stone Corridor~
+This room is a continuation of the corridor you were in before.  Like the others
+it is enormous and unnaturally carved from solid stone.  You see the corridor
+continue ahead of you.  There is no light down here apart from that which your
+light gives out.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4493
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6441
+S
+#6441
+A Turn in the Corridor~
+Following the passage in the darkness it once again changes direction.  As
+before the darkness prevents you from seeing what lies beyond in this mass of
+stone.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6440
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6442
+S
+#6442
+A Turn in the Corridor~
+Following the passage in the darkness it once again changes direction.  As
+before the darkness prevents you from seeing what lies beyond in this mass of
+stone.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6443
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6441
+S
+#6443
+A Turn in the Corridor~
+Following the passage in the darkness it once again changes direction.  As
+before the darkness prevents you from seeing what lies beyond in this mass of
+stone.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6442
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6444
+S
+#6444
+To Be Done~
+To be done.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6443
+S
+#6445
+A Large Stone Corridor~
+This room is a continuation of the corridor you were in before.  Like the others
+it is enormous and unnaturally carved from solid stone.  You see the corridor
+continue ahead of you.  There is no light down here apart from that which your
+light gives out.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+door~
+ ~
+ ~
+1 -1 6447
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 4013
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6446
+S
+#6446
+A Turn in the Corridor~
+To be done.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6448
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6445
+S
+#6447
+To be done~
+To be done.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+door~
+ ~
+ ~
+1 -1 6445
+S
+#6448
+A Turn in the Corridor~
+To be done.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6446
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6449
+S
+#6449
+A Large Stone Corridor~
+This room is a continuation of the corridor you were in before.  Like the others
+it is enormous and unnaturally carved from solid stone.  You see the corridor
+continue ahead of you.  There is no light down here apart from that which your
+light gives out.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6448
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6450
+S
+#6450
+A Large Stone Corridor~
+This room is a continuation of the corridor you were in before.  Like the others
+it is enormous and unnaturally carved from solid stone.  You see the corridor
+continue ahead of you.  There is no light down here apart from that which your
+light gives out.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6457
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6449
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6451
+S
+#6451
+The main corridor~
+To be done.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6450
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6458
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6452
+S
+#6452
+The main corridor~
+To be done.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6451
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6453
+S
+#6453
+The main corridor~
+To be done.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6527
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6452
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6554
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6454
+S
+#6454
+A Large Stone Corridor~
+This room is a continuation of the corridor you were in before.  Like the others
+it is enormous and unnaturally carved from solid stone.  You see the corridor
+continue ahead of you.  There is no light down here apart from that which your
+light gives out.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6453
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6455
+S
+#6455
+A Large Stone Corridor~
+This room is a continuation of the corridor you were in before.  Like the others
+it is enormous and unnaturally carved from solid stone.  You see the corridor
+continue ahead of you.  There is no light down here apart from that which your
+light gives out.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6454
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6456
+S
+#6456
+A Large Stone Corridor~
+This room is a continuation of the corridor you were in before.  Like the others
+it is enormous and unnaturally carved from solid stone.  You see the corridor
+continue ahead of you.  There is no light down here apart from that which your
+light gives out.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6557
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6455
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6556
+S
+#6457
+The main corridor~
+To be done.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6450
+S
+#6458
+The main corridor~
+To be done.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6451
+S
+#6527
+A Large Stone Corridor~
+This room is a continuation of the corridor you were in before.  Like the others
+it is enormous and unnaturally carved from solid stone.  You see the corridor
+continue ahead of you.  There is no light down here apart from that which your
+light gives out.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6553
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6453
+S
+#6553
+The main corridor~
+To be done.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6527
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6564
+S
+#6554
+The main corridor~
+To be done.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6453
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6555
+S
+#6555
+The main corridor~
+To be done.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6554
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6586
+S
+#6556
+To be done~
+To be done.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6456
+S
+#6557
+A Large Stone Corridor~
+This room is a continuation of the corridor you were in before.  Like the others
+it is enormous and unnaturally carved from solid stone.  You see the corridor
+continue ahead of you.  There is no light down here apart from that which your
+light gives out.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6566
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6456
+S
+#6564
+A Large Stone Corridor~
+This room is a continuation of the corridor you were in before.  Like the others
+it is enormous and unnaturally carved from solid stone.  You see the corridor
+continue ahead of you.  There is no light down here apart from that which your
+light gives out.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6553
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6565
+S
+#6565
+A Large Stone Corridor~
+This room is a continuation of the corridor you were in before.  Like the others
+it is enormous and unnaturally carved from solid stone.  You see the corridor
+continue ahead of you.  There is no light down here apart from that which your
+light gives out.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6564
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6566
+S
+#6566
+The main corridor~
+To be done.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6567
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6565
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6557
+S
+#6567
+The main corridor~
+To be done.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6566
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6568
+S
+#6568
+A Large Stone Corridor~
+This room is a continuation of the corridor you were in before.  Like the others
+it is enormous and unnaturally carved from solid stone.  You see the corridor
+continue ahead of you.  There is no light down here apart from that which your
+light gives out.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6567
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6569
+S
+#6569
+A Turn in the Corridor~
+To be done.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6568
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6570
+S
+#6570
+A Dark Misty Cavern~
+There seems to be a strange black mist obscuring this area, but through the mist
+you can see the room is filled with green webs.  You have no time to ponder the
+significance of these observations, as you are suddenly attacked!
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6569
+D1
+ ~
+passage~
+ ~
+ ~
+3 -1 6571
+S
+#6571
+Lair of the Golden Bebilith~
+Webs, like those in the room before, fill this room.  However you notice that
+the mist is not here and only a single bebilith lives here.  Unlike those before
+this one is golden in colour.
+~
+25 131593 0 0
+0 0 0 0
+0 0 0
+D3
+ ~
+passage~
+ ~
+ ~
+3 -1 6570
+S
+#6586
+The main corridor~
+To be done.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6555
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6587
+S
+#6587
+The main corridor~
+To be done.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6586
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6588
+S
+#6588
+The main corridor~
+To be done.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6587
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6589
+S
+#6589
+The main corridor~
+To be done.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6590
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6588
+S
+#6590
+The main corridor~
+To be done.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6589
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6591
+S
+#6591
+The main corridor~
+To be done.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6592
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6590
+S
+#6592
+The main corridor~
+To be done.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6591
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6593
+S
+#6593
+The main corridor~
+To be done.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6592
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6594
+S
+#6594
+The main corridor~
+To be done.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6595
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6593
+S
+#6595
+The main corridor~
+To be done.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6594
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6596
+S
+#6596
+The main corridor~
+To be done.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6595
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6597
+S
+#6597
+The main corridor~
+To be done.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6596
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6598
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6602
+S
+#6598
+The main corridor~
+To be done.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6599
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6597
+S
+#6599
+The main corridor~
+To be done.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6600
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6598
+S
+#6600
+The main corridor~
+To be done.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6601
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6599
+S
+#6601
+The main corridor~
+To be done.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6600
+S
+#6602
+The main corridor~
+To be done.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6597
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6603
+S
+#6603
+The main corridor~
+To be done.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6604
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6602
+S
+#6604
+The main corridor~
+To be done.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6603
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6605
+S
+#6605
+The main corridor~
+To be done.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6604
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6606
+S
+#6606
+The main corridor~
+To be done.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6607
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6605
+S
+#6607
+The main corridor~
+To be done.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 6608
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6606
+S
+#6608
+The main corridor~
+To be done.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6607
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 6609
+S
+#6609
+A Large Stone Corridor~
+This room is a continuation of the corridor you were in before.  Like the others
+it is enormous and unnaturally carved from solid stone.  You see the corridor
+continue ahead of you.  There is no light down here apart from that which your
+light gives out.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 6608
+S
+#6804
+To Be Done~
+Following the passage in the darkness it once again changes direction.  As
+before the darkness prevents you from seeing what lies beyond in this mass of
+stone.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2024
+S
+#19018
+A Strangely Smooth Cavern~
+From the outside of this cavern it appeared to be somewhat natural. However
+now that you are inside you see strange markings along the walls.  You almost
+lose your balance as your foot suddenly drops into some type of claw mark.
+Looking at it you notice it has been made by a rather large dragon, maybe you
+should leave.
+~
+25 9 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6179
+S
+#19999
+$~

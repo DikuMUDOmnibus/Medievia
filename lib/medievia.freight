@@ -1,0 +1,38 @@
+#0
+NAM mule~
+SHO a pack mule~
+DES The mule is a solid looking beast, very strong.  On its back is a very
+large system of leather packs and sacks.
+~
+SIZ 390 WGT 250 PRI 1000
+MULETYPE MOB 4003
+#1
+NAM wagon horse~
+SHO a horse pulling an open wagon~
+DES The wagon is large and sturdy looking.  It is made of wood and has four
+large spiked wheels rimmed with iron.  The bed is long and covered with a
+tarp.  Pulling the wagon is one large horse.
+~
+SIZ 1850 WGT 1350 PRI 30000
+WAGONTYPE MOB 4004
+#2
+NAM covered wagon horse~
+SHO a horse pulling a covered wagon~
+DES The covered wagon is huge.  It is made of thick re-enforced wood and
+has very large wheels rimmed with iron.  The bed is very big with places to
+tie things down.  It has high sides and ribs of wood supporting a high cover
+made from tarp.
+~
+SIZ 2800 WGT 1700 PRI 50000
+WAGONTYPE MOB 4005
+#3
+NAM pack horse~
+SHO a large packhorse~
+DES The horse is very wide and strong.  He is all brown and very proud
+looking.  On his back and hind quarters is strapped a system of sacks and
+packs.
+~
+SIZ 200 WGT 200 PRI 10000
+HORSETYPE MOB 4006
+$
+

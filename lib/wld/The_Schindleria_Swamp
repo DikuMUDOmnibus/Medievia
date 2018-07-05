@@ -1,0 +1,2506 @@
+#1130
+Higher Swamplands~
+A small path leaves the bog and enters this dense grove of tree. You are
+unsure of the types of trees, but they are collectively sick and dying.
+The ground here is damp and seems squishy under your feet.
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+D3
+~
+~
+~
+~
+1 -1 1132
+S
+#1132
+Higher Swamplands~
+All traces of firm ground have left at this point leaving you with
+anklehigh water. A strange smell of decay permeates the air you breath
+and everything you see is either dead or dying. The few trees that have
+managed to take root here, Are sickly and stripped of all Leaves.
+A bit of light that manages to get through the haze shines off of something
+in the tree.
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+D1
+~
+~
+~
+~
+1 -1 1130
+D3
+~
+~
+~
+~
+1 -1 1133
+E
+tree shine sparkle ~
+Engraved into the tree by magical means is a miniature engraving of Gothic
+~
+S
+#1133
+Crossroads in the Swamp~
+What you take to be the path splits at this point allowing movement to
+the north, the south and the usual west. To your left what you took to
+be a small animal, dissapeared into the water as soon as it caught you
+staring at it.
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+D0
+~
+~
+~
+~
+1 -1 1134
+D1
+~
+~
+~
+~
+1 -1 1132
+D2
+~
+~
+~
+~
+1 -1 1137
+D3
+Covered by vines lies a metal gate, badly rusted by the swamp moisture.
+~
+gate gateway ~
+~
+0~
+1 -1 1135
+S
+#1134
+North Passage~
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+D0
+~
+~
+~
+~
+1 -1 2729
+D2
+~
+~
+~
+~
+1 -1 1133
+S
+#1135
+Outer Gate~
+Past the rusted gate is a semi large courtyard that is badly
+overgrown with weeds. You stub your foot on a large metal object..
+After closer inspection it is a rusted sword.
+With Skeletal hand attached.
+~
+13 0 0 0
+0 0 0 0
+0 0 0
+D1
+~
+~
+~
+~
+1 -1 1133
+D3
+~
+~
+~
+~
+1 -1 1138
+S
+#1137
+South Passage~
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+D0
+~
+~
+~
+~
+1 -1 1133
+D2
+~
+~
+~
+~
+1 -1 2765
+S
+#1138
+Ruined Courtyard~
+This area has broken crates which seem centuries old. You can only tell
+they were crates because of the metal binding used, because the wood
+has long since rotted away. Everything looks old and far past it's prime
+~
+13 0 0 0
+0 0 0 0
+0 0 0
+D1
+~
+~
+~
+~
+1 -1 1135
+D3
+~
+~
+~
+~
+1 -1 1139
+S
+#1139
+Western Gate~
+You approach another gate, This one in relatively good shape. It has
+been kept in good shape by somebody.. But who?
+~
+13 0 0 0
+0 0 0 0
+0 0 0
+D1
+~
+~
+~
+~
+1 -1 1138
+D3
+~
+~
+~
+~
+1 -1 1140
+S
+#1140
+Lowlands of the Swamp~
+Past the fort is roughly 500 feet of gradual decline into what appears
+from this distance to be a heavily fogged swampland in which no living
+thing, either vegetable nor animal could possibly survive.
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+D1
+~
+~
+~
+~
+1 -1 1139
+D3
+~
+~
+~
+~
+1 -1 1141
+S
+#1141
+Decline into the Swamp~
+Even though all the terrain you have yet experienced has been swamp
+in appearance, The true swamp is beginning to form. The water here is
+ankle deep and steadily rising as you move deeper into the fog.
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+D1
+~
+~
+~
+~
+1 -1 1140
+D3
+~
+~
+~
+~
+1 -1 1142
+S
+#1142
+The Lower Schindleria~
+Any illusion of stable land has ended by this point. The water is waist deep
+and skeletal forms of trees desperately attempt to survive in this harsh
+environment. You see no animals except the horrible infestation of
+mosquitoes that live here.
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+D1
+~
+~
+~
+~
+1 -1 1141
+D3
+~
+~
+~
+~
+1 -1 1143
+S
+#1143
+The Lower Schindleria~
+More mosquitoes plague this area, Desperate to obtain the blood they
+need to survive. You swat at them angrily, hoping against hope that
+you have not lost your bearing in this dread swamp. To your left through the
+haze you see dead trees, To your north more of the same, Back the way you
+came you see nothing but Fog.
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+D1
+~
+~
+~
+~
+1 -1 1142
+D3
+~
+~
+~
+~
+1 -1 1144
+S
+#1144
+Swampy Deadlands~
+water slowly churns by your feet and strange animals glare at you from
+the shadows. None of them look too terribly friendly so you let them
+be. The air is humid and horribly hot and muggy. You hope you have not caught
+one of the dreaded swamp diseases you have heard of.
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+D1
+~
+~
+~
+~
+1 -1 1143
+D3
+~
+~
+~
+~
+1 -1 2325
+S
+#2325
+The Dead Forest~
+A long time ago there was a huge war between the valemen and Mornelithe
+Falconsbane. This is the terrain that was fought on. It was once fields
+that supported wheat and grain for the people of the vale.. now it is
+a dead swamp. Destroyed by the forces that threatened to destroy the vale.
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+D1
+~
+~
+~
+~
+1 -1 1144
+D3
+~
+~
+~
+~
+1 -1 2326
+S
+#2326
+The Dead Woods~
+Sweat rolls down your forhead in rivulets from the incredible heat and
+humidity. This is not a terribly comfortable place to Walk through. But you w
+would not be here without purpose.. nobody comes here without purpose.
+~
+13 0 3 0
+0 0 0 0
+0 0 0
+D0
+~
+~
+~
+~
+1 -1 2711
+D1
+~
+~
+~
+~
+1 -1 2325
+D2
+~
+~
+~
+~
+1 -1 2714
+D3
+~
+~
+~
+~
+1 -1 2701
+S
+#2327
+Blank as of yet~
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+D0
+~
+~
+~
+~
+1 -1 2704
+D1
+~
+~
+~
+~
+1 -1 2701
+D2
+~
+~
+~
+~
+1 -1 2705
+D3
+~
+~
+~
+~
+1 -1 2328
+S
+#2328
+Blank as of yet~
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+D0
+~
+~
+~
+~
+1 -1 2703
+D1
+~
+~
+~
+~
+1 -1 2327
+D2
+~
+~
+~
+~
+1 -1 2700
+D3
+~
+~
+~
+~
+1 -1 2329
+S
+#2329
+Blank as of yet~
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+D0
+~
+~
+~
+~
+1 -1 2702
+D1
+~
+~
+~
+~
+1 -1 2328
+D2
+~
+~
+~
+~
+1 -1 2447
+D3
+~
+~
+~
+~
+1 -1 2330
+S
+#2330
+Blank as of yet~
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+D0
+~
+~
+~
+~
+1 -1 4457
+D1
+~
+~
+~
+~
+1 -1 2329
+D2
+~
+~
+~
+~
+1 -1 2331
+S
+#2331
+Blank as of yet~
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+D0
+~
+~
+~
+~
+1 -1 2330
+D1
+~
+~
+~
+~
+1 -1 2447
+D3
+~
+~
+~
+~
+1 -1 2718
+S
+#2447
+Blank as of yet~
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+D0
+~
+~
+~
+~
+1 -1 2329
+D1
+~
+~
+~
+~
+1 -1 2700
+D2
+~
+~
+~
+~
+1 -1 2725
+D3
+~
+~
+~
+~
+1 -1 2331
+S
+#2700
+Blank as of yet~
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+D0
+~
+~
+~
+~
+1 -1 2328
+D1
+~
+~
+~
+~
+1 -1 2705
+D2
+~
+~
+~
+~
+1 -1 2726
+D3
+~
+~
+~
+~
+1 -1 2447
+S
+#2701
+The Dead Woods~
+You begin to think you have been in this muggy swamp for ever, And will never
+see a living thing again. Then out of the corner of your eye you see movement.. Wait.. It's gone
+You could have sworn you saw something.. There it is again..
+~
+13 0 3 0
+0 0 0 0
+0 0 0
+D0
+~
+~
+~
+~
+1 -1 2707
+D1
+~
+~
+~
+~
+1 -1 2326
+D2
+~
+~
+~
+~
+1 -1 2708
+D3
+~
+~
+~
+~
+1 -1 2327
+S
+#2702
+Blank as of yet~
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+D0
+~
+~
+~
+~
+1 -1 4460
+D1
+~
+~
+~
+~
+1 -1 2703
+D2
+~
+~
+~
+~
+1 -1 2329
+D3
+~
+~
+~
+~
+1 -1 4457
+S
+#2703
+Blank as of yet~
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+D0
+~
+~
+~
+~
+1 -1 2722
+D1
+~
+~
+~
+~
+1 -1 2704
+D2
+~
+~
+~
+~
+1 -1 2328
+D3
+~
+~
+~
+~
+1 -1 2702
+S
+#2704
+Blank as of yet~
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+D0
+~
+~
+~
+~
+1 -1 2723
+D1
+~
+~
+~
+~
+1 -1 2707
+D2
+~
+~
+~
+~
+1 -1 2327
+D3
+~
+~
+~
+~
+1 -1 2703
+S
+#2705
+Blank as of yet~
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+D0
+~
+~
+~
+~
+1 -1 2327
+D1
+~
+~
+~
+~
+1 -1 2708
+D2
+~
+~
+~
+~
+1 -1 2727
+D3
+~
+~
+~
+~
+1 -1 2700
+S
+#2707
+The Dead Woods~
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+D0
+~
+~
+~
+~
+1 -1 2724
+D2
+~
+~
+~
+~
+1 -1 2701
+D3
+~
+~
+~
+~
+1 -1 2704
+D4
+~
+~
+~
+~
+0 -1 6260
+S
+#2708
+The Dead Woods~
+Resting on a stump you contemplate life, or the lack of it here in this case.
+You think too hard and get a head ache. Wait! thats not right.. you DO have a
+headache.. You begin to think that long exposure to this swamp is causing you 
+great harm.. 
+~
+13 0 6 0
+0 0 0 0
+0 0 0
+D0
+~
+~
+~
+~
+1 -1 2701
+D1
+~
+~
+~
+~
+1 -1 2714
+D2
+~
+~
+~
+~
+1 -1 2728
+D3
+~
+~
+~
+~
+1 -1 2705
+S
+#2709
+THE BOG!~
+You attempt to make your way through the bog...
+To the West the swamp takes on a different atmosphere.. spookier..
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+S
+#2710
+THE BOG!~
+You attempt to make your way through the bog...
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+S
+#2711
+Bandit Point~
+You have heard about bands of roving bandits that swarm this swamp..
+But you never believed that they would be this numerous.
+or this powerful
+~
+13 0 4 0
+0 0 0 0
+0 0 0
+D2
+~
+~
+~
+~
+1 -1 2326
+S
+#2712
+THE BOG!~
+You attempt to make your way through the bog...
+To the West the swamp takes on a different atmosphere.. spookier.
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+S
+#2713
+THE BOG!~
+You attempt to make your way through the bog...
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+S
+#2714
+Bandit Trash Storage~
+The bandits stash their trash, their excess items, and their shredded
+human body parts from their kills here. you are up to your knees in refuse
+But trudge on being the strong of stomach you are.
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+D0
+~
+~
+~
+~
+1 -1 2326
+D3
+~
+~
+~
+~
+1 -1 2708
+S
+#2715
+THE BOG!~
+You attempt to make your way through the bog...
+To the West the swamp takes on a different atmosphere... spookier..
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+S
+#2716
+THE BOG!~
+You attempt to make your way through the bog...
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+S
+#2717
+THE BOG!~
+You attempt to make your way through the bog...
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+S
+#2718
+Blank as of yet~
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+D1
+~
+~
+~
+~
+1 -1 2331
+S
+#2719
+THE BOG!~
+You attempt to make your way through the bog...
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+S
+#2720
+THE BOG!~
+You attempt to make your way through the bog...
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+S
+#2721
+Blank as of yet~
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+D2
+~
+~
+~
+~
+1 -1 4459
+S
+#2722
+Blank as of yet~
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+D1
+~
+~
+~
+~
+1 -1 2723
+D2
+~
+~
+~
+~
+1 -1 2703
+D3
+~
+~
+~
+~
+1 -1 4460
+S
+#2723
+Blank as of yet~
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+D1
+~
+~
+~
+~
+1 -1 2724
+D2
+~
+~
+~
+~
+1 -1 2704
+D3
+~
+~
+~
+~
+1 -1 2722
+S
+#2724
+Blank as of yet~
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+D2
+~
+~
+~
+~
+1 -1 2707
+D3
+~
+~
+~
+~
+1 -1 2723
+S
+#2725
+Blank as of yet~
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+D0
+~
+~
+~
+~
+1 -1 2447
+D1
+~
+~
+~
+~
+1 -1 2726
+S
+#2726
+Blank as of yet~
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+D0
+~
+~
+~
+~
+1 -1 2700
+D1
+~
+~
+~
+~
+1 -1 2727
+D3
+~
+~
+~
+~
+1 -1 2725
+S
+#2727
+Blank as of yet~
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+D0
+~
+~
+~
+~
+1 -1 2705
+D1
+~
+~
+~
+~
+1 -1 2728
+D3
+~
+~
+~
+~
+1 -1 2726
+S
+#2728
+Blank as of yet~
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+D0
+~
+~
+~
+~
+1 -1 2708
+D3
+~
+~
+~
+~
+1 -1 2727
+S
+#2729
+North Passage~
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+D2
+~
+~
+~
+~
+1 -1 1134
+D3
+~
+~
+~
+~
+1 -1 2730
+S
+#2730
+North Passage~
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+D1
+~
+~
+~
+~
+1 -1 2729
+D3
+~
+~
+~
+~
+1 -1 2731
+S
+#2731
+North Passage~
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+D1
+~
+~
+~
+~
+1 -1 2730
+D3
+~
+~
+~
+~
+1 -1 2732
+S
+#2732
+North Passage~
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+D1
+~
+~
+~
+~
+1 -1 2731
+D2
+~
+~
+~
+~
+1 -1 2733
+S
+#2733
+North Passage~
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+D0
+~
+~
+~
+~
+1 -1 2732
+D3
+~
+~
+~
+~
+1 -1 2734
+S
+#2734
+North Passage~
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+D1
+~
+~
+~
+~
+1 -1 2733
+D3
+~
+~
+~
+~
+1 -1 2735
+S
+#2735
+North Passage~
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+D0
+~
+~
+~
+~
+1 -1 2736
+D1
+~
+~
+~
+~
+1 -1 2734
+S
+#2736
+North Passage~
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+D2
+~
+~
+~
+~
+1 -1 2735
+D3
+~
+~
+~
+~
+1 -1 2737
+S
+#2737
+North Passage~
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+D1
+~
+~
+~
+~
+1 -1 2736
+D3
+~
+~
+~
+~
+1 -1 2738
+S
+#2738
+North Passage~
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+D1
+~
+~
+~
+~
+1 -1 2737
+D3
+~
+~
+~
+~
+1 -1 2739
+S
+#2739
+North Passage~
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+D1
+~
+~
+~
+~
+1 -1 2738
+D3
+~
+~
+~
+~
+1 -1 2740
+S
+#2740
+North Passage~
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+D0
+~
+~
+~
+~
+1 -1 2741
+D1
+~
+~
+~
+~
+1 -1 2739
+S
+#2741
+North Passage~
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+D1
+~
+~
+~
+~
+1 -1 2742
+D2
+~
+~
+~
+~
+1 -1 2740
+D3
+~
+~
+~
+~
+1 -1 2750
+S
+#2742
+North Passage~
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+D0
+~
+~
+~
+~
+1 -1 2744
+D3
+~
+~
+~
+~
+1 -1 2741
+S
+#2743
+North Passage~
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+S
+#2744
+North Passage~
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+D0
+~
+~
+~
+~
+1 -1 2745
+D2
+~
+~
+~
+~
+1 -1 2742
+S
+#2745
+North Passage~
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+D2
+~
+~
+~
+~
+1 -1 2744
+D3
+~
+~
+~
+~
+1 -1 2746
+S
+#2746
+North Passage~
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+D1
+~
+~
+~
+~
+1 -1 2745
+D2
+~
+~
+~
+~
+1 -1 2747
+D3
+~
+~
+~
+~
+1 -1 2748
+S
+#2747
+North Passage~
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+D0
+~
+~
+~
+~
+1 -1 2746
+D4
+~
+~
+~
+~
+1 -1 2751
+S
+#2748
+North Passage~
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+D1
+~
+~
+~
+~
+1 -1 2746
+D2
+~
+~
+~
+~
+1 -1 2749
+S
+#2749
+North Passage~
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+D0
+~
+~
+~
+~
+1 -1 2748
+D2
+~
+~
+~
+~
+1 -1 2750
+S
+#2750
+North Passage~
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+D0
+~
+~
+~
+~
+1 -1 2749
+D1
+~
+~
+~
+~
+1 -1 2741
+S
+#2751
+North Passage~
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+D0
+~
+~
+~
+~
+1 -1 2752
+D5
+~
+~
+~
+~
+1 -1 2747
+S
+#2752
+North Passage~
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+D2
+~
+~
+~
+~
+1 -1 2751
+D3
+~
+~
+~
+~
+1 -1 2753
+S
+#2753
+North Passage~
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+D1
+~
+~
+~
+~
+1 -1 2752
+D2
+~
+~
+~
+~
+1 -1 2754
+S
+#2754
+North Passage~
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+D0
+~
+~
+~
+~
+1 -1 2753
+D2
+~
+~
+~
+~
+1 -1 2755
+S
+#2755
+North Passage~
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+D0
+~
+~
+~
+~
+1 -1 2754
+D1
+~
+~
+~
+~
+1 -1 2756
+S
+#2756
+North Passage~
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+D3
+~
+~
+~
+~
+1 -1 2755
+D4
+~
+~
+~
+~
+1 -1 2757
+S
+#2757
+North Passage~
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+D3
+~
+~
+~
+~
+1 -1 2758
+D5
+~
+~
+~
+~
+1 -1 2756
+S
+#2758
+North Passage~
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+D0
+~
+~
+~
+~
+1 -1 2759
+D1
+~
+~
+~
+~
+1 -1 2757
+S
+#2759
+North Passage~
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+D0
+~
+~
+~
+~
+1 -1 2760
+D2
+~
+~
+~
+~
+1 -1 2758
+S
+#2760
+North Passage~
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+D1
+~
+~
+~
+~
+1 -1 2761
+D2
+~
+~
+~
+~
+1 -1 2759
+S
+#2761
+North Passage~
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+D2
+~
+~
+~
+~
+1 -1 2762
+D3
+~
+~
+~
+~
+1 -1 2760
+S
+#2762
+North Passage~
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+D0
+~
+~
+~
+~
+1 -1 2761
+D4
+~
+~
+~
+~
+1 -1 2763
+S
+#2763
+North Passage~
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+D0
+~
+~
+~
+~
+1 -1 2764
+D5
+~
+~
+~
+~
+1 -1 2762
+S
+#2764
+North Passage~
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+D2
+~
+~
+~
+~
+1 -1 2763
+S
+#2765
+South Passage~
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+D0
+~
+~
+~
+~
+1 -1 1137
+D3
+~
+~
+~
+~
+1 -1 2766
+S
+#2766
+South Passage~
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+D1
+~
+~
+~
+~
+1 -1 2765
+D3
+~
+~
+~
+~
+1 -1 2767
+S
+#2767
+South Passage~
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+D1
+~
+~
+~
+~
+1 -1 2766
+D3
+~
+~
+~
+~
+1 -1 3046
+S
+#3046
+South Passage~
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+D0
+~
+~
+~
+~
+1 -1 3160
+D1
+~
+~
+~
+~
+1 -1 2767
+S
+#3160
+South Passage~
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+D2
+~
+~
+~
+~
+1 -1 3046
+D3
+~
+~
+~
+~
+1 -1 3161
+S
+#3161
+South Passage~
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+D1
+~
+~
+~
+~
+1 -1 3160
+D3
+~
+~
+~
+~
+1 -1 3162
+S
+#3162
+South Passage~
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+D1
+~
+~
+~
+~
+1 -1 3161
+D2
+~
+~
+~
+~
+1 -1 3169
+S
+#3169
+South Passage~
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+D0
+~
+~
+~
+~
+1 -1 3162
+D3
+~
+~
+~
+~
+1 -1 3170
+S
+#3170
+South Passage~
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+D1
+~
+~
+~
+~
+1 -1 3169
+D3
+~
+~
+~
+~
+1 -1 3171
+S
+#3171
+South Passage~
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+D1
+~
+~
+~
+~
+1 -1 3170
+D3
+~
+~
+~
+~
+1 -1 3172
+S
+#3172
+South Passage~
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+D1
+~
+~
+~
+~
+1 -1 3171
+D3
+~
+~
+~
+~
+1 -1 3175
+S
+#3175
+South Passage~
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+D1
+~
+~
+~
+~
+1 -1 3172
+D2
+~
+~
+~
+~
+1 -1 3176
+S
+#3176
+South Passage~
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+D0
+~
+~
+~
+~
+1 -1 3175
+D1
+~
+~
+~
+~
+1 -1 3178
+D3
+~
+~
+~
+~
+1 -1 3177
+S
+#3177
+South Passage~
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+D1
+~
+~
+~
+~
+1 -1 3176
+D2
+~
+~
+~
+~
+1 -1 4370
+S
+#3178
+South Passage~
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+D2
+~
+~
+~
+~
+1 -1 3204
+D3
+~
+~
+~
+~
+1 -1 3176
+S
+#3204
+South Passage~
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+D0
+~
+~
+~
+~
+1 -1 3178
+D2
+~
+~
+~
+~
+1 -1 4366
+S
+#4366
+South Passage~
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+D0
+~
+~
+~
+~
+1 -1 3204
+D3
+~
+~
+~
+~
+1 -1 4367
+S
+#4367
+South Passage~
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+D0
+~
+~
+~
+~
+1 -1 4368
+D1
+~
+~
+~
+~
+1 -1 4366
+D3
+~
+~
+~
+~
+1 -1 4369
+S
+#4368
+South Passage~
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+D2
+~
+~
+~
+~
+1 -1 4367
+D4
+~
+~
+~
+~
+1 -1 4371
+S
+#4369
+South Passage~
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+D0
+~
+~
+~
+~
+1 -1 4370
+D1
+~
+~
+~
+~
+1 -1 4367
+S
+#4370
+South Passage~
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+D0
+~
+~
+~
+~
+1 -1 3177
+D2
+~
+~
+~
+~
+1 -1 4369
+S
+#4371
+South Passage~
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+D2
+~
+~
+~
+~
+1 -1 4442
+D5
+~
+~
+~
+~
+1 -1 4368
+S
+#4442
+South Passage~
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+D0
+~
+~
+~
+~
+1 -1 4371
+D3
+~
+~
+~
+~
+1 -1 4443
+S
+#4443
+South Passage~
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+D0
+~
+~
+~
+~
+1 -1 4444
+D1
+~
+~
+~
+~
+1 -1 4442
+S
+#4444
+South Passage~
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+D0
+~
+~
+~
+~
+1 -1 4445
+D2
+~
+~
+~
+~
+1 -1 4443
+S
+#4445
+South Passage~
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+D1
+~
+~
+~
+~
+1 -1 4446
+D2
+~
+~
+~
+~
+1 -1 4444
+S
+#4446
+South Passage~
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+D3
+~
+~
+~
+~
+1 -1 4445
+D4
+~
+~
+~
+~
+1 -1 4447
+S
+#4447
+South Passage~
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+D3
+~
+~
+~
+~
+1 -1 4448
+D5
+~
+~
+~
+~
+1 -1 4446
+S
+#4448
+South Passage~
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+D1
+~
+~
+~
+~
+1 -1 4447
+D2
+~
+~
+~
+~
+1 -1 4449
+S
+#4449
+South Passage~
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+D0
+~
+~
+~
+~
+1 -1 4448
+D2
+~
+~
+~
+~
+1 -1 4450
+S
+#4450
+South Passage~
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+D0
+~
+~
+~
+~
+1 -1 4449
+D1
+~
+~
+~
+~
+1 -1 4451
+S
+#4451
+South Passage~
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+D0
+~
+~
+~
+~
+1 -1 4454
+D3
+~
+~
+~
+~
+1 -1 4450
+S
+#4454
+South Passage~
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+D2
+~
+~
+~
+~
+1 -1 4451
+D4
+~
+~
+~
+~
+1 -1 4455
+S
+#4455
+South Passage~
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+D2
+~
+~
+~
+~
+1 -1 4456
+D5
+~
+~
+~
+~
+1 -1 4454
+S
+#4456
+South Passage~
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+D0
+~
+~
+~
+~
+1 -1 4455
+S
+#4457
+Blank as of yet~
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+D1
+~
+~
+~
+~
+1 -1 2702
+D2
+~
+~
+~
+~
+1 -1 2330
+S
+#4458
+Blank as of yet~
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+S
+#4459
+Blank as of yet~
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+D2
+~
+~
+~
+~
+1 -1 4458
+S
+#4460
+Blank as of yet~
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+D1
+~
+~
+~
+~
+1 -1 2722
+D2
+~
+~
+~
+~
+1 -1 2702
+S
+#6260
+Destroyed Valemen Home~
+On what was apparently the edge of the valemens city this home was not 
+spared the destruction which enveloped most of this land. It is badly charred
+and the stench is awful
+~
+13 0 2 0
+0 0 0 0
+0 0 0
+D5
+~
+~
+~
+~
+0 -1 2707
+S
+#19999
+$~

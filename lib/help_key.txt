@@ -1,0 +1,4283 @@
+CALL
+You may CALL a good dragon to hire it for flight or for defending you
+against evil dragons.  See DRAGONS.
+#
+DRAGONS DRAGON
+Dragons in medievia covers some interesting things.  What are Dragons in
+Medievia?  They are good and bad.  Both evil and good dragons love gold. 
+They will do some remarkable things for gold.
+EVIL Dragons will fight you for gold.
+GOOD Dragons will fly you around and defend you for gold.
+
+Here are the details.  As you walk around the wilderness you may notice an
+evil dragon start circling above.  (Once one appears you may use the SURVEY
+command to keep track of it)  When an evil dragon is circling it is
+searching for prey.  To be blunt, RUN.  You have about 60 seconds before the
+dragon lands.  Once it lands it starts searching and walking around in ever
+increasing circle patterns.  It is searching for a SCENT!  Yes the first
+scent it finds may be yours!  If it finds the scent of a player level 13+ it
+will immidiately start HUNTING you.  You will know if this happens.  A
+dragon can move very quickly so if your being hunted your best bet is to go
+as fast as you can.  If you can find water like a brook or stream you can
+walk down it a ways and he may lose the scent trail.  Evil dragons are
+always plaguing Medievia this way.  They only want GOLD.  If it finds you it
+will fight you till it pins you down and takes all your gold.  You will
+usually not be killed as once it thinks it can take your gold it will do so
+and fly off.  Scary stuff.  GOOD Dragons are also very intersting.  You can
+use the CALL command to call a good dragon.  When you do so be warned it
+will require a lot of gold for its services.  It is said that Vryce controls
+the good dragons.  Once called you will notice the dragon appear over the
+horizen and fly towards you.  You can use the SURVEY command to keep track
+of it.  When it lands you may MOUNT it and use it to FLY places.  Once its
+MOVEMENTs are gone it will fly off.  Also there is a bit of a time limit, if
+you daly around on the ground it will get bored and fly off.  If your being
+hunted by an evil dragon it will not come to you but it will assume you are
+paying it to defend you.  Good dragons are great fighters.  You will see it
+appear and fly towards your hunter.  It will bolt out of the sky and POUNCE
+on it...the fight could go either way.  
+
+It is said that the dragons carry a lot of gold.  Some very high level
+players attempt DRAGON HUNTING.  They do so by looking for dragons circling. 
+Evil ones.  When they see one they attempt to get as close to them as they
+can before they land and move all over...leaving their scent all over so the
+dragon will be attracted to them.  They realize it is important for the
+people not to be in the same room as the dragon is not stupid.  Once the
+dragon starts fighting or hunting part of the group they swarm in on it.  It
+is possible for many high levelers to kill an evil dragon.  They can get a
+lot of gold and be known as a DRAGON HUNTER for a time,  also the dragon
+PARTS may be sold for BIG time gold in town.  DRAGON HUNTERS are couragious
+fellows who earn Vryce's respect.  Are you up to a REAL challenge?
+
+SEE ALSO:  Mounting, Flying, Wilderness, Survey.
+#
+WILDERNESS
+The wilderness in medievia to date encompasses over 4 million rooms.  As you
+walk around in the wilderness when you have brief off you will see an
+overhead map.  If you have ansi COLOR on you will see it in color.  Color
+really helps the map come to life.  If you do not have a color telnet
+application see our new WWW page.  Moving around in the wilderness can be
+made much easier by MOUNTING.  To get from place to place quickly you may
+fly DRAGONS.  TRADING is the key to making money in the wilderness.
+
+When in the wilderness if you type LOOK you will see the room but if you
+type LOOK around you will get the map.  As you walk you get the map.  The
+mage spell WIZARD EYE gives a HUGE map allowing the mage to see very far.
+
+SEE ALSO: Color, Mounting, Trading, Dragons, Wizard Eye
+
+Following is some help and breakdown of the map display:
+Symbol	Color		Meaning
+------------------------------------------------------------------------------
+(pound)	white	 	you
+@	white		a link between the wilderness and a zone
+I	gray		a fence
+I	purple		a wall
+:	variable	this symbol indicates a road or trail, the various
+			colors indicate different types
+.	blue		ocean
+.	yellow		beach or desert
+.	cyan		shoreline
+.	white		arctic wasteland
+^	gray		mountains
+^	dark green	forested hills
+^	green		grassy hills
+^	brown		barren hills
++	green		forest
+"	green		grasslands
+%	green		swamp
+x	green		jungle
+*	blue/cyan	lake/pond
+(squigly)	blue/cyan	river/stream
+
+There are many more symbols of various colors which aren't shown on this 
+  list.  This list provides you with the main symbols.
+
+Note:  Most of the map should be intuative.  Green symbols indicate some
+       type of vegetation; forests, swamps, jungles, grasslands.  Blue
+       symbols indicate some type of water, etc.
+#
+TRADING TRADE
+Long ago, prior to the entry of disruptive and hostile forces into the 
+lands of Medievia, trade was a peaceful occupation, conducted with 
+relative ease by merchants.  But that was long ago, now the prescence of 
+raiders, and malicious creatures along the once peaceful trade routes, 
+make any trade hazardous, and demand the prescence of well armed, and 
+crafty escorts.  This situation, while tragic in some respects, provides 
+an unparalleled opportunity for profit.  
+
+Trade functions in medievia following the same basic principle that has 
+always guided such ventures, SUPPLY AND DEMAND!  Your objective as a 
+trader should always be to buy items in areas of high supply, and sell 
+them in areas of low supply, and consequently high demand.  These items 
+are known as tradables, and my be purchased in the the tradeshops of the 
+various cities. In order to haul your goods from one locale to the next, 
+you will need to provision yourself with a suitable means of transport, 
+such as a wagon, and a horse to pull it.  Wagons and mules are frequently 
+available at the same places where you buy your goods.
+
+In order to make your venture profitable, you may want to consult the 
+local Newspaper.  The newspaper, generally known as the Mudslinger, will 
+list information regarding the availability of goods in different areas.
+
+The most important factor concerning how much you will be payed for your
+goods is how much the local economy has in stock.  Also taken into account  
+on a smaller scale is the WORTH of the item as the risk of transporting
+adamantite and gold is more then transporting nails.  Finally the actual
+distance from where the item was produced and where it is being sold is part 
+of what goes into deciding "fair market value".  When a tradeshop keeper
+sets out to decide on what to pay you he takes all these things into
+consideration along with some other minor things.  The ECONOMY code in
+medievia is one of the most extensive modules.
+
+SEE ALSO : TRADESHOPS FREIGHT TRADABLES MUDSLINGER SCORE
+#
+TRADESHOPS TRADESHOP
+Trade shops are the hub of the local economy, here goods are bought and 
+sold, rumors exchanged, and fortunes made and lost.  In order to see the 
+goods available at a trade shop , simply type <list>. You will notice 
+that there are two types of goods available; tradables such as ale and 
+seed, and freight to carry the goods, such as mules, horses, and wagons.
+
+NOTE: You MUST have some freight in order to buy goods.
+NOTE: typing describe freightname will state the relative size and weight
+capacity of the wagon or beast.
+
+SEE ALSO : FREIGHT TRADABLES MUDSLINGER SCORE TRADE TRADING
+#
+FREIGHT
+Freight is your means of transoporting goods from one area to another.  
+Typcial freight would be a horse and a wagon. YOU MUST have freight in 
+order to purchase goods.  Once you have some freight, you would 
+presumably load it with tradables by buying the item you wish to 
+transport.  This automatically loads the tradable onto your freight.  
+Similarly, selling a tradable automatically unloads it from your freight.  
+In order to see what you are currently hauling type <examine freight>, 
+eg. <examine wagon>.  Freight is typically bought and sold in the various 
+trade shops, ie the same place you buy your goods.
+
+NOTE: As with mounts, your freight is restricted to travel in certain 
+terrain, if you attempt to enter an area unsuitable for your freight, you 
+run the risk of leaving it behind.  Wagons are the most restricted as they
+must keep to major roads.  Mules also must keep to roads and smaller trails
+and open areas while horses are the least restricted.  
+
+NOTE:  Keep in mind some tradeshops may only be accessible by horse.
+
+SEE ALSO: TRADE TRADING TRADESHOPS TRADABLES MUDSLINGER
+#
+TRADABLES
+Tradables are simply the goods with which you trade.  They are bought and 
+sold, along with the freight to carry them, in the trade shops.  YOU MUST 
+have freight in order to purchase tradables.  Tradables are bought and 
+sold in bulk, eg you would buy a barrel of ale, or a spool of chain. In 
+order to see a tradable simply type <look tradable>, eg <look hemp>. Note 
+that when buy tradables, you should have a clear plan as to where you 
+want to sell them.
+
+SEE ALSO: TRADE TRADING TRADESHOPS FREIGHT MUDSLINGER
+#
+DETERIORATION DET
+Time may heal all wounds, but it is not so easy on your equipment. After 
+long periods of use, and or exposure to the elements, your equipment will 
+begin to show it's age. In addition, no mage has yet found a suitable 
+material to store magic indefinitely. Hence any magic channeled into an 
+item will slowly return to the earth. This manifests itself in a general 
+decrease in the statistics of all equipment over time.  Eventually a piece 
+of equipment will become completely unusable, and crumble into dust.  
+
+Having equipment det is very important for the lively hood of the mud.  You
+may at first hate eq det.  But think about this.  If we were to make a
+really good object or if we allowed our TWEAK code to make a very good
+object...something really AWSOME and we did not have det...this item would
+remain for YEARS!  We have had some old bloodstones years old.  You can
+quickly see that in a short time, a year or so....all items in the game
+would be awsome...totally unbalancing the game as the awsome items would be
+average.  This starts what we imps call, stat wars.  To be blunt, it sucks. 
+With eq det in we are allowed to make AWSOME stuff!  AND we can allow the
+code to make awsome stuff for us..without worry.  You can see that in the
+end eq det is a good thing.  The ability to find Great items is higher.  The
+mud stays balanced.  People have more fun.  Good mudders get better and bad
+mudders get worse.  All in all a great code enhancement.
+#
+DESCRIPTION
+The description command allows you to create a physical description of 
+your character. This is the first thing people will see when they look 
+at you. When you use this command you will enter into medievia's on line 
+editor, SEE ALSO HELP EDITOR, and from here you will create your 
+personal description.
+
+NOTE: Please try to maintain some semblance of reality when editing your 
+description, it is best to stick to describing physical characteristics, 
+rather than describing some activity that your player would not be 
+engaged in at all times.
+
+LAW: Your description MUST and I repeat MUST be medievial.  If it is not you
+will be REMOVED.  We will NOT allow a player to ruin the flavor and mood of
+the game by referencing some MODERN DAY thing in their description.
+#  
+SURVEY
+The survey command causes your character to scan the horizon for 
+prominent features. Things like campfires, and tall spires will show up 
+after you type survey and be assigned a direction and distance.
+
+Survey is important in scanning for dragons searching for prey as they
+circle above...or for your friend flying in.  
+
+See Also: Wilderness, Dragons
+#
+"LOOK AROUND"
+The look around command is usable only in wilderness areas. It functions 
+to redisplay the ascii map you see upon entering a wilderness room.
+
+See Also: Look, Wilderness
+#
+BREATH
+Breath literally indicates how much oxygen you have to work with.  Breath
+differs from movement in that it indicates how much air you are getting in
+proportion to how fast your moving.  The faster you move, the more oxygen
+you require, at some critical point your muscles will be consuming more
+oxygen than you are able to take in.  If this happens your breath will
+reach 0, and you will have to slow down. Note that breath regenerates
+much faster than movement.  
+
+Mounts will allow you to move faster as horses and the such have very large
+lungs and are built for moving quickly.  If you move to fast and run totally
+out of breath you will fall over and do yourself damage.
+
+SEE ALSO: MOUNTING PROMPT
+#
+FLY
+
+To fly you must MOUNT a beast that can fly first.  In Medievia for the most
+part the only flying mounts are DRAGONS. Then all you do to lift off is type
+FLY.  This will make you and your beast burst up and cirle overhead. 
+Everyone around will see you lift off.  To fly in a certain direction type
+fly dir like fly n fly south fly e etc.  Everyone in the area will see you
+and your beast change direction.  When flying people will see you come into
+view and exit the view over the horizon.  When players type SURVEY they will
+see you also.
+
+To stop flying in a direction and start circling in place type fly with no
+direction.
+
+Once you are flying in a direction you move automagically.  The beast keeps
+heading in that direction until you change direction or LAND.  
+
+As you fly or circle your mounts MOVEMENT are used up, if it gets very low it
+will attempt to land by itself...if it cannot find a suitable place to land
+you may crashland.  MOVEMENT points are NOT replenished when flying..you
+must land your mount and have it rest.
+
+SEE ALSO: dragons, land, flying, mounting, movemen,t survey
+#
+LAND
+To land your mount you must be over a suitable area, just type LAND.  A
+suitable area means normal things...no water, no lava etc..not in a city
+directly...  
+
+SEE ALSO: FLYING, FLY, MOUNT
+#
+FLYING
+In Medievia you may see people FLYING!  Yes flying is the FASTEST way to
+traverse the large world of medievia.  
+See Also: FLY, LAND, MOUNT
+#
+MOUNT MOUNTING MOUNTS
+As you wander the lands of Medievia, you will notice a couple off things, 
+1. Medievia is BIG!  2. You are not.  In order to compensate for this 
+disparity, you may want to get yourself a mount.  Mounts come in a 
+variety of forms, the most common being a horse.  The most obvious 
+advantage to having a mount, is the ability to move farther, faster. 
+Mounts may be purchased at a stable, or found wandering in the wilderness. 
+In order to mount an animal you have deemed as suitable for this purpose 
+simply type <mount> <animal> eg. <mount> <horse>. To dismount type 
+<dismount>.  
+
+!!!REMEMBER!!! :  When camping...if you want your mount around when you camp
+and quit you MUST be mounted when you quit.
+
+See Also: BREATH, STAMINA, FLYING
+#
+MEDLINK LINK
+Medlink is the primary social gathering place in Medievia.  In Medlink
+you will find many interesting places to explore, including a full service
+casino.  In order to enter Medlink, simply tpye <link>. In order to 
+return to Medievia, type <link> again.  Also in Medlink you will be able to
+gossip etc. If you just want to hang out with your friends, or 
+kill time in an interesting room, Medlink is the place for you.
+#
+TRACK 
+
+Thief Only
+
+Thieves have the ability to track other players.  To try and track
+a player simply type <track> <player name> Once you do this you will be 
+given information on your quarries wherabouts in every new room you 
+enter.  Note that tracking is a tedious task, and will slow your movement 
+considerably.  In order to stop tracking type <track off>
+#
+MESSAGE
+In order to communicate over the vast lands of Medievia, you must employ
+the message command. Syntax: message <paper> <player> For example if I 
+want to send a message to Vryce, I would write the message on a piece of
+paper, then i would type "message paper Vryce".  This calls a small imp,
+capable of traversing great distances, to come and take my paper to Vryce.
+Note the farther away the player who you wish to communicate with is, the 
+longer it will take for them to get your message.
+#
+STAMINA
+Stamina is a statistic which reflects your ability to move long distances
+in the wilderness.  The higher your stamina, the faster you regain your
+breath.  Like other statistics such as strength, dexterity etc, stamina 
+ranges from 13-18.  Certain classes, like thieves, have a higher base 
+stamina than other classes, like mages.
+#
+APPROVE RENAME
+
+Approve & Rename are Medievia's Name Approval/Rename commands.
+
+Approve (with no arguments to it) - Lists all unapproved players.
+Approve (name) - Approves the player with the said name.
+
+Rename (Old Name) (New Name) - Rename
+#
+MAP MAPS
+
+There is a map room south of the Medievia Adventurers' Guild, which is where 
+you entered the game as a new character.  You can also buy maps to carry 
+with you at the Adventurers' Guild.
+
+See Also: SHOP, WILDERNESS
+
+If you are seeking help on the ascii map you have seen, type HELP WILDERNESS
+#
+RULES RULE
+
+Two primary rules exist in Medievia.
+
+1) Don't piss off Shalafi
+2) Don't be an asshole
+
+See Also: Medievia_Faq
+#
+TWEAK
+TWEAK code is new and unique to mudding in many ways. When an object is 
+PLACED ON A MOB or IN A ROOM the object is run through
+code that scrambles its stats.  TWEAKING DOES NOT change any of YOUR stuff,
+it never will.  It DOES change stuff you will find in ZONES and on MOBS.
+SO.... why?  Well we think that all equipment should not be the same.
+All Bloodstones should not be the same.  Everyone should not wear the
+same stuff.  This will make killing mobs much more fun.  Most things
+will not change much, it is an exponential thing.  There is a slight
+chance something will change dramtically, it can get better stats than
+then best OLDSTAT stuff.  BUT!, yes it is a 50/50 thing, when it is
+tweaked it may just as easily become WORSE.  The changing of the stats
+is awesome code, we are very proud of it.  It is one thing to change
+objects, it is quite another to teach the code WHY objects are what
+they are, and teach the code to UNDERSTAND an object's stats.
+BUT BUT BUT, what now?  If all objects are a bit different I will feel
+the need to cast ID on ALL stuff in every corpse.  It will drive me
+MAD.  We are attempting to help here.  We are not sure if we can manage
+this BUT we are trying to TEACH the code to GRADE an object compared
+to your object of the same type.  Currently it is working with mixed
+results.  You will see a --> to the left of an object in a corpse or
+on the ground that the code thinks you should take a look at.  This is
+radical and complicated code that tries to value the objects.  We use
+35 different WEIGHTS and some strange equations, sorta like a chess
+engine I wrote many moons ago.  It makes simple assumptions by using
+weights we create.  Sorta like saying if somethings WIS is increased
+by one its weight is 55000 better and if somethings STR is by 1 it 
+will be 175,000 better. Hence we sorta think 1 str is worth 3 wis.
+We have weights for all stats in that way, merge that and some cool
+code and we will try and VALUE an item for you.  This code is so new
+we really cannot know yet if it will even work right.  
+Meanwhile, having all objects slightly different AND having the chance
+of findinging something incredible on the most common of mobs is GREAT!
+Enjoy,
+The Development Team.
+#
+CASINO CASINOS GAMBLE GAMBLING
+Feeling LUCKY?  Think you can parlay that gold bar into a FORTUNE?
+Well anything is possible at Medievia's casinos, where the idle rich
+and the bold newbies meet to test thier luck and skill at games of
+chance.  There are currently two casinos in Medievia, the main casino is 
+west of Rodenberry Park North, another casino is located on the lower 
+decks of the ship Mystara.  The casino is organized as follows:
+
+exit-STAGE-exit                      KEY
+      +                          @  Slot Machine
+    @@@+@@@                      C  Card Table
+    @@@+@@@ Stairs Down          HR Hight Rollers Card Room
+    @@@+@@@                      R  Roulette Table
+   CCCCCC+RRRRR                  B  Bar
+  HR++++++++++++B                $$ ATM
+   CCCCCC+RRRRR                  M  Mens Room
+     $$+M                        W  Womens Room
+   Shop+STAIRS                   F  Fountain                                                                                                                   
+Checkin+W
+      F
+
+SEE SLOTS POKER ROULETTE
+#
+"SECRET DOORS" "HIDDEN DOORS" "SEARCH" "SECRET DOOR" "HIDDEN DOOR" 
+
+Most doors in Medievia are perspicuous, and can be found with little effort,
+however some doorways do not reveal themselves to standard observation.
+Deliberately concealed either by magic, or exquisite masonry, these doors
+must be found by using the search command. The search command causes your
+character to pause, and focus their attention on the walls of the room.
+Characters possessing high wisdom or intelligence, or those who are nimble,
+will have an easier time locating secret doors. Those trained in the art of
+deception and subterfuge, likewise have an advantage when searching.
+If you are in a room, and you suspect such a door may exist, simply type
+search. If your search is successful, and the hidden door is unlocked, you
+will open the secret door revealing an exit.  If you are unsuccessful, or
+no door exists, you will be informed to that affect. Note that if you find a
+secret door which is locked, it will only open if you have the appropriate
+key in your inventory. The key is not necessary to see the door, only to
+open it.  Once you have found the key, go back to the room and search again.
+#
+SLOTS
+All of the slot machines are different, when you enter a room with a slot 
+machine use the ODDS command to finde the odds of winning on that 
+particular machine, remember the higher the odds the more you can win.  
+To play a slot machine use the PULL command, if you win your winnings 
+will be dropped on the ground, so make sure to get your coins.  
+#
+POKER
+Poker is a game with an ancient tradition, and a somewhat notorious 
+reputation.  Many have chosen poker as an occupation, few however have 
+managed to attain continued success at it.  It can howver be a fun and 
+evern profitable hobby.  To play poker in Medievia, you must first pick a 
+leader who becomes the dealer.  The Medievia poker system allows for many 
+different types of poker games. <Cards Command List>  
+Dealer Commands                      
+
+Shuffle-Takes the cards and shuffles the deck.
+Showdeal(sd)-Deals the cards FACE UP so all can see.
+Hidedeal(hd)-deals the cards FACE DOWN so only player can see.
+Down deal(dd)-deals the cards FACE DOWN so NO ONE can see.
+
+All deal commands are in the form command#player where #=the number of 
+cards dealt.  Note that if "player" is not supplied cards are dealt to 
+everyone at the table.
+
+Player Commands
+
+Cards-shows you your cards. Cards a will show everyones cards.
+Discard-Causes you to throw away a card eg. discard 7h Qs 10c etc.
+Show-turns your cards over so all can see.
+ante-ante # will make you drop # coins for the ante.
+raise-raise # will make you drop # coins to raise the bet.
+fold-will fold your hand for the current game.
+
+Remember poker can result in animosity even between good friends. It is 
+against casino rules to kill other players, so if you have a dispute that 
+cannot be settled verbally please take it out of the casino.
+#
+ROULETTE
+
+Roulette is not currently available.
+#
+AGE
+
+When you start the game you will be 17 years old, a young adventurer. As 
+time passes in Medievia, you will age. The process of aging will have 
+some effects on your character's statistics. At first you will still be 
+growing, and this growth will be reflected in slight increases in your 
+hitpoints, mana, and movement, as well as in the speed with which you 
+recover from long marches, and injury. Life is good, and the world seems 
+full of possibilities. Unfortunately, as the growth subsides the decline 
+begins. The years of battle begin to carve thier mark on your character's 
+vital statistics; the spring leaves your step, the hertasi bolts seem to 
+hurt more than they used to, and you wonder if the gutters on the roof of 
+your house need cleaning... The only thing that seems to defy old age is 
+your mystical energy, or mana. Mana continues to increase throughout your 
+life, and your ability to recover this mana also increases. Once you reach 
+the age of 80 the whole process stops, the God Vryce has seen fit to reward 
+your years of struggle, and you will no longer age. You vaguely remember
+that shorts with dark, knee high socks are the height of fasion. 
+
+Remember that the aging process takes place regardless of whether or not 
+you are logged on.  This means that if you don't play your character for 
+several months, when you return you will find a character older than the 
+one you left. There are ways to effect your age, the most common being the 
+use of equipment which magically alters your age. It is also rumored that age 
+can be reduced through the special magic of eggs. SEE EGGS
+# 
+UNDEAD DEATH DYING DEAD    
+
+
+	Medievia can be a dangerous place, and at times death is all but 
+unavoidable.  Every character has a certain number of hitpoints, these 
+hitpoints determine the ammount of damage you can sustain before you 
+die.  If the damage you take is equal to your hitpoints you will loose 
+consciousness, if the number of hitpoints you have becomes -11 you will 
+find yourself in the somewhat unfortunate position of being dead. Until 
+you reach level five, this won't make much of a difference, the Gods will 
+take pity on you and restore you to your mortal state.  Once you reach 
+level five, it is up to you to win back your life.  
+
+	There are several ways in which death may be overcome:  
+The most common of these being the transformation of your dead body into 
+that of an undead corpse.  This transformation is effected by a mysterious 
+necromancer who delights in the aquisition of souls.  Your undead corpse, 
+souless and bereft of normal mortal abilities, has two options in order to 
+regain it's soul and it's mortal life. 
+
+The first option is to go to the highest point in Medievia or Trellor, 
+wait a predetermined ammount of time, and then type "pray".  Other characters 
+aware of the trials facing a new corpse may have posted directions to these 
+high points on the bulletin boards in Medievia and Trellor.  The ammount of 
+time an undead corpse has to wait before it's prayers will be answered is 
+determined by the number of other players killed by that character.  
+Typing "score" will tell you the ammount of time you will remain dead 
+for. The base time you will have wait is 10 minutes of real time, as the 
+number of player kills you have goes up, so too does the ammount of time you 
+
+
+
+must wait. For those players who delight in the murder of thier peers this 
+ammount of time may become prohibitive, but fear not, there is another option.
+Kill the necromancer and you will regain your soul!  This is not such a simple
+task as the necromancer can be very difficult to find, often his loacation will 
+be disclosed on the gossip channel by fearful monsters. Once you have found 
+the necromancer, kill him to become alive.  The most expedient way to regain 
+your life is to be resurrected by a powerful cleric.  The resurection must be 
+performed before the necromancer completes his hideous ritual, once you 
+become an undead corpse you may not be resurrected. Once you become a 
+corpse you will loose all your no rent items, (potions, orbs, wands etc), 
+you will not, however, loose any of your rentable items, these items will 
+reappear in your inventory once you become alive.  If you are resurrected 
+prior to becoming a corpse you will loose nothing.  The only exception 
+being for those who are kill in a chaotic area, if that happens you stand 
+a good chance of being looted.  SEE RESURRECT  PK_FAQ     
+#
+ALIGNMENT ALIGN
+Alignment refers to the general moral status of both corporal and 
+inanimate matter. You have an alignment, monsters have an alignment, and 
+many items in Medievia also have an alignment. Alignment is a continuum, 
+running from pure goodness(+1000) to pure evil,(-1000), with pure 
+neutrality lying in the middle (0). A character's alignment will 
+change to reflect the types of activities he/she engages in. 
+A character that spends most of thier time killing janitors, poor 
+innocent souls with a good alignment, will slowly become evil.  However a 
+character spending the bulk of thier time battling wraiths, evil 
+malevolent creatures, will slowly become good.  Similarly one who divides 
+thier time more or less equally between these two types of behavior, will 
+remain neutral.  Since many magical items in Medievia also have an 
+alignment, you will only be able to use those items which are aligned 
+closely to yourself.  In other words an evil character will not be able 
+to use a good item, and a good character will not be able to use an evil 
+item.  Items in Medievia of this nature are referred to as anti-evil, and 
+anti-good respectively.  Often a neutral character will be able to use 
+both of these types of equipment, however there are some items which are 
+so strongly aligned that they attain an anti-good/anti-neutral or an anti- 
+evil/anti-neutral rating. If you are equipped with an anti-good item, and 
+continue to perform acts of a good nature, you may be "ZAPPED" by that 
+item, and forced to drop it.  It is a good idea therefore to keep an 
+eye on your alignment, lest you loose your sword during a fight.  
+Remember that if you are zapped, you must get your item, or risk losing 
+it altogether.  
+#
+"SAVING THROW" "SAVING THROWS" "SAVING SPELL" "SAVING SPELLS" SAVES
+
+  At various times during the game, something "special" will effect, or
+attempt to effect your character.  Things such as spells being cast at you,
+poisonous snakes biting you, players using wands on you, etc.  In these
+special cases, your character is allowed a SAVING THROW.  There are 5 kinds
+of saving throws: paralysation, rods, petrification, breath weapons, and
+spells.  A successful save means you either avoid the effect entirely or
+the damage recieved is reduced.  Since saving throws vs spells are the 
+most common, that will be used as an example to explain the function of 
+saves.
+  Example: A character is fighting a spell casting monster.  The monster
+casts a lightning bolt at the character.  The character is allowed a saving
+throw vs spells in order to take less damage from the lightning bolt.
+First, the game finds the character's base save, determined by his level
+and class.  Assume this number is a 14.  Next, the game looks to see if
+the character is wearing and equipment which affects saves vs spells. He's
+wearing an amulet which is -2 SAVING_SPELL and a ring which is -3
+SAVING_SPELL.  These modifiers are added up, resulting in a -5.  This total
+is then added to the character's base save of 14, resulting in a 9 (14+(-5)).
+Now the game rolls a 20 sided die, if the number is higher than 9, the
+character "makes his save" and less damage from the lightning bolt is taken.
+A die roll of 1 always fails the save and a 20 always makes the save.
+  As stated in the above example, saving throws of all five types are
+based on the level and class of the character.
+
+Any saving throw modifier that is negative benefits the player.
+SAVING_SPELL by -3 is GOOD, SAVING_SPELL by 1 is BAD.
+#
+EARTHQUAKE QUAKE
+
+  Medievia is going through a very violent geological time period as of
+late.  Perhaps it is because of the uprising in the CATACOMBS or maybe
+it is just natural, but earthquakes have rocked medievia and are predicted
+by Vryce to continue for quite some time.  Earthquakes are very dangerous
+and you should make sure that you understand them.  They happen sometimes
+6 times a REAL day and can last up to 85 real seconds.  When you feel
+one starting SIT DOWN.  If you are sitting you will take less damage.
+Also, if you are OUTSIDE and OR FLYING you will take less damage.
+If it is high on the rictor scale, and semi local to you you can loose
+enough hitpoints to DIE no matter how many hitpoints you started with.  YES 
+DIE. During even a fairly MILD quake fighting may cease and formations may
+break up.  Even the monsters of medievia hate these quakes.
+Is it ALL BAD?  Hell no!  Monsters, not being as BRIGHT as you, will sustain
+much more damage.  In fact after a big quake, consider it a FREE FOR ALL as
+monsters will be hurting.  Quakes are an interesting feature of Medievia,
+you may FALL down stairs...drop stuff...fall down....  The code to create
+an Earthquake is very complex, so as to make them as realistic as possible.
+Some of the quake equations Vryce has designed use 8 variables and 3 over-
+laying graphs.  .....Did the earth just move?  JUST KIDDING!  YES! We WILL
+have just enough fake quakes to drive you banannas... Fake quakes are 
+USUALLY pretty short in duration and not very violent at all.
+The last Hint I will give you here is IF A QUAKE IS HAPPENING DO NOT TRY AND
+MOVE!  You WILL get hurt.  Vryce hopes to figure out the source of this
+new threat to medevites and stop the quakes...he will do his best.
+#
+CATACOMB EGG EGGS CATACOMBS
+
+  The Catacombs are a subterrainian network of caverns and tunnels occupied
+by thousands of the most deadly creatures Medievia has ever seen.  The 
+governing bodies of the City of Medievia are prepaired to offer great 
+treasures to those brave adventurers who will protect the citizens and 
+destroy this threat.  Scattered throughout the two thousand rooms that make
+up the Catacombs are large eggs of unknown origin.  By collecting these eggs,
+you prove to the government that you are indead contributing to an honorable
+cause.  
+  Once you have gathered the eggs and have successfulling returned to 
+Medievia, you can hand them in to Vryce's adviser.  The Wizard is stationed
+on the second level of Castle Medievia, in a room off of the Hall of Statues.
+The Wizard can provide with the most recent information concerning the 
+war within the Catacombs.  
+
+Look at the sign in the Wizard's room for the most up to date list of 
+commands.
+
+'fill'  - deposits the eggs from your inventory to the wizard
+'ask'   - obtains your current total of eggs deposited
+'where' - gives you the current location of the entrance to the Catacombs
+'offer' - to obtain a reward, you must offer a certain amount of eggs
+#
+GREP
+
+Syntax: grep <string> command
+
+Similar to the Unix command.  You can grep for any string within the output 
+of certain commands. 
+
+Examples:
+ 
+  grep <player name> who
+  grep catacombs who
+  grep <zone name> listzone
+  grep <player name> clanwho
+#
+FAQS FAQ
+        M       E       D       I       E       V       I       A
+                                 FAQS
+
+        PK_FAQ                   REALESTATE_FAQ          QUEST_FAQ
+        CLAN_FAQ                 MEDIEVIA_FAQ
+
+#
+REALESTATE_FAQ
+
+The Medievia Frequently Asked Questions(FAQ) on Real Estate.
+------------------------------------------------------------------------------
+NOTE: (ALL PRICES ARE SUBJECT TO CHANGE)
+ 
+Q: How do I buy a house?
+A: Announcements of house auctions are regularly posted on the bulletin
+board.
+ 
+Q: How much does a house cost?
+A: Auctions start at 100 million coins and can go up to 250 million or more.
+ 
+Q: How do I buy a clanhall?
+A: Any leader of a clan can purchase a clanhall.  This will be a room
+   in one of the major cities around the world.  Its purpose is to
+   provide a secure environment for all members of the clan to use.
+   Clan members, and ONLY clan members may have a gohome set up to their
+   clanhall; the cost is the same as a gohome to a house.  The prices for
+   clanhalls and added features are listed below.
+   NOTE: The clanhall is the property of the State, not the Clan.  Therefore,
+         a character may NOT sell his or her clanhall when they no longer
+         wish to use it.  All rooms in the clanhall are repossesed by the
+         State and no money is given in return.
+ 
+Q: What is a GOHOME?
+A: Gohome is a ability that lets you gohome to your house. You do not
+need to own a house to have the gohome ability. You can get your gohome
+ability to your clanhall or to someone elses house if they allow you, and
+in the case of clanhalls, if you're a member of the clan.
+Once you have gohome, you do not have to rent anymore and you can quit at
+your home with out any loss of items.
+ 
+Q: What the the prices for real estate?
+ 
+A:
+  Clan Halls                          | 300 million gold coins
+  Extra room in Clanhall              | 200 million gold coins
+  (Max of 2 extra rooms may be added) |
+  Extra rooms for house               | 100 million gold coins
+  (Max of 4 extra rooms may be added) |
+  Gohome to Clanhall or House         | 50 million gold coins
+  Change gohome to another room       | 10 million gold coins
+  Exits to Atm,Lockers,Post           | 50 million gold coins
+  Flags (water,godproof,etc.)         | Free
+ 
+Q : Can I get mobs or items loaded into my house?
+A: At the moment, you can not get items or mobiles loaded in to your home.
+ 
+Q: Who do I contact to buy a house or a gohome?
+A: To buy a house or a gohome or any other real estate related manner,
+   contact Lena.
+ 
+Q: If I buy a gohome and I change clans or buy a room in someones house,
+   do I have to pay for another gohome?
+A: The cost to have your gohome moved to a new location is 10 million gold.
+
+Q: Can I have more than 1 gohome?
+A: Only one gohome per player.
+#
+QUEST
+
+Quests are a sort of game within the game added for your enjoyment. They 
+may involve skill, intelligence and test your knowledge of the game. Or 
+they may be strictly for fun and require no more than your ability to 
+find objects randomly placed throughout the mud. For details on various 
+typs of quests, see the QUEST_FAQ.
+
+Many of the quests award quest points as the prize.  Quest points can be 
+traded in at the Quest Shop for valuable items not obtainable any other way. 
+
+See also: QUEST_FAQ QUEST SHOP
+#
+"QUEST SHOP"
+
+The Quest Shop is where you can turn in quest points for valuable items 
+found no where else. Quest points are earned from wining the various 
+quests held from time to time on the mud. 
+
+The shop is located across the street from the bank on Enterprise in 
+Medievia. Inside is a board which lists all the available items and the 
+number of points required to purchase them. Type look board to see the 
+list. Stats for each item can be seen by typing look #,  where # is the 
+number of the item.
+
+See also: QUEST, QUEST POINT, QUEST_FAQ
+#
+"QUEST POINT"
+
+Quest points are awarded by wining one of the various quests held on the 
+mud. They can be redeemed for valuable prizes at the quest shop.
+
+See also: QUEST SHOP, QUEST, QUEST_FAQ
+#
+QUEST_FAQ "PK QUEST" "RACE QUEST" "CLUE QUEST" 
+ 
+The theory of the Quest
+-----------------------
+Questing is not just for fun, fame and glory, but also a way to gain
+valuable quest points. After you accumulate enough quest points you can
+purchase special items. For a list of items and their prices go the Quest 
+Shop (2 north from the bank (atm) machine) in Medievia and 'look board'.
+
+Types of quests
+---------------
+There are currently 3 types of quests that are held regularly, and others 
+which are more sporadic. These spontaneous quests are run solely at the 
+discretion, and bound only by the limits of the imagination of the god 
+running them. The rules are provided at the time, and there usually is 
+no prior announcement. Information and rules for the set, regularly run 
+quests follow. 
+
+NOTE: "Regularly run" in this case, means when a Quest God has the time 
+and the inclination to run a quest. We normally have at least one, if not 
+all three run daily at various times.  Be warned.. NEVER harass, beg, 
+plead, spam or make a pest of yourself to get a God to run a quest! It 
+could be FATAL to your existance. :)
+
+RACE QUEST
+----------- 
+Race quests are simple to participate in. The Quest God randomly 
+teleports to a room in Medievia or Trellor, and then announces (on the 
+quest channel) the name of the room they are in. Examples:
+
+Medievia : The Mage's Guild
+          or
+Trellor : Entrance to the Temple of Trellor
+
+If your know where the announced room is located, run there as quickly as 
+you can, and then smile at the Quest God.  Your smile triggers an 
+automated tracking script which keeps score.  So if you run in a room and 
+see : Asskicker is here., your response should be : smile Asskicker.
+
+Race Quest Scoring
+------------------
+The first five people to smile at each location receive game points:
+First person to smile at me   : 10 points
+Second person  to smile at me : 6 points
+Third person to smile at me   : 5 points
+Fourth person to smile at me  : 4 points
+Fifth person to smile at me   : 3 points
+
+The first 3 people to reach 100 points win. 
+
+Currently, the prizes are :
+1st place : 3 Quest points 
+2nd place : 2 Quest points 
+3rd place : 1 Quest point 
+
+Currently, you are allowed to summon your friends to assist them in racing.
+Also, if the Quest God teleports to a Player Kill zone (NPK or CPK), be 
+forewarned you may find other questers daggers in your back! Killing in 
+these zones is legal whether a quest is running or not.
+
+---------------------------------------------------------------------------
+PLAYER KILL (PK) QUESTS
+-----------------------
+Basically you enter the arena and kill people. Quest God Asskicker runs 
+two versions of pk quests. One is for all players regardless of total 
+levels, the other being for single classers level 14-31.
+
+How to Quest
+------------
+ - To enter this quest you : tell Asskicker pie
+ - You are then teleported to the arena entry room and restored (your hit 
+   points, mana and moves all brought to maximum).
+ - From the entry room, you are free to roam the arena attacking the 
+   other players at will. 
+ - If you are killed, you end up in the trash pile where you can begin 
+   the process all over again by sending a tell to Asskicker of "pie".
+
+PK Quest Rules & Scoring
+------------------------
+ - Once you enter the quest you cannot recall or be summoned out. If this
+   happens you are barred from re-entering the quest until the next time 
+   it is run.
+ - Your kills are not added to your regular game play PK talley.
+ - This is an ongoing quest with scores being saved from previous quests, 
+   and continues until someone reaches 100%.
+ - Scoring is based upon your level AND the level of your kill. 
+ - If a high level kills a low level, he does not receive many points. 
+ - If a low level kills a high level, he receives a lot of points. 
+ - A +70 point bonus for killing a player 7 or more levels higher than 
+   yourself.
+ - A -50 point penalty for killing someone 7 or more levels below 
+   yourself. 
+ - A minimum of 15 points is always awarded for a kill.
+ - You lose 10% of your score each time you die.
+ - Grouping with other players IS allowed.
+
+Prizes
+------
+Prizes are at the discretion of the Quest God.  Usually one quest 
+point per number of games it took to declare a winner, is awarded 
+to the first person who reaches a score of 100%. 
+
+
+-----------------------------------------------------------------------------
+SIGN QUEST 
+----------
+The objective of this Quest is to find the secret word which opens the quest 
+chest where the prize waits.  The location of the quest chest will be 
+written on the clues you find.  (Usually on the Mystra, the ship that 
+travels between the continents) 
+
+How to Play
+----------- 
+ - To find the secret name of the chest you have to find quest clues.  
+ - An identical set of clues is dropped on both continents. When you 
+   "look at clue" it will tell you the secret name of another clue. 
+ - Using this information allows you to see the actual "hint" hidden in 
+   the clue, which is usually a part of a phrase that will help you figure 
+   out the secret name of the quest chest. Sometimes the actual hint will 
+   be letters used in the word of the chest chest. You must wander 
+   around until you find all the clues and get the secret word.
+---------------------------------------------------------------------------
+Here is an example of how it works:
+   1) You look at the first clue which says "1111".   
+   2) You find the second clue which says "2222" you "look 1111" to check 
+      if it's the secret name of the clue but it doesn't work.    
+   3) Your third clue says "3333", you check if "2222" is the secret name
+      of the clue but it dosn't work, then then you check "1111", it 
+      works! The clue it gives is "QUEST".   
+   4) You go back to the second clue and try "3333", it works and the clue 
+      it gives you is "OF THE"   
+   5) You go to the first clue and try "2222" and it works giving you "GOD" 
+   6) You realize the phrase is "GOD OF THE QUEST".    
+   7) You go to the chest and try "get all Asskicker" nothing happens. Then 	
+      you try "get all Ugadal", and you get your prize!  
+
+PRIZES
+------
+Current prize for solving the clue quest:
+3 Quest points and 20 million in gold.
+
+See also: QUEST SHOP, QUEST POINT
+#
+CLAN_FAQ
+ 
+The Medievia Frequently Asked Questions (FAQ) on Clans
+------------------------------------------------------------------------------
+.                               .                                    .
+Q: What is a clan?
+A: A clan by definition is a group united by a common interest or common
+characteristics.  Clans in Medievia are very much the same way. Clans are
+groups of up to 50 players which help each other out and try to assist
+each other whenever possible.
+.                               .                                    .
+Q: What are the benefits of joining a clan?
+A: When you join a clan, you gain many benefits. When you are in a clan,
+you become much stronger because if someone insults you, they insult your
+clan. When you join a clan, you gain the friendship of your other clan
+members. Clans usually trade items and gold between themselves and help
+out their fellow clan members when they are in trouble. Clans also have
+their own talk channel (CLANTALK) where they can discuss clan related
+things or just chat with one another.
+.                               .                                    .
+Q: How do I join a clan?
+A: To get a full list of clans, use the showclans command. It will give
+you a list of all the current clans and the names of their leaders. To
+join a clan, the leader must enroll you in the clan. If you wish to join
+a specific clan, talk to the leader and ask them if you can join. If they
+say no, do not pester them any further.
+.                               .                                    .
+Q: How do I leave a clan?
+A: Ask the clan leader to remove you or you can ask a level 33 or higher god.
+.                               .                                    .
+Q: How do I start my own clan?
+A: Starting a new clan costs $75 million gold coins. Ask a level 34 or
+higher god if you want to start a clan. Once your clan is made, you will
+be the leader and you can enroll and remove players as you wish.
+.                               .                                    .
+Q: What are other clan related commands?
+A:
+ CLANWHERE, shows where all your clan members are at the moment.
+ CLANWHO, shows who is online from a clan. 
+ SHOWCLANS, shows a list of clans and leaders
+ SHOWCLANS <Clan Number #> Gives you a list of clan members for a clan.
+ CLANTALK, Clan talk channel.
+ ** Must be in a Bank to use the following commands **
+ BALANCE CLAN, shows the balance, in gold pieces, of the clan's bank
+ DEPOSITE CLAN <amount>, deposites gold into the clan's bank account
+ WITHDRAW CLAN <amount>, withdraws gold from the clan's bank account
+.                               .                                    .
+ 
+Q: What are some things comming up in the future for clans?
+A: In the future, clans will have their own cutter ships in which they
+will sail the seas with to other islands. They will be able to battle
+other clans in their ships with cannons. Clans will be able to buy sails
+and better cannons to improve their ships.  Clans will also be able to
+gather eggs in the catacombs and use them to buy items for their clans.
+.                               .                                    .
+ 
+ 
+Q: What is a clan item?
+.                               .                       .
+A: Every clan in Medievia can have one clan item. A clan item is an item
+currently in the game which a clan can have duplicated to a name that they
+pick. For the members of the clan to obtain a copy of the clan item, they
+must allready have the normal item eqivlent of the clan item and one
+million coins for an exchange fee. Any level 33 or higher god can exchange
+the "regular" version of the specific clan item for the specially named
+version. Once a clan item has been decided on and the item has been put into
+the database, the clan item can not be changed. In order to make a clan
+item for your clan, please contact Shalafi.
+ 
+See Also: CLANS
+ 
+#
+MULTICLASS_FAQ
+ 
+The Medievia Frequently Asked Questions(FAQ) on Multiclass.
+------------------------------------------------------------------------------
+.                               .                                    .
+Q: What is Multiclass?
+A: Once you have reached to level 31 of your class, you can not level any
+further in that class. You have two choices from there, you can stay at
+31 level or you can Multiclass. Once you multiclass, you are set back to
+level one of your new class and your total levels number increases.
+.                               .                                    .
+Q: How do I Multiclass?
+A: When you have reached level 31, in order to multiclass, you have to go
+to the High Point of Medievia and push the button. Once you push the
+button, you will be prompted for your new class.
+.                               .                                    .
+Q: What do I loose and gain from multiclassing?
+A: Once you multiclass, your Hit Points, Mana Points and your movement
+points are set back to level one but you keep all the abilities from your
+prior class. So if you were a warrior and you multiclassed into a mage,
+you would still have bash, trip and all your other warrior skills. But if
+you are a mage or a cleric and you multiclass in to something else, you
+can not use your spells from your previous class until you reach the
+level of the spell. An example of this would be if you were a mage and
+you multiclassed into a thief, you would not be able to use lightning
+bolt (level 7 spell) until you reached level 7 on your thief.
+.                               .                                    .
+Q: Will I be able to use my level restricted equipment on my new character?
+A: You will not be able to use level restricted equipment until you
+reach the restricted level. You would not be able to use your level 27
+equipment until you reached level 27 in your new class.
+.                               .                                    .
+Q: What happens when I finish all four classes?
+A: Well you have won the game!! What else more could you want??
+.                               .                                    .
+Q: Will I keep all my equipment, bank account and home once I multiclass?
+A: You will keep all your money and equipment and your home.
+.                               .                                    .
+#
+PK_FAQ PK CPK NPK "PLAYER KILL" "PLAYER KILLING"
+  
+The Medievia Frequently Asked Questions(FAQ) on Player Killing
+------------------------------------------------------------------------------
+.                               .                                    .
+Q: What is player killing?
+A: Some zones in Medievia allow player killing, that means that in these
+zones you can attack other players and kill them. Before you enter a
+player killing zone, you will be asked by the code weather you want to
+enter or not. There are two types of player killing areas. CPK, Chaotic
+Player killing zones and NPK, Neutral Player killing zones.
+.                               .                                    .
+Q: What are some of the Player Killing Zones?
+A: Medievia has many player killing zones that you can enter, Mahn-tor,
+Thanos, The Githyanki, Horneg's Keep, Vale, Lake Contnea, The Lost City of
+Atlantis, The Fire Giants Keep, Asnor Mountains and Bloodstone.
+.                               .                                    .
+Q: What is the difference between CPK and NPK areas?
+A: There are two major differences between NPK and CPK areas. When you get
+killed in a NPK area by another player you do not suffer "real" death.
+Once you are killed, you are transported to the Medievia trash dump where
+you can resume adventuring again. If you get killed by another player in a
+CPK zone, you will suffer real death and loose experience points. Your
+corpse might also be looted by other players and your items stolen from
+you.  There are also two major differences when it comes to killing other
+players in CPK and NPK zones. When you kill someone in a NPK, you do NOT
+gain any experience.  If you kill someone in a CPK zone, you do get
+experience for your kill and you have the chance of looting the other
+player.  In CPK zones, and ONLY CPK zones, if you are killed by other mob,
+there is a chance that will be looted by players walking by.
+.                               .                                    .
+Q: What are the ramifcations for player killing?
+A: Every time you kill a player in a NPK or CPK zone, you get one
+player kill added to your PK counter. For every PK point you have, you will
+have to wait an extra ten minutes at the high point before praying. Every
+time you regain your life at the high point, your PK counter is decreased
+by one.
+.                               .                                    .
+Q: What are the rules for player killing?
+A: There are three rules for player killing.
+     1) You CAN NOT attack player in lawful zones.
+     2) You CAN NOT attack anyone in your formation.
+        This includes luring others into a pk zone under false pretences
+                      -- In Short, NO TRICKS --
+     3) If a player is fighting a mob in an NPK zone, you can not attack them
+        while they are fighting or assist the mob in ANY way.
+        -IF YOU ANY VIOLATE THESE RULES, YOU COULD BE DELETED-
+.                               .                                    .
+Q: What do I do if I die or get looted?
+A: If you get looted or killed in a CPK zone, do not complain or
+whine.  You knew what could happen to you when you entered and accepted
+the risks.
+If you get looted in an NPK zone, by all means, WHINE.  We the Gods want
+to know if another player is breaking the rules.
+.                               .                                    .
+Q: What is the arena?
+A: The arena is a place where players can come duel each other. There are
+player killing games often held in the arena by the quest gods which you
+can join. The arena in a NPK area EXCEPT that if you kill someone in the
+arena, your PK counter does not increase.
+.                               .                                    .
+#
+MEDIEVIA_FAQ 
+ 
+Frequently Asked Questions regarding Policy and Interaction in Medievia Mud
+---------- ----- --------- --------- ------ --- ----------- -- -------- ---
+o Can I use Tintin or other clients and scripts?
+- Yes.  However, we DO NOT allow "triggers" that autoattack players or
+  mobs; this includes dispelling and the like.
+o The game legitimately crashed, and I lost levels, and equipment, can I be
+  reimbursed for this?
+- Usually yes, but under some circumstances the gods may decide not to, their
+  decisions are final on all things. But in most cases, a god will do as much
+  as he or she can to help you get back on your feet.
+o When will the next zone be installed?
+- Don't ask this question. A lot of people are working on projects at this
+  time, and you can be sure that as soon as one is installed, you will know
+  about it.
+o Can I play more than one character at once?
+- No. This includes dropping link and logging in with another character.
+  We WILL be severe if we find you doing this.
+o Can I make a stoarage character?
+- No. Storage characters are not allowed.
+o Why won't the gods answer my prayers?
+- Here's a common one you all need to know the answer to. The Gods are ALWAYS
+  being deluged with questions and commentary. So your prayer may get lost in
+  the text flying by on the screen. We're sorry if we miss you, but don't be
+  a pest and re-ask your question every 10 seconds. If it's something that
+  cannot wait, seek another player's help first. *ALWAYS* try to get a
+  player's help before going to a god. Also, we can't stress enough to pray
+  if it's IMPORTANT only! We have a lot of things to do (work on zones, work
+  on a quest for the players), and we do not need to see "help, I lost my
+  corpse", and "pray for food and water". Please, ASK THE PLAYERS! 
+  Practicallyall of them will be willing to help you.
+o I'm using the gossip channel, but the gods don't pay attention to me, why?
+- The gods use the gossip channel for the same reason you do, to
+  chit-chat. We do not answer requests on that channel. PRAY to the gods
+  if it's VERY important.
+o What level do I have to be to use the gossip channel?
+- Level 6, and yes we know this is higher than most muds require, but it is
+  quite easy to get to level 6 on Medievia, so don't fret it.
+o Where are some of the more important areas, such as the bank/ATM, the hotel
+  and the U-Store-It locker room facility?
+- All of these areas are easy to find, Aramingo Ave, which lies 2 squares
+  south of Castle Square (The recall spot) is where all the shops are at,
+  such as the bakery, grocery, weaponsmith, armory, etc. U-Store-It is also
+  located on Aramingo Ave. EXPLORE, you have to learn to know the land to
+  play here. The Hotel is located on Enterprise Ave, that is also where the
+  Bank/ATM is located. That's another 2 squares south from Aramingo Ave.
+o A player stole from me, looted my corpse, or stole my kill, can I be
+  reimbursed, or can action be taken against this player?
+- It's important for you to tell a god about this. They will transfer both
+  you and the perpetrator to their office to deal with this one on one.
+o What happened to recall, and save and quit?
+- They've been removed, you must go to the magic shop and buy potions of
+  recall, or learn "word of recall" as a spell, and you must rent at the
+  hotel to save your equipment. Magic items cannot be saved, so put them in
+  a locker. Containers can't be put in the locker, so rent them, or sell them
+  before leaving.
+o What are some of the reasons why the system might be down, or have crashed?
+- We are constantly working on bugs in the system, and believe we have gotten
+  the majority of them worked out, but you may find the system reset by a god
+  to start up some new zone, or bring in new mobiles or objects that have
+  been created. Crashes will occur, we can't avoid it, all muds crash, bear
+  with it, it just happens. You may also find the mud down periodically so
+  that we can implement a new zone, or make major modifications to some part
+  of the code, which will require the mud to be down for a little while. But
+  for the most part, we're never down long.
+o Can I PK (Player Kill)?
+- Sure can!  We have several areas for player killing.  And as an added 
+  bonus, we have two types of player killing.  One is a 'neutral' zone where
+  you can kill people, but you and the person you killed doesn't lose any
+  experience or equipment.  These zones are Horneg's Castle, the Githyanki,
+  the Vale, Thanos, the Pirate Ship, and Bloodstone.  And then there's the
+  'chaotic' zone, where players kill, lose exp and equipment, and get really
+  pissed off  :).  Those zones are The Fire Giants Keep, Mahn-Tor, and
+  Bloodstone.  See HELP PK for more information.
+o Corpse looting?
+- If you can get away with it, fine.  But if you're in a group, a player
+  probably won't try to do it, lest his butt get kicked. You can only steal
+  from dead players in chaotic player killing areas.  See HELP PK for 
+  more info.
+o If a player gets disarmed or drops some eq, can I grab it?
+- The policy on this stands as NO YOU MAY NOT! Just because a player has
+  dropped something, doesn't mean he's giving it to you. If someone does this
+  to you, notify a god and they will bring you into their office and chat
+  what to do with the person. Usually they will just say to give it back, and
+  that'll be the end of that. This holds true when players get zapped by eq
+  of the wrong alignment and dropping a heavy weapon also.
+o What do I do if I see a bug, or have an idea or notice a typo?
+- Report it, we have functions for that, type "bug <your message>" to
+  report a bug, "idea <message>" to report an idea you have, or "typo <msg>"
+  to report a typographical error in the world file.
+o Where's the bulletin board?
+- The bulletin board is located in the Library. When you get in there, use
+  "look at board" to check out what messages are on it. "read 1" will 
+  read the first message, and so on. If you want to post a message, go to the
+  grocer and buy some paper and a quill. Write down your message on that paper.
+  Note that the first line that you print on the paper will be the title of
+  your message. Then, when you have it finished, go to the library and "put 
+  paper board".
+ 
+#
+COMBAT
+
+        M       E       D       I       E       V       I       A
+                             COMBAT COMMANDS
+
+        KILL                     FLEE                    CONSIDER
+        HIT                      WIMPY                   ASSIST
+        MURDER                   AC                      THACO
+        CAST                     HITROLL
+        SAVING THROW             DAMROLL
+#
+MOVEMENT MOVE
+
+        M       E       D       I       E       V       I       A
+                            MOVEMENT COMMANDS
+
+        Directions:             Combat:                 Other:
+         NORTH                   FOLLOW                  EXITS
+         EAST                                            AUTOEXIT
+         SOUTH                                           REST
+         WEST                                            STAND
+         UP                                              SLEEP
+         DOWN                                            WAKE
+         LEAVE
+         ENTER
+#
+CLANS CLAN
+
+        M       E       D       I       E       V       I       A
+                              CLAN COMMANDS
+                
+        Clan Leader:            Clan Member:            Everyone:
+         ENROLLCLAN              CLANTALK                SHOWCLAN
+         REMOVECLAN              CLANWHERE               CLANWHO
+
+See Also: CLAN_FAQ, ATM
+#
+INFORMATION
+
+        M       E       D       I       E       V       I       A
+                         INFORMATION COMMANDS + KEYWORDS
+
+        Commands:               More help:
+         INFO                    WARRIOR                 ATM
+         STORY                   THIEF                   LOCKERS
+         NEWS                    MAGE                    GUILD
+         CREDITS                 CLERIC                  SHOP
+         WIZLIST                 SPELLS                  HOMES
+         LEVELS                  MULTICLASS              MEDIEVIA
+         LISTZONE                ABILITIES               IMMORTAL
+                                 PROMPT                  HELP
+                                 TRELLOR                 DRAGON CRYSTAL
+                                 XP                      CARDS
+                                 DEATH                   AGE     
+                                 ALIGNMENT
+#
+COMMUNICATION COMMUNICATE
+
+        M       E       D       I       E       V       I       A
+                          COMMUNICATION COMMANDS
+
+        General:                Global:                 Other:
+         SAY                     CHANNEL                 PRAY
+         TELL                    GOSSIP                  REPORT
+         WHISPER                 DISCUSSION              ROOM
+         TALK                    QUEST                   AFK
+         CLSAY                   SETCOMM                 TICK
+         ASAY                    SHOUT                   SOCIAL
+         CLANTALK                                        POSE
+         ASK                                             EMOTE
+#
+OBJECT
+
+        M       E       D       I       E       V       I       A
+                       OBJECT MANIPULATION COMMANDS
+
+        General:                Equipment:              Other:
+         GET                     WEAR                    POUR
+         PUT                     WIELD                   FILL
+         DROP                    REMOVE                  SACRIFICE
+         LOOK                    HOLD                    WRITE
+         OPEN                    RECITE                  GIVE
+         CLOSE                   QUAFF                   DONATE
+         LOCK                    USE
+         UNLOCK
+         EAT
+         DRINK
+#
+SPECIAL
+
+        M       E       D       I       E       V       I       A
+                             SPECIAL COMMANDS
+
+        RENT                    BUG                     BUY
+        QUIT                    IDEA                    SELL
+        SAVE                    TYPO                    LIST
+        PASSWORD                CAMP                    VALUE
+        PRACTICE
+        TRAIN
+#
+GENERAL
+
+        M       E       D       I       E       V       I       A
+                             GENERAL COMMANDS
+                           
+        INVENTORY               ORDER                   TIME
+        EQUIPMENT               ALIAS                   MUDINFO
+        SCORE                   WEATHER                 COLOR
+        WHERE                   TAG                     BRIEF
+        WHO                     !                       COMPACT
+        TITLE
+
+#
+PASSWORD
+
+Use this password command to change your password.  We suggest you change
+your password often and use new passwords each time.  The Passwords in
+Medievia are one way encrypted for your security.
+
+#
+POSE
+
+Makes you "strike a pose" based on your class.
+#
+NORTH SOUTH EAST WEST UP DOWN
+
+To walk in a given direction. 
+You can use just the letters N, S, E, W, U & D
+#
+EXITS AUTOEXIT EXIT
+
+EXITS gives you a list of the obvious exits from your location.  Blocked 
+exits, such as closed doors, are not listed until you open them.
+AUTOEXIT automatically lists the obvious exits whenever you walk into a room.
+#
+SLEEP WAKE REST SIT STAND
+
+SLEEP and REST allow a character to regain more hit points, mana, and 
+movement per tick than a character who is standing.  When resting, you 
+will still be able to see what is happening around you and interact with 
+other players, but the regeneration rate is not as high as SLEEP.  If you 
+are sleeping, your actions are very limited. 
+
+STAND will return you to normal ready position from SIT or REST and WAKE 
+will return you to normal position from SLEEP.
+
+See Also: SLEEP SPELL
+#
+LEAVE ENTER
+
+If you are indoors, LEAVE will make you use the nearest obvious exit to 
+the outside.
+
+If you are outside, ENTER will make you use the nearest obvious exit to 
+the indoors.
+Important Note: The ENTER command is also used to enter portals and other
+                magical gateways which you may find throughout the world.
+#
+FLEE WIMPY
+
+When fleeing from battle, you will attempt to escape in any random 
+direction.  However, there is a chance that you can not escape.  You may
+attempt to flee again.
+
+Syntax: wimpy [number between 0-255]
+
+Setting your wimpy at 100, means that you will automatically attempt to flee
+when your hit points drop down to 100 or less.  To see what your wimpy is
+currently set at, type 'wimpy' with no argument.
+#
+FOLLOW
+
+Syntax: follow <leader>
+
+FOLLOW is used to create a formation.  To do so, everyone must follow the 
+leader.  Once in a formation, you will automatically go where the leader
+moves too.
+
+follow <your name>, will remove yourself from a formation.
+
+See also: FORMATION
+#
+FORMATION FORMATIONS GROUP GROUPS
+
+A FORMATION is a group of 2 to 9 players traveling together, following a
+leader.  All members of the formation share EXPERIENCE points equally, 
+based on level.  However, if there exists a difference of more than 10 
+levels between any two group member, all players will receive less XP and 
+the division will be skewed.  XP will only be shared among group members 
+who are in the room at the time of the killing blow, regardless of whether 
+they were fighting or not.  Gold can be SPLIT equally among the group by 
+any member.
+
+To make a formation, a leader must be selected.  All members of the
+formation must then FOLLOW the leader.
+
+The leader has formation commands REFORM and UNFORM to position players
+within the formation and to remove them.
+
+FREPORT will show stats on all formation members.
+
+FORMTEST will simulate a series of attacks and show you the results.
+
+FORM will show you each members position in the formation.
+
+See also: REFORM, UNFORM, FOLLOW, FREPORT, FORMTEST, FORM, SPLIT
+#
+REFORM
+
+Syntax: reform <player name> <position>
+
+REFORM allows you to position players around in your formation.  You must
+be the leader of the formation to use REFORM.
+
+The available positions within a form are:
+
+  fl  fc  fr      (front left/center/right)
+  cl  cc  cr      (center left/center/right)
+  bl  bc  br      (back left/center/right)
+
+For more help, type REFORM(enter/return)
+
+See also: FORMATION, UNFORM, FORMTEST, FORM
+#
+FREPORT
+
+This command shows various stats of all formation members in a quick
+readable format.
+
+See also: FORMATION
+#
+UNFORM
+
+Syntax: unform <player name>
+
+Will remove the player from your formation, even if they are not in the
+same room.  You must be the leader of the formation to use UNFORM.
+
+unform <your name>, will unform the whole formation at once.
+
+See also: FORMATION, REFORM, FORM
+#
+FORMTEST
+
+This is a command that tests your FORMATION.
+It fires 150 blanks at your formation and gives you a report of the results.
+The results show which formation position was hit, how many times, and the
+percentage of hits.
+
+See also: FORMATION, REFORM, FORM
+#
+SPLIT
+
+Syntax: split <amount>
+
+Equally divides the amount of gold among the group members who are
+currently in the room.
+
+See also: FORMATION
+#
+FORM
+
+Shows you the position of each member in the FORMATION.
+
+See also: FORMATION, REFORM, UNFORM
+#
+F
+TELL 
+
+These commands will tell something to your entire formation, no matter 
+where they are.  These commands will also work when you are sleeping.
+Shortcut: ;
+
+See also: FORMATION
+#
+ENROLLCLAN
+
+Syntax: enrollclan <player name>
+
+Clanleader only.
+
+Enrolls the player in your clan.  The player must be in the same room.
+
+** Enrolling a player against their wishes will get you purged and
+   your site banned.  No second chances!
+#
+REMOVECLAN
+
+Syntax: removeclan <player name>
+
+Clanleader only.
+
+Removes the player from your clan.
+#
+SHOWCLAN
+
+Syntax: showclan [clan number]
+
+Showclan without an argument lists all clans, their leadersname, clan number
+and the amount of CATACOMB eggs collected so far.
+
+With an argument, this command lists that clans leader and members.
+#
+CAMP CAMPING
+
+When your in the wilderness you can make a campsite by using the CAMP
+command.  This will create a safe area to QUIT in and make a nice cozy camp
+fire to boot.  The camp fire will be able to be seen from afar using the
+SURVEY command.  Anyone may make a campsite.  If one already exists you may
+use the CAMP command again which will redo the site and put more wood on the
+fire.  The campfire will crackle over time and its appearence will reflect
+the fire's current status.  Be VERY careful when QUITing as if you are not
+at a campsite and not at HOME you will lose everything you have.
+Starting a new campsite uses 90% of your moves and 1/2 your hits.  Redoing a
+site costs 1/2 your moves.
+Note: You may not be killed by other players while in your campsite.
+
+!!!REMEMBER!!! If you want your mount around when you camp and quit you MUST
+be mounted when you quit.
+
+#
+CLANTALK
+
+Allows you to tell all of your clan members a message. Note that clantalk 
+deteriorates over distance, such that if a clan member is too far away, 
+they will not hear your clantalk.
+# 
+CLANWHO
+
+Lists all players, currently logged on, who belong to a clan, and which clan.
+#
+CLANWHERE
+
+Clan member only.
+
+Shows where your clan members are, worldwide.
+#
+INVENTORY INV I
+
+Lists all the items that you are currently carrying.  Equipment being worn
+and items in containers are not show.
+Shortcut: I
+
+See also: EQUIPMENT
+#
+EQUIPMENT
+
+Lists all the equipment you are wearing and wear it is being worn.
+Shortcut: EQ
+
+See also: INVENTORY
+#
+COLOR
+
+The COLOR command toggles color on and off.  First you must have ANSI color
+as a terminal option (VT102 is a terminal option as an example) and have
+it turned on.
+#
+BRIEF
+
+Toggles "brief mode".  When in brief mode, you won't see room descriptions.
+Warning: Room descriptions often contain very important information.
+
+See also: COMPACT
+#
+COMPACT
+
+Toggles "compact mode".  When on, an extra newline will be used after output
+to you screen.
+
+See also: BRIEF
+#
+WHERE
+
+Syntax: where [player/mob]
+
+WHERE will give you the location of a player or mob, if they are currently
+in the zone.
+
+If a player's name is passed as an argument, then the room title will be 
+returned.
+If a mob's name is passed, then "Close By" will be returned.
+If no arguments are passed, then the names and locations of all the players
+in your zone will be returned.
+
+Note: This command will only search the zone that you are currently in.
+#
+SCORE
+
+Gives a detailed report on your character's statistics.
+Shortcut: SC
+
+See also: REPORT
+#
+WHO
+
+Lists the people currently in the game. 
+
+Examples:
+    who                    lists all players.
+    who 10-30              lists all players of levels 10 to 30.
+    who -n <player name>   will tell you if the player is online.
+    who 5+                 lists all players level 5 and up.
+    who 10-                lists all players 10 and under.
+    who -z                 lists all players in your zone.
+    who -m                 lists all male characters. 
+    who -f                 lists all females.
+#
+TIME
+
+Gives you a list of times including;
+   Current real time
+   Start time of the MUD
+   Current MUD time
+#
+MUDINFO
+
+Displays various info about the mud; how many rooms, zones, commands,
+socials, mobiles and their level breakdown.
+#
+ALIAS UNALIAS
+
+Syntax: alias
+        unalias <alias>
+
+ALIAS will allow you to make up to five of your own shortcut-commands. 
+
+UNALIAS will allow you to remove one of your five aliases.
+#
+LISTZONE LISTZONES ZONE ZONES
+
+Lists all zones giving; name, lifespan, number of rooms, and kills.
+
+Lifespan        - the number of ticks between zone repops.
+Number of rooms - number of rooms in the zone.
+Kills           - total number of mobs killed in that zone.
+#
+WEATHER
+
+Tells you the current weather and a hint as to if it's getting better or 
+worse.  Currently, weather only affects the damage done by the mages' 
+spells, "LIGHTNING BOLT" and FIREBALL.
+#
+TITLE
+
+Syntax: title <your new title>
+
+Allows you to change your character's title.
+#
+TAG TAGGED
+
+Just like the kids game.  Now go tag someone else.
+#
+CONSIDER
+
+Syntax: consider <monster>
+
+This command will compare your Level with the <monster> level and tell you
+your odds of victory.  This commands does not take into account: hit points,
+special attacks, or damage.
+#
+ASSIST 
+
+Syntax: assist <player name>
+
+Assisting a player will cause you to start fighting the same monster the 
+player is currently fighting.  
+#
+KILL HIT MURDER
+
+Syntax: kill <monster name>
+        murder <player name>
+#
+ORDER
+
+Syntax: order <name/followers> <command>
+
+You can only order mobs that are in your formation.  This is done by buying
+a pet or charming a mob.
+#
+!
+
+Repeats the last command typed at the keyboard.
+#
+SAY TELL WHISPER ASK TALK
+
+These are the most common ways of communicating with other players.
+
+The TELL command works only when your are in Medlink. (SEE MEDLINK LINK)
+
+Syntax: tell <player name> <message>
+
+Tells a message to another player. Using TELL costs you 10 movement 
+points.  If you currently have less than 10, you can not use the TELL 
+command.
+---
+Syntax: say <message>
+
+This is like talking aloud.  Everyone in the room will hear what you say.
+Shortcut: '
+---
+Syntax: talk <player name> <message>
+
+Very similar to SAY, but person specific.  Everyone in the room will hear
+what you say to that player.  The player you talk too, must also be in the
+room.
+---
+Syntax: whisper/ask <player name> <message>
+
+These commands are a combination of both TELL and SAY.  You may only 
+whisper to or ask a player who is in the room.  However, only that person 
+will hear what you said.  The other players in the room will see that you 
+whispered or asked something to that player, but they will not see the 
+message.
+
+See also: CLSAY, ASAY
+#
+PRAY
+
+Syntax: pray <message>
+
+All gods/heroes of level 31+, which are not AFK, will see your pray.  Use
+PRAY if you need help on a problem that lower mortals can not solve.
+
+** Use pray ONLY if you have a serious problem.
+#
+GOSSIP DISCUSSION QUEST SHOUT CHANNEL SETCOM SETCOMM CHANNELS
+
+Syntax:  setcomm status<enter>
+		 shows you the status of your channels (on/off).
+
+		 setcom gossip<enter>
+		 toggles gossip on and off.  You may also do this with
+		 shout, quest, discuss and the trivia channel.
+
+		 setcom<enter>
+		 will guide you through a series of prompts to assist
+		 you in turning your channels on or off.
+
+There are currently four channels in Medievia used for global communication.
+When you use a channel, everyone who has that channel on will see your
+message.  Likewise, you will only see messages on a channel if you have it 
+on.  Each channel has specific guidelines, which should be followed.
+
+Syntax: shout/gossip/discussion/quest <message>
+
+The Gossip command is usable only in Medlink.  
+
+Gossip is used for anything you wish everyone in Medlink to hear. Whether 
+it be a cryfor help or to tell everyone that you are looking for a group.  
+Due to themisuse of this channel, you may only gossip once every 
+five minutes.
+
+
+DISCUSSION is used for various topics, which are determined by the gods.
+
+QUEST is used for the discussion of any quests that are currently being run.
+
+** DISCUSSION and QUEST can only be used when a god has them activated.
+
+SHOUT Causes you character to scream something out, naturally the farther 
+away people are from the source of the shout the harder it will be from 
+them to hear it.  When you shout something, it does not indicate that you 
+are the shouter. Other players would see for example
+      
+         'Someone shouts, GO BACK THERE ARE BALROGS!'
+
+SETCOMM allows you to turn on/off each of the five channels.
+
+WARNING: Profanity is not allowed on ANY channel!
+#
+REPORT
+
+Gives a one-line description of your character's stats to everyone
+in the room, including your numerical AC and ALIGNMENT.
+Shortcut: REP
+
+See also: SCORE
+#
+TICK
+
+Syntax: tick [number]
+
+Informs the players within the room that you are waiting for 1 tick.  
+You may also specify an amount of ticks to wait for, such as TICK 5.
+#
+ROOM
+
+Syntax: room <message>
+
+The ROOM command is available to levels 15+.  It is like EMOTE, but does not
+put your name in front.  Every player in the room will see your message
+exactly how it was type.
+
+See also: EMOTE
+#
+AFK
+
+Syntax: afk [message]
+
+AFK toggles "away from keyboard mode".  When your afk is on, a player who 
+TELLs to you will be warned that you are away from your keyboard.  They 
+will also see any message you may have entered.
+#
+EMOTE
+
+Syntax: emote <message>
+
+EMOTE is used to create your own socials.  When you emote something, 
+everyone in the room will see your name followed by your message.
+
+See also: ROOM
+#
+SOCIAL SOCIALS
+
+Syntax: <social name> [player name]
+
+Socials are ways for players to interact with having to talk.  There are 
+currently over two hundred socials available in Medievia.  For a current
+list type 'socials'.
+
+See also: EMOTE, ROOM
+#
+INSULT
+
+Syntax: insult <player name>
+
+Will insult a player according to their sex and other characteristics.
+#
+ASAY
+
+Syntax: asay <message>
+
+Will say something to everyone in the room, which are of the same alignment.
+
+See also: SAY
+#
+CLSAY
+
+Will say something to everyone in the room, which are of the same class.
+#
+GET TAKE
+
+Syntax: get <object/all> [container]
+
+Example:
+    'get dagger' - move a dagger from the ground into you inventory.     
+    'get dagger bag' - move a dagger from a bag into your inventory.
+    'get all corpse' - move all items from the corpse into your inventory.
+
+See also: DROP, PUT
+#
+PUT DROP
+
+DROP will move an item from your inventory to the ground. 
+
+Example:
+    'drop dagger'
+    'drop all' will drop all the items in your inventory.
+    'drop all.potion' will drop all your potions to the ground.
+
+PUT will move items from your inventory to a container.
+
+Example:
+    'put dagger bag'
+    'put all.food bag' will move all your food into a bag.
+
+See also: GET, TAP
+#
+LOOK EXAMINE READ
+
+Syntax: look [object/direction]
+        look in <container>
+
+LOOK with no arguments will redisplay the room description and list the 
+people and objects in the room.
+Looking at an object will give you a physical description.
+Looking in a container will list its contents.
+
+Note: A corpse is a container.  Therefore, when you kill a mob, you must 
+      type 'look in corpse' to see what it was carrying.
+
+See Also: Look Around (type HELP LOOK AROUND)
+#
+WRITE
+
+To write a note on a paper, you must first have a piece of paper and 
+something to write with.  When these items are in your inventory, type
+'write paper quill'.  You will then get a text editor.
+
+Note: paper and feather quills can be bought at the Grocer in town.
+#
+QUAFF POTIONS POTION
+
+Syntax: quaff <potion name/potion>
+
+To use a magical potion, you must have the potion in your inventory.  Then
+you must quaff it.
+#
+RECITE SCROLLS SCROLL
+
+Syntax: recite <scroll> [target]
+
+To use a scroll, you must have the scroll in your inventory.  Target can be 
+an object, character or nothing (which may be yourself).
+#
+USE STAFF STAVES WAND WANDS ORB ORBS
+
+Syntax: use <staff>
+        use <wand> <target>
+
+Staffs usually produce an area affect, targeting everyone or everything in
+the room.
+Wands are target specific, affecting only a single object or person.
+
+Note: Before you can use a staff or wand, you first must be holding it. 
+      Many objects which can be used as a staff/wand, will not appear to 
+      be one, such as orbs.
+
+See also: HOLD
+#
+HOLD GRAB
+
+HOLD will move an item from your inventory to your worn equipment.  Many 
+objects must be held before they take effect or can be used, such as light
+sources and staffs/wands.
+
+See also: WEAR, WIELD, REMOVE, EQUIPMENT
+#
+WEAR
+
+Moves equipment from your inventory to your worn equipment.  Equipment, 
+such as armor, must be worn before if can take effect.  Typing 'wear all'
+will attempt to wear all your equipment, including light sources, held 
+objects and weapons.
+
+See also: REMOVE, EQUIPMENT, WIELD, HOLD
+#
+WIELD
+
+Moves a weapon from your inventory to your worn equipment.
+
+See also: REMOVE, EQUIPMENT, WEAR, HOLD
+#
+REMOVE
+
+REMOVE, will move an item from your worn equipment to your inventory.
+
+See also: EQUIPMENT, WEAR, HOLD, WIELD
+#
+POUR FILL
+
+Syntax: pour <from container> <to container>
+        fill <to container> <from container>
+
+Used to fill or empty liquid containers.
+
+Example:
+    'fill waterskin fountain'
+#
+OPEN CLOSE LOCK UNLOCK
+
+Syntax: open/close/lock/unlock <door name> [direction]
+
+Note: If there are two doors in a room, you need to supply a direction.
+#
+EAT DRINK SIP TASTE
+
+Syntax: eat <food>
+        drink     to drink from a local water source
+        drink fountain to drink from fountains
+        drink <container> to drink from a specific container
+#
+GIVE
+
+Syntax: give <object> <person>
+
+Note: To give coins to another player, use the following syntax.
+      give <amount> coins <player>
+#
+SACRIFICE SAC TAP JUNK
+
+Sacrificing an object will remove it from the game.  To sacrifice an object, 
+it must be on the ground.  When you TAP an object, you will receive a small
+percentage of the items value in gold coins.  If you TAP a corpse, you will
+receive XP based on your level.
+
+** Please TAP all unwanted objects or junk that you find on the ground, 
+   such as throwing weapons.  Multiple objects in a single room tend to
+   lag the MUD.  For convenience, all throwing weapons have the keyword
+   'throwing'.  Type 'tap throwing' to sacrifice it.
+#
+SPELLS SPELL
+
+                           Medievia Spell List
+                           ===================
+
+           Magic User                           Cleric
+
+
+Level  1 - Magic Missile                        Armor
+           Ventriloquate        [*]             Cure Light
+                                                Cause Light
+
+Level  2 - Detect Magic                         Create Water
+           Detect Invisible                     Detect Poison
+                                                Continual Light
+                                                Faerie Fire
+
+Level  3 - Chill Touch                          Create Food
+           Sleep Spell                          Detect Magic
+                                                Refresh
+
+Level  4 - Continual Light                      Cure Blind
+           Faerie Fire                          Detect Evil
+           Invisibility
+
+Level  5 - Burning Hands                        Bless
+           Refresh                              Detect Invisible
+                                                Know Alignment
+                                                Cure Serious
+                                                Cause Serious
+                                                Sense Death
+
+Level  6 - Locate Object                        Blindness
+           Fear                                 Protection from Evil
+           Infravision                          Animate Dead         [*]
+
+Level  7 - Shocking Grasp                       Tremor
+           Strength                             Sense Life
+           Levitate
+           Weaken
+
+Level  8 - Blindness                            Summon
+           Teleport                             Poison
+           Know Alignment
+
+Level  9 - Lightning Bolt                       Cure Critic
+           Conjure Elemental                    Remove Poison
+                                                Cause Critic
+                                                Infravision
+
+Level 10 - Control Weather                      Locate Object
+           Identify                             Dispel Evil
+           Faerie Fog                           Identify
+           Mass Levitation
+           Breathe Water
+
+Level 11 - Colour Spray                          Word of Recall
+           Dispel Magic
+           Shield Room
+
+Level 12 - Enchant Weapon                       Call Lightning
+           Curse                                Remove Curse
+           Sense Death                          Levitate
+                                                Breathe Water
+
+Level 13 - Energy Drain                         Control Weather
+           Shield                               Sanctuary
+           Chain Lightning                      Flamestrike
+
+Level 14 - Charm Person                         Heal
+                                                Faerie Fog
+
+Level 15 - Fireball                             Turn Undead          [*]
+           Mass Invisibility                    Hands of Wind
+                                                Mass Levitation
+
+Level 16 - Fireshield                           Dispel Magic
+           Frost Shards                         Transport
+
+Level 17 - Farsight                             Mass Invisibility
+           Map catacombs
+
+Level 18 - Stone Skin                           Drown                [*]
+                                                Harm
+
+Level 19 - Ethereal(disabled)                   Gate
+
+Level 20 - Acid Blast                           Sandstorm            [*]
+           Wizard Eye
+
+Level 21 - Plague
+
+Level 22 - Scribe                               Fireshield
+
+Level 23 -                                      Demonfire
+
+Level 25 - Shockwave                            Hammer of Faith
+
+Level 26 - Gate                                 Bloodbath
+
+Level 27 -                                      Resurrect
+
+Level 28 -                                      Map catacombs
+==========================================================================
+[*] = Disabled
+#
+ARMOR
+
+Usage       : cast armor <victim>
+Accumulative: No
+Duration    : 24 Hours
+Level       : Level 1 cleric
+Mana Usage  : 5  
+
+Modifies victim's AC by -30.
+
+See also: AC
+#
+"CURE LIGHT"
+
+Usage       : cast cure light <victim>
+Accumulative: -
+Duration    : Instantaneous
+Level       : Level 1 cleric
+Mana Usage  : 15
+
+This spell cures minor wounds.  The amount healed depends on the 
+caster's level.
+
+See also: CURE SERIOUS, CURE CRITIC, HEAL
+#
+"CAUSE LIGHT"
+Usage       : cast cause light <victim>
+Accumulative: -
+Duration    : Instantaneous
+Level       : Level 1 Cleric 
+Mana Usage  : 15
+
+This spell causes minor damage to the victim.  The amount is variable 
+but does not depend on the caster's level.
+
+See also: CAUSE SERIOUS, CAUSE CRITIC.
+#
+"WIZARD EYE"
+USAGE       : cast wizard eye
+Accumulative: -
+Duration    :
+Level       : Level 20 mage
+Mana Usage  : 200
+
+This spell enables the caster to enlarge the wilderness area that is 
+visible too them.  
+#
+"CREATE WATER"
+Usage       : cast create water <drink container>
+Accumulative: -
+Duration    : Instantaneous
+Level       : Level 2 cleric
+Mana Usage  : 5
+
+Expect disastrous results if cast upon a drink container which contains
+another liquid than water.  Empty or water containers will be filled
+depending on the level of the caster.
+
+Double amount of water will be created if it is raining.
+
+See also: CREATE FOOD
+#
+"DETECT POISON"
+Usage       : cast detect poison (victim | food | drink)
+Accumulative: -
+Duration    : Instantaneous
+Level       : Level 2 cleric
+Mana Usage  : 5
+
+Cast on food or drinks (drink containers) you will be able to sense if it 
+is poisoned.
+
+Cast on a person you will be able to see if that person is poisoned.
+
+See also: REMOVE POISON
+#
+"CONTINUAL LIGHT"
+Usage       : cast continual light
+Accumulative: -
+Duration    : Instantaneous
+Level       : Level 4 magic user, level 2 cleric
+Mana Usage  : 7 
+
+This spell creates a ball of light which can be held.
+#
+"FAERIE FIRE"
+Usage       : cast faerie fire <victim>
+Accumulative: No
+Duration    : 34 hours
+Level       : Level 4 magic user, level 2 cleric
+Mana Usage  : 6
+
+Modifies Armor of the victim by 10; making it worse.
+#
+"CREATE FOOD"
+Usage       : cast create food
+Accumulative: -
+Duration    : Instantaneous
+Level       : Level 3 cleric
+Mana Usage  : 5 
+
+This spell instantly creates an edible magic mushroom.  The mushroom
+will fill you for the next 5+level hours, up to a maximum of 24 hours.
+
+See also: CREATE WATER
+#
+"DETECT MAGIC"
+Usage       : cast detect magic
+Accumulative: No
+Duration    : 5 hours per level
+Level       : Level 2 magic user, level 3 cleric
+Mana Usage  : 5
+
+This spell will let you see the magical aura surrounding magical
+objects.
+#
+REFRESH
+Usage       : cast refresh <victim>
+Accumulative: -
+Duration    : Instantaneous
+Level       : Level 5 magic user, level 3 cleric
+Mana Usage  : 12
+
+Refreshes your movement points.
+#
+"CURE BLIND"
+Usage       : cast cure blind <victim>
+Accumulative: -
+Duration    : Instantaneous
+Level       : level 4 cleric
+Mana Usage  : 5
+
+This spell will cure a person blinded by the BLINDNESS spell.
+#
+"DETECT EVIL"
+Usage       : cast detect evil
+Accumulative: No
+Duration    : 5 hours per level
+Level       : Level 4 cleric
+Mana Usage  : 5
+
+Detect evil will enable you to see the red aura surrounding evil
+persons and items.
+#
+BLESS 
+Usage       : cast bless <victim or object>
+Accumulative: No
+Duration    : 6 Hours + Level, permanent for objects.
+Level       : Level 5 cleric
+Mana Usage  : 5 
+
+Bless on a victim will improve the victims saving throw versus spells
+by 1, and furthermore improve the hitroll by 5.
+
+Bless on an item currently has no defined action.  It is only possible
+to bless non-evil items, and the object blessed may weight no more
+than five pounds per level of caster. 
+#
+"DETECT INVISIBILITY"
+Usage       : cast detect invisibility [self]
+Accumulative: No
+Duration    : 5 hours per level
+Level       : Level 2 magic user, level 5 cleric
+Mana Usage  : 5
+
+This spell enables you to see invisible items and players.
+#
+"KNOW ALIGNMENT"
+Usage       : cast know alignment <victim>
+Accumulative: -
+Duration    : Instantaneous
+Level       : Level 8 magic user, level 5 cleric
+Mana Usage  : 9
+
+This spell gives the caster the knowledge of the target's alignment.
+#
+"CURE SERIOUS"
+Usage       : cast cure serious <victim>
+Accumulative: -
+Duration    : Instantaneous
+Level       : Level 5 cleric
+Mana Usage  : 17
+
+This spell heals more than CURE LIGHT.  The amount healed depends on 
+the caster's level.
+
+See also: CURE LIGHT, CURE CRITIC, HEAL
+#
+"CAUSE SERIOUS"
+Usage       : cast cause serious <victim>
+Accumulative: -
+Duration    : Instantaneous
+Level       : Level 5 cleric
+Mana Usage  : 17
+
+This spell causes more damage than CAUSE LIGHT WOUNDS.  The amount of 
+damage done varies somewhat but does not depend on the caster's level.
+
+See also: CAUSE LIGHT, CAUSE CRITIC
+#
+"SENSE DEATH"
+Usage       : cast sense death
+Accumulative: 
+Duration    : Instantaneous
+Level       : Level 12 magic user, level 5 cleric
+Mana Usage  : 7
+
+You focus and call upon death to tell you who died here recently and
+what or who killed him/her/it.
+#
+BLINDNESS
+Usage       : cast blindness <victim>
+Accumulative: No 
+Duration    : Level + 1 hours
+Level       : Level 8 magic user, level 6 cleric
+Mana Usage  : 5 
+
+Blindness will blind a victim failing its saving throw.
+A blinded person will have -4 penalty to hitroll and -40 to AC.
+
+See also: AC
+#
+"PROTECTION FROM EVIL"
+Usage       : cast protection from evil
+Accumulative: No
+Duration    : 24 hours
+Level       : Level 6 cleric
+Mana Usage  : 5
+
+This spell creates an invisible shield around the caster's body.  Attacks
+from evil creatures do half damage for the duration of the spell.  Only
+clerics of good alignment may cast this spell.
+
+See also: DETECT EVIL
+#
+TREMOR
+Usage       : cast tremor
+Accumulative: -
+Duration    : Instantaneous
+Level       : Level 7 cleric.
+Mana Usage  : 15
+
+This spell will damage all mobs in the room.  There is also a chance of the
+victims falling, if there is a down exit present.  This spell has no 
+effect on players.  Damage increases with the caster's level.
+#
+"SENSE LIFE"
+Usage       : cast sense life
+Accumulative: No
+Duration    : 5 hours per level
+Level       : Level 7 cleric
+Mana Usage  : 5
+
+This spell will enable you to sense hidden life forms in a room.
+Invisible persons are also considered hidden.
+
+See also: HIDE
+#
+SUMMON
+Usage       : cast summon <victim>
+Accumulative: -
+Duration    : Instantaneous
+Level       : Level 8 cleric
+Mana Usage  : 50 + 50 more if victim is mounted on a horse or another beast
+
+Will summon the person of the name spoken, if that person is in close 
+enough proximity to you. The higher level you are, the greater the 
+distance you may reach accross to summon someone. It is not possible to
+summon someone of more than three levels above yourself.
+You cannot summon people from a safe area, which includes all
+shops.
+
+Summon will also summon someones mount if they are mounted but it will cost
+50 more mana.
+
+The gods have been known to punish a cleric who abuses the power of
+summoning.
+#
+POISON
+Usage       : cast poison <victim | food | drink>
+Accumulative: Yes on persons.
+Duration    : 2 hours per Level, permanent on food and drinks.
+Level       : Level 8 cleric
+Mana Usage  : 10
+
+Casting poison on food or drink (containers) will poison it. Eating 
+poisoned food/drinks will poison the person eating or drinking.
+
+A person who is poisoned will suffer 2 points of damage every hour, and 
+gain less points per tick than usual.
+
+See also: DETECT POISON, REMOVE POISON
+#
+"CURE CRITIC"
+Usage       : cast cure critic <victim>
+Accumulative: -
+Duration    : Instantaneous
+Level       : Level 9 cleric
+Mana Usage  : 20
+
+This spell cures more than CURE SERIOUS.  The amount healed depends
+on the caster's level.
+
+See also: CURE LIGHT, CURE SERIOUS, HEAL
+#
+"REMOVE POISON"
+Usage       : cast remove poison <victim | food | drink> 
+Accumulative: -
+Duration    : Instantaneous
+Level       : Level 9 cleric
+Mana Usage  : 5
+
+Will remove poison player or food.
+
+See also: POISON
+#
+"CAUSE CRITICAL"
+Usage       : cast cause critical <victim>
+Accumulative: -
+Duration    : Instantaneous
+Level       : Level 9 cleric
+Mana Usage  : 20
+
+This spell causes more damage than CAUSE SERIOUS.  The amount of damage
+depends on the caster's level.
+
+See also: CAUSE LIGHT, CAUSE SERIOUS
+#
+INFRAVISION
+Usage       : cast infravision <victim>
+Accumulative: No
+Duration    : Level * 2
+Level       : Level 6 magic user, level 9 cleric
+Mana Usage  : 5
+
+This spell allows the victim to see in the dark, without a light source.
+The victim will see players, mobs, and exits, but not items.
+#
+"LOCATE OBJECT"
+Usage       : cast locate object <object>
+Accumulative: -
+Duration    : Instantaneous
+Level       : Level 6 magic user, level 10 cleric
+Mana Usage  : 20
+
+This spell will show the caster the location of the object or the name of
+the person who is carrying it.  If the object is being worn, then the caster
+will not see that person's name.  The maximum number of objects you can 
+simultaneously locate is your level divided by 2.
+#
+"DISPEL EVIL"
+Usage       : cast dispel evil <victim>
+Accumulative: -
+Duration    : Instantaneous
+Level       : Level 10 cleric.
+Mana Usage  : 15
+
+This spell will only affect evil creatures.  An evil person of level
+equal or less than the caster will suffer 100 damage points.
+
+If the victim is higher level than caster, they make a saving throw 
+versus spells for half damage.
+#
+IDENTIFY
+Usage       : cast identify [victim|object]]
+Accumulative: -
+Duration    : Instantaneous
+Level       : Level 10 magic user, level 10 cleric
+Mana Usage  : 12
+
+Will list player's or object's attributes and stats.  This spell can not 
+be used on mobs.
+#
+GATE
+Usage       : cast gate 
+Accumulative: -
+Duration    : Instantaneous
+Level       : Level 19 cleric, level 26 mage
+Mana Usage  : 150+
+
+Creates a gate out of the catacombs to Castle Medievia.
+#
+"WORD OF RECALL"
+Usage       : cast word of recall 
+Accumulative: -
+Duration    : Instantaneous
+Level       : Level 11 cleric
+Mana Usage  : 5 + 10 if your mounted
+
+The caster will be transported back to the town he or she last visited. 
+Note that if you are too far away from the last town you entered, the 
+spell will fail.  If you are mounted the mount will also be recalled but it 
+will cost you 10 more mana.
+# 
+"CALL LIGHTNING"
+Usage       : cast call lightning <victim>
+Accumulative: -
+Duration    : Instantaneous
+Level       : Level 12 cleric.
+Mana Usage  : 20
+
+This spell will use the "force of nature" to make lightning strike 
+the victim.  It is therefore only possible to call lightning
+outside when it is raining.  This spell is very powerful and will
+inflict damage dependent upon the casters level.  Victims are allowed
+a saving throw vs spells to reduce damage taken.
+
+See also: WEATHER
+#
+"REMOVE CURSE"
+Usage       : cast remove curse <person | object>
+Accumulative: -
+Duration    : Instantaneous
+Level       : Level 12 cleric
+Mana Usage  : 5
+
+Will remove a curse on carried objects or any person in the room.
+#
+LEVITATE LEVITATION
+Usage       : cast levitate <victim>
+Accumulative: No
+Duration    : Level + 3
+Level       : Level 7 magic user, level 12 cleric
+Mana Usage  : 10
+
+This spell gives the victim the ability to levitate up to a few feet 
+above the ground.  This is used to travel over water without the use of a 
+boat.  Please note this spell does not allow the recipient to fly like
+a bird.
+#
+"BREATHE WATER" BREATHE 
+Usage       : cast breathe water <person>
+Accumulative: Yes
+Duration    : 
+Level       : Level 10 magic user, level 12 cleric
+Mana Usage  : 10
+
+Allows you to breathe underwater.
+#
+"CONTROL WEATHER"
+Usage       : cast control weather <better/worse>
+Accumulative: -
+Duration    : Instantaneous
+Level       : Level 10 mage, level 13 cleric
+Mana Usage  : 25
+
+Will make the future weather better or worse.
+
+See also: WEATHER
+#
+SANCTUARY
+Usage       : cast sanctuary <victim>
+Accumulative: No
+Duration    : 3 hours
+Level       : Level 13 cleric
+Mana Usage  : 75
+
+All damage to you is reduced to half.
+#
+FLAMESTRIKE
+Usage       : cast flamestrike <victim>
+Accumulative: -
+Duration    : Instantaneous
+Level       : Level 13 cleric
+Mana Usage  : 20
+
+The caster calls forth a column of fire from the heavens to burn
+the hapless victim.  The damage done increases with the caster's
+level and a saving throw vs spells is allowed to reduce damage taken.
+#
+HEAL
+Usage       : cast heal <victim>
+Accumulative: No
+Duration    : Instantaneous
+Level       : Level 14 cleric
+Mana Usage  : 50 
+
+Heal will heal level*6 hit points if you are healing others.
+It will heal level*3 if you are healing yourself.
+
+See also: CURE LIGHT, CURE SERIOUS, CURE CRITIC
+#
+"FAERIE FOG"
+Usage       : cast faerie fog 
+Accumulative: -
+Duration    : Instantaneous
+Level       : Level 10 magic user, level 14 cleric
+Mana Usage  : 12
+
+Will make all players that are invisible in the room appear for an instant.
+#
+"TURN UNDEAD"
+Usage       : cast turn undead [victim]
+Accumulative: No
+Duration    : 5 hours per level
+Level       : Level 15 cleric
+Mana Usage  : 12
+
+THIS SPELL IS DISABLED!
+#
+HARM
+Usage       : cast harm <victim>
+Accumulative: -
+Duration    : Instantaneous
+Level       : Level 18 cleric.
+Mana Usage  : 30
+
+This spells drains the life energy of the victim.  Damage is
+dependant on the caster's level, but is not variable within that
+level of casting.  Victims that are higher level than the caster
+are allowed a saving throw to reduce the damage done by this spell.
+#
+"MASS LEVITATION"
+Usage       : cast mass levitation
+Accumulative: No
+Duration    : 
+Level       : Level 10 magic user, level 15 cleric
+Mana Usage  : 30
+
+Casts fly on everyone in room.
+
+See also: LEVITATE
+#
+"HANDS OF WIND"
+Usage       : cast hands of wind [victim]
+Accumulative: No
+Duration    : INSTANT
+Level       : Level 15 cleric
+Mana Usage  : 70 + 1/2 mv
+
+Creates a violent gust of wind which will unform the targets formation.
+#
+"DISPEL MAGIC"
+Usage       : cast dispel magic <victim>
+Accumulative: -
+Duration    : Instantaneous
+Level       : Level 11 magic user, level 16 cleric
+Mana Usage  : 15
+
+This spell will attempt remove all spell effects from the target.  A 
+victim within ten levels of the caster will make a saving throw versus 
+spells to avoid the affect.  A victim of ten levels higher than the
+caster is unaffected and one of ten levels lower will not get a save.
+#
+TRANSPORT
+Usage       : cast transport
+Accumulative: -
+Duration    : Instantaneous
+Level       : Level 16 cleric
+Mana Usage  : 50
+
+This spell recalls every person in the caster's formation, including 
+yourself, that are also in the room with you.
+
+See also: WORD OF RECALL
+#
+"MASS INVISIBILITY"
+Usage       : cast mass invisibility y
+Accumulative: No
+Duration    : 24 hours
+Level       : Level 15 magic user, level 17 cleric
+Mana Usage  : 20
+
+This spell casts invisibility on every person in the room, 
+except the caster.
+
+See also: INVISIBILITY
+#
+DROWN
+Usage       : cast drown [victim]
+Accumulative: No
+Duration    : NONE
+Level       : Level 18 cleric
+Mana Usage  : 15
+
+THIS SPELL IS DISABLED!
+#
+SANDSTORM
+Usage       : cast sandstorm 
+Accumulative: No
+Duration    : INSTANT
+Level       : Level 20 magic user, level 20 cleric
+Mana Usage  : 25
+
+THIS SPELL IS DISABLED!
+#
+FIRESHIELD
+Usage       : cast fireshield
+Accumulative: No
+Duration    : 4 hours
+Level       : Level 16 magic user, level 22 cleric
+Mana Usage  : 45
+
+When protected by a fireshield, all damage against you is taken full, but
+half of the damage is reflected back at the attacker.
+#
+DEMONFIRE
+Usage       : cast demonfire <victim>
+Accumulative: -
+Duration    : Instantaneous
+Level       : Level 23 cleric
+Mana Usage  : 27
+
+This is one of the evil cleric's most powerful weapons.  By praying
+to the gods of Evil, the caster may invoke a great erruption of flame.
+This fire explodes from the ground all around the victim and surrounds
+him/her.  The damage is determined by the caster's level and a saving 
+throw vs spells is given to reduce the damage taken.
+#
+"HAMMER OF FAITH"
+Usage       : cast hammer <victim>
+Accumulative: -
+Duration    : Instantaneous
+Level       : Level 25 cleric
+Mana Usage  : 31
+
+With this prayer, the cleric calls into being a ghostly warhammer which
+lasts for one strike.  This magical weapon causes an enormous amount of
+damage.  The power of the weapon's strike is dependent on the caster's
+faith as compared to the victim's.  A saving throw vs spells is allowed
+to the victim for reduced damage.
+#
+"MAP CATACOMBS"
+Usage       : cast map catacombs
+Accumulative: No
+Duration    : Twice your level in hours
+Level       : Level 17 magic user, level 28 cleric
+Mana Usage  : 50
+
+This spell is CRUCIAL if you want to wander into the catacombs.  When you 
+cast the spell a purple aura anchors to your body.  As you walk around 
+inside the catacombs small pieces of the purple energy releases from your 
+aura and stay in the room, taking the shape of your name and how many 
+times you have been in the room.  Everyone will see this in the rooms but 
+only those with this spell on them will leave the text.  It is sort of like 
+dropping peanuts in rooms as you walk around and counting them.  
+#
+"MAGIC MISSILE"
+Usage       : cast magic missile <victim>
+Accumulative: -
+Duration    : Instantaneous
+Level       : Level 1 magic user.
+Mana Usage  : 5
+
+The least powerful magic user spell at low levels.  When casting this
+spell, the mage creates a bolt of magical energy which strikes the
+victim, never missing.  Damage is determined by the caster's level.
+No saving throw is allowed.
+#
+VENTRILOQUATE
+Usage       : cast ventriloquate <victim | object> <text>
+Accumulative: -
+Duration    : Instantaneous
+Level       : Level 1 magic user
+Mana Usage  : 5
+
+THIS SPELL IS DISABLED!
+#
+"CHILL TOUCH"
+Usage       : cast chill touch <victim>
+Accumulative: -
+Duration    : Instantaneous
+Level       : Level 3 magic user.
+Mana Usage  : 15
+
+This spell is more powerful than the magic missile spell, at low levels.
+A victim failing its saving throw will get its strength reduced.
+Spell damage increases slightly with the caster's level.
+#
+INVISIBILITY
+Usage       : cast invisibility <victim | object>
+Accumulative: No
+Duration    : 24 hours, permanent on objects.
+Level       : Level 4 magic user
+Mana Usage  : 5
+
+Attacking while invisible will immediately break the spell.
+
+See also: DETECT INVISIBILITY
+#
+"BURNING HANDS"
+Usage       : cast burning hands <victim>
+Accumulative: -
+Duration    : Instantaneous
+Level       : Level 5 magic user.
+Mana Usage  : 15
+
+This spell is more powerful than the chill touch spell.  Damage increases
+slightly with the caster's level.  Victims are allowed a saveing throw
+vs spells to take reduced damage.
+#
+FEAR
+Usage       : cast fear <victim>
+Accumulative: -
+Duration    : Instantaneous
+Level       : Level 6 magic user
+Mana Usage  : 7 
+
+This spell causes fear in the hearts of the brave.  Works best
+when you need a break from fighting a particularly tough mob.
+#
+"SHOCKING GRASP"
+Usage       : cast shocking grasp <victim>
+Accumulative: -
+Duration    : Instantaneous
+Level       : Level 7 magic user.
+Mana Usage  : 15
+
+This spell is more powerful than the burning hands spell.  Damage 
+increases slightly with the caster's level.  A saving throw vs spells
+is allowed to reduce the damage recieved.
+#
+STRENGTH
+Usage       : cast strength [self]
+Accumulative: Yes
+Duration    : Level hours
+Level       : Level 7 magic user
+Mana Usage  : 20
+
+A person will gain 1 strength point per spell (2 points if level of
+caster is greater than 18, 3 points if level of caster is greater than
+25). Maximum strength is 18.
+#
+WEAKEN
+Usage       : cast weaken <victim>
+Accumulative: -
+Duration    : Half of Level of caster
+Level       : Level 7 magic user
+Mana Usage  : 20
+
+This spell causes the victim's strength to decrease.  The more powerful 
+the caster, the weaker the victim will become.
+#
+TELEPORT
+
+Usage       : cast teleport [self]
+Accumulative: - 
+Duration    : Instantaneous
+Level       : Level 8 magic user
+Mana Usage  : 35  
+
+Teleport will instantly transfer you to another location in the world. 
+This location is random.
+#
+"LIGHTNING BOLT"
+Usage       : cast lightning bolt <victim>
+Accumulative: -
+Duration    : Instantaneous
+Level       : Level 9 magic user.
+Mana Usage  : 15
+
+This spell is more powerful than the shocking grasp spell.  Damage increases
+with the caster's level and a saving throw vs spells is allowed to reduce
+the damage recieved.  In rare occassions, the target may dodge the bolt
+completely, taking no damage.
+
+Note: If it is raining, this is the most damaging spell.
+#
+"CONJURE ELEMENTAL"
+Usage       : cast conjure elemental
+Accumulative: No
+Duration    : 48
+Level       : Level 9 magic user
+Mana Usage  : 33
+
+Conjures up a Elemental demon.  You must sacrifice a stone to do so.
+Clear stone     -       Air Elemental
+Deep Red stone  -       Fire Elemental
+Dull Grey stone -       Earth Elemental
+Pale Blue stone -       Water Elemental
+
+Hold the stone and cast the spell.  The elemental's power will be based 
+on the level of the caster.  He will be following you if successful, or 
+he may attack.
+#
+"COLOUR SPRAY" "COLOR SPRAY"
+Usage       : cast colour spray <victim>
+Accumulative: -
+Duration    : Instantaneous
+Level       : Level 11 magic user.
+Mana Usage  : 15
+
+This spell does approximately the same damage as the lightning bolt spell.
+Damage increases with the caster's level.  Victims failing a save vs spells
+will be blinded, reducing their chance to hit.  Victims are not allowed a
+save to reduce the damage taken.
+#
+"SHIELD ROOM"
+Usage       : cast shield room
+Accumulative: No
+Duration    : Level/2 hours
+Level       : Level 11 magic user
+Mana Usage  : 75
+
+When cast, you envelope the room in a shimmering shield that will not 
+allow a monster to walk into the room.
+#
+"ENCHANT WEAPON"
+Usage       : cast enchant weapon <weapon>
+Accumulative: No
+Duration    : Permanent
+Level       : Level 12 magic user
+Mana Usage  : 100
+
+This spell will enchant non-magical weapons only.  A weapon with out any
+applies is considered non-magical.  To determine if a weapon is suitable 
+for enchantment, IDENTIFY it.
+
+The enchantment will modify the weapon as:
+
+Level    Hit Roll    Damage
+
+ 0..17     +1         +1
+18..19     +2         +1
+20..24     +3         +2
+25..29     +4         +3
+30..31     +5         +4
+#
+CURSE
+Usage       : cast curse (victim | object)
+Accumulative: No
+Duration    : 5 hours per Level, permanent on objects.
+Level       : Level 12 magic user
+Mana Usage  : 20
+
+Cast on a person that fails the saving throw, this spell will reduce
+their hitroll by five, and reduce the saving throw versus spells by
+two.  An object that is cursed can not be dropped and may also be
+damaged by the spell.
+#
+"ENERGY DRAIN"
+Usage       : cast energy drain <victim>
+Accumulative: -
+Duration    : Instantaneous
+Level       : Level 13 magic user.
+Mana Usage  : 22
+
+When this spell is cast, the magic user attempts to draw the victims
+life energy out of his/her body and into the mage's own.  When successful,
+this results in a loss of mana and movement for the victim, and an equal
+gain for the mage.  The victim is allowed a saving throw to avoid the
+effect.
+Note that casting this spell is an evil act.
+#
+SHIELD
+Usage       : cast shield
+Accumulative: -
+Duration    : Level of caster + 8
+Level       : Level 13 magic user
+Mana Usage  : 20
+
+Modifies caster's AC by -20.
+#
+"CHAIN LIGHTNING"
+Usage       : cast chain lightning
+Accumulative: No
+Duration    : None
+Level       : Level 13 magic user
+Mana Usage  : 22
+
+This is a potentially critical spell.  When used the caster sends a
+lightning bolt at the first mobile in the room (same as lighting bolt).  
+The bolt then "jumps" from that mobile to another, and so on; hitting 
+all mobiles in the room with a lightning bolt.  If the mob is killed by 
+the bolt, the chain is broken and the energy dispersed.
+The bolt loses some power with each "jump" it makes.  
+#
+"SLEEP SPELL"
+Usage       : cast sleep <victim>
+Accumulative: No
+Duration    : until wears off, attacked or awakened.
+Level       : Level 3 magic user
+Mana Usage  : 15
+
+Puts the person or mobile to sleep if they fail their save vs spells.
+This spell will not work on any victim higher level than the caster or
+higher than level 20.
+#
+"CHARM PERSON"
+Usage       : cast charm person <victim>
+Accumulative: No
+Duration    : (432/Intelligence points of person) hours
+Level       : Level 14 magic user
+Mana Usage  : 5
+
+A charmed person will follow you, and will not attack you.  A charmed 
+person can be given orders.  It is not possible to charm anyone that is 
+already charmed, if you're charmed yourself, or if the person is higher 
+level than yourself.  The person will get a saving throw versus 
+paralysation to avoid the affect.
+
+See also: FOLLOW, ORDER
+#
+FARSIGHT
+Usage       : cast farsight direction
+Accumulative: -
+Duration    : Instantaneous
+Level       : Level 17 magic user.
+Mana Usage  : 15
+
+Sorta allows you to see in all rooms heading off in the direction...
+Powerful also in that you also see all exits in them rooms..
+Great for Catacombs.
+#
+ETHEREAL   ********* DISABLED ********
+Usage       : cast ethereal direction
+Accumulative: -
+Duration    : Instantaneous
+Level       : Level 19 magic user.
+Mana Usage  : 20
+
+Allows a mage to become a spirit and pass right through locked doors and
+the such.
+#
+SHOCKWAVE
+Usage       : cast shockwave VICTIM
+Accumulative: -
+Duration    : Instantaneous
+Level       : Level 25 magic user.
+Mana Usage  : 23
+
+THE MOST POWERFUL offensive spell in the game.... You focus and send
+a huge shockwave into the victim, pounding the victim and causing
+massive damage.  This spell is even more effective underwater.
+A save vs spells is allowed to reduce the damage taken.
+#
+SCRIBE
+Usage       : cast scribe SCROLLTYPE
+Accumulative: -
+Duration    : Instantaneous
+Level       : Level 22 magic user.
+Mana Usage  : 50
+
+If there is a LOT of blood in the room and you are HOLDING some sorta
+paper or note.... You can focus and draw upon the blood to scribe a new
+scroll....
+Scrolls possible so far are:
+identify
+detect magic
+detect invisibility
+invisibility
+faerie fire
+refresh
+infravision
+fly
+mass levitation
+breathe water
+mass invisibility
+enchant weapon
+EXAMPLE: cast scribe identify
+#
+BLOODBATH
+Usage       : cast bloodbath
+Accumulative: -
+Duration    : Instantaneous
+Level       : Level 26 Cleric
+Mana Usage  : 50
+
+If there is so much blood in the room that it says there has been a 
+bloodbath (10 kills) then a cleric can draw upon the blood and cast
+a MASSIVE heal in the room.  ALL PLAYERS in the room will be FULLY Healed!
+#
+RESURRECT
+Usage       : cast resurrect victim
+Accumulative: -
+Duration    : Instantaneous
+Level       : Level 27 Cleric
+Mana Usage  : 150
+
+Allows you to resurrect a corpse (PLAYER) that the necromancer has not yet
+taken away.
+ALL IN FORMATION and IN ROOM must have enough hits to GIVE to the corpse..
+In other words your formation offers their strength for the spell.  The 
+amount of hits taken IS proportioned to amount of hits you have so if someone
+in the formation has a ton of hits they donate the most.
+Gods have been rumored to viciously punish those mortals who abuse the
+powers of resurrection.
+#
+FIREBALL
+Usage       : cast fireball <victim>
+Accumulative: -
+Duration    : Instantaneous
+Level       : Level 15 magic user.
+Mana Usage  : 18
+
+This spell is more powerful than lightning bolt.  The spells damage
+increases with the caster's level and a saving throw vs spells is allowed
+to reduce the damage taken. WARNING!  If this spell is cast indoors,
+you stand a good chance of ROASTING YOUR PARTY MEMBERS!
+
+Note: if it is raining, this spell is greatly weakened.
+#
+"FROST SHARDS" "FROST SHARD"
+Usage       : cast frost shards <victim>
+Accumulative: -
+Duration    : Instantaneous
+Level       : Level 16 magic user.
+Mana Usage  : 16
+
+With this incantation, the mage draws energy into his body and redirects
+it out through his hands in the form of shards of ice.  A short burst of
+these stone-hard crystals are projected at the victim, who is allowed a
+saving throw vs spells to avoid some of the shards, taking less damage. 
+#
+"STONE SKIN"
+Usage       : cast stone skin
+Accumulative: -
+Duration    : Level of caster
+Level       : Level 18 magic user
+Mana Usage  : 12
+
+Modifies caster's AC by -70.
+#
+"ACID BLAST"
+Usage       : cast acid blast [victim]
+Accumulative: -
+Duration    : Instantaneous
+Level       : Level 20 magic user
+Mana Usage  : 16
+
+With this spell, the caster sends a stream of acid at every creature
+in the room.  The first stream is the most powerful, and each stream
+thereafter is weakened.  The damage done increases with the caster's
+level and a saving throw vs spells is allowed to reduce the damage
+taken.
+#
+PLAGUE
+Usage       : cast plague <victim>
+Accumulative: No
+Duration    : Hours * your level/5 for the strength part
+Level       : Level 21 magic user
+Mana Usage  : 25
+
+Can inflict massive amounts of damage, up to 30% depending on level.
+Also drains the victims strength by 5 for a while.
+#
+WARRIOR FIGHTER
+
+A Warrior's main duty is to protect the other group members.  Because of 
+their high hit points, they will usually be placed in the front line of
+a FORMATION where they will be subjected to most of the damage.
+A Warrior will gain more hit points per level than other classes.  However
+their MANA will remain at 100. A Warrior begins the game with a STRength
+of 16.
+A warrior is profiecent in nearly every type of weapon.  However, there
+are some weapons which have powerful enchantments, placed there by powerful
+magic, that prevent a warrior from using them.
+
+SKILLS:
+    KICK
+    BASH
+    PARRY
+    RESCUE
+    CHARGE
+    DISARM
+    SECONDATTACK
+    THIRDATTACK
+    MEDITATE
+
+See also: PRACTICE, TRAIN
+#
+THIEF
+
+Thieves have many skills which could greatly help a group or completely 
+destroy an opposing group.  Thieves are very good as soloing adventurers.
+When in a FORMATION, a thief's job is to loot corpses and to warn the party
+of nearby enemies.
+A Thief will gain more hit points per level than a MAGE, but not as much 
+as a WARRIOR.  Thieves also gain MANA per level.  A Thief begins the game 
+with a DEXterity of 16.
+
+SKILLS:
+    PICK
+    SNEAK
+    HIDE
+    BACKSTAB
+    THROW
+    DISARM
+    SCAN
+    STEAL
+    DUAL
+    TRIP
+    TRACK
+    TRAP
+    DODGE       
+    MEDITATE
+
+See also: PRACTICE, TRAIN
+#
+CLERIC
+
+A Cleric is very valued member of any FORMATION.  They will usually be kept
+protected, so they can concentrate on healing the injured members. 
+Clerics have the ability to CAST spells and have about the same hit points
+as a THIEF. A Cleric begins the game with a WISdom of 16. 
+Due to the religious training of a Cleric's Deity, they are not permitted
+to use edged weapons.
+
+See also: PRACTICE, TRAIN, CAST, SPELLS
+#
+MAGE "MAGIC USER" WIZARD
+
+Mages have the ability to cast SPELLS at the expense of low hit points.  
+They are normally placed in the back of a FORMATION where they can attack 
+with offensive spells, without being harmed.
+A Mage begins the game with an INTelligence of 16
+Because of a Mage's sole devotion to the Art, they only learn to use
+daggers and staves in combat.
+
+See also: PRACTICE, TRAIN, CAST, SPELLS
+#
+CAST
+
+Mage and Cleric only.
+
+Syntax: cast <spell name> [target]
+Shortcut: c
+
+Note: When casting a spell, the spells name can be abbreviate.  You need 
+      only supply enough of the name for the parser to distinguish it 
+      from other spells.
+
+Example:
+    'cast word of recall' and 'c w' are equivalent.
+
+See also: SPELLS
+#
+SNEAK
+
+When a player is sneaking, entering and exiting a room will not be show to
+other players.  Aggressive mobs also have a chance of not noticing a 
+sneaking player.  Just type SNEAK to attempt to start sneaking. Typing SNEAK 
+when you are already sneaking will turn it off.
+It is easier to backstab something if you sneak up on it.
+
+See also : HIDE
+#
+HIDE
+
+Thief only.
+
+When you type hide there is a chance that you hide in the room.  If hidden
+you can only be "sensed" by the "sense life" spell affecting a mob/player.
+Even if sensed your identity will remain hidden, unless a faerie fog spell
+is cast in the room.  Hide is broken by pressing return, regardless of
+whether you typed a command or not.
+#
+PICK 
+
+Thief only.
+
+Most locks can be picked without the need for finding a key.
+
+See also : UNLOCK
+#
+THROW
+
+Thief only.
+
+Syntax: throw <target>
+
+Throwing requires a throwable weapon to be in your inventory, and also
+a hand free (which means you can't HOLD something while throwing.  The 
+throw will inflict damage based upon weapon stats, level, dexterity and 
+strength.  A successful hit will inflict considerable damage.  The thrown
+weapon will be moved to the targets inventory it hit, or to the floor if 
+you missed.  
+Wait State: hit = 1 round; miss = 2 rounds
+#
+TRIP
+
+Thief only.
+
+A successful trip will cause your victim to fall to the ground.  A fallen 
+victim is stunned for 1 round.
+Wait State: hit = 2 rounds; miss = 1 round
+#
+DODGE
+
+Thief only.
+
+If you succeed, you would have skillfully dodged your opponent's attack.
+This skill is automatically used during combat.
+#
+BACKSTAB BS
+
+Thief only.
+
+In order to backstab, it must be used to initiate combat.  A successful
+backstab will inflict an enormous amount of damage.  You can always 
+backstab sleeping people.
+Sneaking will increase your chance to successfully backstab.
+
+Wait State: hit/miss = 3 rounds
+#
+SCAN
+
+Thief only.
+
+This skill allows thieves to scan all adjoining areas and list the
+people and mobiles around.  Also states whether there is an exit that
+is currently closed.
+
+See Also: SECRET DOOR
+#
+DUAL
+
+Thief only.
+
+This skill allows a thief to get a maximum of two attacks per round of
+combat. This skill is equivalent to the Warriors' skill, SECONDATTACK.
+
+See also:  SECONDATTACK, THIRDATTACK
+#
+STEAL
+
+Thief only.
+
+You can steal gold or items from a mob's inventory.  However, most mobs
+will attack if you fail.
+#
+TRAP TRAPS
+
+Thief only.
+
+Traps can be bought at the SHOPS in town.  You can not put a trap in a 
+container.  When setting the trap, there is a 8% chance you will break it. 
+
+Once Set:
+     A trap will last about 4 minutes in the room, whether you are there
+or not.  If a mob walks into the room it has about a 85% chance of stepping
+into the trap.  If nothing happens in about 4 minutes the trap will misfire.
+At that time, there is a 10% chance of trap breaking.  
+
+Once a Mob is Trapped:
+     A trapped mob can not move or use special attacks during combat.  It
+also can not be in a formation or initiate combat.  The mob will remain
+trapped for about 10 minutes, after which it will struggle free.
+#
+DISARM
+
+Thief and Warrior only.
+
+Disarming a player or mob, removes their weapon from their hands and places
+it in their inventory.  
+A disarm makes you unable to type commands for 3 rounds of violence for
+a success, 2 rounds of violence without.
+
+A character without a weapon will be unable to BASH or PARRY.
+#
+MEDITATE
+
+Thief and Warrior only
+
+Meditating allows a player to regain hit points at a faster rate at the
+expense of movement points.  You must be resting and alone in the room
+to concentrate.
+#
+PARRY
+
+Warrior only.
+
+If you succeed, you will have parried your opponent's attack.  This skill 
+will automatically be used during combat.  You must have a weapon wielded 
+to be able to parry.
+#
+SECONDATTACK THIRDATTACK MULTIATTACK
+
+Warrior only.
+
+These skills enable a Warrior to get a maximum of two and three attacks 
+per round of combat.  SECONDATTACK is equivalent to the Thieves' skill,
+DUAL.
+
+See also:  DUAL
+#
+KICK
+
+Warrior only.
+
+A successful kick inflicts damage based on level, strength, dexterity and 
+damroll.
+Wait State: hit = 3 rounds, miss = 1 round
+#
+CHARGE
+
+Warrior only.
+
+Charge allows a Warrior to attack all mobs in the room, attempting to 
+knock them over.  All damage done to a mob that is not standing is
+increased by 50 percent.  You will be lagged for a few rounds after a
+charge attempt.  Charge damage takes into account level, strength, 
+dexterity and damroll.  You must stand back up after you charge.
+#
+BASH
+
+Warrior only.
+
+The victim of a bash will be stunned for one round.  Bash damage is based
+on level and strength.  
+Wait State: hit/miss = 2 rounds
+
+You must have a weapon wielded to be able to bash.
+#
+RESCUE
+
+Warrior only.
+
+A rescue is an attempt to make a monster hit you instead of the person being
+rescued.  You can only 'turn' one monster for each attempt.  This is only
+effective when not in a formation.
+#
+CREDITS
+
+Shows you the game credits.
+#
+ATM BANK
+
+Syntax: balance
+        deposit <amount>
+        withdraw <amount>
+
+ATM machines are located at the banks in most major cities.  There is no
+limit to the amount of money you can have in your account.  However, there
+is a 3.6% transaction fee whenever you deposit. 
+
+Members of a clan can use the following commands to manipulate their clan's
+bank account.
+
+Syntax: balance clan
+        deposit clan <amount>
+        withdraw clan <amount>
+
+Clan bank accounts are completely seperate from a players own account.
+Any member of a clan may withdraw and deposit money into his or her own
+clan's account.  The same 3.6% transaction fee applies.
+#
+USTOREIT LOCKER LOCKERS
+
+Syntax: open/close
+        rentlocker
+        get <item/all>
+        put <item>
+
+Lockers allow you to store up to 50 items before you rent out of the game.
+Storing items in a locker saves you from paying the rent on these items.
+However, you must pay a fee of 150,000 coins for each month you have a 
+locker.  This fee must be paid in advance. 
+
+** If the month runs out and you have not paid for the next month, all 
+   items in the locker will be lost.
+#
+GUILD
+
+The Guildhouse is the place where a player must go to practice his skills
+or learn spells.  
+
+See also: PRACTICE
+#
+AC "ARMOR CLASS"
+
+Armor Class (AC) is a rating of how much armor your character is wearing.
+This number ranges from 100 to -100, with 100 being the worst and -100 being
+the best.  The lower your AC, the harder it is for others to hit you with
+a hand-to-hand attack.  What this means is that AC has no bearing on spell
+casting.  While it is possible to get your AC lower than -100, this has
+no bearing on the game in anyway.
+
+The armor class scale is:
+
+  100 Naked person
+    0 Heavily armored
+ -100 Divine armor
+
+You do not see your AC rating as a number on your SCORE until level 15.
+From levels 1 to 14, a phrase is given to hint at your general AC.
+
+See Also: THAC0
+#
+THAC0 THACO
+
+THAC0 means To Hit Armor Class Zero (0).  Every character and creature
+has a thac0.  It is a number between 200 and -100.  The lower your thac0,
+the better.  Meaning, it is easier to hit your target.  When you attempt
+a target with a weapon or bare-handed, the game picks a number between
+1 and 200.  A roll of 1 means you automatically miss, while a roll of 200
+means you automatically hit.  Any number inbetween, is compared to your
+thac0 to determine a hit or miss.  If the number rolled is lower than your
+thac0, you miss.
+How your thac0 is calculated:
+   Every character starts with a base thac0, determined by class and level.
+Warriors have the best base thac0, then thieves, followed by clerics and
+finally mages.  Simply but, warriors make the best fighters and mages the
+worst.  Assume you're a new character and your base thac0 is 200.  From
+this number you subtract your HITROLL, an additional bonus may be subtracted
+if your character has a high enough strength score.  After all of this,
+assume your thac0 is now 180.  From this number you subtract your targets
+Armor Class.  Suppose you're fighting a janitor with an AC of 90, your
+thac0 to hit this particular mob would be 90 (180 - 90).  Now the game is
+ready to pick its random number between 1 and 200.  Any number over 90 will
+score a hit.
+
+See Also: AC, HITROLL
+#
+HITROLL
+
+Hitroll is a bonus added to your THAC0 which increases your chance of
+hitting a target in hand-to-hand combat or when fighting with a weapon.
+
+Your Hitroll does not show up on your SCORE until you reach level 15.
+
+See Also: THAC0
+#
+DAMROLL
+
+Damroll is a bonus added to your damage in hand-to-hand combat or when
+fighting with a weapon.  Every weapon has a "damage dice" which is
+represented by 2 numbers in the form x d y.  The number x is the AMOUNT
+of dice rolled and the number y is the number of sides on the dice rolled.
+i.e. a weapon that does 4d5 would mean the game rolls 4 dice, each with
+5 sides, to determine the damage done by a single hit by this weapon.
+When doing damage to a target with a weapon, you also add in a bonus
+known as DAMROLL.  Each class' damroll is added in differently, reflecting
+their abilities in the fighting arts.  If a warrior has a damroll of 20,
+he would add in the roll 20 extra points of damage for each hit he lands.
+A thief would add in a random number between 10 and 20 (half damroll to
+full damroll).  Mages and clerics would add in a number between 1 and 20
+(1 to full damroll).  Refering again to the 4d5 weapon above, your total
+damage would be 4d5+20.
+
+See Also: HITROLL
+#
+ATTRIBUTE ATTRIBUTES ABILITY ABILITIES STR INT WIS DEX CON
+
+Your character has five attributes:
+    strength
+    intelligence
+    wisdom
+    dexterity
+    constitution
+
+Your attribute scores can go as high as 18. Each attribute effects your 
+character in a different way.  Higher scores give your character the 
+following advantages.
+
+Strength     - increases the total weight you can carry
+             - wield a heavier weapon
+             - increase damage done by warrior/thief skills
+             - increase hitroll and damroll
+
+Intelligence - learn skills and spells faster (use less practices)
+             - lose concentration less when casting spells
+
+Wisdom       - gain more practices per level
+             - gain more mana per level
+             - aids clerics in spellcasting (as appossed to intelligence)
+
+Dexterity    - increase damage done by warrior/thief skills
+             - lessen chance of falling when bashed
+             - lowers armor class
+             - increased effectiveness of thief skills
+
+Constitution - gain more hit points per level
+             - gain more hit points per tick
+
+See also: PRACTICE, TRAIN
+#
+PROMPT PROMPTS FLAG FLAGS
+
+Your prompt will look something like this:
+
+		<22hp 100m 90mv 100br>
+
+This first number [22hp] represents the number of 'Hit Points' that you
+have.  When you get hit by a monster, you will lose a certain number of 
+hit points, when this value goes to 0, you will die.  There are three ways 
+to regain hit points,  sleep, quaff potions, or find a kind Cleric who will 
+heal you.
+
+The second number [100m] represents the number of 'MANA' points that you
+have. MANA is the magical energy of Medievia, whenever you cast spells
+(if your a Cleric or Mage) you will use a certain amount of MANA energy.
+The only way to replace MANA energy is to sleep.
+
+The third number '90mv' represents 'Movement points'.  When this number
+reaches [0] you will become exausted and no longer be able to move
+around.  There are two ways to regain Movement Points.  The first is to
+sleep, and the second is use magical spells
+
+The last number '100 br' represents 'Breath points'.  Breath is different 
+from movement in that it indicates how much air you are getting in 
+proportion to how fast your moving.  The faster you move, the more oxygen 
+you require, at some critical point your muscles will be consuming more 
+oxygen that you are able to take in.  If this happens your breath will 
+reach 0, and you will have to slow down. Note that breath regenerates 
+much faster than movement.
+
+Note that if you are mounted your prompt changes to reflect your mounts 
+movement, and your mounts breath:
+         
+           eg.  <362hp 242m 500MountMV 100MountBR>
+
+Your prompt can have differnt flags 
+shown as well.  These flags are documented as follows:
+
+[SOCIAL] - You have not been fighting for fifteen minutes.  The code
+           assumes you are socializing and will not display the
+           hungry/thirsty messages each tick.
+
+[MAIL] - You have mail waiting for you at the post office.
+
+[TAGGED] - You are it.
+
+<[70%]Vryce> - When you are in a formation, you will see a prompt similar
+               to this.  This shows you which member of the formation has
+               the lowest hit points and a percent of their total they
+               currently have.
+#
+MULTICLASS
+
+When you reach level 31, you may continue on to another class.  By doing
+so, you retain all your skills and attribute scores from your previous 
+class, and enter the world again as Level 1 of your new class.  Your hit 
+points, mana, and movement are all reset.
+
+See Also: MULTICLASS_FAQ
+#
+EXPERIENCE XP
+
+Whenever you inflict damage on a monster, you earn experience points.
+You will also receive experience points when you kill a mob.  
+
+Experience cap - This is the highest amout of XP you can earn by killing
+                 any one mob.  Your cap will increase as you become higher
+                 level and when you are in a formation.
+
+You lose XP when you flee from combat and when you are player killed in a 
+chaotic area.
+#
+INFO
+
+Gives you some useful hints and information about the game.
+#
+STORY
+
+Shows you the story behind MEDIEVIA.
+#
+NEWS
+
+Shows you what is new concerning the MUD. Your prompt may show NEWS if there
+is new news you have not read yet.  If new news is made you see it instantly
+with no mud restart needed.  If you are a god and want to post new news you
+made type new news.
+
+You can read old news issues by typing news followed by the issue number.
+The first issue of this news system is issue 1
+#
+LEVELS LEVEL
+
+Lists the levels of your class and the XP needed to attain each. 
+#
+WIZLIST
+
+Shows you the current Gods & Immortals in the game.
+#
+IMPLEMENTOR IMMORTAL GOD GODS IMP
+
+The Implementors are Vryce, Io, Shalafi, Sultress, Ugadal, Semele, and Firm.
+It is through our hundreds of hours of work that you can enjoy MEDIEVIA 
+Our email addresses can be found in the wizlist.
+
+The mud is run and owned by VRYCE and INTENSE Software.
+
+For programming information: mkrause@netaxs.com (Vryce)
+                
+If you have a problem with the game, implementors and immortals are there
+to help you.
+
+If an implementor or an immortal asks you to do something, then do it.
+If they ask you how something happened, then tell them.  As a player in
+our mud, you are a guest at the party we are throwing.  If you hassle us,
+we'll kick you out.
+
+On the other side ... if an immortal interferes with game balance, or uses
+immortal power to harass players, we (the implementors or chief immortal)
+will demote as needed.  An immortal is not a superman mortal.  They are
+there to help run the game, not for their own personal enjoyment.
+
+All of the implementors, and most of the immortals, also have mortal
+characters.  Feel free to treat these as you would any other players.
+They don't get any special benefits for their mortal chars, and you don't
+owe them any more than you do other mortal chars.
+#
+MEDIEVIA
+
+Welcome to MEDIEVIA!  
+
+Medievia, simply put, is the most exciting, enjoyable, and dynamic multi 
+user game in existence.  Medievia bagan humbly enough, but unlike most 
+other MUD's it flourished.  Vryce, the senior programmer for Medievia, 
+has never been content to simply follow the pack, so while other MUD's 
+remained more or less the same, Medievia forged ahead, pushing the 
+limits, with one primary purpose, to create the best MUD around.  
+
+Medievia now runs on a top of the line SUN dedicated to Medievia, and 
+Medievia alone. Powered with 64 megabytes of memory, a gigabyte of storage, 
+and with a direct T3 line to the internet, Medievia out-performs everything 
+in sight.        
+
+Medievia has been thouroghly debugged, and has added features which 
+protect us from net disruptions.  This means that you can play without 
+fear of code based interuption.
+
+And what does that code provide?  For starters Medievia has more features
+than most mud's can even imagine.  We have: Mounts, a revolutionary trade 
+system, with dozens of tradeable items, realistic weather patterns, tweak 
+code, which means many unique items, a HUGE playing area, built in  
+Auto_Quests,  clans, ansi color, Homes(expandable), ATM, user friendly rent, 
+U_Store_It lockers, A post office, donation room, bulletin boards, clan 
+channels, a social area replete with a casino, and a newspaper. We also have 
+INTELLIGENT mobiles, and the best formation combat system in existence.  
+Yes that's right you may form a group, and position your party members as 
+you like!  
+
+The true beauty of Medievia, however, is in the playing. Often when a 
+player is asked why they play Medievia as opposed to some other mud, they 
+can only describe it as a feeling.  The fact is that most people get that 
+feeling the first time they log on to medievia.  In a sense all the 
+coding, and all the writing has taken on a life of it's own, such that 
+the whole of Medievia is greater than the sum of it's parts. Much of the 
+credit for this goes to the players themselves, without whom Medievia 
+would be a lifeless hunk.  We believe that you are the life breath of 
+Medievia, and we strive to provide you with a continually evolving, 
+living world in which the only boundaries are those of your 
+imagination.  Welcome to Medievia, THE MUD OF THE FUTURE!    
+
+Medievia is funded by NETAXS.COM (access.netaxs.com), a Philadelpia 
+public access site run by Avi Freedman (freedman@access.netaxs.com).  
+Medievia is managed by our programmer Vryce (mkrause@netaxs.com), who 
+says please only e-mail when absolutely necessary.  The Medievia rooms, 
+objects, and mobiles, are managed by Shalafi 
+(Shalafi@intense.netaxs.com).  But mainly Medievia is run, played and 
+supported by the true Medivites-the players and their love for the game.
+
+Medievia - ...The Next Step...
+#
+HELP
+
+Syntax: help <key word/phrase>
+
+Simply typing HELP will get you the main help menu.  Help searches for a 
+match of the entered keyword. Throughout the help text, keywords which have 
+help associated with them, are given in all caps.
+
+Example:
+    'help magic missile'
+    will find the help text for the magic missile spell.
+
+    'help magic mis'
+    will not match 'magic missile' or anything else. 
+
+As show above, in the case of spell names, you must enter the entire spell 
+name as shown in the spell list generated by typing 'help spells'.
+#
+HOMES HOME HOUSE
+
+Having a home allows you to quit the game without having to rent at the
+hotel or put equipment in your locker.  Homes can only be bought at certain
+times, at which, they will be auctioned off to the highest bidder.
+Check the board for any new information.
+
+See Also: REALESTATE_FAQ
+#
+"DRAGON CRYSTAL" DRAGON CRYSTAL DC
+
+A Dragon Crystal is perhaps the most valued treasure in all of Medievia.
+When a Dragon Crystal is offered at the fountain in Tear (type: offer 
+crystal), you are rewarded up to 75 practice sessions.  The amount awarded
+is totally random.  Dragon Cyrtals can be found on any mob, anywhere in the
+world.  The placement of the crystals is also totally random.  When a mob is
+killed, there is a chance that a crystal will appear in the corpse.  Dragon
+Crystals are invisible, so they are difficult to find.  Dragon crystals will
+NOT be found anywhere in the wilderness or the catacombs.  They are on
+random monsters in the detailed ZONE areas.  There are always 20 dragon
+crystals placed around to be found.
+#
+TRAIN 
+
+Syntax: train <ability>
+
+You can use your practices to increase your ability scores.  You must
+be at the training facility to train an ability.  
+
+Increasing an ability costs 35 practices or 20 if it is your primary ability.
+
+The primary abilities are as follows:
+    WARRIOR = STRENGTH
+    CLERIC  = WISDOM
+    THIEF   = DEXTERITY
+    MAGE    = INTELLIGENCE
+
+See also: ABILITY, PRACTICE
+#
+PRACTICE 
+
+Syntax: practice [skill/spell]
+
+Practice is the way you improve your spells and skills.  You must go to
+your guildmaster to practice.  With no argument, PRACTICE lists your
+current skills.  
+
+You get more practices every time you level, depending on your wisdom.
+
+Wisdom  Practices
+  13        2
+  14        2
+  15        3
+  16        3
+  17        4
+  18        5
+
+See also: TRAIN, ABILITY
+#
+RENT QUIT AUTORENT
+
+You must rent at the Hotel in Medievia or the Inn in Trellor to save your
+character and his equipment, or if you are in the wilderness you may 
+use the camp command.  If you quit while you are alive, you will 
+lose all the equipment you are currently carrying.  You can quit while
+undead with no problems.  If you lose link and are unable to rent, after
+a length of time, the MUD will autorent your character.
+
+!!!REMEMBER!!! If you want your mount around when you camp and quit you must be
+mounted when you quit.
+
+SEE ALSO  CAMP CAMPING
+#
+
+LIST BUY SELL VALUE SHOPS SHOP
+
+The shops in town are where you can buy supplies and sell any treasure 
+and equipment you might have found.  Each shop deals in certain types 
+of goods, therefore you must find the correct shop that will buy what you
+have to sell.
+
+LIST  - tells you what a shop has for sale.
+BUY   - buys things by name.
+SELL  - sells items you have to the shopkeeper for gold.
+VALUE - tells you how much a shopkeeper will pay for an item.
+
+If there are two items with the same name on the Store's list, and you
+wish to purchase the second, type: buy 2.<item name>
+#
+SAVE
+
+Medievia now has autosaving.
+
+See Also: "SAVING THROWS"
+#
+BUG TYPO IDEA
+
+For making useful suggestions to the implementors.
+
+Examples:
+    'bug the entire game crashes when I type put bag in bag'
+    'idea make a restaurant in Medievia'
+    'typo sence should be spelled sense'
+
+** Except in the case of the MUD crashing, please use these commands 
+   instead of trying to talk to a god on-line.
+#
+MAKECLAN
+
+35 God only.
+
+Syntax: makeclan <number> <leader name> <clan name>
+
+The player must have 75MIL gold on him.  The code will take the enrollment
+fee from him.  The player must be level 15+.
+#
+LEADCLAN
+
+33+ God only.
+
+Syntax: leadclan <number>
+#
+TRANSCLAN
+
+33+ God only.
+
+Syntax: transclan <number>
+
+Puts all players of that clan in your room. You must use LEADCLAN first. 
+#
+LOGCLAN
+
+33+ God only.
+
+Syntax: logclan <number>
+
+Starts a log on all clan members.  You must use LEADCLAN first.
+#
+SDB SEARCHDB
+
+God only.
+
+Syntax: sdb <obj/char> <keyword>
+
+Searches the database for the keyword and returns the object/character 
+numbers.
+#
+STRING
+
+God only.
+
+Syntax: string <obj/char> <name> <field> <string> <keyword>
+
+For changing the text-strings associated with objects and characters. 
+
+Fields:
+Name                  (the call-name of an obj/char - kill giant)
+Short                 (for inventory lists (obj's) and actions (char's))
+Long                  (for when obj/character is seen in room)
+Title                 (for players)
+Description           (For look at. For obj's, must be followed by a keyword)
+Delete-description    (only for obj's. Must be followed by keyword)
+
+Where a string is expected as the last argument, a newline will make you 
+enter a string mode, and the game will prompt you for new lines to the 
+string until you exceed the maximum length for the string or you end a 
+line with a '@'.
+#
+ALLOW
+
+God only.
+
+Remove a site from the ban list.
+#
+BAN
+
+God only.
+
+Ban a site from MEDIEVIA.
+#
+DISCONNECT
+
+God only.
+
+Disconnect a socket.
+#
+FREEZE
+
+God only.
+
+Freeze a Player.
+#
+LOG
+
+God only.
+
+Start or stop logging a player.
+#
+REROLL
+
+God only.
+
+Reroll a player.
+#
+LOAD
+
+God only.
+
+Syntax: load <obj/char> <number>
+
+Loads an object or character from the database.  
+#
+PURGE
+
+God only.
+
+Syntax:  
+  purge                         Empty a room of monsters and objects.
+  purge <character>             Disconnects a player.
+  purge <object>                Removes the object.
+#
+STAT
+
+God only.
+
+Syntax: stat <player name/mob name>
+        stat room
+#
+WIZHELP
+
+God only.
+
+A listing of the commands for gods.
+#
+SOCKETS
+
+God only.
+
+Lists the IP addresses of players logged on.
+#
+ADVANCE
+
+God only.
+
+To advance a player to a level higher or lower than his present.
+#
+RESTORE
+
+God only.
+
+Reset that players hit points, mana, and movement to the current maximum.
+#
+SHOWSTATS
+
+God only.
+
+Example: 
+    showstats balor - shows balor your stats.
+    showstats       - shows yourself your stats.
+#
+VRYCE
+
+God of Programming - In charge of the code, owner of Medievia.
+#
+CARDS
+
+Syntax: <dealer command> <player name> <number of cards>
+
+Dealer Commands: 
+shuffle - takes all cards and shuffles the deck.
+showdeal [sd] - deals cards face up.
+hidedeal [hd] - deals cards so only player can see them.
+downdeal [dd] - deals cards face down.
+
+Player Commands:
+cards - shows you your cards, 'cards a' will show everyone's cards.
+discard - lets you discard a card...discard 7h qd 9d etc.
+show - flips all your cards over for everyone to see.
+ante - ante # will make you drop # coins for the ante.
+raise - raise # will make you drop # coins for the bet.
+fold - will fold your hand for current game.
+#
+"WATER REAPER"
+A water reaper is a live magical animal totally made of water..it is ...
+how to say... LARGE!  If you have seen the movie abys, where the creature
+made of all water enters ...you see it go from room to room, changing shape
+the whole time and getting bigger and bigger...  A Medievia water reaper
+flows through the tunnels in the catacombs and as it does it pretty much
+completely fills the area...forming itself to the tunnel...like a solid
+mass.  They roam around and when one enters your area...you sorta SPLASH
+right inside it!  At that point you are at its will....it wont hurt you,
+it is nice :)   BUT, you cannot get out, you are in for a ride..  If it
+happens to roll into a lake it will dissipate...  Or sometimes it will
+just fall apart..
+#
+DONATION DONATIONS TALISMAN TALISMANS
+Yes, donations are accepted here at Medievia!  Not only are they 
+accepted, they are encouraged.  Medievia is a money sucking monster that 
+takes away all of Vryce's money. Donations are the only way he has to 
+supplement his contributions and ensure that Medievia stays alive. Taking 
+suggestions from focus groups on how to make donations in 1995 more 
+successful, we have come up with a PLAN! With donations of $20 and up we 
+will mail your character a complimentry gift! The Medievia Talisman! Its 
+stats are....  AC-apply[20] HIT-Points[100] DAMROLL[7] Weight[5] Level is 
+0.  This item cannot be dropped, given, lockered, put, donated, mailed, 
+etc...  One you receieve, it is YOURS, forever, your character may not 
+even if you wanted, loose it. A list is kept of the proud citizens of 
+Medievia who have helped and who have recieved the Talisman.
+  
+To donate to Medievia, send funds to:   
+   
+Mike Krause 
+Benson Apartments 
+100 Old York Road #924E 
+Jenkintown, PA 19046 
+   
+Payable to Mike Krause. Acceptable funds are A 20 dollar bill, checks, 
+money orders. (If sending Money please wrap in paper.) ALSO, YOU MUST I 
+repeat MUST give me your mud character name with the funds if you want 
+the gift.
+  
+MANA TALISMAN AVAILABLE FOR A LIMITED TIME ONLY!! In addition to the
+hitpoint Talisman, a mana version will be offered to those who have already
+donated for another 20 dollars. The mana Talisman is exactly the same as the
+other, except it has +100 mana instead of hitpoints. This is being offered
+until we have enough to pay for the memory for the new machine, so HURRY!
+The Mana Talisman will be available as long as this notice remains here.
+#
+HANDBOOK
+        Your HANDBOOK to MEDIEVIA - Rules and Regulations
+======================================================================
+
+  Medievia is owned and operated by INTENSE Software, co-sponsered by
+  the public on ramp netaxs.com.  Email medievia@bigboy.cis.temple.edu.
+  Any serious problems, tell VRYCE, the owner or email him at
+  mkrause@bigboy.cis.temple.edu.
+
+1. Try to keep the profanity to a minimum.
+2. The Gods are here to serve you, please ask gods level 32-33 for minor
+   things like questions and lost items.  We have over 24 Gods here to
+   help you but most are usually busy making new zones and coding new
+   commands and ideas.  Please try and ask another player for most help.
+3. Please use the IDEA, BUG and TYPO command to let us know your ideas,
+   any bugs you find and typo's.  These commands save your input to
+   files for us to go over weekly.
+4. Multiple players are not allowed here, you will be purged if we find
+   you have more than one player on at once, and yes we do check your
+   sight for verification.  We have some player kill areas and we want
+   the game to be fair.  The code will warn you and ask for your
+   verification before allowing you to enter a playerkill area.
+5. Spamming, harassing of players, dropping items repetedly, etc etc...
+   are to appear uncivilized, etc...
+6. Harming a player by using un-civilized manners like summoning someone
+   to an aggressive critter will result in you being purged.  This type
+   of behavior will be judged by the level 35 GODS.
+7. You acknowledge that by using this mud, you hold none of it's
+   operators, or the Net Access service responsible for ANYTHING that happens,
+   either to yourself, or your hardware, as a result of the use of this
+   service.
+8. You acknowledge that nothing on Medievia is guarenteed to be private
+   and everything is subject to be logged.
+
+   Please use the PRAY command to speak with the Gods of Medievia.
+#
+NEWBIE
+
+The following is a list of help topics that should be useful to new
+players.  To look at them, type HELP <topic name>:
+
+	PROMPT			HUNGER			THIRST
+	OTHER PLAYERS		HELP			PRAY
+	CHANNELS		COMBAT			LEVELING
+	GROUPING		HOTEL			DONATION ROOM
+	SCORE			HINTS
+#
+HUNGER THIRST
+The next thing you will notice, is that you will soon become hungry and
+thirsty.  This is all part of Medievian life.  When you are hungry or
+thirsty, you will regain Hit Points, MANA and Movement Points at a very
+slow rate.  To satiate your hunger and thirst, you must find the nearest
+grocery store, and general store, to buy food and water.
+
+*NOTE*   Waterskins only hold a limited amount of water, and if you drink
+         all the water out of it.  It will disappear.  Waterskins, or any
+         other container for that matter, must be periodically refilled
+         at the WaterFountain.
+#
+"OTHER PLAYERS"
+Medievia is a MUD.  MUD stands for 'Multi User Dungeon'.  As such, you
+will see lots of other players in Medievia, walking from place to place.  
+You should talk with them, as they are a valuable source of information and
+help.  To talk to other people, just type:
+
+SAY <phrase>  Also '  is short for say so  ' <phrase> will also work
+
+Medievians are a kind and helpful bunch of players, and will help you as
+best they can.
+#
+LEVELING
+This is one of the more pleasant things to happen while in Medievia.
+When you gain Enough Experience points from combat, you will gain a
+'LEVEL'.
+
+When you gain levels, you also gain Valuable Practice Points.  You can
+trade in these Practice Points at the local Guild for Spells (If your a
+Cleric or Mage) or Skills (If your a Thief or Warrior).  The Guilds are
+located on Guild Row.  In the southern part of town.  Type  level  to
+see the experience needed per level, your current experience and many 
+other variables about youself can be seen by typing score.
+#
+GROUPING
+Grouping is an exceptionally important part of Medievian life.  By forming
+groups, you will earn more Experience points.  And you will be able to
+kill monsters that you normally wouldn't be able to alone.  To form a group,
+first find a couple players who will group with you.  Then, decide who
+will lead the group.  All of the other players will then FOLLOW that
+leader.
+
+Grouping can be complicated at first.  So you should type HELP GROUP to
+find out how to do this.
+#
+HOTEL GOHOME
+The Hotel is where you RENT your Equipment for the night.  It is the only way
+you can quit the game, and not LOSE your equipment unless you have a gohome.  
+On the Medievian continent, it is located on Enterprise Avenue, just East of
+the Town Crier.
+
+A 'gohome' is where advanced players have purchased the right to rent
+freely after a hard day of adventuring.  To inquire about purchasing a
+gohome, type WIZLIST to see who the real estate god/goddess is and speak
+with them.
+#
+"DONATION ROOM"
+The Donation room is a place for you to find Items and Equipment that may
+help you kill monsters, or survive better.  But be careful, some of the
+Equipment in there is Junk.  To donate an item that you find, simply
+type:
+
+DONATE <item>
+
+Remember, the items in the donation room is for new players, take what
+you need and leave the rest.  Selling items that you have found in the
+donation room is considered rude and inconsiderate.
+#
+HINTS
+- The first thing you should probably do, is go to the MAP room and look
+  at the map of the City, and of Medievia.
+
+- The second thing to do, is to go into the DONATION room.  Here, you
+  may find EQ that will help you kill monsters.
+
+- Third, walk around the city a bit, and get familiar with the layout.
+  The layout of the city may seem a bit confusing at first, but you will
+  quickly learn to find your way around.
+
+- The first monsters you will want to find and kill, will probably be
+  Bugs in the tree and Beggars, Drunks, and Janitors.
+
+- You will get More EXP from being in a Group, than you will being Alone.
+
+- Some weapons are MUCH better than others, be sure to ask around as to what
+  the best weapon for you is.
+
+And lastly, Enjoy your stay at Medievia.  This is truly an Excellent
+MUD.  If you have any questions, feel free to talk to other players, or
+talk to one of the Gods.
+#
+ATTRACTIONS
+MEDIEVIA IS the place to be!  MEDIEVIA has so many fun attractions that
+you may never run out of things to do.  There is something for everyone's
+taste and new adventures you will not find at any other mud.  To help
+you become acquainted with what MEDIEVIA has to offer, please read on.
+
+CASINOS
+Try your hand at a card game with friends, or try you luck at the
+roulette table or slot machines.  Signs are posted (type look sign) that
+will instruct you on how to play the games.  At the card tables, which
+work like a real deck of cards, you can play most any card game.  Private
+rooms on the Casino's second floor are provided for socializing and
+ensure privacy, even from Gods!
+
+NIGHTCLUBS * RESTAURANTS * COFFEEHOUSES
+There are many places in MEDIEVIA to meet new friends, socialize, share a
+meal or a drink.  A warning to the teatotalers, MEDIEVIA brews have been
+known to affect your accuracy during a battle.
+
+SOCIALS
+There are many ways to express yourself here.  To get a list of social
+commands, type "social."  You may want to print these and try each of them
+out.  To use these social commands, for example: type "smile <name>.  You
+would see yourself beaming a smile at that person.  If there is not a
+social that fits your needs, you can use "emote".  To use the emote command,
+type "emote smiles in your direction."  This would display "<your name>
+smiles in your direction."  This command is very flexible and useful.
+
+PUBLIC CHANNELS
+There are a variety of public channels in MEDIEVIA.  They include:
+gossip, quest and discussion, and shout. To set your channels on or off 
+so you can read or not readwhat other players are talking about, type 
+"setcom."
+
+Gossip is the main chat channel.  This is another way to get to know most
+of the players in Medievia and talk about all kinds of things.  Swearing
+or talking about offensive subjects is not encouraged and not allowed.
+
+Tells are a private way to communicate with one other player.  To send a
+tell, type "tell <name> .  Be aware that communicating by tell, will
+decrease your "move" every time you send a tell.
+#
+"CRITICAL HIT" CRITICAL
+
+CLASS:  Current warriors only.
+
+Critical hits are very rare times when you find a weakness in your
+opponents defenses and score a more damaging blow.  Critical hits are
+quite rare.
+#
+TRIVIA
+
+The trivia channel is a channel that randomly broadcasts information to
+the mud.  Most of this information is more beneficial to new players
+than older players.
+
+To toggle this channel type SETCOMM TRIVIA.
+
+#~

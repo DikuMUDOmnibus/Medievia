@@ -1,0 +1,3096 @@
+#4519
+The Great Stone Tunnel Bridge - Southside.~
+Entrance to a beautiful stone carved tunnel.  It is the
+bridge over troubled waters as you have been told, but noone has seen the
+water that lies beneath for many years.
+There are delicately carved angels and floral designs all over the
+walls and ceiling of the tunnel.  The bridge is lit by the flames
+coming from the statues to either side of the passage.
+They are placed throughout, allowing plenty of light.
+~
+70 8 0 0
+0 32 0 0
+0 0 0
+D0
+~
+~
+~
+~
+1 -1 4520
+D2
+~
+~
+~
+~
+1 -1 19016
+E
+statue angel flame~
+You see a pale blue marble statue.  It holds a torch in its right
+hand, and the other, outstretched, palm up seemingly welcoming you
+through the tunnel.  You try to put the torch out, it neither burns
+you nor dies in its brilliance.
+~
+S
+#4520
+The Great Stone Tunnel Bridge.~
+This portion of the tunnel is very diverse.  Rumors told that
+the engravings tell the story of the enchanted lands to the north.
+To see the engravings just look westwall, ceiling and eastwall.
+~
+70 8 0 0
+0 32 0 0
+0 0 0
+D0
+~
+~
+~
+~
+1 -1 4545
+D2
+~
+~
+~
+~
+1 -1 4519
+E
+eastwall~
+The east wall is the figure of obscure fear and confusion.  You look
+at the engravings and only recognize what looks to be a possessed
+rabbit. You get this idea from the fact it appears to be attacking
+an angelic figure in the carvings.  All around this
+wall seems to be a haze...a merky feeling comes to you.
+East seems to be a bad direction in which to follow....
+~
+E
+ceiling top~
+The heavens of the westwall seem to shadow into the ceiling
+only to be met by disarray from the eastwall.  In the midst of
+the two joining each other are intertwined branches.
+They appear to be very calming, but why??  Nothing really special about
+their detail or anything.  Just a calming feeling comes to you
+as you look at the figures.
+~
+E
+westwall~
+You see figures of beauty such that you have never seen in real life.
+They combine heavens and earth showing no real seperation, you know
+you will never be able to describe with mere words what you have seen.
+Maybe this is a unicorn by the cloud carvings..but what are
+those lil figures by the trees..  Just Beautiful...
+~
+S
+#4545
+The Great Stone Tunnel Bridge - Northside.~
+Entrance to a beautiful carved stone tunnel bridge.  The engravings
+on either side of you are of animals and flowers.  You
+have heard that all the carvings in this tunnel were from the
+tiny wings of fairys.  But you are not sure of this fact, although they are
+devinely carved and detailed.  All through the tunnel as far as
+you can see are these statues holding torches to light your way.
+~
+70 8 0 0
+0 32 0 0
+0 0 0
+D0
+~
+~
+~
+~
+1 -1 4546
+D2
+~
+~
+~
+~
+1 -1 4520
+E
+angel statue light flame~
+A beautiful pale blue statue of an angel.  She hold in her right
+hand a flame torch.  Her left arm is outstretched towards the inside
+of the tunnel.  The statues appear to be guarding your footsteps as well as
+lighting your path.
+~
+S
+#4546
+The Stoneybrook Crossroads.~
+You are standing on a crossroad.  To the north is the forest.  A glow radiates
+from it.  To the east is the remains of a cobblestone road.  Clues it
+was once there from the broken cobblestones left in the path now
+being overgrown with grass.  To the west is a very well kept cobble-
+stone road.  There is a sign here.
+~
+70 0 1 0
+0 32 0 0
+0 0 0
+D2
+~
+~
+~
+~
+1 -1 4545
+D3
+~
+~
+~
+~
+1 -1 4547
+E
+sign~
+It has an arrow pointing to the west and STONEYBROOK after it.
+The words that appeared beside the arrow to the east have been
+scratched out.  You can no longer tell what it had said.
+~
+S
+#4547
+A little bridge over Stoney Brook.~
+You are crossing a little bridge over Stoney Brook.  You see the crystal
+clear water rushing down the forest covered hill to the north, going under
+the bridge you are standing on, and into the great wall to the south.
+The wall of stone to the south is as high as the tunnel entrance to the
+east. You can hear the rushing river behind it.  The cobblestone road
+leads to the east and west.
+~
+70 0 1 0
+0 32 0 0
+0 0 0
+D1
+~
+~
+~
+~
+1 -1 4546
+D3
+~
+~
+~
+~
+1 -1 4548
+E
+wall~
+A large stone wall reaching up to the sky.  It is beautiful yet
+you wonder what it hides.  you hear the Shague River rushing behind it.
+~
+S
+#4548
+Cobblestone Road.~
+A cobblestone road that runs east and west along the side of the Enchanted
+Forest. The great wall to the south.  You smell smoke to the north, but
+cant see thru the dense forest.
+~
+70 0 3 0
+0 32 0 0
+0 0 0
+D1
+~
+~
+~
+~
+1 -1 4547
+D3
+~
+~
+~
+~
+1 -1 4549
+E
+wall great~
+A large stone wall that reaches to the clouds.  You can hear the Shague
+River rushing behind it.
+~
+S
+#4549
+Cobblestone Road.~
+You are walking on a cobblestone road going east and west.
+The Great Wall is still to the south.
+The Enchanted Forest to the north.
+~
+70 0 3 0
+0 32 0 0
+0 0 0
+D1
+~
+~
+~
+~
+1 -1 4548
+D3
+~
+~
+~
+~
+1 -1 4550
+E
+wall great~
+There is a large stone wall reaching up into the clouds.  You
+hear the Shague River rushing behind it.
+~
+S
+#4550
+Cobblestone Road.~
+You are walking on a cobblestone road going east and west.
+There is a small gap in the trees to the north.
+The Great Wall is still to the south.
+~
+70 0 3 0
+0 32 0 0
+0 0 0
+D0
+You see what appears to be a path but the trees cover it.
+~
+trees forest~
+You see $n push through the trees.~
+You see $n pushing through the trees.~
+1 -1 4554
+D1
+~
+~
+~
+~
+1 -1 4549
+D3
+~
+~
+~
+~
+1 -1 4551
+E
+wall great~
+You see a great stone wall reaching into the sky.  The Shague River
+is rushing behind it, though never seen.
+~
+E
+gap trees~
+You see what appears to be a old path going between the trees.
+~
+S
+#4551
+Cobblestone Road.~
+You are walking on a cobblestone road going east and west.
+The Great Wall is still to the south.
+The Enchanted Forest to the north.
+~
+70 0 3 0
+0 32 0 0
+0 0 0
+D1
+~
+~
+~
+~
+1 -1 4550
+D3
+~
+~
+~
+~
+1 -1 4552
+E
+wall great~
+You see a great stone wall reaching into the sky.  You hear the
+Shague River rushing behind it.
+~
+S
+#4552
+Bend in Cobblestone Road.~
+You are walking on Cobblestone Road.  The Great wall follows the
+Road lining the west and the south with the high stone structure.
+The Cobblestone continues North and East.  Beautiful Flowers are
+growing in what seems to be a well kept up flower box at the edge
+of the forest.
+~
+70 0 3 0
+0 32 0 0
+0 0 0
+D0
+~
+~
+~
+~
+1 -1 4555
+D1
+~
+~
+~
+~
+1 -1 4551
+E
+flowers flower box~
+You see a well built wooden box filled with glorious flowers.
+The minature roses are beautiful.
+~
+S
+#4554
+Path through the dense Enchanted Forest.~
+As you push your way through the trees you see that the path
+continues to the north and east. You feel somewhat energized as you
+walk through the forest. The trees are so beautiful.
+~
+70 0 3 0
+0 32 0 0
+5 0 0
+D0
+~
+~
+~
+~
+1 -1 4566
+D1
+~
+~
+~
+~
+1 -1 4567
+D2
+~
+~
+~
+~
+1 -1 4550
+S
+#4555
+Cobblestone Road.~
+You are walking down a long road that is lined to the west by
+the Great Wall and to the East by the beautiful forest.
+There are flower boxes placed sparatically down the road.
+~
+70 0 3 0
+0 32 0 0
+0 0 0
+D0
+~
+~
+~
+~
+1 -1 4556
+D2
+~
+~
+~
+~
+1 -1 4552
+S
+#4556
+Cobblestone Road.~
+You are walking down a long road that is lined to the west by
+the Great Wall and to the East by the beautiful forest.
+There are flower boxes placed sparatically down the road.
+~
+70 0 3 0
+0 32 0 0
+0 0 0
+D0
+~
+~
+~
+~
+1 -1 4557
+D2
+~
+~
+~
+~
+1 -1 4555
+S
+#4557
+Cobblestone Road.~
+You are walking down a long road that is lined to the west by
+the Great Wall and to the East by the beautiful forest.
+There are flower boxes placed sparatically down the road.
+~
+70 0 3 0
+0 32 0 0
+0 0 0
+D0
+~
+~
+~
+~
+1 -1 4558
+D2
+~
+~
+~
+~
+1 -1 4556
+S
+#4558
+Cobblestone Road.~
+You are walking down a long road that is lined to the west by
+the Great Wall and to the East by the beautiful forest.
+There are flower boxes placed sparatically down the road.
+~
+70 0 3 0
+0 32 0 0
+0 0 0
+D0
+~
+~
+~
+~
+1 -1 4559
+D2
+~
+~
+~
+~
+1 -1 4557
+S
+#4559
+Cobblestone Road.~
+You are walking down a long road that is lined to the west by
+the Great Wall and to the East by the beautiful forest.
+There are flower boxes placed sparatically down the road.
+~
+70 0 3 0
+0 32 0 0
+0 0 0
+D0
+~
+~
+~
+~
+1 -1 4560
+D2
+~
+~
+~
+~
+1 -1 4558
+S
+#4560
+Cobblestone Road.~
+You are walking down a long road that is lined to the west by
+the Great Wall and to the East by the beautiful forest.
+There are flower boxes placed sporadically down he road.
+~
+70 0 3 0
+0 32 0 0
+0 0 0
+D0
+~
+~
+~
+~
+1 -1 4561
+D2
+~
+~
+~
+~
+1 -1 4559
+S
+#4561
+Cobblestone Road.~
+You are walking down a long road that is lined to the west by
+the Great Wall and to the East by the beautiful forest.
+There are flower boxes placed sparatically down the road.
+~
+70 0 3 0
+0 32 0 0
+0 0 0
+D0
+~
+~
+~
+~
+1 -1 4562
+D2
+~
+~
+~
+~
+1 -1 4560
+S
+#4562
+Bend in Cobblestone Road.~
+To the West is the Great Wall but to the North is a Stream. It looks
+to fast to cross. On the other side of the stream is
+a golden fence. The fence is around the most wonderous garden.
+The cobblestone road goes both south and east.
+~
+70 0 3 0
+0 32 0 0
+0 0 0
+D1
+~
+~
+~
+~
+1 -1 4563
+D2
+~
+~
+~
+~
+1 -1 4561
+S
+#4563
+Cobblestone Road.~
+To the north is Fantazia Stream, too fast to cross.  To
+the south is the Enchanted Forest.  The cobblestone
+road continues both east and west.
+~
+70 0 3 0
+0 32 0 0
+0 0 0
+D1
+~
+~
+~
+~
+1 -1 4575
+D3
+~
+~
+~
+~
+1 -1 4562
+S
+#4566
+Confusion Corner. Path through the Forest.~
+You come to a spot in the forest with paths shooting off in all
+directions. You hear an unfamiliar language in the distance toward
+the east. The trees are rustling, possibly from the wind to the north.
+Then there is the south, a seemingly quiet path.
+~
+70 0 3 0
+0 32 0 0
+5 0 0
+D0
+You see what appears to be water behind the trees.. They are so dense
+though, it will take some force to open up a space to walk through.
+The lake is beautiful though, what little you can see of it after
+forceing a bunch of limbs out of your way.
+~
+trees gap lake~
+You see $n force their way through the dense trees to the north.~
+You see $n climb throught the trees to the south.~
+1 -1 4903
+D1
+~
+~
+~
+~
+1 -1 4569
+D2
+~
+~
+~
+~
+1 -1 4554
+S
+#4567
+Path through the dense Enchanted Forest.~
+You are on path that continues to the east and to the west through
+the forest. The path seems very well kept up along here.
+There are flowers growing in open areas on both sides of the path,
+as if they were planted that way. Too nice a pattern to have just
+happened natural. The forest is beautiful.
+~
+70 0 3 0
+0 32 0 0
+5 0 0
+D1
+~
+~
+~
+~
+1 -1 4568
+D3
+~
+~
+~
+~
+1 -1 4554
+S
+#4568
+The Large Tree.~
+You walk into the largest tree you have ever seen.  You can't
+believe it for two reasons.  First, you didnt see it when you
+were walking here, and second because it is so huge.  Must be
+a million years old you figure. *Well give or take a few:)*
+~
+70 0 3 0
+0 32 0 0
+5 0 0
+D0
+You see the bark seems to make a arch shape in the tree.
+~
+door tree bark~
+You see $n come in.  Tell the creature to close the door.~
+You see $n open the large tree and go in.~
+2 -1 4571
+D3
+~
+~
+~
+~
+1 -1 4567
+S
+#4569
+Path through the dense Enchanted Forest.~
+You see a glow at the end of the path to the east. You thought
+you heard voices, unfamiliar language, but now it is quiet. The path
+continues to the west. Forest lines the north and south.
+~
+70 0 3 0
+0 32 0 0
+5 0 0
+D1
+~
+~
+~
+~
+1 -1 4570
+D3
+~
+~
+~
+~
+1 -1 4566
+S
+#4570
+A little Campsite.~
+You are in the middle of a vast opening in the forest.  There
+is a fire built in the middle of the opening.  Four logs are alined
+in a circle around the campfire.  Stones are placed all around
+the fire.  There is a path off to the west and north.
+~
+70 0 2 0
+0 32 0 0
+5 0 0
+D0
+~
+~
+~
+~
+1 -1 4899
+D3
+~
+~
+~
+~
+1 -1 4569
+S
+#4571
+The Large Tree.~
+You have just walked into a tree..lucky you.  It seems to glow from the
+inside. The walls of the tree are Fushia in color.  There are crystal
+steps leading up.  There are no windows in the vast room, yet flowers
+are growing everywhere you look.  There is a big door to the east.
+~
+70 8 0 0
+0 32 0 0
+5 0 0
+D1
+You see a big wooden door, with a golden knob.
+~
+door closet~
+~
+~
+1 -1 4574
+D2
+~
+~
+~
+~
+1 -1 4568
+D4
+~
+~
+~
+~
+1 -1 4572
+S
+#4572
+The Large Tree.~
+The room is a seemingly pink shade woodgrain.  There is a table
+made of marble and soft cushion chairs around it.  There are
+wall hangings on each wall with flowers and ivy growing from them.
+There are crystal stairs leading up and down.
+~
+70 8 0 0
+0 32 0 0
+5 0 0
+D4
+~
+~
+~
+~
+1 -1 4573
+D5
+~
+~
+~
+~
+1 -1 4571
+S
+#4573
+The Big Tree Sky Loft.~
+You know you are in a tree but you see no sign of the tree here.
+It looks like the sky on a clear night and the stars are out.  You
+are unaware of the true time.  It could be day it could be night,
+but it is night in this room.  You can easily see from the beautiful
+starlight. There is a large wooden bed in the far corner of the room.
+It has plush pillows of pastel shades.
+~
+70 8 0 0
+0 32 0 0
+5 0 0
+D5
+~
+~
+~
+~
+1 -1 4572
+S
+#4574
+Storage Closet.~
+You are in the storage closet.  It is full of gardening utensils.
+There are big bags of soil and Fertilizer up against the wall.
+Now you know who keeps up the Forest.
+~
+70 8 0 0
+0 32 0 0
+5 0 0
+D3
+~
+~
+~
+~
+1 -1 4571
+S
+#4575
+Cobblestone Road.~
+You are on a cobblestone road that continues both north and west.
+Fantazia Stream lines the road to the northwest.  The dense forest
+lining the other side.
+~
+70 0 3 0
+0 32 0 0
+0 0 0
+D0
+~
+~
+~
+~
+1 -1 4576
+D3
+~
+~
+~
+~
+1 -1 4563
+S
+#4576
+Cobblestone Road.~
+You are on a cobblestone road that continues both south and east.
+Fantazia Stream lines the road to the northwest. The dense forest
+lining the other side.
+~
+70 0 3 0
+0 32 0 0
+0 0 0
+D1
+~
+~
+~
+~
+1 -1 4577
+D2
+~
+~
+~
+~
+1 -1 4575
+S
+#4577
+Cobblestone Road.~
+You are on a cobblestone road that continues west and north.
+To the north is a Large Golden Arch over the road. The gates
+are made of swirled golden fence. The design looks like some
+type of a dragon. It is truelly a beautiful work of art....
+Behind the stream you see a large orchard.  You can also see a
+path leading up a hill behind it in a distance. A path to the east.
+~
+70 0 3 0
+0 32 0 0
+0 0 0
+D0
+Beautiful Golden Dragon Gates.
+They seam to reach the skies. The locks on the gates are very large.
+They must have huge keys. The gates are guarded by fully
+armored Panda Bears. The road continues behind them. They
+connect to the fence incompassing the orchard.
+~
+gate gates dragons sesame~
+$n enters the grand gates of Jasmine's Royal Court.~
+$n enters the grand gates of Jasmine's Royal Court.~
+2 -1 5617
+D1
+~
+~
+~
+~
+1 -1 4578
+D3
+~
+~
+~
+~
+1 -1 4576
+S
+#4578
+A Very Small Path through the Forest.~
+You are on a path that continues to the east.  It is well kept
+but very small.  A Cobblestone road is to the west.  Forest to the
+north and south.  There is a gap in the trees to the south.
+~
+70 4 3 0
+0 32 0 0
+0 0 0
+D1
+~
+~
+~
+~
+1 -1 4579
+D3
+~
+~
+~
+~
+1 -1 4577
+S
+#4579
+Outside Fantazia's Gates.~
+You are on a path leading to the west and the town of Fantazia
+to the east.  There are golden gates at the town entrance.
+The beautiful forest is to the north and south.
+~
+70 0 1 0
+0 32 0 0
+0 0 0
+D1
+You see golden gates.  The locks on the gates are in the shape
+of roses.  The gates resemble the gates at the foot of Jasmine's
+mountain.
+~
+door gate rose~
+~
+~
+1 -1 4580
+D3
+~
+~
+~
+~
+1 -1 4578
+S
+#4580
+Inside Fantazia's Gates.~
+You are on the inside of Fantazia' Gates. This is the town Fantazia.
+To the east is main street. To the west is the gate and the path that
+leads out of town.
+~
+70 0 1 0
+0 32 0 0
+0 0 0
+D1
+~
+~
+~
+~
+1 -1 4581
+D3
+~
+~
+~
+~
+1 -1 4579
+S
+#4581
+Main Street Fantazia.~
+You are on main street of Fantazia. The entire street is made
+of cobblestone. To the north you see a large buliding made of
+stone. It stretches two town blocks. Emmm..... to the south
+you smell the wonderful baked goods of Bambi's Bakery.
+~
+70 0 1 0
+0 32 0 0
+0 0 0
+D0
+~
+~
+~
+~
+1 -1 4582
+D1
+~
+~
+~
+~
+1 -1 4589
+D2
+~
+~
+~
+~
+1 -1 4588
+D3
+~
+~
+~
+~
+1 -1 4580
+S
+#4582
+Fantazia Public Library.~
+WELCOME!!! You have entered Fantazia public library.
+You must be quiet in here.  No talking.  You are welcome to look
+at any of the fine books we have in stock.  To see the titles we have
+look at the card catalog.  Thank You.. enjoy your stay.
+Oh yes..  We have a wonderful fiction area in the next room.
+~
+70 8 0 0
+0 32 0 0
+0 0 0
+D1
+~
+~
+~
+~
+1 -1 4587
+D2
+~
+~
+~
+~
+1 -1 4581
+E
+jasmine~
+As many people already know of Jasmine, let me fill in the minds of
+those who dont. Jasmine was the child of Queen fillin and King
+Phillip. The Queen was put to sleep by pricking her finger on a
+spinning wheel many years ago. No spinning wheels are alowed anywhere
+in the enchanted forest since. Phillip kissed her and she awoke.
+They had Jasmine two years after their marriage. As Jasmine grew up
+she always played on the mountain to the northwest corner of the
+Enchanted Forest. Phillip, realizing her love for the mountain and
+the pixies that lived near, named the mountain for his daughter and
+built her a large castle playhouse. The mother Pixie at that time
+was a beautiful pixie named Fantazia. Fantazia loved the forest and
+gardens. To keep the forest and gardens beautiful for his daughter
+em lays her head back on to your shoulder... this is nice. made a deal with Fantazia. He built the town Fantazia for the
+pixies in return for their keeping the mountain and the surrounding
+forest beautiful. After Jasmine moved into her playhouse fairys and
+pixies became her closest friends. The witch, before her death had
+a daughter also. The dark princess Razell. Razell heard of Jasmine'
+playcastle and built one for herself on the dark mountain in
+the northeast corner of the forest. They began to torment the pixies
+and Jasmine so Phillip ordered the great wall to be built around the
+entire forest and River, as foul creatures where using the river to get
+to the west side. Razell is not spoke of in Fantazia.... Phillip
+engaged his best fighter to be Jasmine' protector. Sir Franklin stays
+with Jasmine in her castle playhouse. It is guarded also by Jasmine' own
+private Panda guardsmen. Dont take this lightly, as they are fully armed.
+Panda' have always been Jasmine' Favorite animal and minature roses
+her favorite flower.
+~
+E
+fantazia~
+The little town of Fantazia was founded by the pixie Fantazia
+Sague. Thus the name of the town and the river that borders the
+enchanted forest. The pixies that work in the forest and the surrounding
+area live here. We have a population of 42 residents. Only the Great
+Pixie lives off in the forest somewhere. She is a direct ancestor of
+Fantazia. When the queen and king built Jasmines playhouse castle
+on Jasmine mountain they asked Fantazia and her family to oversee the
+beautiful forest below. We have done that ever since and look forward
+to taking care of it for many days to come.
+~
+E
+Casting~
+Casting spells is very easy here.
+1) What spells do you know?  to find this out type Practice or Prac
+for short.  To learn these spells you must go the guild of your
+class.
+2) Practice your spells till you have learned them.
+3) You can get extra practices by finding dragon crystals and offering
+them or naturally when you level.
+4) When you have learned your spells you can use them.  If you are unsure
+of a spell type help <spell>.  To use the spell you only need type
+cast <spell> <at who or what>    EXAMPLE: Cast heal Megan
+5) Good Luck with your casting:)
+~
+E
+card catalog list books~
+To read a book simply type look <KEYWORD>...
+. remember this is a library... please be quiet in here.
+.
+******* TITLES NOW AVAILABLE ********
+Megan's Practicle Guide for Casting <CASTING>
+The Story of Fantazia <FANTAZIA>
+The Story of Jasmine <JASMINE>
+~
+S
+#4587
+Fantazia Public Library - Room of Fiction.~
+You have entered a room full of fantasy.  The walls are covered
+with pictures of animals that could only come from imagination.
+This is still a library so please be quiet.  The
+card catalog will help you find a book to look at.
+Welcome...stay as long as you like.  If you are an author, send
+books for approval to Megan - tasha@peabrain.humgen.upenn.edu
+Thank You.. the Management..
+~
+70 8 0 0
+0 32 0 0
+0 0 0
+D3
+~
+~
+~
+~
+1 -1 4582
+E
+card catalog books list~
+To read a book simply type look <INDEX>
+.
+.
+******* Titles in Stock *******
+.
+-No books as of yet..  Write one and send it to the
+Libraarian.. Tasha@peabrain.humgen.upenn.edu
+~
+S
+#4588
+Bambi's Bakery.~
+You enter a room that is full of glass cases. Bambi makes the
+best pastery in all the lands. Look at the cakes.. Yummmm
+There are little white tables with checkered cloths to the right.
+The white chairs around the tables have checkered pads.
+I think the red minature roses on the tables add a nice touch,
+don't you???
+~
+70 8 0 0
+0 32 0 0
+0 0 0
+D0
+~
+~
+~
+~
+1 -1 4581
+E
+cakes cake pastery~
+There are doughnuts of all descriptions in the left case.
+And a coconut cake and a chocolate cake on the counter.
+Lots of breads in the right case, they look mighty yummy.
+~
+S
+#4589
+Main Street Fantazia.~
+You are on main street Fantazia. Main street runs
+east and west. The entire street is cobblestone.
+To the north is a large stone building, it continues one block
+to the west. To the south is the General Store.
+~
+70 0 1 0
+0 32 0 0
+0 0 0
+D1
+~
+~
+~
+~
+1 -1 4591
+D2
+~
+~
+~
+~
+1 -1 4590
+D3
+~
+~
+~
+~
+1 -1 4581
+S
+#4590
+Howard's General Store.~
+You enter into a well stocked general store. The isles are
+full of your general needs and wants. Step right
+up to the counter and Howie will love to help you.
+Type list to see the items available today.
+~
+70 8 0 0
+0 32 0 0
+0 0 0
+D0
+~
+~
+~
+~
+1 -1 4589
+S
+#4591
+Main Street Fantazia.~
+You are on main street Fantazia. Main street runs
+east and west. The entire street is cobblestone.
+To the north is Merchantile Loop. Fantazia Park is to
+the south.
+~
+70 0 1 0
+0 32 0 0
+0 0 0
+D0
+~
+~
+~
+~
+1 -1 4592
+D1
+~
+~
+~
+~
+1 -1 5489
+D2
+~
+~
+~
+~
+1 -1 5682
+D3
+~
+~
+~
+~
+1 -1 4589
+S
+#4592
+Merchantile Loop.~
+You are on Merchantile Loop, the business district of Fantazia.
+To the east is Tasha' Tot Land, the best pixie nursery in
+town. The loop continues to the north. The view to the west is
+blocked by the side of Fantazia Public Library.
+~
+70 0 1 0
+0 32 0 0
+0 0 0
+D0
+~
+~
+~
+~
+1 -1 4595
+D1
+~
+~
+~
+~
+1 -1 4594
+D2
+~
+~
+~
+~
+1 -1 4591
+S
+#4594
+Tasha's Tots.  ~
+You enter into a room full of color.  The tables to the left are
+very low to the ground.  Pink and Blue chairs are aligned around them.
+Colors were left out on one of them.  There are big bins to the
+side of them.  The Yellow one holds wooden blocks and boyish stuff.
+The Green one holds dolls of all types.  The right wall is all green.
+You look at it closer and you see it is velcro.  There is a box
+attached to the wall that is full of velcro overalls.  There is a bottle
+stuck on this wall and some blocks too.  I bet lil Pixie tots hang
+around all day.
+~
+70 8 0 0
+0 32 0 0
+0 0 0
+D3
+~
+~
+~
+~
+1 -1 4592
+E
+Yellow blocks ~
+All kinds of blocks and boy junk is stuffed in this bin.  You see
+a drum and drumsticks on top.
+~
+E
+doll dolls Green~
+You see a bin full of little dolls.  Rag dolls and wooden dolls.
+Little girl blankets and cribs are stuffed in with them.
+~
+S
+#4595
+Merchantile Loop Bend.~
+You are on Merchantile Loop, the business district of Fantazia.
+The bend goes to the east and to the south..
+~
+70 0 1 0
+0 32 0 0
+0 0 0
+D1
+~
+~
+~
+~
+1 -1 4596
+D2
+~
+~
+~
+~
+1 -1 4592
+S
+#4596
+Merchantile Loop.~
+You are on Merchantile Loop, the business district of Fantazia.
+To the north is Fancy' Frills and Things. To the south is the
+nursery playground. The loop continues east and west.
+~
+70 0 1 0
+0 32 0 0
+0 0 0
+D0
+~
+~
+~
+~
+1 -1 4597
+D1
+~
+~
+~
+~
+1 -1 4836
+D2
+The gate around the nursery's playground is large and has a old
+chain and lock on it.  The playground has all sorts of toys for
+the pixie toddlers.
+~
+gate fence playground~
+$n just left the playground...Hope the toddlers are ok.~
+OH NO!!!  $n has gotten in the gate.  Run in to the nursery hurry!!~
+1 -1 4598
+D3
+~
+~
+~
+~
+1 -1 4595
+S
+#4597
+Fancy's Frills -N- Things.~
+You enter into a beauty boutique.  It has a glass case full
+of bows ans ribbons.  Fancy is here to help you.  The dresses are
+in the back of the store.  Look at the rack.. what bargains.  I
+think Jasmine, princess of the enchanted forest, would love the
+fushia ones.  Jewelry are in the glass cases to the left wall.
+~
+70 8 0 0
+0 32 0 0
+0 0 0
+D2
+~
+~
+~
+~
+1 -1 4596
+E
+jewelry jewels necklace~
+You look at a glass case full of heirloom jewelry.  Diamonds, Rubys and Emeralds, hard to choose isn't it.
+~
+E
+rack dresses dress~
+You see a rack full of enchanting dresses. To get their cost
+you would type list. Red long gowns, Blue sleeveless satin gowns.
+A beautiful fushia gown with minature roses at each ruffle. They
+are all so beautiful. Buy one for yourself or for someone special.
+~
+S
+#4598
+The Nursery's Playground.~
+The playground is surrounded by a fence. The grass is really thick and
+green. There is a swing and a slide here. I like the sandbox
+myself. It is made of Fairy wood. It has a bench all around it. Wooden shovels
+and digging playtoys are in the sandbox.
+~
+70 0 2 0
+0 32 0 0
+0 0 0
+D0
+~
+~
+~
+~
+1 -1 4596
+S
+#4836
+Merchantile Loop.~
+You are on Merchantile Loop, the business district of Fantazia.
+To the north is Weapons -R- Us, a very fine weapon shoppe.  To the
+south is The Men's Place, for the better dressed men.
+~
+70 0 1 0
+0 32 0 0
+0 0 0
+D0
+~
+~
+~
+~
+1 -1 4897
+D1
+~
+~
+~
+~
+1 -1 5496
+D2
+~
+~
+~
+~
+1 -1 4898
+D3
+~
+~
+~
+~
+1 -1 4596
+S
+#4897
+WeApOnS -R- Us!~
+This is the weapons shop for all of Fantazia.  You
+see full dressed models made of wood all around
+the room.  There was a clearance so the stock is very low..to see what
+they have left type list.  There are sample sheets on the counter for
+each class.
+~
+70 8 0 0
+0 32 0 0
+0 0 0
+D2
+~
+~
+~
+~
+1 -1 4836
+E
+sheets sample sheet~
+There are sheets here.  One says Clerics Wardrobe 1-10, another says
+Thief Wardrobe 1-10, over on the other counter is Warriors and Mages.
+~
+E
+Cleric~
+Ideal Weapons for Level One thru Five: <sold here>
+Ideal Weapons for Level Five thru Ten: <sold here>
+~
+E
+Thief~
+Ideal Weapons for Level One thru Five: <sold here>
+Ideal Weapons for Level Five thru Ten: <sold here>
+~
+E
+Mage~
+Ideal Weapons for Level One thru Five: <sold here>
+Ideal Weapons for Level Five thru Ten: <sold here>
+~
+E
+Warrior~
+Ideal Weapons for Level One thru Five: <sold here>
+Ideal Weapons for Level Five thru Ten: <sold here>
+~
+S
+#4898
+The Men's Place.~
+This is the sheikest of places for a well dressed man. Zero stats, but for
+special occasions you need to be well dressed.
+~
+70 8 0 0
+0 32 0 0
+0 0 0
+D0
+~
+~
+~
+~
+1 -1 4836
+S
+#4899
+A Path Grown Over By Weeds.~
+You are going through a dense portion of the forest.  The path
+continues to the north and to the south.  To the south you see a
+faint glow through the trees.
+~
+70 0 3 0
+0 32 0 0
+5 0 0
+D0
+~
+~
+~
+~
+1 -1 4900
+D2
+~
+~
+~
+~
+1 -1 4570
+S
+#4900
+A Path Grown Over By Weeds.~
+You are going through a dense portion of the forest.  The path
+continues to the north and to the south.  To the south you see a
+faint glow through the trees.
+~
+70 0 3 0
+0 32 0 0
+5 0 0
+D0
+~
+~
+~
+~
+1 -1 4901
+D2
+~
+~
+~
+~
+1 -1 4899
+S
+#4901
+A Steep cliff Overlooking a Crystal Clear Lake.~
+You are at the end of a path.  It continues to the south.
+To the north is a steep cliff with the lake below.  Becareful
+not to fall.
+~
+70 0 3 0
+0 32 0 0
+5 0 0
+D0
+~
+~
+~
+~
+1 -1 4902
+D2
+~
+~
+~
+~
+1 -1 4900
+E
+lake~
+You see the beautiful clear lake.... A long long long way down.
+Careful........
+~
+S
+#4902
+A Crystal Clear Lake.  <DANGER>.~
+***** O H   M Y    G O S H  ! ! ! !  *****
+<DANGER> <DANGER>     <DANGER>     <DANGER>     <DANGER>
+>
+You have fallen off the cliff...You should have been careful, You will surely
+die from this height.
+~
+70 2 3 0
+0 32 0 0
+5 0 0
+D2
+~
+~
+~
+~
+1 -1 4901
+S
+#4903
+A Crystal Clear Lake.~
+You step into a crystal clear lake.  It is about knee deep or
+a little higher here.  You see off to the north, across the
+lake a small clearing.  Something is twinkling over there.
+~
+70 4 6 0
+0 32 0 0
+5 0 0
+D0
+~
+~
+~
+~
+1 -1 4906
+D2
+~
+~
+~
+~
+1 -1 4566
+S
+#4906
+A Crystal Clear Lake.~
+You are in the lake.  It is a beautiful shade of blue.  You see
+many fish around.  There are lilypads floating on the top.
+You see a clearing across the lake to the north, and the forest to
+the south.  You thought you saw someone leave the lake throught those trees to
+the south.
+~
+70 0 7 0
+0 32 0 0
+5 0 0
+D0
+~
+~
+~
+~
+1 -1 5031
+D2
+~
+~
+~
+~
+1 -1 4903
+S
+#5031
+A Crystal Clear Lake.~
+You are in the lake. It is a beautiful shade of blue. You see
+many fish around. There are lilypads floating on the top.
+You see a clearing across the lake to the north, and the forest to
+the south, across the lake..
+~
+70 0 7 0
+0 32 0 0
+5 0 0
+D0
+~
+~
+~
+~
+1 -1 5032
+D2
+~
+~
+~
+~
+1 -1 4906
+S
+#5032
+A Crystal Clear Lake.~
+You are in the lake. It is a beautiful shade of blue. You see
+many fish around. There are lilypads floating on the top.
+You see a clearing across the lake to the north, and the forest to
+the far south, across the lake.  Air bubbles just came up around you.
+~
+70 0 7 0
+0 32 0 0
+5 0 0
+D0
+~
+~
+~
+~
+1 -1 5474
+D2
+~
+~
+~
+~
+1 -1 5031
+D5
+~
+~
+~
+~
+1 -1 5033
+S
+#5033
+Too Dark To Tell.~
+You are in a gap between the lake and something.  Never have you
+had this happen.  When you dove down the water dissappeared.
+This is a totally dry area.  The walls of this room are green marble.
+You see the lake above you as if you were looking down on water not
+up. This room feels very warm.  The light from above lights this
+room with the swirls of the water shadowing on the walls.
+~
+70 8 0 0
+0 32 0 0
+5 0 0
+D1
+The marble is a little different shade looking this direction.
+~
+wall marble~
+You see $n force the wall open and enter a secret room.~
+You see $n come through the wall.~
+1 -1 5034
+D4
+~
+~
+~
+~
+1 -1 5032
+S
+#5034
+Temple of the Water Goddess Aquareen.~
+You have enetered the private temple of the water goddess.
+The walls are made of shells, they echo all the colors of the rainbow.
+The lights dance across the room.  There are crystal statues
+lining each side of the room.  They are in the image of angels.
+There are lake plants growing in vases of water.  Water
+flows from the walls in fountain like shells.
+~
+70 8 0 0
+0 32 0 0
+5 0 0
+D3
+~
+~
+~
+~
+1 -1 5033
+S
+#5474
+A Crystal Clear Lake.~
+You are in the lake. It is a beautiful shade of blue. You see
+many fish around. There are lilypads floating on the top.
+The clearing is to the north.  It is about waist deep here.  There
+is nothing but lake to the south, bordered by the beautiful forest.
+~
+70 4 6 0
+0 32 0 0
+5 0 0
+D0
+~
+~
+~
+~
+1 -1 5475
+D2
+~
+~
+~
+~
+1 -1 5032
+S
+#5475
+Beautiful Lakeside Clearing.~
+You are standing aside a crystal clear lake.  The forest is behind
+you too the north, the lake is to the south.  There is a small path
+leading off to the east.  It looks very small but well traveled.
+The ground is a very silky sand.  You can find shells all around.
+very uncommon since this is a lake and not an ocean.  The water isn't
+salty, but clean fresh crystal clear water.  You have heard of
+the lake goddess Aquareen, maybe she was here.  She has
+a gown of shells.  *Ponder*  DOES SHE REALLY EXIST??
+~
+70 0 2 0
+0 32 0 0
+5 0 0
+D1
+~
+~
+~
+~
+1 -1 5476
+D2
+~
+~
+~
+~
+1 -1 5474
+S
+#5476
+A Very Small Path.~
+You are on a very tiny path leading through the dense forest.
+There are trees crowding you from the north and south.  To the
+east the path continues, to the west is a clearing.
+~
+70 0 3 0
+0 32 0 0
+5 0 0
+D1
+~
+~
+~
+~
+1 -1 5477
+D3
+~
+~
+~
+~
+1 -1 5475
+S
+#5477
+A Very Small Path.~
+You are on a very tiny path leading through the dense forest.
+There are trees crowding you from the north and south.  To the
+east and to the west the path continues.
+~
+70 0 3 0
+0 32 0 0
+5 0 0
+D1
+~
+~
+~
+~
+1 -1 5478
+D3
+~
+~
+~
+~
+1 -1 5476
+S
+#5478
+A Very Small Path.~
+You are on a very tiny path leading through the dense forest.
+There are trees crowding you from the north and south.  To the
+east is a very well kept up dirt path.  It looks like a park bench
+up ahead to the east.  To the west, the path continues.
+~
+70 0 3 0
+0 32 0 0
+5 0 0
+D1
+~
+~
+~
+~
+1 -1 5479
+D3
+~
+~
+~
+~
+1 -1 5477
+S
+#5479
+DeadEnd Park~
+This is DeadEnd Park. Back of Fantazia' suburbs. The flowers
+are unique and the landscape is well kept here. You see many
+birds make this their home. The entire park is a picture of beauty.
+The park continues to the east, there is a tiny path off to the
+west. Champion Lane is off to the north.
+~
+70 0 1 0
+0 32 0 0
+5 0 0
+D0
+~
+~
+~
+~
+1 -1 5485
+D1
+~
+~
+~
+~
+1 -1 5480
+D3
+~
+~
+~
+~
+1 -1 5478
+S
+#5480
+DeadEnd Park~
+This is DeadEnd Park. Back of Fantazia' suburbs. The flowers
+are unique and the landscape is well kept here. You see many
+birds make this their home. The entire park is a picture of beauty.
+The forest lines the park to the east, the beautiful park continues on
+west. To the north is Emerald Ave.
+~
+70 0 1 0
+0 32 0 0
+5 0 0
+D0
+~
+~
+~
+~
+1 -1 5481
+D3
+~
+~
+~
+~
+1 -1 5479
+S
+#5481
+Emerald Avenue.~
+This is main street suburbia, Fantazia's leading citizens live on
+Emerald Ave.  There are houses to the east and west.  Emerald
+Avenue runs north.
+~
+70 0 1 0
+0 32 0 0
+5 0 0
+D0
+~
+~
+~
+~
+1 -1 5482
+D2
+~
+~
+~
+~
+1 -1 5480
+S
+#5482
+Emerald Avenue.~
+This is main street suburbia, Fantazia' leading citizens live on
+Emerald Ave. There are houses to the east and west. Emerald
+Avenue runs north and south..
+~
+70 0 1 0
+0 32 0 0
+5 0 0
+D0
+~
+~
+~
+~
+1 -1 5483
+D2
+~
+~
+~
+~
+1 -1 5481
+S
+#5483
+Emerald Avenue.~
+This is main street suburbia, Fantazia' leading citizens live on
+Emerald Ave. There are houses to the east and west. Emerald
+Avenue runs north and south..
+~
+70 0 1 0
+0 32 0 0
+5 0 0
+D0
+~
+~
+~
+~
+1 -1 5484
+D2
+~
+~
+~
+~
+1 -1 5482
+S
+#5484
+Emerald Avenue.~
+This is main street suburbia, Fantazia' leading citizens live on
+Emerald Ave. There are houses to the east and west. Emerald
+Avenue runs south, Main Street is to the north.
+~
+70 0 1 0
+0 32 0 0
+5 0 0
+D0
+~
+~
+~
+~
+1 -1 5491
+D2
+~
+~
+~
+~
+1 -1 5483
+S
+#5485
+Champion Lane.~
+This is Champion Lane.  It at one time was a road where games
+were held.  It has since been added to Fantazia's suburbs.  There
+are houses lining the east and west of Champion Lane.  The lane
+continues to the north.
+~
+70 0 1 0
+0 32 0 0
+5 0 0
+D0
+~
+~
+~
+~
+1 -1 5486
+D2
+~
+~
+~
+~
+1 -1 5479
+S
+#5486
+Champion Lane.~
+This is Champion Lane. It at one time was a road where games
+were held. It has since been added to Fantazia' suburbs. There
+are houses lining the east and west of Champion Lane. The lane
+continues to the north and south..
+~
+70 0 1 0
+0 32 0 0
+5 0 0
+D0
+~
+~
+~
+~
+1 -1 5487
+D2
+~
+~
+~
+~
+1 -1 5485
+S
+#5487
+Champion Lane.~
+This is Champion Lane. It at one time was a road where games
+were held. It has since been added to Fantazia' suburbs. There
+are houses lining the east and west of Champion Lane. The lane
+continues to the north and south..
+~
+70 0 1 0
+0 32 0 0
+5 0 0
+D0
+~
+~
+~
+~
+1 -1 5488
+D2
+~
+~
+~
+~
+1 -1 5486
+S
+#5488
+Champion Lane.~
+This is Champion Lane. It at one time was a road where games
+were held. It has since been added to Fantazia' suburbs. There
+are houses lining the east and west of Champion Lane. The lane
+continues to the south, Main Street is to the north.
+~
+70 0 1 0
+0 32 0 0
+5 0 0
+D0
+~
+~
+~
+~
+1 -1 5490
+D2
+~
+~
+~
+~
+1 -1 5487
+S
+#5489
+Main Street Fantazia.~
+You are on main street Fantazia. Main street runs
+east and west. The entire street is cobblestone.
+To the north is the side of Tasha's nursey and to the south
+is Fantazia park.  You cant enter the park here though.  The
+entrance is to the west.
+~
+70 0 1 0
+0 32 0 0
+0 0 0
+D1
+~
+~
+~
+~
+1 -1 5490
+D3
+~
+~
+~
+~
+1 -1 4591
+S
+#5490
+Main Street Fantazia.~
+You are on main street Fantazia. Main street runs
+east and west. The entire street is cobblestone.
+To the north is Merchantile Loop, the business section of
+Fantazia. To the south is Champion Lane, the suburbs.
+~
+70 0 1 0
+0 32 0 0
+0 0 0
+D0
+~
+~
+~
+~
+1 -1 5497
+D1
+~
+~
+~
+~
+1 -1 5491
+D2
+~
+~
+~
+~
+1 -1 5488
+D3
+~
+~
+~
+~
+1 -1 5489
+S
+#5491
+Main Street Fantazia.~
+You are on main street Fantazia. Main street runs
+east and west. The entire street is cobblestone.
+To the east is City Hall to the south is Emerald Avenue.
+Emerald Avenue is the the richest area of suburbia.
+~
+70 0 1 0
+0 32 0 0
+0 0 0
+D1
+~
+~
+~
+~
+1 -1 5492
+D2
+~
+~
+~
+~
+1 -1 5484
+D3
+~
+~
+~
+~
+1 -1 5490
+S
+#5492
+City Hall - Fantazia~
+You walk up the step and enter the double doors of City Hall.
+The hallways are carpeted in a deep red carpet.  The black fringe
+around the carpet brings out the crest that is woven in as a design.
+When you first looked you thought that there were soldiers lining
+the wall, but after a second look, they are just statues with full
+armor. Too bad that the armor cannot be removed.  It would
+buff the worst of warriors.  There are swords and crests hanging
+high on the walls.  The hallway continues to the east.  The
+Shiriff's office is through the double doors north.
+~
+70 8 0 0
+0 32 0 0
+0 0 0
+D0
+~
+~
+~
+~
+1 -1 5494
+D1
+~
+~
+~
+~
+1 -1 5493
+D3
+~
+~
+~
+~
+1 -1 5491
+S
+#5493
+City Hall - Fantazia~
+The hallways are carpeted in a deep red carpet. The black fringe
+around the carpet brings out the crest that is woven in as a design.
+When you first looked you thought that there were soldiers lining
+the wall, but after a second look, they are just statues with full
+armor. Too bad that the armor cannot be removed. It would
+buff the worst of warriors. There are swords and crests hanging
+high on the walls. The hallway continues to the west. The
+Mayor' office is through the double doors north.
+~
+70 8 0 0
+0 32 0 0
+0 0 0
+D0
+~
+~
+~
+~
+1 -1 5495
+D3
+~
+~
+~
+~
+1 -1 5492
+S
+#5494
+Fantazia's Shriff Office.~
+~
+70 8 0 0
+0 32 0 0
+0 0 0
+D2
+~
+~
+~
+~
+1 -1 5492
+S
+#5495
+Mayor of Fantazia's Private Office.~
+~
+70 8 0 0
+0 32 0 0
+0 0 0
+D2
+~
+~
+~
+~
+1 -1 5493
+S
+#5496
+Bend in Merchantile Loop.~
+You are on Merchantile Loop, the business district of Fantazia.
+To the north is Sir Alex's Armory.  Merchantile loop continues
+south and west.  A drunk came out of the shadow to the east and
+disappeared back into the shadow.
+~
+70 0 1 0
+0 32 0 0
+0 0 0
+D1
+~
+~
+~
+~
+1 -1 5498
+D2
+~
+~
+~
+~
+1 -1 5497
+D3
+~
+~
+~
+~
+1 -1 4836
+S
+#5497
+Mercantile Loop.~
+You are on Merchantile Loop, the business district of Fantazia.
+The loop continues to the north. Main Street is to the south.
+To the east is a statue of Jasmine, our fair princess. Behind it lies
+city hall. A large stone building with beautiful carvings of our
+founding pixies all around the roof of the building.
+~
+70 0 1 0
+0 32 0 0
+0 0 0
+D0
+~
+~
+~
+~
+1 -1 5496
+D2
+~
+~
+~
+~
+1 -1 5490
+S
+#5498
+VERY DARK MUSTY ALLEY...~
+This alley is very dark even with your light source.  You
+can not be sure what is here even if you look all direction every
+step. You have a feeling something is down this alley though.
+*Ponder* And where did that drunk you saw go.
+~
+70 1 1 0
+0 32 0 0
+0 0 0
+D1
+~
+~
+~
+~
+1 -1 5499
+D3
+~
+~
+~
+~
+1 -1 5496
+S
+#5499
+VERY DARK MUSTY ALLEY...~
+This alley is very dark even with your light source.  You
+can not be sure what is here even if you look all direction every
+step. You have a feeling something is down this alley though.
+*Ponder* And where did that drunk you saw go.
+~
+70 1 1 0
+0 32 0 0
+0 0 0
+D1
+~
+~
+~
+~
+1 -1 5590
+D3
+~
+~
+~
+~
+1 -1 5498
+S
+#5590
+VERY DARK MUSTY ALLEY...~
+This alley is very dark even with your light source.  You
+can not be sure what is here even if you look all direction every
+step. You have a feeling something is down this alley though.
+*Ponder* And where did that drunk you saw go.
+~
+70 1 1 0
+0 32 0 0
+0 0 0
+D1
+~
+~
+~
+~
+1 -1 5591
+D3
+~
+~
+~
+~
+1 -1 5499
+S
+#5591
+VERY DARK MUSTY ALLEY...~
+This alley is very dark even with your light source.  You
+can not be sure what is here even if you look all direction every
+step. You have a feeling something is down this alley though.
+*Ponder* And where did that drunk you saw go.
+~
+70 1 1 0
+0 32 0 0
+0 0 0
+D0
+You think you saw eyes peek througha crack in the wall, but the darkness
+keeps you from being sure of anything you see.
+~
+door market~
+$n was here, then disappeared in the shadow.~
+$n has entered, hide the goodstuff.~
+1 -1 5593
+D1
+~
+~
+~
+~
+1 -1 5592
+D3
+~
+~
+~
+~
+1 -1 5590
+S
+#5592
+The Black Dog Pub.~
+You enter into a very dark smelly pub. There are rogues and
+bar babes everywhere. When you walked in you heard the guy next
+to the bar tell that short man next to him that he got some
+really good money for the stuff he stole when he sold it to
+the black market. You have heard of the black market but it is
+not public knowledge where it is. As soon as you entered, the
+descussion was stopped. The smoke is so thick in here, for your
+own health dont stay here long.
+~
+70 9 0 0
+0 32 0 0
+0 0 0
+D3
+~
+~
+~
+~
+1 -1 5591
+S
+#5593
+Thieve's Black Market.~
+You see a man in a dark cloak by a small light in the center
+of the room. He asks you what you are doing here. Buy or sell?
+He' a busy man.. No time for the likes of you...
+~
+70 9 0 0
+0 32 0 0
+0 0 0
+D2
+~
+~
+~
+~
+1 -1 5591
+S
+#5617
+Royal Courtyard Road.~
+You are inside the gates of Jasmine's Courtyard. The orchard is
+all around you. The road continues up the steep hill. The orchard
+lines the winding road. The fresh smell in the air exillerates you.
+The grand gates are to the south.
+~
+70 4 4 0
+0 32 0 0
+0 0 0
+D1
+~
+~
+~
+~
+1 -1 5619
+D2
+~
+~
+~
+~
+1 -1 4577
+S
+#5618
+Royal Courtyard Road.~
+You follow the emerald green cobblestone road through the orchard.
+The orchard lines either side of the road. You can smell the
+freshness in the air. There are birds singing in the trees, and the
+squirrels and butterfiles dance amongst them. The road continues up and
+and down the hill winding around and through the orchard.
+~
+70 0 4 0
+0 32 0 0
+0 0 0
+D1
+~
+~
+~
+~
+1 -1 5629
+D3
+~
+~
+~
+~
+1 -1 5619
+S
+#5619
+Royal Courtyard Road.~
+You follow the emerald green cobblestone road through the orchard.
+The orchard lines either side of the road. You can smell the
+freshness in the air. There are birds singing in the trees, and the
+squirrels and butterfiles dance amongst them. The road continues up and
+and down the hill winding around and through the orchard.
+~
+70 0 4 0
+0 32 0 0
+0 0 0
+D1
+~
+~
+~
+~
+1 -1 5618
+D2
+~
+~
+~
+~
+1 -1 5621
+D3
+~
+~
+~
+~
+1 -1 5617
+S
+#5620
+Royal Courtyard Road.~
+You follow the emerald green cobblestone road through the orchard.
+The orchard lines either side of the road. You can smell the
+freshness in the air. There are birds singing in the trees, and the
+squirrels and butterfiles dance amongst them. The road continues up and
+and down the hill winding around and through the orchard.
+~
+70 0 4 0
+0 32 0 0
+0 0 0
+D0
+~
+~
+~
+~
+1 -1 5621
+S
+#5621
+Royal Courtyard Road.~
+You follow the emerald green cobblestone road through the orchard.
+The orchard lines either side of the road. You can smell the
+freshness in the air. There are birds singing in the trees, and the
+squirrels and butterfiles dance amongst them. The road continues up and
+and down the hill winding around and through the orchard.
+~
+70 0 4 0
+0 32 0 0
+0 0 0
+D0
+~
+~
+~
+~
+1 -1 5619
+D1
+~
+~
+~
+~
+1 -1 5623
+D2
+~
+~
+~
+~
+1 -1 5620
+S
+#5622
+Royal Courtyard Road.~
+You follow the emerald green cobblestone road through the orchard.
+The orchard lines either side of the road. You can smell the
+freshness in the air. There are birds singing in the trees, and the
+squirrels and butterfiles dance amongst them. The road continues up and
+and down the hill winding around and through the orchard.
+~
+70 0 4 0
+0 32 0 0
+0 0 0
+D3
+~
+~
+~
+~
+1 -1 5623
+D5
+~
+~
+~
+~
+1 -1 5629
+S
+#5623
+Royal Courtyard Road.~
+You follow the emerald green cobblestone road through the orchard.
+The orchard lines either side of the road. You can smell the
+freshness in the air. There are birds singing in the trees, and the
+squirrels and butterfiles dance amongst them. The road continues up and
+and down the hill winding around and through the orchard.
+~
+70 0 4 0
+0 32 0 0
+0 0 0
+D1
+~
+~
+~
+~
+1 -1 5622
+D2
+~
+~
+~
+~
+1 -1 5624
+D3
+~
+~
+~
+~
+1 -1 5621
+S
+#5624
+Royal Courtyard Road.~
+You follow the emerald green cobblestone road through the orchard.
+The orchard lines either side of the road. You can smell the
+freshness in the air. There are birds singing in the trees, and the
+squirrels and butterfiles dance amongst them. The road continues up and
+and down the hill winding around and through the orchard.
+~
+70 0 4 0
+0 32 0 0
+0 0 0
+D0
+~
+~
+~
+~
+1 -1 5623
+D3
+~
+~
+~
+~
+1 -1 5625
+S
+#5625
+Royal Courtyard Road.~
+You follow the emerald green cobblestone road through the orchard.
+The orchard lines either side of the road. You can smell the
+freshness in the air. There are birds singing in the trees, and the
+squirrels and butterfiles dance amongst them. The road continues up and
+and down the hill winding around and through the orchard.
+~
+70 0 4 0
+0 32 0 0
+0 0 0
+D0
+~
+~
+~
+~
+1 -1 5626
+D1
+~
+~
+~
+~
+1 -1 5624
+S
+#5626
+Royal Courtyard Road.~
+You follow the emerald green cobblestone road through the orchard.
+The orchard lines either side of the road. You can smell the
+freshness in the air. There are birds singing in the trees, and the
+squirrels and butterfiles dance amongst them. The road continues up and
+and down the hill winding around and through the orchard.
+~
+70 0 4 0
+0 32 0 0
+0 0 0
+D1
+~
+~
+~
+~
+1 -1 5627
+D2
+~
+~
+~
+~
+1 -1 5625
+S
+#5627
+Royal Courtyard Road.~
+You follow the emerald green cobblestone road through the orchard.
+The orchard lines either side of the road. You can smell the
+freshness in the air. There are birds singing in the trees, and the
+squirrels and butterfiles dance amongst them. The road continues up and
+and down the hill winding around and through the orhard.
+~
+70 0 4 0
+0 32 0 0
+0 0 0
+D2
+~
+~
+~
+~
+1 -1 5628
+D3
+~
+~
+~
+~
+1 -1 5626
+S
+#5628
+Royal Courtyard Road.~
+You stand before a beautiful castle hidden within the orchard.
+It has a small bridge that covers the tiny moat around it. The
+double doors are white inlaid with gold designs.
+The cobblestone road continues to the north.
+~
+70 0 4 0
+0 32 0 0
+0 0 0
+D0
+~
+~
+~
+~
+1 -1 5627
+D1
+~
+~
+~
+~
+1 -1 5630
+S
+#5629
+Royal Courtyard Road.~
+You follow the emerald green cobblestone road through the orchard.
+The orchard lines either side of the road. You can smell the
+freshness in the air. There are birds singing in the trees, and the
+squirrels and butterfiles dance amongst them. The road continues up and
+and down the hill winding around and through the orchard.
+There are steps leading up the side of the hill here.  They match the road.
+~
+70 0 4 0
+0 32 0 0
+0 0 0
+D3
+~
+~
+~
+~
+1 -1 5618
+D4
+~
+~
+~
+~
+1 -1 5622
+S
+#5630
+Moat Bridge.~
+You cross the bridge over the moat.  The castle is to the east
+and the cobblestone road continues to the west.
+~
+70 4 1 0
+0 32 0 0
+0 0 0
+D1
+You are standing before large doors to Jasmine's Castle.  They
+are white with gold inlaid designs.  The castle is not all that
+large, but the doors entering the castle make up for it.  They seem to
+span the entire height of the castle.  There are flower vines running
+up the side of the castle.
+~
+door sesame castle~
+~
+~
+2 -1 5631
+D3
+~
+~
+~
+~
+1 -1 5628
+S
+#5631
+Jasmine's Castle - Grand Entrance.~
+You are standing in a large entrance way.  The ceiling arches all the way
+to the top of the castle. There are stained glass designs on the
+ceiling, and a large chandalier hangs from it. It has crystal prisms
+and lit candles all around it. At the far end of the hallway
+is a staircase going to the south and north. Above you, you see
+banners hanging. The hallway is well guarded with guards lining the
+walls looking very attentive at you.
+~
+70 8 0 0
+0 32 0 0
+0 0 0
+D1
+~
+~
+~
+~
+1 -1 5632
+D3
+~
+~
+~
+~
+1 -1 5630
+S
+#5632
+Jasmine's Castle - Grand Entrance.~
+You are standing in a large entrance way. The ceiling arches all the way
+to the top of the castle. There are stained glass designs on the
+ceiling. You can see the banisters lining the halls above, east
+is the staircase leading to them. Above, there are still
+banners hanging. The hallway is well guarded . The guards lining the
+walls are looking very attentive at you.
+~
+70 8 0 0
+0 32 0 0
+0 0 0
+D0
+~
+~
+~
+~
+1 -1 5633
+D1
+~
+~
+~
+~
+1 -1 5637
+D2
+~
+~
+~
+~
+1 -1 5634
+D3
+~
+~
+~
+~
+1 -1 5631
+S
+#5633
+The Grand Ballroom.~
+A beautifully decorated ballroom.  Crystal and gold.  There is
+music being played and all Jasmine's guests are enjoying themselves.
+Jasmine is no where to be seen though.  The room is pinks and
+light purples.  With the crystal and gold accents, this room is
+beautiful. There are flowers all around and a fountain to the
+far wall coming from it into a pool with floating lillies.  The family
+crest is above it.
+~
+70 8 0 0
+0 32 0 0
+0 0 0
+D1
+~
+~
+~
+~
+1 -1 5636
+D2
+~
+~
+~
+~
+1 -1 5632
+S
+#5634
+The Dining Hall.~
+A large spacious room decorated in pastel colors.  There is a
+long table covered in a very light pink lace cloth running the
+length of the room.  Small, delicate looking chairs are placed
+all around the table.  The table is set as if there is to be banquet.
+There is a portrait of Jasmine on the far wall.  She is in the garden
+in the portrait.
+~
+70 8 0 0
+0 32 0 0
+0 0 0
+D0
+~
+~
+~
+~
+1 -1 5632
+D1
+~
+~
+~
+~
+1 -1 5635
+S
+#5635
+Pure White Kitchen.~
+You are standing in a pure white kitchen.  Everything here is
+white..must be a cooks nightmare to keep clean.  Pans are hanging
+from the ceiling around the stove.  There is food laying out on the
+counters. I wonder why you were not invited??
+~
+70 8 0 0
+0 32 0 0
+0 0 0
+D0
+~
+~
+~
+~
+1 -1 5636
+D3
+~
+~
+~
+~
+1 -1 5634
+S
+#5636
+Back Hallway Beneath the Staircase.~
+A well lit hallway leading from the kitchen to the ball room.
+It is used by the kitchen staff only.
+~
+70 8 0 0
+0 32 0 0
+0 0 0
+D2
+~
+~
+~
+~
+1 -1 5635
+D3
+~
+~
+~
+~
+1 -1 5633
+S
+#5637
+Staircase.~
+Beautiful staircase leading up to the south and north.
+~
+70 8 0 0
+0 32 0 0
+0 0 0
+D0
+~
+~
+~
+~
+1 -1 5639
+D2
+~
+~
+~
+~
+1 -1 5638
+D3
+~
+~
+~
+~
+1 -1 5632
+S
+#5638
+Staircase.~
+The long flight of stairs overlook the grand entrance and
+lead to the Amber Hall.  There are candles hanging on the
+wall lighting your way.  The staircase is made with fairywood.
+~
+70 8 0 0
+0 32 0 0
+0 0 0
+D0
+~
+~
+~
+~
+1 -1 5637
+D3
+~
+~
+~
+~
+1 -1 5640
+S
+#5639
+Staircase.~
+The long flight of stairs overlook the grand entrance and
+lead to the Fushia Hall. There are candles hanging on the
+wall lighting your way. The staircase is made with fairywood.
+~
+70 8 0 0
+0 32 0 0
+0 0 0
+D2
+~
+~
+~
+~
+1 -1 5637
+D3
+~
+~
+~
+~
+1 -1 5642
+S
+#5640
+The Amber Hall.~
+You are in the amber hall.  The banister to the north overlooks the entrance.
+The entire hall is amber from the carpet to the walls. Even the
+flowers in the pots lining the walls are amber. There are large
+double doors to the west. They are dark wood and have gold designs on
+them.
+~
+70 12 0 0
+0 32 0 0
+0 0 0
+D1
+~
+~
+~
+~
+1 -1 5638
+D3
+~
+~
+~
+~
+1 -1 5641
+S
+#5641
+Sir Grats Franklin's Private Chambers.~
+You are in Sir Franklin's Private chambers.  It is a very simple
+room. There is a large heavy wooden bed, a large desk and a chepharobe
+here, nothing fancy at all.  The window overlooks the garden.
+~
+70 8 0 0
+0 32 0 0
+0 0 0
+D0
+You see a beautiful portrait of Jasmine on the wall.
+~
+portrait secret~
+You see $n enter the portrait of Jasmine.~
+You see $n enter thru the secret passageway.~
+2 -1 5643
+D1
+~
+~
+~
+~
+1 -1 5640
+S
+#5642
+The Fushia Hall.~
+You are in the fushia hall. The banister to the south overlooks the entrance.
+The entire hall is fushia from the carpet to the walls. Even the
+flowers in the pots lining the walls are fushia. There are large
+double doors to the west. They are dark wood and have gold designs on
+them.
+~
+70 8 0 0
+0 32 0 0
+0 0 0
+D1
+~
+~
+~
+~
+1 -1 5639
+D3
+~
+~
+~
+~
+1 -1 5643
+S
+#5643
+Jasmine's Private Chambers.~
+The room smells of jasmine and maplewood. There is a queensize brass
+bed against the far wall. It has two ruffled fluffy pillows on it.
+A comforter is stretched across the bed. The ruffles of the pillows
+match the curtains on the shutter doors and the ruffles around the
+bed. On the maplewood dresser there is a picture of her family and a
+comb set. Along her mirror are all her dolls and her perfume.
+She has fresh cut flowers in a small vase.
+~
+70 8 0 0
+0 32 0 0
+0 0 0
+D1
+~
+~
+~
+~
+1 -1 5642
+D2
+You see a beautiful portrait of Sir Grats Franklin on the wall.
+~
+secret portrait~
+You see $n enter the portrait of Grats.~
+You see $n enter thru the secret passageway.~
+2 -1 5641
+S
+#5682
+Fantazia Town Park.~
+A beautiful park in the middle of town.  There is a large fountain
+in the middle of the walk.  Nothing really specail about the
+circular fountain.  It just looks nice in this plain setting.  The
+park is very well kept up.
+~
+70 0 1 0
+0 32 0 0
+0 0 0
+D0
+~
+~
+~
+~
+1 -1 4591
+S
+#19016
+Marble Courtyard & The Fountain of Angels.~
+You are standing on a marble courtyard that encircles a magnificent
+fountain of angels.  The inscription along its base reads, Wish
+all who pass both Beauty and Tranquility.  Towering over all the tree
+tops to the north is the entrance to the Great Stone Tunnel Bridge.
+It is said that this is the entrance to the beautiful Enchanted Lands.
+~
+70 0 1 0
+0 32 0 0
+0 0 0
+D0
+~
+~
+~
+~
+1 -1 4519
+E
+Fountain angels water~
+A beautiful pale blue marble fountain with four angels, hands
+intertwined in the center.  They appear to be dancing thru the
+fountain of water that sprays like a rainbow over their arms.  Inscribed
+in the base is this : Wish for all who pass both Beauty and Tranquility.
+~
+S
+#19999
+$~

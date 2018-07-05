@@ -1,0 +1,537 @@
+#470
+A foyer~
+You stand inside an eerie entryway. The floor is tiled with black marble
+and the walls and ceiling are made of dark granite, polished smooth. A
+magnificent chandelier hangs down in the middle of the room, it is made of
+gold and studded with rubies. A few cobwebs cling to the top of the chain.
+~
+13 520 0 7
+0 0 6 0
+0 0 0
+D0
+A high arched doorway with intricately carved framework.
+~
+ ~
+$n starts down the long hallway to the north.~
+Loud footsteps echo throughout the hall as $n arrives from the south.~
+1 -1 472
+D1
+A few steps lead down through an archway into a finely furnished room.
+~
+ ~
+$n walks through the doorway to the east.~
+$n walks down the steps and stands near the room's entrance.~
+1 -1 471
+D2
+A pair of double doors, made of heavy oak, rimmed by black iron.
+~
+doors door~
+ ~
+ ~
+1 6674 1557
+D3
+A very solid looking oak door blocks the way west.
+~
+door oak~
+$n opens the door and steps into the library.~
+$n opens the door and steps into the library.~
+1 6674 482
+S
+#471
+A cozy sitting room~
+This is a fairly large, yet cozy room.  The walls are made to resemble logs
+and the floor is polished hardwood.  A few large skins of black bears have
+been places around the room, giving it a warmer feel.  There are two love
+seat couches facing each other in the center of the room with a small table
+in between them.  Two chairs face the fireplace built into the northern wall.
+Several small mahogony tables and plush comfortable chairs are placed in
+various positions about the room.
+~
+13 8 0 7
+0 0 0 0
+0 0 0
+D3
+A few steps lead up through an archway into the foyer.
+~
+ ~
+$n walks up the stairs into the entryway of the castle.~
+$n arrives from the room to the east.~
+1 -1 470
+S
+#472
+A wide hallway~
+This hallway is quite large, wide enough for at least four men to walk side
+by side. The floor is tiled with black marble and the walls and ceiling
+are made of dark granite, polished smooth. Torches line the walls in golden
+sconces, illuminating your way.
+~
+13 520 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+$n continues down the hallway to the north.~
+Loud footsteps echo throughout the hall as $n arrives from the south.~
+1 -1 3482
+D2
+A high arched doorway with intricately carved framework.
+~
+ ~
+$n returns to the entryway to the south.~
+Loud footsteps echo throughout the room as $n arrives from the north.~
+1 -1 470
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 5884
+S
+#482
+A library and study~
+Bookshelves line the north, west and east walls of this room from floor
+to ceiling. The shelves are filled with hundreds of books, all bound
+in night-blue bindings, except for the north bookcase. Its books are bound
+in midnight black covers with delicate silver runes adorning the bindings.
+A huge black stone table sits against the south wall, its surface
+is polished and glassy smooth. A high backed leather chair is pushed
+in under the table. A window sits just above the table's surface and
+provides a view of the grassy yard and surrounding forest outside.
+~
+13 520 0 7
+0 0 0 0
+0 0 0
+D0
+A tall bookcase occupies this entire wall.
+~
+passage behind the bookcase~
+ ~
+ ~
+3 5721 572
+D1
+The solid oak door separates the library from the foyer.
+~
+door oak~
+$n leaves and closes the door.~
+$n quietly closes the oak door as $s comes out of the library.~
+1 6674 470
+E
+table stone black~
+This table is about ten feet long and almost five deep.  It is made of
+solid black stone and the surface is glass smooth while the sides are rough
+and unfinished.  The legs of the table are carved to resemble dragons' legs;
+as if the table were a stone beast.  An old piece of parchment is sitting
+in plain view on the tabletop.
+~
+E
+parchment paper~
+The parchment is old and turning yellow, the edges are ripped and one part
+is slightly charred.  Something has been scribbled down in a shakey hand...
+. . .
+You've left me with nothing left but questions
+You left me here not knowing who I am
+You've left me so much fucking time to hate you
+You left me with no choice but to die
+Violent Mood Swings...
+Your voice whispers nearly all the time now
+Reminding me just how worthless I am
+Sometimes I just hear you laugh forever
+I want you the fuck out of my head
+Violent Mood Swings...
+You're inside my pain inside my sorrow
+I die for one last moment inside you
+I miss you so fucking bad I am you
+Whose god will fucking save me now
+Violent Mood Swings...
+~
+E
+book tome~
+You glance at the Tome of Quests...
+--------------------------------------------------------------------------
+Volito - 16
+Horaz - 6
+Mouser - 4
+Kelemvor - 17
+Zedar - 7
+Majik - 10
+Colt - 1
+Flagg - 1
+We - 1
+Treestump - 17
+Nataniel - 36
+karamon - 52
+BDP - 1
+Drakken - 2
+Mortis - 6
+Sindy - 15
+Xore - 15
+Caps - 1
+Greed - 6
+Shatragon - 1
+Icar - 11
+Warlok - 4
+Marshall - 10
+Khil - 25
+Nefarious - 15
+Sylvan - 20
+Fairone - 5
+Tarn - 10
+~
+E
+tablet~
+An ancient tablet of crumbling black stone
+-------------------------------------------------------------------
+DemonStone Ring - Zedar
+DemonStone Ring - Restiana
+(2) Golden Dwarven Rings - Myst
+DemonStone Ring - Moment
+DemonStone Ring - Jorel
+DemonStone Ring - Mouser
+Draupnir - Hextall
+Blue Dragonscale Boots - Volito
+(2) DemonStone Rings - Gothic
+(2) DemonStone Rings - Yara
+(2) DemonStone Rings - NorthStar
+(2) ruby rings - Wynter
+Farseerer Mask - Wynter
+(2) DemonStone Rings - Drew
+Silver Torch - Majik
+Plate of Faith - Majik
+Majik's Wand - Majik
+The Tri-Ryche - Tiera
+Demonstone Ring - Wax
+FarSeerer Mask - Dekion
+Sword of Kas - Horaz
+Far Seerer Mask - Aliera
+~
+S
+#572
+The Coffin Chamber of the Shalafi~
+You find yourself in a cold stone chamber, filled with musty air.  A large,
+circular pit stands in the center of the room.  Stairs surround it, slowly
+decending toward the center.  A sarcaphogus made of black, rough hewn stone
+is mounted ominously in the center of the northern wall.  Several tapestries
+with intricate stitchwork hang from the walls, each illuminated by a magical
+light. An altar carved from black marble streaked with luminescent veins
+of crimson stands between the fire pit and the coffin.  In the northeastern
+corner hovers a magical portal of swirling silver mist and light.
+~
+13 68104 0 7
+0 0 0 0
+0 0 0
+D2
+You can make out nothing but a plain, stone wall.
+~
+panel~
+ ~
+ ~
+1 -1 482
+S
+#687
+A Balcony~
+You are standing on a balcony outside the master bedroom. It is all made of
+stone and connected seamlessly to the castle wall. The balcony is rather
+large, about fifteen feet wide and ten feet deep. It is surrounded by a
+waist high railing with intricately carved rails in the likeness of giant
+fangs; making the whole balcony resemble a creatures jaw. Looking over the
+railing you see a great ocean, the waves crashing against the rocks at
+the base of the cliff which this castle is built on. The cool night
+air blowing off the ocean soothes your mind and the blood red moon overhead
+empowers your body and soul.
+A stone tablet has been attached to the railing, with ancient script carved
+into its surface.
+~
+13 524 0 7
+0 0 0 0
+0 0 0
+D1
+Ivy vines grow up the eastern wall and a set of french doors stand in the
+middle, framed by the plants.
+~
+door doors~
+$n leaves the night air and returns to the bedroom.~
+$n walks in from the balcony, accumpanied by a short gust of wind.~
+1 -1 6240
+E
+tablet stone script~
+:       :       Alone       :       :
+From childhood's hour I have not been
+As others were--I have not seen
+As others saw--I could not bring
+My passions from a common spring--
+From the same source I have not taken
+My sorrow--I could not awaken
+My heart to joy at the same tone--
+And all I loved--I loved alone--
+Then--in my childhood, in the dawn
+Of a most stormy life--was drawn
+From every depth of good and ill
+The mystery which binds me still--
+From the torrent, or the fountain--
+From the red cliff of the mountain--
+From the sun that round me rolled
+In its autumn tint of gold--
+From the lightning in the sky
+As it pass'd me flying by--
+From the thunder and the storm--
+And the cloud that took the form
+When the rest of Heaven was blue
+Of a demon in my view.
+~
+S
+#1557
+A yard before the castle~
+The trail from the south has opened up into a grassy yard, surrounded by
+a black, wrought iron fence.  At the north end of the yard, a few steps
+lead up to the front doors of a large, ominous castle.  A single tower
+juts up into the night sky.  Candle light flickers in most of the windows.
+~
+13 9 0 1
+0 0 0 0
+0 0 0
+D0
+Three marble steps lead up to the double doors of this castle.
+~
+doors door~
+ ~
+ ~
+1 6674 470
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3483
+S
+#3480
+The Guest Quarters~
+You are in a richly decorated bedroom. The floor is covered by a thick carpet.
+There is a bed made of polished wood with high posts at the head and foot.
+Against one wall is a large set of drawers and above it is a mirror frame
+of platinum with intricate carvings, however the mirror itself seems to be
+missing. At the foot of the bed is a large cedar chest with a full moon
+carved into its lid. Next to the door is a small padded bench and a few hooks
+in the wall to hang a cloak or coat.
+~
+13 66060 6 7
+0 0 0 0
+0 0 0
+D1
+A thick mahogony door with the image of a wolf carved into its surface.
+~
+door~
+ ~
+ ~
+1 6674 3481
+S
+#3481
+Top of the staircase~
+This hallway is quite large, wide enough for at least four men to walk side
+by side. The floor is tiled with black marble and the walls and ceiling
+are made of dark granite, polished smooth. Torches line the walls in golden
+sconces, illuminating your way. At the end of the hallway, a majestic
+staircase hugs the wall and curves downward. The bannister is made from the
+finest elven wood and carved in the likeness of a giant wolf running, its
+legs serving as the beams and its body the railing.
+~
+13 520 0 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 6239
+D3
+A thick mahogony door with the image of a wolf carved into its surface.
+~
+door~
+ ~
+ ~
+1 -1 3480
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 3482
+S
+#3482
+A staircase at the end of a hallway~
+This hallway is quite large, wide enough for at least four men to walk side
+by side. The floor is tiled with black marble and the walls and ceiling
+are made of dark granite, polished smooth. Torches line the walls in golden
+sconces, illuminating your way. At the end of the hallway, a majestic
+staircase hugs the wall and curves upward through a vaulted part of the
+ceiling. The bannister is made from the finest elven wood and carved in
+the likeness of a giant wolf running, its legs serving as the beams and its
+body the railing.
+~
+13 520 0 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 472
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 3481
+S
+#3483
+A narrow trail through the woods~
+You are walking on a narrow trail, covered with loose stones and pieces
+of rock.  The trees and plants on either side of the path are very dense.
+The trail seems to open up to the north and you catch a glimse of a castle
+through the tree branches.  A strange fog surrounds you, limiting your
+vision and dark clounds now fill the sky.  A small opening in their thick
+oppressive cover is occupied by the full moon, blood red in color.
+A shimmering moongate, the color of blood, stands at the south end of the
+path.
+~
+13 13 3 1
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1557
+S
+#5884
+A grand dining hall~
+This is the largest dining room you have ever seen. The room stretches far
+to the north and a huge table runs down the entire length of the hall.
+Golden candelabras are placed along the table at regular intervals and
+fine china in addition to gold utensils are set at every seat. A cloth
+made of exquisite black satin covers the delicate elven wood with which the
+table was made.
+~
+13 520 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 472
+E
+table~
+You look in awe at the huge table piled high with delicacies from around
+the realms.  There is more food than could ever been eaten in one sitting,
+yet you notice it doesn't seem to spoil at all.
+~
+S
+#6239
+An upstairs hallway~
+This hallway is quite large, wide enough for at least four men to walk side
+by side. The floor is tiled with black marble and the walls and ceiling
+are made of dark granite, polished smooth. Torches line the walls in golden
+sconces, illuminating your way.
+~
+13 520 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3481
+D2
+A large set of double doors stands at the end of this hallway.  They
+are made from a pure black metal known as adamantite.  Carved into
+its perfect surace is a stunningly artistic drawing of the full moon.
+~
+door doors~
+ ~
+ ~
+2 -1 6240
+S
+#6240
+The Master Bedroom~
+You are in a large chamber with high vaulted cailings. The walls, ceiling
+and floor are all made of stone. The roof slants up on each side to form
+a triangular shape; near the top of the point on the south wall is a small
+circular window through which you can see a blood red full moon. A long
+chain attached to the ceiling supports a chandelier, glowing brightly with
+many black candles. An enormous bed sits against the southern wall, raised
+up on a marble dais. A fireplace, almost fifteen feet wide, occupies the
+southwest corner; within it's depths, a fire blazes strongly. A comfortable
+cushy couch faces the fireplace with a soft, shag rug on the floor between
+the two. Small highly detailed candle sconces line the walls at shoulder
+height, casting a soft glow over the whole room.
+~
+13 2572 0 7
+0 1 0 0
+0 0 0
+D0
+A large set of double doors.  They are made from a pure black metal known
+as adamantite.  Carved into it's perfect surface is a stunningly
+artistic drawing of the full moon.
+~
+door doors~
+ ~
+ ~
+3 6674 6239
+D1
+A large, eligantly styled bathing room lays beyond the stone archway.
+~
+ ~
+ ~
+ ~
+1 -1 6241
+D3
+A set of french doors are against the west wall.  The thick black curtains
+are pushed open, allowing the moonlight to shine in.  A large balcony lays
+beyond these doors.
+~
+door doors~
+$n walks out onto the balcony.~
+$n arrives from the bedroom, the cool sea air blowing through their hair.~
+1 -1 687
+S
+#6241
+The Private Bath~
+Unlike the rest of the chambers, this area is bathed with the warm glow
+of many long black candles. In the center of the area is a large marble
+bath big enough to fit two. The walls are covered with beautiful vines
+and other green foliage thriving from the steam and the gentle moonlight
+that fills the room as 3 walls and ceiling are curving glass overlooking
+a flourishing flower and tree garden spreading out away from the grounds.
+The bath is always filled with hot scented water flowing from a sculpture
+of a dragon with wings spread wide in glorious detail. You hear the gentle
+sounds of the night and the soft sound of pouring water, candles flutter and
+are surrounded by a haze from the steam. Some brushes, towels and soap rest
+on a small table along with some fresh fruit.
+~
+13 2572 0 7
+0 0 0 0
+0 0 0
+D3
+You can see a large, gothic style bedroom through the archway.
+~
+ ~
+ ~
+ ~
+1 -1 6240
+E
+bath tub~
+The tub is made of solid marble in antique design.  This bath is from
+Medievia's Golden Age, it once resided in Castle Medievia, being a gift from
+a god to a mortal princess.  It's waters are said to produce a healing
+effect on those who bathe in them.  The surface of the steaming water is
+covered with fragrant rose petals.
+~
+S
+#19999
+$~

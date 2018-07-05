@@ -1,0 +1,3821 @@
+#194
+A Small Overgrown Path~
+ The path before you seems to have been abandoned some time ago. Vines and
+thick foliage brush against your skin and tear at your clothing. Above you the
+trees form a canopy against the harsh elements. Stopping to catch your breath
+for a moment, you notice an almost tangible silence.
+~
+14 2049 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2734
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 199
+S
+#199
+A Small Overgrown Path~
+ The path continues through the woods in an unpredictable pattern. The vines
+and weeds here are less overgrown and you feel a slight breeze blowing from the
+west. Judging by the flowers and garlands that adore the trees along the path
+you assume this must be some sort of sacred way used less frequently than
+before. You feel compelled to move on and explore what lies ahead of you.
+~
+14 2048 3 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 194
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 219
+S
+#219
+A Small Overgrown Path~
+ Your feet sink deep into muddy ground as you work your way through the tangle
+of weeds and vines. The wind here is quite strong and refreshing, moving your
+spirit to explore further. You see a shimmering surface ahead of you and you
+can make out the tops of a beautiful range of moutains. You seemed to have
+stumbled onto a beautiful, natural secluded area. Above you a Hawk flys in
+circles, riding the gentle wind current.
+~
+14 2048 3 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 231
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 199
+S
+#231
+The Glade of Serenity~
+ You step out of the tangle into a open lake, surrounded by huge mountains. The
+wind seems odd here, picking up now and then to lightly caress your face,
+blowing your hair back in gentle gusts and whistling softly in your ears. The
+area is flooded with the scent of patchouli leaves, tickling your neck and face
+with fragrant kisses.
+~
+14 2048 2 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 242
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 219
+S
+#242
+A Trail up the AquaCorinth~
+ ~
+14 2048 5 0
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 231
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 546
+S
+#546
+A Trail up the AquaCorinth~
+ ~
+14 2048 0 0
+0 0 0 0
+0 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 547
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 242
+S
+#547
+A Trail up the AquaCorinth~
+ ~
+14 2048 5 0
+0 0 0 0
+0 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 583
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 546
+S
+#583
+A Trail up the AquaCorinth~
+ ~
+14 2048 5 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 807
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 547
+S
+#668
+Dark, Dense Forest~
+Day turns to night as you enter a dense woodland forest. The air around
+you smells of earth, and a slight mist seems to brush against your skin.
+Around you is a forest of old growth trees, towering high above you. Vines
+and branches obscure your view in all directions. Even the light above you
+struggles to break through the growth. You feel an odd calm sweep over
+you, and your vision seems acute to every detail around you. The colors
+are brighter, the trees more majestic, the scent of earth fills your
+nostrils. You forget all about the meadow...
+~
+14 67 3 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2728
+S
+#727
+Under the Willow~
+As you walk under the willow, something seems wrong.  You sense that this
+isn't the comfortable oasis you had once thought it to be.  Trying not to
+panic, you start to back out, but don't get very far ...
+~
+14 0 3 1
+0 0 0 0
+0 0 0
+D0
+~
+~
+~
+~
+0 0 63361
+D1
+~
+~
+~
+~
+0 0 63360
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4049
+D3
+~
+~
+~
+~
+0 0 63362
+S
+#807
+Atop The AquaCorinth~
+ ~
+14 2048 5 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 583
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 808
+S
+#808
+Atop The AquaCorinth~
+ ~
+14 2048 5 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 807
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 810
+S
+#809
+The Temple to the Goddess Aphrodite~
+ A days journey has brought you to the highest point of the AquaCorinth. The
+sun has set, and a full moon now shines down upon you. You stand on an ancient
+shrine built in honor of Aphrodite, the goddess of love.
+~
+14 512 5 0
+0 1 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 810
+S
+#810
+Atop The AquaCorinth~
+ ~
+14 2048 5 0
+0 1 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 808
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 809
+S
+#867
+Mythago Wood~
+You find yourself deep within the huge forest that is the Mythago Wood.
+Not much sunlight reaches through the several layers of foliage above you.
+Looking about cautiously, you hear a low moaning sound and a deep growling
+that seems to be coming from the very trees that surround you completely on
+all sides.  The closeness of your surroundings begins to grate on your senses
+and you begin to feel a slight sensation of claustraphobia.  You glance down
+at your feet and are astonished to see a slight mist swirling gently around
+the lower half of your body.
+~
+14 0 3 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2801
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2804
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 868
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2803
+S
+#868
+Mythago Wood~
+You find yourself deep within the huge forest that is the Mythago Wood.
+Not much sunlight reaches through the several layers of foliage above you.
+Looking about cautiously, you hear a low moaning sound and a deep growling
+that seems to be coming from the very trees that surround you completely on
+all sides.  The closeness of your surroundings begins to grate on your senses
+and you begin to feel a slight sensation of claustraphobia.  You glance down
+at your feet and are astonished to see a slight mist swirling gently around
+the lower half of your body.
+~
+14 0 3 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 867
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2806
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2810
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2805
+S
+#888
+Inside the Monolith~
+Your heart is pounding furiously in your chest as your senses are
+overwhelmed by the fear that you feel.  You find yourself badly
+bruising various parts of your body as you stumble around like a
+blind person.  There are exits to the north, south, and to the east.
+To the west you see an indentation in the rock.
+~
+14 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 889
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 996
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 890
+D3
+ ~
+secret wall~
+ ~
+ ~
+1 -1 891
+S
+#889
+Inside the Monolith~
+Your heart is pounding furiously in your chest as your senses are
+overwhelmed by the fear that you feel.  You find yourself badly
+bruising various parts of your body as you stumble around like a
+blind person.  There is an exit to the south only.
+~
+14 9 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 888
+S
+#890
+Inside the Monolith~
+Your heart is pounding furiously in your chest as your senses are
+overwhelmed by the fear that you feel.  You find yourself badly
+bruising various parts of your body as you stumble around like a
+blind person.  There is an exit to the north only.
+~
+14 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 888
+S
+#891
+Tunnel in the Monolith~
+You are in a secret, hidden tunnel deep within the monolith.  You hear
+the sounds of some harsh, but undecipherable language which you have
+never heard before.  It seems to be coming from the west...and that is
+the only direction in which you can go, save the way you came.
+~
+14 9 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+secret door~
+ ~
+ ~
+1 -1 888
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 892
+S
+#892
+Tunnel in the Monolith~
+You are in a secret, hidden tunnel deep within the monolith.  You hear the
+sounds of some harsh and undecipherable language which you have never
+heard before in your life.  The sounds seem to be coming from the west.
+There are exits to the east and to the west only.
+~
+14 9 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 891
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 893
+S
+#893
+Tunnel in the Monolith~
+You are in a secret, hidden tunnel deep within the monolith.  You hear the
+sounds of some harsh and undecipherable language coming from the west.  The
+sounds seem to be getting louder, and now you can discern that there are
+a variety of different speakers alternately interjecting comments, but one
+voice...deeper and more powerful, resonates above them all.  There are exits to the west and to the east.
+~
+14 9 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 892
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1193
+S
+#894
+Inside the Monolith~
+You can't see very far, since you are completely engulfed in the darkness.
+Loud gutteral noises can be heard coming from nearly every direction.
+You stumble around clumsily trying to find your way in the inky blackness.
+~
+14 0 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 996
+S
+#895
+Inside the Monolith~
+You can't see very far, since you are completely engulfed in the
+darkness. Loud gutteral noises can be heard coming from nearly every
+direction. You stumble around clumsily trying to find your way in the
+inky blackness.
+~
+14 0 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 996
+S
+#994
+On a trail through the Mythago Wood~
+Walking along the trail you smell the faint odor of death and decay, and
+looking carefully at the ground you see a well overgrown path leading
+to the west.  Looking back to the beginning of the trail to the north, you
+are surprised and horrified to see that it is completely blocked now by
+a row of gigantic oaks that were not there before, and how they got there,
+you cannot imagine.
+~
+14 0 3 0
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 995
+S
+#995
+Clearing in the Mythago Wood~
+You are startled to find that you are in a clearing in the woods.  You
+breathe in deeply and take a long good look at the sky, something you
+have not seen for quite some time now.  Your sense of relief is shattered
+however, when you see a hulking blackened monolith in the center of the
+clearing. Approaching it, you notice the outline of a door carved into
+the rock.  All of your senses scream for you to turn the other way and
+run, but the power curiousity is very great indeed...
+~
+14 0 3 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 994
+D5
+ ~
+door~
+ ~
+ ~
+1 -1 996
+S
+#996
+Inside the Monolith~
+Your pulse begins to race as you find yourself inside a monstrous
+monolith. You hear scraping sounds and loud groans emitting from every
+direction. Sweat beads on your brow as your eyes slowly begin to
+adjust to the darkness...there are exits to the north, south, and to the
+west.
+~
+14 13 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 895
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 894
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 888
+D4
+ ~
+door~
+ ~
+ ~
+1 -1 995
+S
+#1193
+Obsidian Tunnels~
+The walls of the tunnel you are travelling in are littered with sharp
+pieces of obsidian, and the frequency of the stones embedded in the wall is
+increasing as you move farther west down the tunnel.  Loud gutteral voices
+can be heard coming from the north.
+~
+14 9 0 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 1194
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 893
+S
+#1194
+Obsidian Tunnels~
+The walls of the tunnel you are travelling in are littered with sharp
+pieces of obsidian, and the frequency of the stones embedded in the wall is
+increasing as you move farther west down the tunnel.  Loud gutteral voices
+can be heard coming from the north.
+~
+14 9 0 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 1193
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1226
+S
+#1226
+Before the Altar~
+The obsidian tunnels in which you have been travelling in seems to have
+come to its end.  To the west you see a gigantic obsidian altar and a fair
+number of hulking shapes moving about it.  To the east the obsidian tunnel
+continues back to its origin.
+~
+14 9 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1194
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 1227
+S
+#1227
+Obsidian Altar~
+You are standing before a gigantic obsidian altar, carved straight out of
+the ground.  The sculptor who created this masterpiece must certainly have
+been an artistic genius, for you can see no flaws present in his work.
+To the sides of the altar, in the back of the room you see numerous
+alcoves carved into the rock.  For what purpose could they be there?
+~
+14 9 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 1226
+D3
+ ~
+wall~
+ ~
+ ~
+1 -1 1398
+S
+#1398
+Obsidian Treasure Room~
+You are in a fairly small, completely square room made of obsidian.  There
+are torches on the walls and gold, weapons, armor, and other bounty are
+lying all about the room.  You feel your salivary glands begin to work as
+your fingers begin clenching and unclenching looking at all of this wealth...
+~
+14 9 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+wall~
+ ~
+ ~
+1 -1 1227
+S
+#2715
+A Spiral Staircase~
+Spiraling around you is a dark wood staircase. The wood has been
+carved to resemble that of vines and flowers. The steps are
+crafted of a marbled green stone with veins of silver ore
+threaded throughout. The stones are warm under your feet.
+~
+14 2056 0 0
+0 0 0 0
+0 0 0
+D0
+A door blocks your entrance. Maybe you should knock.
+~
+door~
+$n walks into the bedroom.~
+$n walks into the bedroom.~
+1 18012 2716
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2718
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2717
+D5
+ ~
+ ~
+$n walks down to the forest house.~
+$n walks down the stairs.~
+1 -1 4467
+S
+#2716
+A large Bedroom~
+ You enter a large room, illuminated only by two windows deep-set into cold,
+stone walls. There is a ellaborate four-poster bed against the back wall.
+Secured around each post is a drape of black velvet. Placed in various places
+on the floor are several soft, hand-woven rugs. Along the walls are many
+tapestries, each depicting a different scene of unique and exquisite detail.
+Moving your gaze upward you see a dome ceiling. Looking back at you, is the
+painted image of a young maiden with the crown of a queen. On each side is a
+man, one with the crown of a King, the other dressed in a full suit of armor.
+The Queen's blue eyes penetrate into your soul, leaving you with an odd sense
+of sadness and longing.
+~
+14 2572 0 0
+0 0 0 0
+0 0 0
+D2
+A large door, on a hook on the door hangs
+various robes and linens.
+~
+door~
+$n leaves the bedroom.~
+$n arrives from the bedroom.~
+1 18012 2715
+E
+tapestry~
+ A beautiful hand-woven tapestry of the finest threads and dyes. The scene
+depicts a man fighting in full armor, with an expression of victory on his
+face. Around him are more men, fighting on foot and horseback. Flying over-head
+are two flags, one embroidered with the Christian Cross, the other with the the
+symbol of the dragon, symbolizing the alliance with the ancient tradition of
+the goddess. The entire scene is bathed in a silver sheen, flowing from a
+cresent moon high overhead.
+~
+S
+#2717
+A Hallway of Mirrors~
+Everywhere you look your image stares back at you. Mirrors of
+complex beauty and detail line every inch of the wall. The
+mirrors are each made of a different material, each uniquely
+crafted to draw your attention. One particular mirror seems
+to stand out among the others. It's surface ripples slightly
+like clear glass water. Framing the glass surface is a detailed
+scene depicting an ancient race of magic users.
+~
+14 2056 0 0
+0 0 0 0
+0 0 0
+D0
+A beautiful mirror shimmers and ripples...
+~
+ ~
+ ~
+ ~
+5 -1 6374
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2715
+S
+#2718
+The Hallway of Bright Carvings~
+ You are mesmerized by the bright colors and shapes that surround you. Someone
+has collected hundreds of carvings and placed them here on display on either
+side of you. You are amazed by the intricate detail on some of the carvings,
+they seem almost life-like...trapped inside a body of wood. As you sit and gaze
+in awe at the carvings, from somewhere in a distance you hear a faint whisper.
+~
+14 2056 0 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2719
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2715
+S
+#2719
+Standing Before a Heavy Oak Door~
+ The hall ends at two huge wood doors. The door is adorned with various symbols
+and pictures, all of which seem foreign to you. The artwork here is so detailed
+and beautiful you assume there must have been magical assistance. Above the
+doors is a portcullis. The key pattern lattice archway should only be passed
+through by those who are physically, mentally, and spirtually ready for their
+journey into the Solar Sphere.
+~
+14 2056 0 0
+0 0 0 0
+0 0 0
+D1
+Two huge dark wood doors engraved with symbols
+and pictures block your way.
+~
+door~
+$n leaves through the doors.~
+$n opens the door and enters.~
+1 18012 2729
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2718
+S
+#2720
+Climbing marble stairs~
+ ~
+14 8 0 0
+0 0 0 0
+-30 0 0
+S
+#2721
+An Octagon Room With a Glass Roof~
+ ~
+14 8 0 0
+0 0 0 0
+-30 0 0
+S
+#2722
+At The Top of A Gorge~
+ ~
+14 2053 4 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2723
+D2
+You see the back door into the forest house.
+Light filters in from indoors through the
+stained-glass door.
+~
+glass~
+$n leaves the gorge into the house.~
+$ enters through the back door.~
+1 18012 4467
+S
+#2723
+A Path Through The Gorge~
+ ~
+14 2053 4 0
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2722
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 2724
+S
+#2724
+A Path Through The Gorge~
+Twigs and sticks snap beneath your weight as you make your
+way down through the gorge. The earth is soft and wet, and a
+light mist hoovers around you. The temperature is slightly
+cool so you notice you breath collect in the air. The forest
+around you is unusually quiet, yet your senses seem to be
+heightened and you notice any slight movement around you.
+Bringing your gaze downward you notice laying in front of you
+a feather.
+~
+14 2053 4 0
+0 0 0 0
+0 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 2723
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 2725
+S
+#2725
+A Path Through The Gorge~
+ ~
+14 2053 4 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2726
+D2
+You see a cute little two man tent. All ready
+to sleep in.
+~
+tent~
+$n crawls inside the tent.~
+$n hops inside the tent.~
+1 18012 2731
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2734
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 2724
+S
+#2726
+A Cascading Waterfall~
+ The rush of the waterfall sends a refreshing mist of water against your skin.
+The waterfall rushes down from some 20 feet up in a wall of white to a small
+pool area below. The force of the waterfall has carved out a perfect circular
+hole in the water just big enough for two. Judging from the gently clouds of
+steam that arise from the pool you gather this must be some sort of hot spring.
+Spotting a small ledge you sit down and hang your feet into the soothing
+waters, just enough to let your sole's kiss the water's surface.
+~
+14 2053 3 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2727
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2725
+S
+#2727
+Sitting Behind The Waterfall~
+ You find yourself standing on a smooth carved out shelf of stone. The
+waterfall rushes down all around you forming a white wall. The force of the
+water sends a thin mist that collects on your face and trickles down your
+throat. On the wall behind you are several ancient frescos, though now they are
+peeling and fading due to moisture and time. You feel an odd sense of security
+here, encased in earth.
+~
+14 2565 6 0
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2726
+S
+#2728
+Deep in the Forest, Before a House~
+ Day turns to night as you enter a dense woodland forest. The air around you
+smells of earth, and a slight mist seems to brush against your skin. Around you
+is a forest of old growth trees, towering high above you. Vines and branches
+obscure your view in all directions. Even the light above you struggles to
+break through the growth. You feel an odd calm sweep over you, and your vision
+seems acute to every detail around you. The colors are brighter, the trees more
+majestic, the scent of earth fills your nostrils. You forget all about the
+meadow... Moving your gaze from the trees you look ahead of you and are amazed
+that you didn't see this before. It's a beautiful house, hidden by the
+surrounding forest.
+~
+14 67 8 0
+0 0 0 0
+0 0 0
+D0
+To your north is the entrance to the Forest House.
+This house is here for the training of
+priestess'. A calm energy flows from the
+area.
+The door is of a dark wood, engraved
+with a crescent moon.
+~
+door~
+$n enters into the Forest House.~
+$n enters the Forest House.~
+2 18012 4467
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 668
+S
+#2729
+Smooth, Marble Stairs~
+The stairs under you feet are soft and smooth. Looking closer
+you notice that they are marbled of several stones, giving
+them an overall rainbow effect. The walls on either side of you
+are not walls at all, but instead a beautiful vertical garden.
+Vines and small flowers of vibrant colors and various sizes grow
+vertically up the walls, several of them glow softly, illuminating
+your way.
+~
+14 2056 0 0
+0 0 0 0
+0 0 0
+D3
+Two huge dark wood doors engraved with
+strange symbols and pictures block your
+exit out.
+~
+door~
+$n leaves quietly through the doors.~
+$n opens the doors and steps out.~
+1 18012 2719
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 2730
+S
+#2730
+An Octagon Room With a Glass Roof~
+You are startled by the beauty of this room. Although it was made by human
+hands, it overflows with magic. The floor is entirely crafted of plates of
+stone. Each plate carefully laid to absorb the surrounding energy. The roof
+is made out of glass, and you have a perfect view of the phases of the moon.
+During the day, sun shines through the pattern of the glass, sending a
+beautiful display of prisms.
+~
+14 2056 0 0
+0 0 0 0
+0 0 0
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 2729
+S
+#2731
+Inside a Two-man Tent~
+ You sit inside a cute little two-man tent. The tent is in the shape of a dome,
+with a little hole at the top for late-nite star gazing. The bottom of the tent
+is acutally soft, laid on a pile of pine needles. Hanging from the top of the
+tent is a small candle to light the tent at night.
+~
+14 8 0 0
+0 0 0 0
+0 0 0
+D0
+Looking outside the tent, you see the surrounding
+gorge and river.
+~
+tent~
+$n crawls out of the tent.~
+$n crawls outside of the tent, head first.~
+1 18012 2725
+S
+#2734
+Soft, Moss-Covered Ground~
+The ground here is a blanket of colorful lichen and moss. Little purple
+flowers peek out here and there that exhale into the air an almost
+intoxicating aroma. The sun shines warmly on your head, and the wind blows
+softly against your skin. Surrounding this area on all sides are tall,
+beautiful trees. You see what looks to be a small path, overgrown with vines
+and plant life. Maybe this is a good place for a short nap before you journey
+onward.
+~
+14 2053 3 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2725
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 194
+S
+#2800
+Mythago Wood~
+You find yourself deep within the huge forest that is the Mythago Wood.
+Not much sunlight reaches through the several layers of foliage above you.
+Looking about cautiously, you hear a low moaning sound and a deep growling
+that seems to be coming from the very trees that surround you completely on
+all sides.  The closeness of your surroundings begins to grate on your senses
+and you begin to feel a slight sensation of claustraphobia.  You glance down
+at your feet and are astonished to see a slight mist swirling gently around
+the lower half of your body.
+~
+14 0 3 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2801
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2803
+S
+#2801
+Mythago Wood~
+You find yourself deep within the huge forest that is the Mythago Wood.
+Not much sunlight reaches through the several layers of foliage above you.
+Looking about cautiously, you hear a low moaning sound and a deep growling
+that seems to be coming from the very trees that surround you completely on
+all sides.  The closeness of your surroundings begins to grate on your senses
+and you begin to feel a slight sensation of claustraphobia.  You glance down
+at your feet and are astonished to see a slight mist swirling gently around
+the lower half of your body.
+~
+14 0 3 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2802
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 867
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2800
+S
+#2802
+Mythago Wood~
+You find yourself deep within the huge forest that is the Mythago Wood.
+Not much sunlight reaches through the several layers of foliage above you.
+Looking about cautiously, you hear a low moaning sound and a deep growling
+that seems to be coming from the very trees that surround you completely on
+all sides.  The closeness of your surroundings begins to grate on your senses
+and you begin to feel a slight sensation of claustraphobia.  You glance down
+at your feet and are astonished to see a slight mist swirling gently around
+the lower half of your body.
+~
+14 0 3 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2804
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2801
+S
+#2803
+Mythago Wood~
+You find yourself deep within the huge forest that is the Mythago Wood.
+Not much sunlight reaches through the several layers of foliage above you.
+Looking about cautiously, you hear a low moaning sound and a deep growling
+that seems to be coming from the very trees that surround you completely on
+all sides.  The closeness of your surroundings begins to grate on your senses
+and you begin to feel a slight sensation of claustraphobia.  You glance down
+at your feet and are astonished to see a slight mist swirling gently around
+the lower half of your body.
+~
+14 0 3 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2800
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 867
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2805
+S
+#2804
+Mythago Wood~
+You find yourself deep within the huge forest that is the Mythago Wood.
+Not much sunlight reaches through the several layers of foliage above you.
+Looking about cautiously, you hear a low moaning sound and a deep growling
+that seems to be coming from the very trees that surround you completely on
+all sides.  The closeness of your surroundings begins to grate on your senses
+and you begin to feel a slight sensation of claustraphobia.  You glance down
+at your feet and are astonished to see a slight mist swirling gently around
+the lower half of your body.
+~
+14 0 3 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2802
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2806
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 867
+S
+#2805
+Mythago Wood~
+You find yourself deep within the huge forest that is the Mythago Wood.
+Not much sunlight reaches through the several layers of foliage above you.
+Looking about cautiously, you hear a low moaning sound and a deep growling
+that seems to be coming from the very trees that surround you completely on
+all sides.  The closeness of your surroundings begins to grate on your senses
+and you begin to feel a slight sensation of claustraphobia.  You glance down
+at your feet and are astonished to see a slight mist swirling gently around
+the lower half of your body.
+~
+14 0 3 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2803
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 868
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2809
+S
+#2806
+Mythago Wood~
+You find yourself deep within the huge forest that is the Mythago Wood.
+Not much sunlight reaches through the several layers of foliage above you.
+Looking about cautiously, you hear a low moaning sound and a deep growling
+that seems to be coming from the very trees that surround you completely on
+all sides.  The closeness of your surroundings begins to grate on your senses
+and you begin to feel a slight sensation of claustraphobia.  You glance down
+at your feet and are astonished to see a slight mist swirling gently around
+the lower half of your body.
+~
+14 0 3 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2804
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2811
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 868
+S
+#2807
+Mythago Wood~
+You are lost...deep within the Mythago Wood.  The silence that surrounds you
+begins to weigh upon your mind, and your imagination begins to conjure up
+visions and sounds of the worst nightmares that have been churning around
+in your poor tormented soul.  Your mind snaps into reality as you hear a low
+rumbling sound and see an uprooted tree to the east.
+~
+14 0 3 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2808
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2816
+S
+#2808
+Mythago Wood~
+You find yourself standing before a huge, fallen tree that lies in your
+path. Inspecting it carefully, you see evidence of unnatural damage that
+has been inflicted upon the tree near its roots.  Huge scars and furrows
+have been left in the bark, and the thought of something having that the
+strength cause this much destruction curdles your blood.  The most frightening
+thing is...you see a drop of fresh sap trickle out of one of the tree's
+wounds. Whatever did this might not be that far away...
+~
+14 4 3 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2809
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2807
+S
+#2809
+Mythago Wood~
+You find yourself deep within the huge forest that is the Mythago Wood.
+Not much sunlight reaches through the several layers of foliage above you.
+Looking about cautiously, you hear a low moaning sound and a deep growling
+that seems to be coming from the very trees that surround you completely on
+all sides.  The closeness of your surroundings begins to grate on your senses
+and you begin to feel a slight sensation of claustraphobia.  You glance down
+at your feet and are astonished to see a slight mist swirling gently around
+the lower half of your body.
+~
+14 0 3 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2805
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2810
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2808
+S
+#2810
+Mythago Wood~
+Although you are still clearly in the Mythago Wood, you feel a strange
+sensation. The air around you crackles with the aura of power and you see
+a long overgrown trail leading south.  The urge to run away from this place
+is overwhelming, but the excitement you feel more than overcomes it.
+Something is drawing you towards this path...something primal, and integral
+to your very being.
+~
+14 4 3 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 868
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2811
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 994
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2809
+S
+#2811
+Mythago Wood~
+You find yourself deep within the huge forest that is the Mythago Wood.
+Not much sunlight reaches through the several layers of foliage above you.
+Looking about cautiously, you hear a low moaning sound and a deep growling
+that seems to be coming from the very trees that surround you completely on
+all sides.  The closeness of your surroundings begins to grate on your senses
+and you begin to feel a slight sensation of claustraphobia.  You glance down
+at your feet and are astonished to see a slight mist swirling gently around
+the lower half of your body.
+~
+14 0 3 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2806
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2812
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2810
+S
+#2812
+Mythago Wood~
+You are lost in Mythago Wood.
+~
+14 0 3 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2813
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2817
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2811
+S
+#2813
+Mythago Wood~
+You are lost in Mythago Wood.
+~
+14 0 3 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2814
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2818
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2812
+S
+#2814
+Mythago Wood~
+To the north the trees begin to thin out, allowing bits of the sky to
+peek through the leaves.
+~
+14 0 3 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3460
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2815
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2813
+S
+#2815
+Mythago Wood~
+You are lost in Mythago Wood.
+~
+14 0 3 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2819
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2814
+S
+#2816
+Mythago Wood~
+You find yourself deep within the huge forest that is the Mythago Wood.
+Not much sunlight reaches through the several layers of foliage above you.
+Looking about cautiously, you hear a low moaning sound and a deep growling
+that seems to be coming from the very trees that surround you completely on
+all sides.  The closeness of your surroundings begins to grate on your senses
+and you begin to feel a slight sensation of claustraphobia.  You glance down
+at your feet and are astonished to see a slight mist swirling gently around
+the lower half of your body.
+~
+14 0 3 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2807
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2820
+S
+#2817
+A narrow path~
+You are lost in Mythago Wood.
+~
+14 0 3 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2812
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2818
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2821
+S
+#2818
+A narrow overgrown trail~
+You are lost in Mythago Wood.
+~
+14 0 3 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2813
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2817
+S
+#2819
+Mythago Wood~
+You are lost in Mythago Wood.
+~
+14 0 3 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2815
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2822
+S
+#2820
+Mythago Wood~
+You find yourself deep within the huge forest that is the Mythago Wood.
+Not much sunlight reaches through the several layers of foliage above you.
+Looking about cautiously, you hear a low moaning sound and a deep growling
+that seems to be coming from the very trees that surround you completely on
+all sides.  The closeness of your surroundings begins to grate on your senses
+and you begin to feel a slight sensation of claustraphobia.  You glance down
+at your feet and are astonished to see a slight mist swirling gently around
+the lower half of your body.
+~
+14 0 3 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2816
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2826
+S
+#2821
+A narrow path~
+You are lost in Mythago Wood.
+~
+14 0 3 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2817
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2831
+S
+#2822
+Mythago Wood~
+You are lost in Mythago Wood.
+~
+14 0 3 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2819
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2834
+S
+#2823
+Mythago Wood~
+You are lost in Mythago Wood.
+~
+14 4 3 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2824
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2835
+S
+#2824
+Mythago Wood~
+You are lost in Mythago Wood.
+~
+14 0 3 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2825
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2823
+S
+#2825
+Mythago Wood~
+You are lost in Mythago Wood.
+~
+14 0 3 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2826
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2836
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2824
+S
+#2826
+Mythago Wood~
+You are lost in Mythago Wood.
+~
+14 0 3 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2820
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2827
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2825
+S
+#2827
+Mythago Wood~
+You find yourself deep within the huge forest that is the Mythago Wood.
+Not much sunlight reaches through the several layers of foliage above you.
+Looking about cautiously, you hear a low moaning sound and a deep growling
+that seems to be coming from the very trees that surround you completely on
+all sides.  The closeness of your surroundings begins to grate on your senses
+and you begin to feel a slight sensation of claustraphobia.  You glance down
+at your feet and are astonished to see a slight mist swirling gently around
+the lower half of your body.
+~
+14 0 3 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2828
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2826
+S
+#2828
+Mythago Wood~
+You are lost in Mythago Wood.
+~
+14 0 3 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2829
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2827
+S
+#2829
+Mythago Wood~
+You are lost in Mythago Wood.
+~
+14 0 3 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2830
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2837
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2828
+S
+#2830
+Mythago Wood~
+You are lost in Mythago Wood.
+~
+14 0 3 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2831
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2829
+S
+#2831
+Mythago Wood~
+You are lost in Mythago Wood.
+~
+14 0 3 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2821
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2832
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2830
+S
+#2832
+Mythago Wood~
+You are lost in Mythago Wood.
+~
+14 0 3 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2833
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2839
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2831
+S
+#2833
+Mythago Wood~
+You are lost in Mythago Wood.
+~
+14 0 3 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2834
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2832
+S
+#2834
+Mythago Wood~
+You are lost in Mythago Wood.
+~
+14 0 3 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2822
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2833
+S
+#2835
+Mythago Wood~
+You are lost in Mythago Wood.
+~
+14 0 3 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2823
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2840
+S
+#2836
+Mythago Wood~
+You are lost in Mythago Wood.
+~
+14 0 3 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2825
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2842
+S
+#2837
+Mythago Wood~
+You are lost in Mythago Wood.
+~
+14 0 3 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2829
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2843
+S
+#2839
+Mythago Wood~
+You are lost in Mythago Wood.
+~
+14 0 3 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2832
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2844
+S
+#2840
+Mythago Wood~
+You are lost in Mythago Wood.
+~
+14 0 3 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2835
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2841
+S
+#2841
+Mythago Wood~
+You are lost in Mythago Wood.
+~
+14 0 3 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2842
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2840
+S
+#2842
+Mythago Wood~
+You are lost in Mythago Wood.
+~
+14 0 3 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2836
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2841
+S
+#2843
+Mythago Wood~
+You are lost in Mythago Wood.
+~
+14 0 3 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2837
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2845
+S
+#2844
+Mythago Wood~
+You are lost in Mythago Wood.
+~
+14 0 3 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2839
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2846
+S
+#2845
+Mythago Wood~
+You are lost in Mythago Wood.
+~
+14 0 3 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2843
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2849
+S
+#2846
+Mythago Wood~
+You are lost in Mythago Wood.
+~
+14 0 3 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2844
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2847
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2850
+S
+#2847
+Mythago Wood~
+You are lost in Mythago Wood.
+~
+14 0 3 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2848
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2846
+S
+#2848
+Mythago Wood~
+You are lost in Mythago Wood.
+~
+14 0 3 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2851
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2847
+S
+#2849
+Mythago Wood~
+You are lost in Mythago Wood.
+~
+14 0 3 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2845
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2852
+S
+#2850
+Mythago Wood~
+You are lost in Mythago Wood.
+~
+14 0 3 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2846
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2862
+S
+#2851
+Mythago Wood~
+You are lost in Mythago Wood.
+~
+14 0 3 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2848
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2853
+S
+#2852
+Mythago Wood~
+You are lost in Mythago Wood.
+~
+14 0 3 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2849
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2859
+S
+#2853
+Mythago Wood~
+You are lost in Mythago Wood.
+~
+14 0 3 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2851
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2864
+S
+#2854
+Mythago Wood~
+You are lost in Mythago Wood.
+~
+14 0 3 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2855
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2865
+S
+#2855
+Mythago Wood~
+You are lost in Mythago Wood.
+~
+14 0 3 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2856
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2854
+S
+#2856
+Mythago Wood~
+You are lost in Mythago Wood.
+~
+14 0 3 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2857
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2855
+S
+#2857
+Mythago Wood~
+You are lost in Mythago Wood.
+~
+14 0 3 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2858
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2856
+S
+#2858
+Mythago Wood~
+You are lost in Mythago Wood.
+~
+14 0 3 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2859
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2857
+S
+#2859
+Mythago Wood~
+You are lost in Mythago Wood.
+~
+14 0 3 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2852
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2860
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2866
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2858
+S
+#2860
+Mythago Wood~
+You are lost in Mythago Wood.
+~
+14 0 3 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2861
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2859
+S
+#2861
+Mythago Wood~
+You are lost in Mythago Wood.
+~
+14 0 3 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2862
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2860
+S
+#2862
+Mythago Wood~
+You are lost in Mythago Wood.
+~
+14 0 3 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2850
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2863
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2861
+S
+#2863
+Mythago Wood~
+You are lost in Mythago Wood.
+~
+14 0 3 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2864
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2862
+S
+#2864
+Mythago Wood~
+You are lost in Mythago Wood.
+~
+14 0 3 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2853
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2863
+S
+#2865
+Mythago Wood~
+You are lost in Mythago Wood.
+~
+14 0 3 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2854
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2867
+S
+#2866
+Mythago Wood~
+You are lost in Mythago Wood.
+~
+14 0 3 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2859
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2869
+S
+#2867
+Mythago Wood~
+You are lost in Mythago Wood.
+~
+14 0 3 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2865
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2868
+S
+#2868
+Mythago Wood~
+You are lost in Mythago Wood.
+~
+14 0 3 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2870
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2867
+S
+#2869
+Mythago Wood~
+You are lost in Mythago Wood.
+~
+14 0 3 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2866
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2874
+S
+#2870
+Mythago Wood~
+You are lost in Mythago Wood.
+~
+14 0 3 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2868
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2871
+S
+#2871
+A wide dark path in Mythago Wood~
+You are lost in Mythago Wood.
+~
+14 0 3 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2872
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2870
+S
+#2872
+A small dark clearing in Mythago Wood~
+You are lost in Mythago Wood.
+~
+14 0 3 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2873
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2877
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2871
+S
+#2873
+A wide dark path in Mythago Wood~
+You are lost in Mythago Wood.
+~
+14 0 3 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2874
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2872
+S
+#2874
+A wide dark path in Mythago Wood~
+You are lost in Mythago Wood.
+~
+14 0 3 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2869
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2875
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2873
+S
+#2875
+A wide dark path in Mythago Wood~
+You are lost in Mythago Wood.
+~
+14 0 3 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2876
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2874
+S
+#2876
+A bend in a dark trail in Mythago Wood~
+You are lost in Mythago Wood.
+~
+14 0 3 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2878
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2875
+S
+#2877
+A dark trail in Mythago Wood~
+You are lost in Mythago Wood.
+~
+14 0 3 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2872
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2879
+S
+#2878
+A dark trail in Mythago Wood~
+You are lost in Mythago Wood.
+~
+14 0 3 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2876
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2880
+S
+#2879
+A dark trail in Mythago Wood~
+You are lost in Mythago Wood.
+~
+14 0 3 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2877
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2881
+S
+#2880
+A dark trail in Mythago Wood~
+You are lost in Mythago Wood.
+~
+14 0 3 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2878
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2885
+S
+#2881
+A bend in a dark trail~
+You are lost in Mythago Wood.
+~
+14 0 3 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2879
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2882
+S
+#2882
+A dark trail in Mythago Wood~
+You are lost in Mythago Wood.
+~
+14 0 3 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2883
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2881
+S
+#2883
+A dark trail in Mythago Wood~
+You are lost in Mythago Wood.
+~
+14 0 3 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2884
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2882
+S
+#2884
+A dark trail in Mythago Wood~
+You are lost in Mythago Wood.
+~
+14 0 3 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2885
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2883
+S
+#2885
+A bend in a dark trail~
+You are lost in Mythago Wood.
+~
+14 0 3 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2880
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2884
+S
+#3460
+Mythago Wood~
+To the north the trees begin to thin out, allowing bits of the sky to
+peek through the leaves.
+~
+14 0 3 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3461
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2814
+S
+#3461
+Mythago Wood~
+To the north the trees begin to thin out, allowing bits of the sky to
+peek through the leaves.
+~
+14 0 3 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3462
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3460
+S
+#3462
+Mythago Wood~
+The trees part, revealing a beautiful glade filled with tall
+green grass and beautiful wild flowers.  The meadow is covered by a delicate
+canopy of queen anne's lace and is carpeted by soft clover.  The soft music
+of busy honey bees draws you out of the dark wood, into the warm sunlight.
+~
+14 0 3 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3463
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3461
+S
+#3463
+A sunlit meadow~
+You stand in a beautiful sunlit meadow.  The bright green warmth of the tall
+grass stands in stark contrast to the dark overcast of the surrounding forest.
+Along the ground grow clumps of soft purple clover, while above grow tall
+stalks of Queen Anne's Lace.
+~
+14 0 2 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3464
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3462
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3467
+S
+#3464
+A sunlit meadow~
+You stand in a beautiful sunlit meadow.  The bright green warmth of the tall
+grass stands in stark contrast to the dark overcast of the surrounding forest.
+Along the ground grow clumps of soft purple clover, while above grow tall
+stalks of Queen Anne's Lace.
+~
+14 0 2 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3465
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3463
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3470
+S
+#3465
+A sunlit meadow~
+You stand in a beautiful sunlit meadow.  The bright green warmth of the tall
+grass stands in stark contrast to the dark overcast of the surrounding forest.
+Along the ground grow clumps of soft purple clover, while above grow tall
+stalks of Queen Anne's Lace.
+~
+14 0 2 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3466
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3464
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3473
+S
+#3466
+A sunlit meadow~
+You stand in a beautiful sunlit meadow.  The bright green warmth of the tall
+grass stands in stark contrast to the dark overcast of the surrounding forest.
+Along the ground grow clumps of soft purple clover, while above grow tall
+stalks of Queen Anne's Lace.
+~
+14 0 2 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3465
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3476
+S
+#3467
+A sunlit meadow~
+You stand in a beautiful sunlit meadow.  The bright green warmth of the tall
+grass stands in stark contrast to the dark overcast of the surrounding forest.
+Along the ground grow clumps of soft purple clover, while above grow tall
+stalks of Queen Anne's Lace.
+~
+14 0 2 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3470
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3463
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3468
+S
+#3468
+A sunlit meadow~
+You stand in a beautiful sunlit meadow.  The bright green warmth of the tall
+grass stands in stark contrast to the dark overcast of the surrounding forest.
+Along the ground grow clumps of soft purple clover, while above grow tall
+stalks of Queen Anne's Lace.
+~
+14 0 3 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3471
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3467
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3469
+S
+#3469
+A sunlit meadow~
+You stand in a beautiful sunlit meadow.  The bright green warmth of the tall
+grass stands in stark contrast to the dark overcast of the surrounding forest.
+Along the ground grow clumps of soft purple clover, while above grow tall
+stalks of Queen Anne's Lace.
+~
+14 0 2 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3472
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3468
+S
+#3470
+A sunlit meadow~
+You stand in a beautiful sunlit meadow.  The bright green warmth of the tall
+grass stands in stark contrast to the dark overcast of the surrounding forest.
+Along the ground grow clumps of soft purple clover, while above grow tall
+stalks of Queen Anne's Lace.
+~
+14 0 2 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3473
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3464
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3467
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3471
+S
+#3471
+A sunlit meadow~
+You stand in a beautiful sunlit meadow.  The bright green warmth of the tall
+grass stands in stark contrast to the dark overcast of the surrounding forest.
+Along the ground grow clumps of soft purple clover, while above grow tall
+stalks of Queen Anne's Lace.
+~
+14 0 3 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3474
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3470
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3468
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3472
+S
+#3472
+A sunlit meadow~
+You stand in a beautiful sunlit meadow.  The bright green warmth of the tall
+grass stands in stark contrast to the dark overcast of the surrounding forest.
+Along the ground grow clumps of soft purple clover, while above grow tall
+stalks of Queen Anne's Lace.
+~
+14 0 2 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3475
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3471
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3469
+S
+#3473
+A sunlit meadow~
+You stand in a beautiful sunlit meadow.  The bright green warmth of the tall
+grass stands in stark contrast to the dark overcast of the surrounding forest.
+Along the ground grow clumps of soft purple clover, while above grow tall
+stalks of Queen Anne's Lace.
+~
+14 0 2 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3476
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3465
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3470
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3474
+S
+#3474
+A sunlit meadow~
+You stand in a beautiful sunlit meadow.  The bright green warmth of the tall
+grass stands in stark contrast to the dark overcast of the surrounding forest.
+Along the ground grow clumps of soft purple clover, while above grow tall
+stalks of Queen Anne's Lace.
+~
+14 0 3 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3477
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3473
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3471
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3475
+D5
+The ground is covered with sticks and leaves.
+~
+hole sticks leaves~
+$n disappears into the rabbit warren.~
+$n hops in.~
+1 -1 3479
+S
+#3475
+A sunlit meadow~
+You stand in a beautiful sunlit meadow.  The bright green warmth of the tall
+grass stands in stark contrast to the dark overcast of the surrounding forest.
+Along the ground grow clumps of soft purple clover, while above grow tall
+stalks of Queen Anne's Lace.
+~
+14 0 2 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 3478
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3474
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3472
+S
+#3476
+A sunlit meadow~
+You stand in a beautiful sunlit meadow.  The bright green warmth of the tall
+grass stands in stark contrast to the dark overcast of the surrounding forest.
+Along the ground grow clumps of soft purple clover, while above grow tall
+stalks of Queen Anne's Lace.
+~
+14 0 2 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3466
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3473
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3477
+S
+#3477
+A sunlit meadow~
+You stand in a beautiful sunlit meadow.  The bright green warmth of the tall
+grass stands in stark contrast to the dark overcast of the surrounding forest.
+Along the ground grow clumps of soft purple clover, while above grow tall
+stalks of Queen Anne's Lace.
+~
+14 0 2 0
+0 0 0 0
+0 0 0
+D0
+ ~
+sesme~
+ ~
+ ~
+1 10000 668
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3476
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3474
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 3478
+S
+#3478
+A sunlit meadow~
+You stand in a beautiful sunlit meadow.  The bright green warmth of the tall
+grass stands in stark contrast to the dark overcast of the surrounding forest.
+Along the ground grow clumps of soft purple clover, while above grow tall
+stalks of Queen Anne's Lace.
+~
+14 0 2 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 3477
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 3475
+S
+#3479
+A bunny hole~
+A cozy little bunny hole, the home to a couple of very sweet rabbits.
+~
+14 520 0 0
+0 0 0 0
+0 0 0
+D4
+The hole leads back up thto the meadow.
+~
+hole~
+$n hops out.~
+$n hops out of the hole.~
+1 -1 3474
+S
+#4047
+A path less taken~
+You notice this smaller path leading north from the main road.  Not knowing
+where it leads, you look around for a signpost or some indication of who may
+have travelled this way.  You see nothing that gives any hint of what lies
+beyond the next hillock, but something about the way the grass blows in the
+breeze, and the way clouds dance along the sky, makes you impetuously decide
+to leave the road to the east, and continue northward.
+~
+14 0 2 1
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 4049
+D1
+~
+~
+~
+~
+0 0 63365
+D2
+~
+~
+~
+~
+0 0 63367
+D3
+~
+~
+~
+~
+0 0 63366
+S
+#4049
+A path less taken~
+You pass over the crest of the hill and look with curiosity to the other
+side.  Ahead is a dark wood and from this vantage point you can see it
+stretches on for many leagues.  The scene is dark and forboding.  The trees
+are dense and twitsted so that little light penetrates to the forest floor.
+You are spooked by several ungodly sounds and can't decide whether one is
+an owl screetching, or a human scream.  Then you notice the huge willow
+ahead.  It is very big and old.  Its long green branches reach to the
+ground in a comforting way, like an old grandfather.  It looks like a good
+place to rest before you begin your journey back to the city.
+~
+14 0 2 1
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 727
+D1
+~
+~
+~
+~
+0 0 63363
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 4047
+D3
+~
+~
+~
+~
+0 0 63364
+S
+#4467
+The Forest House~
+ ~
+14 2056 0 0
+0 0 0 0
+0 0 0
+D0
+A back door in the house. It's entirely hand-crafted
+of stained-glass in the pattern of beautiful wild
+flowers unlike any you have ever seen.
+~
+glass~
+$n leaves out the back door.~
+$n walks outside to enjoy the view.~
+1 18012 2722
+D2
+The front door is made from a dark wood, engraved
+into the wood is a crescent moon and a star pattern.
+~
+door~
+$n quietly leaves through the door~
+$n has arrived from the forest house~
+2 18012 2728
+D4
+A Spiral stair case crafted of a dark
+wood. It looks to have been carved to
+resemble vines and leaves twisting
+upward. The stairs look to be of a
+deep green stone.
+~
+ ~
+$n walks up the stairs.~
+$n enters from downstairs.~
+1 -1 2715
+S
+#6374
+The Forest of Desire~
+ Stepping through the mirror, you find yourself in the center of an ancient
+redwood grove. A feeling of envelopment overcomes you, standing beneath the
+towering forty foot trees. The rythmic sound of heavy raindrops falling from
+the high branches calm your mind, into a trancelike state of peacefulness. A
+small family of deer frolic in the distance, plucking dream berries off a
+nearby bush. The sweet smell of jasmine and amber drift from an incense plate
+in the center of the table. Four enormous mushrooms grow around the stump,
+making perfect chairs.
+~
+14 2564 3 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+5 -1 2717
+S
+#19999
+$~

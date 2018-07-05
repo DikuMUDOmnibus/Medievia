@@ -1,0 +1,33 @@
+unalias rm
+rm /space/mediv/zips/*.zip
+cd /space/mediv/src
+zip src.zip *.c Makefile startup zipit *.h *.txt *.prj zipit
+mv src.zip /space/mediv/zips
+cd /space/mediv/lib
+zip lib.zip medievia.* *.txt catacomb.* *.dat *.pic
+mv lib.zip /space/mediv/zips
+cd /space/mediv/lib/wld
+zip wld.zip *
+mv wld.zip /space/mediv/zips
+cd /space/mediv/catacomb
+zip catacomb.zip *
+mv catacomb.zip /space/mediv/zips
+cd /space/mediv/casino
+zip casino.zip *
+mv casino.zip /space/mediv/zips
+cd /space/mediv/clan
+zip clan.zip *
+mv clan.zip /space/mediv/zips
+cd /space/mediv/newspaper
+zip newspapr.zip *
+mv newspapr.zip /space/mediv/zips
+cd /space/mediv/notes
+zip notes.zip *
+mv notes.zip /space/mediv/zips
+cd /space/mediv/economy
+zip economy.zip *
+mv economy.zip /space/mediv/zips
+cd /space/mediv/news
+zip news.zip *
+mv news.zip /space/mediv/zips
+

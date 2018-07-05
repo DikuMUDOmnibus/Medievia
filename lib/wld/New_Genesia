@@ -1,0 +1,3099 @@
+#579
+A Dimly Lit House~
+You have entered a spacious, one room house.  Thick curtains have been
+pulled across all the windows, letting in only thin streams of light.
+Bookcases line most of the wall space, tables and workbenches occupy
+much of the floor.  An unmade bed sits in the northwest corner near
+a large, blackened-stone fireplace.  Burning candles have been set
+randomly on whatever surface hasn't been cluttered with books and
+papers and alchemy equipment.
+~
+71 1036 0 7
+0 0 0 0
+0 0 0
+D1
+An arched stone door.
+~
+door stone~
+$n leaves through the stone door.~
+$n arrives from a small house to the west.~
+1 -1 7143
+S
+#834
+An Old Veteran's Home~
+The room is quite spacious and made entirely of stone.  A large hearth
+burns brightly in the eastern wall, heating the area.  Thick rugs made
+of bear and deer hide cover the hardwood floor and hang from the walls.
+Large foot lockers made of iron and copper line the walls.
+~
+71 524 0 7
+0 0 0 0
+0 0 0
+D0
+A large wooden door, strengthened by iron bands.
+~
+door wooden~
+ ~
+ ~
+1 -1 7122
+S
+#906
+A Narrow Alley~
+This is a very narrow alleyway between several buildings.  The stone walls
+of the two story buildings rise on the east and west.  No windows face
+into the alley.  The cobblestone ground is covered with grime and
+garbage is piled up on either side of the alley.
+~
+71 256 2 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 907
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 7139
+S
+#907
+A Dead-End~
+A narrow alley from the south has opened up into this ten by ten foot
+courtyard. Tall stone walls of buildings rise up to the north, east
+and west.  No windows face into this courtyard.  Garbage and debris
+clutter the area, stacked high against the walls.  A large crate stands
+against the northern wall.
+~
+71 0 2 7
+0 0 0 0
+0 0 0
+D0
+The crate stands nearly six feet tall and about three wide.  The lid is
+losely attached to the frame with rusty iron hinges.  The seal of Tar
+Valon has been burned into the wooden surface of the crate.
+~
+lid crate~
+$n caustiously walks into the dark crate.~
+ ~
+4 -1 7164
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 906
+S
+#925
+A Shadowy Hideout~
+A narrow ladder attached to the east wall leads down into this damp
+room. It is approximately thirty feet square and made of stone,
+obviously not by a skilled craftsman.  The air is musty and their are
+only a few candles to light the room, casting flickering shadows.
+Stores of provisions and weapons, as well as other equipment needed
+for outdoor survival are stacked along the southern wall.  A large
+group of men, some dressed in armor, sit with their backs to the
+walls discussing in hushed tones.
+~
+71 0 2 0
+0 0 0 0
+0 0 0
+D4
+A rotting, wooden trapdoor.
+~
+trapdoor~
+$n climbs up the ladder and out of the room.~
+$n emerges from a large pile of leaves on the ground.~
+1 -1 7180
+S
+#7101
+Atop a Stone Pillar~
+You are perched on a massive stone pillar, apparently carved from black
+granite. It is approximately ten feet in diameter and twenty feet tall.
+Stretching out in all directions below you in a thriving town.  Beyond
+the walls of the city is a vast forest.  A staircase, blending into the side
+of the pillar, leads down to the town square.
+~
+71 4 1 7
+0 0 0 0
+0 0 0
+D5
+A stone staircase spirals down around the pillar to the Town Square.
+~
+ ~
+ ~
+ ~
+1 -1 7102
+S
+#7102
+Town Square~
+This is a large, open square in the center of town.  The ground is paved
+with worn down cobblestones.  The surrounding buildings are made mostly
+from heavy timber and brick, and a few of the more prominent buildings
+are constructed of stone and marble.  Wide, heavily used streets lead in
+each of the four cardinal directions.
+In the center of the square is an immense pillar of black granite.  Steps
+have been carved into the sides, spiraling upward twenty feet to the top.
+Arcane runes are etched into the pillar's surface and filled with molten
+silver.
+~
+71 0 1 0
+0 0 0 0
+0 0 0
+D0
+Mammon Ave. leads north from this square.
+~
+ ~
+ ~
+ ~
+1 -1 7103
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 7112
+D2
+Mammon Ave. leads south from this square.
+~
+ ~
+ ~
+ ~
+1 -1 7107
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 7121
+D4
+A spiral staircase built into the side of the pillar leads to the top.
+~
+ ~
+ ~
+ ~
+1 -1 7101
+S
+#7103
+Mammon Ave.~
+This is a wide cobblestone street with smooth, well kept walkways along
+either side.  The road is slightly slanted to the west so the rain water
+drains into the gutter.  Torches, mounted on seven foot tall posts line
+both sides of the avenue, which are lit at night.  Beyond the walkways
+are many buildings, houses, small shops and others of the like.
+~
+71 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 7104
+D2
+To the south you can see the Town Square.
+~
+ ~
+ ~
+ ~
+1 -1 7102
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 7111
+S
+#7104
+Mammon Ave.~
+This is a wide cobblestone street with smooth, well kept walkways along
+either side.  The road is slightly slanted to the west so the rain water
+drains into the gutter.  Torches, mounted on seven foot tall posts line
+both sides of the avenue, which are lit at night.  Beyond the walkways
+are many buildings, houses, small shops and others of the like.
+~
+71 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 7105
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 7161
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 7103
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 7160
+S
+#7105
+Mammon Ave.~
+This is a wide cobblestone street with sooth, well kept walkways along
+either side.  The road is slightly slanted to the west so the rain water
+drains into the gutter.  Torches, mounted on seven foot tall posts line
+both sides of the avenue, which are lit at night.  Beyond the walkways
+are many buildings, houses, small shops and others of the like.
+~
+71 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 7150
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 7104
+S
+#7107
+Mammon Ave.~
+This is a wide cobblestone street with smooth, well kept walkways along
+either side.  The road is slightly slanted to the west so the rain water
+drains into the gutter.  Torches, mounted on seven foot tall posts line
+both sides of the avenue, which are lit at night.  Beyond the walkways
+are many buildings, houses, small shops and others of the like.
+~
+71 0 1 0
+0 0 0 0
+0 0 0
+D0
+To the north you can see the Town Square.
+~
+ ~
+ ~
+ ~
+1 -1 7102
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 7108
+S
+#7108
+Mammon Ave.~
+This is a wide cobblestone street with smooth, well kept walkways along
+either side.  The road is slightly slanted to the west so the rain water
+drains into the gutter.  Torches, mounted on seven foot tall posts line
+both sides of the avenue, which are lit at night.  Beyond the walkways
+are many buildings, houses, small shops and others of the like.
+~
+71 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 7107
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 7109
+S
+#7109
+Mammon Ave.~
+This is a wide cobblestone street with smooth, well kept walkways along
+either side.  The road is slightly slanted to the west so the rain water
+drains into the gutter.  Torches, mounted on seven foot tall posts line
+both sides of the avenue, which are lit at night.  Beyond the walkways
+are many buildings, houses, small shops and others of the like.
+~
+71 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 7108
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 7157
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 7137
+S
+#7111
+The Adventurers' Guild~
+From the looks of your surroundings, you are in a large, one-room building.
+The floor is polished hardwood and the walls are a combination of brick
+and roughly finished stones.  Several tables and many chairs have been
+placed all around the room.  Various maps are pinned to the walls,
+displaying the city and surrounding areas.  Open doorways provide exits to
+the east and south.  In the northwest corner of the room, you notice an
+open trapdoor in the floor.
+~
+71 8 1 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 7103
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 7121
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 7120
+E
+world~
+^   ^   ^   ^   ^   ^   ^   ^    ^      .   .   .   .   .   .   .   .   .
+ ^  ^  ^  Mountains  ^  ^  ^   ^      .   .   .   .   .   .   .   .   .
+^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^  ^   ^           .   .   .   .   .   .   .   .   .
+ ^ ^ ^ ^ ^  ^    New                    .   .   .   .   .   .   .   .   .
+^ ^ ^ ^ ^ ^  ^  Genesia                    .   .  Desert  .   .   .   .   .
+ ^ ^ ^ ^ ^  ^  ^   ^   ^                    .   .   .   .   .   .   .   .
+^ Great ^ ^  ^       ^  ^  ^  ^                .   .   .   .   .   .   .
+^ Falls  ^ ^        ^   ^   ^   ^                 .   .   .   .   .   .   .
+ ^ ^ ^ ^ ^         ^  ^  ^  ^  ^                    .   .   .   .   .   .
+^ ^ ^ ^ ^          ^  Hills ^  ^                               .   .   .
+ ^ ^ ^ ^ ^         ^ ^  ^  ^ ^
+^ ^ ^ ^ ^         ^  ^  ^  ^ ^
+^ ^ ^ ^ ^ ^  ^  ^  ^  ^   ^  ^
+ ^ ^ ^ ^   ^   ^   ^  ^  ^  ^
+^ ^ ^ ^             ^   ^
+ ^ ^ ^
+~
+E
+city~
+        -----|-----|---------Gate--------|-----|-----
+       |   Guild  Guild       |        Guild  Guild  |
+       |                      |                      |
+       |                Bank--|--P.O.                |
+       |    Hotel             |             Armor    |
+       |-----|          Maps--|                |-----|
+       |     |           |    |                |     |
+       |Cart_|___________|___/^\_______________|_Cart|
+       |     |               \_/               |     |
+       |     |                |                |     |
+       |-----|--Jozell's      |                |-----|
+       |                      |             Weapons  |
+       |                      |                      |
+       |--Prison              |--Bar                 |
+       |                      |   |                  |
+        ---------------------Gate--------------------
+~
+E
+maps map~
+These maps have been provided by the local adventurers guild.  To look at
+a map of the city, type LOOK CITY.  And to view a map of the surrounding
+areas, type LOOK WORLD.
+~
+S
+#7112
+Moloch Lane~
+This is a wide cobblestone street with smooth, well kept walkways along
+either side.  The road is slightly slanted to the south so that rain water
+drains into the gutter.  Torches, mounted on seven foot tall posts, line
+both sides of the lane to provide light after dark.  Beyond the walkways
+are many buildings, houses, small shops and others of the like.
+~
+71 0 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 7113
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 7102
+S
+#7113
+Moloch Lane~
+This is a wide cobblestone street with smooth, well kept walkways along
+either side.  The road is slightly slanted to the south so that rain water
+drains into the gutter.  Torches, mounted on seven foot tall posts, line
+both sides of the lane to provide light after dark.  Beyond the walkways
+are many buildings, houses, small shops and others of the like.
+~
+71 0 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 7114
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 7112
+S
+#7114
+The Eastern Square~
+You stand in a large, open courtyard paved with worn down cobblestones.
+Waist-high walls line the edges of the road beyond which grow beautiful,
+exotic gardens.  The square opens up to the north, south and east.  A wide
+street leads west out of the courtyard.
+~
+71 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 7115
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 7117
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 7116
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 7113
+S
+#7115
+The Eastern Square~
+You stand in a large, open courtyard paved with worn down cobblestones.
+Waist-high walls line the edges of the road beyond which grow beautiful,
+exotic gardens.  The square opens up to the south and east.  A shop's door
+to the north has been left open, and the sound of a hammer striking an
+anvil rings loudly in your ears.
+~
+71 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 7158
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 7118
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 7114
+S
+#7116
+The Eastern Square~
+You stand in a large, open courtyard paved with worn down cobblestones.
+Waist-high walls line the edges of the road beyond which grow beautiful,
+exotic gardens.  The square opens up to the north and east.  To the
+south you can hear the banging of a hammer against an anvil.
+~
+71 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 7114
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 7119
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 7159
+S
+#7117
+The Eastern Square~
+You stand in a large, open courtyard paved with worn down cobblestones.
+Waist-high walls line the edges of the road beyond which grow beautiful,
+exotic gardens.  The square opens up to the north, south and west.  In the
+center of the courtyard, a merchant's cart has been set up.  Various
+adventuring needs, as well as trinkets, are on display.
+~
+71 1024 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 7118
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 7119
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 7114
+S
+#7118
+The Eastern Square~
+You stand in a large, open courtyard paved with worn down cobblestones.
+Waist-high walls line the edges of the road beyond which grow beautiful,
+exotic gardens.  The square opens up to the south and west.  A wide
+street leads north out of the courtyard.
+~
+71 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 7144
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 7117
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 7115
+S
+#7119
+The Eastern Square~
+You stand in a large, open courtyard paved with worn down cobblestones.
+Waist-high walls line the edges of the road beyond which grow beautiful,
+exotic gardens.  The square opens up to the north and west.  To the south
+a wide street leads away from the courtyard.
+~
+71 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 7117
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 7143
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 7116
+S
+#7120
+A Basement of Donations~
+You stand in a dank basement, filled with piles of old and rusting
+equipment. Small droplets of water fall from the ceiling and add to
+the dampness of the floor.  Burning torches are attached to the four
+walls by bronze sconces.
+~
+71 12 1 7
+0 0 0 0
+0 0 0
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 7111
+S
+#7121
+Moloch Lane~
+This is a wide cobblestone street with smooth, well kept walkways along
+either side.  The road is slightly slanted to the south so that rain water
+drains into the gutter.  Torches, mounted on seven foot tall posts, line
+both sides of the lane to provide light after dark.  Beyond the walkways
+are many buildings, houses, small shops and others of the like.
+~
+71 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 7111
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 7102
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 7122
+S
+#7122
+Moloch Lane~
+This is a wide cobblestone street with smooth, well kept walkways along
+either side.  The road is slightly slanted to the south so that rain water
+drains into the gutter.  Torches, mounted on seven foot tall posts, line
+both sides of the lane to provide light after dark.  Beyond the walkways
+are many buildings, houses, small shops and others of the like.
+~
+71 0 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 7121
+D2
+A large wooden door, strengthened by iron bands.
+~
+door wooden~
+$n enters a stone house on the south side of the street.~
+ ~
+1 -1 834
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 7123
+S
+#7123
+The Western Square~
+You stand in a large, open courtyard paved with worn down cobblestones.
+Waist-high walls line the edges of the road beyond which grow beautiful,
+exotic gardens.  The square opens up to the north, south and west.  A wide
+street leads east out of the courtyard.
+~
+71 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 7124
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 7122
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 7126
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 7125
+S
+#7124
+The Western Square~
+You stand in a large, open courtyard paved with worn down cobblestones.
+Waist-high walls line the edges of the road beyond which grow beautiful,
+exotic gardens.  The square opens up to the south and east.
+~
+71 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 7166
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 7123
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 7128
+S
+#7125
+The Western Square~
+You stand in a large, open courtyard paved with worn down cobblestones.
+Waist-high walls line the edges of the road beyond which grow beautiful,
+exotic gardens.  The square opens up to the north, south and east.
+~
+71 1028 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 7128
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 7123
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 7127
+S
+#7126
+The Western Square~
+You stand in a large, open courtyard paved with worn down cobble stones.
+Waist-high walls line the edges of the road beyond which grow beautiful,
+exotic gardens.  The square opens up to the north and west.
+~
+71 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 7123
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 7168
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 7127
+S
+#7127
+The Western Square~
+You stand in a large, open courtyard paved with worn down cobblestones.
+Waist-high walls line the edges of the road beyond which grow beautiful,
+exotic gardens.  The square opens up to the north and east.  A wide
+street leads south out of the courtyard.
+~
+71 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 7125
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 7126
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 7129
+S
+#7128
+The Western Square~
+You stand in a large, open courtyard paved with worn down cobblestones.
+Waist-high walls line the edges of the road beyond which grow beautiful,
+exotic gardens.  The square opens up to the south and east.  A wide
+street leads north out of the courtyard.
+~
+71 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 7155
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 7124
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 7125
+S
+#7129
+Diabolus Court~
+This street is very wide, enough so that two carts could pass each other
+abreast.  A single pathway, lined with small flowers of the season, follows
+the road along its eastern side.  To the west are many decorative bushes
+and flowering trees, beyond which lies the city wall.  It is nearly twenty
+feet tall and constructed of massive granite blocks.  Buildings and houses
+stand to the east on the other side of the walkway.
+~
+71 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 7127
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 7130
+S
+#7130
+Diabolus Court~
+This street is very wide, enough so that two carts could pass each other
+abreast.  A single pathway, lined with small flowers of the season, follows
+the road along its eastern side.  To the west are many decorative bushes
+and flowering trees, beyond which lies the city wall.  It is nearly twenty
+feet tall and constructed of massive granite blocks.  A massive stone
+building stands to the east on the other side of the walkway.  A plaque
+has been secured to the front of it.
+~
+71 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 7129
+D1
+A heavy wooden door banded with iron strips.
+~
+door heavy wooden~
+$n enters the towne prison.~
+$n arrives from the city street.~
+1 -1 7131
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 7133
+E
+plaque~
+A small plaque of hammered brass on the front of the building reads:
+                       -------------------------
+                      |  N e w   G e n e s i a  |
+                      | - - - - - - - - - - - - |
+                      |  T o w n   P r i s o n  |
+                       -------------------------
+~
+S
+#7131
+Towne Prison~
+This is a large stone chamber with a domed ceiling.  Several benches and
+cots are arranged in the corners for the guards, and chests hold their
+personal belongings.  Torches attached to the wall with iron sconces
+illuminate the room.  To the west is a heavy oaken door, banded with iron
+strips, which leads to the city street.  A rusty iron cell door is to the
+north.
+~
+71 8 1 7
+0 0 0 0
+0 0 0
+D0
+A rusted iron jail cell.
+~
+cell~
+ ~
+ ~
+2 7103 7132
+D3
+A heavy wooden door banded by iron strips.
+~
+door heavy wooden~
+$n leaves through the west door.~
+$n has arrived from the building to the east.~
+1 -1 7130
+S
+#7132
+Jail Cell~
+You are in a cramped and dark prison cell.  The walls are made of stone
+and covered with dirt and other slime.  The floor is cold and wet, and
+the ceiling is only 5 feet high.  A rusted iron cell door appears to be
+the only exit, to the south.
+~
+71 524 1 7
+0 0 0 0
+0 0 0
+D2
+A rusted iron jail cell.
+~
+cell~
+ ~
+ ~
+2 7103 7131
+S
+#7133
+Intersection of Diabolus Court and Azazel Street~
+This street is very wide, enough so that two carts could pass each other
+abreast.  A single pathway, lined with small flowers of the season, follows
+the road along its north-eastern side.  To the west and south are many
+decorative bushes and flowering trees, beyond which lies the city wall.
+It is nearly twenty feet tall and constructed of massive granite blocks.
+~
+71 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 7130
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 7134
+S
+#7134
+Azazel Street~
+The cobblestone street is very wide here, enough so that two carts may
+pass each other abreast.  The south side of the street is lined with
+beautiful ornamental trees and other bushes.  Behind them you can see the
+town's outer wall.  It is constructed entirely of huge granite blocks.
+Following the road on the north side is a pathway, decorated with many
+small, fragrant flowers.
+~
+71 0 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 7135
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 7133
+S
+#7135
+Azazel Street~
+The cobblestone street is very wide here, enough so that two carts may
+pass each other abreast.  The south side of the street is lined with
+beautiful ornamental trees and other bushes.  Behind them you can see the
+town's outer wall.  It is constructed entirely of huge granite blocks.
+Following the road on the north side is a pathway, decorated with many
+small, fragrant flowers.
+The sound of clashing swords echos from the north.
+~
+71 0 1 0
+0 0 0 0
+0 0 0
+D0
+A large archway made of white marble blocks leads north to an open courtyard.
+~
+portcullis gate bars~
+$n strides through the archway to the north.~
+$n strides in through the archway.~
+1 -1 7165
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 7136
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 7134
+S
+#7136
+Azazel Street~
+The cobblestone street is very wide here, enough so that two carts may
+pass each other abreast.  The south side of the street is lined with
+beautiful ornamental trees and other bushes.  Behind them you can see the
+town's outer wall.  It is constructed entirely of huge granite blocks.
+Following the road on the north side is a pathway, decorated with many
+small, fragrant flowers.
+~
+71 0 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 7137
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 7135
+S
+#7137
+Southern Gate~
+Your attention is immediately drawn to the south.  A giant archway, made
+of polished black stone, provides passage through the town's outer wall.
+This is the intersection of Mammon Ave, which leads north, and Azazel
+Street, which leads east and west.  Ornamental trees and other bushes line
+the town wall, following the southern side of Azazel Street.  A metal plaque
+has been attached to the keystone of the archway.
+~
+71 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 7109
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 7138
+D2
+A gate of polished steel stands between the arch-way to the south.
+~
+gate steel~
+ ~
+ ~
+1 -1 7169
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 7136
+E
+plaque~
+The plaque appears to have been made from gold, hammered into a thin sheet.
+The following has been etched into the surface:
+ -------------------------------------------------------------
+|         W e l c o m e   t o   N e w   G e n e s i a         |
+|                                                             |
+|            Founded  on  the  34th  Day  of  the             |
+|              Month  of  Wondrous  Creation                  |
+|              In  the  Year  368                             |
+ -------------------------------------------------------------
+Scratched roughly on the bottom of the plaque...
+  "We prosper under the majestic presence of our God, Takhisis"
+~
+S
+#7138
+Azazel Street~
+The cobblestone street is very wide here, enough so that two carts may
+pass each other abreast.  The south side of the street is lined with
+beautiful ornamental trees and other bushes.  Behind them you can see the
+town's outer wall.  It is constructed entirely of huge granite blocks.
+Following the road on the north side is a pathway, decorated with many
+small, fragrant flowers.
+~
+71 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 7157
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 7139
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 7137
+S
+#7139
+Azazel Street~
+The cobblestone street is very wide here, enough so that two carts may
+pass each other abreast.  The south side of the street is lined with
+beautiful ornamental trees and other bushes.  Behind them you can see the
+town's outer wall.  It is constructed entirely of huge granite blocks.
+Following the road on the north side is a pathway, decorated with many
+small, fragrant flowers.
+~
+71 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 906
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 7140
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 7138
+S
+#7140
+Azazel Street~
+The cobble stone street is very wide here, enough so that two carts may
+pass each other abreast.  The south side of the street is lined with
+beautiful ornamental trees and other bushes.  Behind them you can see the
+town's outer wall.  It is constructed entirely of huge granite blocks.
+Following the road on the north side is a pathway, decorated with many
+small, fragrant flowers.
+~
+71 0 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 7141
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 7139
+S
+#7141
+Intersection of Azazel Street and Eblis Court~
+This street is very wide, enough so that two carts could pass each other
+abreast.  A single pathway, lined with small flowers of the season, follows
+the road along its north-western side.  To the south and east are many
+decorative bushes and flowering trees, beyond which lies the city wall.
+It is nearly twenty feet tall and constructed of massive granite blocks.
+~
+71 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 7142
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 7140
+S
+#7142
+Eblis Court~
+This street is very wide, enough so that two carts could pass each other
+abreast.  A single pathway, lined with small flowers of the season, follows
+the road along its western side.  To the east are many decorative bushes
+and flowering trees, beyond which lies the city wall.  It is nearly twenty
+feet tall and constructed of massive granite blocks.  Buildings and houses
+stand to the west on the other side of the walkway.
+~
+71 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 7143
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 7141
+S
+#7143
+Eblis Court~
+This street is very wide, enough so that two carts could pass each other
+abreast.  A single pathway, lined with small flowers of the season, follows
+the road along its western side.  To the east are many decorative bushes
+and flowering trees, beyond which lies the city wall.  It is nearly twenty
+feet tall and constructed of massive granite blocks.  Buildings and houses
+stand to the west on the other side of the walkway.
+~
+71 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 7119
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 7142
+D3
+An arched stone door leads into a small house, made of bricks and logs.
+~
+door stone~
+$n enters a small house to the west.~
+$n has arrived from the city street.~
+1 -1 579
+S
+#7144
+Eblis Court~
+This street is very wide, enough so that two carts could pass each other
+abreast.  A single pathway, lined with small flowers of the season, follows
+the road along its western side.  To the east are many decorative bushes
+and flowering trees, beyond which lies the city wall.  It is nearly twenty
+feet tall and constructed of massive granite blocks.  Buildings and houses
+stand to the west on the other side of the walkway.
+~
+71 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 7145
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 7118
+S
+#7145
+Eblis Court~
+This street is very wide, enough so that two carts could pass each other
+abreast.  A single pathway, lined with small flowers of the season, follows
+the road along its western side.  To the east are many decorative bushes
+and flowering trees, beyond which lies the city wall.  It is nearly twenty
+feet tall and constructed of massive granite blocks.  Buildings and houses
+stand to the west on the other side of the walkway.
+~
+71 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 7146
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 7144
+S
+#7146
+Intersection of Eblis Court and Apollyon Road~
+This street is very wide, enough so that two carts could pass each other
+abreast.  A single pathway, lined with small flowers of the season, follows
+the road along its south-western side.  To the east and north are many
+decorative bushes and flowering trees, beyond which lies the city wall.
+It is nearly twenty feet tall and constructed of massive granite blocks.
+~
+71 0 1 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 7145
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 7147
+S
+#7147
+Apollyon Road~
+The cobblestone street is very wide here, enough so that two carts may
+pass each other abreast.  The north side of the street is lined with
+beautiful ornamental trees and other bushes.  Behind them you can see the
+town's outer wall.  It is constructed entirely of huge granite blocks.
+Following the road on the south side is a pathway, decorated with many
+small, fragrant flowers.  Beyond the walkway are tall stone buildings
+where the guilds, city government offices and other such places are
+housed.
+~
+71 0 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 7146
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 7148
+S
+#7148
+Apollyon Road~
+The cobblestone street is very wide here, enough so that two carts may
+pass each other abreast.  The north side of the street is lined with
+beautiful ornamental trees and other bushes.  Behind them you can see the
+town's outer wall.  It is constructed entirely of huge granite blocks.
+Following the road on the south side is a pathway, decorated with many
+small, fragrant flowers.  Beyond the walkway are tall stone buildings
+where the guilds, city government offices and other such places are
+housed.
+~
+71 0 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 7147
+D2
+A set of large ebony doors.
+~
+door doors ebony~
+ ~
+ ~
+1 -1 7162
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 7149
+S
+#7149
+Apollyon Road~
+The cobblestone street is very wide here, enough so that two carts may
+pass each other abreast.  The north side of the street is lined with
+beautiful ornamental trees and other bushes.  Behind them you can see the
+town's outer wall.  It is constructed entirely of huge granite blocks.
+Following the road on the south side is a pathway, decorated with many
+small, fragrant flowers.  Beyond the walkway are tall stone buildings
+where the guilds, city government offices and other such places are
+housed.
+~
+71 0 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 7148
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 7150
+S
+#7150
+Northern Gate~
+Your attention is immediately drawn to the north.  A giant archway, made
+of polished black stone, provides passage through the town's outer wall.
+This is the intersection of Mammon Ave, which leads south, and Apollyon
+Road, which leads east and west.  Ornamental trees and other bushes line
+the town wall, following the northern side of Apollyon Road.  A metal plaque
+has been attached to the keystone of the archway.
+~
+71 0 1 0
+0 0 0 0
+0 0 0
+D0
+A gate of polished steel stands between the archway to the north.
+~
+gate steel~
+ ~
+ ~
+1 -1 7176
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 7149
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 7105
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 7151
+E
+plaque~
+The plaque appears to have been made from gold, hammered into a thin sheet.
+The following has been etched into the surface:
+ -------------------------------------------------------------
+|         W e l c o m e   t o   N e w   G e n e s i a         |
+|                                                             |
+|            Founded  on  the  34th  Day  of  the             |
+|              Month  of  Wondrous  Creation                  |
+|              In  the  Year  368                             |
+ -------------------------------------------------------------
+Scratched roughly on the bottom of the plaque...
+  "We prosper under the majestic presence of our God, Takhisis"
+~
+S
+#7151
+Apollyon Road~
+The cobblestone street is very wide here, enough so that two carts may
+pass each other abreast.  The north side of the street is lined with
+beautiful ornamental trees and other bushes.  Behind them you can see the
+town's outer wall.  It is constructed entirely of huge granite blocks.
+Following the road on the south side is a pathway, decorated with many
+small, fragrant flowers.  Beyond the walkway are tall stone buildings
+where the guilds, city government offices and other such places are
+housed.
+~
+71 0 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 7150
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 7152
+S
+#7152
+Apollyon Road~
+The cobblestone street is very wide here, enough so that two carts may
+pass each other abreast.  The north side of the street is lined with
+beautiful ornamental trees and other bushes.  Behind them you can see the
+town's outer wall.  It is constructed entirely of huge granite blocks.
+Following the road on the south side is a pathway, decorated with many
+small, fragrant flowers.  Beyond the walkway are tall stone buildings
+where the guilds, city government offices and other such places are
+housed.
+~
+71 0 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 7151
+D2
+A massive, polished red wood door, trimmed with copper.
+~
+door massive redwood red wood copper~
+ ~
+ ~
+1 -1 7163
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 7153
+S
+#7153
+Apollyon Road~
+The cobblestone street is very wide here, enough so that two carts may
+pass each other abreast.  The north side of the street is lined with
+beautiful ornamental trees and other bushes.  Behind them you can see the
+town's outer wall.  It is constructed entirely of huge granite blocks.
+Following the road on the south side is a pathway, decorated with many
+small, fragrant flowers.  Beyond the walkway are tall stone buildings
+where the guilds, city government offices and other such places are
+housed.
+~
+71 0 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 7152
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 7154
+S
+#7154
+Intersection of Apollyon Road and Diabolus Court~
+This street is very wide, enough so that two carts could pass each other
+abreast.  A single pathway, lined with small flowers of the season, follows
+the road along its south-eastern side.  To the west and north are many
+decorative bushes and flowering trees, beyond which lies the city wall.
+It is nearly twenty feet tall and constructed of massive granite blocks.
+~
+71 0 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 7153
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 7156
+S
+#7155
+Diabolus Court~
+This street is very wide, enough so that two carts could pass each other
+abreast.  A single pathway, lined with small flowers of the season, follows
+the road along its eastern side.  To the west are many decorative bushes
+and flowering trees, beyond which lies the city wall.  It is nearly twenty
+feet tall and constructed of massive granite blocks.  Buildings and houses
+stand to the east on the other side of the walkway.
+~
+71 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 7156
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 7128
+S
+#7156
+Diabolus Court~
+This street is very wide, enough so that two carts could pass each other
+abreast.  A single pathway, lined with small flowers of the season, follows
+the road along its eastern side.  To the west are many decorative bushes
+and flowering trees, beyond which lies the city wall.  It is nearly twenty
+feet tall and constructed of massive granite blocks.  Buildings and houses
+stand to the east on the other side of the walkway.
+~
+71 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 7154
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 7155
+S
+#7157
+The Recovery Room~
+You have entered a local bar known as The Recovery Room.  A long bar
+occupies the north wall, behind which is a huge mirror.  Many stools have
+been set up in front of it and tables and chairs cover most of the
+remaining floor space.  Towns people, merchants, bards and all sorts of
+others crowd this place.  The noise level seems to have risen since you
+arrived and you have the strong urge to settle in and drink yourself
+unconscious.
+~
+71 1036 1 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 7138
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 7109
+S
+#7158
+The Black Shield~
+The sharp, piercing sound of metal striking metal fills the shop.  Racks
+and shelves line the walls, which display the many various types of armor
+for sale here.  Helmets, shields, gauntlets and other pieces of protective
+gear are all made here.  A counter stands against the north wall behind
+which is the workshop of the Armourer.
+~
+71 1036 0 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 7115
+S
+#7159
+The Red Arrow~
+This shop is quite hot even though the front door is left open to the
+courtyard. The walls of this building are made of stone and worn smooth
+from the many years since their construction.  Weapons of all sorts from
+different time periods hang on display.  A counter is built against the
+south wall and behind that is another room where new weapons are being
+created.
+~
+71 1036 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 7116
+S
+#7160
+Bank of New Genesia~
+This building was constructed entirely of stone.  The vaulted ceiling
+rises high above you with many windows on the upper wall to illuminate
+the room.  Powerful looking guards stand in each corner, watching for
+danger. You can see the large vault door on the west wall, crafted
+from mithril.  In front of it stands a semi-circular counter where an
+attractive young woman waits to assist bankers.  There is a small sign
+nailed to the front of the counter.
+~
+71 8 1 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 7104
+E
+sign~
+The sign displays directions to new customers on how to use the bank.
+Deposit <amount of gold coins>
+Balance
+Withdraw <amount of gold coins>
+~
+S
+#7161
+Message Center of New Genesia~
+This shop is rather small and occupied mostly by sacks of letters and
+other packages.  The wooden floor was once polished and beautiful, but
+is now covered by dust and tracked-in mud.  A small counter has been
+built near the east wall for customers.  There is a sign hanging on the
+front.
+~
+71 8 1 7
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 7104
+E
+sign~
+This is the Message Center of New Genesia.  Here you can send letters or
+objects to loved one and fellow adventurers.
+-----------------------------------------------------------------------------
+Send <object> <playername> - This will send the specified object to the
+                             player you wish.  Be sure to use correct
+                             upper and lowercase letters when entering
+                             the players name.
+Receive - This allows you to recieve whatever mail you have waiting for
+          you. You will know if you have mail when you see the [MAIL] prompt
+          on your screen.
+~
+S
+#7162
+Guild of Arcane Research and Training~
+An enormous building with high, vaulted ceilings.  Rows of bookcases line
+nearly every wall and extend onto the floor in some places.  A few
+tables, made of sanded stone, occupy the floor to provide places to
+study and work.  All kinds of texts, scrolls, and reagents are available
+here to provide and superb training ground for mages.
+~
+71 8 0 7
+13 0 0 0
+0 0 0
+D0
+A set of large ebony doors.
+~
+door doors ebony~
+ ~
+ ~
+1 -1 7148
+S
+#7163
+Temple of Spiritual Guidance~
+You find yourself in a massive cathedral illuminated by torches, candles
+and a spectrum of color filtering in through the many stained glass
+windows. While almost all temples are devoted to the praise of a single
+god, this one seems to be dedicated to every greater being in the
+pantheon. Devotees of all kinds can be seen here, praying to whichever
+god they feel drawn to.
+~
+71 524296 0 7
+11 0 0 0
+0 0 0
+D0
+A massive, polished red wood door, trimmed with copper.
+~
+door massive redwood red wood copper~
+ ~
+ ~
+1 -1 7152
+S
+#7164
+Local Thiefs' Guild~
+This is a shadowy and dark building, illuminated sparingly by torches and
+candles. The only section accessible to you, is the training area.
+Target dummies are on display as well as barricades to scale, tight-ropes
+to walk and all manner of other obstacles.
+~
+71 8 0 7
+14 0 0 0
+0 0 0
+D2
+An old, rotting wooden door.
+~
+door wooden old rotting~
+ ~
+$n walks out of the crate.~
+1 -1 907
+S
+#7165
+Training Hall of the Warrior Arts~
+This building would be better described as four walls surrounding a
+courtyard. Practice dummies have been set up to train warriors in the
+skills of various weapons.  In the center of the courtyard is enough
+room to hold a joust, and you wouldn't be surprised if that has happened
+in the past.
+~
+71 0 1 0
+7 0 0 0
+0 0 0
+D2
+An archway made of white marble leads to the city streets.
+~
+portcullis gate bars~
+ ~
+$n arrives from the archway to the north.~
+1 -1 7135
+S
+#7166
+The Inn of the Blessed Traveler~
+You are in a large, but cozy, room.  The floor is covered with a variety
+of animal furs and the walls are paneled with oak and display
+beautiful tapestries of the surrounding landscape.  The center of the
+west wall is dominated by a red brick fireplace.  A few chairs are
+arranged in a semi-circle in front of it.  The rest of the room is
+occupied by chairs and tables for travelers to rest and talk.  A
+staircase against the east wall leads up to the Inn's main desk.
+~
+71 520 0 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 7124
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 7167
+S
+#7167
+The Inn's Main Desk~
+In front of you, to the north, is the Inn's main desk.  Here you can rent
+a room for the night, or as long as you'd like to stay; as long as you
+can afford it.  A small fireplace sits in the southwest corner of the
+room, surrounded by animal furs to sit on.  A staircase against the east
+wall leads down to the Inn's Reception Area.
+~
+71 524 0 7
+0 0 0 0
+0 0 0
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 7166
+S
+#7168
+Jozell's Curiosities~
+This is a small shop, with large bowed windows in the front to provide
+a view of the courtyard outside.  The walls are all paneled with stained
+wood and the floors are polished oak.  Many little display cases hang
+on walls to show off the enormous array of items Jozell has collected
+over the years.
+~
+71 1036 0 7
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 7126
+S
+#7169
+Outside the South Gate of New Genesia~
+A large clearing before the South Gate of the city. The city walls extend
+to the east and west. An enormous archway made of polished black stone
+provides entrance into the town. A golden plaque is mounted on the
+keystone of the archway. Some farmland and cottages can be seen to the
+south. A few hundred yards to the east is the beginning of a dense forest.
+A path leads south amongst the cottages and a lush wooded area lies to the
+southwest.
+~
+71 0 1 0
+0 0 0 0
+0 0 0
+D0
+A gate of polished steel stands between the archway to the north.
+~
+gate steel~
+ ~
+ ~
+1 -1 7137
+D1
+There is a three foot wide space between the town's wall to the north and
+the forest to the south.  It is covered with small weeds and bushes, but
+still easily walked through.
+~
+ ~
+ ~
+ ~
+1 -1 7170
+D3
+There is a three foot wide space between the town's wall to the north and
+the forest to the south.  It is covered with small weeds and bushes, but
+still easily walked through.
+~
+ ~
+ ~
+ ~
+1 -1 7182
+E
+plaque~
+The plaque appears to have been made from gold, hammered into a thin sheet.
+The following has been etched into the surface:
+ -------------------------------------------------------------
+|         W e l c o m e   t o   N e w   G e n e s i a         |
+|                                                             |
+|            Founded  on  the  34th  Day  of  the             |
+|              Month  of  Wondrous  Creation                  |
+|              In  the  Year  368                             |
+ -------------------------------------------------------------
+Scratched roughly on the bottom of the plaque...
+  "We prosper under the majestic presence of our God, Takhisis"
+~
+S
+#7170
+Outside the Towne Walls~
+You are walking through the underbrush surrounding the walls of New
+Genesia. The town's wall is to the north, only a few feet away.  It
+is constructed entirely from huge blocks of granite, fitted together
+almost seamlessly.  Upon closer inspection of the wall, you can see
+jagged pieces of glass protruding from the seams.  This would deter
+almost any thief from attempting to scale these walls.  To the south
+lies farm land and small cottages.
+~
+71 0 2 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 7171
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 7169
+S
+#7171
+Outside the Towne Walls~
+You are walking through the underbrush surrounding the walls of New
+Genesia. The town's wall is to the northwest, only a few feet away.  It
+is constructed entirely from huge blocks of granite, fitted together
+almost seamlessly.  Upon closer inspection of the wall, you can see
+jagged pieces of glass protruding from the seams.  This would deter
+almost any thief from attempting to scale these walls.  To the south
+lies farm land and small cottages while the east is dominated by dense
+forest.
+~
+71 0 2 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 7172
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 7170
+S
+#7172
+Outside the Towne Walls~
+You are walking through the underbrush surrounding the walls of New
+Genesia. The town's wall is to the west, only a few feet away.  It
+is constructed entirely from huge blocks of granite, fitted together
+almost seamlessly.  Upon closer inspection of the wall, you can see
+jagged pieces of glass protruding from the seams.  This would deter
+almost any thief from attempting to scale these walls.  To the east
+lies dense forested grounds.
+~
+71 0 2 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 7173
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 7171
+S
+#7173
+Outside the Towne Walls~
+You are walking through the underbrush surrounding the walls of New
+Genesia. The town's wall is to the west, only a few feet away.  It
+is constructed entirely from huge blocks of granite, fitted together
+almost seamlessly.  Upon closer inspection of the wall, you can see
+jagged pieces of glass protruding from the seams.  This would deter
+almost any thief from attempting to scale these walls.  To the east
+lies dense forested grounds.
+~
+71 0 2 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 7174
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 7172
+S
+#7174
+Outside the Towne Walls~
+You are walking through the underbrush surrounding the walls of New
+Genesia. The town's wall is to the southwest, only a few feet away.  It
+is constructed entirely from huge blocks of granite, fitted together
+almost seamlessly.  Upon closer inspection of the wall, you can see
+jagged pieces of glass protruding from the seams.  This would deter
+almost any thief from attempting to scale these walls.  To the east
+and north lies dense forested grounds.
+~
+71 0 2 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 7173
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 7175
+S
+#7175
+Outside the Towne Walls~
+You are walking through the underbrush surrounding the walls of New
+Genesia. The town's wall is to the south, only a few feet away.  It
+is constructed entirely from huge blocks of granite, fitted together
+almost seamlessly.  Upon closer inspection of the wall, you can see
+jagged pieces of glass protruding from the seams.  This would deter
+almost any thief from attempting to scale these walls.  To the north
+lies dense forested grounds.
+~
+71 0 2 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 7174
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 7176
+S
+#7176
+Outside the North Gate of New Genesia~
+A large clearing before the North Gate of the city.  The city walls extend
+to the east and west.  An enormous archway made of polished black stone
+provides entrance into the town.  A golden plaque is mounted on the
+keystone of the archway.  Dense forest surrounds you to the north, east
+and west.  There is a trail leading north through the trees. and there is
+enough room between the forest and the town walls to walk east and west.
+~
+71 0 1 0
+0 0 0 0
+0 0 0
+D1
+There is a three foot wide space between the town's wall to the south and
+the forest to the north.  It is covered with small weeds and bushes, but
+still easily walked through.
+~
+ ~
+ ~
+ ~
+1 -1 7175
+D2
+A gate of polished steel stands between the archway to the south.
+~
+gate steel~
+ ~
+ ~
+1 -1 7150
+D3
+There is a three foot wide space between the town's wall to the south and
+the forest to the north.  It is covered with small weeds and bushes, but
+still easily walked through.
+~
+ ~
+ ~
+ ~
+1 -1 7177
+E
+plaque~
+The plaque appears to have been made from gold, hammered into a thin sheet.
+The following has been etched into the surface:
+ -------------------------------------------------------------
+|         W e l c o m e   t o   N e w   G e n e s i a         |
+|                                                             |
+|            Founded  on  the  34th  Day  of  the             |
+|              Month  of  Wondrous  Creation                  |
+|              In  the  Year  368                             |
+ -------------------------------------------------------------
+Scratched roughly on the bottom of the plaque...
+  "We prosper under the majestic presence of our God, Takhisis"
+~
+S
+#7177
+Outside the Towne Walls~
+You are walking through the underbrush surrounding the walls of New
+Genesia. The town's wall is to the south, only a few feet away.  It
+is constructed entirely from huge blocks of granite, fitted together
+almost seamlessly.  Upon closer inspection of the wall, you can see
+jagged pieces of glass protruding from the seams.  This would deter
+almost any thief from attempting to scale these walls.  To the north
+lies dense forested grounds.
+~
+71 0 2 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 7176
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 7178
+S
+#7178
+Outside the Towne Walls~
+You are walking through the underbrush surrounding the walls of New
+Genesia. The town's wall is to the southeast, only a few feet away.  It
+is constructed entirely from huge blocks of granite, fitted together
+almost seamlessly.  Upon closer inspection of the wall, you can see
+jagged pieces of glass protruding from the seams.  This would deter
+almost any thief from attempting to scale these walls.  To the north
+and east lies dense forested grounds.  The sound of running water can
+be heard to the south.
+~
+71 0 2 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 7177
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 7179
+S
+#7179
+At the Water-wheel~
+You are walking through the underbrush surrounding the walls of New
+Genesia. The town's wall is to the east, only a few feet away.  A
+small stream cuts across the path from the west and proceeds to flow
+south along the wall.  Attached to the wall at this spot is a water-wheel,
+being turned by the quickly flowing stream.  It appears to be pumping
+water into the city.
+~
+71 262144 2 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 7178
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 7180
+S
+#7180
+Outside the Towne Walls~
+You are walking through the underbrush surrounding the walls of New
+Genesia. The town's wall is to the east, only a few feet away.  It
+is constructed entirely from huge blocks of granite, fitted together
+almost seamlessly.  Upon closer inspection of the wall, you can see
+jagged pieces of glass protruding from the seams.  This would deter
+almost any thief from attempting to scale these walls.  To the west
+lies dense forested grounds.  A fast flowing stream follows the town's
+wall from north to south.
+~
+71 262144 2 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 7179
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 7181
+D5
+You notice a large pile of leaves and branches piled against the wall.
+~
+trapdoor~
+$n descends through a trapdoor into a dark room below.~
+$n climbs into the room from outside.~
+4 -1 925
+E
+leaf leave leaves branch branches pile~
+Upon closer inspection of the pile of leaves, you discover a trapdoor
+hidden beneath it.
+~
+E
+wall walls ground grounds floor path~
+You notice a large pile of leaves and branches piled against the wall.
+~
+S
+#7181
+Outside the Towne Walls~
+You are walking through the underbrush surrounding the walls of New
+Genesia. The town's wall is to the northeast, only a few feet away.  It
+is constructed entirely from huge blocks of granite, fitted together
+almost seamlessly.  Upon closer inspection of the wall, you can see
+jagged pieces of glass protruding from the seams.  This would deter
+almost any thief from attempting to scale these walls.  To the west
+and south lies dense forested grounds.  The narrow stream flows in from
+the north here, crosses the path, and continues into the forest to the
+south.
+~
+71 262144 2 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 7180
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 7182
+S
+#7182
+Outside the Towne Walls~
+You are walking through the underbrush surrounding the walls of New
+Genesia. The town's wall is to the north, only a few feet away. It
+is constructed entirely from huge blocks of granite, fitted together
+almost seamlessly. Upon closer inspection of the wall, you can see
+jagged pieces of glass protruding from the seams. This would deter
+almost any thief from attempting to scale these walls. To the south
+lies heavily forested grounds.
+~
+71 0 2 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 7169
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 7181
+S
+#7183
+A Road South of Town~
+The road here is not paved with stones but it has been packed down from
+the many years of constant use.  The town of New Genesia is to the north
+and farming lands are to the east.  A few cottages and farmers' homes
+dot the landscape.  This road extends north and south and is bordered
+on the west by a sparse forest.
+~
+71 0 2 0
+0 0 0 0
+0 0 0
+D0
+The stone walls of a town rise up to the north.  Just north of here you can
+see a gateway leading into the city.  From beyond the city walls, a massive
+stone pillar juts up into the sky.
+~
+ ~
+ ~
+ ~
+1 -1 7169
+D2
+The dirt road disappears in the distance.
+~
+ ~
+ ~
+ ~
+1 -1 7184
+S
+#7184
+A Road South of Town~
+The road here is not paved with stones but it has been packed down from
+the many years of constant use.  The town of New Genesia is to the north
+and farming lands are to the east.  A few cottages and farmers' homes
+dot the landscape.  This road extends north and south and is bordered
+on the west by a sparse forest.
+~
+71 0 2 0
+0 0 0 0
+0 0 0
+D0
+You can see a town to the north, not far away.  It is surrounded by a
+stone wall.
+~
+ ~
+ ~
+ ~
+1 -1 7183
+D1
+The road bends to the east before continuing south again.
+~
+ ~
+ ~
+ ~
+1 -1 7185
+S
+#7185
+A Road South of Town~
+The road here is not paved with stones but it has been packed down from
+the many years of constant use.  The town of New Genesia is to the north
+and farming lands are to the east.  A few cottages and farmers' homes
+dot the landscape.  This road extends north and south and is bordered
+on the west by a sparse forest.
+~
+71 0 2 0
+0 0 0 0
+0 0 0
+D2
+The road disappears in the distance.
+~
+ ~
+ ~
+ ~
+1 -1 7186
+D3
+The road bends to the west before continuing north again.
+~
+ ~
+ ~
+ ~
+1 -1 7184
+S
+#7186
+A Road South of Town~
+The road here is not paved with stones but it has been packed down from
+the many years of constant use.  The town of New Genesia is to the north
+and farming lands are to the east.  A few cottages and farmers' homes
+dot the landscape.  This road extends north and south and is bordered
+on the west by a sparse forest.
+~
+71 0 2 0
+0 0 0 0
+0 0 0
+D0
+This dirt road leads north into the distance, bordering the farming
+lands on the west side.  You can see a town on the horizon.
+~
+ ~
+ ~
+ ~
+1 -1 7185
+D2
+Further south along this road, you can see a small community of houses.
+~
+ ~
+ ~
+ ~
+1 -1 7187
+S
+#7187
+A Road South of Town~
+The road here is not paved with stones but it has been packed down from
+the many years of constant use.  The town of New Genesia is to the north
+and farming lands are to the east.  A few cottages and farmers' homes
+dot the landscape.  This road extends north and south and is bordered
+on the west by a sparse forest.
+~
+71 0 2 0
+0 0 0 0
+0 0 0
+D0
+A dirt road leads north into the distance, bordering the farming
+lands on the west side.  You can see a town on the horizon.
+~
+ ~
+ ~
+ ~
+1 -1 7186
+D2
+This road intersects another to the south.  The area seems to be a community
+of villas and estates.
+~
+ ~
+ ~
+ ~
+1 -1 7188
+S
+#7188
+Entrance of a Small Community~
+A road from the north intersects a smaller road here, going east and
+west. The smaller is paved with cobblestones and looks newly constructed.
+The east-west road is lined with tall oak trees on both sides.  Small
+houses and larger villas and estates have been built along the new road.
+A town can been seen in the distance to the north.
+~
+71 0 1 0
+0 0 0 0
+0 0 0
+D0
+The road leading north is not paved, but made of packed down dirt.  It
+appears to be well traveled with farms and cottages along its eastern
+border. To the northwest is a sparse wooded area.  A small town lies to
+the north on the horizon.
+~
+ ~
+ ~
+ ~
+1 -1 7187
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 7201
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 7189
+S
+#7189
+A Tree-Lined Road~
+You travel and east-west road made of cobblestone.  Tall oak trees
+line the street on both sides.  Villas and estates have been built
+along the road and a few smaller houses can be seen as well.
+~
+71 0 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 7188
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 7190
+S
+#7190
+A Tree-Lined Road~
+You travel an east-west road made of cobblestone.  Tall oak trees
+line the street on both sides.  Villas and estates have been built
+along the road and a few smaller houses can be seen as well.
+~
+71 0 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 7189
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 7191
+S
+#7191
+A Tree-Lined Road~
+You travel an east-west road made of cobblestone.  Tall oak trees
+line the street on both sides.  Villas and estates have been built
+along the road and a few smaller houses can be seen as well.
+~
+71 0 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 7190
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 7192
+S
+#7192
+A Tree-Lined Road~
+The cobblestone road you travel bends here, continuing to the west
+and south.  Tall oak trees line the street on both sides.  Villas and
+estates have been built along the road and a few smaller houses can be
+seen as well.
+~
+71 0 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 7191
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 7193
+S
+#7193
+A Tree-Lined Road~
+You travel a north-south road made of cobblestone.  Tall oak trees
+line the street on both sides.  Villas and estates have been built
+along the road and a few smaller houses can be seen as well.
+~
+71 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 7192
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 7194
+S
+#7194
+A Tree-Lined Road~
+You travel a north-south road made of cobblestone.  Tall oak trees
+line the street on both sides.  Villas and estates have been built
+along the road and a few smaller houses can be seen as well.
+~
+71 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 7193
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 7195
+S
+#7195
+A Tree-Lined Road~
+The cobblestone road you travel bends here, continuing to the east
+and north.  Tall oak trees line the street on both sides.  Villas and
+estates have been built along the road and a few smaller houses can be
+seen as well.
+~
+71 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 7194
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 7196
+S
+#7196
+A Tree-Lined Road~
+You travel an east-west road made of cobblestone.  Tall oak trees
+line the street on both sides.  Villas and estates have been built
+along the road and a few smaller houses can be seen as well.
+~
+71 0 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 7197
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 7195
+S
+#7197
+Ahirman Court~
+You stand in an open courtyard, covered with grass and dotted with trees
+and bushes.  A gravel pathway winds around the yard, heading east and
+eventually meeting back at this point from the north.  Several villas
+lie on the outskirts of the courtyard.
+~
+71 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 7200
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 7198
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 7196
+S
+#7198
+Ahirman Court~
+You stand in an open courtyard, covered with grass and dotted with trees
+and bushes.  A gravel pathway winds around the yard, heading north and
+eventually meeting back at this point from the west.  Several villas
+lie on the outskirts of the courtyard.
+~
+71 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 7199
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 7197
+S
+#7199
+Ahirman Court~
+You stand in an open courtyard, covered with grass and dotted with trees
+and bushes.  A gravel pathway winds around the yard, heading west and
+eventually meeting back at this point from the south.  Several villas
+lie on the outskirts of the courtyard.
+~
+71 0 1 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 7198
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 7200
+S
+#7200
+Ahirman Court~
+You stand in an open courtyard, covered with grass and dotted with trees
+and bushes.  A gravel pathway winds around the yard, heading south and
+eventually meeting back at this point from the east.  Several villas
+lie on the outskirts of the courtyard.
+~
+71 0 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 7199
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 7197
+S
+#7201
+A Tree-Lined Road~
+You travel and east-west road made of cobblestone.  Tall oak trees
+line the street on both sides.  Villas and estates have been built
+along the road and a few smaller houses can be seen as well.
+~
+71 0 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 7202
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 7188
+S
+#7202
+A Tree-Lined Road~
+The cobblestone road you travel bends here, continuing to the east
+and south.  Tall oak trees line the street on both sides.  Villas and
+estates have been built along the road and a few smaller houses can be
+seen as well.
+~
+71 0 1 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 7203
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 7201
+S
+#7203
+Abaddon Circle~
+You come to an intersection in the cobblestone road.  It continues
+north and south, but another road leads off to the east.  Both roads
+look similar, tree-lined with houses built on either side.
+~
+71 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 7202
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 7210
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 7204
+S
+#7204
+Abaddon Circle~
+You travel a north-south road made of cobblestone.  Tall oak trees
+line the street on both sides.  Villas and estates have been built
+along the road and a few smaller houses can be seen as well.
+~
+71 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 7203
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 7205
+S
+#7205
+Abaddon Circle~
+The cobblestone road you travel bends here, continuing to the east
+and north.  Tall oak trees line the street on both sides.  Villas and
+estates have been built along the road and a few smaller houses can be
+seen as well.
+~
+71 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 7204
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 7206
+S
+#7206
+Abaddon Circle~
+You travel and east-west road made of cobblestone.  Tall oak trees
+line the street on both sides.  Villas and estates have been built
+along the road and a few smaller houses can be seen as well.
+~
+71 0 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 7207
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 7205
+S
+#7207
+Abaddon Circle~
+The cobblestone road you travel bends here, continuing to the west
+and north.  Tall oak trees line the street on both sides.  Villas and
+estates have been built along the road and a few smaller houses can be
+seen as well.
+~
+71 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 7208
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 7206
+S
+#7208
+Abaddon Circle~
+You travel a north-south road made of cobblestone.  Tall oak trees
+line the street on both sides.  Villas and estates have been built
+along the road and a few smaller houses can be seen as well.
+~
+71 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 7209
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 7207
+S
+#7209
+Abaddon Circle~
+The cobblestone road you travel bends here, continuing to the west
+and south.  Tall oak trees line the street on both sides.  Villas and
+estates have been built along the road and a few smaller houses can be
+seen as well.
+~
+71 0 1 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 7208
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 7210
+S
+#7210
+Abaddon Circle~
+You travel an east-west road made of cobblestone.  Tall oak trees
+line the street on both sides.  Villas and estates have been built
+along the road and a few smaller houses can be seen as well.
+~
+71 0 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 7209
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 7203
+S
+#19999
+$~

@@ -1,0 +1,14 @@
+
+	 M	 E	 D	 I	 E	 V	 I	 A
+         =========================================================
+         =      HELP is available on the following Sub-Menus     =
+         =========================================================
+                 =                                      =              
+                 =  Movement        Object     Socials  = 
+                 =  Information     Combat     Spells   =  
+                 =  Communication   General    Special  =
+                 =  Newbie          Clans      Faqs     =
+                 =                                      =
+                 ========================================
+
+                            Example : help combat

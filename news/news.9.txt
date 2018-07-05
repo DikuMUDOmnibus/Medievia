@@ -1,0 +1,123 @@
+                   . .. ... The Medievia ... .. .
+ 
+            _|         _|  _|_|_|_  _|       _|  _|_|_|_|_|
+           _| _|      _|  _|       _|       _|  _|
+          _|   _|    _|  _|_|_|   _|       _|  _|_|_|_|_|   
+         _|     _|  _|  _|       _|  _    _|          _|    
+        _|       _|_|  _|       _| _| _| _|          _|       
+       _|         _|  _|_|_|_| _|_|    _|   _|_|_|_|_|              
+                                             Updated January 17, 1996
+------------------------------------------------------------------------------
+
+The following is an interesting email I responded to which may help all in 
+one way or another.
+
+> Suggested a standard travel system, if u want to go from med to 
+>trellor then you should be able to rent passage aboard (a flying boat, a 
+>Giant Slug, etc) an established transportation method.  This wouldn't be 
+>for trading, just for ordinary citizens wanting to travel...charge them.
+>Shal disliked this idea, but has a similar one about ships going to and 
+>from port cities.
+
+In the area you know as the main continent there is NO easy travel.  This 
+is due to the large amounts of bad critters ( and soon to be dragons).  The 
+whole trading idea is to get brave warriors like you to get things from a 
+to b.  There will be good dragons you can fly on but you WILL need to know 
+the way.
+
+> Clans are going to lose comraderie with the breaking up thing, you 
+>want to make clans more together but this breaks them apart.  The reason 
+>I'm close with my clan is because they are friends, not because of the 
+>same clan name.  When we stop talking clans will mean nothing.
+
+If this happens it happens.  I think clans will become even closer.  The 
+whole clan issue has not been totally resolved.  I agree, where I am taking 
+clans at this moment is directionless.  We have discussed many war 
+scenarios, pk clan scenarios and the like.  In the future clans will have a 
+bigger role.  In medievia IV we had to BREAK DOWN many things to have the 
+ability to build bigger things (BIG WILDERNESS).  After it is played a 
+while I am SURE we will all have many awsome ideas to bring clans into the 
+overall plan.  Med IV may be great but MED 4.1 and 4.2 will be much better.
+
+> Consider keeping pk, its an essential part of the game for some. My 
+>suggestion is this, have pk flags...people with 30+pks are pkers and can 
+>be wayleighed in the forest...or anywhere that's not a town.  An added 
+>method would be have it voluntary UNLESS a multi, lvl 23+ with 
+>30+pks...then you are fair game.
+>This makes clans more important, makes going through the forest in groups 
+>important, and protects the newbie.  If someone is pked in the forest 
+>then their pack animal should be able to be stolen.  You take their 
+>animal and their goods.
+
+I have thought about MANY pk ideas.  We came THIS close to making this 
+whole east vs west pk war.  Pk is in my head more then ever.  We will see 
+what comes of it.
+
+> I see what you've done, and its very impressive.  IV is the most 
+>impressive mud I've seen but I'm going to be brutally honest, if you want 
+>playtesters to kiss your ass and say "I love it" then you sign up EDITED OUT 
+>or EDITED OUT and you listen to their advice, me I'm gonna tell you what I 
+>think. If you don't like it remove me from IV and I'll have no hard 
+>feelings. Back to the point,
+
+I want the good the bad and the ugly.  BUT I want it where it belongs, NOT 
+on med iii.  Mediv is not to be judged in anyway until it is out and open.  
+This common playtest rule is in place for any software in development.
+
+>	IV is the best coded mud right now, its world is huge and I like 
+>that to a point, but you either went to far in my opinion or not far 
+>enough.  I spent 5 hours going from med to tarvalon and back, fine thats 
+>realism.  But if I met a player along the way I coulda said hi, thats 
+>all. Thats not realism...if this is supposed to be role playing of a sort 
+>I wanna be that bad bastard Highwayman...I wanna kill the guy and take 
+>his stuff.  I'm evil, thats what I do.
+
+I am like you here.  When we have 200-1000 people online my ideas of what a 
+mud should be and what mediv is will start to make sense.  Role playing is 
+what a mud is.  You will have to make friends along the way.  The fact that 
+you dont see as many people or have the ability to talk to as many people 
+is in the design from day one.  When all is balanced it will be better.  
+
+>	I like playtesting IV, I'm gonna do my job and find bugs.  Right 
+>now I enjoy it, its fun because its new.  But the novelty's going to wear 
+>off, its going to be Ultima...sure real people will play but I won't be 
+>able to communicate with them.  I'm not a trader, I don't want to hire a 
+>cart and walk it for 2rl days to trellor talking to no one except for the 
+>few times I go into medlink.  If I want to do a tor run I don't want to 
+>have to tell people meet there on wednesday and hope for a reset.
+
+You have to understand that under playtest conditions there are at most 5
+people online.  This is a far cry from 200.  People will be everywhere. 
+Also the more traveled a road is means the LESS critters there are being a
+pain.  As they have been killed.  This is very realistic.  The code is VERY
+DEEP.  Since under play test conditions we restart a LOT there are a lotta
+critters, even on common roads.  Things will be different under normal
+conditions.  Once the game is up a few hours I doubt you will see many
+critters on the roads....cept maybe DRAGONS....  at this point you may have
+to ditch your goods for a while and head into the forest or desert or
+whatever....into many bad things... 
+
+>These are quirks I dislike, maybe others will love them...in fact I'm 
+>sure they will. But I'm betting that its a pretty even split.  IV has the 
+>potential to be the best ever, but it also could be 'complexity 9/10  
+>playability 6/10'  
+
+It will take getting used to.  Most people play just one med.  MANY 
+medievites have only ever played med.  They are just lucky we were their 
+first as we are one of the best.  People that play medievia iv+ from pure 
+newbie on will love it.  It is designed ONLY for these people.  I promise 
+if ANY of these people see any other mud they will come screaming back.  
+Please try and look at medievia iv with all its strangness(to you)..look at 
+it from the view of your very first mud.  It has MUCH to offer.
+
+>This last half sounded like I was ripping IV horribly, and maybe I 
+>was...but the point is I love med, and I'll love IV with some tweaks but 
+>right now I think my like of it is a novelty.
+
+Muds are a novelty.  Truth is most people find a mud.  LOVE IT.  Get 
+totally addicted...play for 3-18 months, play often and hard,  and STOP.  
+Muds are like that and mediv will be like that.  Mediv is for real role 
+players and people REALLY wanting to dissapear into a book type fantasy for 
+a while.  Mediv offers that kind of size and complexity.  It also we hope 
+will be a huge mud with 100's of people online.   BUT, in the end, you are 
+right, it IS just a mud.  

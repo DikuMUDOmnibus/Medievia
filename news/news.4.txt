@@ -1,0 +1,32 @@
+                   . .. ... The Medievia ... .. .
+ 
+            _|         _|  _|_|_|_  _|       _|  _|_|_|_|_|
+           _| _|      _|  _|       _|       _|  _|
+          _|   _|    _|  _|_|_|   _|       _|  _|_|_|_|_|   
+         _|     _|  _|  _|       _|  _    _|          _|    
+        _|       _|_|  _|       _| _| _| _|          _|       
+       _|         _|  _|_|_|_| _|_|    _|   _|_|_|_|_|              
+                                             Updated January 13, 1996
+------------------------------------------------------------------------------
+
+REMEMBER:  You can at any time read old news... Just type news #
+
+I wanted to talk about TRADING a bit.  You will notice that you will get a
+LOT for trading goods initially.  The reason is that it will take REAL
+PLAYER trading to balance the economy.  For instance.  Septain was getting a
+mil for trading a barrel of ale from med to tar valan right down the road. 
+The reason is that the code initially seeded all local economies equally. 
+As time goes by MANY people will make that easy trade run and tar valan will
+have a lot of ale.  As they get more and their ale storehouse fills up they
+will pay less and less.  SO as you can see trading will become a TRUE
+economy but it WILL take a lot of time.  I encourage everyone to trade trade
+trade.  Soon the mudslinger will have a trading section that gives a
+realtime stock sorta listing of supply and demand.  It will show who needs
+what the most, thus paying more.  When you SELL a tradable some random place
+in the world USES a random tradable.  Understand?  So if for some reason
+getting goods a to goods b is Hard it will over time make it so economy b
+will pay a lot for goods from economy a cause they are simply running out. 
+The economy code in medievia is very deep and complex but its outcome is a
+very REAL and very EASY to understand trading system.  I am sure the trading
+equations will need to be tweaked...but we just wont know until a lot of
+trading has taken place.

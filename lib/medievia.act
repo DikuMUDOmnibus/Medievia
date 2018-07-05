@@ -1,0 +1,89 @@
+action_num-56
+type-0
+in_room-3099
+chance-100
+arg1-0
+arg2-0
+arg3-0
+method-2
+fired_next-57
+notfired_next-0
+autostart-1
+Welcome to Medievia, the mud of the future.
+~
+ ~
+ ~
+action_num-57
+type-3
+in_room-3099
+chance-100
+arg1-56
+arg2-10
+arg3-60
+method-2
+fired_next-0
+notfired_next-0
+autostart-0
+ ~
+ ~
+ ~
+action_num-58
+type-0
+in_room-3
+chance-100
+arg1-0
+arg2-0
+arg3-0
+method-2
+fired_next-59
+notfired_next-0
+autostart-1
+Please sacrifice unwanted equipment and equipment that has been here a while
+so the room does not fill with 100's of items.
+~
+ ~
+ ~
+action_num-59
+type-3
+in_room-3
+chance-100
+arg1-58
+arg2-30
+arg3-60
+method-2
+fired_next-0
+notfired_next-0
+autostart-0
+ ~
+ ~
+ ~
+action_num-60
+type-0
+in_room-2716
+chance-100
+arg1-0
+arg2-0
+arg3-0
+method-2
+fired_next-61
+notfired_next-61
+autostart-1
+The room is filled with the sound of delicate chimes as the clock strikes.
+~
+~
+~
+action_num-61
+type-3
+in_room-2716
+chance-100
+arg1-60
+arg2-120
+arg3-0
+method-2
+fired_next-0
+notfired_next-0
+autostart-0
+~
+~
+~
+action_num-20000

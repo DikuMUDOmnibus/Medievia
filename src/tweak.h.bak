@@ -1,0 +1,59 @@
+#define WEIGHT_DAM      75
+#define WEIGHT_HP       13
+#define WEIGHT_MV       3
+#define WEIGHT_MANA     10
+#define WEIGHT_HIT      45
+#define W_SIZE_DICE     10
+#define W_NUM_DICE      15
+#define WEIGHT_AC       -7
+#define WEIGHT_ACAP     40
+#define WEIGHT_WIS      50
+#define WEIGHT_CON      50
+#define WEIGHT_STR      75
+#define WEIGHT_INT      50
+#define WEIGHT_DEX      75
+#define WEIGHT_AGE      30
+#define WEIGHT_SSPELL   -50
+#define WEIGHT_SPARA    -30
+#define WEIGHT_SBREATH  -20
+#define WEIGHT_SPETRI   -20
+#define WEIGHT_SROD     -30
+#define WEIGHT_WEIGHT   3
+#define WEIGHT_EXP      0
+#define WEIGHT_GOLD     0
+#define WEIGHT_SEX      0
+#define WEIGHT_CLASS    0
+#define WEIGHT_LEVEL    0
+#define WEIGHT_HEIGHT   3
+
+/* Global Tweaking Modifier constant */
+
+#define GLOBAL_TWEAK    1
+
+const int weights[][2] = {
+        { APPLY_NONE,           0 },
+        { APPLY_STR,            WEIGHT_STR },
+        { APPLY_DEX,            WEIGHT_DEX },
+        { APPLY_INT,            WEIGHT_INT },
+        { APPLY_WIS,            WEIGHT_WIS },
+        { APPLY_CON,            WEIGHT_CON },
+        { APPLY_SEX,            WEIGHT_SEX },
+        { APPLY_CLASS,          WEIGHT_CLASS },
+        { APPLY_LEVEL,          WEIGHT_LEVEL},
+        { APPLY_AGE,            WEIGHT_AGE },
+        { APPLY_CHAR_WEIGHT,    WEIGHT_WEIGHT },
+        { APPLY_CHAR_HEIGHT,    WEIGHT_HEIGHT } ,
+        { APPLY_MANA,           WEIGHT_MANA },
+        { APPLY_HIT,            WEIGHT_HP },
+        { APPLY_MOVE,           WEIGHT_MV },
+        { APPLY_GOLD,           WEIGHT_GOLD },
+        { APPLY_EXP,            WEIGHT_EXP },
+        { APPLY_ARMOR,          WEIGHT_AC },
+        { APPLY_HITROLL,        WEIGHT_HIT },
+        { APPLY_DAMROLL,        WEIGHT_DAM },
+        { APPLY_SAVING_PARA,    WEIGHT_SPARA },
+        { APPLY_SAVING_ROD,     WEIGHT_SROD },
+        { APPLY_SAVING_PETRI,   WEIGHT_SPETRI },
+        { APPLY_SAVING_BREATH,  WEIGHT_SBREATH },
+        { APPLY_SAVING_SPELL,   WEIGHT_SSPELL }
+};

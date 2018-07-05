@@ -1,0 +1,118 @@
+            Medievia IV Code Task and Project Management File
+            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+*Code new bartering module
+*Code new dragon deal
+Code the new mediv HIDE skill to use hiding PLACES. Also code the different
+	things in do_look to show this.	
+Code holo details to be done, like random special procedures.... loaded
+    items...etc
+Code entire new weather system
+*Gene Code all new communications changes and limitations (99 percent done)
+*Mike Code new Catacomb entry/exit system    
+*Gene Code eq weigher to set the value of equipment to be sold.
+----------------------------------------------------------------------------
+ALL Projects and or tasks above are sorta coded in Mike's head so please see
+him before doing them.  It will save you time and effort, also things will
+be done to Mike's liking.
+
+THIS FILE MUST FOLLOW THESE RULES...
+When you START one of these tasks, put your name in Front.
+When it is done Cut it and paste it below these words.
+----------------------------------------------------------------------------
+
+*Mike coded medievia.raw code to load image map and make world
+*Mike coded medievia.hololinks and medievia.holorooms
+*Mike Holoworld code moving engine, including room re-use modes
+*Gene Object Tweaking and Notification of good stuff
+*Mike Coded new Mob file
+*Firm Coded hint channel
+*Firm Coded new locker code to save all stats
+*Gene coded tracking and related stuff
+*Mike coded new mediv color prompts
+*Gene coded some new mediv room types like fire etc
+*Gene coded new exit types like secret
+*Gene Code angle=holowhere(x1,y1,x2,y2,&dist)
+*Gene coded the survey package.
+*Gene coded zones with XY cords.
+*Gene coded int iHoloChDistance(ch, vict) (Helper function).
+*Gene coded summon to work only in a level*5 radius.
+*Gene coded dream command for 250mile radius.
+*Gene Code the recall command to take you to the LAST TOWN you were in. Along
+        with this we must code in the zone file a way to say, hey this zone
+        is a TOWN.
+*Gene redid the file structs & added the last town to save with them.
+*Gene coded ADOPT A ZONE!
+*Gene Code a description command so players can change theirs
+*Gene code name change/approve system.
+*Gene coded the MAP function helping function.
+*Mike coded the new drinkroom type
+*Mike design freight system and trade system
+*Mike code freight structures and data methods
+*Mike code the loading of  medievia.freight file (tag/pair syntax)
+*Mike code the loading of medievia.tradables file (tag/pair syntax)
+*Mike code boot system to boot trading modules
+*Mike code for trade shop to sell freight
+*Mike code for trade shops to buy freight
+*Mike code for freight shops to value freight
+*Mike code for freight shops to describe freight
+*Mike code for trade shop to sell tradeables
+*Mike code new freight linked list in rooms and null out hooks
+*Mike list freight in room helper
+*Mike freight to room helper
+*Mike freight from room helper
+*Mike freight to char helper
+*Mike create freight structure code helper
+*Mike freight from char helper
+*Mike extract freight helper
+*Mike tradable to freight helper
+*Mike tradable from freight helper
+*Mike Code freight online restrictions and freight file changes for it
+*Mike code freight moving regulations and restrictions
+*Mike load medievia.tradeshops
+*Mike code freight autofollow
+*Gene redid the tell system into timed carrier pigeons.
+*Mike code the supply and demand rotating economy
+*Mike coded saving and loading of shops and evaluation code
+*Mike code for trade shops to value tradables
+*Mike code for trade shops to buy tradables back
+*Mike code for automagic SimulatingTradeUsage in local economies
+*Mike code look in freight helper to list tradables loaded
+*Mike coded the examining of freight
+*Mike coded helpers and the ability to Look at freight
+*Mike code so socials and stuff work with freight
+*Mike load freight helper
+*Mike save freight helper
+*Mike save freight hooks
+*Mike load freight hooks
+*Mike code saving of freight when holocode goes in reuse mode in that room
+	it will save x,y in freight struct....and put back in if that holoroom
+	is remade...it now puts these freights in the void when this happens
+*gene did wizard eye (week lag on putting that in)
+*Mike changed rename ro also do freight
+*Mike Code the new value/pair object file and conversion routine
+*Mike Code mobile conversion routine to kill all gold in all mobs then
+	dave goes in and resets some.
+*Gene Code eq det.
+*Gene Code shout to go longer distances
+*Gene code Corruption helper
+*Gene Code new death changes so you just sit up where ya died as a corpse
+and have and pray in a chucrch blah.. new CHURCH room flag etc..
+*Gene code all code needed for THE SOCIAL ZONE. 
+*Mike Code Mounting system
+*Gene added det info to identify
+*Mike code breath/stamina
+*Gene code det prize at the wizard.
+*Gene code new tweak restrictions and modifications.
+*Mike Code CAMP system and all survey/autotext, room affect and quit stuff
+*Gene coded the new player track system commands and helpers etc.
+*gene redid spell parser for 4 words
+*Mike Code new mobile placement Holo system
+*Gene added distance stuff to surveying.
+*Mike removed socializing
+*Mike coded a whole new news module
+*Gene code FREIGHT where.
+*Mike code Fly engine, fly hooks and fly commands
+*Gene Fix where in wilderness
+*Mike make it so you can use someones discarded freight & tradables
+*Mike Code mudslinger trading section
+

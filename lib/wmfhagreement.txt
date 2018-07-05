@@ -1,0 +1,19 @@
+	    INTENSE Software,  WORK-MADE-FOR-HIRE  AGREEMENT
+You hereby agree, in consideration of the access specified in paragraph 3 of
+this agreement, that
+	1.  All work performed with Medievia for INTENSE Software (Company) 
+is done exclusively for the benefit of the Company, and the product of
+such work shall be "works made for hire."  The Company shall own all
+rights to such works and may make any use or nonuse of such works without
+further payment or obligation to you.
+	2.  You understand that all ideas and information concerning your
+work are trade secrets of the Company and are not to be discussed with or
+revealed to any third party without the permission of the Company.
+	3.  Temporary access to Medievia during your work is the sole
+payment for all services provided by you.  You are not entitled to the
+payment of royalties, other compensation, present or future access to
+Medievia for works developed in the course of your access to Medievia.
+	4.  This agreement does not create any right to employment with
+the Company and is in addition to other agreements that may have been made
+by you and the Company.  Except as specified herein, this agreement does
+not limit any rights of you or the Company created by other contracts or laws.

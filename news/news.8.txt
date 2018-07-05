@@ -1,0 +1,44 @@
+                   . .. ... The Medievia ... .. .
+ 
+            _|         _|  _|_|_|_  _|       _|  _|_|_|_|_|
+           _| _|      _|  _|       _|       _|  _|
+          _|   _|    _|  _|_|_|   _|       _|  _|_|_|_|_|   
+         _|     _|  _|  _|       _|  _    _|          _|    
+        _|       _|_|  _|       _| _| _| _|          _|       
+       _|         _|  _|_|_|_| _|_|    _|   _|_|_|_|_|              
+                                             Updated January 17, 1996
+------------------------------------------------------------------------------
+
+Please, when using the bug,idea,typo commands...PLEASE tell us what you are 
+talking about.  If what you want to say is more then about 80 characters 
+just email us...or me  mkrause@netaxs.com  
+
+Playtesting on medievia iv is a big deal.  We need your input very badly 
+but we need it in a usable form.  The bug file was almost unusable.  If 
+there is a bug state what it is and how to duplicate it.  If there is a 
+typo dont say,  SHIT is spelled wrong...where the hell is the SHIT spelled 
+wrong at?  Is it in code, on a room...a mob?  If you have an idea, spend a 
+moment and think about a clear and concise way of entering it in using the 
+idea command or via email...
+
+The BUG, TYPO and IDEA commands are key for playtesters.  Email and using 
+the discussion channel with gods is even more important.  
+
+When you have a bunch of things on your mind about medievia iv, the good 
+the bad and the ugly, PLEASE email mkrause@netaxs.com or see me and or 
+Shalafi online.  We cant put time aside for every little thing as we are of 
+course very busy developing but when you have formed some opinions and have 
+a bunch of ideas and you think a good 5-20 minute session with one of us 
+would be to out benefit...let us know.  
+
+Thanks to all the people putting in REAL play test time.  To those who do 
+not want to help us please ask to be removed so we may get some more 
+enthusiastic people on.  I would like to only have playtesters who will 
+TEST 2-4 hours a day MINIMUM.  Testing means even testing stupid stuff that 
+would of course work but may not.  Stuff that may crash the game.  
+PLEASE PLEASE try and crash the game.  I do not know if the code is near rock 
+solid or if it is just not being tested very well.
+
+Thanks,
+Vryce
+

@@ -1,0 +1,2274 @@
+#748
+The Gates of Tear~
+You stand at the gates of the great City of Tear.
+A sign has been posted here.
+~
+12 0 2 0
+0 0 0 0
+0 0 0
+D0
+~
+~
+~
+~
+0 0 63379
+D1
+ ~
+gate~
+ ~
+ ~
+1 -1 2600
+D2
+~
+~
+~
+~
+0 0 63378
+D3
+~
+~
+~
+~
+0 0 63380
+E
+sign~
+The Sign Reads:
+   Welcome to the City of Tear. One of the larger cities along the banks of
+the great river Carthein. A note to adventurers, the city of Tear has been
+designed with medium to high level players in mind, but everyone should feel
+free to explore it. Tear is an ancient city, that holds many mysterious
+wonders. Enjoy your stay, and don't forget to bring back souveniers.
+~
+S
+#2600
+River Road - At the gates~
+You stand at the gates on the western end of the City of Tear.
+~
+12 0 2 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2601
+D3
+ ~
+gate~
+ ~
+ ~
+1 -1 748
+S
+#2601
+River Road~
+River road runs east and west through Tear, to the east you can see the gate
+that leads out of the city, and to the great river.
+~
+12 0 2 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2602
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2600
+S
+#2602
+River Road - Outside the small Hut~
+You stand on River Road, outside of a small hut, made of straw, and bits of
+wood. There is a crude door on the building, but it doesn't look like it was
+ever intended to keep anyone out, the door is made of bound straw and thin
+wooden strips.
+~
+12 0 2 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2603
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2644
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2601
+S
+#2603
+River Road - Outside the City Proper~
+You are on River Road.  It runs eastward toward the City of Tear, and
+west toward the gates.  North of here there is a little door leading into
+a house.
+~
+12 0 2 0
+0 0 0 0
+0 0 0
+D0
+ ~
+door~
+ ~
+ ~
+1 -1 2638
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2604
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2602
+S
+#2604
+A Crossroads - Coven Street and River Road~
+You stand at a crossroads, where Coven Street runs north and south, and River
+Road runs east and west.
+~
+12 0 2 0
+0 0 0 0
+0 0 0
+D0
+ ~
+door~
+ ~
+ ~
+1 -1 2639
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2605
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2645
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2603
+S
+#2605
+River Road~
+You travel River Road, to your north is a Weaponsmith's Shoppe.
+~
+12 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+door~
+ ~
+ ~
+1 -1 2640
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2606
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2604
+S
+#2606
+River Road~
+You travel down River Road, to your north is the Armourer of Tear.
+~
+12 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+door~
+ ~
+ ~
+1 -1 2641
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2607
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2605
+S
+#2607
+River Road~
+You stand on River Road, just to your north is the Magic Shoppe of Tear.
+~
+12 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+door~
+ ~
+ ~
+1 -1 2642
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2608
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2606
+S
+#2608
+A Crossroads - River Road & Archer's Way~
+You stand at a crossroads, River Road runs east and west here, and to the
+north and south runs The Archer's Way.
+~
+12 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+door~
+ ~
+ ~
+1 -1 2643
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2609
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2646
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2607
+S
+#2609
+River Road, at the Fount of Wisdom.~
+You are on River Road.  To the east, you can see a stone statue and hear
+water gurgling.  It feels nice and peaceful here.
+~
+12 0 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2610
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2608
+S
+#2610
+The Fount of Wisdom~
+At this location, is a fantasticly beautiful fountain, carved of the finest
+marble, a huge dragon, with it's wings spread magestically, stands in the
+middle of the fountain, over fifteen spans high, from base to tip of snout,
+the dragon spews forth an unmistakably magical water from it's mouth. The
+water is a lovely shade of turquoise, with a hint of gold sparkle to it. At
+the base of the fountain is an etched redstone plaque.
+Items: Plaque.
+~
+12 0 1 0
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2609
+E
+plaque~
+The Plaque Reads:
+   Know Ye this, Thou must answer my question true, or fail to receive the
+gift of Wisdom. Mine question may change in form, and ye may answer as many as
+ye wishith. But the true gift be known to thee the knowledge of where thy
+quest should lie. The gifts I give to thee are free, only one however is
+what thou seeketh, where true adventure may be found.
+~
+E
+fountain~
+The fountain looks as it is described. Quite lovely.
+~
+E
+dragon~
+Tis naught but a white dragon of marble.
+~
+E
+water~
+Yes, it's water, you can drink it.
+~
+E
+within~
+The truest answers always lie within oneself. Look deep within, to discover
+what thou truly seeketh.
+~
+E
+secret~
+The secret writings say:
+  Yea, in some places, thou may find secret writings, but where? That is up to
+you to discover.
+~
+S
+#2611
+Inside the Brick Building~
+You stand within a small brick home, the usual things you would expect to find
+in a small home are located here. A fireplace, some furnishings, etc...
+~
+12 8 1 7
+0 0 0 0
+0 0 0
+D2
+ ~
+door~
+ ~
+ ~
+1 -1 2614
+S
+#2612
+The Taren Inn~
+You've entered the Taren inn, where tired adventurers can come to stop and
+rest after a long day's experiences.  Along the eastern wall are a bunch
+of lockers where you can put your things, and some stairs lead up into the
+private chambers where you can rent a room.
+A sign is hanging above the lockers.
+~
+12 12 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2627
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 2633
+E
+sign~
+The sign reads:
+RENTLOCKER  - Rent a locker, at a cost of 150,000 gold pieces.
+OPEN        - Open your locker.  Remember to close it, or your stuff might
+              be stolen!
+CLOSE       - Close your locker.
+~
+S
+#2613
+A turn in the road.~
+You stand at a turn in the road, where Fisherman's Way heads east, and Coven
+Street runs south.
+~
+12 0 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2614
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2619
+S
+#2614
+Fisherman's Lane~
+You travel along Fisherman's Lane.
+~
+12 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+door~
+ ~
+ ~
+1 -1 2611
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2615
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2613
+S
+#2615
+Fisherman's Lane~
+You travel along Fisherman's Lane.
+~
+12 0 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2616
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2614
+S
+#2616
+Fisherman's Lane~
+You travel along Fisherman's Lane.
+~
+12 0 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2617
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2615
+S
+#2617
+A turn in the road.~
+You stand at a turn in the road, where Archer's Way meets Fisherman's Lane.
+~
+12 0 1 0
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2620
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2616
+S
+#2618
+Inside the Brownstone Building~
+The building is empty.
+~
+12 8 1 7
+0 0 0 0
+0 0 0
+D2
+ ~
+door~
+ ~
+ ~
+1 -1 2623
+S
+#2619
+Coven St.~
+You travel along Coven Street.
+~
+12 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2613
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2626
+S
+#2620
+Archer's Way~
+You are on Archer's Way.  To the east is a pretty little brick house.  You
+can see a couple of whitecloaks having a friendly little brawl on the top
+floor. There is a little sign made of wood on the side of the road.
+~
+12 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+door~
+ ~
+ ~
+1 -1 2617
+D1
+ ~
+door~
+ ~
+ ~
+1 -1 2621
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2630
+E
+sign~
+The Sign Reads:
+                                For Sale
+                             Harsh Reality
+~
+S
+#2621
+Inside a Redstone building~
+The building is empty, nothing is in here, no chairs, no signs of there being
+anyone living here. Obviously the place is up for sale.
+~
+12 8 0 7
+0 0 0 0
+0 0 0
+D3
+ ~
+door~
+ ~
+ ~
+1 -1 2620
+S
+#2622
+Stone Street. - A Dead End!~
+You've come to a dead end.
+~
+12 0 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2623
+S
+#2623
+Stone Street~
+You travel along Stone Street. To the south is a small brownstone building.
+Items: Sign.
+~
+12 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+door~
+ ~
+ ~
+1 -1 2618
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2624
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2622
+E
+sign~
+The sign reads:
+                            Property for Sale
+                          by Harsh Real Estate
+~
+S
+#2624
+Stone Street~
+You travel along Stone Street. To the south is a small brownstone building.
+Items: Sign.
+~
+12 0 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2625
+D2
+ ~
+door~
+ ~
+ ~
+1 -1 2631
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2623
+E
+sign~
+The sign reads:
+                            Property for Sale
+                           by Harsh Real Estate
+~
+S
+#2625
+Stone Street~
+You travel along Stone Street.
+~
+12 0 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2626
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2624
+S
+#2626
+The Crossroads at Coven and Stone Streets~
+You stand at a crossroads, at Coven Street (north/south) and Stone Street
+(East/West).
+~
+12 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2619
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2627
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2632
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2625
+S
+#2627
+Stone Street~
+You travel down Stone Street, and stand just north of The Taren Inn.
+~
+12 0 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2628
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2612
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2626
+S
+#2628
+Stone Street~
+You travel down Stone Street.  The Taren Food Court is south of you, and
+to the north is the Tear Savings and Loan.
+~
+12 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2699
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2629
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2634
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2627
+S
+#2629
+Stone Street~
+You are on Stone Street.  The buildings are close together here, and
+your feet make a loud ringing sound on the grey cobblestones.  The Tear
+General Store is south of here.
+~
+12 0 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2630
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2635
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2628
+S
+#2630
+Archer's Way and Stone Street~
+Archer's Way intersects Stone Street Here.  Off to the west on Stone Street
+you can see the Tear shops.  Little birds fly around overhead.
+~
+12 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+door~
+ ~
+ ~
+1 -1 2620
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2636
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2629
+S
+#2631
+Inside the Brownstone Building~
+The building is empty.
+~
+12 8 1 7
+0 0 0 0
+0 0 0
+D0
+ ~
+door~
+ ~
+ ~
+1 -1 2624
+S
+#2632
+Coven St.~
+You travel along Coven Street.
+~
+12 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2626
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2639
+S
+#2633
+The Taren Inn's Rooms~
+This is where you can rent a room for the night after a long day's
+journey.  A couch is against the wall, and a receptionist sits behind a
+desk set against the western wall.
+~
+12 12 0 7
+0 0 0 0
+0 0 0
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 2612
+S
+#2634
+Taren Food Court~
+You stand inside the Taren Food Court.
+~
+12 1160 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2628
+S
+#2635
+General Store~
+You stand inside the General Store.
+~
+12 1160 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2629
+S
+#2636
+Archer's Way~
+You travel Archer's Way.  To the east is a little building made of red brick.
+It doesn't look in very good condition, the bricks are badly layed and
+charred. You can see a garden south, and you can go north or south
+on Archer's Way.
+~
+12 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+door~
+ ~
+ ~
+1 -1 2630
+D1
+ ~
+door~
+ ~
+ ~
+1 -1 2637
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2643
+S
+#2637
+Inside the Redstone building~
+You stand inside a small redstone building. The home of a minor lord of Tear.
+The room you stand in is a medium sized greeting hall, where the lord of this
+home visits with his guests. There are some padded chairs around the room, a
+few small tables, and oil lamps. Paintings are on the walls, and a small
+fireplace, which is not lit, is on the north wall. There is a door to the
+east, but it is barred. Obviously this lord wants his privacy.
+~
+12 8 0 7
+0 0 0 0
+0 0 0
+D3
+ ~
+door~
+ ~
+ ~
+1 -1 2636
+S
+#2638
+Inside of the brick building~
+You stand inside of a small, one room, brick building. The room is by no means
+a small one, but not quite what you would call large either. There is a medium
+sized desk at the northern end of the room, and several chairs around the room.
+A window overlooks the eastern horizon, and tapestries are hung on the
+northern and western walls, depicting common scenes of life in the country.
+~
+12 8 0 7
+0 0 0 0
+0 0 0
+D2
+ ~
+door~
+ ~
+ ~
+1 -1 2603
+S
+#2639
+Coven St.~
+You travel along Coven Street.
+~
+12 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2632
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2604
+S
+#2640
+The Weapon Shoppe~
+You are in the shop of the Weaponsmith of Tear.
+~
+12 1164 0 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2605
+S
+#2641
+The Armor Shoppe~
+You stand inside the Shoppe of the Armourer of Tear.
+~
+12 1164 0 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2606
+S
+#2642
+The Magic Shoppe of Tear~
+You stand inside the Taren Magic Shoppe.
+~
+12 1164 0 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2607
+S
+#2643
+Archer's Way~
+You're on Archer's Way.  A group of buildings is to the east.  Next to the
+buildings, you can see a pretty little apple tree in the middle of a garden.
+Archer's Way continues north and south.
+~
+12 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+door~
+ ~
+ ~
+1 -1 2636
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2608
+S
+#2644
+Inside the Hut~
+You stand inside the small Hut, inside the room there is a lantern, and a
+wicker chair, a small straw mattress lies on the floor, with a feather pillow
+propped up at the head of it. Some old clothes are strewn about the hut, but
+you wouldn't want any of them, they appear to be not much more than rags. A
+small book, possibly a diary rests on the seat of the chair here, it has some
+markings on the cover which you cannot make out.
+~
+12 8 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2602
+S
+#2645
+Coven St.~
+You travel along Coven Street.
+~
+12 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2604
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2649
+S
+#2646
+Archer's Way~
+You travel on Archer's Way.
+~
+12 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+door~
+ ~
+ ~
+1 -1 2608
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2660
+S
+#2647
+Wilma's Place~
+You are in a little house off Valiant Lane.  it looks like it belong to the
+mayor's daughter, Wilma.  There are little pink frills on all the
+furniture. Wilma must not have very good taste.
+~
+12 8 0 7
+0 0 0 0
+0 0 0
+D2
+ ~
+door~
+ ~
+ ~
+1 -1 2652
+S
+#2648
+Inside the House~
+The inside of the house is decorated in shades of blue and gray, tastefully
+done with a woman's touch. A vase rests on a table here, with some lovely
+flowers in it, and there is the usual assortment of furnishings.
+~
+12 8 0 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2654
+S
+#2649
+Coven St.~
+You travel along Coven Street.
+~
+12 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2645
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2655
+S
+#2650
+Inside the House~
+You are in a house in the City of Tear.  There are some long scratches on
+one wall where Lews went on a rampage once.  There is a sofa on one wall,
+with a couple of pillows.
+~
+12 8 0 7
+0 0 0 0
+0 0 0
+D2
+ ~
+door~
+ ~
+ ~
+1 -1 2656
+S
+#2651
+Valiant Lane -DEAD END-~
+You've reached the Dead End of Valiant Lane.
+~
+12 0 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2652
+S
+#2652
+Valiant Lane~
+You travel along Valiant Lane, a house lies to the north.
+~
+12 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+door~
+ ~
+ ~
+1 -1 2647
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2653
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2651
+S
+#2653
+Valiant Lane~
+You travel along Valiant Lane, a house lies to the south.
+~
+12 0 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2654
+D2
+ ~
+door~
+ ~
+ ~
+1 -1 2661
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2652
+S
+#2654
+Valiant Lane~
+You travel along Valiant Lane, a house lies to the north.
+~
+12 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2648
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2655
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2653
+S
+#2655
+A Crossroads, Coven St. & Valiant Lane.~
+You are at a crossroads of Coven Street and Valiant Lane.  Off to the south
+on Coven Street, a few trees line the path.  Some houses are to the east and
+west of here.
+~
+12 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2649
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2656
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2662
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2654
+S
+#2656
+Valiant Lane~
+You travel along Valiant Lane, a house lies to the north.
+~
+12 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+door~
+ ~
+ ~
+1 -1 2650
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2657
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2655
+S
+#2657
+Valiant Lane~
+You travel along Valiant Lane, a house lies to the south.
+~
+12 0 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2658
+D2
+ ~
+door~
+ ~
+ ~
+1 -1 2663
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2656
+S
+#2658
+Valiant Lane, at a Hole in the Ground~
+You are on Valiant Lane.  Below you, there is a deep pit.  A old, rusty ladder
+leads down into the dark stone passage.  There is a little wooden sign, painted
+in red letters, on the side of the pit.
+~
+12 0 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2659
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2657
+D5
+ ~
+truth~
+ ~
+ ~
+1 -1 2684
+E
+sign~
+The Sign Reads:
+                 "...travel not to go anywhere, but to go...
+                  The great affair is to move."
+                 "To strive, to seek, to find, and not to yield."
+                 "They must upward still, and onward who
+                  would keep abreast of Truth."
+                 "It is the secret sympathy,
+                  The silver link, the silken tie,
+                  Which heart to heart and mind to mind,
+                  In body and in soul can bind."
+                 "To wake the soul by tender strokes of art.
+                  To raise the genius, and to mend the heart."
+~
+S
+#2659
+Archer's Way & Valiant Lane.~
+You stand at a T-Shaped crossing, where Archer's Way and Valiant Lane meet.
+~
+12 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+door~
+ ~
+ ~
+1 -1 2660
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2664
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2658
+S
+#2660
+Archer's Way~
+You travel on Archer's Way.
+~
+12 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+door~
+ ~
+ ~
+1 -1 2646
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2659
+S
+#2661
+The Mayor's House~
+You are in the house of the mayor of Tear.  A picture of him and his wife,
+Norma, hangs on the far wall.  Some blue curtains hang on the windows,
+carefully arranged.  A desk is on the back wall, with some files and papers
+sitting on it.  There are a couch and chairs in the middle of the room.
+~
+12 8 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+door~
+ ~
+ ~
+1 -1 2653
+S
+#2662
+Coven St.~
+You travel along Coven Street.
+~
+12 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2655
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2665
+S
+#2663
+Inside the house~
+You stand within a common looking home.
+~
+12 8 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+door~
+ ~
+ ~
+1 -1 2657
+S
+#2664
+Archer's Way~
+You travel on Archer's Way.
+~
+12 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+door~
+ ~
+ ~
+1 -1 2659
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2669
+S
+#2665
+A bend in the road...~
+You are at a bend in Coven Street.  To the east, you can hear the tolling of
+bells along Clocktower Avenue.  Large trees line the road here, making a
+nice place to sleep on a lazy day.
+~
+12 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2662
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2666
+S
+#2666
+Clocktower Ave.~
+You travel along Clocktower Avenue. The Clocktower, for which this road was
+named, lies directly south of you here. There is a door which enters into it.
+~
+12 0 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2667
+D2
+ ~
+door~
+ ~
+ ~
+1 -1 2670
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2665
+S
+#2667
+Clocktower Ave.~
+You travel along Clocktower Avenue.
+~
+12 0 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2668
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2666
+S
+#2668
+Clocktower Ave.~
+You travel along Clocktower Avenue, A house made of wood and stone, with a
+slate roof stands to the south here.
+~
+12 0 1 0
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2669
+D2
+ ~
+door~
+ ~
+ ~
+1 -1 2671
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2667
+S
+#2669
+A turn in the road...~
+You stand at a turning point, where Clocktower Ave heads west, and Archer's
+Way heads north.
+~
+12 0 1 0
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2664
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2668
+S
+#2670
+The base of the Clocktower.~
+You stand in the base of the tall clocktower, a ladder, which would be pulled
+down to reach this level, is high above you... But the long hooked rod which
+you would need to pull it down, is not in the room.
+~
+12 8 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+door~
+ ~
+ ~
+1 -1 2666
+S
+#2671
+Inside the house~
+An odd place, to be sure. This must be the home of the man who takes care of
+the clock tower, because it is obvious whoever lives here is obsessed with
+time. Dozens of clocks of various shapes and sizes lie about here, Cukoo
+clocks adorn the walls, and three rather impressive grandfather clocks stand
+in the middle of each of the three walls to the south, east and west. Every
+table in the house has a clock on it, if not more than one.
+~
+12 8 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+door~
+ ~
+ ~
+1 -1 2668
+S
+#2672
+A turn in the Hallway~
+You travel a hallway in the Stone of Tear, the hallway turns west here.
+~
+12 8 1 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2673
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2675
+S
+#2673
+A Hallway~
+You travel a hallway in the Stone of Tear.
+~
+12 8 1 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2674
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2672
+S
+#2674
+A turn in the Hallway~
+You travel a hallway in the Stone of Tear, the hallway turns south here.
+~
+12 8 1 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2676
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2673
+S
+#2675
+A Hallway~
+You travel a hallway in the Stone of Tear.
+~
+12 8 1 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2672
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2677
+S
+#2676
+A Dead End~
+You've reached a dead end. There is a sign here.
+Items: Sign.
+~
+12 8 1 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2674
+E
+sign~
+The Sign Reads:
+                 "These things shall be - a loftier race
+                  Than ere the world hath known shall rise
+                  With flame of freedom in their souls,
+                  And light of knowledge in their eyes."
+~
+S
+#2677
+A Hallway in the Stone of Tear~
+You stand in a hallway in the Stone of Tear, the hallway runs north and south
+from here, and a foyer lies to the east.
+~
+12 8 1 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2675
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2678
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2679
+S
+#2678
+The Entrance to the Stone of Tear~
+You stand at the entrance of the Stone of Tear. A once powerful keep, home to
+the rulers of the land, it now lays in ruins, forgotten, and accessible only
+through the secret passageway. There is a sign here.
+Items: Sign.
+~
+12 8 1 7
+0 0 0 0
+0 0 0
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2677
+D5
+ ~
+knowledge~
+ ~
+ ~
+1 -1 2698
+E
+sign~
+The Sign Reads:
+  A long time past, some 60 years to this date, a legion of men, accompanied
+by evil sorcerers, and dragons, came to Tear, and overthrew the great Stone.
+Whosoever should find the Stone again, should he be worthy, and powerful
+enough, may find great knowledge and power within, along with what may be left
+of the great treasures of Tear. He who seeks to exit, must know the secret
+word to open the magically sealed door. The clues lie within.
+~
+S
+#2679
+A Hallway~
+You travel a hallway in the Stone of Tear.
+~
+12 8 1 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2677
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2681
+S
+#2680
+A Dead End~
+You've reached a dead end. There is a sign here.
+Items: Sign.
+~
+12 8 1 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2683
+E
+sign~
+The Sign Reads:
+         LOOK upon the poet, to find the key to FREEDOM in the LIGHT.
+~
+S
+#2681
+A turn in the Hallway~
+You travel a hallway in the Stone of Tear, the hallway turns west here.
+~
+12 8 1 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2679
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2682
+S
+#2682
+A Hallway~
+You travel a hallway in the Stone of Tear.
+~
+12 8 1 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2683
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2681
+S
+#2683
+A turn in the Hallway~
+You travel a hallway in the Stone of Tear, the hallway turns north here.
+~
+12 8 1 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2680
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2682
+S
+#2684
+An Underground Passage~
+You travel an underground passage. There is an exit here leading up.
+~
+12 9 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2685
+D4
+ ~
+door~
+ ~
+ ~
+1 -1 2658
+S
+#2685
+An Underground Passage~
+You travel in an underground passage.
+~
+12 9 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2686
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2684
+S
+#2686
+An Underground Passage~
+You travel in an underground passage.
+~
+12 9 0 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2687
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2685
+S
+#2687
+An Underground Passage~
+You travel in an underground passage.
+~
+12 9 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2686
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2688
+S
+#2688
+An Underground Passage~
+You travel in an underground passage.
+~
+12 9 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2687
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2689
+S
+#2689
+An Underground Passage~
+You travel in an underground passage.
+~
+12 9 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2690
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2688
+S
+#2690
+An Underground Passage~
+You travel in an underground passage.
+~
+12 9 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2691
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2689
+S
+#2691
+An Underground Passage~
+You travel in an underground passage.
+~
+12 9 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2692
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2690
+S
+#2692
+An Underground Passage~
+You travel in an underground passage.
+~
+12 9 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2693
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2691
+S
+#2693
+An Underground Passage~
+You travel in an underground passage.
+~
+12 9 0 7
+0 0 0 0
+0 0 0
+D1
+ ~
+ ~
+ ~
+ ~
+1 -1 2694
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2692
+S
+#2694
+An Underground Passage~
+You travel in an underground passage.
+~
+12 9 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2695
+D3
+ ~
+ ~
+ ~
+ ~
+1 -1 2693
+S
+#2695
+An Underground Passage~
+You travel in an underground passage.
+~
+12 9 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2696
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2694
+S
+#2696
+An Underground Passage~
+You travel in an underground passage.
+~
+12 9 0 7
+0 0 0 0
+0 0 0
+D0
+ ~
+ ~
+ ~
+ ~
+1 -1 2697
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2695
+S
+#2697
+An Underground Passage~
+You travel in an underground passage. There are stairs leading up here.
+~
+12 9 0 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2696
+D4
+ ~
+ ~
+ ~
+ ~
+1 -1 2698
+S
+#2698
+Antechamber~
+You travel in an underground passage. There are stairs leading up here.
+~
+12 13 0 7
+0 0 0 0
+0 0 0
+D4
+ ~
+door~
+ ~
+ ~
+1 -1 2678
+D5
+ ~
+ ~
+ ~
+ ~
+1 -1 2697
+S
+#2699
+Tear Savings and Loan~
+You're in Tear's bank.  There are several windows, all but one with a
+"NEXT WINDOW PLEASE" sign.  A lone teller behind the window yawns as
+you walk in.  There is a sign under her window.
+~
+12 8 0 7
+0 0 0 0
+0 0 0
+D2
+ ~
+ ~
+ ~
+ ~
+1 -1 2628
+E
+sign~
+The sign reads:
+[BALANCE] will show you how much gold you have stored in the bank.
+[WITHDRAW 500] will withdraw 500 coins from the bank.
+[DEPOSIT 500] will deposit 500 coins in the bank (for a slight fee, of course)
+~
+S
+#19999
+$~

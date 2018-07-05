@@ -1,0 +1,23 @@
+                   . .. ... The Medievia ... .. .
+ 
+            _|         _|  _|_|_|_  _|       _|  _|_|_|_|_|
+           _| _|      _|  _|       _|       _|  _|
+          _|   _|    _|  _|_|_|   _|       _|  _|_|_|_|_|   
+         _|     _|  _|  _|       _|  _    _|          _|    
+        _|       _|_|  _|       _| _| _| _|          _|       
+       _|         _|  _|_|_|_| _|_|    _|   _|_|_|_|_|              
+                                             Updated January 14, 1996
+------------------------------------------------------------------------------
+
+Today I finished a new economy simulation package.  What it has done is
+this...  It removed all the local economies.  It then simulated trading for
+years worth of man hours.  This should balance the games trading supply
+and demand as all the local economies will now be seeded with stock amounts
+that will reflect a mud and a trading economy that has been in place and
+heavily used for a long long time.  So now when you sell something to
+someplace close to where it was produced the payoff should make more sense. 
+Before all local economies were seeded with a random stock number and we
+were going to let REAL playing balance the game.  Fact is the mud is
+operating WAY better then hoped for and we should be able to open to the
+public much sooner then anticipated.  This new change will allow us to do
+so.

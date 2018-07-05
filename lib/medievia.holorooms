@@ -1,0 +1,666 @@
+#0
+NAME Boundries of the World~
+DSC As you move towards the area you start to fade from existence....
+Perhaps you won't test any of your theories today....
+~
+BLOCKING
+#4
+NAME On the Ocean~
+DSC You are on a beautiful blue ocean.  Small waves roll past you towards
+shore.  Looking down you can see the smooth white sandy floor, a few
+shells lay scattered about, reflecting the suns light.
+~
+DSC You are in a crystal clear ocean, just off shore.  There are many shells 
+on the bottom and rocks are sticking up through the sand all over.  Crabs 
+and other small sea creatures have made this area their home and you can 
+see many roaming about in search of food.
+~
+NOSWIM NOWAGON NOMULE NOHORSE
+MCOL 34 MCHAR .
+#5 
+NAME Ocean water~
+DSC You can't walk on water and the Rae magic spell fly will have no effect
+over the ocean which is flowing with Fae magic.
+~
+BLOCKING
+MCOL 134 MCHAR .
+#12
+NAME A Wrought Iron Fence~
+DSC A tall fence, made of black, wrought iron stands before you.  The bars
+bend and twist in many odd patterns, tipping outwards above your head.
+Rusty spikes adorn the top of the fence and sharp bards have been
+embedded into the bars.  You cannot climb this fence.
+~
+BLOCKING
+MCOL 137 MCHAR I
+#14
+NAME A Massive Volcano~
+DSC The steep side of a huge volcano rises up before you.  You are unable
+to climb it here.
+~
+BLOCKING
+MCOL 131 MCHAR o
+#15
+NAME An Abandoned Graveyard~
+DSC You are in a graveyard, surrounding you are the crumbling remains of 
+monuments erected to honor the dead. Here and there, old bones protrude 
+from the black earth. Weeds have grown up around the tombstones, and 
+several large, empty holes suggest that some of the graves have been 
+plundered. 
+~
+FIELD
+MCOL 131 MCHAR +
+#18
+NAME A Lava Pool~
+DSC All around you is churring, bubbling lava.  The surface is a cracked mixture
+of bright red and charred black.  The heat rising off the pool is unbearable;
+causing your skin to sweat and blister.
+~
+NOSWIM HURT 6d6+10 FIRE NOHORSE NOMULE NOWAGON
+MCOL 131 MCHAR *
+#21
+NAME A Huge, Thundering Waterfall~
+DSC The roar of falling water is deafening as you stand before the 
+massive falls.  Sheets of water cascade off of the rocks, and rain down 
+upon you.  As you listen the roar of the falls seems to transcend into 
+some strange language,  carrying an urgent message whose meaning lies 
+just beyond you comprehension.  
+~
+BLOCKING
+MCOL 134 MCHAR W
+#22
+NAME A Small, Cascading Waterfall~
+DSC A narrow stream of water falls down the side of a plateau here.  Mist
+rises off rocks as the clear water splashes against them.  The surrounding
+light is reflecting in a mirriad of colors.  The rocks here are too slippery
+and steep to climb.
+~
+BLOCKING
+MCOL 134 MCHAR w
+#24
+NAME Some Old Ruins~
+DSC  For some reason you have elected to ignore your common sense and 
+enter the ruins. You stand in the midst of what once was a city, 
+shattered buildings, and cracked stone streets. The wind moans as it 
+blows through the deserted shops and houses, and your footsteps echo 
+eerily about you.
+~
+FIELD
+MCOL 133 MCHAR n
+#25
+NAME The Side of a Plateau~
+DSC The steeply slopping face of a plateau rises up before you.  The 
+surface is impossible to climb.
+~
+BLOCKING
+MCOL 133 MCHAR \
+#27
+NAME A Bloody and Destroyed Battle Site~
+DSC You are standing in what, unitil recently, was a village. The air is 
+filled with the hideous stench of burnt and rotted flesh. All around you 
+lies the bloody aftermath of some recent slaughter, corpses line the 
+street, their dead eyes bulging in terror. Some of the burnt buildings 
+are still smoldering, filling the air with black soot.
+~ 
+FIELD
+MCOL 31 MCHAR %
+#30
+NAME Some Thorny Underbrush~
+DSC  You are in the midst of a mass of briars, thorns of every shape and 
+size tear at you as you struggle onward. The long, thin branches twine 
+about you as you walk, further impeding your progress. Drawn toward you 
+by the blood seeping from your multiple cuts, hungry insects fill your 
+eyes, nose, ears and mouth. Some of the thorns seem to cause an intense 
+burning under your skin, and your attempts at rubbing it away only 
+increases the pain.
+~
+FOREST NOWAGON NOMULE
+MCOL 132 MCHAR .
+#32
+NAME A Rusty, Iron Gate~
+DSC Before you stands an old gate, it hangs at an awkward angle from it's
+rusted hinges, it's once proud finials now dull and corroded.  You can 
+still make out some of the intricacies of the iron work at the center of 
+the gate, where clearly a rose is surrounded by a network of vines.
+~
+FIELD
+MCOL 30 MCHAR G
+#48
+NAME A River of Lava~
+DSC You travel now on a stream of molten lava, the intense heat is 
+stifling, every breath you take causing your lungs to scream in agony.
+Mixed in with the melted rock, are the sundry remains of everything 
+caught in the rivers fiery path, including the burnt corpses of various 
+animals.  The banks of the river are blackened and dead, having quickly 
+succumbed to the killing temperatures.
+~
+NOSWIM HURT 5d5+10 FIRE NOHORSE NOMULE NOWAGON
+MCOL 31 MCHAR ~
+#50
+NAME Upcropping of Rocks~
+DSC A large upcropping of rocks protrudes from the ground here.  The peaks
+are jagged and very steep, making your progress impossible.
+~
+BLOCKING
+MCOL 30 MCHAR ^
+#59
+NAME A Dark, Murky River~
+DSC The water on which you now travel, is clouded and dark.  Occasional 
+ripples on the surface belie the rivers barren look.  Areas of thick,
+slimy algae cover the surface in many places.  The choking scent of
+stagnant water drifts towards you from the marshy banks.
+~
+NOSWIM NOWAGON NOHORSE NOMULE
+MCOL 134 MCHAR ~
+#64
+NAME Steep, Mountainous Peaks~
+DSC A series of tall peeks rise up into the sky, as if to pierce it.  The
+tops are capped by ice and snow.  The cliff walls and jagged mountain
+sides are too treatcherous to climb.
+~
+BLOCKING
+MCOL 30 MCHAR ^
+#71
+NAME A Stone Wall~
+DSC The wall is made of large stone blocks.  Covered with dead vines and 
+marks of the harsh weather.  The face is still sheer with well-fitted
+seams.  There is apparently no way over or through the wall.
+~
+BLOCKING
+MCOL 137 MCHAR I
+#72
+NAME A Dense Area of Trees~
+DSC The trees in this area have grown very close together.  Their trunks
+and branches intertwine in a maze of growth.  It is impossible to bypass
+them.
+~
+BLOCKING
+MCOL 132 MCHAR .
+#76
+NAME A Deep, Clear Lake~
+DSC  You are on a lake.  As you look down you notice the sparkling 
+clarity of the water.  The fact that you cannot see to the bottom of the 
+lake, suggests that is is very deep. 
+~
+NOSWIM DRINKROOM NOHORSE NOMULE NOWAGON
+MCOL 34 MCHAR *
+#79
+NAME An Ominous Forest~
+DSC Surrounding you are dark, ancient trees, their branches move in 
+sinister arcs, though no wind is blowing. The woods around you are 
+deathly still, and quiet, even the sound of your own footfalls seem to be 
+swallowed by this place. 
+~
+DARK FOREST NOWAGON NOMULE
+MCOL 132 MCHAR +
+#80
+NAME Rocky, Barren Flatlands~
+DSC Before you stretches mile upon mile of rough, grassy plains.  The
+rocky soil provides little nourishment for the short grasses that grow
+here, and in the absence of any noticable hiding places, grazing
+animals come together in large herds for protection.
+~
+HILLS NOWAGON
+MCOL 133 MCHAR ^
+#82
+NAME A Wide River~
+DSC You are on a mighty river, its banks are so far apart that any effort 
+to ford this river would be absurd. The rivers current is strong, fed by 
+many tributaries on its journey from the mountains to the great sea 
+beyond. Even the fish seem to be resigned to swimming along the rivers 
+course, rather than fighting its powerful current.
+~
+NOSWIM DRINKROOM NOWAGON NOMULE NOHORSE
+MCOL 34 MCHAR ~
+#84
+NAME A Trail of Hard-Packed Dirt~
+DSC You are on a seldom used path of rock and dirt.  Small weeds sprout
+up along the edges of the trail as well as an occassional tree.  This
+road is wide enough for several horses and even a wagon to pass by.
+~
+FIELD
+MCOL 133 MCHAR :
+#85
+NAME In a Dense, Pine Forest~
+DSC You are in the forest. Huge conifers surround you in cathedral-like 
+spires.  The forest floor is thick with generations of fallen pine 
+needles, which sink beneath your feet as you walk. The relative calm of 
+the place is interrupted at irregular intervals by the staccato hammering 
+of various woodpeckers. Large ferns grow between the tall pines, giving 
+off a sweet aroma.   
+~
+FOREST NOWAGON
+MCOL 132 MCHAR x
+#86
+NAME A Giant Stone Archway~
+DSC The road goes under a gigantic archway carved from pale blue stone here.
+The arch is easily twenty feet tall and wide enough for two wagons to
+travel through at a time.  The surface has been polished smooth and
+engraved with mystical runes which glow softly.  A white and blue
+gravel road extends on one side of the archway, and a dirt trail on
+the opposite side.
+~
+CITY
+MCOL 135 MCHAR U
+#87
+NAME A Cloudy, Green Lake~
+DSC  The murky water that surrounds you gives off a sickly green glow. 
+Strangled and stagnanted by its own fecundity, this lake has 
+long since ceased to harbor any normal forms of aquatic life. 
+~
+NOSWIM NOWAGON NOMULE NOHORSE
+MCOL 134 MCHAR *
+#90
+NAME Forested Hills~
+DSC You are in the hills.  The steady rise and fall of the land is your only
+indication of this, for the thick forest affords few views of your
+surroundings.  Primarily hardwoods, the trees are spaced far apart, and it
+is easy to pick your way through them. As you toil upwards, a false nearness
+of the hilltop continuously deceives you, and you find yourself longing for
+just one clear view surroundings.
+~
+HILLS NOWAGON
+MCOL 132 MCHAR ^
+#91
+NAME The Outter Wall of a Shack~
+DSC The wall is made of wood, old and decaying.  The planks are warped and
+small cracks have appeared, but you can see nothing but darkness inside.
+There are no windows or other points of entry from this side.
+~
+BLOCKING
+MCOL 33 MCHAR I
+#93
+NAME A Sturdy, Wooden Bridge~
+DSC You have come upon a solid looking bridge which fords the water.  It 
+looks to be made of solid hard wood, and has smooth tracks down it's
+center, clearly designed to support a wagon.  On either side, four foot 
+high rails enclose the structure, providing added security.
+~
+FIELD
+MCOL 133 MCHAR =
+#96
+NAME A Well-Traveled Road~
+DSC The road before you stretches out into the distance.  The dirt is
+packed down from decades of travel.  It is wide enough for two wagons
+to fit across.  Several large rocks sit off to the side of the path,
+surrounded by wild flowers.
+~
+FIELD
+MCOL 37 MCHAR :
+#98
+NAME On the Moors~
+DSC You stand in the midst of a bog, dominated by grasses and sedges, a 
+thick mist hanging at your feet. The ground gives way beneath you as you 
+walk, your feet frequently sinking deep beneath the surface.  The smell 
+of peat is heavy in the air, intermingling with the soft aroma of heather 
+and decay.  Although there is no wind blowing, a soft moaning rises and 
+falls, as if the very ground were protesting your passage. 
+~
+SWAMP NOMULE NOWAGON
+MCOL 133 MCHAR v
+#107
+NAME A towering city wall made with beautiful marble blocks~
+DSC You attempt to climb the wall and fall almost instantly.  There is just no
+way you would get over this wall.  You admire the people who built it....to
+put so much effort to keep the dark magic out yet make it with such detail
+and beauty.  The marble swirls with pinks and blues...  Perhaps the work
+and care put into it in itself is enough magic to hinder the dark Rae magic.
+~
+BLOCKING HURT 2d5+1
+MCOL 35 MCHAR I
+#111
+NAME A Silty, Grass Plain~
+DSC Here the earth has become course and particulate, supporting only the 
+hardiest of grasses,  their tender shoots pushed defiantly above the 
+surface in awkward clumps.  The air is crisp and clean, and small birds 
+scamper before you as you flush them from their roosts.  
+~
+FIELD NOWAGON
+MCOL 133 MCHAR .
+#117
+NAME A River Delta~
+DSC Quite suddenly the wide river bed opens out and gives way to the vast
+ocean.  The water is very calm, slowly flowing outward, mixing with the
+salty sea.  Marsh grass and tall reeds grow from the banks of the river.
+~
+NOSWIM NOWAGON NOMULE NOHORSE
+MCOL 34 MCHAR ~
+#120
+NAME A Dense, Forested Wilderness~
+DSC You are in the forest. Surrounding you are the trunks of deciduous trees, 
+high above you their broad leaves filter the sunlight to a trickle by day, 
+and allow only brief glimpses of the moon at night.  A cacophony of bird 
+song, and chittering insects fills the air, forming a strangely haunting 
+melody. The smell of vegetation in various stages of decomposition is a 
+pungent reminder of you own mortality. Dry twigs and leaves snap beneath your 
+feet as you walk, and legends of forest demons, and spirits fill your 
+thoughts.
+~
+DSC You are in the forest. These are dense woods, populated with spindly 
+white barked poplars, and various bushes and shrubs. It seems every bit 
+of space is filled, in some sort of mad rush to choke out the 
+competition. Large patches of thorny berry bushes often force a detour, 
+and your feet are frequently entangled amidst the creeping roots and 
+vines of the forest floor.
+~
+FOREST NOWAGON
+MCOL 32 MCHAR +
+#125
+NAME A Clear River~
+DSC You are on a river whose water is clean and cool, as it flows along 
+it's course.  You wonder from where the water comes, and to where it 
+journeys now. Beneath the surface you  see the occasional flash of small 
+fish, doing whatever it is fish do.
+~
+NOSWIM DRINKROOM NOWAGON NOMULE NOHORSE
+MCOL 34 MCHAR ~
+#126
+NAME The Open, Grassy Plains~
+DSC You are in the plains.  Thick, tough grass growing well above your head in
+places, surrounds you. Movement is only possible by hacking a path through
+the stuff, and your arms quickly tire slowing your progress. Occasionally the
+way opens upon a small pond or lake, where many beasts gather to drink and 
+hunt.  The smell of the plains is strong, and sweet, and the pollen of a 
+million plants hangs in the air, stifling in its intensity.   
+~
+FIELD NOWAGON
+MCOL 32 MCHAR "
+#128
+NAME Grassy Foothills~
+DSC You are in the hills.  Rolling vistas of hills and valleys stretch out
+before you. These grassy hills seem ancient, eternally wandering
+from the plains to the mountains. Large powerful rivers thunder through
+their valleys, giving rise to the alluvial flats below. Covered mainly by
+knee high grasses, travel here is easy.
+~
+HILLS NOWAGON
+MCOL 32 MCHAR ^
+#129
+NAME On the Rocky Slopes of the Mountains~
+DSC You are in the mountains. Surrounding you is a vast range of snow capped 
+peaks.  The path you walk is narrow, boredered on one side by huge 
+granite walls, and on the other by a precipitous drop down the crags 
+below.  The thin air does little to compensate the exertion of marching 
+through this place, and you frequently find yourself gasping for breath.  
+You watch enviously as large horned goats jump easily from rock to rock, 
+and then disappear out of site. 
+~
+DSC You are in the mountains.  Travel here is made extremely treacherous by 
+the talus under your feet.  Small rocks disturbed by your passage, skitter 
+downward gathering others in their wake.  The slippery gravel surface 
+causes you to trip often, and you wonder when you will join the rocks at the 
+bottom of the slope. When the wind blows it whistles about you, sucking 
+the heat from your body. You wonder what kinds of creatures inhabit this 
+hostile terrain, and when you will finally be gone from it.
+~
+DSC You are in the mountains.  Small, strangled cedars replace the trees of 
+the valley below you. Patches of wild blueberries, and short shrubs are
+interspersed with large areas of bare rock, encrusted with lichens. 
+The air is filled with the amorous chirpings of various songbirds, and the 
+sweet smell of the ancient cedars.
+~
+MOUNTAINS NOWAGON
+MCOL 137 MCHAR ^
+#132
+NAME Barren, Hilly Region~
+DSC You are in the hills.  Here above the desert floor, the air is cooler and
+free of much of the dust of the valley.  Patches of tough looking grasses
+cling to the dry soil, and various forms of cacti abound. The valleys are
+shaded, and small streams of fresh water, though infrequent, begin to
+appear. Beside these streams gather an abundance of strange, broad
+leafed plants, with rodents of all shapes and sizes skittering among them.
+~
+HILLS NOWAGON
+MCOL 133 MCHAR ^
+#134
+NAME A Tall, Wooden Wall~
+DSC A large, fifteen foot wall blocks your way.  It is made of thick
+tree trunks, carved to sharp points at the top.
+~
+BLOCKING
+MCOL 133 MCHAR I
+#143
+NAME The Silver Shrine~
+DSC A small building made entirely of gleaming silver stands before you.
+There appears to be no entrance from this side.
+~
+BLOCKING
+MCOL 37 MCHAR +
+#146
+NAME A Murky Field of Tall Grass~
+DSC  The tall grasses surrounding you seem to be perpetually enveloped in 
+a whimsical fog that seeps through your clothes, and blankets the 
+field. The combination of the grasses broad leaves, and the hanging 
+mist, make visibility extremely poor, and disorientation likely. Anyone 
+the least bit claustorphobic will be extremely uncomfortable here.
+~
+FIELD NOWAGON NOMULE
+MCOL 132 MCHAR "
+#151
+NAME Beautiful Gardens~ 
+DSC Tall trees and beautiful plants surround you.  The area is packed with
+vegetation yet it must be kept in check by the local folk with magic as it
+all appears too well thought out to be designed by nature.  The hedges give
+way to the roses and the roses give way to the grass.  Exotic ferns and
+bright plants line all the higher bushes.  Birds and chipmonks are a plenty.
+~
+FOREST LAWFULL MOVE 5 HURT 2d5+1 NOWAGON NOMULE
+MCOL 33 MCHAR *
+#156
+NAME Within a Marshy Wood~
+DSC You stand within the dense, eerie forest.  The ground has become a
+knee-deep marsh of foul-smelling mud and debris.  Tall, blackened
+trees surround you on all sides and the swamp seems to spread out
+in all directions.
+~
+DSC The ground here is saturated, and your feet sink as you walk.  Large 
+stands of reedy plants fill the clearings amidst the short, vine covered 
+trees.  Perched atop these reeds, black birds noisily proclaim their 
+territories, challenging all intruders, and amidst their calls you 
+here a low rumble, perhaps soemething else, something big, also proclaiming 
+it's territory.
+~  
+SWAMP NOWAGON NOMULE
+MCOL 132 MCHAR *
+#168
+NAME A Fog-Shrouded Swamp~
+DSC  You are in the swamp. Every step you take is treachorous, as the mud 
+sucks your feet far beneath the surface. Large mangroves send their 
+shallow roots splaying around you.  At the base of these trees small 
+patches of stable ground have formed, providing a place to rest and 
+contemplate your next move.  A low mist enshrouds the fen, and seems to 
+crawl about you moving in strange swirling patterns. 
+~ 
+SWAMP NOWAGON NOMULE
+MCOL 132 MCHAR %
+#170
+NAME A Massive Stone Wall~
+DSC You come to a large wall made of stone blocks.  The obstruction is topped
+to sharp iron spikes which curve outward towards you.  You find it impossible
+to scale this wall.
+~
+BLOCKING
+MCOL 137 MCHAR I
+#171
+NAME A Marshy Flatland~
+DSC  Here the thick mud of the swamp yields to a muck of a more silty 
+variety.  The combination of sand and water make movement treacherous in 
+places, and you realize if your not careful you'll be swimming rather 
+than walking.  Still patches of vegetated earth become more common, and 
+there is a hint of salt in the air. 
+~  
+SWAMP NOWAGON NOMULE
+MCOL 133 MCHAR %
+#176
+NAME A Vast Desert~
+DSC You are in the desert.  Before you lies an arid and barren landscape, 
+giving rise to a terrifying visage of total desolation. A hot wind 
+blows incessantly, filling your lungs with burning dust. Small, dry stream 
+beds wind their serpentine way through red walled canyons, which seem to 
+quiver in pain with the hot, rising air. The only signs of life are an 
+occasional vulture soaring on the thermals, and a sprinkling of dry 
+shrubs, which look more dead than alive.
+~
+DSC You are in the desert.  All around you huge sand dunes have been formed
+by centuries of blowing winds.  The dry sand sinks beneath your weight
+making movement strenuous.  Here and there are small piles of bones,
+bleached white by the sun. By day that sun pounds at you, and the dry air
+sucks the moisture from your body. By night the temperatures plummet to
+near freezing, and the little moisture in the air condenses to form small
+beads of water on your bedding. When you look behind you, you see your
+footprints have been erased by the blowing sand.
+~
+DSC You are in the desert. Threatening looking flora surrounds you, bristling
+with wicked looking spines.  Small rodent like creatures scurry among
+these plants, seemingly immune to their defenses, as they scavenge on
+the desert floor. Every now and then a lonesome howl echoes around you,
+giving no clue of the direction from which it comes. As you move along
+your clothing and skin is torn, and the sun burns into your wounds,
+making your journey a living hell.
+~
+DESERT NOWAGON
+MCOL 33 MCHAR .
+#177
+NAME On a Winding Forest Trail~
+DSC You are on a forest trail.  You are making your way along a path winding 
+through chesnuts, and oaks. Occasionally the path opens up into a small 
+glade, filled with soft grass and wildflowers.  The path makes so many odd 
+twists and turns, that you become confused as to the direction of your 
+travel.  The trail itself is criss crossed with the roots of the many 
+trees, several trips urge you to keep your eyes on the path.
+~
+DSC You are on a forest trail. All around you is a tangle of vegetation, 
+briars of every size and shape, form  thorny walls beside the path.
+Tall, thin trees, with papery, white bark sprout among the brambles, and 
+the rustling of large creatures is heard frequently within the brush.  
+Every so often a thorny branch reaches accross the trail to rip at your 
+skin and clothing, and large clouds of biting insects hover about you.
+~
+FIELD
+MCOL 133 MCHAR :
+#179
+NAME Along the Shoreline~
+DSC You are on the beach. As you stroll along, your course through the sand is
+interrupted by large rock jetties, stretching far out into the pounding
+surf. Giant flumes of water shoot skyward, as the waves crash upon the
+rocks, filling the air with a salty taste.  As you scamper across these
+jetties, you realize they are thick with wet, slippery algae, making movement
+treacherous.  Small pools of water have formed, housing a multicolored 
+wilderness of ocean creatures.
+~
+DSC You are on the beach.  You are flanked on one side by the ocean stretching 
+of into a blue-green infinity, and on the other by steep banks of sand, which 
+lead up to the grass covered dunes. In front, and behind you stretches the
+beach front, populated with awesome flocks of shore birds, diving for fish
+in the shallows, or pecking for crustaceans just beyond the tide. 
+~
+SWIM NOWAGON
+MCOL 136 MCHAR .
+#191
+NAME A Sparkling, Clear Pond~
+DSC  This ponds surface reflects the surroundings with startling 
+precision, and no ripple disturbs it's crystaline repose.  The air here 
+is cool and silent, the tranquility of the place seducing you into a state 
+of quite contemplation. 
+~
+NOSWIM DRINKROOM
+NOHORSE NOWAGON NOMULE
+MCOL 36 MCHAR *
+#194
+NAME A Sparse, Forested Region~
+DSC The trees here grow far apart, separated by broad glades of woodland 
+grasses and shrubs, the walking is easy, and pleasant.  Occasionally you 
+here the high pitched rise and fall of a predatory bird, as it announces 
+itself to it's supper.  
+~
+FOREST NOWAGON
+MCOL 32 MCHAR .
+#197
+NAME A Twisting Stream~
+DSC You are on a small stream, whose course weaves in and out of view 
+around you.  Small whorls form as it passes rocks which protrude from it's 
+surface.  The water looks clean and potable, and occasionally a trout 
+breaks the surface in pursuit of some invisible quarry, which you gather 
+must be one of the many flying insects, dipping and diving around the 
+shallows.    
+~
+SWIM DRINKROOM NOWAGON
+MCOL 36 MCHAR ~
+#204
+NAME A Humid, Misty Jungle~
+DSC You are in a tangled mass of tropical vegetation, which seems all but 
+impenetrable.  Myriad's of flying, biting insects swarm around you, and 
+the air is laden with moisture.  A cacophony of sounds fills the erupt at 
+regular frequencies, and though most seem bird-like in nature, an 
+occasional low pitched grunt brings on a deep ancestral forboding.
+~
+JUNGLE NOWAGON
+MCOL 32 MCHAR x
+#207
+NAME A gravel path~
+DSC The path is well kept and obviously well traveled.  It has been created with
+white and blue gravel..giving it a calming magic appearence.
+~
+CITY LAWFULL
+MCOL 135 MCHAR :
+#211
+NAME Sandy Dunes of a Beach~
+DSC You are on the beach.  The sand around you is veined with small streams of
+fresh water, flowing inexorably to the ocean beyond. Tiny snails abound in
+these streams, which spring from the rivers of the woodlands beside you.
+The waves lazily slap the shoreline, as if they were exhausted from their
+journeys. Pockets of beach grass cling tenaciously to clumps of sandy soil,
+with small, biting flys forming clouds around them.
+~
+HILLS NOWAGON
+MCOL 33 MCHAR .
+#213
+NAME An Overgrown Trail~
+DSC  Evidently there once was a trail here, but it has long since been 
+overgrown by grasses and brush.  You can still, however, make out it's 
+general course as it heads off into the distance.  Why a perfectly good 
+trail has fallen into such disuse is open to speculation.
+~
+FOREST NOWAGON
+MCOL 133 MCHAR :
+#214
+NAME A Frigid, Arctic Wasteland~
+DSC You are surrounded by a frozen, glacial landscape, whose vastness 
+defies the imagination.  The air is killing cold, and the apparent 
+absence of any combustible material, makes it seem all the colder.  
+Intermittently a shudder passes through the packed ice, and you wonder 
+what idiocy possessed you to travel here in the first place.
+~
+ARCTIC NOWAGON
+MCOL 37 MCHAR .
+#215
+NAME INTERNAL USE ONLY, DO NOT USE~
+DSC  This is used to tell code that this CONNECTS holoroom with normal 
+room. It is WHITE btw :)	
+~
+MCOL 37 MCHAR @
+#216
+NAME INTERNAL USE ONLY, FOR TRADING SHOPS~
+DSC This is not to be used, it is the template the code sets internally
+for trading shops in the holo area.
+~
+MCOL 37 MCHAR $
+#253
+NAME A Sheer Cliff Face~
+DSC A massive cliff rises up before you.  A dense veil of mist shrouds the
+top from view, but you can see several cave openings penetrating the rock
+wall.  A protruding ledge-like path extends from the cliff several dozen
+feet above you, it appears to slope downward to the east.
+~
+BLOCKING MOUNTAINS
+MCOL 137 MCHAR |
+#255
+NAME A Charred Area~
+DSC Here is a desolate scene of scorched earth, and old blackened tree 
+stumps, stretching out over the landscape like an illness.  The air is 
+still too still and quiet to be called peaceful, and your feet raise 
+small clouds of charred dust as you walk.  
+~
+FIELD
+MCOL 30 MCHAR x
+$

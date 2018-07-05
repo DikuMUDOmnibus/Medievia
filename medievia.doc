@@ -1,0 +1,957 @@
+<* Shalafi's Help Documentation for Offline Creation *>
+
+[MONSTER FILE FORMAT]
+  #<virtual number>
+  <namelist>(tilde)
+  <short description>(tilde)
+  <long description>
+  (tilde)
+  <description>
+  (tilde)
+  ACT <action flags> AFF <affection flags> ALI <alignment> CLA <mob class>
+  LEV <level> HRO <hitroll> ARM <AC> HIT <hit points> DAM <damage>
+  GOL <gold> EXP <exp>
+  POS <position> DPOS <default position> SEX <sex>
+  <Any Additional Tags>
+  #<virtual number>
+  .
+  .
+  .
+  #<arbitrary number>
+  $(tilde)
+
+
+[ACTION FLAGS]
+  ACT_SPEC       = 1          <FOR SPECIAL PROCEDURES>
+  ACT_SENTINEL   = 2          <MOB STAYS IN ROOM>
+  ACT_SCAVENGER  = 4          <MOB PICKS UP LOOSE ITEMS>
+  ACT_ISNPC      = 8
+  ACT_NICE_THIEF = 16         <DOESN'T ATTACK THIEVES WHO MISS STEAL>
+  ACT_AGGRESSIVE = 32         <ATTACKS PC UPON ENTERING ROOM>
+  ACT_STAY_ZONE  = 64         <MOB DOESN'T LEAVE ZONE>
+  ACT_WIMPY      = 128        <MOB ATTACKS SLEEPING PC>
+  
+[AFFECTION FLAGS]
+  AFF_BLIND            = 1       PROT_FROM_EVIL = 8192      INFARED    =
+  AFF_INVISIBLE        = 2       PARALYSIS      = 16384        33554432
+  AFF_DETECT_EVIL      = 4       MORDENS_SWORD  = 32768     THIEF      =
+  AFF_DETECT_INVISIBLE = 8       FLAMING_SWORD  = 65536        67108864
+  AFF_DETECT_MAGIC     = 16      SLEEP          = 131072    FLY        =
+  AFF_SENSE_LIFE       = 32      DODGE          = 262144       268435456
+  AFF_SANCTUARY        = 128     SNEAK          = 524288    FIRESHIELD =
+  AFF_HOLD             = 256     HIDE           = 1048576      1073741824
+  AFF_NOCHARM          = 512     FEAR           = 2097152
+  AFF_GROUP            = 1024    CHARM          = 4194304
+  AFF_NOSLEEP          = 2048    FOLLOW         = 8388608
+  AFF_POISON           = 4096    WIMPY          = 16777216
+
+[ALIGNMENT]
+  Alignment ranges from 1000 to -1000
+  1000 = Divinely Good, -1000 = Pure Evil
+  Can be in the form # or #d#+#
+
+[MOB CLASS]
+  Mob class must be one of the following: C, M, W, T, or O
+  C = Cleric, M = Mage, W = Warrior, T = Thief, O = Other
+  An O class mob will be vertually stupid, using no special skills
+
+[HITROLL]
+  Thac0 of a mob is based on its level.  The hitroll field is used
+  increase or decrease the given value.
+  Can be in the form # or #d#+#
+
+[HIT POINTS]
+  Hit Points are in the format of xdy+z
+  i.e. 5d10+500
+
+[DAMAGE]
+  Damage Dice are in the format of xdy+z
+  i.e. 10d5+80 (This mob will KICK BUTT)
+
+[GOLD]
+  Amount of gold coins on the mob.
+  Can be in the form # or #d#+#
+
+[EXP]
+  Amount of experience points the mob is worth.
+  Can be in the form # or #d#+#
+
+[POSITION]
+  This is the position the mobile enters the game in.
+
+  POSITION_DEAD     = 0
+  POSITION_MORTALLYW= 1
+  POSITION_INCAP    = 2
+  POSITION_STUNNED  = 3
+  POSITION_SLEEPING = 4
+  POSITION_RESTING  = 5
+  POSITION_SITTING  = 6
+  POSITION_FIGHTING = 7
+  POSITION_STANDING = 8
+
+[DEFAULT POSITION]
+  This is the position the mobile is in after it changes from it's
+  POSITION.  Use the same numbers as above.
+  Note: These two numbers are usually both 8, and the second is
+        almost ALWAYS 8.
+
+[SEX]
+  SEX_NEUTRAL = 0
+  SEX_MALE    = 1
+  SEX_FEMALE  = 2
+
+[Additional Tags]
+  STR  STRENGTH		# or #d#+#
+  INT  INTELIGENCE	# or #d#+#
+  WIS  WISDOM		# or #d#+#
+  DEX  DEXTERITY	# or #d#+#
+  CON  CONSTITUTION	# or #d#+#
+  !KIC  Cannot be kicked		MOUNT  mob is ridable
+  !BAC  Cannot be Backstabbed		FLY    mob can fly in wilderness
+  !TRI  Cannot be tripped
+  !BAS  Cannot be Bashed
+  !CHA  Cannot be charged
+  !DIS  Cannot be disarmed
+  !THR  Cannot be Thrown againt
+  !SOL  Cannot be hit by solid objects(swords, punched, kicked, hit etc)
+-------------------------------------------------------------------------
+
+[NOTES]
+
+If mobile needs more than one affection_flag or action_flag, add the #'s.
+For example, if you want a mobile to be both sancted and have sense life,
+the affection_flag # would be 160.
+
+For virtual numbers, talk to Shalafi before you start so he can find you an 
+open slot.
+
+Hitpoints and Damage are in form of xdy+z.  This means you roll an x different
+y-sided die and add the value of z to determine the hps or damage.  For
+example, if a mobiles hps are 5d5+200, then his minimum hps are 205, and max
+hps are 225.
+
+AC is Armor Class, and it is in 10's.  Thus, if you want your mobile to have
+-100 ac, you write -10, if you want a 70 ac, you write a 7.
+
+
+[EXAMPLE]
+
+#5501
+green alligator gator(tilde)
+A green alligator(tilde)
+A green alligator is lying here on the ground, growling at you viciously.
+(tilde)
+      You see a huge green beast lurking it he waters of the swamp.  It
+looks at you for a while, and then gives you a horrible toothy grin.
+(tilde)
+ACT 1058 AFF 1572684 ALI 0 CLA O
+LEV 20 HRO 3 ARM 2 HIT 2d2+685 DAM 4d4+9
+GOL 0 EXP 1000d100+150000
+POS 8 DPOS 8 SEX 0
+!TRI STR 18
+
+Remember, substitute a tilde for the (tilde).  The only reason I didn't put the
+tilde in is because it would be stripped if I mailed a file with a tilde as
+the first char of the line. =)
+
+<* Shalafi's Help Documentation for Offline Creation *>
+
+[OBJECT FILE FORMAT]
+  #<virtual number>
+  <namelist>(tilde)
+  <short description>(tilde)
+  <long description>(tilde)
+  (tilde)
+  TYP <type flag> EXT <extra flag> WEA <wear flag>
+  VAL <value 0> <value 1> <value 2> <value 3>
+  WGT <weight> COS <value> CPD <cost/day>
+  LOO <keyword-list>(tilde)
+  <extra description>
+  (tilde)
+  AFF<location> <modifier>
+  #<virtual number>
+  .
+  .
+  .
+  #<arbitrary number>
+  $(tilde)
+
+[TYPE FLAG]
+  ITEM_LIGHT     = 1
+  ITEM_SCROLL    = 2
+  ITEM_WAND      = 3
+  ITEM_STAFF     = 4
+  ITEM_WEAPON    = 5
+  ITEM_FIREWEAPON= 6          <NOT IN>
+  ITEM_MISSILE   = 7          <NOT IN>
+  ITEM_TREASURE  = 8
+  ITEM_ARMOR     = 9
+  ITEM_POTION    = 10
+  ITEM_WORN      = 11
+  ITEM_OTHER     = 12
+  ITEM_TRASH     = 13
+  ITEM_TRAP      = 14         <NOT IN>
+  ITEM_CONTAINER = 15
+  ITEM_NOTE      = 16
+  ITEM_DRINKCON  = 17
+  ITEM_KEY       = 18
+  ITEM_FOOD      = 19
+  ITEM_MONEY     = 20
+  ITEM_PEN       = 21
+  ITEM_BOAT      = 22
+  ITEM_FLY       = 23
+
+[EXTRA FLAG]
+  ITEM_GLOW         = 1
+  ITEM_HUM          = 2
+  ITEM_DARK         = 4               <NOT IN>
+  ITEM_LOCK         = 8               <NOT IN>
+  ITEM_EVIL         = 16      
+  ITEM_INVISIBLE    = 32
+  ITEM_MAGIC        = 64
+  ITEM_NODROP       = 128
+  ITEM_BLESS        = 256
+  ITEM_ANTI_GOOD    = 512
+  ITEM_ANTI_EVIL    = 1024
+  ITEM_ANTI_NEUTRAL = 2048
+  ITEM_NO_RENT      = 4096
+
+[WEAR FLAG]
+  ITEM_TAKE        = 1
+  ITEM_WEAR_FINGER = 2
+  ITEM_WEAR_NECK   = 4
+  ITEM_WEAR_BODY   = 8
+  ITEM_WEAR_HEAD   = 16
+  ITEM_WEAR_LEGS   = 32
+  ITEM_WEAR_FEET   = 64
+  ITEM_WEAR_HANDS  = 128
+  ITEM_WEAR_ARMS   = 256
+  ITEM_WEAR_SHIELD = 512
+  ITEM_WEAR_ABOUT  = 1024
+  ITEM_WEAR_WAIST  = 2048
+  ITEM_WEAR_WRIST  = 4096
+  ITEM_WIELD       = 8192
+  ITEM_HOLD        = 16384
+  ITEM_THROW       = 32768
+
+[TYPE FLAG = ARMOR]
+  Value[0]: AC applied.
+  Value[1]: not used.
+  Value[2]: not used.
+  Value[3]: not used.
+
+[TYPE FLAG = WEAPON]
+  Value[0]: class/size
+  Value[1]: # of dice rolled for damage.
+  Value[2]: size of each dice rolled for damage.
+  Value[3]: weapontype
+    2:  WHIP
+    3:  SLASH
+    6:  CRUSH
+    7:  POUND
+    10: PIERCE <NOT BACKSTABBING>
+    11: PIERCE <BACKSTABBING>
+    14: HIT <AS IF BARE HANDED>
+
+[LOCATION]
+  APPLY_STR           = 1
+  APPLY_DEX           = 2
+  APPLY_INT           = 3
+  APPLY_WIS           = 4
+  APPLY_CON           = 5
+  APPLY_LEVEL         = 8     <PUT THIS IN AS FIRST MODIFIER IF YOU NEED IT>
+  APPLY_AGE           = 9     
+  APPLY_CHAR_WEIGHT   = 10
+  APPLY_CHAR_HEIGHT   = 11
+  APPLY_MANA          = 12
+  APPLY_HIT           = 13
+  APPLY_ARMOR         = 17    <NEGATIVE NUMBER IS BETTER FOR THE PC>
+  APPLY_HITROLL       = 18
+  APPLY_DAMROLL       = 19
+  APPLY_SAVING_PARA   = 20    <NEGATIVE NUMBER IS BETTER FOR THE PC>
+  APPLY_SAVING_ROD    = 21    <NEGATIVE NUMBER IS BETTER FOR THE PC>
+  APPLY_SAVING_PETRI  = 22    <NEGATIVE NUMBER IS BETTER FOR THE PC>
+  APPLY_SAVING_BREATH = 23    <NEGATIVE NUMBER IS BETTER FOR THE PC>
+  APPLY_SAVING_SPELL  = 24    <NEGATIVE NUMBER IS BETTER FOR THE PC>
+
+[NOTES]
+
+If an object needs more than one extra_flag or wear_flag, add the #'s.
+For example, if you want a weapon to hum and glow, the extra_flag #
+would be 3.
+
+For virtual numbers, talk to Shalafi before you start so he can find you
+an open slot.
+
+Remember to make your item takeable if you want players to wear it.  For
+example, if your item is to be worn on the legs, the wear_flag should be
+33 (wear_flag for worn on legs is 33, wear_flag for takeable items is 1).
+
+If your item is a light, and you want it holdable as a light, use
+wear_flag 16385.
+
+If your item is type_armor, AC applied varies according to body location.
+For example, if you use AC apply 10 for a piece of armor worn on the legs,
+the actual player's AC will be modified by -20.  On the other hand, if
+your item is not of type_armor, and you want it to give AC, then the
+modifier 17 should be used (this is actual AC modified, so if you use
+the AC modifier for -10 AC, the player's AC will go down 10).
+
+If you want your item to be level restricted, that MUST be the first
+modifier.  If you have a level restriction, you can use two other 
+modifiers, but if you don't have a level restriction, you can still only
+use two modifiers.
+
+
+[EXAMPLES]
+
+#5501
+ivory staff(tilde)
+An Ivory Staff(tilde)
+An immaculately handcrafted ivory staff lies here.(tilde)
+(tilde)
+TYP 5 EXT 3 WEA 8193
+VAL 16 6 6 7
+WGT 15 COS 77000 CPD 10000
+LOO ivory staff(tilde)
+There is a painstakingly engraved seal of an alligator's tooth mounted upon
+the staff.
+(tilde)
+AFF 8 18
+AFF 1 3
+AFF 19 4
+#5525
+key skull(tilde)
+Skull Key(tilde)
+A large, well polished key made out of a human skull is lying here.(tilde)
+(tilde)
+TYP 18 EXT 1 WEA 1 
+VAL 2 1 0 0
+WGT 1 COS 1 CPD 1
+LOO key skull(tilde)
+A gleaming white key made out of the skull of some hapless victim is here.
+It has been polished quite thoroughly, and sanded off to a pristine finish.
+(tilde)
+
+Remember, substitute a (tilde) for the (tilde).  The only reason I didn't put the
+tilde in is because it would be stripped if I mailed the file with a tilde
+the first char of the line. =)
+
+<* Shalafi's Documentation for Offline Creation *>
+
+[OBJECT VALUES]
+
+This file is to go hand in hand with the document on object creation.
+
+ITEM_LIGHT (1)
+Value[0]: Not Used
+Value[1]: Not Used
+Value[2]: Number of hours the light can be used for. Zero hours means that
+          the light has gone out. A negative number will create an eternal
+          light source.
+Value[3]: Not Used
+
+
+ITEM_SCROLL (2)
+Value[0]: Level of the spell on the scroll.
+Value[1]: Which spell (see list somewhere around the end of file)
+Value[2]: Which spell
+Value[3]: Which spell
+  The values(1-3) are three (or less) different spells, mixed 'on' the scroll.
+  Unused spells should be set to -1.
+
+
+ITEM_WAND (3)
+Value[0]: Level of spell in wand.
+Value[1]: Max Charges (1..X)
+Value[2]: Charges Left
+Value[3]: Which spell in wand (see list somewhere around the end of file)
+
+
+ITEM_STAFF (4)
+Value[0]: Level of spell in staff.
+Value[1]: Max Charges (1..X)
+Value[2]: Charges Left
+Value[3]: Which spell in staff (see list somewhere around the end of file)
+
+
+ITEM_WEAPON (5)
+Value[0]: Class/Size
+          FLAGS:
+           1 = Anti-Mage
+           2 = Anti-Cleric
+           4 = Anti-Warrior
+           8 = Anti-Thief
+           16 = Two-Handed
+           32 = Dagger (This means that an item which is flagged !mage or
+                        !cleric CAN be wielded IF the character was a thief)
+Value[1]: Number of dice to roll for damage
+Value[2]: Size of dice to roll for damage
+Value[3]: The weapon type. Type is one of:
+
+         NUMBER  CATEGORY   Message type
+            2  : Slash         "whip/whips"
+            3  : Slash         "slash/slashes"
+
+            6  : Bludgeon      "crush/crushes"
+            7  : Bludgeon      "pound/pounds"
+
+           10  : Pierce        "pierce/pierces"
+           11  : Pierce        "pierce/pierces"
+
+           14  : Hit           "hit/hits"
+
+          New types will be added as needed.
+
+
+ITEM_FIREWEAPON (6)
+Value[0]: -
+Value[1]: -
+Value[2]: -
+Value[3]: -
+
+ITEM_MISSILE    (7)
+Value[0]: -
+Value[1]: -
+Value[2]: -
+Value[3]: -
+
+ITEM_TREASURE   (8)
+Value[0]: -
+Value[1]: -
+Value[2]: -
+Value[3]: -
+
+ITEM_ARMOR      (9)
+Value[0]: The effective AC. >0 enhances the armour class. <0 reduces the
+          the armour class (cursed armour for example).
+Value[1]: -
+Value[2]: -
+Value[3]: -
+
+ITEM_POTION    (10)
+Value[0]: Level of the spell in the potion.
+Value[1]: Which spell (Listed elsewhere in this file)
+Value[2]: Which spell
+Value[3]: Which spell
+  The values(1-3) are three (or less) different spells, mixed in the potion.
+  Unused spells should be set to -1.
+   Eg.
+   Value 0 : 30  (Level)
+   Value 1 : 27  (Harm)
+   Value 2 : 17  (Curse)
+   Value 3 :  4  (Blindness)
+     (* Don't drink this - It's bad for your health! *)
+
+
+ITEM_WORN      (11)
+Value[0]: -
+Value[1]: -
+Value[2]: -
+Value[3]: -
+
+ITEM_OTHER     (12)
+Value[0]: -
+Value[1]: -
+Value[2]: -
+Value[3]: -
+
+ITEM_TRASH     (13)
+Value[0]: -
+Value[1]: -
+Value[2]: -
+Value[3]: -
+
+ITEM_TRAP      (14)
+Value[0]: -
+Value[1]: -
+Value[2]: -
+Value[3]: -
+
+ITEM_CONTAINER (15)
+Value[0]: Maximum weight the container can contain.
+Value[1]: Container flags:
+
+   CLOSEABLE     1
+   PICKPROOF     2
+   CLOSED        4
+   LOCKED        8
+
+Value[2]: The item-number of the object which can open the object. -1 means
+          no lockability.
+Value[3]: Internal use for Corpses that must "rot".
+
+ITEM_NOTE      (16)
+Value[0]: Tounge (language of writing). Not yet used.
+Value[1]: -
+Value[2]: -
+Value[3]: -
+
+ITEM_DRINKCON  (17)
+Value[0]: Maximum drink-units the drink-container can contain.
+Value[1]: Number of drink-units that are left in the container.
+Value[2]: The type of liquid in the drink-container, one of:
+
+              Type           nr.    Effect
+                                    Drunkness   Fullness   Thirst
+
+              LIQ_WATER      0      0           1           10
+              LIQ_BEER       1      3           2           5
+              LIQ_WINE       2      5           2           5
+              LIQ_ALE        3      2           2           5
+              LIQ_DARKALE    4      1           2           5
+              LIQ_WHISKY     5      6           1           4
+              LIQ_LEMONADE   6      0           1           8
+              LIQ_FIREBRT    7      10          0           0
+              LIQ_LOCALSPC   8      3           3           3
+              LIQ_SLIME      9      0           4           -8
+              LIQ_MILK       10     0           3           6
+              LIQ_TEA        11     0           1           6
+              LIQ_COFFE      12     0           1           6
+              LIQ_BLOOD      13     0           2           -1
+              LIQ_SALTWATER  14     0           1           -2
+              LIQ_PEPSI      15     0           1           5
+
+          The above values for drunkness/fullness/thirst are used per 
+          four "units" drunk. The values are expressed in HOURS!
+          Example:
+            Dragon empties a bottle (say 7 units) of saltwater.
+            His Drunkness is not changed ((7/4)*0)
+            His Fullness increases by ((7/4)*1) hours
+            His Thirst increases by ((7/4)*-2) hours, thus making
+               him More thirsty.
+
+          The hours above are numbers between 0 and 24. 24 hours is
+          maximum for drunkness/fullness/thirst. When hours are zero
+          for any drunkness/fullness/thirst the person will be
+          sober, hungry, or thirsty respectively.
+
+Value[3]: if this value is non-zero, then the drink is poisoned.
+
+ITEM_KEY       (18)
+Value[0]: The key-type. This value must match the lock-type the door
+          that the key can open. 
+Value[1]: - Number of Uses (0 indicates unlimited useage)
+Value[2]: -
+Value[3]: -
+
+ITEM_FOOD      (19)
+Value[0]: The number of hours, that this food will fill the stomach
+Value[1]: -
+Value[2]: -
+Value[3]: If this value is non-zero, the food is poisoned.
+
+ITEM_MONEY     (20)
+Value[0]: The number of gold coins "in the pile of coins".
+Value[1]: -
+Value[2]: -
+Value[3]: -
+
+ITEM_PEN       (21)
+Value[0]: -
+Value[1]: -
+Value[2]: -
+Value[3]: -
+
+ITEM_BOAT      (22)
+Value[0]: 
+Value[1]: 
+Value[2]: 
+Value[3]: 
+
+ITEM_FLY       (23)
+Value[0]: 
+Value[1]: 
+Value[2]: 
+Value[3]: 
+
+ITEM_MAGIC     (24)
+Value[0]: level of spell casted by the object
+Value[1]: max number of charges per day
+Value[2]: current number of charges
+Value[3]: spell # (from list of spells)
+
+
+-------------------------------------------------------------------------
+The Y/N rows below indicate which potions/scrolls/wands/staffs that are
+possible to make. The MIN_LEV is the Minimum Level DEMANDED by the item
+you are making. The game will crash if making level less than demanded.
+
+-------------------------------------------------------------------------
+                                   POTION  SCROLL  WAND  STAFF   MIN_LEV
+TYPE_UNDEFINED               -1      Y       Y      Y      Y        -
+SPELL_RESERVED_DBC            0      N       N      N      N        -
+SPELL_ARMOR                   1      Y       Y      Y      N        >0
+SPELL_TELEPORT                2      Y       Y      Y      Y        >0
+SPELL_BLESS                   3      Y       Y      Y      N        ...
+SPELL_BLINDNESS               4      Y       Y      Y      Y
+SPELL_BURNING_HANDS           5      N       N      N      N        == 5
+SPELL_CALL_LIGHTNING          6      Y       Y      N      Y        >=12
+SPELL_CHARM_PERSON            7      N       Y      N      Y
+SPELL_CHILL_TOUCH             8      N       N      N      N        == 3
+SPELL_CLONE                   9      Y       Y      Y      N
+SPELL_COLOUR_SPRAY           10      N       Y      Y      N        ==11
+
+SPELL_CONTROL_WEATHER        11      N       N      N      N
+SPELL_CREATE_FOOD            12      N       Y      N      N
+SPELL_CREATE_WATER           13      N       N      N      N
+SPELL_CURE_BLIND             14      Y       N      N      Y
+SPELL_CURE_CRITIC            15      Y       N      N      Y
+SPELL_CURE_LIGHT             16      Y       N      N      Y
+SPELL_CURSE                  17      Y       Y      N      Y
+SPELL_DETECT_EVIL            18      Y       N      N      Y
+SPELL_DETECT_INVISIBLE       19      Y       N      N      Y
+SPELL_DETECT_MAGIC           20      Y       N      N      Y
+
+SPELL_DETECT_POISON          21      Y       Y      N      N
+SPELL_DISPEL_EVIL            22      Y       Y      Y      Y       == 10
+SPELL_EARTHQUAKE             23      N       Y      N      Y       == 7
+SPELL_ENCHANT_WEAPON         24      N       Y      N      N
+SPELL_ENERGY_DRAIN           25      Y       Y      Y      Y       == 13
+SPELL_FIREBALL               26      N       Y      Y      N       == 15
+SPELL_HARM                   27      Y       N      N      Y       == 15
+SPELL_HEAL                   28      Y       N      N      Y
+SPELL_INVISIBLE              29      Y       Y      Y      Y
+SPELL_LIGHTNING_BOLT         30      N       Y      Y      N       == 9
+
+SPELL_LOCATE_OBJECT          31      N       N      N      N
+SPELL_MAGIC_MISSILE          32      N       Y      Y      N       == 1
+SPELL_POISON                 33      Y       N      N      Y
+SPELL_PROTECT_FROM_EVIL      34      Y       Y      Y      Y
+SPELL_REMOVE_CURSE           35      Y       Y      N      Y
+SPELL_SANCTUARY              36      Y       Y      N      Y
+SPELL_SHOCKING_GRASP         37      N       N      N      N       == 7
+SPELL_SLEEP                  38      Y       Y      Y      Y
+SPELL_STRENGTH               39      Y       Y      N      Y
+SPELL_SUMMON                 40      N       N      N      N
+
+SPELL_VENTRILOQUATE          41      N       N      N      N
+SPELL_WORD_OF_RECALL         42      Y       Y      Y      Y
+SPELL_REMOVE_POISON          43      Y       N      N      Y
+SPELL_SENCE_LIFE             44      Y       N      N      Y
+
+SPELL_IDENTIFY              *53*     N       Y      N      N
+SPELL_FIRESHIELD            *82*
+SPELL_BREATHE WATER         *86*
+
+===========================================================================
+
+
+<* Shalafi's Documentation for Offline Creation *>
+
+[FORMAT OF ZONE FILE]
+  #<zone number>
+  <name>~
+  <top of zone> <lifespan> <reset mode> <medlink?>
+  <X-coordinate> <Y-coordinate> <recall room>
+  <command>
+  .
+  .
+  .
+  <command>
+  S
+  #<zone number>
+  .
+  .
+  .
+  #<clincher number>
+  $~
+
+[TOP OF ZONE]
+  vnum of the room which dead PCs will appear after the Necromancer takes
+  their spirit.
+
+[LIFESPAN]
+  number of tics between zone repops
+
+[RECALL ROOM]
+  vnum of the room which PCs will appear in when they cast word of recall.
+  Note:  This is used for towns for the most part.  See HELP WORD OF RECALL
+         for more information on how this will affect your zone.
+
+[X-COORDINATE] & [Y-COORDINATE]
+  make these both 0, Shalafi will fill them in.
+
+[MEDLINK?]
+  this field is either a 0 or 1.  0 means characters can not use the LINK
+  command within the zone to go to MEDlink.  1 means they can.
+
+[RESET MODE]
+  0: Don't reset the zone at all.
+  1: Reset the zone when no players are located in the zone.
+  2: Reset the zone regardless of anything.
+
+[COMMAND]
+  {loading mobiles}
+    Format: M <if-flag> <mobile nr> <max existing> <room nr>
+      [IF-FLAG]
+        0 = Load regardless of anything.
+        1 = Load only if previous command loaded.
+
+  {loading objects}
+    Format: O <if-flag> <object nr> <max existing> <room nr>
+
+  {giving object to mobile previously referenced}
+    Format: G <if-flag> <object nr> <max existing>
+
+  {making mobiles equip objects}
+    Format: E <if-flag> <object nr> <max existing> <equip position>
+
+      [EQUIP POSITION]
+        WEAR_LIGHT    = 0
+        WEAR_FINGER_R = 1
+        WEAR_FINGER_L = 2
+        WEAR_NECK_1   = 3
+        WEAR_NECK_2   = 4
+        WEAR_BODY     = 5
+        WEAR_HEAD     = 6
+        WEAR_LEGS     = 7
+        WEAR_FEET     = 8
+        WEAR_HANDS    = 9
+        WEAR_ARMS     = 10
+        WEAR_SHIELD   = 11
+        WEAR_ABOUT    = 12
+        WEAR_WAIST    = 13
+        WEAR_WRIST_R  = 14
+        WEAR_WRIST_L  = 15
+        WIELD         = 16
+        HOLD          = 17
+
+  {equiping items on a mob SOMETIMES}
+    Format: W <if-flag> <object nr> <max existing> <equip position> <% chance>
+      This command works just like the E commands, except it only equips
+      something if it passes the percentile test.
+
+  {loading object_nr1 and placing in object_nr2}
+    Format: P <if-flag> <object_nr1> <max existing> <object_nr2>
+
+  {setting state of doors}
+    Format: D <if-flag> <room nr> <exit nr> <state>
+      [STATE]
+        0 = open.
+        1 = closed.
+        2 = closed and locked.
+
+[EXIT NUMBER]
+  0 = North
+  1 = East
+  2 = South
+  3 = West
+  4 = Up
+  5 = Down
+
+  {removing an object from a room}
+    Format: R <if-flag> <room_nr> <object_nr>
+
+
+[NOTES]
+
+Use the if-flag 1 whenever giving an object to a mobile that is loaded the
+previous line or equipping an object.  Also, use the if-flag 1 whenever
+putting an object within another object.
+
+The max-existing for mobiles and objects should be the same for each line
+that loads them, it is the max # of that mob or obj that can be in the game
+at a time.  If there are less than that # at a reset, the game will execute
+a line loading more.  If there are exactly that max or more, then the game
+will not load any more of those mobs/objs.
+
+If you want to load more than one of a certain type of mobile or object,
+you must rewrite that line for each one you want the mud to load.
+
+The top of zone is the first room in the zone.  The lifespan is the number
+of ticks before the zone is reset.
+
+Please include a comment after each command line telling us what the command
+does.  You only need this comment on the first command if you're just using
+that command multiple times.
+
+Doors have to be closed on both sides, from each room they are attached on.
+If you close only on one side, the other side will remain open.
+
+[EXAMPLE]
+
+Let's say you want to make a door in room #5501 that leads west to be 
+closed at every reset, regardless of the command before it, you would write:
+
+D 0 5501 3 1		Set door west from 5501 to closed.
+
+
+If you want to load the mobile #5501 to room #5503, and have only 3 maximum
+existing in the game at one time, and you want it to load regardless of the
+previous command, you write:
+
+M 0 5501 3 5503		Green Alligator to room 5503
+
+=============================================================================
+
+<* World Creation *>
+
+[WORLD FILE FORMAT]
+
+#<Virtual Number>
+<Room Title>(tilde)
+<Room Description>
+(tilde)
+<zone number> <room flags> <sector type> 0
+<class restriction> <level restriction> <alignment restriction> <mount flag>
+<move modifier> <pressure mod> <temperature mod>
+D<exit number>
+<look message>
+(tilde)
+<door name list>(tilde)
+<exit message>(tilde)
+<remote entrance message>(tilde)
+<door_type flag> <door key number> <link number>
+E
+<extra name list>(tilde)
+extra description
+(tilde)
+S
+#<Virtual number>
+.
+.
+.
+#19999
+$(tilde)
+
+
+[ROOM FLAGS]
+
+DARK = 1	Can only see if holding a light source
+DEATH = 2	Can not flee INTO a room with this flag
+	{Note: To make a DEATH TRAP, it must be specified in the code,
+	       not in this wld file}
+NO_MOB = 4	Wandering mobs can not walk into this room
+INDOORS = 8     Weather does not affect this room
+PLAYERKILL
+  LAWFUL = 16	{Note: See player killing FAQs on the mud for information
+  NEUTRAL = 32	       concerning differences in these areas.}
+  CHAOTIC = 64
+TUNNEL = 256	Only one PC and one NPC may be in this room at once
+PRIVATE = 512	People can not teleport into this room, and players can
+		not summon one another from this room
+GODPROOF = 2048	No one can teleport or "poof" into this room.  Gods can
+		also not snoop players in this room.  A players location
+		on WHERE shows up as "Somewhere" when in a godproof room
+FIRE = 8192	PCs take fire damage every few seconds if not protected
+GAS = 16384     PCs take gas damage every few seconds if not protected
+COLD = 32768    PCs take gas damage every few seconds if not protected
+HOME = 65536    Can have a gohome to this room
+NO_SUMMON = 131072   Can't be summoned to or from this room
+DRINKROOM = 262144   You can drink water from this room or fill water
+                     containers (i.e. a river or lake is in the room)
+CHURCH = 524288      PCs can pray in this room to become alive if they are
+                     undead
+
+[SECTOR TYPE]
+
+INDOORS = 0		inside a building or cave or the like
+CITY = 1		in a larger city, there is always light in this room
+FIELD = 2		walking across a flat field
+FOREST = 3		wandering through an unsettled area
+HILLS = 4		hiking through foothills
+MOUNTAINS = 5		climbing through mountains
+WATER_SWIM = 6		walking through water, no need for a boat
+WATER_NO_SWIM = 7	need to be on a boat or flying
+DESERT = 8		trudging through a hot desert
+UNDERWATER = 9		need the breathe water spell
+AIR = 10		need fly eq or a flying mount, not the spell
+SWAMP = 11		a murky swamp
+JUNGLE = 12		a hot, misty jungle
+ARCTIC = 13		frigid icy wasteland
+MANA = 14		high mana regeneration room
+
+{Movement used to walk from room to room, and mana regeneration per tic
+ increases with each higher sector type}
+
+[CLASS RESTRICTION]
+
+Disallow Thieves = 1
+Disallow Mages = 2
+Disallow Clerics = 4
+Disallow Warriors = 8
+
+[LEVEL RESTRTICTION]
+
+It is best to set this from within the mud.
+
+[ALIGNMENT RESTRICTION]
+
+[MOUNT]
+
+This feature is not working yet, use 0
+
+[MOVEMENT MODIFIER]
+
+The amount of extra movement points it requires to enter/exit this room.
+A negative modifier GIVES the player movement points back.
+
+[PRESSURE MODIFIER]
+
+This feature reserved for special code, always use 0
+
+[TEMPERATURE MODIFIER]
+
+This feature reserved for special code, always use 0
+
+[EXIT NUMBER]
+
+0 = North
+1 = East
+2 = South
+3 = West
+4 = Up
+5 = Down
+
+[LOOK MESSAGE]
+
+What a player sees when they look in this direction. i.e. "look north"
+
+[DOOR NAME LIST]
+
+If there's a door (open-closeable), these are the words that can be used
+to refer to this door.  i.e. "door gate wooden"
+	{No commas are used to seperate words in the name list}
+
+[EXIT MESSAGE]
+
+The message everyone in the room sees when a player or mob leaves via this
+exit.
+	$n = player or mob's name
+	$e = he/she/it (depending on player's sex)
+	$s = his/her/its (depending on player's sex)
+	$m = him/her/it (depending on the player's sex)
+		{$n MUST be used at least once in the exit message for
+		 it to work}
+
+[REMOTE ENTRANCE MESSAGE]
+
+The message the NEXT room sees when a player arrives via this exit
+	{variables from exit message apply here}
+
+[DOOR_TYPE FLAG]
+
+No open/closeable door {An open doorway or a forest path} = 0
+Pickable door = 1
+Pick proof door = 2
+
+[KEY NUMBER]
+
+Vnum of the obj which can lock/unlock this door
+
+[LINK NUMBER]
+
+Vnum of the room this exit connects to
+	{This does NOT make a two-way exit}
+
+[EXTRA NAME LIST]
+
+name(s) of something that you can "look at" within the room.  Like a table
+or other detail that you wish to add.
+
+[EXTRA DESCRIPTION]
+
+description of the detail you can look at
+
+{There can be more than one extra descrtipion in each room.}

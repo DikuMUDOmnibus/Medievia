@@ -1,0 +1,34 @@
+                   . .. ... The Medievia ... .. .
+ 
+            _|         _|  _|_|_|_  _|       _|  _|_|_|_|_|
+           _| _|      _|  _|       _|       _|  _|
+          _|   _|    _|  _|_|_|   _|       _|  _|_|_|_|_|   
+         _|     _|  _|  _|       _|  _    _|          _|    
+        _|       _|_|  _|       _| _| _| _|          _|       
+       _|         _|  _|_|_|_| _|_|    _|   _|_|_|_|_|              
+                                             Updated January 13, 1996
+------------------------------------------------------------------------------
+
+Welcome playtesters!  Please report all bugs to a god.....  You are not
+allowed to discuss medievia iv to non testers.  The reason behind this is
+medievia iv is not done.  While a lot of the code is done a LOT of balancing
+must be done with freight, economy etc...  You are not here to judge
+medievia iv in any way as it is not at that stage yet.  With your help we
+will get there ASAP.  
+
+Things that need to be done BADLY....
+	mobs loading in wilderness
+	more survey data entered
+	more stables and mounts
+	more wilderness room descriptions
+	NEW weather
+	Mudslinger trading section code (realtime that shows where to sell stuff
+										for a lot of money)
+	Ability to use someones discarded freight and tradables
+	new HIDE module
+	Many Many details like objects in wilderness, special procedures...
+
+Remember your not here to level...all you do here will be wiped.  Please
+help us test the playability of the mud...so we can balance things.  Expect
+many many crashes.  It will take a while to get bug free.
+
